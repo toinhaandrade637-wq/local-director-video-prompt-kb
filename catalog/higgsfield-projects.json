@@ -31,7 +31,8 @@
   },
   "bytes_gz": 14256881,
   "prompts_path": "sources/higgsfield/prompts/VENGEANCE_IS_MINE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/VENGEANCE_IS_MINE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ONEIRIC",
@@ -67,7 +68,8 @@
   },
   "bytes_gz": 2438280,
   "prompts_path": "sources/higgsfield/prompts/ONEIRIC/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONEIRIC/"
+  "docs_path": "sources/higgsfield/projects/ONEIRIC/",
+  "has_docs": true
  },
  {
   "project": "CULLY_HILL_BOYS",
@@ -85,7 +87,8 @@
   "models": {},
   "bytes_gz": 3563938,
   "prompts_path": "sources/higgsfield/prompts/CULLY_HILL_BOYS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CULLY_HILL_BOYS/"
+  "docs_path": "sources/higgsfield/projects/CULLY_HILL_BOYS/",
+  "has_docs": true
  },
  {
   "project": "KOK_BORU_FILM",
@@ -110,7 +113,8 @@
   },
   "bytes_gz": 7142267,
   "prompts_path": "sources/higgsfield/prompts/KOK_BORU_FILM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/KOK_BORU_FILM/"
+  "docs_path": "sources/higgsfield/projects/KOK_BORU_FILM/",
+  "has_docs": true
  },
  {
   "project": "DETOUR",
@@ -124,9 +128,9 @@
   "categories": {
    "scenes": 706,
    "characters": 509,
+   "assets": 391,
    "locations": 304,
-   "props": 263,
-   "assets": 391
+   "props": 263
   },
   "result_types": {
    "video": 829,
@@ -148,7 +152,8 @@
   },
   "bytes_gz": 1737688,
   "prompts_path": "sources/higgsfield/prompts/DETOUR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DETOUR/"
+  "docs_path": "sources/higgsfield/projects/DETOUR/",
+  "has_docs": true
  },
  {
   "project": "HELL_GRIND",
@@ -160,9 +165,9 @@
   "prompts": 1861,
   "chars": 11989948,
   "categories": {
+   "all": 770,
    "scenes": 594,
-   "assets": 497,
-   "all": 770
+   "assets": 497
   },
   "result_types": {
    "video": 600,
@@ -180,7 +185,8 @@
   },
   "bytes_gz": 2219724,
   "prompts_path": "sources/higgsfield/prompts/HELL_GRIND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HELL_GRIND/"
+  "docs_path": "sources/higgsfield/projects/HELL_GRIND/",
+  "has_docs": true
  },
  {
   "project": "CHARLIE_BOY",
@@ -211,7 +217,8 @@
   },
   "bytes_gz": 2798375,
   "prompts_path": "sources/higgsfield/prompts/CHARLIE_BOY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CHARLIE_BOY/"
+  "docs_path": "sources/higgsfield/projects/CHARLIE_BOY/",
+  "has_docs": true
  },
  {
   "project": "ADILIADA",
@@ -223,8 +230,8 @@
   "prompts": 1698,
   "chars": 9853928,
   "categories": {
-   "scenes": 292,
-   "all": 1406
+   "all": 1406,
+   "scenes": 292
   },
   "result_types": {
    "video": 228,
@@ -243,7 +250,8 @@
   },
   "bytes_gz": 1746695,
   "prompts_path": "sources/higgsfield/prompts/ADILIADA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ADILIADA/"
+  "docs_path": "sources/higgsfield/projects/ADILIADA/",
+  "has_docs": true
  },
  {
   "project": "APEIROPHOBIA",
@@ -271,7 +279,8 @@
   },
   "bytes_gz": 1790052,
   "prompts_path": "sources/higgsfield/prompts/APEIROPHOBIA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/APEIROPHOBIA/"
+  "docs_path": "sources/higgsfield/projects/APEIROPHOBIA/",
+  "has_docs": true
  },
  {
   "project": "ONE_THE_MERCY_LEDGER",
@@ -295,7 +304,8 @@
   },
   "bytes_gz": 3443533,
   "prompts_path": "sources/higgsfield/prompts/ONE_THE_MERCY_LEDGER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_THE_MERCY_LEDGER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ANERNEQ",
@@ -326,7 +336,8 @@
   },
   "bytes_gz": 2723870,
   "prompts_path": "sources/higgsfield/prompts/ANERNEQ/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ANERNEQ/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CANE_MAN",
@@ -352,7 +363,8 @@
   },
   "bytes_gz": 4222131,
   "prompts_path": "sources/higgsfield/prompts/CANE_MAN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CANE_MAN/"
+  "docs_path": "sources/higgsfield/projects/CANE_MAN/",
+  "has_docs": true
  },
  {
   "project": "PASSPORT_RUSH",
@@ -383,7 +395,8 @@
   },
   "bytes_gz": 1444941,
   "prompts_path": "sources/higgsfield/prompts/PASSPORT_RUSH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PASSPORT_RUSH/"
+  "docs_path": "sources/higgsfield/projects/PASSPORT_RUSH/",
+  "has_docs": true
  },
  {
   "project": "VOICES_IN_THE_VOID",
@@ -413,7 +426,8 @@
   },
   "bytes_gz": 1841300,
   "prompts_path": "sources/higgsfield/prompts/VOICES_IN_THE_VOID/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/VOICES_IN_THE_VOID/"
+  "docs_path": "sources/higgsfield/projects/VOICES_IN_THE_VOID/",
+  "has_docs": true
  },
  {
   "project": "HARMONY",
@@ -452,7 +466,8 @@
   },
   "bytes_gz": 1090137,
   "prompts_path": "sources/higgsfield/prompts/HARMONY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HARMONY/"
+  "docs_path": "sources/higgsfield/projects/HARMONY/",
+  "has_docs": true
  },
  {
   "project": "4K_BLOCKBUSTER_BREAKDOWN",
@@ -484,7 +499,8 @@
   },
   "bytes_gz": 1129791,
   "prompts_path": "sources/higgsfield/prompts/4K_BLOCKBUSTER_BREAKDOWN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/4K_BLOCKBUSTER_BREAKDOWN/"
+  "docs_path": "sources/higgsfield/projects/4K_BLOCKBUSTER_BREAKDOWN/",
+  "has_docs": true
  },
  {
   "project": "AZTEC_REVOLT_ESCAPING_TENOCHTITLAN",
@@ -509,7 +525,8 @@
   },
   "bytes_gz": 2206077,
   "prompts_path": "sources/higgsfield/prompts/AZTEC_REVOLT_ESCAPING_TENOCHTITLAN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AZTEC_REVOLT_ESCAPING_TENOCHTITLAN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AZTEC_REVOLT",
@@ -538,7 +555,8 @@
   },
   "bytes_gz": 2200287,
   "prompts_path": "sources/higgsfield/prompts/AZTEC_REVOLT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AZTEC_REVOLT/"
+  "docs_path": "sources/higgsfield/projects/AZTEC_REVOLT/",
+  "has_docs": true
  },
  {
   "project": "I_CAN_CARRY_US_BOTH",
@@ -562,7 +580,8 @@
   },
   "bytes_gz": 651155,
   "prompts_path": "sources/higgsfield/prompts/I_CAN_CARRY_US_BOTH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/I_CAN_CARRY_US_BOTH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TYANPA",
@@ -595,7 +614,8 @@
   },
   "bytes_gz": 1287438,
   "prompts_path": "sources/higgsfield/prompts/TYANPA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TYANPA/"
+  "docs_path": "sources/higgsfield/projects/TYANPA/",
+  "has_docs": true
  },
  {
   "project": "SOULLESS",
@@ -628,7 +648,8 @@
   },
   "bytes_gz": 492943,
   "prompts_path": "sources/higgsfield/prompts/SOULLESS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SOULLESS/"
+  "docs_path": "sources/higgsfield/projects/SOULLESS/",
+  "has_docs": true
  },
  {
   "project": "FOUND_ME",
@@ -650,7 +671,8 @@
   },
   "bytes_gz": 1294232,
   "prompts_path": "sources/higgsfield/prompts/FOUND_ME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FOUND_ME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "A_LIFE",
@@ -678,7 +700,8 @@
   },
   "bytes_gz": 1766391,
   "prompts_path": "sources/higgsfield/prompts/A_LIFE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/A_LIFE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_COAT",
@@ -706,7 +729,8 @@
   },
   "bytes_gz": 1790200,
   "prompts_path": "sources/higgsfield/prompts/THE_COAT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_COAT/"
+  "docs_path": "sources/higgsfield/projects/THE_COAT/",
+  "has_docs": true
  },
  {
   "project": "THE_PROMPTER",
@@ -737,7 +761,8 @@
   },
   "bytes_gz": 1501018,
   "prompts_path": "sources/higgsfield/prompts/THE_PROMPTER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_PROMPTER/"
+  "docs_path": "sources/higgsfield/projects/THE_PROMPTER/",
+  "has_docs": true
  },
  {
   "project": "THE_TRIGGER",
@@ -772,7 +797,8 @@
   },
   "bytes_gz": 766002,
   "prompts_path": "sources/higgsfield/prompts/THE_TRIGGER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_TRIGGER/"
+  "docs_path": "sources/higgsfield/projects/THE_TRIGGER/",
+  "has_docs": true
  },
  {
   "project": "PROPHECY_IN_2047",
@@ -811,7 +837,8 @@
   },
   "bytes_gz": 826034,
   "prompts_path": "sources/higgsfield/prompts/PROPHECY_IN_2047/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PROPHECY_IN_2047/"
+  "docs_path": "sources/higgsfield/projects/PROPHECY_IN_2047/",
+  "has_docs": true
  },
  {
   "project": "IF_YOU_STOP_LOVING_ME",
@@ -829,7 +856,8 @@
   "models": {},
   "bytes_gz": 507767,
   "prompts_path": "sources/higgsfield/prompts/IF_YOU_STOP_LOVING_ME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/IF_YOU_STOP_LOVING_ME/"
+  "docs_path": "sources/higgsfield/projects/IF_YOU_STOP_LOVING_ME/",
+  "has_docs": true
  },
  {
   "project": "BORROWED_WOUNDS",
@@ -857,7 +885,8 @@
   },
   "bytes_gz": 545441,
   "prompts_path": "sources/higgsfield/prompts/BORROWED_WOUNDS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BORROWED_WOUNDS/"
+  "docs_path": "sources/higgsfield/projects/BORROWED_WOUNDS/",
+  "has_docs": true
  },
  {
   "project": "MARCEL_S_HEART",
@@ -880,7 +909,8 @@
   },
   "bytes_gz": 1105632,
   "prompts_path": "sources/higgsfield/prompts/MARCEL_S_HEART/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MARCEL_S_HEART/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "COUNT_OF_THREE",
@@ -908,7 +938,8 @@
   },
   "bytes_gz": 837026,
   "prompts_path": "sources/higgsfield/prompts/COUNT_OF_THREE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/COUNT_OF_THREE/"
+  "docs_path": "sources/higgsfield/projects/COUNT_OF_THREE/",
+  "has_docs": true
  },
  {
   "project": "DEATHS_FIRST_DAY",
@@ -944,7 +975,8 @@
   },
   "bytes_gz": 141181,
   "prompts_path": "sources/higgsfield/prompts/DEATHS_FIRST_DAY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DEATHS_FIRST_DAY/"
+  "docs_path": "sources/higgsfield/projects/DEATHS_FIRST_DAY/",
+  "has_docs": true
  },
  {
   "project": "PICK_ME",
@@ -969,7 +1001,8 @@
   },
   "bytes_gz": 242453,
   "prompts_path": "sources/higgsfield/prompts/PICK_ME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PICK_ME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "VELMORA_THE_FORGOTTEN_REALMS",
@@ -990,7 +1023,8 @@
   },
   "bytes_gz": 724890,
   "prompts_path": "sources/higgsfield/prompts/VELMORA_THE_FORGOTTEN_REALMS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/VELMORA_THE_FORGOTTEN_REALMS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SUNRISE_THE_PROLOGUE",
@@ -1012,7 +1046,8 @@
   },
   "bytes_gz": 1099058,
   "prompts_path": "sources/higgsfield/prompts/SUNRISE_THE_PROLOGUE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SUNRISE_THE_PROLOGUE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FIX",
@@ -1034,7 +1069,8 @@
   },
   "bytes_gz": 893411,
   "prompts_path": "sources/higgsfield/prompts/FIX/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FIX/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RED_FLAG",
@@ -1046,9 +1082,9 @@
   "prompts": 619,
   "chars": 1532859,
   "categories": {
+   "all": 414,
    "scenes": 178,
-   "assets": 27,
-   "all": 414
+   "assets": 27
   },
   "result_types": {
    "video": 175,
@@ -1063,7 +1099,8 @@
   },
   "bytes_gz": 421930,
   "prompts_path": "sources/higgsfield/prompts/RED_FLAG/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RED_FLAG/"
+  "docs_path": "sources/higgsfield/projects/RED_FLAG/",
+  "has_docs": true
  },
  {
   "project": "MADSEASON",
@@ -1091,7 +1128,8 @@
   },
   "bytes_gz": 600620,
   "prompts_path": "sources/higgsfield/prompts/MADSEASON/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MADSEASON/"
+  "docs_path": "sources/higgsfield/projects/MADSEASON/",
+  "has_docs": true
  },
  {
   "project": "A_YEAR_LATER",
@@ -1114,7 +1152,8 @@
   },
   "bytes_gz": 914907,
   "prompts_path": "sources/higgsfield/prompts/A_YEAR_LATER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/A_YEAR_LATER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SITARA",
@@ -1136,7 +1175,8 @@
   },
   "bytes_gz": 713920,
   "prompts_path": "sources/higgsfield/prompts/SITARA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SITARA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ONE_SMALL_BITE",
@@ -1166,7 +1206,8 @@
   },
   "bytes_gz": 294369,
   "prompts_path": "sources/higgsfield/prompts/ONE_SMALL_BITE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_SMALL_BITE/"
+  "docs_path": "sources/higgsfield/projects/ONE_SMALL_BITE/",
+  "has_docs": true
  },
  {
   "project": "RORAIMA",
@@ -1196,7 +1237,8 @@
   },
   "bytes_gz": 663871,
   "prompts_path": "sources/higgsfield/prompts/RORAIMA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RORAIMA/"
+  "docs_path": "sources/higgsfield/projects/RORAIMA/",
+  "has_docs": true
  },
  {
   "project": "HALVER",
@@ -1226,7 +1268,8 @@
   },
   "bytes_gz": 883098,
   "prompts_path": "sources/higgsfield/prompts/HALVER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HALVER/"
+  "docs_path": "sources/higgsfield/projects/HALVER/",
+  "has_docs": true
  },
  {
   "project": "BUZKASHI",
@@ -1251,7 +1294,8 @@
   },
   "bytes_gz": 180425,
   "prompts_path": "sources/higgsfield/prompts/BUZKASHI/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BUZKASHI/"
+  "docs_path": "sources/higgsfield/projects/BUZKASHI/",
+  "has_docs": true
  },
  {
   "project": "VARMINTS",
@@ -1280,7 +1324,8 @@
   },
   "bytes_gz": 466731,
   "prompts_path": "sources/higgsfield/prompts/VARMINTS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/VARMINTS/"
+  "docs_path": "sources/higgsfield/projects/VARMINTS/",
+  "has_docs": true
  },
  {
   "project": "DOMINIO",
@@ -1310,7 +1355,8 @@
   },
   "bytes_gz": 1213656,
   "prompts_path": "sources/higgsfield/prompts/DOMINIO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DOMINIO/"
+  "docs_path": "sources/higgsfield/projects/DOMINIO/",
+  "has_docs": true
  },
  {
   "project": "31_AUGUST",
@@ -1334,7 +1380,8 @@
   },
   "bytes_gz": 480841,
   "prompts_path": "sources/higgsfield/prompts/31_AUGUST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/31_AUGUST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "STONE_GATE",
@@ -1355,7 +1402,8 @@
   },
   "bytes_gz": 700524,
   "prompts_path": "sources/higgsfield/prompts/STONE_GATE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/STONE_GATE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_GOLDEN_TREE",
@@ -1375,7 +1423,8 @@
   },
   "bytes_gz": 283178,
   "prompts_path": "sources/higgsfield/prompts/THE_GOLDEN_TREE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_GOLDEN_TREE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "VARMINTS_LAS_BODAS_DEL_RIO",
@@ -1398,7 +1447,8 @@
   },
   "bytes_gz": 451229,
   "prompts_path": "sources/higgsfield/prompts/VARMINTS_LAS_BODAS_DEL_RIO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/VARMINTS_LAS_BODAS_DEL_RIO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CONTROL",
@@ -1428,7 +1478,8 @@
   },
   "bytes_gz": 1791679,
   "prompts_path": "sources/higgsfield/prompts/CONTROL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CONTROL/"
+  "docs_path": "sources/higgsfield/projects/CONTROL/",
+  "has_docs": true
  },
  {
   "project": "THE_PATCH",
@@ -1462,7 +1513,8 @@
   },
   "bytes_gz": 320501,
   "prompts_path": "sources/higgsfield/prompts/THE_PATCH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_PATCH/"
+  "docs_path": "sources/higgsfield/projects/THE_PATCH/",
+  "has_docs": true
  },
  {
   "project": "SIDE_B",
@@ -1483,7 +1535,8 @@
   },
   "bytes_gz": 619180,
   "prompts_path": "sources/higgsfield/prompts/SIDE_B/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SIDE_B/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DONT_POISON_IVY",
@@ -1508,7 +1561,8 @@
   },
   "bytes_gz": 2220596,
   "prompts_path": "sources/higgsfield/prompts/DONT_POISON_IVY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DONT_POISON_IVY/"
+  "docs_path": "sources/higgsfield/projects/DONT_POISON_IVY/",
+  "has_docs": true
  },
  {
   "project": "ZEPHYR",
@@ -1533,7 +1587,8 @@
   },
   "bytes_gz": 558337,
   "prompts_path": "sources/higgsfield/prompts/ZEPHYR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ZEPHYR/"
+  "docs_path": "sources/higgsfield/projects/ZEPHYR/",
+  "has_docs": true
  },
  {
   "project": "UNPROMPTED",
@@ -1563,7 +1618,8 @@
   },
   "bytes_gz": 366941,
   "prompts_path": "sources/higgsfield/prompts/UNPROMPTED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNPROMPTED/"
+  "docs_path": "sources/higgsfield/projects/UNPROMPTED/",
+  "has_docs": true
  },
  {
   "project": "THE_BOY_WHO_RODE_THE_WIND",
@@ -1587,7 +1643,8 @@
   },
   "bytes_gz": 503053,
   "prompts_path": "sources/higgsfield/prompts/THE_BOY_WHO_RODE_THE_WIND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_BOY_WHO_RODE_THE_WIND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CLEAR_INTENTION",
@@ -1625,7 +1682,8 @@
   },
   "bytes_gz": 1327156,
   "prompts_path": "sources/higgsfield/prompts/CLEAR_INTENTION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CLEAR_INTENTION/"
+  "docs_path": "sources/higgsfield/projects/CLEAR_INTENTION/",
+  "has_docs": true
  },
  {
   "project": "DK_BENEATH_THE_EARTH",
@@ -1647,7 +1705,8 @@
   },
   "bytes_gz": 681630,
   "prompts_path": "sources/higgsfield/prompts/DK_BENEATH_THE_EARTH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DK_BENEATH_THE_EARTH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "A_STRONG_CURRENT",
@@ -1673,7 +1732,8 @@
   },
   "bytes_gz": 200343,
   "prompts_path": "sources/higgsfield/prompts/A_STRONG_CURRENT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/A_STRONG_CURRENT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ORDINARY_DAY",
@@ -1699,7 +1759,8 @@
   },
   "bytes_gz": 756563,
   "prompts_path": "sources/higgsfield/prompts/ORDINARY_DAY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ORDINARY_DAY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "I_HATE_SCIENCE",
@@ -1735,7 +1796,8 @@
   },
   "bytes_gz": 759891,
   "prompts_path": "sources/higgsfield/prompts/I_HATE_SCIENCE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/I_HATE_SCIENCE/"
+  "docs_path": "sources/higgsfield/projects/I_HATE_SCIENCE/",
+  "has_docs": true
  },
  {
   "project": "ONE_HUNDRED",
@@ -1758,7 +1820,8 @@
   },
   "bytes_gz": 383575,
   "prompts_path": "sources/higgsfield/prompts/ONE_HUNDRED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_HUNDRED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "YIN_YANG_AGENCY_THUNDER_RISING",
@@ -1780,7 +1843,8 @@
   },
   "bytes_gz": 392817,
   "prompts_path": "sources/higgsfield/prompts/YIN_YANG_AGENCY_THUNDER_RISING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/YIN_YANG_AGENCY_THUNDER_RISING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TWO_DAYS",
@@ -1804,7 +1868,8 @@
   },
   "bytes_gz": 620345,
   "prompts_path": "sources/higgsfield/prompts/TWO_DAYS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TWO_DAYS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BIRTHDAYS",
@@ -1826,7 +1891,8 @@
   },
   "bytes_gz": 94972,
   "prompts_path": "sources/higgsfield/prompts/BIRTHDAYS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BIRTHDAYS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CHORNOS_THE_CHOSEN",
@@ -1852,7 +1918,8 @@
   },
   "bytes_gz": 870436,
   "prompts_path": "sources/higgsfield/prompts/CHORNOS_THE_CHOSEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CHORNOS_THE_CHOSEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FIVE_SECONDS",
@@ -1876,7 +1943,8 @@
   },
   "bytes_gz": 1161218,
   "prompts_path": "sources/higgsfield/prompts/FIVE_SECONDS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FIVE_SECONDS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MEMORY_WORLD",
@@ -1901,7 +1969,8 @@
   },
   "bytes_gz": 822274,
   "prompts_path": "sources/higgsfield/prompts/MEMORY_WORLD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MEMORY_WORLD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PRINCESS_GLOW_UP",
@@ -1933,7 +2002,8 @@
   },
   "bytes_gz": 1470947,
   "prompts_path": "sources/higgsfield/prompts/PRINCESS_GLOW_UP/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PRINCESS_GLOW_UP/"
+  "docs_path": "sources/higgsfield/projects/PRINCESS_GLOW_UP/",
+  "has_docs": true
  },
  {
   "project": "SUMMONED",
@@ -1957,7 +2027,8 @@
   },
   "bytes_gz": 474604,
   "prompts_path": "sources/higgsfield/prompts/SUMMONED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SUMMONED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "EYES_EARS",
@@ -1985,7 +2056,8 @@
   },
   "bytes_gz": 379186,
   "prompts_path": "sources/higgsfield/prompts/EYES_EARS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EYES_EARS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TENSORA",
@@ -2012,7 +2084,8 @@
   },
   "bytes_gz": 251711,
   "prompts_path": "sources/higgsfield/prompts/TENSORA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TENSORA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BESA",
@@ -2048,7 +2121,8 @@
   },
   "bytes_gz": 1196993,
   "prompts_path": "sources/higgsfield/prompts/BESA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BESA/"
+  "docs_path": "sources/higgsfield/projects/BESA/",
+  "has_docs": true
  },
  {
   "project": "S_T_E_V_E",
@@ -2068,7 +2142,8 @@
   },
   "bytes_gz": 216441,
   "prompts_path": "sources/higgsfield/prompts/S_T_E_V_E/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/S_T_E_V_E/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_OTHER_SIDE",
@@ -2088,7 +2163,8 @@
   },
   "bytes_gz": 379082,
   "prompts_path": "sources/higgsfield/prompts/THE_OTHER_SIDE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_OTHER_SIDE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HERO",
@@ -2111,7 +2187,8 @@
   },
   "bytes_gz": 369739,
   "prompts_path": "sources/higgsfield/prompts/HERO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HERO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TOMORROW_UNDER_REPAIR",
@@ -2132,7 +2209,8 @@
   },
   "bytes_gz": 423892,
   "prompts_path": "sources/higgsfield/prompts/TOMORROW_UNDER_REPAIR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TOMORROW_UNDER_REPAIR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_FAIREST_ONE",
@@ -2153,7 +2231,8 @@
   },
   "bytes_gz": 55692,
   "prompts_path": "sources/higgsfield/prompts/THE_FAIREST_ONE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_FAIREST_ONE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "METEM_PSYCHOSIS",
@@ -2178,7 +2257,8 @@
   },
   "bytes_gz": 105598,
   "prompts_path": "sources/higgsfield/prompts/METEM_PSYCHOSIS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/METEM_PSYCHOSIS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TEGAKI",
@@ -2200,7 +2280,8 @@
   },
   "bytes_gz": 591669,
   "prompts_path": "sources/higgsfield/prompts/TEGAKI/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TEGAKI/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_UNMAPPED",
@@ -2223,7 +2304,8 @@
   },
   "bytes_gz": 237557,
   "prompts_path": "sources/higgsfield/prompts/THE_UNMAPPED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_UNMAPPED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ISA",
@@ -2247,7 +2329,8 @@
   },
   "bytes_gz": 344100,
   "prompts_path": "sources/higgsfield/prompts/ISA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ISA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RUBY",
@@ -2268,7 +2351,8 @@
   },
   "bytes_gz": 455048,
   "prompts_path": "sources/higgsfield/prompts/RUBY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RUBY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_DIVERGION",
@@ -2296,7 +2380,8 @@
   },
   "bytes_gz": 973372,
   "prompts_path": "sources/higgsfield/prompts/THE_DIVERGION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_DIVERGION/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NATIVE",
@@ -2317,7 +2402,8 @@
   },
   "bytes_gz": 245123,
   "prompts_path": "sources/higgsfield/prompts/NATIVE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NATIVE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNDER_THE_SOFA",
@@ -2339,7 +2425,8 @@
   },
   "bytes_gz": 57507,
   "prompts_path": "sources/higgsfield/prompts/UNDER_THE_SOFA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNDER_THE_SOFA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ON_THIN_ICE",
@@ -2364,7 +2451,8 @@
   },
   "bytes_gz": 704918,
   "prompts_path": "sources/higgsfield/prompts/ON_THIN_ICE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ON_THIN_ICE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNSENT",
@@ -2387,7 +2475,8 @@
   },
   "bytes_gz": 645405,
   "prompts_path": "sources/higgsfield/prompts/UNSENT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNSENT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "100_MILLION_RAT",
@@ -2410,7 +2499,8 @@
   },
   "bytes_gz": 931878,
   "prompts_path": "sources/higgsfield/prompts/100_MILLION_RAT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/100_MILLION_RAT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OUT_OF_CREDITS",
@@ -2432,7 +2522,8 @@
   },
   "bytes_gz": 406375,
   "prompts_path": "sources/higgsfield/prompts/OUT_OF_CREDITS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OUT_OF_CREDITS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CALEUCHE",
@@ -2453,7 +2544,8 @@
   },
   "bytes_gz": 135720,
   "prompts_path": "sources/higgsfield/prompts/CALEUCHE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CALEUCHE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_FORGOTTEN_RINPOCHE",
@@ -2481,7 +2573,8 @@
   },
   "bytes_gz": 109072,
   "prompts_path": "sources/higgsfield/prompts/THE_FORGOTTEN_RINPOCHE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_FORGOTTEN_RINPOCHE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "EMBERDANT_SEASON_1_PART_1",
@@ -2505,7 +2598,8 @@
   },
   "bytes_gz": 250660,
   "prompts_path": "sources/higgsfield/prompts/EMBERDANT_SEASON_1_PART_1/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EMBERDANT_SEASON_1_PART_1/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNFASTEN",
@@ -2530,7 +2624,8 @@
   },
   "bytes_gz": 369732,
   "prompts_path": "sources/higgsfield/prompts/UNFASTEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNFASTEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OPPORTUNITY",
@@ -2551,7 +2646,8 @@
   },
   "bytes_gz": 56940,
   "prompts_path": "sources/higgsfield/prompts/OPPORTUNITY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OPPORTUNITY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_TORTOISE_AND_THE_HARE",
@@ -2580,7 +2676,8 @@
   },
   "bytes_gz": 708692,
   "prompts_path": "sources/higgsfield/prompts/THE_TORTOISE_AND_THE_HARE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_TORTOISE_AND_THE_HARE/"
+  "docs_path": "sources/higgsfield/projects/THE_TORTOISE_AND_THE_HARE/",
+  "has_docs": true
  },
  {
   "project": "YINGNING",
@@ -2602,7 +2699,8 @@
   },
   "bytes_gz": 1016651,
   "prompts_path": "sources/higgsfield/prompts/YINGNING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/YINGNING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DON_T_SLEEP",
@@ -2627,7 +2725,8 @@
   },
   "bytes_gz": 586138,
   "prompts_path": "sources/higgsfield/prompts/DON_T_SLEEP/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DON_T_SLEEP/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ORDER_OF_ASH",
@@ -2651,7 +2750,8 @@
   },
   "bytes_gz": 1594880,
   "prompts_path": "sources/higgsfield/prompts/ORDER_OF_ASH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ORDER_OF_ASH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SKIN_TRADE",
@@ -2676,7 +2776,8 @@
   },
   "bytes_gz": 283154,
   "prompts_path": "sources/higgsfield/prompts/SKIN_TRADE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SKIN_TRADE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HIGH_SCHOOL_TERROR",
@@ -2699,7 +2800,8 @@
   },
   "bytes_gz": 224848,
   "prompts_path": "sources/higgsfield/prompts/HIGH_SCHOOL_TERROR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HIGH_SCHOOL_TERROR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SHARDS_OF_WHEN",
@@ -2723,7 +2825,8 @@
   },
   "bytes_gz": 868421,
   "prompts_path": "sources/higgsfield/prompts/SHARDS_OF_WHEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SHARDS_OF_WHEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WORLD_OF_SCARS",
@@ -2748,7 +2851,8 @@
   },
   "bytes_gz": 334849,
   "prompts_path": "sources/higgsfield/prompts/WORLD_OF_SCARS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WORLD_OF_SCARS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "STREET_FOOD",
@@ -2773,7 +2877,8 @@
   },
   "bytes_gz": 454804,
   "prompts_path": "sources/higgsfield/prompts/STREET_FOOD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/STREET_FOOD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RAMIZA",
@@ -2798,7 +2903,8 @@
   },
   "bytes_gz": 207025,
   "prompts_path": "sources/higgsfield/prompts/RAMIZA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RAMIZA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BIOSCOPE",
@@ -2822,7 +2928,8 @@
   },
   "bytes_gz": 643501,
   "prompts_path": "sources/higgsfield/prompts/BIOSCOPE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BIOSCOPE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "REVOLUTION",
@@ -2844,7 +2951,8 @@
   },
   "bytes_gz": 1869670,
   "prompts_path": "sources/higgsfield/prompts/REVOLUTION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/REVOLUTION/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_KITE",
@@ -2870,7 +2978,8 @@
   },
   "bytes_gz": 295201,
   "prompts_path": "sources/higgsfield/prompts/THE_KITE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_KITE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_ZERO_LINE",
@@ -2890,7 +2999,8 @@
   },
   "bytes_gz": 309842,
   "prompts_path": "sources/higgsfield/prompts/THE_ZERO_LINE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_ZERO_LINE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "H2O",
@@ -2912,7 +3022,8 @@
   },
   "bytes_gz": 374416,
   "prompts_path": "sources/higgsfield/prompts/H2O/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/H2O/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NO_BAD_DREAMS",
@@ -2936,7 +3047,8 @@
   },
   "bytes_gz": 1025501,
   "prompts_path": "sources/higgsfield/prompts/NO_BAD_DREAMS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NO_BAD_DREAMS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FUKUSHIMA",
@@ -2964,7 +3076,8 @@
   },
   "bytes_gz": 427550,
   "prompts_path": "sources/higgsfield/prompts/FUKUSHIMA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FUKUSHIMA/"
+  "docs_path": "sources/higgsfield/projects/FUKUSHIMA/",
+  "has_docs": true
  },
  {
   "project": "WARDEN",
@@ -2990,7 +3103,8 @@
   },
   "bytes_gz": 259987,
   "prompts_path": "sources/higgsfield/prompts/WARDEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WARDEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "INVENTORY",
@@ -3013,7 +3127,8 @@
   },
   "bytes_gz": 249813,
   "prompts_path": "sources/higgsfield/prompts/INVENTORY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/INVENTORY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PAUSE",
@@ -3037,7 +3152,8 @@
   },
   "bytes_gz": 328179,
   "prompts_path": "sources/higgsfield/prompts/PAUSE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PAUSE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WITHIN",
@@ -3058,7 +3174,8 @@
   },
   "bytes_gz": 723820,
   "prompts_path": "sources/higgsfield/prompts/WITHIN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WITHIN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HIXXA_THE_WORLD_SHE_THREW_AWAY_FANTASY_SHORT_FILM",
@@ -3083,7 +3200,8 @@
   },
   "bytes_gz": 815381,
   "prompts_path": "sources/higgsfield/prompts/HIXXA_THE_WORLD_SHE_THREW_AWAY_FANTASY_SHORT_FILM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HIXXA_THE_WORLD_SHE_THREW_AWAY_FANTASY_SHORT_FILM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LOW_ORBIT",
@@ -3105,7 +3223,8 @@
   },
   "bytes_gz": 74942,
   "prompts_path": "sources/higgsfield/prompts/LOW_ORBIT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LOW_ORBIT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NOKU",
@@ -3129,7 +3248,8 @@
   },
   "bytes_gz": 1122396,
   "prompts_path": "sources/higgsfield/prompts/NOKU/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NOKU/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ALL_THE_GOOD_ONES",
@@ -3154,7 +3274,8 @@
   },
   "bytes_gz": 452081,
   "prompts_path": "sources/higgsfield/prompts/ALL_THE_GOOD_ONES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ALL_THE_GOOD_ONES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "EREN_THE_LAST_SEED",
@@ -3179,7 +3300,8 @@
   },
   "bytes_gz": 238388,
   "prompts_path": "sources/higgsfield/prompts/EREN_THE_LAST_SEED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EREN_THE_LAST_SEED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "KADHAA_2155",
@@ -3201,7 +3323,8 @@
   },
   "bytes_gz": 352439,
   "prompts_path": "sources/higgsfield/prompts/KADHAA_2155/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/KADHAA_2155/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SHADE_FADE_THE_BLACK_SANDS",
@@ -3224,7 +3347,8 @@
   },
   "bytes_gz": 112406,
   "prompts_path": "sources/higgsfield/prompts/SHADE_FADE_THE_BLACK_SANDS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SHADE_FADE_THE_BLACK_SANDS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_PRINCE",
@@ -3246,7 +3370,8 @@
   },
   "bytes_gz": 409462,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_PRINCE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_PRINCE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LONG_SIGH",
@@ -3271,7 +3396,8 @@
   },
   "bytes_gz": 1254740,
   "prompts_path": "sources/higgsfield/prompts/LONG_SIGH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LONG_SIGH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNIT_SEVEN",
@@ -3296,7 +3422,8 @@
   },
   "bytes_gz": 86030,
   "prompts_path": "sources/higgsfield/prompts/UNIT_SEVEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNIT_SEVEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GINGER",
@@ -3322,7 +3449,8 @@
   },
   "bytes_gz": 464965,
   "prompts_path": "sources/higgsfield/prompts/GINGER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GINGER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HARVEST_DAY",
@@ -3349,7 +3477,8 @@
   },
   "bytes_gz": 386134,
   "prompts_path": "sources/higgsfield/prompts/HARVEST_DAY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HARVEST_DAY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OOPS_FIRST_CONTACT",
@@ -3374,7 +3503,8 @@
   },
   "bytes_gz": 29405,
   "prompts_path": "sources/higgsfield/prompts/OOPS_FIRST_CONTACT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OOPS_FIRST_CONTACT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MIDNIGHT_BLOODLINE",
@@ -3398,7 +3528,8 @@
   },
   "bytes_gz": 303743,
   "prompts_path": "sources/higgsfield/prompts/MIDNIGHT_BLOODLINE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MIDNIGHT_BLOODLINE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEVEN_MINUTES_LEFT",
@@ -3421,7 +3552,8 @@
   },
   "bytes_gz": 824427,
   "prompts_path": "sources/higgsfield/prompts/SEVEN_MINUTES_LEFT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEVEN_MINUTES_LEFT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_ROOK",
@@ -3447,7 +3579,8 @@
   },
   "bytes_gz": 128257,
   "prompts_path": "sources/higgsfield/prompts/THE_ROOK/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_ROOK/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CHARMED",
@@ -3476,7 +3609,8 @@
   },
   "bytes_gz": 112397,
   "prompts_path": "sources/higgsfield/prompts/CHARMED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CHARMED/"
+  "docs_path": "sources/higgsfield/projects/CHARMED/",
+  "has_docs": true
  },
  {
   "project": "STUFFY_SYNTH",
@@ -3500,7 +3634,8 @@
   },
   "bytes_gz": 383553,
   "prompts_path": "sources/higgsfield/prompts/STUFFY_SYNTH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/STUFFY_SYNTH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "333",
@@ -3522,7 +3657,8 @@
   },
   "bytes_gz": 424388,
   "prompts_path": "sources/higgsfield/prompts/333/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/333/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GOTCHA_A_POST_MYSTERY_MURDER",
@@ -3548,7 +3684,8 @@
   },
   "bytes_gz": 76163,
   "prompts_path": "sources/higgsfield/prompts/GOTCHA_A_POST_MYSTERY_MURDER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GOTCHA_A_POST_MYSTERY_MURDER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NEW_KAIJU_CITY",
@@ -3571,7 +3708,8 @@
   },
   "bytes_gz": 479743,
   "prompts_path": "sources/higgsfield/prompts/NEW_KAIJU_CITY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NEW_KAIJU_CITY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OVERBOARD",
@@ -3593,7 +3731,8 @@
   },
   "bytes_gz": 262643,
   "prompts_path": "sources/higgsfield/prompts/OVERBOARD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OVERBOARD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RISE_OF_AN_EMPIRE_BY_HOUSE_OF_DI_LORENZO",
@@ -3620,7 +3759,8 @@
   },
   "bytes_gz": 241611,
   "prompts_path": "sources/higgsfield/prompts/RISE_OF_AN_EMPIRE_BY_HOUSE_OF_DI_LORENZO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RISE_OF_AN_EMPIRE_BY_HOUSE_OF_DI_LORENZO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BEFORE_TIME",
@@ -3643,7 +3783,8 @@
   },
   "bytes_gz": 794515,
   "prompts_path": "sources/higgsfield/prompts/BEFORE_TIME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BEFORE_TIME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DUSTBIN_INSPIRED_BY_REAL_EVENTS",
@@ -3667,7 +3808,8 @@
   },
   "bytes_gz": 42666,
   "prompts_path": "sources/higgsfield/prompts/DUSTBIN_INSPIRED_BY_REAL_EVENTS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DUSTBIN_INSPIRED_BY_REAL_EVENTS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEVENTY_TONGUES",
@@ -3690,7 +3832,8 @@
   },
   "bytes_gz": 314149,
   "prompts_path": "sources/higgsfield/prompts/SEVENTY_TONGUES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEVENTY_TONGUES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_FOREST",
@@ -3711,7 +3854,8 @@
   },
   "bytes_gz": 106503,
   "prompts_path": "sources/higgsfield/prompts/THE_FOREST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_FOREST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OUR_DEAD_GUEST",
@@ -3734,7 +3878,8 @@
   },
   "bytes_gz": 512472,
   "prompts_path": "sources/higgsfield/prompts/OUR_DEAD_GUEST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OUR_DEAD_GUEST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_OATH",
@@ -3761,7 +3906,8 @@
   },
   "bytes_gz": 931213,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_OATH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_OATH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEVENTY_THREE",
@@ -3787,7 +3933,8 @@
   },
   "bytes_gz": 195325,
   "prompts_path": "sources/higgsfield/prompts/SEVENTY_THREE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEVENTY_THREE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_FAMILY_CHAOS_CLUB",
@@ -3807,7 +3954,8 @@
   },
   "bytes_gz": 1390487,
   "prompts_path": "sources/higgsfield/prompts/THE_FAMILY_CHAOS_CLUB/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_FAMILY_CHAOS_CLUB/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_SEA_CALLS",
@@ -3833,7 +3981,8 @@
   },
   "bytes_gz": 214793,
   "prompts_path": "sources/higgsfield/prompts/THE_SEA_CALLS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_SEA_CALLS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_SECOND_HAND",
@@ -3855,7 +4004,8 @@
   },
   "bytes_gz": 689119,
   "prompts_path": "sources/higgsfield/prompts/THE_SECOND_HAND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_SECOND_HAND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "REROUTING",
@@ -3881,7 +4031,8 @@
   },
   "bytes_gz": 233578,
   "prompts_path": "sources/higgsfield/prompts/REROUTING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/REROUTING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "EAT_PREY_LUV",
@@ -3899,7 +4050,8 @@
   "models": {},
   "bytes_gz": 124956,
   "prompts_path": "sources/higgsfield/prompts/EAT_PREY_LUV/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EAT_PREY_LUV/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SAVE_CHANGES",
@@ -3924,7 +4076,8 @@
   },
   "bytes_gz": 113628,
   "prompts_path": "sources/higgsfield/prompts/SAVE_CHANGES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SAVE_CHANGES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BRATIX",
@@ -3946,7 +4099,8 @@
   },
   "bytes_gz": 88052,
   "prompts_path": "sources/higgsfield/prompts/BRATIX/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BRATIX/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HUNGER",
@@ -3967,7 +4121,8 @@
   },
   "bytes_gz": 583385,
   "prompts_path": "sources/higgsfield/prompts/HUNGER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HUNGER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNDERHAND",
@@ -3990,7 +4145,8 @@
   },
   "bytes_gz": 425749,
   "prompts_path": "sources/higgsfield/prompts/UNDERHAND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNDERHAND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WOKOU_HUNTERS",
@@ -4008,7 +4164,8 @@
   "models": {},
   "bytes_gz": 29452,
   "prompts_path": "sources/higgsfield/prompts/WOKOU_HUNTERS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WOKOU_HUNTERS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_SEVENTH_LOOP",
@@ -4029,7 +4186,8 @@
   },
   "bytes_gz": 219888,
   "prompts_path": "sources/higgsfield/prompts/THE_SEVENTH_LOOP/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_SEVENTH_LOOP/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ARKYN",
@@ -4051,7 +4209,8 @@
   },
   "bytes_gz": 748641,
   "prompts_path": "sources/higgsfield/prompts/ARKYN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ARKYN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MINA_ONE_MORE_LIFE",
@@ -4075,7 +4234,8 @@
   },
   "bytes_gz": 87922,
   "prompts_path": "sources/higgsfield/prompts/MINA_ONE_MORE_LIFE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MINA_ONE_MORE_LIFE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LOWER_ROAD",
@@ -4097,7 +4257,8 @@
   },
   "bytes_gz": 71089,
   "prompts_path": "sources/higgsfield/prompts/LOWER_ROAD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LOWER_ROAD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "STAY_HOME_TOMORROW",
@@ -4120,7 +4281,8 @@
   },
   "bytes_gz": 49195,
   "prompts_path": "sources/higgsfield/prompts/STAY_HOME_TOMORROW/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/STAY_HOME_TOMORROW/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FRACTURED",
@@ -4143,7 +4305,8 @@
   },
   "bytes_gz": 130977,
   "prompts_path": "sources/higgsfield/prompts/FRACTURED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FRACTURED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "INSIDE_JOKE",
@@ -4164,7 +4327,8 @@
   },
   "bytes_gz": 211381,
   "prompts_path": "sources/higgsfield/prompts/INSIDE_JOKE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/INSIDE_JOKE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BLACKWOOD_MANOR",
@@ -4188,7 +4352,8 @@
   },
   "bytes_gz": 223438,
   "prompts_path": "sources/higgsfield/prompts/BLACKWOOD_MANOR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BLACKWOOD_MANOR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MARIA_MARIA",
@@ -4212,7 +4377,8 @@
   },
   "bytes_gz": 391423,
   "prompts_path": "sources/higgsfield/prompts/MARIA_MARIA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MARIA_MARIA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_HUNGER",
@@ -4236,7 +4402,8 @@
   },
   "bytes_gz": 375231,
   "prompts_path": "sources/higgsfield/prompts/THE_HUNGER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_HUNGER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_ART",
@@ -4262,7 +4429,8 @@
   },
   "bytes_gz": 78209,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_ART/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_ART/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DAGON",
@@ -4287,7 +4455,8 @@
   },
   "bytes_gz": 55998,
   "prompts_path": "sources/higgsfield/prompts/DAGON/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DAGON/"
+  "docs_path": "sources/higgsfield/projects/DAGON/",
+  "has_docs": true
  },
  {
   "project": "QUARTER",
@@ -4313,7 +4482,8 @@
   },
   "bytes_gz": 287577,
   "prompts_path": "sources/higgsfield/prompts/QUARTER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/QUARTER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WINGS_ON_FIRE",
@@ -4338,7 +4508,8 @@
   },
   "bytes_gz": 528136,
   "prompts_path": "sources/higgsfield/prompts/WINGS_ON_FIRE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WINGS_ON_FIRE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ONCE_A_KITTEN",
@@ -4363,7 +4534,8 @@
   },
   "bytes_gz": 18448,
   "prompts_path": "sources/higgsfield/prompts/ONCE_A_KITTEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONCE_A_KITTEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MR_OTTER",
@@ -4389,7 +4561,8 @@
   },
   "bytes_gz": 47313,
   "prompts_path": "sources/higgsfield/prompts/MR_OTTER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MR_OTTER/"
+  "docs_path": "sources/higgsfield/projects/MR_OTTER/",
+  "has_docs": true
  },
  {
   "project": "ONE_DAY_WITH_MR_OTTER_HIGGSFIELD_FILM_FESTIVAL",
@@ -4412,7 +4585,8 @@
   },
   "bytes_gz": 55479,
   "prompts_path": "sources/higgsfield/prompts/ONE_DAY_WITH_MR_OTTER_HIGGSFIELD_FILM_FESTIVAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_DAY_WITH_MR_OTTER_HIGGSFIELD_FILM_FESTIVAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_GRAVE",
@@ -4438,7 +4612,8 @@
   },
   "bytes_gz": 412910,
   "prompts_path": "sources/higgsfield/prompts/THE_GRAVE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_GRAVE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DEATH_CAME_TO_DINNER",
@@ -4464,7 +4639,8 @@
   },
   "bytes_gz": 182049,
   "prompts_path": "sources/higgsfield/prompts/DEATH_CAME_TO_DINNER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DEATH_CAME_TO_DINNER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "IN_S",
@@ -4484,7 +4660,8 @@
   },
   "bytes_gz": 451223,
   "prompts_path": "sources/higgsfield/prompts/IN_S/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/IN_S/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RELIVE",
@@ -4510,7 +4687,8 @@
   },
   "bytes_gz": 149471,
   "prompts_path": "sources/higgsfield/prompts/RELIVE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RELIVE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_CHOSEN",
@@ -4530,7 +4708,8 @@
   },
   "bytes_gz": 127266,
   "prompts_path": "sources/higgsfield/prompts/THE_CHOSEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_CHOSEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "A_LONG_LUNCH",
@@ -4553,7 +4732,8 @@
   },
   "bytes_gz": 511600,
   "prompts_path": "sources/higgsfield/prompts/A_LONG_LUNCH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/A_LONG_LUNCH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_APPLE",
@@ -4575,7 +4755,8 @@
   },
   "bytes_gz": 630377,
   "prompts_path": "sources/higgsfield/prompts/THE_APPLE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_APPLE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HORSELESS",
@@ -4600,7 +4781,8 @@
   },
   "bytes_gz": 235657,
   "prompts_path": "sources/higgsfield/prompts/HORSELESS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HORSELESS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RAKSASA",
@@ -4621,7 +4803,8 @@
   },
   "bytes_gz": 283921,
   "prompts_path": "sources/higgsfield/prompts/RAKSASA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RAKSASA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "VESPER",
@@ -4642,7 +4825,8 @@
   },
   "bytes_gz": 377315,
   "prompts_path": "sources/higgsfield/prompts/VESPER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/VESPER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SAMPO",
@@ -4668,7 +4852,8 @@
   },
   "bytes_gz": 534396,
   "prompts_path": "sources/higgsfield/prompts/SAMPO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SAMPO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ECLIPSE",
@@ -4694,7 +4879,8 @@
   },
   "bytes_gz": 203970,
   "prompts_path": "sources/higgsfield/prompts/ECLIPSE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ECLIPSE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NAMED_FOR_HIM",
@@ -4716,7 +4902,8 @@
   },
   "bytes_gz": 678549,
   "prompts_path": "sources/higgsfield/prompts/NAMED_FOR_HIM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NAMED_FOR_HIM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "YOU_NEVER_KNEW_ME",
@@ -4740,7 +4927,8 @@
   },
   "bytes_gz": 337356,
   "prompts_path": "sources/higgsfield/prompts/YOU_NEVER_KNEW_ME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/YOU_NEVER_KNEW_ME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_CONFLUENCE_OF_THE_BIRDS",
@@ -4764,7 +4952,8 @@
   },
   "bytes_gz": 163463,
   "prompts_path": "sources/higgsfield/prompts/THE_CONFLUENCE_OF_THE_BIRDS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_CONFLUENCE_OF_THE_BIRDS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WRECKOON",
@@ -4785,7 +4974,8 @@
   },
   "bytes_gz": 343699,
   "prompts_path": "sources/higgsfield/prompts/WRECKOON/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WRECKOON/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AA_MEETING",
@@ -4810,7 +5000,8 @@
   },
   "bytes_gz": 311929,
   "prompts_path": "sources/higgsfield/prompts/AA_MEETING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AA_MEETING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BLESTYASHCHEE_NEVEZHESTVO",
@@ -4828,7 +5019,8 @@
   "models": {},
   "bytes_gz": 140516,
   "prompts_path": "sources/higgsfield/prompts/BLESTYASHCHEE_NEVEZHESTVO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BLESTYASHCHEE_NEVEZHESTVO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PRISONER",
@@ -4848,7 +5040,8 @@
   },
   "bytes_gz": 94755,
   "prompts_path": "sources/higgsfield/prompts/PRISONER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PRISONER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TAKE_MY_HANDS",
@@ -4873,7 +5066,8 @@
   },
   "bytes_gz": 437748,
   "prompts_path": "sources/higgsfield/prompts/TAKE_MY_HANDS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TAKE_MY_HANDS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_HOST",
@@ -4894,7 +5088,8 @@
   },
   "bytes_gz": 402127,
   "prompts_path": "sources/higgsfield/prompts/THE_HOST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_HOST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_PALADIN_ACT_I",
@@ -4918,7 +5113,8 @@
   },
   "bytes_gz": 278753,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_PALADIN_ACT_I/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_PALADIN_ACT_I/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BEYOND",
@@ -4939,7 +5135,8 @@
   },
   "bytes_gz": 93349,
   "prompts_path": "sources/higgsfield/prompts/BEYOND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BEYOND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SILENCE_LAVENDER",
@@ -4966,7 +5163,8 @@
   },
   "bytes_gz": 483934,
   "prompts_path": "sources/higgsfield/prompts/SILENCE_LAVENDER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SILENCE_LAVENDER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BALLAST",
@@ -4997,7 +5195,8 @@
   },
   "bytes_gz": 432416,
   "prompts_path": "sources/higgsfield/prompts/BALLAST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BALLAST/"
+  "docs_path": "sources/higgsfield/projects/BALLAST/",
+  "has_docs": true
  },
  {
   "project": "FLICK",
@@ -5022,7 +5221,8 @@
   },
   "bytes_gz": 210664,
   "prompts_path": "sources/higgsfield/prompts/FLICK/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FLICK/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_CUT",
@@ -5048,7 +5248,8 @@
   },
   "bytes_gz": 244182,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_CUT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_CUT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BABEL",
@@ -5070,7 +5271,8 @@
   },
   "bytes_gz": 435465,
   "prompts_path": "sources/higgsfield/prompts/BABEL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BABEL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MODEL_CITIZEN",
@@ -5095,7 +5297,8 @@
   },
   "bytes_gz": 142480,
   "prompts_path": "sources/higgsfield/prompts/MODEL_CITIZEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MODEL_CITIZEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RECURSION",
@@ -5117,7 +5320,8 @@
   },
   "bytes_gz": 246053,
   "prompts_path": "sources/higgsfield/prompts/RECURSION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RECURSION/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CONCRETE_MEMORIES",
@@ -5139,7 +5343,8 @@
   },
   "bytes_gz": 363154,
   "prompts_path": "sources/higgsfield/prompts/CONCRETE_MEMORIES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CONCRETE_MEMORIES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_FILTER",
@@ -5161,7 +5366,8 @@
   },
   "bytes_gz": 653941,
   "prompts_path": "sources/higgsfield/prompts/THE_FILTER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_FILTER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "JANJI_NUSA_A_PROMISE_TO_THE_HOMELAND",
@@ -5183,7 +5389,8 @@
   },
   "bytes_gz": 623975,
   "prompts_path": "sources/higgsfield/prompts/JANJI_NUSA_A_PROMISE_TO_THE_HOMELAND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/JANJI_NUSA_A_PROMISE_TO_THE_HOMELAND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SIDE_BY_SIDE",
@@ -5203,7 +5410,8 @@
   },
   "bytes_gz": 207390,
   "prompts_path": "sources/higgsfield/prompts/SIDE_BY_SIDE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SIDE_BY_SIDE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MEMORY_HEIST",
@@ -5224,7 +5432,8 @@
   },
   "bytes_gz": 426961,
   "prompts_path": "sources/higgsfield/prompts/MEMORY_HEIST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MEMORY_HEIST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_FUSE",
@@ -5244,7 +5453,8 @@
   },
   "bytes_gz": 232889,
   "prompts_path": "sources/higgsfield/prompts/THE_FUSE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_FUSE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HONOR",
@@ -5266,7 +5476,8 @@
   },
   "bytes_gz": 821549,
   "prompts_path": "sources/higgsfield/prompts/HONOR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HONOR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PLAY_ANYWAY",
@@ -5287,7 +5498,8 @@
   },
   "bytes_gz": 547464,
   "prompts_path": "sources/higgsfield/prompts/PLAY_ANYWAY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PLAY_ANYWAY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_COLLECTOR",
@@ -5308,7 +5520,8 @@
   },
   "bytes_gz": 673949,
   "prompts_path": "sources/higgsfield/prompts/THE_COLLECTOR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_COLLECTOR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ALIENS_DINOSAURS",
@@ -5331,7 +5544,8 @@
   },
   "bytes_gz": 152284,
   "prompts_path": "sources/higgsfield/prompts/ALIENS_DINOSAURS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ALIENS_DINOSAURS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_DEAD_WE_CARRY",
@@ -5353,7 +5567,8 @@
   },
   "bytes_gz": 120231,
   "prompts_path": "sources/higgsfield/prompts/THE_DEAD_WE_CARRY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_DEAD_WE_CARRY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "110_ONLYHOPE",
@@ -5379,7 +5594,8 @@
   },
   "bytes_gz": 541623,
   "prompts_path": "sources/higgsfield/prompts/110_ONLYHOPE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/110_ONLYHOPE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FLINCH",
@@ -5402,7 +5618,8 @@
   },
   "bytes_gz": 215655,
   "prompts_path": "sources/higgsfield/prompts/FLINCH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FLINCH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ONE_DAY_ON_EARTH",
@@ -5431,7 +5648,8 @@
   },
   "bytes_gz": 255654,
   "prompts_path": "sources/higgsfield/prompts/ONE_DAY_ON_EARTH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_DAY_ON_EARTH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LOCKED_ROOM",
@@ -5454,7 +5672,8 @@
   },
   "bytes_gz": 170941,
   "prompts_path": "sources/higgsfield/prompts/THE_LOCKED_ROOM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LOCKED_ROOM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OVERCLOCK",
@@ -5477,7 +5696,8 @@
   },
   "bytes_gz": 450789,
   "prompts_path": "sources/higgsfield/prompts/OVERCLOCK/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OVERCLOCK/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_ARCHIVIST",
@@ -5499,7 +5719,8 @@
   },
   "bytes_gz": 705678,
   "prompts_path": "sources/higgsfield/prompts/THE_ARCHIVIST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_ARCHIVIST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DEAD_ALIVE",
@@ -5521,7 +5742,8 @@
   },
   "bytes_gz": 495285,
   "prompts_path": "sources/higgsfield/prompts/DEAD_ALIVE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DEAD_ALIVE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BEAST_RACE",
@@ -5542,7 +5764,8 @@
   },
   "bytes_gz": 253119,
   "prompts_path": "sources/higgsfield/prompts/BEAST_RACE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BEAST_RACE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "JOURNEY",
@@ -5564,7 +5787,8 @@
   },
   "bytes_gz": 381841,
   "prompts_path": "sources/higgsfield/prompts/JOURNEY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/JOURNEY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HER_EYES",
@@ -5585,7 +5809,8 @@
   },
   "bytes_gz": 201352,
   "prompts_path": "sources/higgsfield/prompts/HER_EYES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HER_EYES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ONE_DAY_AT_A_TIME",
@@ -5607,7 +5832,8 @@
   },
   "bytes_gz": 122546,
   "prompts_path": "sources/higgsfield/prompts/ONE_DAY_AT_A_TIME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_DAY_AT_A_TIME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DEMENTIA",
@@ -5632,7 +5858,8 @@
   },
   "bytes_gz": 166723,
   "prompts_path": "sources/higgsfield/prompts/DEMENTIA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DEMENTIA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DON_CHENTE_S_ABDUCTION",
@@ -5654,7 +5881,8 @@
   },
   "bytes_gz": 215072,
   "prompts_path": "sources/higgsfield/prompts/DON_CHENTE_S_ABDUCTION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DON_CHENTE_S_ABDUCTION/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NO_ONE",
@@ -5675,7 +5903,8 @@
   },
   "bytes_gz": 243994,
   "prompts_path": "sources/higgsfield/prompts/NO_ONE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NO_ONE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NO_ROOM_FOR_TWO",
@@ -5698,7 +5927,8 @@
   },
   "bytes_gz": 696822,
   "prompts_path": "sources/higgsfield/prompts/NO_ROOM_FOR_TWO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NO_ROOM_FOR_TWO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RELIC",
@@ -5722,7 +5952,8 @@
   },
   "bytes_gz": 40885,
   "prompts_path": "sources/higgsfield/prompts/RELIC/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RELIC/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "1916_WORLD_WAR",
@@ -5744,7 +5975,8 @@
   },
   "bytes_gz": 248539,
   "prompts_path": "sources/higgsfield/prompts/1916_WORLD_WAR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/1916_WORLD_WAR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEA_OF_FOG",
@@ -5769,7 +6001,8 @@
   },
   "bytes_gz": 381336,
   "prompts_path": "sources/higgsfield/prompts/SEA_OF_FOG/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEA_OF_FOG/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SENTENCE",
@@ -5792,7 +6025,8 @@
   },
   "bytes_gz": 178529,
   "prompts_path": "sources/higgsfield/prompts/SENTENCE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SENTENCE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PHOTO_IN_PARIS",
@@ -5819,7 +6053,8 @@
   },
   "bytes_gz": 266534,
   "prompts_path": "sources/higgsfield/prompts/PHOTO_IN_PARIS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PHOTO_IN_PARIS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PROTOCOL_XCI",
@@ -5839,7 +6074,8 @@
   },
   "bytes_gz": 29850,
   "prompts_path": "sources/higgsfield/prompts/PROTOCOL_XCI/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PROTOCOL_XCI/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_FINAL_INTERVIEW",
@@ -5864,7 +6100,8 @@
   },
   "bytes_gz": 499024,
   "prompts_path": "sources/higgsfield/prompts/THE_FINAL_INTERVIEW/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_FINAL_INTERVIEW/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AZUL_COBALTO",
@@ -5897,7 +6134,8 @@
   },
   "bytes_gz": 254831,
   "prompts_path": "sources/higgsfield/prompts/AZUL_COBALTO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AZUL_COBALTO/"
+  "docs_path": "sources/higgsfield/projects/AZUL_COBALTO/",
+  "has_docs": true
  },
  {
   "project": "THE_LAST_FLOWER",
@@ -5921,7 +6159,8 @@
   },
   "bytes_gz": 111477,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_FLOWER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_FLOWER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BLACK_VEIL_SHORT_HORROR_FILM",
@@ -5944,7 +6183,8 @@
   },
   "bytes_gz": 36644,
   "prompts_path": "sources/higgsfield/prompts/BLACK_VEIL_SHORT_HORROR_FILM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BLACK_VEIL_SHORT_HORROR_FILM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HUMAN_ERROR",
@@ -5966,7 +6206,8 @@
   },
   "bytes_gz": 134630,
   "prompts_path": "sources/higgsfield/prompts/HUMAN_ERROR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HUMAN_ERROR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SNAP",
@@ -5991,7 +6232,8 @@
   },
   "bytes_gz": 128884,
   "prompts_path": "sources/higgsfield/prompts/SNAP/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SNAP/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_CLIMB",
@@ -6014,7 +6256,8 @@
   },
   "bytes_gz": 35737,
   "prompts_path": "sources/higgsfield/prompts/THE_CLIMB/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_CLIMB/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WHAT_DO_YOU_NEED_ME_FOR",
@@ -6040,7 +6283,8 @@
   },
   "bytes_gz": 172408,
   "prompts_path": "sources/higgsfield/prompts/WHAT_DO_YOU_NEED_ME_FOR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WHAT_DO_YOU_NEED_ME_FOR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TAGE_7",
@@ -6062,7 +6306,8 @@
   },
   "bytes_gz": 536244,
   "prompts_path": "sources/higgsfield/prompts/TAGE_7/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TAGE_7/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DEAD_WATER",
@@ -6086,7 +6331,8 @@
   },
   "bytes_gz": 393706,
   "prompts_path": "sources/higgsfield/prompts/DEAD_WATER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DEAD_WATER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GRIMWATCH",
@@ -6116,7 +6362,8 @@
   },
   "bytes_gz": 105297,
   "prompts_path": "sources/higgsfield/prompts/GRIMWATCH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GRIMWATCH/"
+  "docs_path": "sources/higgsfield/projects/GRIMWATCH/",
+  "has_docs": true
  },
  {
   "project": "IT_SHOULD_HAVE_BEEN_ME",
@@ -6139,7 +6386,8 @@
   },
   "bytes_gz": 293734,
   "prompts_path": "sources/higgsfield/prompts/IT_SHOULD_HAVE_BEEN_ME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/IT_SHOULD_HAVE_BEEN_ME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "KEEPSAKE",
@@ -6159,7 +6407,8 @@
   },
   "bytes_gz": 308439,
   "prompts_path": "sources/higgsfield/prompts/KEEPSAKE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/KEEPSAKE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NAHUAL_A_STORY_FROM_LA_HUASTECA",
@@ -6180,7 +6429,8 @@
   },
   "bytes_gz": 158133,
   "prompts_path": "sources/higgsfield/prompts/NAHUAL_A_STORY_FROM_LA_HUASTECA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NAHUAL_A_STORY_FROM_LA_HUASTECA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ICONIC_BETA",
@@ -6207,7 +6457,8 @@
   },
   "bytes_gz": 262824,
   "prompts_path": "sources/higgsfield/prompts/ICONIC_BETA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ICONIC_BETA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SPANNERGIRL",
@@ -6232,7 +6483,8 @@
   },
   "bytes_gz": 1041477,
   "prompts_path": "sources/higgsfield/prompts/SPANNERGIRL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SPANNERGIRL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_PUNCH_BOWL",
@@ -6258,7 +6510,8 @@
   },
   "bytes_gz": 607405,
   "prompts_path": "sources/higgsfield/prompts/THE_PUNCH_BOWL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_PUNCH_BOWL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GLITCH_DAY",
@@ -6279,7 +6532,8 @@
   },
   "bytes_gz": 324775,
   "prompts_path": "sources/higgsfield/prompts/GLITCH_DAY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GLITCH_DAY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AND_WHERE_ARE_WE_GOING",
@@ -6303,7 +6557,8 @@
   },
   "bytes_gz": 79060,
   "prompts_path": "sources/higgsfield/prompts/AND_WHERE_ARE_WE_GOING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AND_WHERE_ARE_WE_GOING/"
+  "docs_path": "sources/higgsfield/projects/AND_WHERE_ARE_WE_GOING/",
+  "has_docs": true
  },
  {
   "project": "AND_STILL_LIFE",
@@ -6324,7 +6579,8 @@
   },
   "bytes_gz": 634067,
   "prompts_path": "sources/higgsfield/prompts/AND_STILL_LIFE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AND_STILL_LIFE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ON_MOONLIT_NIGHT",
@@ -6345,7 +6601,8 @@
   },
   "bytes_gz": 356803,
   "prompts_path": "sources/higgsfield/prompts/ON_MOONLIT_NIGHT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ON_MOONLIT_NIGHT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TV_4K",
@@ -6373,7 +6630,8 @@
   },
   "bytes_gz": 196790,
   "prompts_path": "sources/higgsfield/prompts/TV_4K/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TV_4K/"
+  "docs_path": "sources/higgsfield/projects/TV_4K/",
+  "has_docs": true
  },
  {
   "project": "REWIND",
@@ -6398,7 +6656,8 @@
   },
   "bytes_gz": 301621,
   "prompts_path": "sources/higgsfield/prompts/REWIND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/REWIND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THREAD",
@@ -6426,7 +6685,8 @@
   },
   "bytes_gz": 424722,
   "prompts_path": "sources/higgsfield/prompts/THREAD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THREAD/"
+  "docs_path": "sources/higgsfield/projects/THREAD/",
+  "has_docs": true
  },
  {
   "project": "WHAT_THE_THREAD_LEFT_BEHIND",
@@ -6448,7 +6708,8 @@
   },
   "bytes_gz": 249093,
   "prompts_path": "sources/higgsfield/prompts/WHAT_THE_THREAD_LEFT_BEHIND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WHAT_THE_THREAD_LEFT_BEHIND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BETWEEN_TWO_SHORES",
@@ -6470,7 +6731,8 @@
   },
   "bytes_gz": 565477,
   "prompts_path": "sources/higgsfield/prompts/BETWEEN_TWO_SHORES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BETWEEN_TWO_SHORES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "I_WAS_HERE_FIRST",
@@ -6491,7 +6753,8 @@
   },
   "bytes_gz": 172024,
   "prompts_path": "sources/higgsfield/prompts/I_WAS_HERE_FIRST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/I_WAS_HERE_FIRST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "INVERSION_GENESIS",
@@ -6513,7 +6776,8 @@
   },
   "bytes_gz": 550789,
   "prompts_path": "sources/higgsfield/prompts/INVERSION_GENESIS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/INVERSION_GENESIS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MEMORY_THIEF",
@@ -6535,7 +6799,8 @@
   },
   "bytes_gz": 568007,
   "prompts_path": "sources/higgsfield/prompts/MEMORY_THIEF/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MEMORY_THIEF/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NADIA_7_OF_9",
@@ -6559,7 +6824,8 @@
   },
   "bytes_gz": 397948,
   "prompts_path": "sources/higgsfield/prompts/NADIA_7_OF_9/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NADIA_7_OF_9/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ROOTED",
@@ -6581,7 +6847,8 @@
   },
   "bytes_gz": 334558,
   "prompts_path": "sources/higgsfield/prompts/ROOTED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ROOTED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NEUROVERSE_STILL_AGLOW",
@@ -6607,7 +6874,8 @@
   },
   "bytes_gz": 212201,
   "prompts_path": "sources/higgsfield/prompts/NEUROVERSE_STILL_AGLOW/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NEUROVERSE_STILL_AGLOW/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNCOUNTED",
@@ -6631,7 +6899,8 @@
   },
   "bytes_gz": 532581,
   "prompts_path": "sources/higgsfield/prompts/UNCOUNTED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNCOUNTED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NIGHTBLOOM",
@@ -6656,7 +6925,8 @@
   },
   "bytes_gz": 311311,
   "prompts_path": "sources/higgsfield/prompts/NIGHTBLOOM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NIGHTBLOOM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WHISPER",
@@ -6681,7 +6951,8 @@
   },
   "bytes_gz": 196207,
   "prompts_path": "sources/higgsfield/prompts/WHISPER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WHISPER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "5_MINUTES",
@@ -6705,7 +6976,8 @@
   },
   "bytes_gz": 317035,
   "prompts_path": "sources/higgsfield/prompts/5_MINUTES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/5_MINUTES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GENERATE",
@@ -6727,7 +6999,8 @@
   },
   "bytes_gz": 292809,
   "prompts_path": "sources/higgsfield/prompts/GENERATE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GENERATE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CARRIED",
@@ -6752,7 +7025,8 @@
   },
   "bytes_gz": 110323,
   "prompts_path": "sources/higgsfield/prompts/CARRIED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CARRIED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "STILL_SWEET",
@@ -6774,7 +7048,8 @@
   },
   "bytes_gz": 407865,
   "prompts_path": "sources/higgsfield/prompts/STILL_SWEET/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/STILL_SWEET/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HUNTER_PROTOCOL",
@@ -6796,7 +7071,8 @@
   },
   "bytes_gz": 170300,
   "prompts_path": "sources/higgsfield/prompts/HUNTER_PROTOCOL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HUNTER_PROTOCOL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HWANDO_SEOL",
@@ -6821,7 +7097,8 @@
   },
   "bytes_gz": 532731,
   "prompts_path": "sources/higgsfield/prompts/HWANDO_SEOL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HWANDO_SEOL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_SEER",
@@ -6846,7 +7123,8 @@
   },
   "bytes_gz": 55325,
   "prompts_path": "sources/higgsfield/prompts/THE_SEER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_SEER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DREAMER_THE_OTHER_YOU",
@@ -6870,7 +7148,8 @@
   },
   "bytes_gz": 214417,
   "prompts_path": "sources/higgsfield/prompts/DREAMER_THE_OTHER_YOU/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DREAMER_THE_OTHER_YOU/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LUCID_DREAMS",
@@ -6892,7 +7171,8 @@
   },
   "bytes_gz": 45121,
   "prompts_path": "sources/higgsfield/prompts/LUCID_DREAMS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LUCID_DREAMS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DAYLIGHT_SAVING_TIME",
@@ -6914,7 +7194,8 @@
   },
   "bytes_gz": 1247562,
   "prompts_path": "sources/higgsfield/prompts/DAYLIGHT_SAVING_TIME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DAYLIGHT_SAVING_TIME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "KAGEROU",
@@ -6947,7 +7228,8 @@
   },
   "bytes_gz": 169251,
   "prompts_path": "sources/higgsfield/prompts/KAGEROU/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/KAGEROU/"
+  "docs_path": "sources/higgsfield/projects/KAGEROU/",
+  "has_docs": true
  },
  {
   "project": "PERSISTENCE",
@@ -6973,7 +7255,8 @@
   },
   "bytes_gz": 196213,
   "prompts_path": "sources/higgsfield/prompts/PERSISTENCE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PERSISTENCE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FAUST",
@@ -6993,7 +7276,8 @@
   },
   "bytes_gz": 239115,
   "prompts_path": "sources/higgsfield/prompts/FAUST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FAUST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LAIKA",
@@ -7016,7 +7300,8 @@
   },
   "bytes_gz": 152240,
   "prompts_path": "sources/higgsfield/prompts/LAIKA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LAIKA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MAKE_BELIEVE",
@@ -7044,7 +7329,8 @@
   },
   "bytes_gz": 75649,
   "prompts_path": "sources/higgsfield/prompts/MAKE_BELIEVE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MAKE_BELIEVE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BASH",
@@ -7068,7 +7354,8 @@
   },
   "bytes_gz": 197818,
   "prompts_path": "sources/higgsfield/prompts/BASH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BASH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OOPS",
@@ -7089,7 +7376,8 @@
   },
   "bytes_gz": 92658,
   "prompts_path": "sources/higgsfield/prompts/OOPS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OOPS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_RIDE",
@@ -7121,7 +7409,8 @@
   },
   "bytes_gz": 500389,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_RIDE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_RIDE/"
+  "docs_path": "sources/higgsfield/projects/THE_LAST_RIDE/",
+  "has_docs": true
  },
  {
   "project": "IDALIA",
@@ -7145,7 +7434,8 @@
   },
   "bytes_gz": 112878,
   "prompts_path": "sources/higgsfield/prompts/IDALIA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/IDALIA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "313_INTERNATIONAL",
@@ -7167,7 +7457,8 @@
   },
   "bytes_gz": 399698,
   "prompts_path": "sources/higgsfield/prompts/313_INTERNATIONAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/313_INTERNATIONAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DISCONNECTED",
@@ -7187,7 +7478,8 @@
   },
   "bytes_gz": 353776,
   "prompts_path": "sources/higgsfield/prompts/DISCONNECTED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DISCONNECTED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HOW_TO_DIE",
@@ -7212,7 +7504,8 @@
   },
   "bytes_gz": 27176,
   "prompts_path": "sources/higgsfield/prompts/HOW_TO_DIE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HOW_TO_DIE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_MOUSE",
@@ -7234,7 +7527,8 @@
   },
   "bytes_gz": 258451,
   "prompts_path": "sources/higgsfield/prompts/THE_MOUSE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_MOUSE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_SEVENTH_MONTH_GUEST",
@@ -7261,7 +7555,8 @@
   },
   "bytes_gz": 125987,
   "prompts_path": "sources/higgsfield/prompts/THE_SEVENTH_MONTH_GUEST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_SEVENTH_MONTH_GUEST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ASHES_OF_FREEDOM",
@@ -7287,7 +7582,8 @@
   },
   "bytes_gz": 697488,
   "prompts_path": "sources/higgsfield/prompts/ASHES_OF_FREEDOM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ASHES_OF_FREEDOM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_ECHO_OF_US",
@@ -7309,7 +7605,8 @@
   },
   "bytes_gz": 597097,
   "prompts_path": "sources/higgsfield/prompts/THE_ECHO_OF_US/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_ECHO_OF_US/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "KARNA",
@@ -7332,7 +7629,8 @@
   },
   "bytes_gz": 423044,
   "prompts_path": "sources/higgsfield/prompts/KARNA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/KARNA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_DAY_I_FAILED",
@@ -7358,7 +7656,8 @@
   },
   "bytes_gz": 300892,
   "prompts_path": "sources/higgsfield/prompts/THE_DAY_I_FAILED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_DAY_I_FAILED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AS_LONG_AS_IT_BLOOMS",
@@ -7382,7 +7681,8 @@
   },
   "bytes_gz": 212768,
   "prompts_path": "sources/higgsfield/prompts/AS_LONG_AS_IT_BLOOMS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AS_LONG_AS_IT_BLOOMS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MECHDRIVER_1",
@@ -7407,7 +7707,8 @@
   },
   "bytes_gz": 229496,
   "prompts_path": "sources/higgsfield/prompts/MECHDRIVER_1/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MECHDRIVER_1/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_BREACH",
@@ -7429,7 +7730,8 @@
   },
   "bytes_gz": 204325,
   "prompts_path": "sources/higgsfield/prompts/THE_BREACH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_BREACH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BETWEEN_SOUNDS",
@@ -7449,7 +7751,8 @@
   },
   "bytes_gz": 449322,
   "prompts_path": "sources/higgsfield/prompts/BETWEEN_SOUNDS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BETWEEN_SOUNDS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_WORLD_WORTH_LIVING_IN",
@@ -7471,7 +7774,8 @@
   },
   "bytes_gz": 697021,
   "prompts_path": "sources/higgsfield/prompts/THE_WORLD_WORTH_LIVING_IN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_WORLD_WORTH_LIVING_IN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WOUND",
@@ -7491,7 +7795,8 @@
   },
   "bytes_gz": 105527,
   "prompts_path": "sources/higgsfield/prompts/WOUND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WOUND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BREATH",
@@ -7511,7 +7816,8 @@
   },
   "bytes_gz": 800151,
   "prompts_path": "sources/higgsfield/prompts/BREATH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BREATH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MORTEM",
@@ -7533,7 +7839,8 @@
   },
   "bytes_gz": 212156,
   "prompts_path": "sources/higgsfield/prompts/MORTEM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MORTEM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BEFORE_THE_GODS",
@@ -7554,7 +7861,8 @@
   },
   "bytes_gz": 111343,
   "prompts_path": "sources/higgsfield/prompts/BEFORE_THE_GODS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BEFORE_THE_GODS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DISPENSABLE",
@@ -7577,7 +7885,8 @@
   },
   "bytes_gz": 168884,
   "prompts_path": "sources/higgsfield/prompts/DISPENSABLE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DISPENSABLE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SUBSTRATE",
@@ -7603,7 +7912,8 @@
   },
   "bytes_gz": 42702,
   "prompts_path": "sources/higgsfield/prompts/SUBSTRATE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SUBSTRATE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_WEIGHT_OF_THE_MOON",
@@ -7625,7 +7935,8 @@
   },
   "bytes_gz": 453237,
   "prompts_path": "sources/higgsfield/prompts/THE_WEIGHT_OF_THE_MOON/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_WEIGHT_OF_THE_MOON/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNHEARD",
@@ -7646,7 +7957,8 @@
   },
   "bytes_gz": 550421,
   "prompts_path": "sources/higgsfield/prompts/UNHEARD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNHEARD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GREEN_FLAG",
@@ -7670,7 +7982,8 @@
   },
   "bytes_gz": 295866,
   "prompts_path": "sources/higgsfield/prompts/GREEN_FLAG/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GREEN_FLAG/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DUSK",
@@ -7701,7 +8014,8 @@
   },
   "bytes_gz": 259697,
   "prompts_path": "sources/higgsfield/prompts/DUSK/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DUSK/"
+  "docs_path": "sources/higgsfield/projects/DUSK/",
+  "has_docs": true
  },
  {
   "project": "MAI",
@@ -7725,7 +8039,8 @@
   },
   "bytes_gz": 235581,
   "prompts_path": "sources/higgsfield/prompts/MAI/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MAI/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GILT",
@@ -7746,7 +8061,8 @@
   },
   "bytes_gz": 336930,
   "prompts_path": "sources/higgsfield/prompts/GILT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GILT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MISHMASH",
@@ -7768,7 +8084,8 @@
   },
   "bytes_gz": 692692,
   "prompts_path": "sources/higgsfield/prompts/MISHMASH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MISHMASH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RIFT_RIDER",
@@ -7788,7 +8105,8 @@
   },
   "bytes_gz": 433192,
   "prompts_path": "sources/higgsfield/prompts/RIFT_RIDER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RIFT_RIDER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "KOK_BORU",
@@ -7806,7 +8124,8 @@
   "models": {},
   "bytes_gz": 325188,
   "prompts_path": "sources/higgsfield/prompts/KOK_BORU/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/KOK_BORU/"
+  "docs_path": "sources/higgsfield/projects/KOK_BORU/",
+  "has_docs": true
  },
  {
   "project": "HOPE",
@@ -7830,7 +8149,8 @@
   },
   "bytes_gz": 317732,
   "prompts_path": "sources/higgsfield/prompts/HOPE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HOPE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "I_RECOMMEND_FINDING_ANOTHER_PLATFORM_TO_INVEST_YOU",
@@ -7850,7 +8170,8 @@
   },
   "bytes_gz": 10823,
   "prompts_path": "sources/higgsfield/prompts/I_RECOMMEND_FINDING_ANOTHER_PLATFORM_TO_INVEST_YOU/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/I_RECOMMEND_FINDING_ANOTHER_PLATFORM_TO_INVEST_YOU/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MARUMAI_25",
@@ -7878,7 +8199,8 @@
   },
   "bytes_gz": 497006,
   "prompts_path": "sources/higgsfield/prompts/MARUMAI_25/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MARUMAI_25/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ROAR",
@@ -7902,7 +8224,8 @@
   },
   "bytes_gz": 220061,
   "prompts_path": "sources/higgsfield/prompts/ROAR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ROAR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MY_OWN_DOING",
@@ -7926,7 +8249,8 @@
   },
   "bytes_gz": 303680,
   "prompts_path": "sources/higgsfield/prompts/MY_OWN_DOING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MY_OWN_DOING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SUB_OBJECT",
@@ -7950,7 +8274,8 @@
   },
   "bytes_gz": 89102,
   "prompts_path": "sources/higgsfield/prompts/SUB_OBJECT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SUB_OBJECT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TOGETHER_FOREVER",
@@ -7972,7 +8297,8 @@
   },
   "bytes_gz": 81507,
   "prompts_path": "sources/higgsfield/prompts/TOGETHER_FOREVER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TOGETHER_FOREVER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "VORTEX",
@@ -7994,7 +8320,8 @@
   },
   "bytes_gz": 89106,
   "prompts_path": "sources/higgsfield/prompts/VORTEX/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/VORTEX/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ABIOGENE3",
@@ -8019,7 +8346,8 @@
   },
   "bytes_gz": 112665,
   "prompts_path": "sources/higgsfield/prompts/ABIOGENE3/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ABIOGENE3/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BEYOND_THE_STARS_A_KOREAN_SPACE_OPERA",
@@ -8045,7 +8373,8 @@
   },
   "bytes_gz": 133897,
   "prompts_path": "sources/higgsfield/prompts/BEYOND_THE_STARS_A_KOREAN_SPACE_OPERA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BEYOND_THE_STARS_A_KOREAN_SPACE_OPERA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "M_TRO_BOULOT_DODO",
@@ -8065,7 +8394,8 @@
   },
   "bytes_gz": 52853,
   "prompts_path": "sources/higgsfield/prompts/M_TRO_BOULOT_DODO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/M_TRO_BOULOT_DODO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ONE_LAST_ACT",
@@ -8090,7 +8420,8 @@
   },
   "bytes_gz": 182867,
   "prompts_path": "sources/higgsfield/prompts/ONE_LAST_ACT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_LAST_ACT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_WRONG_PROMPT",
@@ -8114,7 +8445,8 @@
   },
   "bytes_gz": 82541,
   "prompts_path": "sources/higgsfield/prompts/THE_WRONG_PROMPT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_WRONG_PROMPT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_PERFECT_ONE",
@@ -8137,7 +8469,8 @@
   },
   "bytes_gz": 86223,
   "prompts_path": "sources/higgsfield/prompts/THE_PERFECT_ONE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_PERFECT_ONE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SOMETIME_SOMEWHERE",
@@ -8158,7 +8491,8 @@
   },
   "bytes_gz": 219907,
   "prompts_path": "sources/higgsfield/prompts/SOMETIME_SOMEWHERE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SOMETIME_SOMEWHERE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_KISS",
@@ -8188,7 +8522,8 @@
   },
   "bytes_gz": 191677,
   "prompts_path": "sources/higgsfield/prompts/THE_KISS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_KISS/"
+  "docs_path": "sources/higgsfield/projects/THE_KISS/",
+  "has_docs": true
  },
  {
   "project": "EDEN",
@@ -8209,7 +8544,8 @@
   },
   "bytes_gz": 471217,
   "prompts_path": "sources/higgsfield/prompts/EDEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EDEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PLUS_INTEREST",
@@ -8231,7 +8567,8 @@
   },
   "bytes_gz": 48505,
   "prompts_path": "sources/higgsfield/prompts/PLUS_INTEREST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PLUS_INTEREST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "9091",
@@ -8254,7 +8591,8 @@
   },
   "bytes_gz": 475154,
   "prompts_path": "sources/higgsfield/prompts/9091/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/9091/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "EASY_TARGET",
@@ -8275,7 +8613,8 @@
   },
   "bytes_gz": 331831,
   "prompts_path": "sources/higgsfield/prompts/EASY_TARGET/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EASY_TARGET/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEKOLAH",
@@ -8300,7 +8639,8 @@
   },
   "bytes_gz": 51927,
   "prompts_path": "sources/higgsfield/prompts/SEKOLAH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEKOLAH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DECRETUM",
@@ -8329,7 +8669,8 @@
   },
   "bytes_gz": 400893,
   "prompts_path": "sources/higgsfield/prompts/DECRETUM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DECRETUM/"
+  "docs_path": "sources/higgsfield/projects/DECRETUM/",
+  "has_docs": true
  },
  {
   "project": "GABRIEL",
@@ -8355,7 +8696,8 @@
   },
   "bytes_gz": 95438,
   "prompts_path": "sources/higgsfield/prompts/GABRIEL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GABRIEL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CAT_STORY",
@@ -8378,7 +8720,8 @@
   },
   "bytes_gz": 123777,
   "prompts_path": "sources/higgsfield/prompts/CAT_STORY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CAT_STORY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AI_FILM_FESTIVAL_A_PROPER_WOMAN_S_GUIDE_TO_MONSTER",
@@ -8398,7 +8741,8 @@
   },
   "bytes_gz": 205638,
   "prompts_path": "sources/higgsfield/prompts/AI_FILM_FESTIVAL_A_PROPER_WOMAN_S_GUIDE_TO_MONSTER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AI_FILM_FESTIVAL_A_PROPER_WOMAN_S_GUIDE_TO_MONSTER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ECHOES_OF_TOMORROW",
@@ -8423,7 +8767,8 @@
   },
   "bytes_gz": 16997,
   "prompts_path": "sources/higgsfield/prompts/ECHOES_OF_TOMORROW/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ECHOES_OF_TOMORROW/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "REST_FACE",
@@ -8447,7 +8792,8 @@
   },
   "bytes_gz": 183819,
   "prompts_path": "sources/higgsfield/prompts/REST_FACE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/REST_FACE/"
+  "docs_path": "sources/higgsfield/projects/REST_FACE/",
+  "has_docs": true
  },
  {
   "project": "BRIDGE",
@@ -8471,7 +8817,8 @@
   },
   "bytes_gz": 167337,
   "prompts_path": "sources/higgsfield/prompts/BRIDGE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BRIDGE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_SHAPE_OF_MEMORIES",
@@ -8493,7 +8840,8 @@
   },
   "bytes_gz": 19061,
   "prompts_path": "sources/higgsfield/prompts/THE_SHAPE_OF_MEMORIES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_SHAPE_OF_MEMORIES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_TINTERS",
@@ -8517,7 +8865,8 @@
   },
   "bytes_gz": 188814,
   "prompts_path": "sources/higgsfield/prompts/THE_TINTERS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_TINTERS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PETYA",
@@ -8541,7 +8890,8 @@
   },
   "bytes_gz": 191975,
   "prompts_path": "sources/higgsfield/prompts/PETYA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PETYA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TERMS_CONDEMNATIONS",
@@ -8568,7 +8918,8 @@
   },
   "bytes_gz": 139228,
   "prompts_path": "sources/higgsfield/prompts/TERMS_CONDEMNATIONS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TERMS_CONDEMNATIONS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DOUBLE_SIN",
@@ -8589,7 +8940,8 @@
   },
   "bytes_gz": 81389,
   "prompts_path": "sources/higgsfield/prompts/DOUBLE_SIN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DOUBLE_SIN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "APOCALYPSE_SQUAD",
@@ -8615,7 +8967,8 @@
   },
   "bytes_gz": 224404,
   "prompts_path": "sources/higgsfield/prompts/APOCALYPSE_SQUAD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/APOCALYPSE_SQUAD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "INDIGO",
@@ -8640,7 +8993,8 @@
   },
   "bytes_gz": 71609,
   "prompts_path": "sources/higgsfield/prompts/INDIGO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/INDIGO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DEEP_CLEAN",
@@ -8665,7 +9019,8 @@
   },
   "bytes_gz": 485342,
   "prompts_path": "sources/higgsfield/prompts/DEEP_CLEAN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DEEP_CLEAN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "EGO",
@@ -8690,7 +9045,8 @@
   },
   "bytes_gz": 72974,
   "prompts_path": "sources/higgsfield/prompts/EGO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EGO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_DANCE",
@@ -8712,7 +9068,8 @@
   },
   "bytes_gz": 248360,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_DANCE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_DANCE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SERVUS",
@@ -8736,7 +9093,8 @@
   },
   "bytes_gz": 35875,
   "prompts_path": "sources/higgsfield/prompts/SERVUS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SERVUS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GUT_PUNCH_LOVE",
@@ -8761,7 +9119,8 @@
   },
   "bytes_gz": 58073,
   "prompts_path": "sources/higgsfield/prompts/GUT_PUNCH_LOVE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GUT_PUNCH_LOVE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_BRIDGE_90_MILES_APART",
@@ -8781,7 +9140,8 @@
   },
   "bytes_gz": 165054,
   "prompts_path": "sources/higgsfield/prompts/THE_BRIDGE_90_MILES_APART/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_BRIDGE_90_MILES_APART/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "COLD_NOTE",
@@ -8806,7 +9166,8 @@
   },
   "bytes_gz": 147936,
   "prompts_path": "sources/higgsfield/prompts/COLD_NOTE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/COLD_NOTE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PHASES",
@@ -8828,7 +9189,8 @@
   },
   "bytes_gz": 371436,
   "prompts_path": "sources/higgsfield/prompts/PHASES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PHASES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SINDBAD_THE_SEA_REMEMBERS",
@@ -8850,7 +9212,8 @@
   },
   "bytes_gz": 276304,
   "prompts_path": "sources/higgsfield/prompts/SINDBAD_THE_SEA_REMEMBERS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SINDBAD_THE_SEA_REMEMBERS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WILD_KIN",
@@ -8871,7 +9234,8 @@
   },
   "bytes_gz": 467013,
   "prompts_path": "sources/higgsfield/prompts/WILD_KIN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WILD_KIN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LATCH",
@@ -8894,7 +9258,8 @@
   },
   "bytes_gz": 70555,
   "prompts_path": "sources/higgsfield/prompts/LATCH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LATCH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NOTHING",
@@ -8917,7 +9282,8 @@
   },
   "bytes_gz": 153442,
   "prompts_path": "sources/higgsfield/prompts/NOTHING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NOTHING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THREE_STEPS",
@@ -8938,7 +9304,8 @@
   },
   "bytes_gz": 20860,
   "prompts_path": "sources/higgsfield/prompts/THREE_STEPS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THREE_STEPS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNDER_SATURN_S_SHADOW",
@@ -8962,7 +9329,8 @@
   },
   "bytes_gz": 224019,
   "prompts_path": "sources/higgsfield/prompts/UNDER_SATURN_S_SHADOW/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNDER_SATURN_S_SHADOW/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_AVERAGE_JOE",
@@ -8983,7 +9351,8 @@
   },
   "bytes_gz": 173624,
   "prompts_path": "sources/higgsfield/prompts/THE_AVERAGE_JOE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_AVERAGE_JOE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LEGEND_OF_VANARA",
@@ -9006,7 +9375,8 @@
   },
   "bytes_gz": 373660,
   "prompts_path": "sources/higgsfield/prompts/THE_LEGEND_OF_VANARA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LEGEND_OF_VANARA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_MEDICAL_NUMBER",
@@ -9026,7 +9396,8 @@
   },
   "bytes_gz": 72938,
   "prompts_path": "sources/higgsfield/prompts/THE_MEDICAL_NUMBER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_MEDICAL_NUMBER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_MOUNTAIN_KEEPS",
@@ -9048,7 +9419,8 @@
   },
   "bytes_gz": 208382,
   "prompts_path": "sources/higgsfield/prompts/THE_MOUNTAIN_KEEPS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_MOUNTAIN_KEEPS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AZAR_THE_IMMORTAL_WOUND",
@@ -9071,7 +9443,8 @@
   },
   "bytes_gz": 510899,
   "prompts_path": "sources/higgsfield/prompts/AZAR_THE_IMMORTAL_WOUND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AZAR_THE_IMMORTAL_WOUND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ONE_MILLION_DOLLARS",
@@ -9095,7 +9468,8 @@
   },
   "bytes_gz": 89049,
   "prompts_path": "sources/higgsfield/prompts/ONE_MILLION_DOLLARS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_MILLION_DOLLARS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RAW_AND_REAL",
@@ -9121,7 +9495,8 @@
   },
   "bytes_gz": 266747,
   "prompts_path": "sources/higgsfield/prompts/RAW_AND_REAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RAW_AND_REAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ALL_THE_MONSTERS_WE_COULDN_T_SEE",
@@ -9142,7 +9517,8 @@
   },
   "bytes_gz": 140355,
   "prompts_path": "sources/higgsfield/prompts/ALL_THE_MONSTERS_WE_COULDN_T_SEE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ALL_THE_MONSTERS_WE_COULDN_T_SEE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_AUDITION",
@@ -9166,7 +9542,8 @@
   },
   "bytes_gz": 123676,
   "prompts_path": "sources/higgsfield/prompts/THE_AUDITION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_AUDITION/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_BALLOON",
@@ -9187,7 +9564,8 @@
   },
   "bytes_gz": 193025,
   "prompts_path": "sources/higgsfield/prompts/THE_BALLOON/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_BALLOON/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RACER18",
@@ -9211,7 +9589,8 @@
   },
   "bytes_gz": 142736,
   "prompts_path": "sources/higgsfield/prompts/RACER18/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RACER18/"
+  "docs_path": "sources/higgsfield/projects/RACER18/",
+  "has_docs": true
  },
  {
   "project": "WRECK_QUEST",
@@ -9234,7 +9613,8 @@
   },
   "bytes_gz": 121890,
   "prompts_path": "sources/higgsfield/prompts/WRECK_QUEST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WRECK_QUEST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SUPER_SENIORS",
@@ -9255,7 +9635,8 @@
   },
   "bytes_gz": 126516,
   "prompts_path": "sources/higgsfield/prompts/SUPER_SENIORS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SUPER_SENIORS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TRESPASSER",
@@ -9280,7 +9661,8 @@
   },
   "bytes_gz": 80965,
   "prompts_path": "sources/higgsfield/prompts/TRESPASSER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TRESPASSER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ONE_DROP",
@@ -9305,7 +9687,8 @@
   },
   "bytes_gz": 228425,
   "prompts_path": "sources/higgsfield/prompts/ONE_DROP/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_DROP/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ABUELO",
@@ -9332,7 +9715,8 @@
   },
   "bytes_gz": 175485,
   "prompts_path": "sources/higgsfield/prompts/ABUELO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ABUELO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BEHIND_THE_LENS",
@@ -9353,7 +9737,8 @@
   },
   "bytes_gz": 217672,
   "prompts_path": "sources/higgsfield/prompts/BEHIND_THE_LENS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BEHIND_THE_LENS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CAMEL",
@@ -9375,7 +9760,8 @@
   },
   "bytes_gz": 374455,
   "prompts_path": "sources/higgsfield/prompts/CAMEL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CAMEL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FULL_TIME_MOVIE",
@@ -9396,7 +9782,8 @@
   },
   "bytes_gz": 450317,
   "prompts_path": "sources/higgsfield/prompts/FULL_TIME_MOVIE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FULL_TIME_MOVIE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MOREK",
@@ -9417,7 +9804,8 @@
   },
   "bytes_gz": 313292,
   "prompts_path": "sources/higgsfield/prompts/MOREK/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MOREK/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HERU_OUTSIDE_THE_FEED",
@@ -9440,7 +9828,8 @@
   },
   "bytes_gz": 385583,
   "prompts_path": "sources/higgsfield/prompts/HERU_OUTSIDE_THE_FEED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HERU_OUTSIDE_THE_FEED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "JIU_JITSU_BEAR",
@@ -9460,7 +9849,8 @@
   },
   "bytes_gz": 283983,
   "prompts_path": "sources/higgsfield/prompts/JIU_JITSU_BEAR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/JIU_JITSU_BEAR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THANK_YOU_FOR_YOUR_HONESTY",
@@ -9485,7 +9875,8 @@
   },
   "bytes_gz": 46309,
   "prompts_path": "sources/higgsfield/prompts/THANK_YOU_FOR_YOUR_HONESTY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THANK_YOU_FOR_YOUR_HONESTY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_DAY",
@@ -9511,7 +9902,8 @@
   },
   "bytes_gz": 357051,
   "prompts_path": "sources/higgsfield/prompts/THE_DAY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_DAY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_BOY_WHO_KEPT_THE_SUN",
@@ -9532,7 +9924,8 @@
   },
   "bytes_gz": 220235,
   "prompts_path": "sources/higgsfield/prompts/THE_BOY_WHO_KEPT_THE_SUN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_BOY_WHO_KEPT_THE_SUN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WHAT_IS_LEFT_IS_WIND",
@@ -9554,7 +9947,8 @@
   },
   "bytes_gz": 186569,
   "prompts_path": "sources/higgsfield/prompts/WHAT_IS_LEFT_IS_WIND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WHAT_IS_LEFT_IS_WIND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_CURE",
@@ -9578,7 +9972,8 @@
   },
   "bytes_gz": 172996,
   "prompts_path": "sources/higgsfield/prompts/THE_CURE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_CURE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "YAKAMOZ",
@@ -9600,7 +9995,8 @@
   },
   "bytes_gz": 96896,
   "prompts_path": "sources/higgsfield/prompts/YAKAMOZ/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/YAKAMOZ/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ONE_OF_US",
@@ -9621,7 +10017,8 @@
   },
   "bytes_gz": 326090,
   "prompts_path": "sources/higgsfield/prompts/ONE_OF_US/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_OF_US/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THIS_ISNT_ART",
@@ -9653,7 +10050,8 @@
   },
   "bytes_gz": 63395,
   "prompts_path": "sources/higgsfield/prompts/THIS_ISNT_ART/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THIS_ISNT_ART/"
+  "docs_path": "sources/higgsfield/projects/THIS_ISNT_ART/",
+  "has_docs": true
  },
  {
   "project": "YOU_TIED_IT_WRONG",
@@ -9678,7 +10076,8 @@
   },
   "bytes_gz": 337212,
   "prompts_path": "sources/higgsfield/prompts/YOU_TIED_IT_WRONG/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/YOU_TIED_IT_WRONG/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DOODLE_DID_IT",
@@ -9699,7 +10098,8 @@
   },
   "bytes_gz": 102984,
   "prompts_path": "sources/higgsfield/prompts/DOODLE_DID_IT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DOODLE_DID_IT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "INNER_PEACE",
@@ -9724,7 +10124,8 @@
   },
   "bytes_gz": 83240,
   "prompts_path": "sources/higgsfield/prompts/INNER_PEACE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/INNER_PEACE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BILL",
@@ -9744,7 +10145,8 @@
   },
   "bytes_gz": 79554,
   "prompts_path": "sources/higgsfield/prompts/BILL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BILL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BUFFALO_FISH_OF_DUKONG",
@@ -9768,7 +10170,8 @@
   },
   "bytes_gz": 244930,
   "prompts_path": "sources/higgsfield/prompts/BUFFALO_FISH_OF_DUKONG/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BUFFALO_FISH_OF_DUKONG/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "KARKINOS",
@@ -9789,7 +10192,8 @@
   },
   "bytes_gz": 122630,
   "prompts_path": "sources/higgsfield/prompts/KARKINOS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/KARKINOS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PON",
@@ -9810,7 +10214,8 @@
   },
   "bytes_gz": 145271,
   "prompts_path": "sources/higgsfield/prompts/PON/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PON/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SKYGAZER",
@@ -9832,7 +10237,8 @@
   },
   "bytes_gz": 489243,
   "prompts_path": "sources/higgsfield/prompts/SKYGAZER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SKYGAZER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OLFEMIO_COLORS",
@@ -9856,7 +10262,8 @@
   },
   "bytes_gz": 113107,
   "prompts_path": "sources/higgsfield/prompts/OLFEMIO_COLORS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OLFEMIO_COLORS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ADAM",
@@ -9879,7 +10286,8 @@
   },
   "bytes_gz": 95620,
   "prompts_path": "sources/higgsfield/prompts/ADAM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ADAM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NESCIO",
@@ -9901,7 +10309,8 @@
   },
   "bytes_gz": 190757,
   "prompts_path": "sources/higgsfield/prompts/NESCIO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NESCIO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CLAMSHELL",
@@ -9922,7 +10331,8 @@
   },
   "bytes_gz": 83889,
   "prompts_path": "sources/higgsfield/prompts/CLAMSHELL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CLAMSHELL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MY_WAY_NAVILLUS",
@@ -9943,7 +10353,8 @@
   },
   "bytes_gz": 661362,
   "prompts_path": "sources/higgsfield/prompts/MY_WAY_NAVILLUS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MY_WAY_NAVILLUS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FALLEN_LEAVES",
@@ -9968,7 +10379,8 @@
   },
   "bytes_gz": 68844,
   "prompts_path": "sources/higgsfield/prompts/FALLEN_LEAVES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FALLEN_LEAVES/"
+  "docs_path": "sources/higgsfield/projects/FALLEN_LEAVES/",
+  "has_docs": true
  },
  {
   "project": "AGAPI_MOU",
@@ -9992,7 +10404,8 @@
   },
   "bytes_gz": 60575,
   "prompts_path": "sources/higgsfield/prompts/AGAPI_MOU/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AGAPI_MOU/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LOAD_BEARING",
@@ -10016,7 +10429,8 @@
   },
   "bytes_gz": 77077,
   "prompts_path": "sources/higgsfield/prompts/LOAD_BEARING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LOAD_BEARING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DRACHM_DORS",
@@ -10040,7 +10454,8 @@
   },
   "bytes_gz": 96418,
   "prompts_path": "sources/higgsfield/prompts/DRACHM_DORS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DRACHM_DORS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MELEDOF_THE_REBIRTH_OF_A_HERO",
@@ -10062,7 +10477,8 @@
   },
   "bytes_gz": 49931,
   "prompts_path": "sources/higgsfield/prompts/MELEDOF_THE_REBIRTH_OF_A_HERO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MELEDOF_THE_REBIRTH_OF_A_HERO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_SECOND",
@@ -10083,7 +10499,8 @@
   },
   "bytes_gz": 182972,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_SECOND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_SECOND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_SIGNAL_BETWEEN_WORDS",
@@ -10107,7 +10524,8 @@
   },
   "bytes_gz": 167038,
   "prompts_path": "sources/higgsfield/prompts/THE_SIGNAL_BETWEEN_WORDS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_SIGNAL_BETWEEN_WORDS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DUST_FEATHERS",
@@ -10129,7 +10547,8 @@
   },
   "bytes_gz": 354058,
   "prompts_path": "sources/higgsfield/prompts/DUST_FEATHERS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DUST_FEATHERS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WHERE_LETTERS_FALL",
@@ -10151,7 +10570,8 @@
   },
   "bytes_gz": 334679,
   "prompts_path": "sources/higgsfield/prompts/WHERE_LETTERS_FALL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WHERE_LETTERS_FALL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NALA_HEADS_DROP",
@@ -10176,7 +10596,8 @@
   },
   "bytes_gz": 85625,
   "prompts_path": "sources/higgsfield/prompts/NALA_HEADS_DROP/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NALA_HEADS_DROP/"
+  "docs_path": "sources/higgsfield/projects/NALA_HEADS_DROP/",
+  "has_docs": true
  },
  {
   "project": "WELCOME_TO_THE_TEAM",
@@ -10197,7 +10618,8 @@
   },
   "bytes_gz": 229352,
   "prompts_path": "sources/higgsfield/prompts/WELCOME_TO_THE_TEAM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WELCOME_TO_THE_TEAM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_VOW",
@@ -10218,7 +10640,8 @@
   },
   "bytes_gz": 69694,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_VOW/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_VOW/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SOUL_CAROUSELS",
@@ -10242,7 +10665,8 @@
   },
   "bytes_gz": 90231,
   "prompts_path": "sources/higgsfield/prompts/SOUL_CAROUSELS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SOUL_CAROUSELS/"
+  "docs_path": "sources/higgsfield/projects/SOUL_CAROUSELS/",
+  "has_docs": true
  },
  {
   "project": "THE_NEXT_MOVE",
@@ -10262,7 +10686,8 @@
   },
   "bytes_gz": 81962,
   "prompts_path": "sources/higgsfield/prompts/THE_NEXT_MOVE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_NEXT_MOVE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WORD_VS_WORLD",
@@ -10288,7 +10713,8 @@
   },
   "bytes_gz": 299270,
   "prompts_path": "sources/higgsfield/prompts/WORD_VS_WORLD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WORD_VS_WORLD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FOOL_S_GOLD",
@@ -10309,7 +10735,8 @@
   },
   "bytes_gz": 239358,
   "prompts_path": "sources/higgsfield/prompts/FOOL_S_GOLD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FOOL_S_GOLD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_WEEKEND",
@@ -10329,7 +10756,8 @@
   },
   "bytes_gz": 113954,
   "prompts_path": "sources/higgsfield/prompts/THE_WEEKEND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_WEEKEND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LOS_CENTINELAS_DE_LA_RED_THE_NET_SENTINLS",
@@ -10352,7 +10780,8 @@
   },
   "bytes_gz": 40008,
   "prompts_path": "sources/higgsfield/prompts/LOS_CENTINELAS_DE_LA_RED_THE_NET_SENTINLS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LOS_CENTINELAS_DE_LA_RED_THE_NET_SENTINLS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NINE_LIVES_AI_FILM_FESTIVAL",
@@ -10373,7 +10802,8 @@
   },
   "bytes_gz": 230804,
   "prompts_path": "sources/higgsfield/prompts/NINE_LIVES_AI_FILM_FESTIVAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NINE_LIVES_AI_FILM_FESTIVAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DYING_UNDER_THE_NEON_RAIN_FILM_TEASER",
@@ -10397,7 +10827,8 @@
   },
   "bytes_gz": 28614,
   "prompts_path": "sources/higgsfield/prompts/DYING_UNDER_THE_NEON_RAIN_FILM_TEASER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DYING_UNDER_THE_NEON_RAIN_FILM_TEASER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FLY",
@@ -10419,7 +10850,8 @@
   },
   "bytes_gz": 77966,
   "prompts_path": "sources/higgsfield/prompts/FLY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FLY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HELLO_NYC",
@@ -10442,7 +10874,8 @@
   },
   "bytes_gz": 152832,
   "prompts_path": "sources/higgsfield/prompts/HELLO_NYC/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HELLO_NYC/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MISTER_M",
@@ -10462,7 +10895,8 @@
   },
   "bytes_gz": 16167,
   "prompts_path": "sources/higgsfield/prompts/MISTER_M/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MISTER_M/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_THING_SHE_HELD",
@@ -10483,7 +10917,8 @@
   },
   "bytes_gz": 73328,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_THING_SHE_HELD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_THING_SHE_HELD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "IT_WAS_JUST_A_JOKE",
@@ -10504,7 +10939,8 @@
   },
   "bytes_gz": 168180,
   "prompts_path": "sources/higgsfield/prompts/IT_WAS_JUST_A_JOKE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/IT_WAS_JUST_A_JOKE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNDO",
@@ -10524,7 +10960,8 @@
   },
   "bytes_gz": 140317,
   "prompts_path": "sources/higgsfield/prompts/UNDO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNDO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BUCK",
@@ -10547,7 +10984,8 @@
   },
   "bytes_gz": 218831,
   "prompts_path": "sources/higgsfield/prompts/BUCK/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BUCK/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MOONLIT_TAIL",
@@ -10570,7 +11008,8 @@
   },
   "bytes_gz": 136518,
   "prompts_path": "sources/higgsfield/prompts/MOONLIT_TAIL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MOONLIT_TAIL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PINK_TRIANGLE",
@@ -10591,7 +11030,8 @@
   },
   "bytes_gz": 16786,
   "prompts_path": "sources/higgsfield/prompts/PINK_TRIANGLE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PINK_TRIANGLE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "14_DAYS",
@@ -10612,7 +11052,8 @@
   },
   "bytes_gz": 421691,
   "prompts_path": "sources/higgsfield/prompts/14_DAYS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/14_DAYS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ANIME_PRODUCTION",
@@ -10638,7 +11079,8 @@
   },
   "bytes_gz": 24910,
   "prompts_path": "sources/higgsfield/prompts/ANIME_PRODUCTION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ANIME_PRODUCTION/"
+  "docs_path": "sources/higgsfield/projects/ANIME_PRODUCTION/",
+  "has_docs": true
  },
  {
   "project": "DAYS_OF_LOVE",
@@ -10659,7 +11101,8 @@
   },
   "bytes_gz": 157737,
   "prompts_path": "sources/higgsfield/prompts/DAYS_OF_LOVE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DAYS_OF_LOVE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "QURAN_HEALS_THE_HEARTS",
@@ -10682,7 +11125,8 @@
   },
   "bytes_gz": 111277,
   "prompts_path": "sources/higgsfield/prompts/QURAN_HEALS_THE_HEARTS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/QURAN_HEALS_THE_HEARTS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RECOMMENDED",
@@ -10704,7 +11148,8 @@
   },
   "bytes_gz": 30737,
   "prompts_path": "sources/higgsfield/prompts/RECOMMENDED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RECOMMENDED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LAST_BREATH",
@@ -10725,7 +11170,8 @@
   },
   "bytes_gz": 59013,
   "prompts_path": "sources/higgsfield/prompts/LAST_BREATH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LAST_BREATH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MY_LITTLE_VILLAIN",
@@ -10746,7 +11192,8 @@
   },
   "bytes_gz": 119841,
   "prompts_path": "sources/higgsfield/prompts/MY_LITTLE_VILLAIN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MY_LITTLE_VILLAIN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "A_CALL_FROM_HORMUZ",
@@ -10768,7 +11215,8 @@
   },
   "bytes_gz": 14598,
   "prompts_path": "sources/higgsfield/prompts/A_CALL_FROM_HORMUZ/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/A_CALL_FROM_HORMUZ/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PERMANENT",
@@ -10791,7 +11239,8 @@
   },
   "bytes_gz": 94859,
   "prompts_path": "sources/higgsfield/prompts/PERMANENT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PERMANENT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_NEW_GIRL",
@@ -10817,7 +11266,8 @@
   },
   "bytes_gz": 112388,
   "prompts_path": "sources/higgsfield/prompts/THE_NEW_GIRL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_NEW_GIRL/"
+  "docs_path": "sources/higgsfield/projects/THE_NEW_GIRL/",
+  "has_docs": true
  },
  {
   "project": "THE_WRATH_OF_THE_MONARCH",
@@ -10838,7 +11288,8 @@
   },
   "bytes_gz": 266230,
   "prompts_path": "sources/higgsfield/prompts/THE_WRATH_OF_THE_MONARCH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_WRATH_OF_THE_MONARCH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_GARDEN",
@@ -10861,7 +11312,8 @@
   },
   "bytes_gz": 78318,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_GARDEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_GARDEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BUD_5_1",
@@ -10881,7 +11333,8 @@
   },
   "bytes_gz": 57109,
   "prompts_path": "sources/higgsfield/prompts/BUD_5_1/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BUD_5_1/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BRAMBLE",
@@ -10907,7 +11360,8 @@
   },
   "bytes_gz": 181086,
   "prompts_path": "sources/higgsfield/prompts/BRAMBLE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BRAMBLE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_DREAMER",
@@ -10928,7 +11382,8 @@
   },
   "bytes_gz": 20885,
   "prompts_path": "sources/higgsfield/prompts/THE_DREAMER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_DREAMER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ATHERIA",
@@ -10951,7 +11406,8 @@
   },
   "bytes_gz": 190344,
   "prompts_path": "sources/higgsfield/prompts/ATHERIA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ATHERIA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "QARA_SHANYRAQ",
@@ -10972,7 +11428,8 @@
   },
   "bytes_gz": 122083,
   "prompts_path": "sources/higgsfield/prompts/QARA_SHANYRAQ/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/QARA_SHANYRAQ/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BARZAKH",
@@ -10992,7 +11449,8 @@
   },
   "bytes_gz": 34993,
   "prompts_path": "sources/higgsfield/prompts/BARZAKH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BARZAKH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NAME_IS_COMET",
@@ -11016,7 +11474,8 @@
   },
   "bytes_gz": 102050,
   "prompts_path": "sources/higgsfield/prompts/NAME_IS_COMET/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NAME_IS_COMET/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "A_PLACE_CALLED_HOME",
@@ -11036,7 +11495,8 @@
   },
   "bytes_gz": 77486,
   "prompts_path": "sources/higgsfield/prompts/A_PLACE_CALLED_HOME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/A_PLACE_CALLED_HOME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TOMMY_ALWAYS_DOES_THE_RIGHT_THING",
@@ -11056,7 +11516,8 @@
   },
   "bytes_gz": 107391,
   "prompts_path": "sources/higgsfield/prompts/TOMMY_ALWAYS_DOES_THE_RIGHT_THING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TOMMY_ALWAYS_DOES_THE_RIGHT_THING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_CURE",
@@ -11077,7 +11538,8 @@
   },
   "bytes_gz": 136219,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_CURE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_CURE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_PLAYGROUND",
@@ -11100,7 +11562,8 @@
   },
   "bytes_gz": 157164,
   "prompts_path": "sources/higgsfield/prompts/THE_PLAYGROUND/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_PLAYGROUND/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "KNOCK_KNOCK_KNOCK",
@@ -11123,7 +11586,8 @@
   },
   "bytes_gz": 368891,
   "prompts_path": "sources/higgsfield/prompts/KNOCK_KNOCK_KNOCK/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/KNOCK_KNOCK_KNOCK/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MORTAL_KOMBAT_ARC_SERIES",
@@ -11143,7 +11607,8 @@
   },
   "bytes_gz": 456641,
   "prompts_path": "sources/higgsfield/prompts/MORTAL_KOMBAT_ARC_SERIES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MORTAL_KOMBAT_ARC_SERIES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "IN_A_MINUTE",
@@ -11165,7 +11630,8 @@
   },
   "bytes_gz": 50625,
   "prompts_path": "sources/higgsfield/prompts/IN_A_MINUTE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/IN_A_MINUTE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_ONE_THAT_LOOKED",
@@ -11189,7 +11655,8 @@
   },
   "bytes_gz": 35306,
   "prompts_path": "sources/higgsfield/prompts/THE_ONE_THAT_LOOKED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_ONE_THAT_LOOKED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MARCO_POLO",
@@ -11209,7 +11676,8 @@
   },
   "bytes_gz": 132830,
   "prompts_path": "sources/higgsfield/prompts/MARCO_POLO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MARCO_POLO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MADA",
@@ -11229,7 +11697,8 @@
   },
   "bytes_gz": 176277,
   "prompts_path": "sources/higgsfield/prompts/MADA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MADA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NOT_A_MONSTER_MOVIE_A_ONE_TAKE_FILM",
@@ -11251,7 +11720,8 @@
   },
   "bytes_gz": 344935,
   "prompts_path": "sources/higgsfield/prompts/NOT_A_MONSTER_MOVIE_A_ONE_TAKE_FILM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NOT_A_MONSTER_MOVIE_A_ONE_TAKE_FILM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CONQUER_THE_WORLD_WITH_YOU",
@@ -11272,7 +11742,8 @@
   },
   "bytes_gz": 7523,
   "prompts_path": "sources/higgsfield/prompts/CONQUER_THE_WORLD_WITH_YOU/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CONQUER_THE_WORLD_WITH_YOU/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "22_CASES_A_TRUE_CRIME_STORY",
@@ -11295,7 +11766,8 @@
   },
   "bytes_gz": 127010,
   "prompts_path": "sources/higgsfield/prompts/22_CASES_A_TRUE_CRIME_STORY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/22_CASES_A_TRUE_CRIME_STORY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LAST_CALL",
@@ -11319,7 +11791,8 @@
   },
   "bytes_gz": 30112,
   "prompts_path": "sources/higgsfield/prompts/LAST_CALL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LAST_CALL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NIGHTFORGE",
@@ -11339,7 +11812,8 @@
   },
   "bytes_gz": 89619,
   "prompts_path": "sources/higgsfield/prompts/NIGHTFORGE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NIGHTFORGE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SANTA_S_HAWAIIAN_VACATION",
@@ -11359,7 +11833,8 @@
   },
   "bytes_gz": 148098,
   "prompts_path": "sources/higgsfield/prompts/SANTA_S_HAWAIIAN_VACATION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SANTA_S_HAWAIIAN_VACATION/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BLACKPINE",
@@ -11386,7 +11861,8 @@
   },
   "bytes_gz": 147806,
   "prompts_path": "sources/higgsfield/prompts/BLACKPINE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BLACKPINE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LIFE_METER",
@@ -11407,7 +11883,8 @@
   },
   "bytes_gz": 34919,
   "prompts_path": "sources/higgsfield/prompts/LIFE_METER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LIFE_METER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "YOU_HAD_TO",
@@ -11428,7 +11905,8 @@
   },
   "bytes_gz": 70380,
   "prompts_path": "sources/higgsfield/prompts/YOU_HAD_TO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/YOU_HAD_TO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LOST",
@@ -11448,7 +11926,8 @@
   },
   "bytes_gz": 6446,
   "prompts_path": "sources/higgsfield/prompts/LOST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LOST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_FESTIVAL",
@@ -11469,7 +11948,8 @@
   },
   "bytes_gz": 308106,
   "prompts_path": "sources/higgsfield/prompts/THE_FESTIVAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_FESTIVAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_PARDON_GAMES",
@@ -11489,7 +11969,8 @@
   },
   "bytes_gz": 12549,
   "prompts_path": "sources/higgsfield/prompts/THE_PARDON_GAMES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_PARDON_GAMES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AURA_SOURCE",
@@ -11509,7 +11990,8 @@
   },
   "bytes_gz": 62741,
   "prompts_path": "sources/higgsfield/prompts/AURA_SOURCE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AURA_SOURCE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CHIRAK",
@@ -11530,7 +12012,8 @@
   },
   "bytes_gz": 52965,
   "prompts_path": "sources/higgsfield/prompts/CHIRAK/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CHIRAK/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WONDER_AGENT",
@@ -11551,7 +12034,8 @@
   },
   "bytes_gz": 244230,
   "prompts_path": "sources/higgsfield/prompts/WONDER_AGENT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WONDER_AGENT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AURA",
@@ -11571,7 +12055,8 @@
   },
   "bytes_gz": 196950,
   "prompts_path": "sources/higgsfield/prompts/AURA/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AURA/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_VALLEY_OF_RUINS",
@@ -11594,7 +12079,8 @@
   },
   "bytes_gz": 4257,
   "prompts_path": "sources/higgsfield/prompts/THE_VALLEY_OF_RUINS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_VALLEY_OF_RUINS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TEST_21",
@@ -11618,7 +12104,8 @@
   },
   "bytes_gz": 79558,
   "prompts_path": "sources/higgsfield/prompts/TEST_21/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TEST_21/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "777_THE_LAST_PRIZE",
@@ -11642,7 +12129,8 @@
   },
   "bytes_gz": 85482,
   "prompts_path": "sources/higgsfield/prompts/777_THE_LAST_PRIZE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/777_THE_LAST_PRIZE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OUT_OF_FRAME",
@@ -11663,7 +12151,8 @@
   },
   "bytes_gz": 189283,
   "prompts_path": "sources/higgsfield/prompts/OUT_OF_FRAME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OUT_OF_FRAME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "REVELATION",
@@ -11685,7 +12174,8 @@
   },
   "bytes_gz": 95620,
   "prompts_path": "sources/higgsfield/prompts/REVELATION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/REVELATION/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_WEIGHT_OF_OUR_STEPS",
@@ -11706,7 +12196,8 @@
   },
   "bytes_gz": 39071,
   "prompts_path": "sources/higgsfield/prompts/THE_WEIGHT_OF_OUR_STEPS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_WEIGHT_OF_OUR_STEPS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MORE",
@@ -11726,7 +12217,8 @@
   },
   "bytes_gz": 139704,
   "prompts_path": "sources/higgsfield/prompts/MORE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MORE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SWAPPED",
@@ -11751,7 +12243,8 @@
   },
   "bytes_gz": 99513,
   "prompts_path": "sources/higgsfield/prompts/SWAPPED/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SWAPPED/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BLAKE_HERITAGE",
@@ -11772,7 +12265,8 @@
   },
   "bytes_gz": 68259,
   "prompts_path": "sources/higgsfield/prompts/BLAKE_HERITAGE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BLAKE_HERITAGE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ILL_SLEEP_EARLY",
@@ -11797,7 +12291,8 @@
   },
   "bytes_gz": 255408,
   "prompts_path": "sources/higgsfield/prompts/ILL_SLEEP_EARLY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ILL_SLEEP_EARLY/"
+  "docs_path": "sources/higgsfield/projects/ILL_SLEEP_EARLY/",
+  "has_docs": true
  },
  {
   "project": "I_LL_SLEEP_EARLY_PROMISE",
@@ -11820,7 +12315,8 @@
   },
   "bytes_gz": 255323,
   "prompts_path": "sources/higgsfield/prompts/I_LL_SLEEP_EARLY_PROMISE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/I_LL_SLEEP_EARLY_PROMISE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SOUL_ANGEL",
@@ -11843,7 +12339,8 @@
   },
   "bytes_gz": 158811,
   "prompts_path": "sources/higgsfield/prompts/SOUL_ANGEL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SOUL_ANGEL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_ELEVATOR",
@@ -11865,7 +12362,8 @@
   },
   "bytes_gz": 107338,
   "prompts_path": "sources/higgsfield/prompts/THE_ELEVATOR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_ELEVATOR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "JURASSIC_T_REX_ECHO",
@@ -11887,7 +12385,8 @@
   },
   "bytes_gz": 17209,
   "prompts_path": "sources/higgsfield/prompts/JURASSIC_T_REX_ECHO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/JURASSIC_T_REX_ECHO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DID_WE_HAVE_A_CHOICE",
@@ -11907,7 +12406,8 @@
   },
   "bytes_gz": 67052,
   "prompts_path": "sources/higgsfield/prompts/DID_WE_HAVE_A_CHOICE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DID_WE_HAVE_A_CHOICE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OEDIPUS",
@@ -11932,7 +12432,8 @@
   },
   "bytes_gz": 139843,
   "prompts_path": "sources/higgsfield/prompts/OEDIPUS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OEDIPUS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ONE_MORE_TIME",
@@ -11957,7 +12458,8 @@
   },
   "bytes_gz": 74048,
   "prompts_path": "sources/higgsfield/prompts/ONE_MORE_TIME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_MORE_TIME/"
+  "docs_path": "sources/higgsfield/projects/ONE_MORE_TIME/",
+  "has_docs": true
  },
  {
   "project": "SOMEWHERE_STILL",
@@ -11978,7 +12480,8 @@
   },
   "bytes_gz": 134150,
   "prompts_path": "sources/higgsfield/prompts/SOMEWHERE_STILL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SOMEWHERE_STILL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "EXODUS",
@@ -12000,7 +12503,8 @@
   },
   "bytes_gz": 239692,
   "prompts_path": "sources/higgsfield/prompts/EXODUS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EXODUS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "S_KOU",
@@ -12021,7 +12525,8 @@
   },
   "bytes_gz": 26529,
   "prompts_path": "sources/higgsfield/prompts/S_KOU/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/S_KOU/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LITTLE_INTERPRETER",
@@ -12041,7 +12546,8 @@
   },
   "bytes_gz": 68475,
   "prompts_path": "sources/higgsfield/prompts/THE_LITTLE_INTERPRETER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LITTLE_INTERPRETER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SUNSHINE_9000M",
@@ -12065,7 +12571,8 @@
   },
   "bytes_gz": 11075,
   "prompts_path": "sources/higgsfield/prompts/SUNSHINE_9000M/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SUNSHINE_9000M/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TRIP_TO_DUAT",
@@ -12089,7 +12596,8 @@
   },
   "bytes_gz": 126076,
   "prompts_path": "sources/higgsfield/prompts/TRIP_TO_DUAT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TRIP_TO_DUAT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BALI",
@@ -12109,7 +12617,8 @@
   },
   "bytes_gz": 125835,
   "prompts_path": "sources/higgsfield/prompts/BALI/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BALI/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_BEGINNING_TO_THE_END",
@@ -12129,7 +12638,8 @@
   },
   "bytes_gz": 22009,
   "prompts_path": "sources/higgsfield/prompts/THE_BEGINNING_TO_THE_END/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_BEGINNING_TO_THE_END/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GOODNIGHT_MILWAUKEE",
@@ -12153,7 +12663,8 @@
   },
   "bytes_gz": 15819,
   "prompts_path": "sources/higgsfield/prompts/GOODNIGHT_MILWAUKEE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GOODNIGHT_MILWAUKEE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RESET_ME",
@@ -12176,7 +12687,8 @@
   },
   "bytes_gz": 23622,
   "prompts_path": "sources/higgsfield/prompts/RESET_ME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RESET_ME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OTTO",
@@ -12203,7 +12715,8 @@
   },
   "bytes_gz": 73581,
   "prompts_path": "sources/higgsfield/prompts/OTTO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OTTO/"
+  "docs_path": "sources/higgsfield/projects/OTTO/",
+  "has_docs": true
  },
  {
   "project": "SMALL",
@@ -12227,7 +12740,8 @@
   },
   "bytes_gz": 154744,
   "prompts_path": "sources/higgsfield/prompts/SMALL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SMALL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DANCE_OF_THE_WRAITH",
@@ -12247,7 +12761,8 @@
   },
   "bytes_gz": 73628,
   "prompts_path": "sources/higgsfield/prompts/DANCE_OF_THE_WRAITH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DANCE_OF_THE_WRAITH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PIXEL_BLOOM",
@@ -12270,7 +12785,8 @@
   },
   "bytes_gz": 66000,
   "prompts_path": "sources/higgsfield/prompts/PIXEL_BLOOM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PIXEL_BLOOM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CAMPING",
@@ -12291,7 +12807,8 @@
   },
   "bytes_gz": 57783,
   "prompts_path": "sources/higgsfield/prompts/CAMPING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CAMPING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_COLOR",
@@ -12311,7 +12828,8 @@
   },
   "bytes_gz": 80427,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_COLOR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_COLOR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNDERRATED_SHORT_MOVIE",
@@ -12332,7 +12850,8 @@
   },
   "bytes_gz": 52247,
   "prompts_path": "sources/higgsfield/prompts/UNDERRATED_SHORT_MOVIE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNDERRATED_SHORT_MOVIE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BLINK",
@@ -12356,7 +12875,8 @@
   },
   "bytes_gz": 181788,
   "prompts_path": "sources/higgsfield/prompts/BLINK/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BLINK/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_DEPARTMENT_OF_FORGOTTEN_THINGS",
@@ -12380,7 +12900,8 @@
   },
   "bytes_gz": 113680,
   "prompts_path": "sources/higgsfield/prompts/THE_DEPARTMENT_OF_FORGOTTEN_THINGS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_DEPARTMENT_OF_FORGOTTEN_THINGS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AFTER_HOURS",
@@ -12403,7 +12924,8 @@
   },
   "bytes_gz": 111309,
   "prompts_path": "sources/higgsfield/prompts/AFTER_HOURS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AFTER_HOURS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TOP_UP_CINEMATIC_AD_BREAKDOWN",
@@ -12426,7 +12948,8 @@
   },
   "bytes_gz": 62153,
   "prompts_path": "sources/higgsfield/prompts/TOP_UP_CINEMATIC_AD_BREAKDOWN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TOP_UP_CINEMATIC_AD_BREAKDOWN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "UNTOLD_STORIES",
@@ -12449,7 +12972,8 @@
   },
   "bytes_gz": 89900,
   "prompts_path": "sources/higgsfield/prompts/UNTOLD_STORIES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/UNTOLD_STORIES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HUNTRESS_TALE",
@@ -12475,7 +12999,8 @@
   },
   "bytes_gz": 55823,
   "prompts_path": "sources/higgsfield/prompts/HUNTRESS_TALE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HUNTRESS_TALE/"
+  "docs_path": "sources/higgsfield/projects/HUNTRESS_TALE/",
+  "has_docs": true
  },
  {
   "project": "THE_PILL",
@@ -12495,7 +13020,8 @@
   },
   "bytes_gz": 6004,
   "prompts_path": "sources/higgsfield/prompts/THE_PILL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_PILL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TOP_UP_AD",
@@ -12521,7 +13047,8 @@
   },
   "bytes_gz": 61631,
   "prompts_path": "sources/higgsfield/prompts/TOP_UP_AD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TOP_UP_AD/"
+  "docs_path": "sources/higgsfield/projects/TOP_UP_AD/",
+  "has_docs": true
  },
  {
   "project": "THE_SEAM",
@@ -12543,7 +13070,8 @@
   },
   "bytes_gz": 56269,
   "prompts_path": "sources/higgsfield/prompts/THE_SEAM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_SEAM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BLOOD_PASSAGES_THE_RETURN_OF_THE_CRIMSON_KING",
@@ -12564,7 +13092,8 @@
   },
   "bytes_gz": 18696,
   "prompts_path": "sources/higgsfield/prompts/BLOOD_PASSAGES_THE_RETURN_OF_THE_CRIMSON_KING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BLOOD_PASSAGES_THE_RETURN_OF_THE_CRIMSON_KING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "COMING_BACK",
@@ -12584,7 +13113,8 @@
   },
   "bytes_gz": 26494,
   "prompts_path": "sources/higgsfield/prompts/COMING_BACK/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/COMING_BACK/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "IT_S_ME",
@@ -12604,7 +13134,8 @@
   },
   "bytes_gz": 59576,
   "prompts_path": "sources/higgsfield/prompts/IT_S_ME/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/IT_S_ME/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_HARVEST",
@@ -12624,7 +13155,8 @@
   },
   "bytes_gz": 11844,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_HARVEST/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_HARVEST/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TOKYO_4_17",
@@ -12645,7 +13177,8 @@
   },
   "bytes_gz": 92118,
   "prompts_path": "sources/higgsfield/prompts/TOKYO_4_17/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TOKYO_4_17/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "KAI_CENAT_SU2_VFX",
@@ -12672,7 +13205,8 @@
   },
   "bytes_gz": 5998,
   "prompts_path": "sources/higgsfield/prompts/KAI_CENAT_SU2_VFX/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/KAI_CENAT_SU2_VFX/"
+  "docs_path": "sources/higgsfield/projects/KAI_CENAT_SU2_VFX/",
+  "has_docs": true
  },
  {
   "project": "THE_KNIFE",
@@ -12695,7 +13229,8 @@
   },
   "bytes_gz": 17330,
   "prompts_path": "sources/higgsfield/prompts/THE_KNIFE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_KNIFE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_BIT",
@@ -12715,7 +13250,8 @@
   },
   "bytes_gz": 63854,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_BIT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_BIT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "AGBOGBLOSHIE",
@@ -12735,7 +13271,8 @@
   },
   "bytes_gz": 50938,
   "prompts_path": "sources/higgsfield/prompts/AGBOGBLOSHIE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/AGBOGBLOSHIE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "DETECTIVE_STORY",
@@ -12756,7 +13293,8 @@
   },
   "bytes_gz": 44728,
   "prompts_path": "sources/higgsfield/prompts/DETECTIVE_STORY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DETECTIVE_STORY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_STAFF",
@@ -12776,7 +13314,8 @@
   },
   "bytes_gz": 302405,
   "prompts_path": "sources/higgsfield/prompts/THE_STAFF/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_STAFF/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BATTLE_FOR_THE_MONOLITH",
@@ -12796,7 +13335,8 @@
   },
   "bytes_gz": 7884,
   "prompts_path": "sources/higgsfield/prompts/BATTLE_FOR_THE_MONOLITH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BATTLE_FOR_THE_MONOLITH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FOUR_YEARS_AND_SOME_FREAKS",
@@ -12821,7 +13361,8 @@
   },
   "bytes_gz": 58104,
   "prompts_path": "sources/higgsfield/prompts/FOUR_YEARS_AND_SOME_FREAKS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FOUR_YEARS_AND_SOME_FREAKS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "REWIND_CLUB",
@@ -12843,7 +13384,8 @@
   },
   "bytes_gz": 7240,
   "prompts_path": "sources/higgsfield/prompts/REWIND_CLUB/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/REWIND_CLUB/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEEDREAM_5_PRO_PAINTED_EDITORIAL",
@@ -12861,7 +13403,8 @@
   "models": {},
   "bytes_gz": 15998,
   "prompts_path": "sources/higgsfield/prompts/SEEDREAM_5_PRO_PAINTED_EDITORIAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEEDREAM_5_PRO_PAINTED_EDITORIAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_JOURNEY",
@@ -12882,7 +13425,8 @@
   },
   "bytes_gz": 99042,
   "prompts_path": "sources/higgsfield/prompts/THE_JOURNEY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_JOURNEY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LIFE_HE_DIDN_T_LIVE",
@@ -12900,7 +13444,8 @@
   "models": {},
   "bytes_gz": 15673,
   "prompts_path": "sources/higgsfield/prompts/THE_LIFE_HE_DIDN_T_LIVE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LIFE_HE_DIDN_T_LIVE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BY_YOUR_SIDE",
@@ -12923,7 +13468,8 @@
   },
   "bytes_gz": 116793,
   "prompts_path": "sources/higgsfield/prompts/BY_YOUR_SIDE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BY_YOUR_SIDE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEED_AUDIO_1_0_LAUNCH_VIDEO",
@@ -12946,7 +13492,8 @@
   },
   "bytes_gz": 29505,
   "prompts_path": "sources/higgsfield/prompts/SEED_AUDIO_1_0_LAUNCH_VIDEO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEED_AUDIO_1_0_LAUNCH_VIDEO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SIMPLE_THINGS",
@@ -12966,7 +13513,8 @@
   },
   "bytes_gz": 57530,
   "prompts_path": "sources/higgsfield/prompts/SIMPLE_THINGS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SIMPLE_THINGS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026",
@@ -12992,7 +13540,8 @@
   },
   "bytes_gz": 20275,
   "prompts_path": "sources/higgsfield/prompts/MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "QUEEN_NOIR",
@@ -13014,7 +13563,8 @@
   },
   "bytes_gz": 42931,
   "prompts_path": "sources/higgsfield/prompts/QUEEN_NOIR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/QUEEN_NOIR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SHE_NEVER_LEFT",
@@ -13035,7 +13585,8 @@
   },
   "bytes_gz": 58343,
   "prompts_path": "sources/higgsfield/prompts/SHE_NEVER_LEFT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SHE_NEVER_LEFT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GIRLS_DEMONS",
@@ -13065,7 +13616,8 @@
   },
   "bytes_gz": 292598,
   "prompts_path": "sources/higgsfield/prompts/GIRLS_DEMONS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GIRLS_DEMONS/"
+  "docs_path": "sources/higgsfield/projects/GIRLS_DEMONS/",
+  "has_docs": true
  },
  {
   "project": "LEADVILLE",
@@ -13086,7 +13638,8 @@
   },
   "bytes_gz": 70690,
   "prompts_path": "sources/higgsfield/prompts/LEADVILLE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LEADVILLE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "POWER",
@@ -13106,7 +13659,8 @@
   },
   "bytes_gz": 82576,
   "prompts_path": "sources/higgsfield/prompts/POWER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/POWER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_THREAD",
@@ -13127,7 +13681,8 @@
   },
   "bytes_gz": 107116,
   "prompts_path": "sources/higgsfield/prompts/THE_THREAD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_THREAD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BURNING_TOWN",
@@ -13147,7 +13702,8 @@
   },
   "bytes_gz": 15563,
   "prompts_path": "sources/higgsfield/prompts/BURNING_TOWN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BURNING_TOWN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEEDANCE_2_0_4K_SHOWCASE",
@@ -13169,7 +13725,8 @@
   },
   "bytes_gz": 70208,
   "prompts_path": "sources/higgsfield/prompts/SEEDANCE_2_0_4K_SHOWCASE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEEDANCE_2_0_4K_SHOWCASE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LAST_TRANSMISSION",
@@ -13190,7 +13747,8 @@
   },
   "bytes_gz": 33766,
   "prompts_path": "sources/higgsfield/prompts/THE_LAST_TRANSMISSION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LAST_TRANSMISSION/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TO_LIVE_ANOTHER_MORNING",
@@ -13211,7 +13769,8 @@
   },
   "bytes_gz": 44286,
   "prompts_path": "sources/higgsfield/prompts/TO_LIVE_ANOTHER_MORNING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TO_LIVE_ANOTHER_MORNING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_END_TO_THE_BEGINNING",
@@ -13231,7 +13790,8 @@
   },
   "bytes_gz": 40804,
   "prompts_path": "sources/higgsfield/prompts/THE_END_TO_THE_BEGINNING/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_END_TO_THE_BEGINNING/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_WRONG_GURDIAN",
@@ -13251,7 +13811,8 @@
   },
   "bytes_gz": 35605,
   "prompts_path": "sources/higgsfield/prompts/THE_WRONG_GURDIAN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_WRONG_GURDIAN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WORTH",
@@ -13273,7 +13834,8 @@
   },
   "bytes_gz": 23173,
   "prompts_path": "sources/higgsfield/prompts/WORTH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WORTH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "RAYEN",
@@ -13293,7 +13855,8 @@
   },
   "bytes_gz": 31611,
   "prompts_path": "sources/higgsfield/prompts/RAYEN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/RAYEN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_ZERO_SLASHER",
@@ -13315,7 +13878,8 @@
   },
   "bytes_gz": 15455,
   "prompts_path": "sources/higgsfield/prompts/THE_ZERO_SLASHER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_ZERO_SLASHER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SUNSHINE_V2_6_56",
@@ -13333,7 +13897,8 @@
   "models": {},
   "bytes_gz": 6661,
   "prompts_path": "sources/higgsfield/prompts/SUNSHINE_V2_6_56/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SUNSHINE_V2_6_56/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "OCEAN",
@@ -13356,7 +13921,8 @@
   },
   "bytes_gz": 78659,
   "prompts_path": "sources/higgsfield/prompts/OCEAN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/OCEAN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_LITTLE_WILD",
@@ -13377,7 +13943,8 @@
   },
   "bytes_gz": 80210,
   "prompts_path": "sources/higgsfield/prompts/THE_LITTLE_WILD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_LITTLE_WILD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "INSIDE_AI_COMMERCIAL",
@@ -13397,7 +13964,8 @@
   },
   "bytes_gz": 94855,
   "prompts_path": "sources/higgsfield/prompts/INSIDE_AI_COMMERCIAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/INSIDE_AI_COMMERCIAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CTRL_HOLD_MV",
@@ -13422,7 +13990,8 @@
   },
   "bytes_gz": 108028,
   "prompts_path": "sources/higgsfield/prompts/CTRL_HOLD_MV/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CTRL_HOLD_MV/"
+  "docs_path": "sources/higgsfield/projects/CTRL_HOLD_MV/",
+  "has_docs": true
  },
  {
   "project": "HIGGSFIELD_ACADEMY_ASKAR",
@@ -13444,7 +14013,8 @@
   },
   "bytes_gz": 47396,
   "prompts_path": "sources/higgsfield/prompts/HIGGSFIELD_ACADEMY_ASKAR/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HIGGSFIELD_ACADEMY_ASKAR/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HIGGSFIELD_ACADEMY_PROJECT",
@@ -13471,7 +14041,8 @@
   },
   "bytes_gz": 47297,
   "prompts_path": "sources/higgsfield/prompts/HIGGSFIELD_ACADEMY_PROJECT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HIGGSFIELD_ACADEMY_PROJECT/"
+  "docs_path": "sources/higgsfield/projects/HIGGSFIELD_ACADEMY_PROJECT/",
+  "has_docs": true
  },
  {
   "project": "THE_COMPANION",
@@ -13496,7 +14067,8 @@
   },
   "bytes_gz": 329729,
   "prompts_path": "sources/higgsfield/prompts/THE_COMPANION/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_COMPANION/"
+  "docs_path": "sources/higgsfield/projects/THE_COMPANION/",
+  "has_docs": true
  },
  {
   "project": "BEYOND_THE_RIFT_A",
@@ -13520,7 +14092,8 @@
   },
   "bytes_gz": 35924,
   "prompts_path": "sources/higgsfield/prompts/BEYOND_THE_RIFT_A/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BEYOND_THE_RIFT_A/"
+  "docs_path": "sources/higgsfield/projects/BEYOND_THE_RIFT_A/",
+  "has_docs": true
  },
  {
   "project": "ONE_LAST_THREAD",
@@ -13541,7 +14114,8 @@
   },
   "bytes_gz": 26949,
   "prompts_path": "sources/higgsfield/prompts/ONE_LAST_THREAD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ONE_LAST_THREAD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "PLANET_47",
@@ -13561,7 +14135,8 @@
   },
   "bytes_gz": 19945,
   "prompts_path": "sources/higgsfield/prompts/PLANET_47/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/PLANET_47/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "EMBERDANT_SEASON_1_PART_1_TRAILER",
@@ -13585,7 +14160,8 @@
   },
   "bytes_gz": 21925,
   "prompts_path": "sources/higgsfield/prompts/EMBERDANT_SEASON_1_PART_1_TRAILER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EMBERDANT_SEASON_1_PART_1_TRAILER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEEDANCE_2_5_DONUT_COMMERCIAL",
@@ -13606,7 +14182,8 @@
   },
   "bytes_gz": 15035,
   "prompts_path": "sources/higgsfield/prompts/SEEDANCE_2_5_DONUT_COMMERCIAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEEDANCE_2_5_DONUT_COMMERCIAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TOKYO_DRIFT",
@@ -13627,7 +14204,8 @@
   },
   "bytes_gz": 111899,
   "prompts_path": "sources/higgsfield/prompts/TOKYO_DRIFT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TOKYO_DRIFT/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CHANDLER_ROLLERBLADE_COMMERCIAL",
@@ -13650,7 +14228,8 @@
   },
   "bytes_gz": 13026,
   "prompts_path": "sources/higgsfield/prompts/CHANDLER_ROLLERBLADE_COMMERCIAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CHANDLER_ROLLERBLADE_COMMERCIAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NEXUS_MARK_OF_THE_VEIL_EPISODE_1",
@@ -13670,7 +14249,8 @@
   },
   "bytes_gz": 38188,
   "prompts_path": "sources/higgsfield/prompts/NEXUS_MARK_OF_THE_VEIL_EPISODE_1/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NEXUS_MARK_OF_THE_VEIL_EPISODE_1/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SUNSHINE_V1_6_34_PIXAR_STYLE_AI_SHORT_FILM",
@@ -13688,7 +14268,8 @@
   "models": {},
   "bytes_gz": 6881,
   "prompts_path": "sources/higgsfield/prompts/SUNSHINE_V1_6_34_PIXAR_STYLE_AI_SHORT_FILM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SUNSHINE_V1_6_34_PIXAR_STYLE_AI_SHORT_FILM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FULL_PHOTO",
@@ -13708,7 +14289,8 @@
   },
   "bytes_gz": 55839,
   "prompts_path": "sources/higgsfield/prompts/FULL_PHOTO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FULL_PHOTO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GOTHIC_BEACH",
@@ -13730,7 +14312,8 @@
   },
   "bytes_gz": 37419,
   "prompts_path": "sources/higgsfield/prompts/GOTHIC_BEACH/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GOTHIC_BEACH/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "WHIMSY_BAG",
@@ -13756,7 +14339,8 @@
   },
   "bytes_gz": 23064,
   "prompts_path": "sources/higgsfield/prompts/WHIMSY_BAG/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/WHIMSY_BAG/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SPACE_CHORES",
@@ -13779,7 +14363,8 @@
   },
   "bytes_gz": 20320,
   "prompts_path": "sources/higgsfield/prompts/SPACE_CHORES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SPACE_CHORES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEEDANCE_2_GLOW_MASK_COMMERCIAL",
@@ -13801,7 +14386,8 @@
   },
   "bytes_gz": 9027,
   "prompts_path": "sources/higgsfield/prompts/SEEDANCE_2_GLOW_MASK_COMMERCIAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEEDANCE_2_GLOW_MASK_COMMERCIAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEEDANCE_4K_VS_1080P_PRODUCT_COMMERCIALS",
@@ -13824,7 +14410,8 @@
   },
   "bytes_gz": 19160,
   "prompts_path": "sources/higgsfield/prompts/SEEDANCE_4K_VS_1080P_PRODUCT_COMMERCIALS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEEDANCE_4K_VS_1080P_PRODUCT_COMMERCIALS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "EMERALD_VANGUARD",
@@ -13846,7 +14433,8 @@
   },
   "bytes_gz": 36596,
   "prompts_path": "sources/higgsfield/prompts/EMERALD_VANGUARD/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EMERALD_VANGUARD/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "TODAY_IS_YOUR_DAY",
@@ -13872,7 +14460,8 @@
   },
   "bytes_gz": 18606,
   "prompts_path": "sources/higgsfield/prompts/TODAY_IS_YOUR_DAY/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/TODAY_IS_YOUR_DAY/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "EVERYTHING_NICE",
@@ -13899,7 +14488,8 @@
   },
   "bytes_gz": 39791,
   "prompts_path": "sources/higgsfield/prompts/EVERYTHING_NICE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EVERYTHING_NICE/"
+  "docs_path": "sources/higgsfield/projects/EVERYTHING_NICE/",
+  "has_docs": true
  },
  {
   "project": "EVERYTHING_NICE_HAPPENS_WHEN_I_SLEEP",
@@ -13920,7 +14510,8 @@
   },
   "bytes_gz": 39768,
   "prompts_path": "sources/higgsfield/prompts/EVERYTHING_NICE_HAPPENS_WHEN_I_SLEEP/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/EVERYTHING_NICE_HAPPENS_WHEN_I_SLEEP/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "THE_CABAL",
@@ -13940,7 +14531,8 @@
   },
   "bytes_gz": 6904,
   "prompts_path": "sources/higgsfield/prompts/THE_CABAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/THE_CABAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SEEDANCE_2_FRAGRANCE_COMMERCIAL",
@@ -13963,7 +14555,8 @@
   },
   "bytes_gz": 8247,
   "prompts_path": "sources/higgsfield/prompts/SEEDANCE_2_FRAGRANCE_COMMERCIAL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SEEDANCE_2_FRAGRANCE_COMMERCIAL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "STRAWBERRY_SUMMER",
@@ -13988,7 +14581,8 @@
   },
   "bytes_gz": 18191,
   "prompts_path": "sources/higgsfield/prompts/STRAWBERRY_SUMMER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/STRAWBERRY_SUMMER/"
+  "docs_path": "sources/higgsfield/projects/STRAWBERRY_SUMMER/",
+  "has_docs": true
  },
  {
   "project": "DRY_AGED_DREAMS",
@@ -14008,7 +14602,8 @@
   },
   "bytes_gz": 1765,
   "prompts_path": "sources/higgsfield/prompts/DRY_AGED_DREAMS/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/DRY_AGED_DREAMS/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CALM_DOWN_X_KAYE_CREATIVES",
@@ -14028,7 +14623,8 @@
   },
   "bytes_gz": 16335,
   "prompts_path": "sources/higgsfield/prompts/CALM_DOWN_X_KAYE_CREATIVES/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CALM_DOWN_X_KAYE_CREATIVES/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "ESPACIO_VERDE",
@@ -14046,7 +14642,8 @@
   "models": {},
   "bytes_gz": 4687,
   "prompts_path": "sources/higgsfield/prompts/ESPACIO_VERDE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/ESPACIO_VERDE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LOL",
@@ -14064,7 +14661,8 @@
   "models": {},
   "bytes_gz": 4143,
   "prompts_path": "sources/higgsfield/prompts/LOL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LOL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "LOST_IN_SPACE",
@@ -14082,7 +14680,8 @@
   "models": {},
   "bytes_gz": 4693,
   "prompts_path": "sources/higgsfield/prompts/LOST_IN_SPACE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/LOST_IN_SPACE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "MIRA_AND_THE_DRAGON",
@@ -14103,7 +14702,8 @@
   },
   "bytes_gz": 30645,
   "prompts_path": "sources/higgsfield/prompts/MIRA_AND_THE_DRAGON/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/MIRA_AND_THE_DRAGON/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BBAL_PLAYER",
@@ -14121,7 +14721,8 @@
   "models": {},
   "bytes_gz": 3705,
   "prompts_path": "sources/higgsfield/prompts/BBAL_PLAYER/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BBAL_PLAYER/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "POU",
@@ -14139,7 +14740,8 @@
   "models": {},
   "bytes_gz": 4204,
   "prompts_path": "sources/higgsfield/prompts/POU/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/POU/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "SERZHAN_CHE_TAM",
@@ -14157,7 +14759,8 @@
   "models": {},
   "bytes_gz": 289,
   "prompts_path": "sources/higgsfield/prompts/SERZHAN_CHE_TAM/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/SERZHAN_CHE_TAM/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CUBO",
@@ -14175,7 +14778,8 @@
   "models": {},
   "bytes_gz": 2124,
   "prompts_path": "sources/higgsfield/prompts/CUBO/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CUBO/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "A_PRO_LEVEL_NOOB_ORIGNAL_THE_VOID",
@@ -14195,7 +14799,8 @@
   },
   "bytes_gz": 8147,
   "prompts_path": "sources/higgsfield/prompts/A_PRO_LEVEL_NOOB_ORIGNAL_THE_VOID/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/A_PRO_LEVEL_NOOB_ORIGNAL_THE_VOID/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "BBBALL",
@@ -14213,7 +14818,8 @@
   "models": {},
   "bytes_gz": 1658,
   "prompts_path": "sources/higgsfield/prompts/BBBALL/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/BBBALL/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "GJENSKINN",
@@ -14233,7 +14839,8 @@
   },
   "bytes_gz": 470,
   "prompts_path": "sources/higgsfield/prompts/GJENSKINN/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/GJENSKINN/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "FFFFFFFFF",
@@ -14251,7 +14858,8 @@
   "models": {},
   "bytes_gz": 156,
   "prompts_path": "sources/higgsfield/prompts/FFFFFFFFF/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/FFFFFFFFF/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "CV",
@@ -14269,7 +14877,8 @@
   "models": {},
   "bytes_gz": 923,
   "prompts_path": "sources/higgsfield/prompts/CV/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/CV/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "HOTLINE",
@@ -14289,7 +14898,8 @@
   },
   "bytes_gz": 2095,
   "prompts_path": "sources/higgsfield/prompts/HOTLINE/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/HOTLINE/"
+  "docs_path": null,
+  "has_docs": false
  },
  {
   "project": "NEW_PROJECT",
@@ -14307,6 +14917,7 @@
   "models": {},
   "bytes_gz": 177,
   "prompts_path": "sources/higgsfield/prompts/NEW_PROJECT/prompts.jsonl.gz",
-  "docs_path": "sources/higgsfield/projects/NEW_PROJECT/"
+  "docs_path": null,
+  "has_docs": false
  }
 ]

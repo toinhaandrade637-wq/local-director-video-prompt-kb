@@ -96,5 +96,15 @@
  "by_result_type": {
   "video": 31862,
   "image": 18849
- }
+ },
+ "projects_by_category": {
+  "all": 545,
+  "assets": 71,
+  "scenes": 6,
+  "props": 3,
+  "characters": 1,
+  "locations": 1
+ },
+ "all_only_projects": 537,
+ "projects_with_docs": 79
 }

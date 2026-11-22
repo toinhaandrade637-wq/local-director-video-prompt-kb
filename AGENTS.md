@@ -49,6 +49,14 @@
 | 找同题材整片参考 | [HF 视频 01 提示词结构](sources/higgsfield-knowledge-base/现行知识/视频/01-提示词结构.md) | [项目总表](catalog/higgsfield-projects.md) | 先读项目 README + brief，再读提示词 |
 | 直接生成资产图 / 剧本 / 音乐 | 对应技能页 | — | 先读技能，再调用 |
 
+### 检索前必看：分类覆盖
+
+`--cat scenes` 不是随时可用。611 个项目里 **537 个只有 `all`**，只有 6 个带 `scenes` 细分。
+
+- 先试 `--cat`，返回 0 条就**去掉 `--cat`**，用 `--keyword` 或直接读 `all`。
+- 不要因为 `scenes` 为空就判断“库里没有”。
+- 项目分类覆盖见 [catalog/higgsfield-projects.md](catalog/higgsfield-projects.md) 的「分类覆盖」节。
+
 ## 4. 检索流程（四步）
 
 ### 第 1 步：搜轻量索引
@@ -147,16 +155,20 @@ python tools/kb.py get --id HFX-DETOUR-000123 --json
 
 | 你要找 | 去哪里 |
 |---|---|
+| 5 分钟上手 / 全部文档分工 | [START-HERE.md](START-HERE.md) / [docs/00-文档地图.md](docs/00-文档地图.md) |
 | 任务该读哪几页 | [docs/02-任务路由.md](docs/02-任务路由.md) |
 | 索引字段与检索命令 | [docs/03-检索手册.md](docs/03-检索手册.md) |
+| 真实查询例子 | [docs/07-检索案例.md](docs/07-检索案例.md) |
 | 各来源数据格式 | [docs/04-字段与格式.md](docs/04-字段与格式.md) |
+| 类别 / 模型 / ID 口径 | [catalog/taxonomy.md](catalog/taxonomy.md) |
 | Higgsfield 项目总表 | [catalog/higgsfield-projects.md](catalog/higgsfield-projects.md) |
 | 多模型库分类 | [catalog/video-prompt-library.md](catalog/video-prompt-library.md) |
 | 方法页清单 | [catalog/methods.json](catalog/methods.json) |
 | 技能清单 | [catalog/skills.json](catalog/skills.json) |
+| 每个来源的入口 | [sources/higgsfield/_ENTRY.md](sources/higgsfield/_ENTRY.md) 等 `sources/*/_ENTRY.md` |
 | 官方教程 / 博客 / brief | [sources/experience/](sources/experience/) |
 | 来源、裁剪与版权 | [docs/05-来源版本与版权.md](docs/05-来源版本与版权.md) |
-| 怎么更新 | [docs/06-维护与更新.md](docs/06-维护与更新.md) |
+| 怎么更新、怎么校验 | [docs/06-维护与更新.md](docs/06-维护与更新.md) / [docs/08-构建与校验报告.md](docs/08-构建与校验报告.md) |
 
 ## 9. 什么时候更新知识库
 

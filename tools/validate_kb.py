@@ -60,7 +60,7 @@ def check_links():
     print(f"links checked: {n}")
 
 
-def check_index():
+def check_index(fast: bool = False):
     idx = ROOT / "catalog" / "higgsfield-prompts.index.jsonl"
     if not idx.is_file():
         err("缺少 higgsfield-prompts.index.jsonl")
@@ -83,17 +83,19 @@ def check_index():
     else:
         print(f"higgsfield index rows: {rows}")
 
-    # 抽查每个项目文件行数与索引一致
-    for project, count in per_project.items():
-        p = ROOT / "sources" / "higgsfield" / "prompts" / project / "prompts.jsonl.gz"
-        if not p.is_file():
-            err(f"缺少项目语料：{project}")
-            continue
-        with gzip.open(p, "rt", encoding="utf-8") as fh:
-            n = sum(1 for line in fh if line.strip())
-        if n != count:
-            err(f"{project} 行数不一致：索引 {count} / 文件 {n}")
-    print(f"projects verified: {len(per_project)}")
+    if fast:
+        print(f"projects in index: {len(per_project)} (fast mode: 未逐项目核对压缩文件)")
+    else:
+        for project, count in per_project.items():
+            p = ROOT / "sources" / "higgsfield" / "prompts" / project / "prompts.jsonl.gz"
+            if not p.is_file():
+                err(f"缺少项目语料：{project}")
+                continue
+            with gzip.open(p, "rt", encoding="utf-8") as fh:
+                n = sum(1 for line in fh if line.strip())
+            if n != count:
+                err(f"{project} 行数不一致：索引 {count} / 文件 {n}")
+        print(f"projects verified: {len(per_project)}")
 
     vpl = ROOT / "catalog" / "video-prompt-library.index.jsonl"
     if not vpl.is_file():
@@ -145,20 +147,27 @@ def check_secrets():
 
 
 def check_required():
-    for name in ["README.md", "AGENTS.md", "INDEX.md", "index.json", "NOTICE.md"]:
+    for name in ["README.md", "AGENTS.md", "INDEX.md", "index.json", "NOTICE.md", "START-HERE.md", "MANIFEST.json"]:
         if not (ROOT / name).is_file():
             err(f"缺少 {name}")
-    for name in ["01-快速开始.md", "02-任务路由.md", "03-检索手册.md", "04-字段与格式.md", "05-来源版本与版权.md", "06-维护与更新.md"]:
+    for name in ["00-文档地图.md", "01-快速开始.md", "02-任务路由.md", "03-检索手册.md",
+                 "04-字段与格式.md", "05-来源版本与版权.md", "06-维护与更新.md",
+                 "07-检索案例.md", "08-构建与校验报告.md"]:
         if not (ROOT / "docs" / name).is_file():
             err(f"缺少 docs/{name}")
-    for name in ["higgsfield-projects.md", "video-prompt-library.md", "README.md"]:
+    for name in ["higgsfield-projects.md", "higgsfield-projects.csv", "taxonomy.md",
+                 "video-prompt-library.md", "README.md"]:
         if not (ROOT / "catalog" / name).is_file():
             err(f"缺少 catalog/{name}")
 
 
 def main():
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--fast", action="store_true", help="跳过逐项目压缩文件核对（CI 用）")
+    args = ap.parse_args()
     check_required()
-    check_index()
+    check_index(fast=args.fast)
     check_links()
     check_secrets()
     print()

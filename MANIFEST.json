@@ -1,0 +1,176 @@
+{
+ "schema_version": "1.0",
+ "name": "本地导演助手 · 视频提示词知识库",
+ "updated": "2026-11-22",
+ "entrypoints": {
+  "start_here": "START-HERE.md",
+  "human": "README.md",
+  "ai": "AGENTS.md",
+  "map": "INDEX.md",
+  "machine": "index.json",
+  "llms": "llms.txt",
+  "manifest": "MANIFEST.json",
+  "catalog": "catalog/README.md",
+  "taxonomy": "catalog/taxonomy.md",
+  "docs_map": "docs/00-文档地图.md",
+  "quick_start": "docs/01-快速开始.md",
+  "task_routing": "docs/02-任务路由.md",
+  "retrieval": "docs/03-检索手册.md",
+  "fields": "docs/04-字段与格式.md",
+  "rights": "docs/05-来源版本与版权.md",
+  "maintenance": "docs/06-维护与更新.md",
+  "examples": "docs/07-检索案例.md",
+  "report": "docs/08-构建与校验报告.md",
+  "changelog": "CHANGELOG.md"
+ },
+ "counts": {
+  "higgsfield_projects": 611,
+  "higgsfield_prompts": 174404,
+  "higgsfield_chars": 855292599,
+  "higgsfield_gzip_bytes": 223974118,
+  "higgsfield_projects_with_docs": 79,
+  "higgsfield_all_only_projects": 537,
+  "video_prompt_library_entries": 977,
+  "method_pages": 35,
+  "skills": 8,
+  "catalog_index_rows": 175381
+ },
+ "items": [
+  {
+   "name": "START-HERE.md",
+   "kind": "human",
+   "purpose": "5 分钟上手：三条路线与五个高频动作",
+   "entry": null,
+   "files": 1,
+   "bytes": 4514
+  },
+  {
+   "name": "README.md",
+   "kind": "human",
+   "purpose": "总览：来源、规模、用法、目录地图",
+   "entry": null,
+   "files": 1,
+   "bytes": 9888
+  },
+  {
+   "name": "AGENTS.md",
+   "kind": "ai",
+   "purpose": "AI 作业卡：读取顺序、任务路由、硬规则、引用格式",
+   "entry": null,
+   "files": 1,
+   "bytes": 13300
+  },
+  {
+   "name": "INDEX.md",
+   "kind": "map",
+   "purpose": "全局地图：入口、层、任务、来源、统计",
+   "entry": null,
+   "files": 1,
+   "bytes": 8801
+  },
+  {
+   "name": "llms.txt",
+   "kind": "machine",
+   "purpose": "给 AI 的最小入口（llms.txt 规范）",
+   "entry": null,
+   "files": 1,
+   "bytes": 3230
+  },
+  {
+   "name": "index.json",
+   "kind": "machine",
+   "purpose": "机器总表：统计、来源、入口",
+   "entry": null,
+   "files": 1,
+   "bytes": 6874
+  },
+  {
+   "name": "MANIFEST.json",
+   "kind": "machine",
+   "purpose": "本文件：每个顶层条目的用途与规模",
+   "entry": null,
+   "files": 1,
+   "bytes": 4070
+  },
+  {
+   "name": "CHANGELOG.md",
+   "kind": "meta",
+   "purpose": "变更记录",
+   "entry": null,
+   "files": 1,
+   "bytes": 2951
+  },
+  {
+   "name": "NOTICE.md",
+   "kind": "meta",
+   "purpose": "来源、权利与下架流程",
+   "entry": null,
+   "files": 1,
+   "bytes": 2352
+  },
+  {
+   "name": "LICENSE",
+   "kind": "meta",
+   "purpose": "说明文字与工具的许可",
+   "entry": null,
+   "files": 1,
+   "bytes": 816
+  },
+  {
+   "name": "docs",
+   "kind": "docs",
+   "purpose": "使用说明：上手、路由、检索、字段、来源、维护、案例、报告",
+   "entry": "docs/00-文档地图.md",
+   "files": 9,
+   "bytes": 50675
+  },
+  {
+   "name": "catalog",
+   "kind": "index",
+   "purpose": "统一索引：项目表、分类树、逐条索引、口径",
+   "entry": "catalog/README.md",
+   "files": 11,
+   "bytes": 41867433
+  },
+  {
+   "name": "methods",
+   "kind": "nav",
+   "purpose": "方法导航（正文在 sources/）",
+   "entry": "methods/README.md",
+   "files": 1,
+   "bytes": 5286
+  },
+  {
+   "name": "skills",
+   "kind": "skill",
+   "purpose": "8 个可加载技能 + 官方技能文本",
+   "entry": "skills/README.md",
+   "files": 133,
+   "bytes": 2851106
+  },
+  {
+   "name": "sources",
+   "kind": "corpus",
+   "purpose": "六个来源的快照与原文",
+   "entry": "sources/README.md",
+   "files": 2702,
+   "bytes": 290188231
+  },
+  {
+   "name": "tools",
+   "kind": "tool",
+   "purpose": "检索、取全文、重建索引、校验",
+   "entry": "tools/kb.py",
+   "files": 3,
+   "bytes": 36064
+  },
+  {
+   "name": ".github",
+   "kind": "ci",
+   "purpose": "推送时跑快速校验",
+   "entry": ".github/workflows/validate.yml",
+   "files": 1,
+   "bytes": 657
+  }
+ ]
+}

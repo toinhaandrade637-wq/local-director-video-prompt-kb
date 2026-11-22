@@ -1,6 +1,7 @@
 # 本地导演助手 · 视频提示词知识库
 
-> 面向 AI 的精简入口。完整规则见 AGENTS.md；人看 README.md。
+> 面向 AI 的精简入口。完整规则见 AGENTS.md；人看 START-HERE.md / README.md。
+> 仓库：https://github.com/toinhaandrade637-wq/local-director-video-prompt-kb
 
 ## 这里有什么
 
@@ -15,24 +16,27 @@
 1. AGENTS.md —— 规则、路由、引用格式。
 2. docs/02-任务路由.md —— 按任务选阅读路线。
 3. catalog/README.md —— 索引文件说明。
-4. catalog/methods.json —— 方法页清单。
-5. catalog/skills.json —— 技能清单。
+4. catalog/taxonomy.md —— 类别 / 类型 / 模型 / ID 口径。
+5. catalog/methods.json、catalog/skills.json —— 方法页与技能清单。
 
 ## 怎么检索
 
 ```bash
-python tools/kb.py search --keyword "关键词" --limit 10
-python tools/kb.py search --project DETOUR --cat scenes --type video --limit 10
-python tools/kb.py search --source vpl --zone 主库 --cat "动作·打斗" --limit 10
-python tools/kb.py get --id HFX-DETOUR-000123
-python tools/kb.py get --id VPL-sd2-240
 python tools/kb.py stats
+python tools/kb.py search --keyword "霓虹" --limit 10
+python tools/kb.py search --project DETOUR --cat scenes --type video --limit 10
+python tools/kb.py search --model seedance_2_5 --min-length 3000 --limit 10
+python tools/kb.py search --source vpl --zone 主库 --cat "动作·打斗" --limit 10
+python tools/kb.py get --id HFX-DETOUR-000166
+python tools/kb.py get --id VPL-sd2-259
 ```
 
 索引文件：
 
 - catalog/higgsfield-prompts.index.jsonl —— 174,404 行，字段 id/project/cat/type/model/len/line/head。
 - catalog/video-prompt-library.index.jsonl —— 977 行，字段 id/zone/model/cat/sub/name/desc/tags/lang/length/line/head。
+
+**分类覆盖**：537 个项目只有 cat=all，只有 6 个有 scenes。`--cat` 返回 0 条时去掉 `--cat`，改用 `--keyword`。
 
 ## 关键路径
 
@@ -42,7 +46,7 @@ python tools/kb.py stats
 - Seedance 方法：sources/seedance25-knowledge-base/现行知识/
 - 技能：skills/
 - 经验文本：sources/experience/
-- 原始知识库：sources/higgsfield-knowledge-base/、sources/seedance25-knowledge-base/
+- 每个来源的入口：sources/<来源>/_ENTRY.md
 
 ## 硬规则
 
@@ -50,6 +54,14 @@ python tools/kb.py stats
 - 参考只迁移结构，事实必须换成当前项目的。
 - 引用用稳定 ID：HFX-<项目>-<六位行号>、VPL-<原id>、SD25-<页序号>、H-<轨道>-<页序号>。
 - 语料里没有的能力，不要凭记忆补。
+- 不要用索引的 80 字摘要当原文。
+
+## 更多
+
+- 文档地图：docs/00-文档地图.md
+- 检索案例：docs/07-检索案例.md
+- 构建与校验：docs/08-构建与校验报告.md
+- 机器清单：index.json、MANIFEST.json
 
 ## 来源
 

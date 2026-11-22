@@ -1,0 +1,25 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: 快速校验（索引计数、链接、密钥、绝对路径）
+        run: python tools/validate_kb.py --fast
+      - name: 抽查检索与回读
+        run: |
+          python tools/kb.py stats
+          python tools/kb.py search --project DETOUR --cat scenes --limit 3
+          python tools/kb.py get --id HFX-DETOUR-000001 > /dev/null

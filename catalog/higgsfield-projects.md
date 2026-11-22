@@ -639,9 +639,26 @@
 | `characters` | 角色设定 | 509 |
 | `locations` | 场景设定 | 304 |
 
+## 分类覆盖
+
+**注意：不是每个项目都有分类文件。** 很多项目上游只给了一份 `_all_prompts.jsonl`，因此这些项目的全部提示词都落在 `all`。检索前先看本表，确认项目有没有 `scenes` / `characters` 等细分。
+
+| cat | 有该类目的项目数 |
+|---|---:|
+| `all` | 545 |
+| `assets` | 71 |
+| `scenes` | 6 |
+| `props` | 3 |
+| `characters` | 1 |
+| `locations` | 1 |
+
+- 只有 `all` 一个类目的项目：**537** 个。
+- 带项目文档（brief / README / 官方 Skill）的项目：**79** 个。
+
 ## 说明
 
 - 同一项目内按提示词原文 MD5 去重；跨项目不去重（不同项目复用同一句是有效信息）。
 - `cat` 取该提示词在分类文件中的最高优先归类：scenes > characters > locations > props > assets > cover > all。
 - `type` 由模型名推断，空值表示模型未标注。
 - 611 个项目来自本地全量数据包；原 78 项目 GitHub 仓是其子集，已并入，不再单独保留。
+- 需要按列筛选时用同目录的 `higgsfield-projects.csv`。

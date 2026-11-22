@@ -2,14 +2,16 @@
 
 > 一张图看清：这个库有什么、从哪进、什么问题去哪里。
 
-## 1. 三个入口
+## 1. 四个入口
 
 | 你是谁 / 要做什么 | 从这里开始 |
 |---|---|
-| 第一次来，想了解全貌 | [README.md](README.md) → 本页 |
+| 第一次来 | [START-HERE.md](START-HERE.md) → [README.md](README.md) → 本页 |
 | 让 AI 开始干活 | [AGENTS.md](AGENTS.md) → [docs/02-任务路由.md](docs/02-任务路由.md) |
-| 只要机器可读入口 | [llms.txt](llms.txt) → [index.json](index.json) |
+| 只要机器可读入口 | [llms.txt](llms.txt) → [index.json](index.json) → [MANIFEST.json](MANIFEST.json) |
 | 只想快速找一条参考 | [catalog/README.md](catalog/README.md) → `python tools/kb.py search` |
+
+全部文档索引：[docs/00-文档地图.md](docs/00-文档地图.md)。
 
 ## 2. 库里有什么
 
@@ -107,10 +109,16 @@
 
 | 想知道 | 文件 |
 |---|---|
+| 全部文档怎么分工 | [docs/00-文档地图.md](docs/00-文档地图.md) |
+| 5 分钟上手 | [docs/01-快速开始.md](docs/01-快速开始.md) |
 | 每条索引有哪些字段 | [docs/04-字段与格式.md](docs/04-字段与格式.md) |
 | 怎么搜、怎么回读 | [docs/03-检索手册.md](docs/03-检索手册.md) |
+| 真实查询例子 | [docs/07-检索案例.md](docs/07-检索案例.md) |
+| 类别 / 模型 / ID 口径 | [catalog/taxonomy.md](catalog/taxonomy.md) |
 | 来源、裁剪、版权 | [docs/05-来源版本与版权.md](docs/05-来源版本与版权.md) |
 | 怎么更新与校验 | [docs/06-维护与更新.md](docs/06-维护与更新.md) |
+| 本次构建与校验结果 | [docs/08-构建与校验报告.md](docs/08-构建与校验报告.md) |
+| 变更记录 | [CHANGELOG.md](CHANGELOG.md) |
 | 方法页清单（机器可读） | [catalog/methods.json](catalog/methods.json) |
 | 技能清单（机器可读） | [catalog/skills.json](catalog/skills.json) |
 | 机器可读总表 | [index.json](index.json) |
@@ -119,6 +127,7 @@
 
 ```text
 Higgsfield   611 项目 · 174,404 条 · 原文 816 MB · 压缩 214 MB
+             其中 537 个项目只有 all 类目；79 个项目带 brief / README / 官方 Skill
 VPL          977 条（主库 339 / 通用区 633 / 教程区 5）
 方法         35 个文件（Higgsfield 20 + Seedance 15）
 技能         8 个可加载 + 11 套官方文本

@@ -1,0 +1,19 @@
+# 统一换行，避免 Windows / macOS 往返产生整文件 diff
+* text=auto eol=lf
+
+# 二进制
+*.gz binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.zip binary
+*.pdf binary
+
+# 索引与语料保持 LF，便于逐行 diff
+*.jsonl text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf

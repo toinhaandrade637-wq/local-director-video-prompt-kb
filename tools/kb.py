@@ -147,7 +147,11 @@ def cmd_search(a):
             if total >= a.limit:
                 break
     if total == 0:
-        print("没有匹配。放宽条件，或换 --keyword。", file=sys.stderr)
+        print("没有匹配。", file=sys.stderr)
+        print("  提示 1：611 个项目里只有 6 个带 scenes 细分，537 个只有 all。", file=sys.stderr)
+        print("         先去掉 --cat 再试，或改用 --keyword。", file=sys.stderr)
+        print("  提示 2：放宽 --min-length / --max-length，或换 --model。", file=sys.stderr)
+        print("  提示 3：分类覆盖见 catalog/higgsfield-projects.md 的「分类覆盖」节。", file=sys.stderr)
         return 1
     print(f"\n# {total} 条。用 python tools/kb.py get --id <ID> 取全文", file=sys.stderr)
     return 0

@@ -8,7 +8,9 @@
 - **8** 个可加载技能 + **11** 套官方技能文本
 - **535** 篇创作者博客、**419** 份官方教程文本、**83** 份项目 brief、**18** 篇全流程方法论
 
-> 第一次来，读 [INDEX.md](INDEX.md)。让 AI 接手，读 [AGENTS.md](AGENTS.md)。只要一个机器入口，读 [llms.txt](llms.txt)。
+> 第一次来，读 [START-HERE.md](START-HERE.md)（5 分钟）。要全貌，读 [INDEX.md](INDEX.md)。让 AI 接手，读 [AGENTS.md](AGENTS.md)。只要机器入口，读 [llms.txt](llms.txt) 或 [MANIFEST.json](MANIFEST.json)。
+
+> **分类提醒**：611 个项目里只有 6 个带 `scenes` 细分，537 个只有 `all`。检索时 `--cat` 返回 0 条，先去掉 `--cat`。详见 [catalog/taxonomy.md](catalog/taxonomy.md)。
 
 ---
 
@@ -31,10 +33,11 @@
 
 ### 人：浏览与找参考
 
-1. [INDEX.md](INDEX.md) 看全局地图。
-2. [catalog/higgsfield-projects.md](catalog/higgsfield-projects.md) 按项目主题找片。
-3. [catalog/video-prompt-library.md](catalog/video-prompt-library.md) 按题材/词典分类找条目。
-4. 打开对应源文件读全文。
+1. [START-HERE.md](START-HERE.md) 选路线。
+2. [INDEX.md](INDEX.md) 看全局地图。
+3. [catalog/higgsfield-projects.md](catalog/higgsfield-projects.md) 按项目主题找片。
+4. [catalog/video-prompt-library.md](catalog/video-prompt-library.md) 按题材/词典分类找条目。
+5. 打开对应源文件读全文。
 
 ### AI：按任务取用
 
@@ -53,9 +56,11 @@ python tools/kb.py search --project DETOUR --cat scenes --type video --limit 10
 python tools/kb.py search --source vpl --zone 主库 --cat "动作·打斗" --limit 10
 
 # 按 ID 取全文
-python tools/kb.py get --id HFX-DETOUR-000123
-python tools/kb.py get --id VPL-sd2-240
+python tools/kb.py get --id HFX-DETOUR-000166
+python tools/kb.py get --id VPL-sd2-259
 ```
+
+不知道查询怎么写，看 [docs/07-检索案例.md](docs/07-检索案例.md) 的 8 个真实例子。
 
 ### 写作：一条提示词的装配顺序
 
@@ -75,22 +80,30 @@ python tools/kb.py get --id VPL-sd2-240
 
 ```text
 .
+├── START-HERE.md              # 5 分钟上手
 ├── README.md                  # 本文件：人看的总说明
 ├── AGENTS.md                  # AI 必读：读取顺序、路由、硬规则、引用格式
 ├── INDEX.md                   # 全局地图与统计
 ├── llms.txt                   # 给 AI 的精简入口（llms.txt 规范）
 ├── index.json                 # 机器可读的源、统计、入口
+├── MANIFEST.json              # 每个顶层目录的用途、文件数、入口
+├── CHANGELOG.md               # 变更记录
 ├── NOTICE.md                  # 来源、权利与免责声明
+├── LICENSE                    # 说明文字与工具的许可
 ├── docs/                      # 使用说明
+│   ├── 00-文档地图.md
 │   ├── 01-快速开始.md
 │   ├── 02-任务路由.md
 │   ├── 03-检索手册.md
 │   ├── 04-字段与格式.md
 │   ├── 05-来源版本与版权.md
-│   └── 06-维护与更新.md
+│   ├── 06-维护与更新.md
+│   ├── 07-检索案例.md
+│   └── 08-构建与校验报告.md
 ├── catalog/                   # 统一索引（AI 的主入口）
 │   ├── README.md
-│   ├── higgsfield-projects.md / .json
+│   ├── taxonomy.md            # 类别 / 类型 / 模型 / ID 口径
+│   ├── higgsfield-projects.md / .json / .csv
 │   ├── higgsfield-models.json
 │   ├── higgsfield-prompts.index.jsonl
 │   ├── video-prompt-library.md
@@ -98,8 +111,9 @@ python tools/kb.py get --id VPL-sd2-240
 │   ├── methods.json
 │   └── skills.json
 ├── methods/
-│   └── README.md             # 方法导航（正文在 sources/，避免副本死链）
+│   └── README.md              # 方法导航（正文在 sources/，避免副本死链）
 ├── skills/
+│   ├── README.md              # 技能清单与选择建议
 │   ├── seedance-prompt/
 │   ├── hf-video-prompt/
 │   ├── hf-image-prompt/
@@ -111,7 +125,7 @@ python tools/kb.py get --id VPL-sd2-240
 │   └── higgsfield-official/   # 官方技能包文本
 ├── sources/                   # 六个来源的快照
 │   ├── README.md              # 快照范围与裁剪说明
-│   ├── higgsfield/
+│   ├── higgsfield/            # _ENTRY.md 为入口
 │   ├── higgsfield-knowledge-base/
 │   ├── experience/
 │   ├── video-prompt-library/
@@ -163,6 +177,7 @@ python tools/kb.py get --id VPL-sd2-240
 
 ## 6. 来源、版本与权利
 
+- 主仓库：https://github.com/toinhaandrade637-wq/local-director-video-prompt-kb
 - 快照日期：2026-11-22。
 - 六个上游来源与提交版本见 [docs/05-来源版本与版权.md](docs/05-来源版本与版权.md)。
 - 上游均未声明开源许可证。本库只做学习、检索与创作参考，**不主张对原始提示词的著作权**；权利归原作者/原平台。
@@ -173,8 +188,9 @@ python tools/kb.py get --id VPL-sd2-240
 ## 7. 维护
 
 ```bash
-python tools/build_catalog.py   # 重建 catalog 与 index.json
-python tools/validate_kb.py     # 校验链接、计数、索引回读、敏感信息
+python tools/build_catalog.py        # 从 sources/ 重建全部索引与统计（约 35 秒）
+python tools/validate_kb.py          # 完整校验：611 个项目逐项核对
+python tools/validate_kb.py --fast   # 快速校验：链接、计数、密钥
 ```
 
-更新来源、增删条目、修改结构的约定见 [docs/06-维护与更新.md](docs/06-维护与更新.md)。
+更新来源、增删条目、修改结构的约定见 [docs/06-维护与更新.md](docs/06-维护与更新.md)，本次构建的数字与已知限制见 [docs/08-构建与校验报告.md](docs/08-构建与校验报告.md)。

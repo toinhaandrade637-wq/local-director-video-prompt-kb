@@ -7,22 +7,33 @@
   "higgsfield_prompts": 174404,
   "higgsfield_chars": 855292599,
   "higgsfield_gzip_bytes": 223974118,
+  "higgsfield_projects_with_docs": 79,
+  "higgsfield_all_only_projects": 537,
   "video_prompt_library_entries": 977,
   "method_pages": 35,
   "skills": 8,
   "catalog_index_rows": 175381
  },
  "entrypoints": {
+  "start_here": "START-HERE.md",
   "human": "README.md",
   "ai": "AGENTS.md",
   "map": "INDEX.md",
   "machine": "index.json",
+  "llms": "llms.txt",
+  "manifest": "MANIFEST.json",
   "catalog": "catalog/README.md",
+  "taxonomy": "catalog/taxonomy.md",
+  "docs_map": "docs/00-文档地图.md",
+  "quick_start": "docs/01-快速开始.md",
   "task_routing": "docs/02-任务路由.md",
   "retrieval": "docs/03-检索手册.md",
   "fields": "docs/04-字段与格式.md",
   "rights": "docs/05-来源版本与版权.md",
-  "maintenance": "docs/06-维护与更新.md"
+  "maintenance": "docs/06-维护与更新.md",
+  "examples": "docs/07-检索案例.md",
+  "report": "docs/08-构建与校验报告.md",
+  "changelog": "CHANGELOG.md"
  },
  "sources": [
   {
@@ -31,6 +42,7 @@
    "kind": "prompt-corpus",
    "path": "sources/higgsfield/prompts/",
    "docs": "sources/higgsfield/projects/",
+   "entry": "sources/higgsfield/_ENTRY.md",
    "projects": 611,
    "prompts": 174404,
    "catalog": "catalog/higgsfield-prompts.index.jsonl",
@@ -41,13 +53,15 @@
    "title": "Higgsfield 三轨方法库（视频 8 / 生图 2 / 通用 4）",
    "kind": "method",
    "path": "sources/higgsfield-knowledge-base/",
-   "reading_copy": "methods/higgsfield/"
+   "entry": "sources/higgsfield-knowledge-base/_ENTRY.md",
+   "reading_copy": "methods/README.md#higgsfield-三轨"
   },
   {
    "id": "experience",
    "title": "官方教程、创作者博客、项目 brief、官方技能包",
    "kind": "method+reference",
    "path": "sources/experience/",
+   "entry": "sources/experience/_ENTRY.md",
    "folders": [
     "03-全流程方法论",
     "05-官方教程",
@@ -62,6 +76,7 @@
    "kind": "prompt-corpus+lexicon",
    "path": "sources/video-prompt-library/",
    "entries": 977,
+   "entry": "sources/video-prompt-library/_ENTRY.md",
    "catalog": "catalog/video-prompt-library.index.jsonl",
    "guide": "catalog/video-prompt-library.md"
   },
@@ -71,13 +86,15 @@
    "kind": "method+skill",
    "path": "sources/seedance25-knowledge-base/",
    "method_pages": 15,
-   "reading_copy": "methods/seedance-2.5/"
+   "entry": "sources/seedance25-knowledge-base/_ENTRY.md",
+   "reading_copy": "methods/README.md#seedance-25"
   },
   {
    "id": "skills-repo",
    "title": "通用技能仓库（角色/道具资产表、剧本格式、Suno 音乐、图片解析）",
    "kind": "skill",
    "path": "sources/skills-repo/",
+   "entry": "sources/skills-repo/_ENTRY.md",
    "reading_copy": "skills/"
   }
  ],

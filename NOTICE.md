@@ -2,6 +2,9 @@
 
 本仓库是**学习与创作参考用的提示词语料库**，不是商业发行物。
 
+- 主仓库：https://github.com/toinhaandrade637-wq/local-director-video-prompt-kb
+- 旧镜像：https://github.com/YIJUEYIJUE/local-director-video-prompt-kb（只读，不再更新）
+
 ## 1. 内容来源
 
 | 来源 | 路径 | 状态 |

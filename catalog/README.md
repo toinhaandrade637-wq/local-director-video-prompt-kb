@@ -7,13 +7,17 @@
 | 文件 | 行数 | 用途 |
 |---|---:|---|
 | `higgsfield-prompts.index.jsonl` | 174,404 | Higgsfield 全量单条索引 |
-| `higgsfield-projects.md` | — | 611 项目总表（人读） |
+| `higgsfield-projects.md` | — | 611 项目总表（人读）+ 分类覆盖 |
+| `higgsfield-projects.csv` | — | 同上，Excel 可筛选 |
 | `higgsfield-projects.json` | — | 611 项目结构（机器读） |
-| `higgsfield-models.json` | — | 模型 / 类别 / 类型分布 |
+| `higgsfield-models.json` | — | 模型 / 类别 / 类型 / 覆盖分布 |
 | `video-prompt-library.index.jsonl` | 977 | VPL 单条索引 |
 | `video-prompt-library.md` | — | VPL 分区、分类树、模型分布 |
 | `methods.json` | 35 | 方法页清单与路径 |
 | `skills.json` | 8 | 可加载技能清单 |
+| `taxonomy.md` | — | 类别 / 类型 / 模型 / ID 的口径与边界 |
+
+全部文件都由 `tools/build_catalog.py` 从 `sources/` 重新生成，不要手改。
 
 ## 2. Higgsfield 索引字段
 
