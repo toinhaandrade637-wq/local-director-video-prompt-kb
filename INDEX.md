@@ -18,7 +18,7 @@
 | 方法 | [sources/higgsfield-knowledge-base/现行知识/](sources/higgsfield-knowledge-base/现行知识/) | 视频 8 页 + 生图 2 页 + 通用 4 页 | 20 文件 |
 | 方法 | [sources/seedance25-knowledge-base/现行知识/](sources/seedance25-knowledge-base/现行知识/) | Seedance 2.5 写作方法 | 15 页 |
 | 语料 | [sources/higgsfield/prompts/](sources/higgsfield/prompts/) | 611 个项目去重提示词 | 174,404 条 |
-| 项目文档 | [sources/higgsfield/projects/](sources/higgsfield/projects/) | brief、README、官方 Skill | 94 项目 |
+| 项目文档 | [sources/higgsfield/projects/](sources/higgsfield/projects/) | brief、README、官方 Skill | 79 项目 |
 | 知识库 | [sources/higgsfield-knowledge-base/](sources/higgsfield-knowledge-base/) | 三轨方法、研究记录、维护台账 | 410 文件 |
 | 经验 | [sources/experience/](sources/experience/) | 官方教程、创作者博客、brief、技能包、全流程方法论 | 1,139 文件 |
 | 语料 | [sources/video-prompt-library/](sources/video-prompt-library/) | 主库 + 通用区 + 教程区 | 977 条 |

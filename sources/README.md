@@ -27,7 +27,7 @@
 
 结果：174,404 条唯一提示词，816 MB 原文，214 MB 压缩。
 
-**没有丢弃任何项目级内容**：brief、README、官方 Skill 单独放在 `higgsfield/projects/<项目>/`。
+**没有丢弃任何项目级内容**：brief、README、官方 Skill 单独放在 `higgsfield/projects/<项目>/`。brief 文件名与项目名不一致的，已按内容归并到规范项目目录；官方 brief 总索引单独放在 `higgsfield/_brief索引.md`。
 
 ## 3. 去重口径
 
