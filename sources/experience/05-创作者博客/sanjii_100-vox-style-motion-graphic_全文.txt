@@ -1,0 +1,95 @@
+【项目】100% VOX-STYLE MOTION GRAPHIC（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/zh/@sanjii/blogs/100-vox-style-motion-graphic
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+100% VOX-STYLE MOTION GRAPHIC
+@sanjii
+5.2K
+3
+0
+Before You Start
+
+Motion design in the Vox style — clean vector shapes, a locked palette, camera moves that feel drawn rather than filmed — is one of the most reliable formats on the internet. It also normally costs dozens of hours in After Effects: keyframes, masks, easing curves, a dozen precomps per shot.
+
+
+
+
+This is the full prompt library for making one with AI instead.
+
+
+
+
+The setup is two pieces. Higgsfield MCP connects Claude to the generation models, so Claude can create images and video directly in the chat instead of you clicking through a UI. The Claude Skill below is the part that does the actual work: you describe the idea for your animation in plain language, and the skill writes the video prompts, picks the right model for each shot, runs the generations through MCP, and hands you back the finished clips. You are not writing prompts by hand.
+
+
+
+
+One rule worth keeping even once it is automated: build the assets before you build the scenes. Every element that recurs across shots — the location plate, the building, the character sheet — gets generated once as a still, then referenced by name in every video prompt after it. That is the entire consistency trick. Skip it and each scene invents its own version of the same object.
+
+
+
+
+The image model generates those assets. Seedance 2.5 animates them, and because it supports editing, any shot can be changed afterwards with one more sentence — swap the background to blue, swap the building, change the light — without regenerating from scratch.
+
+
+
+
+vox-motion-graphics .skill
+SKIL
+Setup — Connect Higgsfield MCP, Then Load the Skill
+Connect the MCP server
+
+Higgsfield runs a hosted MCP server. There is no API key — authentication goes through your Higgsfield account over OAuth, and generations deduct credits from that account at the normal rates.
+
+
+
+
+In Claude on web, desktop or mobile, open Settings → Connectors, choose to add a custom connector, name it Higgsfield, and paste the server URL:
+
+https://higgsfield.ai/mcp
+
+Click Connect and sign in with your Higgsfield account when the browser prompt appears. That is the whole setup.
+
+Load the Skill
+
+Skills are how Claude picks up a specialized workflow. Instead of you pasting a wall of instructions at the start of every project, the skill sits in your account and activates on its own when the task matches.
+
+
+
+
+First make sure Code execution and file creation is on in Settings → Capabilities — Skills depend on it. Then open Customize → Skills and upload the file you downloaded above. It takes a few seconds and you will see it appear in your skills list.
+
+
+
+
+That is it. From here you open a normal chat and describe what you want to make:
+
+Make a Vox-style animated explainer about [your topic].
+Three scenes, 9:16.
+
+The skill takes over from there — it builds the element list, generates the assets, keeps them consistent across shots, writes each scene's video prompt in the structure this library uses, and runs the jobs through the connector. Everything below is what that output looks like, and every prompt is copy-ready if you would rather drive it manually.
+
+Ready To Make Your Own?
+
+Every prompt above is copy-ready. Start with the assets, keep their names exactly as written, then run the scenes in order — or skip all of it, describe your idea to the skill, and let it write the prompts for you.
+
+
+
+
+And once a shot exists, you are not locked into it. The prompt bar edits what is already on screen: change the background, replace the building, adjust the light. One sentence per change.
+
+
+
+
+READY TO MAKE YOUR OWN?
+GO!
+Contents
+Before You Start
+Setup — Connect Higgsfield MCP, Then Load the Skill
+Connect the MCP server
+Load the Skill
+Ready To Make Your Own?
+Ready to make your own?

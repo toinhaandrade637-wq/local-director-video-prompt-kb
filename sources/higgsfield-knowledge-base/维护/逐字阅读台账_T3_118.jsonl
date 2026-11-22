@@ -1,0 +1,385 @@
+{"project":"IT_WAS_JUST_A_JOKE","idx":1,"sha8":"3a6c9468","len":1885,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,885c **手绘标题卡笔触四细节**：Hand-painted title card, 21:9…the words are **painted by hand with thick visible brush and palette-knife strokes, the paint texture sitting on top of the letterforms, edges left loose and unfinished where the brush lifted, some strokes running slightly past the shape and some corners left unfilled**——刮刀笔触+边缘未完成+出界+未填满"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":2,"sha8":"6580a61c","len":1875,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":3,"sha8":"2ab166ec","len":1824,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":4,"sha8":"2ab166ec","len":1824,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":5,"sha8":"94df565e","len":2069,"nTasks":1,"models":"null","read":true,"findings":"2,069c **Painterly 风格锚+受限色板**：**Painterly stylised 2D-3D hybrid animation, not photorealistic.** Thick visible brush and palette-knife strokes…**Bold limited palette — two or three saturated colours against warm neutrals. Strong graphic silh(ouettes)**——2D-3D 混合+二三饱和色对暖中性"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":6,"sha8":"6580a61c","len":1875,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":7,"sha8":"5e87540c","len":1969,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":8,"sha8":"5e87540c","len":1969,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":9,"sha8":"6580a61c","len":1875,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":10,"sha8":"003d528d","len":2223,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,223c **fur 字母标题卡首例**：**THE LETTERS ARE MADE OF FUR**: every letterform is a flat shape completely filled with **DENSE SOFT ANIMAL FUR, exactly like an Akita dog's coat** — thick short hair with visible individual strands, **a soft downy undercoat showing through, natural clumping and direction to the pile, and the hairs sticking out along the outlines so every edge is** (fuzzy)——秋田毛质感四细节"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":11,"sha8":"003d528d","len":2223,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":12,"sha8":"003d528d","len":2223,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":13,"sha8":"2b8369c5","len":1975,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":14,"sha8":"2b8369c5","len":1975,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":15,"sha8":"2b8369c5","len":1975,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":16,"sha8":"2b8369c5","len":1975,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":17,"sha8":"a8142c32","len":1826,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":18,"sha8":"2b8369c5","len":1975,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":19,"sha8":"2b8369c5","len":1975,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":20,"sha8":"b21ecc2a","len":1975,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":21,"sha8":"b21ecc2a","len":1975,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":22,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":23,"sha8":"55fc035b","len":2659,"nTasks":1,"models":"default","read":true,"findings":"2,659c **rectilinear 六禁+三脚架锁定**：**Rectilinear lens, image fills all four corners, no fisheye, no vignette, no black borders. THE CAMERA IS COMPLETELY STATIC — locked off on a tripod**——四角填满+锁定"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":24,"sha8":"f7c8e481","len":12367,"nTasks":1,"models":"default","read":true,"findings":"12,367c **480fps→1/8 速率+最重要属性声明首例**：**SPEED — THE SINGLE MOST IMPORTANT PROPERTY OF THIS VIDEO: this is ULTRA SLOW MOTION, filmed at 480 frames per second and played back at 24. THESE TEN SECONDS OF SCREEN TIME COVER ONLY ABOUT ONE AND A QUARTER SECONDS OF REAL TIME. Everything moves at roughly ONE EIGHTH of normal speed**, in every shot, from the very f(irst)——速率=最重要+银幕/真实时间换算"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":25,"sha8":"6d0eaca1","len":9606,"nTasks":1,"models":"default","read":true,"findings":"9,606c ** Grass blades fur smoke 慢动作细节物**：filmed at 480 frames per second…**Grass blades, fur, hair, smoke and soot fl(oating)**——草叶毛皮发丝烟灰慢动作物清单"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":26,"sha8":"5bd3dd91","len":6567,"nTasks":1,"models":"default","read":true,"findings":"6,567c 3 shots 版（同 25）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":27,"sha8":"6d0eaca1","len":9606,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":28,"sha8":"1867fe76","len":8868,"nTasks":1,"models":"default","read":true,"findings":"8,868c 两个镜头喜剧转剧：Cinematic live-action **comedy…drama**, 2 shots, one hard cut——喜剧转剧"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":29,"sha8":"1867fe76","len":8868,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":30,"sha8":"eb2e50c7","len":7981,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":31,"sha8":"eb2e50c7","len":7981,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":32,"sha8":"eb2e50c7","len":7981,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":33,"sha8":"eb2e50c7","len":7981,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":34,"sha8":"44245746","len":7366,"nTasks":1,"models":"default","read":true,"findings":"7,366c **水慢动作爬行撕开**：ULTRA SLOW MOTION…**Water does not splash cleanly, it crawls and tears apart in the air, drops hanging and rotating, sheets peeling and drifting down late.**——水爬行撕开+延迟下落"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":35,"sha8":"44245746","len":7366,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":36,"sha8":"e6e5cffa","len":6701,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":37,"sha8":"e0e08fc7","len":5712,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":38,"sha8":"0db9e91b","len":4735,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":39,"sha8":"a66ea651","len":10570,"nTasks":1,"models":"default","read":true,"findings":"10,570c **调色宪法首例（青橙禁）**：**no teal-and-orange, no color filter, no color cast.** Bright natural spring daylight, high-key soft lighting, **clean neutral whites, warm gentle sunlight, gentle contrast, true-to-life natural saturation**——青橙禁+自然饱和（×10+ 全项目统一）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":40,"sha8":"e0e08fc7","len":5712,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":41,"sha8":"383e3701","len":5688,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":42,"sha8":"ba2e424e","len":5818,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":43,"sha8":"05d415ba","len":5258,"nTasks":1,"models":"default","read":true,"findings":"5,258c **240fps→1/4 速率+换算声明**：**EXTREME SLOW MOTION FROM THE FIRST FRAME TO THE LAST, filmed at 240 frames per second and played back at 24. Everything moves at roughly ONE QUARTER of normal speed; anything that would normally take one second takes four seconds here. Liquid hangs, arcs and falls late in heavy ropy strands.**——1/4+1秒→4秒换算+重绳状液体"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":44,"sha8":"12e570d7","len":7890,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":45,"sha8":"2e1a682e","len":5372,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":46,"sha8":"5292ea06","len":7837,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":47,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":48,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":49,"sha8":"eb2e50c7","len":7981,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":50,"sha8":"26b2aec7","len":6723,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":51,"sha8":"97961dea","len":5762,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":52,"sha8":"5ae54759","len":4979,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":53,"sha8":"cd6df529","len":4710,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":54,"sha8":"5424754c","len":2855,"nTasks":1,"models":"null","read":true,"findings":"2,855c **分区海报首例**：**strictly asymmetric, split into two zones. The LEFT THIRD of the frame is reserved for the title. The RIGHT TWO THIRDS hold the action**, seen from a LOW SIDE (angle)——左 1/3 标题+右 2/3 动作"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":55,"sha8":"5424754c","len":2855,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":56,"sha8":"5424754c","len":2855,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":57,"sha8":"5424754c","len":2855,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":58,"sha8":"d7b3f404","len":12901,"nTasks":1,"models":"default","read":true,"findings":"12,901c **升级日间序列 9 镜**：one **escalating daytime sequence cut into 9 shots**…**Every living body and every object moves at roughly ONE QUARTER of normal speed. Nothing ever moves at normal speed at any moment.**——升级序列+全面 1/4"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":59,"sha8":"f5a5225c","len":11731,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":60,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":61,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":62,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":63,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":64,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":65,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":66,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":67,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":68,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":69,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":70,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":71,"sha8":"4bf6aefc","len":10378,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":72,"sha8":"4bf6aefc","len":10378,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":73,"sha8":"4bf6aefc","len":10378,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":74,"sha8":"ef678710","len":9666,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":75,"sha8":"ac245118","len":2069,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":76,"sha8":"ac245118","len":2069,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":77,"sha8":"a8142c32","len":1826,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":78,"sha8":"94df565e","len":2069,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":79,"sha8":"55fc035b","len":2659,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":80,"sha8":"1fa2cb5f","len":2277,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":81,"sha8":"f7c8e481","len":12367,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":82,"sha8":"b1c3880c","len":11209,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":83,"sha8":"6d0eaca1","len":9606,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":84,"sha8":"e5bb4641","len":8084,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":85,"sha8":"e6e5cffa","len":6701,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":86,"sha8":"e6e5cffa","len":6701,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":87,"sha8":"3c402e6a","len":5892,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":88,"sha8":"45a23c78","len":6608,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":89,"sha8":"507aa3a4","len":4740,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":90,"sha8":"e42792eb","len":5841,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":91,"sha8":"507aa3a4","len":4740,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":92,"sha8":"507aa3a4","len":4740,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":93,"sha8":"6841a85f","len":6354,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":94,"sha8":"2a995541","len":4513,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":95,"sha8":"eb2e50c7","len":7981,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":96,"sha8":"0dba47b3","len":3662,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":97,"sha8":"0dba47b3","len":3662,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":98,"sha8":"5424754c","len":2855,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":99,"sha8":"5424754c","len":2855,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":100,"sha8":"7c53c908","len":2689,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":101,"sha8":"7c53c908","len":2689,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":102,"sha8":"7c53c908","len":2689,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":103,"sha8":"0dba47b3","len":3662,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":104,"sha8":"0dba47b3","len":3662,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":105,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":106,"sha8":"d7b3f404","len":12901,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":107,"sha8":"f5a5225c","len":11731,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":108,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":109,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":110,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":111,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":112,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":113,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":114,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":115,"sha8":"655765bf","len":11377,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":116,"sha8":"29655cd7","len":124,"nTasks":1,"models":"null","read":true,"findings":"124c **俄语修正族延续（myrzakhan 第二项目）**：добавь справа ракурс спереди. где **на технике перчатка одета и смотрит в камеру**——俄语（右侧加正面视角戴手套看镜头）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":117,"sha8":"29655cd7","len":124,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":118,"sha8":"4bf6aefc","len":10378,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":119,"sha8":"ef678710","len":9666,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":120,"sha8":"ef678710","len":9666,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":121,"sha8":"fa36336a","len":13222,"nTasks":1,"models":"default","read":true,"findings":"13,222c 全项目最长（7 镜 30 秒超慢动作）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":122,"sha8":"fa36336a","len":13222,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":123,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"3,958c **自制装置道具表+四无背景**：Product-style reference sheet of one **homemade contraption**…**NO rim light, NO backlight, no shadows on the background, no props, no floor line**——四无背景"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":124,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":125,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":126,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":127,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":128,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":129,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":130,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":131,"sha8":"98522463","len":3958,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":132,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":133,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":134,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":135,"sha8":"f9cae5be","len":10135,"nTasks":1,"models":"default","read":true,"findings":"10,135c **time stretched to a crawl**：**time is stretched to a crawl.** Every body moves at roughly one quarter of normal speed——时间拉至爬行"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":136,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":137,"sha8":"5f376be9","len":8005,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":138,"sha8":"bb707527","len":8873,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":139,"sha8":"c332d545","len":3570,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":140,"sha8":"c332d545","len":3570,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":141,"sha8":"fb6736af","len":10339,"nTasks":1,"models":"default","read":true,"findings":"10,339c **DEEP NIGHT THROUGHOUT+五禁光+唯一月光+黑死禁**：**DEEP NIGHT THROUGHOUT — every single shot is at night**…**NO daylight, NO bright window, NO lamp, NO sunlight, NO strong light source in any frame. The only illumination is thin cold moonlight.**…**no crushed black voids, gentle contrast**——深夜通篇+五禁+黑死禁"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":142,"sha8":"402419c9","len":3185,"nTasks":1,"models":"null","read":true,"findings":"3,185c **秋田犬三联表**：Character reference sheet, photorealistic, one **Akita Inu** dog <<<uuid>>> shown in THREE panels——秋田犬（fur 字母呼应）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":143,"sha8":"402419c9","len":3185,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":144,"sha8":"402419c9","len":3185,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":145,"sha8":"402419c9","len":3185,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":146,"sha8":"fc96a2c8","len":2636,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":147,"sha8":"1a8036be","len":5870,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":148,"sha8":"59c7ea24","len":8049,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":149,"sha8":"5a1ff9ed","len":6317,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":150,"sha8":"1a8036be","len":5870,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":151,"sha8":"6d87347e","len":1655,"nTasks":1,"models":"null","read":true,"findings":"1,655c **面板位置标注+face 1 to 1**：the same face **1 to 1**, the same three poses and framing (**front close-up portrait on the LEFT, full body from BEHIND in the CENTRE, full body SIDE PROFILE on the RIGHT**)——面板位置+1:1"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":152,"sha8":"6d87347e","len":1655,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":153,"sha8":"d0f0932f","len":5149,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":154,"sha8":"82eca83f","len":69,"nTasks":1,"models":"null","read":true,"findings":"69c **俄语插座修正**：сделай **две точки на розетке вертикальными**. убери **вилку шнура из кадра**——插座两点竖排+电线出画"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":155,"sha8":"48407311","len":3351,"nTasks":1,"models":"default","read":true,"findings":"3,351c 远处暖光：a **faint, warm, very dim glow far away in the background, barely reaching this part of the room**——远处微光"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":156,"sha8":"74ed7150","len":6319,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":157,"sha8":"cee15565","len":8460,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":158,"sha8":"140240cc","len":4473,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":159,"sha8":"82eca83f","len":69,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":160,"sha8":"b1ce91fa","len":6236,"nTasks":1,"models":"default","read":true,"findings":"6,236c **THE MASTER ANGLE 声明首例**：<<<uuid>>> — **THE MASTER ANGLE of this scene**: the view from the front——主角度"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":161,"sha8":"d3e46c37","len":7380,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":162,"sha8":"64450faa","len":7226,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":163,"sha8":"5122c7e1","len":3922,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":164,"sha8":"69f6f4cf","len":6744,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":165,"sha8":"996d59d6","len":3522,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":166,"sha8":"ae884757","len":1739,"nTasks":1,"models":"null","read":true,"findings":"1,739c **色级匹配**：Match the exact **lighting and color grade of <<<uuid>>> reference** — soft diffuse spring daylight under a bright hazy overcast sky——色级匹配"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":167,"sha8":"ae884757","len":1739,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":168,"sha8":"ae884757","len":1739,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":169,"sha8":"69f6f4cf","len":6744,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":170,"sha8":"d1aa9625","len":8949,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":171,"sha8":"840d1c83","len":8529,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":172,"sha8":"d1aa9625","len":8949,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":173,"sha8":"d1aa9625","len":8949,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":174,"sha8":"63fa9fa6","len":137,"nTasks":1,"models":"null","read":true,"findings":"137c 俄语单光源：make it nigthtime with dark ligth from window. **только один нейтральный источник света из окна**——只一个中性窗光源"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":175,"sha8":"63fa9fa6","len":137,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":176,"sha8":"ad8967f9","len":125,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":177,"sha8":"d68efe85","len":89,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":178,"sha8":"d68efe85","len":89,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":179,"sha8":"73db6499","len":2104,"nTasks":1,"models":"null","read":true,"findings":"2,104c **dutch tilt+火光暖晕**：SIDE VIEW at grass level, **slight dutch tilt**. Harsh daylight **cut with drifting smoke, warm glow from fire behind**——荷兰角+烟切光"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":180,"sha8":"eb4538f5","len":2415,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":181,"sha8":"eb4538f5","len":2415,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":182,"sha8":"eb4538f5","len":2415,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":183,"sha8":"c2befebf","len":2110,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":184,"sha8":"c2befebf","len":2110,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":185,"sha8":"9843149f","len":2698,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":186,"sha8":"9843149f","len":2698,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":187,"sha8":"ae51694a","len":10156,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":188,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":189,"sha8":"f9cae5be","len":10135,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":190,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":191,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":192,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":193,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":194,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":195,"sha8":"98522463","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":196,"sha8":"f9cae5be","len":10135,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":197,"sha8":"ad8155b9","len":3772,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":198,"sha8":"ad8155b9","len":3772,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":199,"sha8":"ad8155b9","len":3772,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":200,"sha8":"c332d545","len":3570,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":201,"sha8":"ad8155b9","len":3772,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":202,"sha8":"8c8e482a","len":8400,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":203,"sha8":"130df593","len":7310,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":204,"sha8":"c9c94af4","len":6353,"nTasks":1,"models":"default","read":true,"findings":"6,353c **4x slow**：high frame rate look, **roughly 4x slow**, every movement smooth, stretched and heavy, hair and fabric drifting, **dust hanging in the air**——4 倍慢+尘埃悬停"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":205,"sha8":"cb03d5ba","len":9501,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":206,"sha8":"fc96a2c8","len":2636,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":207,"sha8":"5ee24b32","len":2782,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":208,"sha8":"5ee24b32","len":2782,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":209,"sha8":"5ee24b32","len":2782,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":210,"sha8":"4e25247e","len":8549,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":211,"sha8":"e800e712","len":2599,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":212,"sha8":"e800e712","len":2599,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":213,"sha8":"e800e712","len":2599,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":214,"sha8":"e800e712","len":2599,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":215,"sha8":"e800e712","len":2599,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":216,"sha8":"0c033b99","len":7648,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":217,"sha8":"6d87347e","len":1655,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":218,"sha8":"6d87347e","len":1655,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":219,"sha8":"9296a8b6","len":7403,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":220,"sha8":"8c878da4","len":4813,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":221,"sha8":"82eca83f","len":69,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":222,"sha8":"cee15565","len":8460,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":223,"sha8":"996d59d6","len":3522,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":224,"sha8":"cee15565","len":8460,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":225,"sha8":"60576d75","len":7043,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":226,"sha8":"5122c7e1","len":3922,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":227,"sha8":"a4b7dc1b","len":4378,"nTasks":1,"models":"default","read":true,"findings":"4,378c **门洞投光**：a dim, warm, very low glow falling on a plain white wall **through one open doorway behind the man**——门洞光"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":228,"sha8":"cee15565","len":8460,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":229,"sha8":"b13d1e9b","len":7670,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":230,"sha8":"996d59d6","len":3522,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":231,"sha8":"0204a2eb","len":6523,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":232,"sha8":"02d5f93a","len":9132,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":233,"sha8":"18e2dddf","len":1470,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":234,"sha8":"18e2dddf","len":1470,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":235,"sha8":"18e2dddf","len":1470,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":236,"sha8":"8c959d5e","len":2750,"nTasks":1,"models":"default","read":true,"findings":"2,750c **小镇夜全景**：The whole town is dark and asleep…only the cold blue-black of night, **a scatter of small orange streetlights far below and thin moonlight on the rooftops**——散布橙路灯"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":237,"sha8":"5af5d465","len":7243,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":238,"sha8":"ff8c3588","len":155,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":239,"sha8":"ff8c3588","len":155,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":240,"sha8":"7c27dba3","len":8487,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":241,"sha8":"ad8967f9","len":125,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":242,"sha8":"d68efe85","len":89,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":243,"sha8":"0539884d","len":8249,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":244,"sha8":"5de9ab14","len":8193,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":245,"sha8":"e8291050","len":2116,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":246,"sha8":"e8291050","len":2116,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":247,"sha8":"e8291050","len":2116,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":248,"sha8":"c2befebf","len":2110,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":249,"sha8":"2d517d63","len":7656,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":250,"sha8":"73db6499","len":2104,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":251,"sha8":"04239110","len":6882,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":252,"sha8":"d1acaf28","len":1954,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":253,"sha8":"eda2bf61","len":1739,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":254,"sha8":"b86d1beb","len":2642,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":255,"sha8":"03ca69d4","len":5782,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":256,"sha8":"c5c8f23e","len":5546,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":257,"sha8":"c5c8f23e","len":5546,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":258,"sha8":"6b2ac9f0","len":6426,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":259,"sha8":"6b2ac9f0","len":6426,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":260,"sha8":"fe94acff","len":7989,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":261,"sha8":"cdda0845","len":9180,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":262,"sha8":"fe94acff","len":7989,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":263,"sha8":"bf517709","len":10735,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":264,"sha8":"d0272c23","len":10760,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":265,"sha8":"1db7ad66","len":6096,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":266,"sha8":"1db7ad66","len":6096,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":267,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":268,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":269,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":270,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":271,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":272,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":273,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":274,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":275,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":276,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":277,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":278,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":279,"sha8":"78716bab","len":10209,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":280,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":281,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":282,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":283,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":284,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":285,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":286,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":287,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":288,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":289,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":290,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":291,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":292,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":293,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":294,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":295,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":296,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":297,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":298,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":299,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":300,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":301,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":302,"sha8":"a854bc2e","len":898,"nTasks":1,"models":"null","read":true,"findings":"898c **三联布局标注（动物）**：Three views of the SAME dog…**— LEFT: front CLOSE-UP of the head. — CENTER: FULL BODY from BEHIND. — RIGHT: FULL BODY side profile.**——左头特写/中背面/右侧视"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":303,"sha8":"a854bc2e","len":898,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":304,"sha8":"5118e541","len":8262,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":305,"sha8":"a7d96e84","len":8440,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":306,"sha8":"c85860aa","len":6807,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":307,"sha8":"62b30d9a","len":820,"nTasks":1,"models":"null","read":true,"findings":"820c **三联布局标注（物品）**：Three views of the SAME object…**— LEFT: front view standing upright. — CENTER: three-quarter view standing upright. — RIGHT: lying on its side.**——左立/中四分之三/右侧躺"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":308,"sha8":"62b30d9a","len":820,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":309,"sha8":"76f5d091","len":8716,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":310,"sha8":"b6870235","len":5090,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":311,"sha8":"5a03bdf0","len":8144,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":312,"sha8":"139501fd","len":7670,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":313,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":314,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":315,"sha8":"c2befebf","len":2110,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":316,"sha8":"d1acaf28","len":1954,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":317,"sha8":"eda2bf61","len":1739,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":318,"sha8":"c96cad86","len":5935,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":319,"sha8":"03ca69d4","len":5782,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":320,"sha8":"03ca69d4","len":5782,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":321,"sha8":"03ca69d4","len":5782,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":322,"sha8":"c5c8f23e","len":5546,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":323,"sha8":"6b2ac9f0","len":6426,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":324,"sha8":"c5c8f23e","len":5546,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":325,"sha8":"6b2ac9f0","len":6426,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":326,"sha8":"fe94acff","len":7989,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":327,"sha8":"bf517709","len":10735,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":328,"sha8":"d0272c23","len":10760,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":329,"sha8":"d0272c23","len":10760,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":330,"sha8":"0fdf3b3f","len":6788,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":331,"sha8":"ea05cf1c","len":9163,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":332,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":333,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":334,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":335,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":336,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":337,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":338,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":339,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":340,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":341,"sha8":"78716bab","len":10209,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":342,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":343,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":344,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":345,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":346,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":347,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":348,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":349,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":350,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":351,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":352,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":353,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":354,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":355,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":356,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":357,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":358,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":359,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":360,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":361,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":362,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":363,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":364,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":365,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":366,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":367,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":368,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":369,"sha8":"5118e541","len":8262,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":370,"sha8":"c85860aa","len":6807,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":371,"sha8":"cdda0845","len":9180,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":372,"sha8":"fd678706","len":1103,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":373,"sha8":"fd678706","len":1103,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":374,"sha8":"b6870235","len":5090,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":375,"sha8":"b6870235","len":5090,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":376,"sha8":"b6870235","len":5090,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":377,"sha8":"5a03bdf0","len":8144,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":378,"sha8":"b6870235","len":5090,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":379,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":380,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":381,"sha8":"d720e0de","len":7184,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":382,"sha8":"2297ccf0","len":7236,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":383,"sha8":"92dcd03f","len":6747,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":384,"sha8":"0fdf3b3f","len":6788,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"IT_WAS_JUST_A_JOKE","idx":385,"sha8":"64a66387","len":6474,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}

@@ -1,0 +1,141 @@
+【项目】RIDE OR DIE VIDEO TUTORIAL（@rtbmarketing · 创作者博客）
+【链接】https://higgsfield.ai/@rtbmarketing/blogs/ride-or-die-video-tutorial
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+RIDE OR DIE VIDEO TUTORIAL
+@rtbmarketing
+48
+2
+0
+How to Make a Cinematic AI Zombie Video with Character Reference Prompts
+
+SEO title: How to Make a Cinematic AI Zombie Video: Character Sheets, Prompts, and Shot-by-Shot Workflow
+Meta description: Learn how to create a short AI zombie-survival film with consistent characters, a believable zombie transformation, cinematic video prompts, and an emotional memory sequence.
+
+A short AI video can feel like a movie when you plan the characters, mood, and story before generating clips. This tutorial walks through a zombie-survival sequence like the one in my video: a frightened survivor faces his zombified wife, then the story shifts into warm memories of their life together.
+
+The key is to build the scene in stages. First, make clear character references. Next, create the transformed version of the character without losing her identity. Then generate the video as several short shots, keeping the characters, wardrobe, lighting, and screen direction consistent.
+
+1. Start with a simple story arc
+
+Before writing prompts, decide what the viewer should feel. This video uses three emotional beats:
+
+Danger: A survivor sees the zombified version of someone he loves.
+Grief: The survivor breaks down as the reality of the moment sinks in.
+Memory: Warm scenes of the couple together contrast with the dark present.
+
+A clear emotional arc gives each generated shot a purpose. It also helps you avoid asking one prompt to create too many different actions at once.
+
+2. Make a clean character reference first
+
+Use a clear, well-lit image of each character as the identity reference. A character sheet is especially useful because it can show the face, outfit, side and back views, expressions, and small details in one place.
+
+For the survivor, make a normal version first. Keep the clothing simple and distinctive so it is easy to describe again in later prompts. For the other character, make a normal reference before creating the zombie version. This gives the image model a clear identity to preserve.
+
+
+Prompt: survivor character sheet
+
+Create a cinematic character reference sheet of the adult man in the supplied photo. Preserve his identity and recognizable facial features exactly: face shape, eyes, nose, mouth, skin tone, hairstyle, and age. Show one full-body front view, one full-body side view, one full-body back view, and several close-up facial expressions. He wears a plain white T-shirt, dark jeans, and practical black boots. Neutral studio background, even soft lighting, realistic human proportions, photorealistic live-action film reference, clean organized layout. Keep the same face and body proportions in every view. No extra people, no text, no logos, no weapons.
+
+
+
+
+
+
+
+If the story needs a survival outfit, create it as a separate version after the normal sheet is approved. This makes it easier to keep the face consistent while changing only wardrobe and condition.
+
+Prompt: survival outfit variation
+
+Use the supplied character sheet as the locked identity reference. Keep the same adult man, face, hairstyle, body proportions, and age. Change only his clothing to a worn dark green field jacket over a black shirt, rugged dark pants, and practical boots. The outfit looks used and dusty but remains realistic and functional. Show front, side, back, and face close-ups in the same character-sheet layout. Muted cinematic colors, realistic fabric texture, no extra people, no text.
+
+
+
+
+3. Transform the character while preserving identity
+
+For a zombie version, describe the transformation as makeup, skin, eyes, and clothing condition. Say plainly that the character must remain the same person. Keep the outfit recognizable; a familiar sweater or color helps the audience understand who they are seeing.
+
+Prompt: zombified character sheet
+
+Use the supplied portrait and character sheet as the identity reference. This is the same adult woman, with the same face shape, eyes, nose, lips, hairstyle, age, and recognizable features. Create a realistic horror-film zombie version of her. Her skin is pale, gray, and weathered, with subtle bruising, small healed-looking cuts, dark under-eye shadows, and a vacant, exhausted expression. Her hair is messy but keeps its original length and color. Keep her recognizable green knit sweater and blue jeans, now torn, dirty, and lightly stained. Show front, side, back, and close-up expression views. Grounded practical makeup, photorealistic live-action film still, restrained horror, no exaggerated gore, no extra characters, no text.
+
+
+
+
+For a more intense close-up, adjust only the makeup details. Do not rewrite the character's identity description from scratch; repeating the same identity language helps preserve continuity.
+
+Prompt: zombie close-up variation
+
+Tight cinematic portrait of the same zombified woman from the supplied reference. Preserve her exact identity, hairstyle, green sweater, and facial structure. Gray pale skin, realistic cracked makeup, subtle cuts and bruising, cloudy eyes, distressed expression, mouth slightly open. Low-key practical lighting, shallow depth of field, grounded horror-movie realism. Keep the makeup believable and restrained. No new face, no extra people, no text.
+
+4. Lock the visual style for the whole project
+
+Write a short style block and reuse it in every shot. A repeated style description can help the separate generations feel like parts of one film.
+
+Reusable visual-style block
+
+Intimate cinematic survival drama, photorealistic live-action film, natural human movement, restrained performance, realistic skin and fabric, subtle film grain, soft highlight bloom, muted color palette, shallow depth of field, controlled camera movement, believable practical lighting. Dark present-day scenes use cool gray-green shadows and dim window light. Memories use warm late-afternoon sunlight, soft golden highlights, and gentle lens flare. Keep the same characters, wardrobe, and visual treatment from the supplied references.
+
+Keep the zombie scenes and memory scenes visually distinct. The darker present should feel quiet and tense; the memories should feel warm and open. That change in light helps the viewer understand the emotional shift even without dialogue.
+
+5. Generate the video one shot at a time
+
+Short clips are easier to control than one long prompt. Generate each shot separately, review it, and then move on. Use the same reference images and identity descriptions each time. Keep one main action per shot, such as “the survivor looks toward the doorway” or “the woman steps into the light.”
+
+The prompts below are examples based on the sequence in the video. Adapt the framing, duration, and actions to the video tool you use.
+
+Shot 1: Survivor notices movement
+
+Medium close-up of the same adult male survivor from the reference sheet, inside a dim, worn kitchen at night. He hears a faint sound off camera and slowly turns toward the dark doorway. His breathing is unsteady; his eyes fill with fear and sadness. Keep his dark green jacket, face, hairstyle, and body proportions consistent with the reference. Cool gray-green shadows, weak window light, practical horror realism, subtle handheld camera drift, shallow depth of field. One continuous action, natural motion, no dialogue, no text, no additional people appearing.
+
+Shot 2: The zombified wife appears
+
+Over-the-shoulder view from behind the same survivor, looking toward a dark doorway. The same zombified woman from the supplied reference stands several steps inside the doorway, still and barely visible in the shadow. Preserve her face, long hair, green sweater, and blue jeans. The survivor remains foreground-left and out of focus; the woman stays in the doorway. Slow, restrained push-in, cool low-key lighting, quiet tension, realistic live-action horror. Keep their positions stable. No sudden teleporting, no new characters, no text.
+
+Shot 3: Emotional close-up
+
+Tight close-up of the same survivor as he struggles to hold back tears. His face trembles and his eyes glisten; he looks toward the woman just off camera. Maintain his exact identity, jacket, and hairstyle from the reference. Dim kitchen light, cool shadows, restrained natural acting, shallow depth of field, subtle handheld camera movement. Hold the expression for a moment. No dialogue, no text, no change of clothing or face.
+
+Shot 4: The present breaks into a memory
+
+Match cut from the survivor in the dark kitchen to the same man in a peaceful memory, lying in a sunlit field with his partner beside him. Use the normal, non-zombie reference images for both people. Keep their faces, hair, age, and clothing consistent. The woman gently cups his face and smiles; he looks up at her with relief and affection. Warm late-afternoon backlight, soft golden lens flare, natural candid movement, intimate close framing, photorealistic 35mm-film feeling. This is a memory, so it feels warmer and calmer than the present. No zombie makeup, no text.
+
+Shot 5: A joyful memory
+
+The same couple from the normal character references run together through a sunlit field, holding hands and laughing. Keep their identities and wardrobe consistent: the woman wears her green sweater and jeans; the man wears a simple white T-shirt and dark jeans. Wide shot from behind, grass moving gently in the breeze, warm late-afternoon sunlight, natural body movement, soft film grain, nostalgic and intimate realism. Keep both people in frame and moving in the same direction. No extra people, no text.
+
+Shot 6: Quiet ending
+
+Wide, still shot of the same couple sitting close together in the field at sunset, viewed from behind. Their shoulders touch as they watch the distant mountains. Keep their clothing, body proportions, and identities consistent with the reference images. Warm pink-gold sky, grasses in the foreground, gentle breeze, restrained camera movement, peaceful but bittersweet mood. Hold the composition for a few seconds. No extra characters, no dialogue, no text.
+
+6. Keep continuity with a shot checklist
+
+Before generating each clip, check these details:
+
+Identity: Are you using the same approved face and character reference?
+Version: Is this the normal character or the zombie transformation?
+Wardrobe: Are the same clothes and colors repeated in the right timeline?
+Location: Does the kitchen or field match the other shots in that section?
+Screen direction: Is the character still looking or moving the same way between connected shots?
+Camera: Are you asking for one clear framing and one main action?
+Mood: Does the lighting match the present or the memory?
+
+If a shot is almost right, change one thing at a time. For example, keep the prompt and reference image the same, but request a wider frame or slower camera movement. Changing identity, wardrobe, scene, camera, and emotion all at once makes it harder to see what improved the result.
+
+7. Edit for contrast and emotion
+
+Put the dark survival shots first, then use a clean cut or brief dissolve to enter the memories. Let the shots breathe: a held expression can be more emotional than adding more movement. Use natural sound effects such as quiet room tone, footsteps, clothing movement, wind, and grass. Music can support the shift, but it should not overpower the images.
+
+If the generated clips do not match perfectly, trim them to the strongest moment and use the edit to control pacing. A short, clear sequence often feels more cinematic than a longer sequence with inconsistent motion.
+
+Why this prompting workflow works
+
+The workflow separates identity, transformation, style, and action. The character sheets define who is on screen. The transformation prompt changes the character's condition while protecting her recognizable features. The repeated style block ties the shots together. Finally, the shot-by-shot prompts keep each video generation focused on one action and one emotional beat.
+
+That process works for more than zombie stories. You can use it for a romance, a family memory film, a sci-fi short, or any AI video where the same characters need to look consistent across several scenes.
+
+Suggested closing line: The most powerful part of an AI film is not the effect. It is the feeling viewers recognize in the characters.

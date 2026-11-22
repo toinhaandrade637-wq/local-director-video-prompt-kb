@@ -1,0 +1,400 @@
+【项目】CLAUDE BUILT MY CAMERA MOVE IN BLENDER. SEEDANCE PAINTED THE REST.（@baran_robin · 创作者博客）
+【链接】https://higgsfield.ai/@baran_robin/blogs/claude-built-my-camera-move-in-blender-seedance-painted-the-rest
+【提示词块】5
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+CLAUDE BUILT MY CAMERA MOVE IN BLENDER. SEEDANCE PAINTED THE REST.
+B
+@baran_robin
+18
+2
+0
+What happens when you stop hoping the AI understands your shot and just show it the shot instead. 🎬
+🎯 What You Are Going To Build
+
+A 30 second cinematic police chase: a white Porsche 911 GT3 R Rennsport drifting through golden hour Tokyo, chased by three vintage police sedans, with two characters laughing in the cabin. Six shots, five hard cuts, native engine sound. 🔥
+
+No camera. No location. No car. Everything generated.
+
+🧰 What You Need
+Blender for the greybox pass, connected to Claude 📦
+5 image references: driver, passenger, hero car, location, chase cars 🖼️
+1 reference video: your greybox previz 🎞️
+Seedance 2.5 inside Higgsfield 🚀
+Before You Start
+
+The core idea: text prompts are bad at camera. Every other part of a shot — faces, materials, light, physics, sound — a video model handles well, but "the camera dives from above, sweeps into the cabin, then drops behind the car" comes back different every single time. So take that job away from the prompt entirely. Block the move in 3D, render it flat and grey, and let the prompt spend all its authority on what the world looks like.
+
+
+
+
+And you don't need to know Blender. Claude builds the blocking for you.
+
+
+
+
+Step 1. Download Blender, it's free: https://www.blender.org/
+
+
+
+
+Step 2. In Claude, open Settings, go to Connectors and hit Add.
+
+
+
+
+Step 3. Search for Blender in the directory and connect it.
+
+That's the whole setup. From here you just chat: describe the scene, the camera and the cuts you want, and Claude builds it in your open Blender file while you watch it happen in the viewport. Ask for changes in plain language until the move feels right.
+
+
+
+
+This is the brief I used for the chase:
+
+
+
+
+Connect to my Blender and build a 30 second previz for a car chase. Grey boxes only, no textures, no lights. A city street between tall buildings, a sports car drifting down it, three police cars chasing it. Make the camera cinematic: start high above the street, dive down behind the car, then cut to a few different angles. Show me what you built so I can tell you what to change.
+
+
+
+
+Two things drive the generation from here. The previz controls camera, staging, cut timing and blocking. The image references control everything visible: who is in the car, what the car is, which city, which light. Nothing crosses over.
+
+SCENE CONTEXT
+
+A 30 second ultra realistic cinematic police chase. A white Porsche 911 GT3 R rennsport drifts through golden hour Tokyo, hunted by three vintage police sedans. This is a full live action transform of @Video 2: every camera path, cut point, speed change, drift line and action beat of @Video 2 is replicated one to one and re rendered as photoreal footage.
+
+
+
+
+ACTIVE REFERENCES
+
+@Video 2 is the master motion reference. Camera choreography, shot order, cut timing, drift timing, vehicle paths and blocking follow @Video 2 exactly.
+
+@af203751-c430-4cb0-a150-b6b6d729f38a is the driver. A man with black textured hair, short beard, browline glasses and silver over ear headphones, wearing a dark green leather Porsche varsity jacket with cream striped trim over a white shirt and black tie. Face, hair and outfit 100% match @af203751-c430-4cb0-a150-b6b6d729f38a.
+
+@07df850b-a980-4e0a-9891-ba4637455fd9 is the passenger. A young woman with a blue headwrap trailing a long yellow cloth, a single pearl earring, white collar and mustard jacket, 100% matching @07df850b-a980-4e0a-9891-ba4637455fd9. She rides thrilled and joyful.
+
+@154f053f-bfe0-4b4f-9caf-49d15cf989e9 is the hero car. The Porsche 911 GT3 R rennsport in white, red and blue livery with the number 911, a huge rear wing, blue tinted headlights and a caged race interior, 100% matching @154f053f-bfe0-4b4f-9caf-49d15cf989e9 from every angle and in every shot.
+
+@87c1c891-cf3b-4b05-a14b-5fb64947f68b is the location. Golden hour Tokyo from above with Tokyo Tower, the Skytree, the river and Mount Fuji on the horizon, dense sunlit city, matching @87c1c891-cf3b-4b05-a14b-5fb64947f68b.
+
+@195796ab-0177-4720-b789-1117b6a13174 are the pursuers. Three identical retro navy and white police sedans with red and blue roof light bars and round quad headlights, 100% matching @195796ab-0177-4720-b789-1117b6a13174.
+
+
+
+
+LOCATION MAP
+
+A long straight boulevard canyon between mid rise Tokyo buildings, lined with kanji and neon signage, parked cars and vending machines. The canyon opens onto a large scramble crossing with diagonal crosswalks framed by glass towers. Tokyo Tower glows warm in the background skyline of @87c1c891-cf3b-4b05-a14b-5fb64947f68b. The low western sun throws long shadows across the asphalt. Pedestrians wait at the crossing edges.
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+First frame matches frame one of @Video 2: a vertical top down aerial high above the boulevard canyon, the street running up the center of frame, sunlit rooftops left and right, tiny traffic below with the white hero car a small bright dot mid street, the sunset skyline of @87c1c891-cf3b-4b05-a14b-5fb64947f68b spreading around the canyon with Tokyo Tower on the right.
+
+
+
+
+FORMAT MODE
+
+Duration 30 seconds, 25 fps, widescreen, matching the length and pacing of @Video 2 exactly. The film contains exactly five hard cuts, at 10.6s, 12.84s, 13.96s, 20.96s and 24.04s, exactly as in @Video 2. Everything between the cuts is one continuous camera move.
+
+
+
+
+OPTICS
+
+Shot 1 holds a 92 degree wide rectilinear lens for the entire continuous move; the cockpit faces read through pure physical closeness. Shots 2 to 6 hold an 84 degree classic wide. The lens changes only on the five cuts.
+
+
+
+
+CAMERA
+
+SHOT 1, 0.0s to 10.6s, one continuous move exactly as @Video 2: a vertical FPV plunge from high above the canyon toward street level, resolving into a low framing behind @154f053f-bfe0-4b4f-9caf-49d15cf989e9 that closes until the rear wing fills the frame, then sweeping forward along the roofline into the cabin.
+
+Within this shot, 6.5s to 9.6s 
+Camera move
+
+Camera at headrest height inside the cabin of @154f053f-bfe0-4b4f-9caf-49d15cf989e9, close enough that both faces read fully. @af203751-c430-4cb0-a150-b6b6d729f38a at the wheel, @07df850b-a980-4e0a-9891-ba4637455fd9 beside him. This beat ends at the passenger side bodywork. The shot then continues seamlessly, falling back behind the car into a low rear framing until the cut.
+
+SHOT 2, 10.6s to 12.84s, exactly as @Video 2: a very low close pass along the drifting car's flank that opens up to frame the crosswalk corner as @154f053f-bfe0-4b4f-9caf-49d15cf989e9 slides through it, smoke pouring off the rear tires.
+
+SHOT 3, 12.84s to 13.96s, exactly as @Video 2: a brief high framing straight down onto the roof and rear wing of @154f053f-bfe0-4b4f-9caf-49d15cf989e9 crossing the intersection, the skyline of @87c1c891-cf3b-4b05-a14b-5fb64947f68b spread beyond.
+
+SHOT 4, 13.96s to 20.96s, one continuous move exactly as @Video 2: wide on the boulevard as @154f053f-bfe0-4b4f-9caf-49d15cf989e9 drifts through, the three police sedans of @195796ab-0177-4720-b789-1117b6a13174 surging into view behind it at 14s with light bars flashing; the camera closes into tight circling coverage of the smoking drift, then races ahead low over the asphalt down the empty signage street.
+
+SHOT 5, 20.96s to 24.04s, one continuous move exactly as @Video 2: a high top down view of the scramble crossing with its diagonal crosswalks, descending to street level as @154f053f-bfe0-4b4f-9caf-49d15cf989e9 drifts through between the waiting pedestrians.
+
+SHOT 6, 24.04s to 29.8s, one continuous move exactly as @Video 2: opening extremely close on the rear wing, traveling along the full side profile of the drifting car, rounding the nose, letting the car pull away through the intersection, and settling into a held wide at chest height, pedestrians and drifting tire smoke in the foreground as the car recedes down the boulevard.
+
+
+
+
+ACTION TIMING
+
+The drift initiations, counter steer moments, smoke bursts and the five cut points land on the identical timecodes as @Video 2. In the cabin beat: @07df850b-a980-4e0a-9891-ba4637455fd9 is caught mid laugh, head tipped back, eyes bright, hands lifted toward the dash in pure joy, the long yellow tail of her headwrap adrift through the cabin. @af203751-c430-4cb0-a150-b6b6d729f38a grips the wheel with a calm focused grin, eyes on the road, and his browline glasses and silver headphones hang free in mid air between the two seats, turning gently where the drift forces lifted them off his head. Outside the windows the street holds a hard drift angle with smoke peeling off the rear arches. From 14s the three police sedans of @195796ab-0177-4720-b789-1117b6a13174 stay locked in pursuit, nosing through the same corners two car lengths back. At 25s loose signage and paper debris kick through the air behind the drifting car. In the final beat the smoke thins and the pedestrians turn to watch the car disappear.
+
+
+
+
+PHYSICS
+
+Full race car dynamics: weight transfer on turn in, rear tires breaking traction with thick white smoke, suspension compressing over crown lines, body roll and counter steer visible at the front wheels, heat shimmer from the exhausts. The police sedans ride softer, pitching and diving on their springs. The yellow headwrap cloth and jacket leather respond to cabin motion. Debris tumbles with real mass and skitters on the asphalt. Reflections of sky, signage and light bars slide accurately across the white bodywork.
+
+
+
+
+LIGHTING
+
+Golden hour throughout, matching @87c1c891-cf3b-4b05-a14b-5fb64947f68b: warm low sun from the west as key, long hard shadows down the boulevard, amber bounce off glass facades, cool blue open sky fill in the shadows. The blue tinted headlights of @154f053f-bfe0-4b4f-9caf-49d15cf989e9 stay lit. From 14s the red and blue police strobes rake flashing color across the hero car's flanks and the surrounding buildings. In the cabin, warm sun streams through the windows and keeps both faces readable.
+
+
+
+
+AUDIO
+
+Generate the complete soundtrack natively for every scene, fully synchronized to the on screen action. The voice of the film is the engine of @154f053f-bfe0-4b4f-9caf-49d15cf989e9: a naturally aspirated Porsche racing flat six with a raw guttural idle, a hard metallic induction bark under load, a screaming high rpm howl near redline, razor sharp gearshifts with a brief cut of the exhaust note on every upshift, straight cut gearbox whine underneath, and crackling popping overrun on every downshift and lift. This engine keeps one consistent recognizable voice across all six shots, changing only in distance, echo and load.
+
+Shot 1: high wind roar during the aerial plunge that thins as the camera drops, the flat six rising from a distant wail to a full raw scream as the wing fills the frame, exhaust pressure fluttering against the camera. Inside the cabin the engine reads muffled and thick through the shell of the car, gear whine close and present, and her ringing joyful laugh is the only human voice in the film. Falling back out of the cabin the engine snaps back to full raw volume.
+
+Shot 2: screaming tires and rubber chatter dominating up close, grit peppering the underbody, the exhaust barking off the corner facades, a deep whump of air as the car slides past the lens.
+
+Shot 3: one second of the engine echoing upward between the buildings, slightly distant under the high view, thin city ambience around it.
+
+Shot 4: at 14s three police sirens join in wailing offset layers with natural doppler movement, engines of the sedans straining thin and reedy against the flat six, long tire squeal through the drift, the soundscape slapping back and forth between the canyon walls, then hard wind rush over asphalt as the camera races down the empty street.
+
+Shot 5: the chirping melody of a Japanese crosswalk signal and murmuring pedestrians under open city ambience, cut through by the approaching flat six and sirens, gasps and a scattered scream of delight as the car drifts through the crossing.
+
+Shot 6: peak drift roar and thick tire smoke hiss traveling along the bodywork, the engine howling past the lens with full doppler drop, upshifts cracking as the car pulls away, then the mix settling into thinning exhaust echo, distant layered siren wail, soft wind and calm golden hour city ambience as the pedestrians murmur and the film fades on the fading engine note far down the boulevard.
+
+
+
+
+STYLE
+
+Photoreal live action, high end automotive action cinema, crisp clarity with a subtle 35mm film texture, natural warm color palette anchored by the golden sky, the white red and blue livery and the neon signage accents.
+
+
+
+
+QUALITY
+
+Sharp readable poses with natural 180 degree shutter motion blur during fast movement, stable temporal cadence, single clean exposure per frame, faces, livery and location fully consistent across every cut.
+
+
+
+
+POSITIVE CONSTRAINTS
+
+Exactly two people ride in the hero car for the whole film: @af203751-c430-4cb0-a150-b6b6d729f38a driving, @07df850b-a980-4e0a-9891-ba4637455fd9 in the passenger seat. Exactly one hero car appears, always the @154f053f-bfe0-4b4f-9caf-49d15cf989e9 GT3 R in its white red and blue number 911 livery. Exactly three police cars appear, all matching @195796ab-0177-4720-b789-1117b6a13174, first visible at 14s and always behind the hero car. Pedestrians appear only at the crossings and stay clear of the car's line. The film uses exactly the five cuts of @Video 2 and every shot between them runs as one unbroken camera move. Screen direction, shot order and shot lengths stay locked to @Video 2 for the entire 30 seconds. Her laugh in the cabin is the only human voice, all other audio is engine, tires, sirens, wind and city ambience.
+
+See all
+Copy prompt
+Recreate
+🧱 Step 1: Block The Whole Film In Grey
+
+Build a rough street canyon, drop in a placeholder car, and animate the camera exactly the way you want the final film to move. Cut your timeline exactly where you want the final film to cut. Render it flat and grey.
+
+This is what mine looked like:
+
+Looks like nothing. Does everything. 😎
+
+Why grey and not detailed? Because anything you texture in the previz can bleed into the output. Grey boxes carry motion and space, and nothing else.
+
+👤 Step 2: Character Sheets, Not Selfies
+
+A single photo gives the model one angle. A 3 panel sheet gives it the whole person, so the face stays locked across all six shots.
+
+Notice the first panel has no head. That is on purpose: the outfit gets its own panel, and only one face exists on the sheet, so the model cannot drift between two versions of the same person. 🧠
+
+The driver:
+
+3-view character reference sheet for a film character. Photorealistic, a real 35mm film photograph, naturalistic editorial reference, fine organic grain, gentle highlight roll-off. Not an illustration, not a render.
+
+
+
+
+REFERENCE ROLES. @af203751-c430-4cb0-a150-b6b6d729f38a is the identity reference: the man on this sheet is the exact same person as in @af203751-c430-4cb0-a150-b6b6d729f38a, with the same face, the same bone structure, the same eyes, the same hair colour, length and texture and the same beard. Do not restyle, age or alter his identity. @38dad7d5-d4ec-4184-8649-c952ebd44b60 is a flat lay wardrobe board and is a garment reference only: take the shirt, the trousers, the waist chain and the footwear from it. The board layout, the grey board background, the floating arrangement of objects, the black leather jacket, the compact camera, the bracelets, the dog tag, the eyewear and the hanging charm keychains from @38dad7d5-d4ec-4184-8649-c952ebd44b60 are NOT used and do not appear anywhere on this sheet. @acac9592-01db-43bc-a55f-0a0321dd772e is the jacket reference: the jacket worn on this sheet is that exact jacket. The dark green poster background, the vignette, the poster graphics, the gloves and the colour grade of @acac9592-01db-43bc-a55f-0a0321dd772e are NOT used. @e512fb62-6d9e-4d10-8473-60511c73cb7e is the eyewear reference: the glasses worn on this sheet are that exact pair. The white product background, the three view product layout and the product lighting of @e512fb62-6d9e-4d10-8473-60511c73cb7e are NOT used.
+
+
+
+
+The subject is an adult man, same build and proportions as @af203751-c430-4cb0-a150-b6b6d729f38a. Natural, realistic, anatomically correct human proportions: correct head-to-body ratio, natural limb length, realistic joint articulation, true-to-life body geometry rendered at real-world scale. Preserve the same body width, same frame and same build in every panel. Do not slim, thin out, shrink or narrow the body.
+
+
+
+
+FACE REFINEMENT, applied identically in all views while keeping him fully recognisable as @af203751-c430-4cb0-a150-b6b6d729f38a: refine the nose aesthetically so the bridge reads straighter, more even and slightly narrower; render the under-eye area clean and even with no dark circles and no shadowing; the deep vertical indentation between the eyebrows at the root of the nose is smooth and gently filled rather than sunken; harmonise the overall facial proportions toward classical golden ratio balance so the face reads calmer, more symmetrical and more likeable. These are subtle refinements only, the identity, bone structure and features stay exactly those of @af203751-c430-4cb0-a150-b6b6d729f38a.
+
+
+
+
+Skin as surface: matte low sheen skin with visible pores, fine skin texture variation, a faint natural flush across the cheeks, no oily highlights, no specular hotspots, no glamorization, no heavy retouching, no beauty filter smoothing. Living eyes with a defined catch light from the key light direction and natural moisture on the lower lid.
+
+
+
+
+Both arms whole and both hands normal, intact human hands with five fingers each, naturally positioned, no missing limbs, no prosthesis, no extra fingers.
+
+
+
+
+Clean and neutral condition: clothing intact and unstained, skin clean, no dirt, no grime, no sweat, no stains, no damage or heavy wear.
+
+
+
+
+WARDROBE, head to toe. A dark green Porsche leather varsity jacket, exactly the jacket in @acac9592-01db-43bc-a55f-0a0321dd772e: rich deep green leather with a soft satin sheen, cream ribbed knit collar, cream ribbed cuffs and cream ribbed hem, each rib band carrying thin yellow and dark green stripes, a relaxed boxy fit with set-in sleeves and side entry pockets. The back of the jacket carries the official Porsche crest, a large embroidered shield emblem with the black rearing horse on gold, the red and black quartered fields with the antlers and stripes, and the wordmark across the top of the shield, exactly as in @acac9592-01db-43bc-a55f-0a0321dd772e. Above the crest, the curved script lettering and the arced uppercase lettering along the shoulder line, exactly as in @acac9592-01db-43bc-a55f-0a0321dd772e, same wording, same spelling, same typography, same placement and same size relationship to the crest. Reproduce the crest and all lettering cleanly and accurately with correct proportions and correct spelling. One crest only, one script only, no duplicated marks, no invented extra logos, no redesigned emblem, no distorted or garbled lettering. The front of the jacket carries only the small chest emblem and the small sleeve detailing consistent with that same jacket.
+
+
+
+
+Underneath, a crisp white cotton poplin dress shirt with a pointed collar and a visible weave, worn buttoned. A plain solid black silk tie with a subtle satin sheen and no stripes and no pattern, knotted loosely with the knot pulled well down below the open collar and the blade hanging long over the waistband, clearly deep black. Very wide light blue washed denim baggy jeans, heavyweight cotton denim with a soft faded indigo wash, an extremely loose leg breaking in deep stacks over the shoes, clearly light blue and never dark indigo. A long silver ball chain hanging in a loop from the left front belt loop down the thigh. Off white and grey low top canvas sneakers with a rounded rubber toe cap and flat white laces.
+
+
+
+
+EYEWEAR. Ray-Ban Clubmaster Optics eyeglasses in black and silver, exactly the pair in @e512fb62-6d9e-4d10-8473-60511c73cb7e: a browline frame with a thick glossy black acetate brow across the top of the lenses and along the outer upper corners, a slim polished silver metal rim wrapping the lower half of each lens, a polished silver metal bridge, black acetate temple arms with the small silver hinge plate and the small Ray-Ban wordmark on the left temple arm, the small "RB" mark on the upper right lens, squared-off rounded lenses, fully clear prescription lenses with no tint. The lower half of each lens rim stays thin silver metal and never becomes black acetate. Keep the frame identical to @e512fb62-6d9e-4d10-8473-60511c73cb7e in shape, proportion, colour and detail, undistorted, one pair only, no redesigned frame.
+
+
+
+
+Over ear headphones in brushed silver with dark brown leather ear cushions and a dark brown padded headband, worn ON the head with the cushions fully covering both ears, the ear cushions resting over the black temple arms of the glasses so the arms pass underneath the cushions and stay visible in front of the ears.
+
+
+
+
+Lit with very soft, low, diffused natural light, a large heavily diffused source dimmed well down, the quality of soft shade or thin overcast through a scrim at 5600K, wrapping gently around the face with extremely smooth gradual falloff. Low key restrained exposure, slightly underexposed, nothing bright, hot or glaring, no harsh shadows, no hotspots, no blown highlights, no hard edges of light, kept identical across all three panels. The green leather reads deep and rich, never shiny or blown out.
+
+
+
+
+Neutral medium grey seamless studio backdrop, a clear mid grey, never white and never black.
+
+
+
+
+Layout: three panels side by side in a single horizontal row on one clean continuous neutral medium grey studio seamless, very soft low diffused lighting, evenly lit with no hotspots, no props, thin subtle vertical divider lines separating the three panels. Eye level camera in all three panels, 85mm portrait character, wardrobe and face rendered sharp.
+
+
+
+
+LEFT panel, "FRONT, full body, no head": full length front view of the figure standing straight and neutral facing camera, framed head to footwear with normal headroom above the shoulders exactly like the other full body panel, arms relaxed at sides with both intact hands clearly visible, the whole outfit readable from the jacket collar down to the sneakers, the jacket worn open so the white shirt, the loosely knotted black tie, the waist chain and the wide denim are all clearly visible. The HEAD IS COMPLETELY ABSENT from this panel: an invisible head effect, like an empty costume on display or an invisible man wearing the outfit, the cream ribbed collar standing open at the top of the neck with only the plain grey backdrop where the head would be. The headphones and the glasses do NOT appear in this panel at all, since there is no head to wear them, and nothing floats in the empty space above the collar. Clean, neutral and bloodless, no wound, no blood, no gore, no severed flesh, no stump, nothing violent. The body is whole, upright and naturally standing, only the head is not there. This panel is a wardrobe and proportion reference only, so no face appears in it.
+
+
+
+
+CENTER panel, "BACK, full body": full length back view, head to footwear, standing straight facing directly away from camera, no face visible from this angle, the back of the head with the headphone headband and the black temple arms of the glasses visible at the sides, the full back of the green leather jacket squarely facing camera so the crest and the lettering are completely visible, undistorted and centred, plus the cream ribbed hem, the back of the wide denim jeans and the sneakers, same outfit, same proportions.
+
+
+
+
+RIGHT panel, "FRONTAL CLOSE-UP": frontal close up portrait from the chest up, head facing straight toward camera in a full front view, not three quarter and not profile, eyes looking directly into the lens through the clear lenses, face square to camera, symmetrical framing, chin level, sharp detail on the face and on the frame, the face identical to @af203751-c430-4cb0-a150-b6b6d729f38a with the refinements above, the Ray-Ban Clubmaster Optics glasses sitting straight on his nose with the black brow line above the eyes and the thin silver lower rims clearly visible, the headphones on his head with the cushions over both ears, the cream ribbed jacket collar, the white shirt collar and the loose black tie knot visible at the bottom of the frame, matte skin texture with visible pores, neutral relaxed expression. This is the only face on the sheet and the identity reference for every later shot.
+
+
+
+
+Consistency: the same single character with identical outfit, jacket graphics, eyewear, proportions and condition in all three panels, only the camera angle and crop change. Consistent very soft low diffused lighting and the neutral mid grey backdrop throughout. Exactly ONE face appears on the entire sheet, in the right panel only, and the figure in the left panel has no head at all.
+
+
+
+
+Photorealistic cinematic film photo finish with real skin texture and real leather and denim texture, never plastic CGI skin. 16:9 horizontal sheet.
+
+See all
+Copy prompt
+Recreate
+
+The passenger (yes, that is the Girl with a Pearl Earring in a race car, and yes, it is funnier than it has any right to be 😄):
+
+3-view character reference sheet for a film character. Photorealistic, a real 35mm film photograph, naturalistic editorial reference, fine organic grain, gentle highlight roll-off. Not a painting, not an illustration, not a render.
+
+REFERENCE ROLE. @07df850b-a980-4e0a-9891-ba4637455fd9 is a painted portrait and serves as the identity reference only. Take the exact facial geometry from it: the same bone structure, the same wide-set eyes and their spacing, the same soft rounded nose, the same full lips and their shape, the same jawline, the same pale skin tone, the same eyebrow shape. Translate that painted face into a real photograph of a living human being: real skin with pores and micro-texture, real hair with individual strands, real fabric with visible weave. Do NOT carry over the painting medium, the brushwork, the canvas texture, the craquelure, the varnish sheen, the dark void background, the over-the-shoulder head turn or the original framing. This is a photograph of the same person, not a photograph of the painting.
+
+The subject is an adult woman in her early twenties, with adult facial structure, a defined adult jawline and mature adult features. Average height, slim natural build with soft shoulders and a natural waist. Natural, realistic, anatomically correct human proportions: correct head-to-body ratio, natural limb length, realistic joint articulation, true-to-life body geometry rendered at real-world scale. Preserve this build identically in every panel, same body width, same waist, same frame. Do not slim, thin out, shrink or narrow the body, and do not idealize or beautify the face.
+
+IDENTITY ANCHORS, identical in every panel. Pale fair skin with a faint natural flush across the cheeks and the tip of the nose, matte and low sheen, visible pores, fine vellus hair catching the light, natural under-eye softness, no oily highlights and no specular hotspots. Subtly asymmetrical face with one eye marginally higher than the other and a slight jaw skew. A very small pale mole low on the right cheek, roughly three centimetres below the outer corner of the right eye, understated and barely raised, the eye itself intact and open. Living eyes with a defined catch light from the key light direction, natural moisture on the lower lid, micro asymmetry between the left and right eye. Light brown hair, fine and straight, fully wrapped and hidden under the head wrap, with a few loose strands escaping at the left temple and at the nape. Keep the exact same facial identity, bone structure, features, mole and proportions across every view.
+
+SIGNATURE OBJECT. A single large teardrop shaped pearl drop earring hanging from the left earlobe, warm off white, smooth with a soft satin lustre, catching one small soft highlight. It is present and identical in every panel where the left ear is visible.
+
+Both arms whole and both hands normal, intact human hands with five fingers each, naturally positioned, no missing limbs, no prosthesis, no extra fingers.
+
+Clean and neutral condition: clothing intact and unstained, skin clean, no dirt, no grime, no sweat, no blood, no damage or heavy wear.
+
+WARDROBE, head to toe. A deep ultramarine blue head wrap in soft matte woven wool, wound smoothly around the head and covering all of the hair, sitting low across the forehead just above the eyebrows, clearly deep blue and never navy or teal. A long ochre yellow silk tail attached at the crown, falling loose down the back of the head and over the right shoulder, lighter and more lustrous than the blue wool, clearly warm ochre yellow. A wide flat white linen collar with a soft matte finish lying over the chest and shoulders, visibly woven and slightly creased where it folds. A heavy ochre brown wool jacket in a coarse visible weave, loose fitting with a wide dropped shoulder, the sleeves gathered at the wrists, clearly warm ochre brown. Underneath, a dark brown high necked underdress in matte heavy linen. A long plain dark brown wool skirt falling straight to the ankles. Simple flat dark brown leather shoes with a rounded toe.
+
+Lit with very soft, low, diffused natural light, a large heavily diffused source dimmed well down, the quality of soft shade or thin overcast through a scrim at 5600K, wrapping gently around the face with extremely smooth gradual falloff. Low key restrained exposure, slightly underexposed, nothing bright, hot or glaring, no harsh shadows, no hotspots, no blown highlights, no hard edges of light, kept identical across all three panels.
+
+Neutral medium grey seamless studio backdrop, a clear mid grey, never white and never black.
+
+Layout: three panels side by side in a single horizontal row on one clean continuous neutral medium grey studio seamless, very soft low diffused lighting, evenly lit with no hotspots, no props, thin subtle vertical divider lines separating the three panels. Eye level camera in all three panels, 85mm portrait character, everything from the wardrobe to the face rendered sharp.
+
+LEFT panel, "FRONT, full body, no head": full length front view of the figure standing straight and neutral facing camera, framed head to footwear with normal headroom above the shoulders exactly like the other full body panel, arms relaxed at sides with both intact hands clearly visible, the whole costume readable from the white linen collar down to the leather shoes. The HEAD IS COMPLETELY ABSENT from this panel, including the head wrap: an invisible head effect, like an empty costume on display or an invisible woman wearing the outfit, the white linen collar standing open at the top of the neck with only the plain grey backdrop where the head would be. Clean, neutral and bloodless, no wound, no blood, no gore, no severed flesh, no stump, nothing violent. The body is whole, upright and naturally standing, only the head is not there. This panel is a wardrobe and proportion reference only, so no face appears in it.
+
+CENTER panel, "BACK, full body": full length back view, head to footwear, standing straight facing directly away from camera, the blue head wrap seen from behind with the ochre yellow silk tail hanging down the back over the right shoulder blade, no face visible from this angle, showing the back of the ochre brown wool jacket, the white linen collar across the upper back, the long dark brown skirt and the leather shoes, same costume, same proportions.
+
+RIGHT panel, "FRONTAL CLOSE-UP": frontal close up portrait from the chest up, head facing straight toward camera in a full front view, not three quarter and not profile, eyes looking directly into the lens, face square to camera, symmetrical framing, chin level, sharp detail on the face, the small pale mole on the right cheek clearly visible, the pearl drop earring on the left earlobe clearly visible, the blue head wrap and the white linen collar visible, matte skin texture with visible pores, neutral relaxed expression with a softly closed mouth. This is the only face on the sheet and the identity reference for every later shot.
+
+Consistency: the same single character with identical costume, proportions, mole, pearl earring and condition in all three panels, only the camera angle and crop change. Consistent very soft low diffused lighting and the neutral mid grey backdrop throughout. Exactly ONE face appears on the entire sheet, in the right panel only, and the figure in the left panel has no head at all.
+
+Photorealistic cinematic film photo finish with real skin texture, never plastic CGI skin, no glamorization, no heavy retouching, no beauty filter smoothing, no painterly brush texture. 16:9 horizontal sheet.
+
+See all
+Copy prompt
+Recreate
+🚗 Step 3: The Hero Car Needs Every Angle
+
+One photo of a car gives the model one angle, and everything it cannot see it invents. Cover every angle on one sheet and it has nothing left to make up. 🎯
+
+One thing worth saying: this sheet is not AI generated. Those are real Porsche press photos of the actual car, and I built the sheet myself in Canva.
+
+
+
+
+That was a deliberate choice. A generated car looks like a car, but it invents its own vents, its own wing, its own proportions, and then those invented details drift again in every shot of the film. Real photos of a real car give the model something exact to hold onto, so what ends up on screen is the actual Porsche, not the model's idea of one.
+
+
+
+
+Same trick works for any product you need to keep accurate: don't generate the reference, build it from real photography.
+
+
+
+
+🗼 Step 4: Location And Chase Cars
+
+The location reference does one job: it tells the model which city, which skyline, which light. Golden hour Tokyo with the Tower, the Skytree and Fuji on the horizon.
+
+Photorealistic aerial photograph of Tokyo at golden hour, shot from a helicopter high above the city. Tokyo Tower stands in the lower right foreground, its red and white steel lattice glowing warm above the dense low rise city. The Skytree rises in the middle distance and snow capped Mount Fuji sits on the far horizon, a wide river curving through the right side with bridges across it. Low sun flaring off glass towers, long soft shadows, thin evening haze, warm amber sky fading into pale blue. Real photograph, natural colour, sharp detail from the foreground to the horizon, 9:16 vertical.
+
+See all
+Copy prompt
+Recreate
+🚨 Step 5: The Police Cars Need A Sheet Too
+
+The police cars get their own reference so all three stay identical for the whole chase. Front and side visible, one sheet, three cars that never drift apart.
+
+Photorealistic studio photo of three identical vintage 1970s Japanese police sedans lined up side by side, all facing camera head on. Navy blue bodies with white doors, chrome bumpers, round quad headlights lit warm, red and blue roof light bars glowing. Plain mid grey seamless backdrop, soft even studio light, faint reflections on a polished grey floor. Real photograph, sharp catalog detail, 16:9.
+
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+
+
+
+🎓 WANT THE WHOLE WORKFLOW?
+Join Skool

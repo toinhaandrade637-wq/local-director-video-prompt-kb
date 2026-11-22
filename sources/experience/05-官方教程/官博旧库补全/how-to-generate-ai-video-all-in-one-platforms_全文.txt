@@ -1,0 +1,284 @@
+【项目】How to Get All Your AI Video Models on One Platform?（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/how-to-generate-ai-video-all-in-one-platforms
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+How to Get All Your AI Video Models on One Platform?
+Higgsfield
+Oct 12, 2026
+10 min
+
+Running an AI video workflow across several tools means moving files, references, and credits between them. Platforms that combine generation, character consistency, audio, and editing cut down that switching. This guide walks through all ten workflow steps on five platforms: Higgsfield, Runway, Kling AI, Dreamina CapCut, and LTX Studio. It compares them using each platform’s published plan and documentation pages.
+
+Why All-in-One Changes the Workflow
+
+Every switch between tools is a point where quality can drop, consistency can break, and time gets lost. The clip you generated on platform A has to be re-uploaded to platform B. The character reference you defined in shot one has to be re-entered in shot five. The credits you bought for video generation do not cover the audio tool. Across ten clips, that extra work adds up.
+
+Platforms that consolidate generation, editing, character consistency, and audio into one workspace reduce that switching. A trained character identity helps keep the same face from the first shot to the tenth. One credit balance can cover several steps, though each platform decides which features use credits.
+
+How These Platforms Compare
+How These Platforms Compare
+
+Platform
+
+	
+
+Generation
+
+	
+
+Editing
+
+	
+
+Character consistency
+
+	
+
+Audio
+
+	
+
+Starting price
+
+
+
+
+Higgsfield AI
+
+	
+
+35+ models and tools
+
+	
+
+Cinema Studio 4.0 (Extend, Edit Video), Seedance 2.5 Edit
+
+	
+
+Soul ID
+
+	
+
+Seed Audio 1.0, Lipsync Studio, native audio on some models
+
+	
+
+Starter $15/mo
+
+
+
+
+Runway
+
+	
+
+Gen-4.5, Seedance 2.5, Kling 3.0, Veo 3.1, and more
+
+	
+
+Aleph 2.0, Act-Two
+
+	
+
+Reference-based
+
+	
+
+Native music, voice, and sound effects
+
+	
+
+Standard $15/mo
+
+
+
+
+Kling AI
+
+	
+
+Kling 3.0 (Kling 4.0 early access on annual Ultra)
+
+	
+
+Video editing
+
+	
+
+Reference-based
+
+	
+
+Native audio and lip sync
+
+	
+
+Standard $10/mo
+
+
+
+
+Dreamina CapCut
+
+	
+
+Seedance 2.5, Veo 3.1
+
+	
+
+CapCut pipeline
+
+	
+
+Reference-based
+
+	
+
+Native audio
+
+	
+
+$18/mo
+
+
+
+
+LTX Studio
+
+	
+
+LTX-2.3, plus partner models such as Kling 3.0 and Seedance 2.5
+
+	
+
+Timeline, Flows
+
+	
+
+Elements
+
+	
+
+No
+
+	
+
+Lite $15/mo
+
+Step 1: Define Your Brief
+
+Before opening any platform, know what you are making. A brief that works covers four things: what the video is for, who appears in it, what happens, and where it will be published.
+
+The output format determines resolution and aspect ratio before you generate a single frame. TikTok, Reels, and YouTube Shorts use vertical 9:16, and LinkedIn video commonly uses 16:9 or 1:1. Getting this wrong means regenerating everything.
+
+The character definition matters more than most people expect. If the same person needs to appear in multiple clips, decide now whether you are using a real face, an AI-generated face, or an avatar. That choice determines which platform features you need and how you set up the first generation.
+
+Step 2: Set Up Your Character
+
+This step separates single-clip demos from real production workflows. If your video has a recurring person, define them once before generating anything.
+
+On Higgsfield: Upload 20 or more reference photos to Soul ID. Soul ID trains a reusable identity from those photos and helps keep the same face across later generations.
+
+On Runway: Upload a reference image for each generation. The reference guides the look of that clip and doesn’t carry across sessions on its own.
+
+On Kling AI: Upload image or video references to define the character before generating. Kling 3.0 applies those references across a multi-shot sequence in one pass. Kling uses reference images, while Soul ID uses a trained identity, so check the face again when scenes change significantly.
+
+On Dreamina CapCut: Upload reference images to guide the character in each generation. No dedicated character consistency feature is documented.
+
+On LTX Studio: Use the Elements system to save the character as a reusable component. Define the look, save it, and pull it into subsequent shots from the same project.
+
+Step 3: Write Your Prompt
+
+Most platforms handle a general structure well: subject and action first, setting and lighting second, camera move third, mood or atmosphere last. For example: “A barista pours latte art at a café counter. Warm morning light through the window. Slow push in. Calm, cozy mood.”
+
+Camera terms that most platforms understand directly: dolly in, truck left, arc shot, push in, pull back wide, handheld follow, crane up, orbital move.
+
+Step 4: Select Your Model
+
+On Higgsfield: Choose from Seedance 2.5 for commercial work with multiple reference inputs, Veo 3.1 for photorealistic output with native audio, Kling 3.0 for stylized multi-shot sequences, Wan 3.0, or Gemini Omni Flash 1.1 for multimodal input and conversational editing. All draw from the same credit balance.
+
+On Runway: Gen-4.5 for native Runway output, or Seedance 2.5, Kling 3.0, Veo 3.1, Wan 3.0, and Gemini Omni Flash 1.1 from the model catalog.
+
+On Kling AI: Kling 3.0, with early access to Kling 4.0 on the annual Ultra plan. Standard mode costs fewer credits, and Professional mode costs more for higher quality.
+
+On Dreamina CapCut: Seedance 2.5 and Veo 3.1. Seedance 2.5 is not available in all regions. Daily token limits apply across all Dreamina tools.
+
+On LTX Studio: LTX-2.3 on all plans. Kling 3.0, Veo 3.1, and Seedance 2.5 available on Standard and above.
+
+Step 5: Generate at 720p First
+
+Before committing to a full-resolution generation, validate the prompt at 720p. Motion logic, camera behavior, and composition are all visible at 720p, which is most of what you need to evaluate before scaling up. Going from 720p to 1080p can more than double the credit cost. On Higgsfield, for example, a 10-second Cinema Studio 4.0 clip costs 70 credits at 720p and 160 at 1080p at the regular rate, as of October 2026.
+
+If something is off at 720p, change one thing before regenerating. Change the prompt or the reference, one at a time. That is the fastest way to identify what is driving the output.
+
+Step 6: Review the Full Clip
+
+Watch the entire output before calling it done. Problems often appear after the first few seconds. Check whether the motion holds throughout, whether expressions shift naturally, and whether the camera move you described was carried out.
+
+Check the character’s face against your source image in every clip, whether the platform uses a trained identity or per-shot references.
+
+Step 7: Scale to Final Resolution
+
+Once the prompt produces the right composition at 720p, run it at the final output resolution. Keep the prompt the same.
+
+Higgsfield: Resolution options depend on the model, so check the available settings for the one you picked. Cinema Studio 4.0 goes up to 1080p.
+
+Runway: Offers 4K upscaling on paid plans, with unlimited 4K video upscaling on Pro and Max.
+
+Kling AI: Up to 4K on Kling 3.0 on paid plans.
+
+Dreamina CapCut: Capped at 720p on base plans.
+
+LTX Studio: Up to 1080p on LTX-2.3. Higher resolutions on Veo 3.1 with Pro plan.
+
+Step 8: Add Audio
+
+On Higgsfield: Some models, such as Veo 3.1, generate audio alongside the video in the same pass, and Cinema Studio 4.0 generates sound effects, speech, and background music with the video. Seed Audio 1.0 generates speech, music, and sound effects from a prompt, and Lipsync Studio adds lip sync to a character image or to existing footage.
+
+On Runway: Generate music, voice, and sound effects natively in Runway, starting with the Standard plan.
+
+On Kling AI: Native audio and lip sync are built into the model. Dialogue prompts generate matching mouth movements at generation time.
+
+On Dreamina CapCut: Supports native audio generation directly within its AI video workflows
+
+On LTX Studio: No native audio generation. Audio handled through the editing layer after clip generation.
+
+Step 9: Assemble the Sequence
+
+For a 30 to 60 second video, plan for 4 to 8 individual clips depending on pacing and cut structure.
+
+On Higgsfield: Plan the sequence in Popcorn, which turns scene descriptions and references into a storyboard of up to 8 frames. Generate clips individually, using Soul ID to help keep the character consistent across shots. In Cinema Studio 4.0, Forward and Backward Extend continue an existing clip in either direction, and Edit Video makes regional edits without regenerating the whole clip. Export and assemble in your preferred editor.
+
+On Runway: Generate each shot with a reference image, then assemble the sequence in your editor.
+
+On Kling AI: Generate multi-shot sequences of up to six connected scenes in one pass. Each scene uses reference tags to help keep the character consistent.
+
+On Dreamina CapCut: Export individual clips and assemble in the CapCut editor. The generation and editing pipelines are connected within the Dreamina environment.
+
+On LTX Studio: The storyboard-first workflow is built for sequence assembly. Define shots in the storyboard, generate each one, and arrange them on the timeline. Brand Kit handles visual consistency across the sequence.
+
+Step 10: Export and Publish
+
+All five platforms export MP4. Resolution and format depend on the plan and the model used.
+
+Before exporting, verify that the output matches the format requirements of where it will be published. Vertical 9:16 is the standard for TikTok, Reels, and YouTube Shorts, and each platform sets its own length limits that change over time. LinkedIn and X videos commonly use 16:9 or 1:1. Ad platforms have their own spec requirements.
+
+On Higgsfield, Marketing Studio builds campaign-ready video and image assets from a product URL or photos, using 1,500+ templates across six categories, formatted for the platforms you select. For static ads, Ads Studio builds image ads from your website and brand kit. For ad production, that reduces the format conversion work.
+
+Which Platform Fits a One-Platform Workflow?
+
+Dreamina CapCut combines generation with the CapCut editing pipeline, but it has no dedicated character consistency feature, and availability varies by region.
+
+Kling AI handles multi-shot sequences with reference-based character continuity and native audio and lip sync, but it covers one model family.
+
+Runway combines its own Gen-4.5 model with video-to-video editing through Aleph 2.0 and native audio generation, but it has no trained character identity.
+
+LTX Studio covers the full storyboard-to-export pipeline with multi-model access and the Elements consistency system, but audio is handled in post.
+
+Higgsfield AI is an AI-native creative suite with 35+ models and tools. It covers generation across multiple models, a trained character identity through Soul ID, audio, spoken video through Lipsync Studio, and ad production through Marketing Studio and Ads Studio from one credit balance. It also offers an API, plus MCP and CLI access for agents.
+
+HOW TO GET ALL YOUR AI VIDEO MODELS ON ONE PLATFORM?
+Explore Higgsfield

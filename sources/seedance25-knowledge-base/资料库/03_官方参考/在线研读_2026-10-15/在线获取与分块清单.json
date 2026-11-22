@@ -1,0 +1,256 @@
+[
+  {
+    "id": "O001",
+    "name": "即梦使用手册",
+    "url": "https://bytedance.larkoffice.com/wiki/RXh5ww6EqighMdkVTMccm2d4n7e",
+    "online_checked_date": "2026-10-15",
+    "document_id": "X4JsdeKtoog476xX7olcgRXtnae",
+    "revision_id": 8846,
+    "raw_utf16_length": 213858,
+    "readable_utf16_length": 84754,
+    "raw_sha256": "980b95b44942fe179747ca99fff712d7e44b6dd3ecf6fa29a9b8a7265ee31273",
+    "readable_sha256": "59b9080d94a85d85ce725d2d6061244d0ae0c073830c5683141f314ece773c22",
+    "media_placeholders": 416,
+    "unresolved_embedded_text_markers": 0,
+    "chunk_reconstruction_verified": true,
+    "chunks": [
+      {
+        "file": "O001_r8846_阅读01.txt",
+        "start_utf16": 0,
+        "end_utf16_exclusive": 6944,
+        "length": 6944
+      },
+      {
+        "file": "O001_r8846_阅读02.txt",
+        "start_utf16": 6944,
+        "end_utf16_exclusive": 13891,
+        "length": 6947
+      },
+      {
+        "file": "O001_r8846_阅读03.txt",
+        "start_utf16": 13891,
+        "end_utf16_exclusive": 19190,
+        "length": 5299
+      },
+      {
+        "file": "O001_r8846_阅读04.txt",
+        "start_utf16": 19190,
+        "end_utf16_exclusive": 26164,
+        "length": 6974
+      },
+      {
+        "file": "O001_r8846_阅读05.txt",
+        "start_utf16": 26164,
+        "end_utf16_exclusive": 33159,
+        "length": 6995
+      },
+      {
+        "file": "O001_r8846_阅读06.txt",
+        "start_utf16": 33159,
+        "end_utf16_exclusive": 40109,
+        "length": 6950
+      },
+      {
+        "file": "O001_r8846_阅读07.txt",
+        "start_utf16": 40109,
+        "end_utf16_exclusive": 47102,
+        "length": 6993
+      },
+      {
+        "file": "O001_r8846_阅读08.txt",
+        "start_utf16": 47102,
+        "end_utf16_exclusive": 54055,
+        "length": 6953
+      },
+      {
+        "file": "O001_r8846_阅读09.txt",
+        "start_utf16": 54055,
+        "end_utf16_exclusive": 61038,
+        "length": 6983
+      },
+      {
+        "file": "O001_r8846_阅读10.txt",
+        "start_utf16": 61038,
+        "end_utf16_exclusive": 67983,
+        "length": 6945
+      },
+      {
+        "file": "O001_r8846_阅读11.txt",
+        "start_utf16": 67983,
+        "end_utf16_exclusive": 74983,
+        "length": 7000
+      },
+      {
+        "file": "O001_r8846_阅读12.txt",
+        "start_utf16": 74983,
+        "end_utf16_exclusive": 81983,
+        "length": 7000
+      },
+      {
+        "file": "O001_r8846_阅读13.txt",
+        "start_utf16": 81983,
+        "end_utf16_exclusive": 84754,
+        "length": 2771
+      }
+    ]
+  },
+  {
+    "id": "O002",
+    "name": "小云雀手册",
+    "url": "https://bytedance.larkoffice.com/wiki/W5tHwoZIDi12dbk2z3KcFkuUnsf",
+    "online_checked_date": "2026-10-15",
+    "document_id": "BhHAd2qvzoNAG0xxbN8cHQ2unMb",
+    "revision_id": 2778,
+    "raw_utf16_length": 93286,
+    "readable_utf16_length": 42042,
+    "raw_sha256": "3157193a6b839fadacb745931b7f56613d505d191f359ec079684160369c36fd",
+    "readable_sha256": "db2d8edd84b483242e46e7f8f2295ffffe5c7000f7ff86caec976a349540323c",
+    "media_placeholders": 153,
+    "unresolved_embedded_text_markers": 0,
+    "chunk_reconstruction_verified": true,
+    "chunks": [
+      {
+        "file": "O002_r2778_阅读01.txt",
+        "start_utf16": 0,
+        "end_utf16_exclusive": 7000,
+        "length": 7000
+      },
+      {
+        "file": "O002_r2778_阅读02.txt",
+        "start_utf16": 7000,
+        "end_utf16_exclusive": 13713,
+        "length": 6713
+      },
+      {
+        "file": "O002_r2778_阅读03.txt",
+        "start_utf16": 13713,
+        "end_utf16_exclusive": 20673,
+        "length": 6960
+      },
+      {
+        "file": "O002_r2778_阅读04.txt",
+        "start_utf16": 20673,
+        "end_utf16_exclusive": 27672,
+        "length": 6999
+      },
+      {
+        "file": "O002_r2778_阅读05.txt",
+        "start_utf16": 27672,
+        "end_utf16_exclusive": 34561,
+        "length": 6889
+      },
+      {
+        "file": "O002_r2778_阅读06.txt",
+        "start_utf16": 34561,
+        "end_utf16_exclusive": 41538,
+        "length": 6977
+      },
+      {
+        "file": "O002_r2778_阅读07.txt",
+        "start_utf16": 41538,
+        "end_utf16_exclusive": 42042,
+        "length": 504
+      }
+    ]
+  },
+  {
+    "id": "O003",
+    "name": "提示词撰写指南",
+    "url": "https://bytedance.larkoffice.com/docx/OsiUdR1OxoDqvnxsK8LczYx7nPd",
+    "online_checked_date": "2026-10-15",
+    "document_id": "OsiUdR1OxoDqvnxsK8LczYx7nPd",
+    "revision_id": 522,
+    "raw_utf16_length": 21170,
+    "readable_utf16_length": 19259,
+    "raw_sha256": "aee3bbadfe8f3f51f47fcdf7b2937d4ca1981a8434269e74e4697bd2ef1f3101",
+    "readable_sha256": "a6e52be9ebbc6af67d865b14785ff075de6b31778aadb9a27253beede7bdcae3",
+    "media_placeholders": 0,
+    "unresolved_embedded_text_markers": 0,
+    "chunk_reconstruction_verified": true,
+    "chunks": [
+      {
+        "file": "O003_r522_阅读01.txt",
+        "start_utf16": 0,
+        "end_utf16_exclusive": 6985,
+        "length": 6985
+      },
+      {
+        "file": "O003_r522_阅读02.txt",
+        "start_utf16": 6985,
+        "end_utf16_exclusive": 13984,
+        "length": 6999
+      },
+      {
+        "file": "O003_r522_阅读03.txt",
+        "start_utf16": 13984,
+        "end_utf16_exclusive": 19259,
+        "length": 5275
+      }
+    ]
+  },
+  {
+    "id": "O004",
+    "name": "企业级业务场景实践指南",
+    "url": "https://bytedance.larkoffice.com/wiki/Tyi1woQAgiZlkhkWGnYcF2Cun3e",
+    "online_checked_date": "2026-10-15",
+    "document_id": "XiOMdHDjOoolp6xrYabcMMM6nrO",
+    "revision_id": 9444,
+    "raw_utf16_length": 113413,
+    "readable_utf16_length": 49559,
+    "raw_sha256": "45bff7f79afab8dea405c6455ccd4b91b8afd669be93fd1397aa3a9a700d9aee",
+    "readable_sha256": "510536a8c535d0246137de71c74da951e6a0dd444774df3ee8fe55ff6b6230e4",
+    "media_placeholders": 180,
+    "unresolved_embedded_text_markers": 0,
+    "chunk_reconstruction_verified": true,
+    "chunks": [
+      {
+        "file": "O004_r9444_阅读01.txt",
+        "start_utf16": 0,
+        "end_utf16_exclusive": 6961,
+        "length": 6961
+      },
+      {
+        "file": "O004_r9444_阅读02.txt",
+        "start_utf16": 6961,
+        "end_utf16_exclusive": 13913,
+        "length": 6952
+      },
+      {
+        "file": "O004_r9444_阅读03.txt",
+        "start_utf16": 13913,
+        "end_utf16_exclusive": 20909,
+        "length": 6996
+      },
+      {
+        "file": "O004_r9444_阅读04.txt",
+        "start_utf16": 20909,
+        "end_utf16_exclusive": 27722,
+        "length": 6813
+      },
+      {
+        "file": "O004_r9444_阅读05.txt",
+        "start_utf16": 27722,
+        "end_utf16_exclusive": 34595,
+        "length": 6873
+      },
+      {
+        "file": "O004_r9444_阅读06.txt",
+        "start_utf16": 34595,
+        "end_utf16_exclusive": 41561,
+        "length": 6966
+      },
+      {
+        "file": "O004_r9444_阅读07.txt",
+        "start_utf16": 41561,
+        "end_utf16_exclusive": 48495,
+        "length": 6934
+      },
+      {
+        "file": "O004_r9444_阅读08.txt",
+        "start_utf16": 48495,
+        "end_utf16_exclusive": 49559,
+        "length": 1064
+      }
+    ]
+  }
+]

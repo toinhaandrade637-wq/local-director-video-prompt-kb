@@ -1,0 +1,209 @@
+【项目】HOW TO DO A SCRIPT BREAKDOWN FOR AN AI FILM (WHAT TO LIST)（@frank_houbre · 创作者博客）
+【链接】https://higgsfield.ai/@frank_houbre/blogs/how-to-do-a-script-breakdown-for-an-ai-film-what-to-list
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW TO DO A SCRIPT BREAKDOWN FOR AN AI FILM (WHAT TO LIST)
+@frank_houbre
+20
+0
+0
+
+A script breakdown for an AI film is a list of every element that appears in more than one scene, written down before you generate a single shot, so each of those elements exists as one locked reference instead of being described again from memory every time. A traditional breakdown exists to book people and things. Yours exists to decide what has to look identical on page 3 and on page 40. Same document, different job, and the categories shift more than most beginners expect.
+
+
+
+
+I keep one for Lost Garden, the dark fantasy anime series I direct on my own with AI tools. It is a large part of why episode one holds together at all.
+
+What is a script breakdown?
+
+A script breakdown is a scene by scene inventory of everything a script needs in order to be produced. On a live action set that means cast, extras, locations, props, wardrobe, vehicles, stunts, effects and sound. StudioBinder's complete guide to script breakdown elements lays out the standard categories and the color coding that goes with them, and it is worth reading once even if you will never rent a truck.
+
+
+
+
+The reason the document exists is scheduling. A producer needs to know that the same actor shows up in scenes 4, 11 and 27 so those days can be grouped and paid for once.
+
+
+
+
+In an AI film nothing gets grouped by day. It gets grouped by reference. That single shift decides what belongs on your sheet and what does not.
+
+What changes when there is no crew to book
+
+Half the traditional categories go quiet. You are not booking a location, so a location line stops being a logistics item. You are not paying a wardrobe department, so a costume line stops being a cost.
+
+
+
+
+Both come straight back in a different role. The location has to look the same the second time you visit it. The coat has to keep the same collar, the same length, the same wear on the left sleeve.
+
+
+
+
+What you count now is how many things have to survive being generated twice.
+
+
+
+
+The cost line changes too. On a set, an expensive element is one that needs people and time. In generation, an expensive element is one that fails and gets regenerated. On Lost Garden some five second shots went through around twenty rejected versions before one worked, and almost every time the culprit was something I had never written down anywhere.
+
+What to list for an AI film
+
+Six categories cover most narrative projects.
+
+
+
+
+Recurring characters. Anyone present in two scenes or more. Face, build, hair, and the one detail that lets you recognize them in a wide shot.
+
+The knight from Lost Garden episode 1. He carries five fixed elements across the episode: the lantern head shape, the cream scarf, the carved pauldrons, the layered cape and the plate on the shins. That list is one line on the breakdown, and it gets pasted into every shot he appears in.
+
+
+
+
+Wardrobe states. Each version of a garment counts on its own line: clean, torn, soaked, missing. A character who goes through three states is three references.
+
+
+
+
+Recurring locations. Same logic as characters. A room seen twice needs a fixed set of angles, a light direction and a color temperature.
+
+
+
+
+Props seen close. A key, a blade, a folded letter. Anything the camera holds on for more than a beat will show its inconsistencies.
+
+
+
+
+Continuity carriers. Time of day, weather, injuries, dirt, anything that accumulates across scenes. These break quietly, which is why they need a line of their own.
+
+
+
+
+Shots you already know are hard. Crowds, animals, hands doing precise work, two bodies touching, fast action. Flagging them here lets you set aside generations for them instead of discovering the problem at 2am.
+
+
+
+
+An element that appears in a single scene does not need a locked reference. Applying that exemption on purpose is what keeps the list short enough to be used rather than admired.
+
+How to do the breakdown in five passes
+
+Pass 1. Read the script straight through with nothing in your hand. You are looking for the shape of the thing, not for elements.
+
+
+
+
+Pass 2. Go scene by scene and mark every noun a viewer could recognize a second time. Names, rooms, objects, garments. Skip anything abstract.
+
+
+
+
+Pass 3. Sort the marks into the six categories and count occurrences. Everything with a count of one drops off.
+
+
+
+
+Pass 4. For each surviving element, write the description you will paste every single time. Five to seven concrete details, no adjectives about mood. This is the pass people skip, and it is the one that gets paid for later in rerolls.
+
+
+
+
+Pass 5. Attach an image to every element you can. A character sheet, a location plate, a clean shot of the prop. A written description drifts on its own. A written description plus a fixed image drifts far less.
+
+The same stone doorway in Lost Garden episode 1. A location line on the breakdown holds three things: light direction, stone tone and framing height. Those are what a viewer notices when they change between two visits.
+
+
+
+
+Only then do you generate. The breakdown is finished before scene one exists as a picture at all.
+
+Where the breakdown saves you generations
+
+It saves them in three places, and they are easy to spot once you know to look.
+
+
+
+
+The first is the second appearance of anything. Without a breakdown, scene 22 gets a fresh description of the same coat, and the model gives you a fresh coat. With one, you paste the line you already wrote in pass 4.
+
+
+
+
+The second is the handoff between tools. Most AI films pass through three or four programs, and every handoff is a chance to lose a decision. A breakdown is the one document that travels intact from writing to storyboard to generation. That is the specific gap ScreenWeaver was built to close, by keeping script, characters and boards attached to each other instead of scattered across tabs.
+
+
+
+
+The third is knowing when to stop. If a shot has burned twelve generations and the element causing it is not on your sheet, the fix is usually upstream in the description rather than in another prompt variation.
+
+Beginner mistakes worth avoiding
+
+Breaking down after the storyboard. By then you have already made a hundred small visual decisions with nothing recording them. The breakdown comes first.
+
+
+
+
+Describing mood instead of matter. "A haunted, weathered face" gives the model nothing to hold. Age, jaw, scar, hair length and eye color do.
+
+
+
+
+One reference per character across the whole film. If the character gets wet, wounded or changes clothes, that is a new reference and it needs its own line.
+
+
+
+
+Breaking down a draft that is still moving. Lock the script first. A breakdown of a script you are still rewriting is a list you will throw away.
+
+
+
+
+Making the list too long to use. Forty elements is a working document. Two hundred is a spreadsheet nobody opens on generation day.
+
+
+
+
+If you want to see what a locked cast and a fixed palette look like once they hold across a whole episode, Lost Garden is the honest version, rerolls included.
+
+FAQ
+
+Do I need a script breakdown for a two minute short?
+
+If nothing recurs, no. As soon as one character or one room appears twice, the breakdown pays for itself in avoided regenerations.
+
+
+
+
+Is a script breakdown the same as a shot list?
+
+No. A breakdown inventories elements across the whole script. A shot list describes the individual shots you will generate. The breakdown comes first and feeds the shot list.
+
+
+
+
+What software should I use in 2026?
+
+Traditional tools like StudioBinder, Celtx and Filmustage do proper breakdown sheets and are built for crews. A plain spreadsheet with six columns works fine for a solo AI project, as long as you keep an image next to each row.
+
+
+
+
+How long does a breakdown take?
+
+For a ten minute script, roughly an afternoon if the draft is locked. Most of that time goes into pass 4, writing the descriptions you will reuse.
+
+
+
+
+The breakdown is the cheapest document in the whole process and the one most solo creators skip. If you are starting a project this week, try writing the element list before the first prompt and see how many rerolls you never have to pay for.
+
+
+
+
+Which element on your own script do you already suspect is going to drift?

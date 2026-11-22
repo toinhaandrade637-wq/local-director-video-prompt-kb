@@ -1,0 +1,403 @@
+【项目】HOW I RECREATED FETTY WAP’S “679” CLIP WITH AI: STEP-BY-STEP TUTORIAL + PROMPT（@kimcheeverse · 创作者博客）
+【链接】https://higgsfield.ai/@kimcheeverse/blogs/how-i-recreated-fetty-wap-s-679-clip-with-ai-step-by-step-tutorial-prompt
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I RECREATED FETTY WAP’S “679” CLIP WITH AI: STEP-BY-STEP TUTORIAL + PROMPT
+@kimcheeverse
+46
+0
+0
+
+
+
+
+
+
+
+I wanted to see Miyu and Yuna, my two AI Influencers, jump on the Fetty Wap “679” trend. The idea was to take the performance from the reference clip and recreate it with both characters while keeping the movement and energy recognizable.
+
+I used Higgsfield Genjutsu for the AI video work and CapCut for the finishing touches. Getting a result I liked took a few attempts. The biggest thing I cared about was facial identity: Miyu needed to stay Miyu, and Yuna needed to stay Yuna throughout the clip.
+
+Here’s how I approached it, what went wrong, and a starter prompt you can adapt for your own characters.
+
+1. Prepare the performance clip and character references
+
+My reference was the Fetty Wap and Monty “679” performance from On The Radar Radio. I worked with a short segment of that performance.
+
+https://youtu.be/6KHYB6RsIpM?si=Sf6XzCDUprPjHdO2
+
+For your own version, choose the section you want to recreate and trim it to the intended beginning and ending. Watch both performers before generating: knowing who leads and where the second person appears makes the character assignments easier to describe.
+
+
+
+
+I also had separate character references for Miyu and Yuna. Use clear, accepted references that show the faces and hairstyles you actually want in the result. These give you something consistent to compare each generation against.
+
+
+
+
+Yuna & Miyu
+
+You could also use full body character reference sheet for outfit consistency
+
+2. Assign each character to a performer
+
+In my setup, the assignments were:
+
+Reference
+
+	
+
+Role
+
+
+
+
+Video 1
+
+	
+
+Original performance clip and movement reference
+
+
+
+
+Image 1 — Miyu
+
+	
+
+Replaces the main singer
+
+
+
+
+Image 2 — Yuna
+
+	
+
+Replaces the performer on the left
+
+Spell out both replacements. The prompt should make clear which person each reference belongs to and that those assignments continue throughout the video.
+
+Higgsfield describes Genjutsu as supporting motion transfer into a new cast or setting, as well as targeted changes to existing footage. For this project, the creative goal was to carry the performance into a Miyu and Yuna version.
+
+
+
+
+3. Start with a focused prompt
+
+This is a rewritten starter template based on the workflow, rather than the verbatim prompt from my final generation. Connect the reference labels to your actual uploads and change the character names as needed.
+
+
+
+
+4. Refine the details with Object Swap
+
+Getting the movement right was only part of the process. Some generations introduced unwanted details or changed objects from the look I wanted. Before showing the edits, here are a few examples of the errors I ran into.
+
+Headphone mishape on Miyu 
+
+
+
+
+
+
+
+After identifying the details I wanted to change, I used Genjutsu’s Object Swap to work on those parts of the generated clip. I focused the instructions on the specific objects and asked it to preserve Miyu and Yuna’s appearance, movement, and performance timing.
+
+For the headphones, I supplied a reference image of my own headphones to guide the replacement. The headphone design came from my image reference, while the Japanese idol room came from my text prompt.
+
+Headphones References
+
+Create your own headphones and studio environment. Does not have to be these exact references that posted on the blog. 
+
+
+
+
+After & Before
+
+Object Swap still took trial and error. I reviewed each attempt for unwanted changes and chose the version that best preserved both characters and the performance. The screenshots show the actual process, including the imperfections I decided were small enough to keep.
+
+PRECISION TWO-PERSON VIDEO RECAST — EDIT THE PEOPLE ONLY
+
+
+
+Use @Video 1 as the MASTER SOURCE VIDEO.
+
+
+
+This is an in-place character replacement edit, NOT a scene recreation and NOT a new video generation.
+
+
+
+ONLY replace the two original performers.
+
+
+
+CHARACTER ASSIGNMENT:
+
+- @Image 1 = Miyu
+
+- @Image 2 = Yuna
+
+
+
+ROLE ASSIGNMENT:
+
+Replace the MAIN SINGING PERFORMER / PRIMARY VOCALIST in @Video 1 with the exact woman from @Image 1, Miyu.
+
+Replace the LEFT-SIDE SUPPORTING PERFORMER in @Video 1 with the exact woman from @Image 2, Yuna.
+
+
+
+STRICT MAPPING:
+
+Miyu must always remain the main singer.
+
+Yuna must always remain the left-side supporting performer.
+
+Never swap, blend, merge, average, or confuse their identities.
+
+
+
+Use @Image 1 ONLY as Miyu’s identity reference.
+
+Use @Image 2 ONLY as Yuna’s identity reference.
+
+
+
+MIYU — STRICT IDENTITY LOCK:
+
+Preserve the exact recognizable facial identity from @Image 1, including:
+
+- exact facial structure
+
+- high cheekbones
+
+- eyes and eye shape
+
+- eyebrows
+
+- nose
+
+- lips
+
+- jawline and chin
+
+- skin tone
+
+- hairline
+
+- hairstyle
+
+- hair color
+
+- makeup
+
+- apparent age
+
+- natural feminine body proportions
+
+
+
+YUNA — STRICT IDENTITY LOCK:
+
+Preserve the exact recognizable facial identity from @Image 2, including:
+
+- exact facial structure
+
+- eyes and eye shape
+
+- eyebrows
+
+- nose
+
+- lips
+
+- jawline and chin
+
+- skin tone
+
+- hairline
+
+- hairstyle
+
+- hair color
+
+- makeup
+
+- apparent age
+
+- natural feminine body proportions
+
+
+
+SOURCE PERFORMANCE PRESERVATION:
+
+Preserve the original motion, body movement, gestures, head movement, facial performance timing, singing timing, rhythm, positioning, interaction, microphone interaction, camera movement, camera framing, camera distance, cuts, and pacing from @Video 1.
+
+
+
+CRITICAL SCENE PRESERVATION:
+
+Everything except the two performers must remain taken directly from @Video 1.
+
+
+
+Preserve the original:
+
+- studio
+
+- background
+
+- green lighting
+
+- wall panels
+
+- logo/signage
+
+- microphone
+
+- microphone stand
+
+- headphones
+
+- floor
+
+- camera angle
+
+- composition
+
+- depth of field
+
+- exposure
+
+- shadows
+
+- reflections
+
+- background objects
+
+
+
+Do not recreate or redesign the studio.
+
+
+
+WARDROBE CORRECTIONS:
+
+Adapt the source wardrobe naturally to female anatomy, but correct the unwanted artifacts.
+
+
+
+For Miyu:
+
+- no hood behind her back
+
+- no extra floating fabric
+
+- no duplicate garment shapes
+
+- clean natural silhouette
+
+
+
+For Yuna:
+
+- no object on top of the headphones
+
+- no hat or beanie
+
+- no fused headwear
+
+- hoodie/jacket must fit naturally and not look oversized or bulky
+
+
+
+PHOTOREALISM:
+
+Make both women look fully photorealistic with natural skin texture, pores, realistic lighting, realistic hair strands, and believable anatomy.
+
+
+
+Avoid:
+
+- identity drift
+
+- face morphing
+
+- character blending
+
+- identity swapping
+
+- wrong performer assignment
+
+- masculine body proportions
+
+- head-size mismatch
+
+- body warping
+
+- waxy skin
+
+- plastic skin
+
+- beauty-filter look
+
+- extra limbs
+
+- extra fingers
+
+- malformed hands
+
+- floating clothing
+
+- extra fabric behind Miyu
+
+- hat/beanie/object on Yuna’s headphones
+
+
+
+FINAL RESULT:
+
+The result should look like the original footage, except Miyu is the main singer and Yuna is the left-side performer.
+
+Only replace the people.
+
+Do not reinterpret the scene.
+
+See all
+Copy prompt
+Recreate
+
+5. Review the whole generation
+
+A good opening frame is only part of the result. Watch the full video, then pause during head turns, fast movement, and moments when hands pass near faces.
+
+I checked whether Miyu and Yuna still looked like their references, whether either original performer remained, and whether objects picked up unwanted details. Some attempts changed more than I wanted. I also ran into a cover candidate where Yuna’s face looked blurred.
+
+That gave me a useful priority: protect the faces and the performance first. I accepted small nail details in the version I liked because they mattered less to me than keeping the overall clip strong.
+
+
+
+
+6. Finish the edit in CapCut
+
+Once I had a version I liked, the next steps were audio and presentation. My clip sounded quiet, so I increased the volume in CapCut. Choose the adjustment for your own file and listen back for distortion instead of copying a fixed volume increase.
+
+Check the sound against the performance, review the start and ending, and choose a cover where both characters are clear. For this video, I wanted the cover to introduce Miyu and Yuna together, so a frame with one blurred face was a weaker choice.
+
+
+
+
+This project reminded me how much the small decisions matter: clear character assignments, recognizable faces during movement, and knowing when a generation is good enough to keep. Miyu and Yuna ended up with their own take on the performance, and the retries are part of how I got there.
+
+
+
+
+Follow @worldofmiyu and @worldofmiyu on Instagram and TikTok for more Miyu and Yuna clips, and follow me at @kimcheeverse for more AI creations and a look behind the scenes.
+
+Credits: Reference performance — Fetty Wap and Monty, On The Radar Radio. Music — “679” by Fetty Wap. AI character adaptation — KimcheeWorld. Tools used — Higgsfield Genjutsu and CapCut.

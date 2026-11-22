@@ -1,0 +1,123 @@
+【项目】HOW WE MAKE A WEEKLY AI SERIES WITH ONE MASCOT AND FIVE SEEDANCE SHOTS（@consultinglab · 创作者博客）
+【链接】https://higgsfield.ai/@consultinglab/blogs/ivo-weekly-ai-series-seedance
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW WE MAKE A WEEKLY AI SERIES WITH ONE MASCOT AND FIVE SEEDANCE SHOTS
+C
+Mattia La Delfa
+@consultinglab
+36
+0
+0
+
+We are ConsultingLab, a small Swiss studio that helps businesses hand their repetitive work to AI. Explaining that with slides never worked, so we made a character instead. Ivo is a 1980s guy with a big moustache and a white terry headband. Every week he has a different job and a different hobby, and every episode tells the same story: a month ago he was buried in paperwork, today the AI does it and he goes off to enjoy his day.
+
+The full project is open, so you can see every prompt and reference: https://higgsfield.ai/@consultinglab/projects/consultinglab
+
+
+
+
+
+
+
+
+A fixed format, so only the story changes
+
+Each episode is about 55 seconds and always has the same five shots:
+
+Hobby. Ivo doing something spectacular (paragliding, downhill, a chestnut festival). He trips, finds something, overreacts.
+Phone. His phone rings with a message: the boring task is done. He stares into space, then grins.
+Flashback. "A month ago. Without AI." Ivo at his desk late at night, ending in a gesture of surrender.
+Payoff. He shows off what he got from the hobby and winks at the camera.
+The real job. Ivo doing the part of his job that matters, calm and competent, with a real person from his work.
+
+Between shots 3 and 4 we cut to our own motion graphics that explain what the AI actually did. That part is built in HTML, not generated.
+
+
+
+
+Shot 5 came from feedback: if an episode ends on the gag, the profession looks silly. Now the caricature lives in the hobby and the flashback, and the ending is serious.
+
+Fixed elements first
+
+Ivo, each costume and the phone are reference elements in Cinema Studio, made once and reused. Each costume gets a two-view sheet first, and we write where every accessory sits in both views, or glasses end up on his face in one view and gone in the other.
+
+
+
+
+Draft at 480p, upscale only what survives
+
+All five shots go out as Seedance drafts at 480p. We cut a rough edit from the drafts, fix timing and text, and only then upscale the chosen takes to 1080p. Upscaling costs about four times more per second than a draft, so nothing gets upscaled before the edit is approved.
+
+Sound and edit outside
+
+Music and sound effects come from ElevenLabs. The edit is a script that reads cut points and on-screen text from a JSON file, so changing a timing means changing one number and re-rendering.
+
+What we learned in six episodes
+Ask for the cut point in the prompt. In shot 2 we ask for a blank stare before the grin, because that is exactly where we cut to the flashback.
+Documentary beats cinematic. Clean light rays and perfect framing looked fake. Handheld camera, film grain and natural light made Ivo believable.
+Describe what is in his hands as attached to his body. Our first basket floated next to his arm.
+Switzerland is clean, not perfect. Perfect mushrooms and a spotless forest looked staged. We now add three or four concrete imperfections per scene: a crushed can, cracked concrete, wet leaves in the corners. "Messy" alone does nothing.
+Keep the path clear. In the paragliding episode the wing flew straight through a windsock pole. If there is big movement, say that nothing crosses the path.
+Use a reference instead of naming the object. Describing the 80s phone by name got the shot blocked. As a reference element it works every time.
+Brand colours need a hex code. When our logo appears in the scene, we pass the symbol as a reference and write the exact colour. Without it, Seedance turns our orange into red.
+Copy our shot 1 prompt
+
+This is the full prompt of shot 1 from the downhill episode, as we sent it to Seedance 2.5. The first lines are the same in every episode; only the character, the scene and the three cuts change. Swap the two element tags for your own references.
+
+Style: Realistic observational documentary footage, shot on 16mm film by a camera operator on foot, natural grain, honest natural colors. Not cinematic-perfect, no 3D render, no glossy digital finish, no fantasy glow.
+
+Lighting: Available light only, crisp October morning in the mountains, low sun slanting through the larches, deep patchy shadows on the trail, slight exposure imperfections. No god rays, no spotlight beams.
+
+Color: Natural autumn colors, slightly muted, lifted blacks; the golden larches and his faded neon pink-and-turquoise jersey are the only bright colors.
+
+Camera: Handheld at eye level, small natural shake, framing slightly imperfect and reactive, occasional focus hunting; the operator follows the action rather than composing it.
+
+Character: Slightly caricatured but believable, exaggerated moustache, hair and expressions, real skin texture with pores, no beauty filter. The caricature is only in the character, never in the world.
+
+World: Real, lived-in Ticino mountainside on Monte Tamaro, clean Swiss but never perfect: a narrow dirt singletrack with exposed roots and loose stones, brown mud puddles, wet yellow larch needles, a bent wooden trail post with no writing, a crushed drink can half-hidden in the grass, a frayed plastic tape on a fence post, the Magadino plain and Lago Maggiore far below in haze, nothing arranged or tidy, no pristine or symmetrical objects. No readable words or brand names anywhere. The trail ahead of him is clear: nothing stands on his line and nothing passes through any object.
+
+Acting: Comedic timing, deadpan, human and a little clumsy, micro-pauses before reactions, big expression only on the payoff beat.
+
+Physics: Gravity and weight respected, correct contact shadows, real footing, hands hold objects naturally, no floating props. There is only ONE bicycle in the scene, the one from the bike reference, always under him, in his hands or lying on the ground next to him.
+
+Composition: Vertical 9:16.
+
+Continuity: Character identity, moustache, headband, wardrobe and props identical across every cut.
+
+Technical: 24fps, no jitter beyond natural handheld motion.
+
+Audio: Environmental SFX only. No music, no dialogue, no voice. No subtitles, no on-screen text, no logos.
+
+
+
+
+Characters: IVO (@your_character_element): early 40s, wiry thin build, huge chestnut moustache, curly permed mullet. Dressed exactly as in the character reference: white 1980s hard-shell cycling helmet worn high with the white terry-cloth sweatband clearly visible underneath across his forehead, mullet sticking out at the back, long-sleeved lycra jersey in faded fluorescent pink and turquoise with a zig-zag pattern, black lycra shorts over neon yellow tights, chunky black knee pads, padded fingerless gloves, white tube socks, chunky grey hiking shoes, mirrored wraparound sunglasses hanging around his neck on a cord, never on his face. His bike (@your_bike_element): a rigid 1980s mountain bike, faded fluorescent turquoise steel frame with pink splatters, knobby tyres, a small white number plate on the handlebar.
+
+Scene: A steep rooty singletrack descending through a golden larch forest on Monte Tamaro, Ticino.
+
+CUT 1 (0-4s) Handheld, the operator running down beside the trail: Ivo rattles down the singletrack on the rigid bike, elbows out, his whole body shaking on every root and stone, mouth clenched in concentration.
+
+CUT 2 (4-7s) Wide from below the trail: he rolls off a small dirt drop, the front wheel catches a root on landing, he flies over the handlebar in a slow clumsy arc and lands face first in a big soft pile of wet yellow larch needles and leaves; the bike tips over on the trail behind him.
+
+CUT 3 (7-10s) Medium close: he sits up in the leaf pile, helmet askew, a yellow larch leaf stuck in his moustache; he turns his head, the Magadino plain and the lake open up far below, a micro-pause, then a huge silent ecstatic grin and two thumbs up.
+
+
+
+
+
+
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+New episodes come out every week. If you remix a shot, tag us, we'd love to see it.
+
+Follow the series on Instagram: @consultinglab.ch

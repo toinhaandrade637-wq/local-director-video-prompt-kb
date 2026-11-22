@@ -1,0 +1,32 @@
+【项目】Strawberry Summer（@kniga6767 · 社区项目）
+【链接】https://higgsfield.ai/zh/@kniga6767/projects/strawberry-summer
+【数据】计数未取到（见项目页）
+【捕获】2026-10-28（浏览器"项目简报"面板）
+
+──────────────────────────────────────
+
+Logline: a city girl spends one slow summer with a local boy in a seaside village — scooter rides, shared earbuds, dinners under a paper lantern — until an acceptance letter on her flip phone gives the summer a last day, and the goodbye in the rain has to end with "see you soon" instead of "goodbye."
+
+About the project:
+
+"Strawberry Summer" is a short romantic drama with almost no dialogue, told in the language of a worn 1990s/2000s Japanese film print. The main characters are a girl and a boy — and a village by the sea that belongs to them for exactly one summer.
+
+Every installment takes place inside the same lived-in world — an old countryside house with its engawa and paper lantern, a village lane leading to a red bridge, a coastal road with an orange convex mirror, a tiny seaside station with a sky-blue bench — rendered in a consistent visual language: handheld camera that breathes with the operator, thick coarse grain as the dominant texture, gate weave and exposure flicker, muted desaturated grade with milky lifted shadows, warm practicals as quiet accents inside cool grey-blue nights. Each beat is a self-contained multi-shot sequence with explicit second-by-second timing, refined on its own terms — expression, physics, cut rhythm — until it earns its place in the story.
+
+Reference assets
+
+Every character, prop, and location used across the series is locked to an actual reference image — a three-view character sheet of the girl (front / back / frontal close-up), the same for the boy, the farmhouse in its day and night states, the train carriage interior, the seaside platform, the coastal road, the village lane with the red bridge, the mint-green scooter, the sky-blue hard-shell suitcase, the clamshell flip phone, the black umbrella. Each is tagged (@Image1 through @Image12+) and pulled by tag into any prompt that needs it, with an explicit instruction never to re-describe clothing or expand the environment beyond what the photo already shows. Character heights are written into every prompt (her 165 cm, his 178 cm) so relative scale never drifts — the model's instinct to equalize two people in frame turned out to be as persistent a drift source as any environment invention.
+
+Style Prefix
+
+Style: worn 1990s/2000s Japanese romance film print — ultra photoreal live-action, handheld in every segment: operator breath, micro-tremor, late reframes, gentle off-level tilt; no tripod, no gimbal, no stabilization. 29°/47° rectilinear lens characters only — no wide-angle, no fisheye. Thick coarse film grain as the dominant texture, constant gate weave, faint exposure flicker, dust specks and hairline scratches, soft diffused resolution, halation on highlights — no vignette, corners as bright as center. Muted desaturated grade: cool grey-blue ambient, milky lifted shadows that never crush to black, warm practicals (paper lantern, doorway glow) as quiet accents, no orange-and-teal, no saturation. GIRL from @Image1 (20, 165 cm). BOY from @Image2 (22, 178 cm, tan cap always backwards). HOUSE from @Image3/@Image4 (day/night). STATION from @Image5. Identity and environment anchors match their reference images exactly; no new furniture, walls, or geography invented beyond what a reference shows. GEOGRAPHY LOCK: seating and screen sides never flip; travel direction constant across cuts.
+
+CONSTRAINTS:
+
+Constraints: every prompt fully self-contained, structured as SCENE CONTEXT → ACTIVE REFERENCES → LOCATION MAP → FIRST FRAME → FORMAT MODE → OPTICS → CAMERA → ACTION TIMING → PHYSICS → LIGHTING → AUDIO → POSITIVE LOCKS. Physics is causal: suitcases carry weight and tug the arm, umbrellas fall and rock on their ribs, swings behave as pendulums, rain streams and breaks on glass, chopsticks click with rigid contact. Emotions stay restrained and dry-styled — glassy eyes, single tears, small shoulder shudders; never sobbing, faces never contort. Continuity props re-locked every generation: the suitcase stays sky-blue, the paperback stays white, the earbuds stay chunky 2000s wired, the phone stays a clamshell flip. The acceptance message stays plain text — no university name, no logo, no sender. No subtitles. No dialogue beyond two scripted warm calls. NO MUSIC — diegetic sound only: cicadas, swing chains, rail clatter, rain on a metal canopy, one flip-phone chime. Score added in post.
+
+Post-Production: Color, Music, Sound
+
+Hard and insert cuts assembled per the in-prompt timing; the happiest scene and the saddest — dinner laughter and engawa tears — sit back to back in one night, as designed.
+Color grading barely needed: the Style Prefix kept every generation on the same worn print; the film ends on the same grain it opened with.
+Sound design was treated as an essential storytelling tool. Every track was manually cleaned, refined, and enhanced with carefully placed effects — rain on the canopy, the umbrella clattering on wet concrete, the train's heavy first lurch — creating a sonic landscape that carries the story where dialogue was deliberately removed. The score enters only at the platform, where the film has earned it.

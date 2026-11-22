@@ -1,0 +1,2794 @@
+{
+ "done": {
+  "333": {
+   "uniq": 626,
+   "uFFFD": 0,
+   "both": 335,
+   "onlyOld": 4,
+   "onlyNew": 291,
+   "oldUniq": 339,
+   "oldBad": 4,
+   "oldRows": 485,
+   "pages": 13,
+   "err": null
+  },
+  "9091": {
+   "uniq": 307,
+   "uFFFD": 0,
+   "both": 202,
+   "onlyOld": 3,
+   "onlyNew": 105,
+   "oldUniq": 205,
+   "oldBad": 3,
+   "oldRows": 496,
+   "pages": 8,
+   "err": null
+  },
+  "REVOLUTION": {
+   "uniq": 703,
+   "uFFFD": 0,
+   "both": 309,
+   "onlyOld": 66,
+   "onlyNew": 394,
+   "oldUniq": 375,
+   "oldBad": 66,
+   "oldRows": 488,
+   "pages": 13,
+   "err": null
+  },
+  "ORDER_OF_ASH": {
+   "uniq": 1211,
+   "uFFFD": 0,
+   "both": 336,
+   "onlyOld": 45,
+   "onlyNew": 875,
+   "oldUniq": 381,
+   "oldBad": 45,
+   "oldRows": 458,
+   "pages": 25,
+   "err": null
+  },
+  "THE_FILTER": {
+   "uniq": 301,
+   "uFFFD": 0,
+   "both": 239,
+   "onlyOld": 47,
+   "onlyNew": 62,
+   "oldUniq": 286,
+   "oldBad": 47,
+   "oldRows": 420,
+   "pages": 7,
+   "err": null
+  },
+  "HONOR": {
+   "uniq": 439,
+   "uFFFD": 0,
+   "both": 235,
+   "onlyOld": 47,
+   "onlyNew": 204,
+   "oldUniq": 282,
+   "oldBad": 47,
+   "oldRows": 364,
+   "pages": 12,
+   "err": null
+  },
+  "NAMED_FOR_HIM": {
+   "uniq": 661,
+   "uFFFD": 0,
+   "both": 254,
+   "onlyOld": 40,
+   "onlyNew": 407,
+   "oldUniq": 294,
+   "oldBad": 40,
+   "oldRows": 484,
+   "pages": 12,
+   "err": null
+  },
+  "YINGNING": {
+   "uniq": 815,
+   "uFFFD": 0,
+   "both": 349,
+   "onlyOld": 33,
+   "onlyNew": 466,
+   "oldUniq": 382,
+   "oldBad": 33,
+   "oldRows": 439,
+   "pages": 11,
+   "err": null
+  },
+  "14_DAYS": {
+   "uniq": 129,
+   "uFFFD": 0,
+   "both": 104,
+   "onlyOld": 32,
+   "onlyNew": 25,
+   "oldUniq": 136,
+   "oldBad": 32,
+   "oldRows": 263,
+   "pages": 7,
+   "err": null
+  },
+  "MORTAL_KOMBAT_ARC_SERIES": {
+   "uniq": 112,
+   "uFFFD": 0,
+   "both": 92,
+   "onlyOld": 24,
+   "onlyNew": 20,
+   "oldUniq": 116,
+   "oldBad": 24,
+   "oldRows": 127,
+   "pages": 3,
+   "err": null
+  },
+  "SPANNERGIRL": {
+   "uniq": 437,
+   "uFFFD": 0,
+   "both": 231,
+   "onlyOld": 26,
+   "onlyNew": 206,
+   "oldUniq": 257,
+   "oldBad": 26,
+   "oldRows": 426,
+   "pages": 12,
+   "err": null
+  },
+  "THE_DIVERGION": {
+   "uniq": 753,
+   "uFFFD": 0,
+   "both": 373,
+   "onlyOld": 29,
+   "onlyNew": 380,
+   "oldUniq": 402,
+   "oldBad": 29,
+   "oldRows": 441,
+   "pages": 11,
+   "err": null
+  },
+  "FOUND_ME": {
+   "uniq": 936,
+   "uFFFD": 0,
+   "both": 921,
+   "onlyOld": 25,
+   "onlyNew": 15,
+   "oldUniq": 946,
+   "oldBad": 25,
+   "oldRows": 1502,
+   "pages": 16,
+   "err": null
+  },
+  "PLAY_ANYWAY": {
+   "uniq": 741,
+   "uFFFD": 0,
+   "both": 260,
+   "onlyOld": 22,
+   "onlyNew": 481,
+   "oldUniq": 282,
+   "oldBad": 22,
+   "oldRows": 411,
+   "pages": 17,
+   "err": null
+  },
+  "UNHEARD": {
+   "uniq": 227,
+   "uFFFD": 0,
+   "both": 202,
+   "onlyOld": 20,
+   "onlyNew": 25,
+   "oldUniq": 222,
+   "oldBad": 20,
+   "oldRows": 345,
+   "pages": 6,
+   "err": null
+  },
+  "SIDE_BY_SIDE": {
+   "uniq": 384,
+   "uFFFD": 0,
+   "both": 266,
+   "onlyOld": 19,
+   "onlyNew": 118,
+   "oldUniq": 285,
+   "oldBad": 19,
+   "oldRows": 495,
+   "pages": 8,
+   "err": null
+  },
+  "HERO": {
+   "uniq": 1020,
+   "uFFFD": 0,
+   "both": 401,
+   "onlyOld": 21,
+   "onlyNew": 619,
+   "oldUniq": 422,
+   "oldBad": 21,
+   "oldRows": 486,
+   "pages": 14,
+   "err": null
+  },
+  "WORD_VS_WORLD": {
+   "uniq": 137,
+   "uFFFD": 0,
+   "both": 129,
+   "onlyOld": 16,
+   "onlyNew": 8,
+   "oldUniq": 145,
+   "oldBad": 16,
+   "oldRows": 203,
+   "pages": 3,
+   "err": null
+  },
+  "FLY": {
+   "uniq": 361,
+   "uFFFD": 0,
+   "both": 127,
+   "onlyOld": 15,
+   "onlyNew": 234,
+   "oldUniq": 142,
+   "oldBad": 15,
+   "oldRows": 458,
+   "pages": 17,
+   "err": null
+  },
+  "HIGH_SCHOOL_TERROR": {
+   "uniq": 378,
+   "uFFFD": 0,
+   "both": 367,
+   "onlyOld": 13,
+   "onlyNew": 11,
+   "oldUniq": 380,
+   "oldBad": 13,
+   "oldRows": 439,
+   "pages": 5,
+   "err": null
+  },
+  "RIFT_RIDER": {
+   "uniq": 802,
+   "uFFFD": 0,
+   "both": 206,
+   "onlyOld": 13,
+   "onlyNew": 596,
+   "oldUniq": 219,
+   "oldBad": 13,
+   "oldRows": 305,
+   "pages": 32,
+   "err": null
+  },
+  "THE_LOCKED_ROOM": {
+   "uniq": 272,
+   "uFFFD": 0,
+   "both": 266,
+   "onlyOld": 9,
+   "onlyNew": 6,
+   "oldUniq": 275,
+   "oldBad": 9,
+   "oldRows": 328,
+   "pages": 4,
+   "err": null
+  },
+  "NOTHING": {
+   "uniq": 182,
+   "uFFFD": 0,
+   "both": 171,
+   "onlyOld": 15,
+   "onlyNew": 11,
+   "oldUniq": 186,
+   "oldBad": 15,
+   "oldRows": 287,
+   "pages": 4,
+   "err": null
+  },
+  "YIN_YANG_AGENCY_THUNDER_RISING": {
+   "uniq": 661,
+   "uFFFD": 0,
+   "both": 444,
+   "onlyOld": 9,
+   "onlyNew": 217,
+   "oldUniq": 453,
+   "oldBad": 9,
+   "oldRows": 493,
+   "pages": 8,
+   "err": null
+  },
+  "BREATH": {
+   "uniq": 235,
+   "uFFFD": 0,
+   "both": 216,
+   "onlyOld": 7,
+   "onlyNew": 19,
+   "oldUniq": 223,
+   "oldBad": 7,
+   "oldRows": 498,
+   "pages": 6,
+   "err": null
+  },
+  "MARUMAI_25": {
+   "uniq": 212,
+   "uFFFD": 0,
+   "both": 208,
+   "onlyOld": 8,
+   "onlyNew": 4,
+   "oldUniq": 216,
+   "oldBad": 8,
+   "oldRows": 268,
+   "pages": 4,
+   "err": null
+  },
+  "NEUROVERSE_STILL_AGLOW": {
+   "uniq": 391,
+   "uFFFD": 0,
+   "both": 240,
+   "onlyOld": 6,
+   "onlyNew": 151,
+   "oldUniq": 246,
+   "oldBad": 6,
+   "oldRows": 477,
+   "pages": 9,
+   "err": null
+  },
+  "OUT_OF_CREDITS": {
+   "uniq": 725,
+   "uFFFD": 0,
+   "both": 0,
+   "onlyOld": 389,
+   "onlyNew": 725,
+   "oldUniq": 389,
+   "oldBad": 8,
+   "oldRows": 467,
+   "pages": 12,
+   "err": null
+  },
+  "WHAT_IS_LEFT_IS_WIND": {
+   "uniq": 375,
+   "uFFFD": 0,
+   "both": 163,
+   "onlyOld": 8,
+   "onlyNew": 212,
+   "oldUniq": 171,
+   "oldBad": 8,
+   "oldRows": 499,
+   "pages": 12,
+   "err": null
+  },
+  "CAMPING": {
+   "uniq": 80,
+   "uFFFD": 0,
+   "both": 77,
+   "onlyOld": 5,
+   "onlyNew": 3,
+   "oldUniq": 82,
+   "oldBad": 5,
+   "oldRows": 88,
+   "pages": 1,
+   "err": null
+  },
+  "ECLIPSE": {
+   "uniq": 292,
+   "uFFFD": 0,
+   "both": 285,
+   "onlyOld": 9,
+   "onlyNew": 7,
+   "oldUniq": 294,
+   "oldBad": 9,
+   "oldRows": 352,
+   "pages": 5,
+   "err": null
+  },
+  "DREAMER_THE_OTHER_YOU": {
+   "uniq": 237,
+   "uFFFD": 0,
+   "both": 233,
+   "onlyOld": 6,
+   "onlyNew": 4,
+   "oldUniq": 239,
+   "oldBad": 6,
+   "oldRows": 273,
+   "pages": 3,
+   "err": null
+  },
+  "AFTER_HOURS": {
+   "uniq": 76,
+   "uFFFD": 0,
+   "both": 72,
+   "onlyOld": 4,
+   "onlyNew": 4,
+   "oldUniq": 76,
+   "oldBad": 4,
+   "oldRows": 79,
+   "pages": 1,
+   "err": null
+  },
+  "THE_LAST_THING_SHE_HELD": {
+   "uniq": 141,
+   "uFFFD": 0,
+   "both": 138,
+   "onlyOld": 3,
+   "onlyNew": 3,
+   "oldUniq": 141,
+   "oldBad": 3,
+   "oldRows": 258,
+   "pages": 4,
+   "err": null
+  },
+  "BLESTYASHCHEE_NEVEZHESTVO": {
+   "uniq": 286,
+   "uFFFD": 0,
+   "both": 285,
+   "onlyOld": 7,
+   "onlyNew": 1,
+   "oldUniq": 292,
+   "oldBad": 7,
+   "oldRows": 631,
+   "pages": 8,
+   "err": null
+  },
+  "EDEN": {
+   "uniq": 1345,
+   "uFFFD": 0,
+   "both": 201,
+   "onlyOld": 5,
+   "onlyNew": 1144,
+   "oldUniq": 206,
+   "oldBad": 5,
+   "oldRows": 473,
+   "pages": 36,
+   "err": null
+  },
+  "MARCEL_S_HEART": {
+   "uniq": 729,
+   "uFFFD": 0,
+   "both": 727,
+   "onlyOld": 4,
+   "onlyNew": 2,
+   "oldUniq": 731,
+   "oldBad": 4,
+   "oldRows": 888,
+   "pages": 12,
+   "err": null
+  },
+  "TOKYO_DRIFT": {
+   "uniq": 33,
+   "uFFFD": 0,
+   "both": 31,
+   "onlyOld": 4,
+   "onlyNew": 2,
+   "oldUniq": 35,
+   "oldBad": 4,
+   "oldRows": 62,
+   "pages": 1,
+   "err": null
+  },
+  "NAME_IS_COMET": {
+   "uniq": 121,
+   "uFFFD": 0,
+   "both": 117,
+   "onlyOld": 4,
+   "onlyNew": 4,
+   "oldUniq": 121,
+   "oldBad": 4,
+   "oldRows": 133,
+   "pages": 2,
+   "err": null
+  },
+  "ASHES_OF_FREEDOM": {
+   "uniq": 390,
+   "uFFFD": 0,
+   "both": 224,
+   "onlyOld": 5,
+   "onlyNew": 166,
+   "oldUniq": 229,
+   "oldBad": 5,
+   "oldRows": 498,
+   "pages": 8,
+   "err": null
+  },
+  "THE_SECOND_HAND": {
+   "uniq": 321,
+   "uFFFD": 0,
+   "both": 318,
+   "onlyOld": 4,
+   "onlyNew": 3,
+   "oldUniq": 322,
+   "oldBad": 4,
+   "oldRows": 422,
+   "pages": 5,
+   "err": null
+  },
+  "AZTEC_REVOLT_ESCAPING_TENOCHTITLAN": {
+   "uniq": 1069,
+   "uFFFD": 0,
+   "both": 1068,
+   "onlyOld": 4,
+   "onlyNew": 1,
+   "oldUniq": 1072,
+   "oldBad": 4,
+   "oldRows": 1851,
+   "pages": 20,
+   "err": null
+  },
+  "EASY_TARGET": {
+   "uniq": 281,
+   "uFFFD": 0,
+   "both": 203,
+   "onlyOld": 2,
+   "onlyNew": 78,
+   "oldUniq": 205,
+   "oldBad": 2,
+   "oldRows": 428,
+   "pages": 8,
+   "err": null
+  },
+  "THE_WEEKEND": {
+   "uniq": 144,
+   "uFFFD": 0,
+   "both": 139,
+   "onlyOld": 5,
+   "onlyNew": 5,
+   "oldUniq": 144,
+   "oldBad": 5,
+   "oldRows": 150,
+   "pages": 2,
+   "err": null
+  },
+  "100_MILLION_RAT": {
+   "uniq": 392,
+   "uFFFD": 0,
+   "both": 390,
+   "onlyOld": 2,
+   "onlyNew": 2,
+   "oldUniq": 392,
+   "oldBad": 2,
+   "oldRows": 496,
+   "pages": 5,
+   "err": null
+  },
+  "AND_STILL_LIFE": {
+   "uniq": 252,
+   "uFFFD": 0,
+   "both": 251,
+   "onlyOld": 3,
+   "onlyNew": 1,
+   "oldUniq": 254,
+   "oldBad": 3,
+   "oldRows": 328,
+   "pages": 4,
+   "err": null
+  },
+  "MADSEASON": {
+   "uniq": 612,
+   "uFFFD": 0,
+   "both": 612,
+   "onlyOld": 3,
+   "onlyNew": 0,
+   "oldUniq": 615,
+   "oldBad": 3,
+   "oldRows": 3451,
+   "pages": 35,
+   "err": null
+  },
+  "TAGE_7": {
+   "uniq": 353,
+   "uFFFD": 0,
+   "both": 258,
+   "onlyOld": 2,
+   "onlyNew": 95,
+   "oldUniq": 260,
+   "oldBad": 2,
+   "oldRows": 485,
+   "pages": 9,
+   "err": null
+  },
+  "SHARDS_OF_WHEN": {
+   "uniq": 434,
+   "uFFFD": 0,
+   "both": 376,
+   "onlyOld": 4,
+   "onlyNew": 58,
+   "oldUniq": 380,
+   "oldBad": 4,
+   "oldRows": 487,
+   "pages": 6,
+   "err": null
+  },
+  "SITARA": {
+   "uniq": 596,
+   "uFFFD": 0,
+   "both": 595,
+   "onlyOld": 2,
+   "onlyNew": 1,
+   "oldUniq": 597,
+   "oldBad": 2,
+   "oldRows": 1546,
+   "pages": 16,
+   "err": null
+  },
+  "SKIN_TRADE": {
+   "uniq": 563,
+   "uFFFD": 0,
+   "both": 379,
+   "onlyOld": 2,
+   "onlyNew": 184,
+   "oldUniq": 381,
+   "oldBad": 2,
+   "oldRows": 496,
+   "pages": 9,
+   "err": null
+  },
+  "ARKYN": {
+   "uniq": 1380,
+   "uFFFD": 0,
+   "both": 309,
+   "onlyOld": 3,
+   "onlyNew": 1071,
+   "oldUniq": 312,
+   "oldBad": 3,
+   "oldRows": 459,
+   "pages": 31,
+   "err": null
+  },
+  "NOKU": {
+   "uniq": 1845,
+   "uFFFD": 0,
+   "both": 354,
+   "onlyOld": 3,
+   "onlyNew": 1491,
+   "oldUniq": 357,
+   "oldBad": 3,
+   "oldRows": 495,
+   "pages": 30,
+   "err": null
+  },
+  "ORDINARY_DAY": {
+   "uniq": 542,
+   "uFFFD": 0,
+   "both": 455,
+   "onlyOld": 3,
+   "onlyNew": 87,
+   "oldUniq": 458,
+   "oldBad": 3,
+   "oldRows": 500,
+   "pages": 7,
+   "err": null
+  },
+  "REVELATION": {
+   "uniq": 95,
+   "uFFFD": 0,
+   "both": 94,
+   "onlyOld": 2,
+   "onlyNew": 1,
+   "oldUniq": 96,
+   "oldBad": 2,
+   "oldRows": 125,
+   "pages": 2,
+   "err": null
+  },
+  "ROAR": {
+   "uniq": 232,
+   "uFFFD": 0,
+   "both": 212,
+   "onlyOld": 3,
+   "onlyNew": 20,
+   "oldUniq": 215,
+   "oldBad": 3,
+   "oldRows": 490,
+   "pages": 7,
+   "err": null
+  },
+  "THE_BALLOON": {
+   "uniq": 181,
+   "uFFFD": 0,
+   "both": 179,
+   "onlyOld": 3,
+   "onlyNew": 2,
+   "oldUniq": 182,
+   "oldBad": 3,
+   "oldRows": 365,
+   "pages": 4,
+   "err": null
+  },
+  "1916_WORLD_WAR": {
+   "uniq": 339,
+   "uFFFD": 0,
+   "both": 264,
+   "onlyOld": 2,
+   "onlyNew": 75,
+   "oldUniq": 266,
+   "oldBad": 2,
+   "oldRows": 491,
+   "pages": 9,
+   "err": null
+  },
+  "A_LONG_LUNCH": {
+   "uniq": 665,
+   "uFFFD": 0,
+   "both": 297,
+   "onlyOld": 2,
+   "onlyNew": 368,
+   "oldUniq": 299,
+   "oldBad": 2,
+   "oldRows": 483,
+   "pages": 12,
+   "err": null
+  },
+  "ON_THIN_ICE": {
+   "uniq": 693,
+   "uFFFD": 0,
+   "both": 393,
+   "onlyOld": 3,
+   "onlyNew": 300,
+   "oldUniq": 396,
+   "oldBad": 3,
+   "oldRows": 494,
+   "pages": 10,
+   "err": null
+  },
+  "PERSISTENCE": {
+   "uniq": 546,
+   "uFFFD": 0,
+   "both": 233,
+   "onlyOld": 2,
+   "onlyNew": 313,
+   "oldUniq": 235,
+   "oldBad": 2,
+   "oldRows": 471,
+   "pages": 14,
+   "err": null
+  },
+  "SEA_OF_FOG": {
+   "uniq": 525,
+   "uFFFD": 0,
+   "both": 264,
+   "onlyOld": 2,
+   "onlyNew": 261,
+   "oldUniq": 266,
+   "oldBad": 2,
+   "oldRows": 456,
+   "pages": 17,
+   "err": null
+  },
+  "SUMMONED": {
+   "uniq": 614,
+   "uFFFD": 0,
+   "both": 436,
+   "onlyOld": 2,
+   "onlyNew": 178,
+   "oldUniq": 438,
+   "oldBad": 2,
+   "oldRows": 496,
+   "pages": 9,
+   "err": null
+  },
+  "THE_SEVENTH_LOOP": {
+   "uniq": 895,
+   "uFFFD": 0,
+   "both": 312,
+   "onlyOld": 2,
+   "onlyNew": 583,
+   "oldUniq": 314,
+   "oldBad": 2,
+   "oldRows": 465,
+   "pages": 18,
+   "err": null
+  },
+  "AA_MEETING": {
+   "uniq": 449,
+   "uFFFD": 0,
+   "both": 290,
+   "onlyOld": 2,
+   "onlyNew": 159,
+   "oldUniq": 292,
+   "oldBad": 2,
+   "oldRows": 492,
+   "pages": 9,
+   "err": null
+  },
+  "BIOSCOPE": {
+   "uniq": 963,
+   "uFFFD": 0,
+   "both": 374,
+   "onlyOld": 2,
+   "onlyNew": 589,
+   "oldUniq": 376,
+   "oldBad": 2,
+   "oldRows": 474,
+   "pages": 14,
+   "err": null
+  },
+  "CHORNOS_THE_CHOSEN": {
+   "uniq": 461,
+   "uFFFD": 0,
+   "both": 440,
+   "onlyOld": 2,
+   "onlyNew": 21,
+   "oldUniq": 442,
+   "oldBad": 2,
+   "oldRows": 500,
+   "pages": 6,
+   "err": null
+  },
+  "DEEP_CLEAN": {
+   "uniq": 191,
+   "uFFFD": 0,
+   "both": 190,
+   "onlyOld": 2,
+   "onlyNew": 1,
+   "oldUniq": 192,
+   "oldBad": 2,
+   "oldRows": 244,
+   "pages": 3,
+   "err": null
+  },
+  "GREEN_FLAG": {
+   "uniq": 220,
+   "uFFFD": 0,
+   "both": 219,
+   "onlyOld": 2,
+   "onlyNew": 1,
+   "oldUniq": 221,
+   "oldBad": 2,
+   "oldRows": 431,
+   "pages": 5,
+   "err": null
+  },
+  "HERU_OUTSIDE_THE_FEED": {
+   "uniq": 173,
+   "uFFFD": 0,
+   "both": 172,
+   "onlyOld": 2,
+   "onlyNew": 1,
+   "oldUniq": 174,
+   "oldBad": 2,
+   "oldRows": 208,
+   "pages": 3,
+   "err": null
+  },
+  "IN_S": {
+   "uniq": 631,
+   "uFFFD": 0,
+   "both": 300,
+   "onlyOld": 2,
+   "onlyNew": 331,
+   "oldUniq": 302,
+   "oldBad": 2,
+   "oldRows": 375,
+   "pages": 11,
+   "err": null
+  },
+  "LONG_SIGH": {
+   "uniq": 888,
+   "uFFFD": 0,
+   "both": 348,
+   "onlyOld": 2,
+   "onlyNew": 540,
+   "oldUniq": 350,
+   "oldBad": 2,
+   "oldRows": 495,
+   "pages": 13,
+   "err": null
+  },
+  "MEMORY_THIEF": {
+   "uniq": 313,
+   "uFFFD": 0,
+   "both": 245,
+   "onlyOld": 2,
+   "onlyNew": 68,
+   "oldUniq": 247,
+   "oldBad": 2,
+   "oldRows": 287,
+   "pages": 8,
+   "err": null
+  },
+  "OCEAN": {
+   "uniq": 46,
+   "uFFFD": 0,
+   "both": 46,
+   "onlyOld": 2,
+   "onlyNew": 0,
+   "oldUniq": 48,
+   "oldBad": 2,
+   "oldRows": 261,
+   "pages": 3,
+   "err": null
+  },
+  "PHOTO_IN_PARIS": {
+   "uniq": 263,
+   "uFFFD": 0,
+   "both": 263,
+   "onlyOld": 2,
+   "onlyNew": 0,
+   "oldUniq": 265,
+   "oldBad": 2,
+   "oldRows": 441,
+   "pages": 5,
+   "err": null
+  },
+  "SIDE_B": {
+   "uniq": 501,
+   "uFFFD": 0,
+   "both": 500,
+   "onlyOld": 2,
+   "onlyNew": 1,
+   "oldUniq": 502,
+   "oldBad": 2,
+   "oldRows": 640,
+   "pages": 8,
+   "err": null
+  },
+  "THE_LAST_RIDE": {
+   "uniq": 230,
+   "uFFFD": 0,
+   "both": 230,
+   "onlyOld": 2,
+   "onlyNew": 0,
+   "oldUniq": 232,
+   "oldBad": 2,
+   "oldRows": 1364,
+   "pages": 7,
+   "err": null
+  },
+  "THE_ONE_THAT_LOOKED": {
+   "uniq": 800,
+   "uFFFD": 0,
+   "both": 114,
+   "onlyOld": 1,
+   "onlyNew": 686,
+   "oldUniq": 115,
+   "oldBad": 1,
+   "oldRows": 500,
+   "pages": 30,
+   "err": null
+  },
+  "WITHIN": {
+   "uniq": 528,
+   "uFFFD": 0,
+   "both": 358,
+   "onlyOld": 2,
+   "onlyNew": 170,
+   "oldUniq": 360,
+   "oldBad": 2,
+   "oldRows": 500,
+   "pages": 8,
+   "err": null
+  },
+  "MEMORY_WORLD": {
+   "uniq": 1014,
+   "uFFFD": 0,
+   "both": 437,
+   "onlyOld": 2,
+   "onlyNew": 577,
+   "oldUniq": 439,
+   "oldBad": 2,
+   "oldRows": 480,
+   "pages": 12,
+   "err": null
+  },
+  "PLUS_INTEREST": {
+   "uniq": 509,
+   "uFFFD": 0,
+   "both": 204,
+   "onlyOld": 2,
+   "onlyNew": 305,
+   "oldUniq": 206,
+   "oldBad": 2,
+   "oldRows": 492,
+   "pages": 15,
+   "err": null
+  },
+  "RELIC": {
+   "uniq": 416,
+   "uFFFD": 0,
+   "both": 266,
+   "onlyOld": 1,
+   "onlyNew": 150,
+   "oldUniq": 267,
+   "oldBad": 1,
+   "oldRows": 396,
+   "pages": 10,
+   "err": null
+  },
+  "TOP_UP_CINEMATIC_AD_BREAKDOWN": {
+   "uniq": 74,
+   "uFFFD": 0,
+   "both": 74,
+   "onlyOld": 2,
+   "onlyNew": 0,
+   "oldUniq": 76,
+   "oldBad": 2,
+   "oldRows": 255,
+   "pages": 3,
+   "err": null
+  },
+  "VESPER": {
+   "uniq": 297,
+   "uFFFD": 0,
+   "both": 296,
+   "onlyOld": 2,
+   "onlyNew": 1,
+   "oldUniq": 298,
+   "oldBad": 2,
+   "oldRows": 383,
+   "pages": 4,
+   "err": null
+  },
+  "APOCALYPSE_SQUAD": {
+   "uniq": 192,
+   "uFFFD": 0,
+   "both": 192,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 193,
+   "oldBad": 1,
+   "oldRows": 345,
+   "pages": 4,
+   "err": null
+  },
+  "BEHIND_THE_LENS": {
+   "uniq": 421,
+   "uFFFD": 0,
+   "both": 175,
+   "onlyOld": 1,
+   "onlyNew": 246,
+   "oldUniq": 176,
+   "oldBad": 1,
+   "oldRows": 453,
+   "pages": 10,
+   "err": null
+  },
+  "BRAMBLE": {
+   "uniq": 129,
+   "uFFFD": 0,
+   "both": 128,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 129,
+   "oldBad": 1,
+   "oldRows": 152,
+   "pages": 2,
+   "err": null
+  },
+  "CAMEL": {
+   "uniq": 176,
+   "uFFFD": 0,
+   "both": 175,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 176,
+   "oldBad": 1,
+   "oldRows": 266,
+   "pages": 3,
+   "err": null
+  },
+  "CLEAR_INTENTION": {
+   "uniq": 467,
+   "uFFFD": 0,
+   "both": 467,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 468,
+   "oldBad": 1,
+   "oldRows": 1737,
+   "pages": 9,
+   "err": null
+  },
+  "DEMENTIA": {
+   "uniq": 268,
+   "uFFFD": 0,
+   "both": 267,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 268,
+   "oldBad": 1,
+   "oldRows": 371,
+   "pages": 4,
+   "err": null
+  },
+  "H2O": {
+   "uniq": 604,
+   "uFFFD": 0,
+   "both": 371,
+   "onlyOld": 1,
+   "onlyNew": 233,
+   "oldUniq": 372,
+   "oldBad": 1,
+   "oldRows": 482,
+   "pages": 11,
+   "err": null
+  },
+  "HOPE": {
+   "uniq": 232,
+   "uFFFD": 0,
+   "both": 216,
+   "onlyOld": 1,
+   "onlyNew": 16,
+   "oldUniq": 217,
+   "oldBad": 1,
+   "oldRows": 432,
+   "pages": 6,
+   "err": null
+  },
+  "HORSELESS": {
+   "uniq": 449,
+   "uFFFD": 0,
+   "both": 297,
+   "onlyOld": 1,
+   "onlyNew": 152,
+   "oldUniq": 298,
+   "oldBad": 1,
+   "oldRows": 440,
+   "pages": 8,
+   "err": null
+  },
+  "HUMAN_ERROR": {
+   "uniq": 297,
+   "uFFFD": 0,
+   "both": 260,
+   "onlyOld": 1,
+   "onlyNew": 37,
+   "oldUniq": 261,
+   "oldBad": 1,
+   "oldRows": 453,
+   "pages": 6,
+   "err": null
+  },
+  "INDIGO": {
+   "uniq": 324,
+   "uFFFD": 0,
+   "both": 192,
+   "onlyOld": 1,
+   "onlyNew": 132,
+   "oldUniq": 193,
+   "oldBad": 1,
+   "oldRows": 481,
+   "pages": 9,
+   "err": null
+  },
+  "KADHAA_2155": {
+   "uniq": 351,
+   "uFFFD": 0,
+   "both": 351,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 352,
+   "oldBad": 1,
+   "oldRows": 494,
+   "pages": 6,
+   "err": null
+  },
+  "KARNA": {
+   "uniq": 837,
+   "uFFFD": 0,
+   "both": 227,
+   "onlyOld": 1,
+   "onlyNew": 610,
+   "oldUniq": 228,
+   "oldBad": 1,
+   "oldRows": 485,
+   "pages": 24,
+   "err": null
+  },
+  "MARCO_POLO": {
+   "uniq": 138,
+   "uFFFD": 0,
+   "both": 113,
+   "onlyOld": 1,
+   "onlyNew": 25,
+   "oldUniq": 114,
+   "oldBad": 1,
+   "oldRows": 366,
+   "pages": 7,
+   "err": null
+  },
+  "MARIA_MARIA": {
+   "uniq": 386,
+   "uFFFD": 0,
+   "both": 307,
+   "onlyOld": 1,
+   "onlyNew": 79,
+   "oldUniq": 308,
+   "oldBad": 1,
+   "oldRows": 499,
+   "pages": 7,
+   "err": null
+  },
+  "MY_WAY_NAVILLUS": {
+   "uniq": 157,
+   "uFFFD": 0,
+   "both": 156,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 157,
+   "oldBad": 1,
+   "oldRows": 175,
+   "pages": 4,
+   "err": null
+  },
+  "NATIVE": {
+   "uniq": 418,
+   "uFFFD": 0,
+   "both": 399,
+   "onlyOld": 1,
+   "onlyNew": 19,
+   "oldUniq": 400,
+   "oldBad": 1,
+   "oldRows": 500,
+   "pages": 6,
+   "err": null
+  },
+  "OEDIPUS": {
+   "uniq": 91,
+   "uFFFD": 0,
+   "both": 90,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 91,
+   "oldBad": 1,
+   "oldRows": 136,
+   "pages": 2,
+   "err": null
+  },
+  "ONE_DAY_AT_A_TIME": {
+   "uniq": 270,
+   "uFFFD": 0,
+   "both": 269,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 270,
+   "oldBad": 1,
+   "oldRows": 324,
+   "pages": 5,
+   "err": null
+  },
+  "ONE_THE_MERCY_LEDGER": {
+   "uniq": 1517,
+   "uFFFD": 0,
+   "both": 1516,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 1517,
+   "oldBad": 1,
+   "oldRows": 1617,
+   "pages": 18,
+   "err": null
+  },
+  "OOPS_FIRST_CONTACT": {
+   "uniq": 1135,
+   "uFFFD": 0,
+   "both": 345,
+   "onlyOld": 1,
+   "onlyNew": 790,
+   "oldUniq": 346,
+   "oldBad": 1,
+   "oldRows": 456,
+   "pages": 18,
+   "err": null
+  },
+  "PON": {
+   "uniq": 221,
+   "uFFFD": 0,
+   "both": 160,
+   "onlyOld": 1,
+   "onlyNew": 61,
+   "oldUniq": 161,
+   "oldBad": 1,
+   "oldRows": 320,
+   "pages": 8,
+   "err": null
+  },
+  "PROPHECY_IN_2047": {
+   "uniq": 761,
+   "uFFFD": 0,
+   "both": 761,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 762,
+   "oldBad": 1,
+   "oldRows": 2831,
+   "pages": 11,
+   "err": null
+  },
+  "QUEEN_NOIR": {
+   "uniq": 64,
+   "uFFFD": 0,
+   "both": 63,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 64,
+   "oldBad": 1,
+   "oldRows": 77,
+   "pages": 1,
+   "err": null
+  },
+  "RISE_OF_AN_EMPIRE_BY_HOUSE_OF_DI_LORENZO": {
+   "uniq": 584,
+   "uFFFD": 0,
+   "both": 330,
+   "onlyOld": 1,
+   "onlyNew": 254,
+   "oldUniq": 331,
+   "oldBad": 1,
+   "oldRows": 479,
+   "pages": 10,
+   "err": null
+  },
+  "SUNRISE_THE_PROLOGUE": {
+   "uniq": 656,
+   "uFFFD": 0,
+   "both": 656,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 657,
+   "oldBad": 1,
+   "oldRows": 1968,
+   "pages": 21,
+   "err": null
+  },
+  "SUPER_SENIORS": {
+   "uniq": 935,
+   "uFFFD": 0,
+   "both": 179,
+   "onlyOld": 1,
+   "onlyNew": 756,
+   "oldUniq": 180,
+   "oldBad": 1,
+   "oldRows": 498,
+   "pages": 39,
+   "err": null
+  },
+  "S_T_E_V_E": {
+   "uniq": 1361,
+   "uFFFD": 0,
+   "both": 424,
+   "onlyOld": 1,
+   "onlyNew": 937,
+   "oldUniq": 425,
+   "oldBad": 1,
+   "oldRows": 485,
+   "pages": 17,
+   "err": null
+  },
+  "THE_APPLE": {
+   "uniq": 1120,
+   "uFFFD": 0,
+   "both": 298,
+   "onlyOld": 1,
+   "onlyNew": 822,
+   "oldUniq": 299,
+   "oldBad": 1,
+   "oldRows": 499,
+   "pages": 21,
+   "err": null
+  },
+  "THE_BREACH": {
+   "uniq": 501,
+   "uFFFD": 0,
+   "both": 224,
+   "onlyOld": 1,
+   "onlyNew": 277,
+   "oldUniq": 225,
+   "oldBad": 1,
+   "oldRows": 466,
+   "pages": 13,
+   "err": null
+  },
+  "THE_FESTIVAL": {
+   "uniq": 102,
+   "uFFFD": 0,
+   "both": 101,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 102,
+   "oldBad": 1,
+   "oldRows": 115,
+   "pages": 2,
+   "err": null
+  },
+  "THE_HOST": {
+   "uniq": 567,
+   "uFFFD": 0,
+   "both": 290,
+   "onlyOld": 1,
+   "onlyNew": 277,
+   "oldUniq": 291,
+   "oldBad": 1,
+   "oldRows": 388,
+   "pages": 10,
+   "err": null
+  },
+  "THE_LAST_OATH": {
+   "uniq": 738,
+   "uFFFD": 0,
+   "both": 323,
+   "onlyOld": 1,
+   "onlyNew": 415,
+   "oldUniq": 324,
+   "oldBad": 1,
+   "oldRows": 463,
+   "pages": 12,
+   "err": null
+  },
+  "THE_MOUNTAIN_KEEPS": {
+   "uniq": 724,
+   "uFFFD": 0,
+   "both": 183,
+   "onlyOld": 1,
+   "onlyNew": 541,
+   "oldUniq": 184,
+   "oldBad": 1,
+   "oldRows": 478,
+   "pages": 28,
+   "err": null
+  },
+  "THE_WORLD_WORTH_LIVING_IN": {
+   "uniq": 223,
+   "uFFFD": 0,
+   "both": 223,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 224,
+   "oldBad": 1,
+   "oldRows": 287,
+   "pages": 4,
+   "err": null
+  },
+  "THE_ZERO_LINE": {
+   "uniq": 996,
+   "uFFFD": 0,
+   "both": 374,
+   "onlyOld": 1,
+   "onlyNew": 622,
+   "oldUniq": 375,
+   "oldBad": 1,
+   "oldRows": 477,
+   "pages": 14,
+   "err": null
+  },
+  "TOKYO_4_17": {
+   "uniq": 84,
+   "uFFFD": 0,
+   "both": 71,
+   "onlyOld": 1,
+   "onlyNew": 13,
+   "oldUniq": 72,
+   "oldBad": 1,
+   "oldRows": 105,
+   "pages": 8,
+   "err": null
+  },
+  "TO_LIVE_ANOTHER_MORNING": {
+   "uniq": 178,
+   "uFFFD": 0,
+   "both": 55,
+   "onlyOld": 1,
+   "onlyNew": 123,
+   "oldUniq": 56,
+   "oldBad": 1,
+   "oldRows": 75,
+   "pages": 4,
+   "err": null
+  },
+  "TWO_DAYS": {
+   "uniq": 1047,
+   "uFFFD": 0,
+   "both": 451,
+   "onlyOld": 1,
+   "onlyNew": 596,
+   "oldUniq": 452,
+   "oldBad": 1,
+   "oldRows": 488,
+   "pages": 13,
+   "err": null
+  },
+  "UNSENT": {
+   "uniq": 755,
+   "uFFFD": 0,
+   "both": 393,
+   "onlyOld": 1,
+   "onlyNew": 362,
+   "oldUniq": 394,
+   "oldBad": 1,
+   "oldRows": 466,
+   "pages": 10,
+   "err": null
+  },
+  "VORTEX": {
+   "uniq": 1254,
+   "uFFFD": 0,
+   "both": 212,
+   "onlyOld": 1,
+   "onlyNew": 1042,
+   "oldUniq": 213,
+   "oldBad": 1,
+   "oldRows": 269,
+   "pages": 29,
+   "err": null
+  },
+  "WELCOME_TO_THE_TEAM": {
+   "uniq": 425,
+   "uFFFD": 0,
+   "both": 149,
+   "onlyOld": 1,
+   "onlyNew": 276,
+   "oldUniq": 150,
+   "oldBad": 1,
+   "oldRows": 498,
+   "pages": 14,
+   "err": null
+  },
+  "WHERE_LETTERS_FALL": {
+   "uniq": 151,
+   "uFFFD": 0,
+   "both": 151,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 152,
+   "oldBad": 1,
+   "oldRows": 195,
+   "pages": 3,
+   "err": null
+  },
+  "APEIROPHOBIA": {
+   "uniq": 1689,
+   "uFFFD": 0,
+   "both": 1689,
+   "onlyOld": 2,
+   "onlyNew": 0,
+   "oldUniq": 1691,
+   "oldBad": 1,
+   "oldRows": 15401,
+   "pages": 75,
+   "err": null
+  },
+  "ATHERIA": {
+   "uniq": 128,
+   "uFFFD": 0,
+   "both": 127,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 128,
+   "oldBad": 1,
+   "oldRows": 130,
+   "pages": 2,
+   "err": null
+  },
+  "A_LIFE": {
+   "uniq": 893,
+   "uFFFD": 0,
+   "both": 892,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 893,
+   "oldBad": 1,
+   "oldRows": 1147,
+   "pages": 13,
+   "err": null
+  },
+  "A_YEAR_LATER": {
+   "uniq": 596,
+   "uFFFD": 0,
+   "both": 596,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 597,
+   "oldBad": 1,
+   "oldRows": 839,
+   "pages": 9,
+   "err": null
+  },
+  "BLACKPINE": {
+   "uniq": 105,
+   "uFFFD": 0,
+   "both": 105,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 106,
+   "oldBad": 1,
+   "oldRows": 206,
+   "pages": 3,
+   "err": null
+  },
+  "BRATIX": {
+   "uniq": 509,
+   "uFFFD": 0,
+   "both": 316,
+   "onlyOld": 1,
+   "onlyNew": 193,
+   "oldUniq": 317,
+   "oldBad": 1,
+   "oldRows": 500,
+   "pages": 10,
+   "err": null
+  },
+  "BUCK": {
+   "uniq": 139,
+   "uFFFD": 0,
+   "both": 138,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 139,
+   "oldBad": 1,
+   "oldRows": 328,
+   "pages": 6,
+   "err": null
+  },
+  "DEAD_ALIVE": {
+   "uniq": 272,
+   "uFFFD": 0,
+   "both": 271,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 272,
+   "oldBad": 1,
+   "oldRows": 317,
+   "pages": 4,
+   "err": null
+  },
+  "DEAD_WATER": {
+   "uniq": 335,
+   "uFFFD": 0,
+   "both": 258,
+   "onlyOld": 1,
+   "onlyNew": 77,
+   "oldUniq": 259,
+   "oldBad": 1,
+   "oldRows": 489,
+   "pages": 8,
+   "err": null
+  },
+  "DEATH_CAME_TO_DINNER": {
+   "uniq": 545,
+   "uFFFD": 0,
+   "both": 302,
+   "onlyOld": 1,
+   "onlyNew": 243,
+   "oldUniq": 303,
+   "oldBad": 1,
+   "oldRows": 480,
+   "pages": 10,
+   "err": null
+  },
+  "GLITCH_DAY": {
+   "uniq": 1092,
+   "uFFFD": 0,
+   "both": 255,
+   "onlyOld": 1,
+   "onlyNew": 837,
+   "oldUniq": 256,
+   "oldBad": 1,
+   "oldRows": 499,
+   "pages": 28,
+   "err": null
+  },
+  "HWANDO_SEOL": {
+   "uniq": 308,
+   "uFFFD": 0,
+   "both": 240,
+   "onlyOld": 1,
+   "onlyNew": 68,
+   "oldUniq": 241,
+   "oldBad": 1,
+   "oldRows": 493,
+   "pages": 11,
+   "err": null
+  },
+  "ICONIC_BETA": {
+   "uniq": 289,
+   "uFFFD": 0,
+   "both": 256,
+   "onlyOld": 1,
+   "onlyNew": 33,
+   "oldUniq": 257,
+   "oldBad": 1,
+   "oldRows": 473,
+   "pages": 7,
+   "err": null
+  },
+  "IT_S_ME": {
+   "uniq": 72,
+   "uFFFD": 0,
+   "both": 71,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 72,
+   "oldBad": 1,
+   "oldRows": 112,
+   "pages": 2,
+   "err": null
+  },
+  "KARKINOS": {
+   "uniq": 272,
+   "uFFFD": 0,
+   "both": 160,
+   "onlyOld": 1,
+   "onlyNew": 112,
+   "oldUniq": 161,
+   "oldBad": 1,
+   "oldRows": 396,
+   "pages": 8,
+   "err": null
+  },
+  "KNOCK_KNOCK_KNOCK": {
+   "uniq": 117,
+   "uFFFD": 0,
+   "both": 116,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 117,
+   "oldBad": 1,
+   "oldRows": 168,
+   "pages": 2,
+   "err": null
+  },
+  "MINA_ONE_MORE_LIFE": {
+   "uniq": 565,
+   "uFFFD": 0,
+   "both": 310,
+   "onlyOld": 1,
+   "onlyNew": 255,
+   "oldUniq": 311,
+   "oldBad": 1,
+   "oldRows": 416,
+   "pages": 10,
+   "err": null
+  },
+  "MODEL_CITIZEN": {
+   "uniq": 689,
+   "uFFFD": 0,
+   "both": 286,
+   "onlyOld": 1,
+   "onlyNew": 403,
+   "oldUniq": 287,
+   "oldBad": 1,
+   "oldRows": 500,
+   "pages": 12,
+   "err": null
+  },
+  "NAHUAL_A_STORY_FROM_LA_HUASTECA": {
+   "uniq": 785,
+   "uFFFD": 0,
+   "both": 257,
+   "onlyOld": 1,
+   "onlyNew": 528,
+   "oldUniq": 258,
+   "oldBad": 1,
+   "oldRows": 375,
+   "pages": 15,
+   "err": null
+  },
+  "NINE_LIVES_AI_FILM_FESTIVAL": {
+   "uniq": 142,
+   "uFFFD": 0,
+   "both": 142,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 143,
+   "oldBad": 1,
+   "oldRows": 209,
+   "pages": 3,
+   "err": null
+  },
+  "NOT_A_MONSTER_MOVIE_A_ONE_TAKE_FILM": {
+   "uniq": 112,
+   "uFFFD": 0,
+   "both": 111,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 112,
+   "oldBad": 1,
+   "oldRows": 123,
+   "pages": 2,
+   "err": null
+  },
+  "ONCE_A_KITTEN": {
+   "uniq": 1432,
+   "uFFFD": 0,
+   "both": 304,
+   "onlyOld": 1,
+   "onlyNew": 1128,
+   "oldUniq": 305,
+   "oldBad": 1,
+   "oldRows": 466,
+   "pages": 26,
+   "err": null
+  },
+  "OVERBOARD": {
+   "uniq": 335,
+   "uFFFD": 0,
+   "both": 335,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 336,
+   "oldBad": 1,
+   "oldRows": 498,
+   "pages": 5,
+   "err": null
+  },
+  "OVERCLOCK": {
+   "uniq": 665,
+   "uFFFD": 0,
+   "both": 273,
+   "onlyOld": 1,
+   "onlyNew": 392,
+   "oldUniq": 274,
+   "oldBad": 1,
+   "oldRows": 438,
+   "pages": 12,
+   "err": null
+  },
+  "RAYEN": {
+   "uniq": 52,
+   "uFFFD": 0,
+   "both": 51,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 52,
+   "oldBad": 1,
+   "oldRows": 104,
+   "pages": 2,
+   "err": null
+  },
+  "REROUTING": {
+   "uniq": 763,
+   "uFFFD": 0,
+   "both": 320,
+   "onlyOld": 1,
+   "onlyNew": 443,
+   "oldUniq": 321,
+   "oldBad": 1,
+   "oldRows": 486,
+   "pages": 13,
+   "err": null
+  },
+  "RUBY": {
+   "uniq": 404,
+   "uFFFD": 0,
+   "both": 403,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 404,
+   "oldBad": 1,
+   "oldRows": 561,
+   "pages": 8,
+   "err": null
+  },
+  "SAMPO": {
+   "uniq": 296,
+   "uFFFD": 0,
+   "both": 296,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 297,
+   "oldBad": 1,
+   "oldRows": 451,
+   "pages": 5,
+   "err": null
+  },
+  "SNAP": {
+   "uniq": 618,
+   "uFFFD": 0,
+   "both": 260,
+   "onlyOld": 1,
+   "onlyNew": 358,
+   "oldUniq": 261,
+   "oldBad": 1,
+   "oldRows": 369,
+   "pages": 11,
+   "err": null
+  },
+  "STREET_FOOD": {
+   "uniq": 1129,
+   "uFFFD": 0,
+   "both": 378,
+   "onlyOld": 1,
+   "onlyNew": 751,
+   "oldUniq": 379,
+   "oldBad": 1,
+   "oldRows": 481,
+   "pages": 16,
+   "err": null
+  },
+  "STUFFY_SYNTH": {
+   "uniq": 551,
+   "uFFFD": 0,
+   "both": 341,
+   "onlyOld": 1,
+   "onlyNew": 210,
+   "oldUniq": 342,
+   "oldBad": 1,
+   "oldRows": 428,
+   "pages": 9,
+   "err": null
+  },
+  "THE_COLLECTOR": {
+   "uniq": 282,
+   "uFFFD": 0,
+   "both": 281,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 282,
+   "oldBad": 1,
+   "oldRows": 306,
+   "pages": 4,
+   "err": null
+  },
+  "THE_GRAVE": {
+   "uniq": 376,
+   "uFFFD": 0,
+   "both": 303,
+   "onlyOld": 1,
+   "onlyNew": 73,
+   "oldUniq": 304,
+   "oldBad": 1,
+   "oldRows": 433,
+   "pages": 7,
+   "err": null
+  },
+  "THE_LAST_BIT": {
+   "uniq": 212,
+   "uFFFD": 0,
+   "both": 70,
+   "onlyOld": 1,
+   "onlyNew": 142,
+   "oldUniq": 71,
+   "oldBad": 1,
+   "oldRows": 498,
+   "pages": 17,
+   "err": null
+  },
+  "THE_LEGEND_OF_VANARA": {
+   "uniq": 184,
+   "uFFFD": 0,
+   "both": 183,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 184,
+   "oldBad": 1,
+   "oldRows": 244,
+   "pages": 3,
+   "err": null
+  },
+  "UNCOUNTED": {
+   "uniq": 245,
+   "uFFFD": 0,
+   "both": 245,
+   "onlyOld": 1,
+   "onlyNew": 0,
+   "oldUniq": 246,
+   "oldBad": 1,
+   "oldRows": 416,
+   "pages": 5,
+   "err": null
+  },
+  "WHAT_DO_YOU_NEED_ME_FOR": {
+   "uniq": 261,
+   "uFFFD": 0,
+   "both": 260,
+   "onlyOld": 1,
+   "onlyNew": 1,
+   "oldUniq": 261,
+   "oldBad": 1,
+   "oldRows": 301,
+   "pages": 5,
+   "err": null
+  }
+ },
+ "results": {
+  "333": {
+   "ok": true,
+   "uniq": 626,
+   "uFFFD": 0
+  },
+  "9091": {
+   "ok": true,
+   "uniq": 307,
+   "uFFFD": 0
+  },
+  "REVOLUTION": {
+   "ok": true,
+   "uniq": 703,
+   "uFFFD": 0
+  },
+  "ORDER_OF_ASH": {
+   "ok": true,
+   "uniq": 1211,
+   "uFFFD": 0
+  },
+  "THE_FILTER": {
+   "ok": true,
+   "uniq": 301,
+   "uFFFD": 0
+  },
+  "HONOR": {
+   "ok": true,
+   "uniq": 439,
+   "uFFFD": 0
+  },
+  "NAMED_FOR_HIM": {
+   "ok": true,
+   "uniq": 661,
+   "uFFFD": 0
+  },
+  "YINGNING": {
+   "ok": true,
+   "uniq": 815,
+   "uFFFD": 0
+  },
+  "14_DAYS": {
+   "ok": true,
+   "uniq": 129,
+   "uFFFD": 0
+  },
+  "MORTAL_KOMBAT_ARC_SERIES": {
+   "ok": true,
+   "uniq": 112,
+   "uFFFD": 0
+  },
+  "SPANNERGIRL": {
+   "ok": true,
+   "uniq": 437,
+   "uFFFD": 0
+  },
+  "THE_DIVERGION": {
+   "ok": true,
+   "uniq": 753,
+   "uFFFD": 0
+  },
+  "FOUND_ME": {
+   "ok": true,
+   "uniq": 936,
+   "uFFFD": 0
+  },
+  "PLAY_ANYWAY": {
+   "ok": true,
+   "uniq": 741,
+   "uFFFD": 0
+  },
+  "UNHEARD": {
+   "ok": true,
+   "uniq": 227,
+   "uFFFD": 0
+  },
+  "SIDE_BY_SIDE": {
+   "ok": true,
+   "uniq": 384,
+   "uFFFD": 0
+  },
+  "HERO": {
+   "ok": true,
+   "uniq": 1020,
+   "uFFFD": 0
+  },
+  "WORD_VS_WORLD": {
+   "ok": true,
+   "uniq": 137,
+   "uFFFD": 0
+  },
+  "FLY": {
+   "ok": true,
+   "uniq": 361,
+   "uFFFD": 0
+  },
+  "HIGH_SCHOOL_TERROR": {
+   "ok": true,
+   "uniq": 378,
+   "uFFFD": 0
+  },
+  "RIFT_RIDER": {
+   "ok": true,
+   "uniq": 802,
+   "uFFFD": 0
+  },
+  "THE_LOCKED_ROOM": {
+   "ok": true,
+   "uniq": 272,
+   "uFFFD": 0
+  },
+  "NOTHING": {
+   "ok": true,
+   "uniq": 182,
+   "uFFFD": 0
+  },
+  "YIN_YANG_AGENCY_THUNDER_RISING": {
+   "ok": true,
+   "uniq": 661,
+   "uFFFD": 0
+  },
+  "BREATH": {
+   "ok": true,
+   "uniq": 235,
+   "uFFFD": 0
+  },
+  "MARUMAI_25": {
+   "ok": true,
+   "uniq": 212,
+   "uFFFD": 0
+  },
+  "NEUROVERSE_STILL_AGLOW": {
+   "ok": true,
+   "uniq": 391,
+   "uFFFD": 0
+  },
+  "OUT_OF_CREDITS": {
+   "ok": true,
+   "uniq": 725,
+   "uFFFD": 0
+  },
+  "WHAT_IS_LEFT_IS_WIND": {
+   "ok": true,
+   "uniq": 375,
+   "uFFFD": 0
+  },
+  "CAMPING": {
+   "ok": true,
+   "uniq": 80,
+   "uFFFD": 0
+  },
+  "ECLIPSE": {
+   "ok": true,
+   "uniq": 292,
+   "uFFFD": 0
+  },
+  "DREAMER_THE_OTHER_YOU": {
+   "ok": true,
+   "uniq": 237,
+   "uFFFD": 0
+  },
+  "AFTER_HOURS": {
+   "ok": true,
+   "uniq": 76,
+   "uFFFD": 0
+  },
+  "THE_LAST_THING_SHE_HELD": {
+   "ok": true,
+   "uniq": 141,
+   "uFFFD": 0
+  },
+  "BLESTYASHCHEE_NEVEZHESTVO": {
+   "ok": true,
+   "uniq": 286,
+   "uFFFD": 0
+  },
+  "EDEN": {
+   "ok": true,
+   "uniq": 1345,
+   "uFFFD": 0
+  },
+  "MARCEL_S_HEART": {
+   "ok": true,
+   "uniq": 729,
+   "uFFFD": 0
+  },
+  "TOKYO_DRIFT": {
+   "ok": true,
+   "uniq": 33,
+   "uFFFD": 0
+  },
+  "NAME_IS_COMET": {
+   "ok": true,
+   "uniq": 121,
+   "uFFFD": 0
+  },
+  "ASHES_OF_FREEDOM": {
+   "ok": true,
+   "uniq": 390,
+   "uFFFD": 0
+  },
+  "THE_SECOND_HAND": {
+   "ok": true,
+   "uniq": 321,
+   "uFFFD": 0
+  },
+  "AZTEC_REVOLT_ESCAPING_TENOCHTITLAN": {
+   "ok": true,
+   "uniq": 1069,
+   "uFFFD": 0
+  },
+  "EASY_TARGET": {
+   "ok": true,
+   "uniq": 281,
+   "uFFFD": 0
+  },
+  "THE_WEEKEND": {
+   "ok": true,
+   "uniq": 144,
+   "uFFFD": 0
+  },
+  "100_MILLION_RAT": {
+   "ok": true,
+   "uniq": 392,
+   "uFFFD": 0
+  },
+  "AND_STILL_LIFE": {
+   "ok": true,
+   "uniq": 252,
+   "uFFFD": 0
+  },
+  "MADSEASON": {
+   "ok": true,
+   "uniq": 612,
+   "uFFFD": 0
+  },
+  "TAGE_7": {
+   "ok": true,
+   "uniq": 353,
+   "uFFFD": 0
+  },
+  "SHARDS_OF_WHEN": {
+   "ok": true,
+   "uniq": 434,
+   "uFFFD": 0
+  },
+  "SITARA": {
+   "ok": true,
+   "uniq": 596,
+   "uFFFD": 0
+  },
+  "SKIN_TRADE": {
+   "ok": true,
+   "uniq": 563,
+   "uFFFD": 0
+  },
+  "ARKYN": {
+   "ok": true,
+   "uniq": 1380,
+   "uFFFD": 0
+  },
+  "NOKU": {
+   "ok": true,
+   "uniq": 1845,
+   "uFFFD": 0
+  },
+  "ORDINARY_DAY": {
+   "ok": true,
+   "uniq": 542,
+   "uFFFD": 0
+  },
+  "REVELATION": {
+   "ok": true,
+   "uniq": 95,
+   "uFFFD": 0
+  },
+  "ROAR": {
+   "ok": true,
+   "uniq": 232,
+   "uFFFD": 0
+  },
+  "THE_BALLOON": {
+   "ok": true,
+   "uniq": 181,
+   "uFFFD": 0
+  },
+  "1916_WORLD_WAR": {
+   "ok": true,
+   "uniq": 339,
+   "uFFFD": 0
+  },
+  "A_LONG_LUNCH": {
+   "ok": true,
+   "uniq": 665,
+   "uFFFD": 0
+  },
+  "ON_THIN_ICE": {
+   "ok": true,
+   "uniq": 693,
+   "uFFFD": 0
+  },
+  "PERSISTENCE": {
+   "ok": true,
+   "uniq": 546,
+   "uFFFD": 0
+  },
+  "SEA_OF_FOG": {
+   "ok": true,
+   "uniq": 525,
+   "uFFFD": 0
+  },
+  "SUMMONED": {
+   "ok": true,
+   "uniq": 614,
+   "uFFFD": 0
+  },
+  "THE_SEVENTH_LOOP": {
+   "ok": true,
+   "uniq": 895,
+   "uFFFD": 0
+  },
+  "AA_MEETING": {
+   "ok": true,
+   "uniq": 449,
+   "uFFFD": 0
+  },
+  "BIOSCOPE": {
+   "ok": true,
+   "uniq": 963,
+   "uFFFD": 0
+  },
+  "CHORNOS_THE_CHOSEN": {
+   "ok": true,
+   "uniq": 461,
+   "uFFFD": 0
+  },
+  "DEEP_CLEAN": {
+   "ok": true,
+   "uniq": 191,
+   "uFFFD": 0
+  },
+  "GREEN_FLAG": {
+   "ok": true,
+   "uniq": 220,
+   "uFFFD": 0
+  },
+  "HERU_OUTSIDE_THE_FEED": {
+   "ok": true,
+   "uniq": 173,
+   "uFFFD": 0
+  },
+  "IN_S": {
+   "ok": true,
+   "uniq": 631,
+   "uFFFD": 0
+  },
+  "LONG_SIGH": {
+   "ok": true,
+   "uniq": 888,
+   "uFFFD": 0
+  },
+  "MEMORY_THIEF": {
+   "ok": true,
+   "uniq": 313,
+   "uFFFD": 0
+  },
+  "OCEAN": {
+   "ok": true,
+   "uniq": 46,
+   "uFFFD": 0
+  },
+  "PHOTO_IN_PARIS": {
+   "ok": true,
+   "uniq": 263,
+   "uFFFD": 0
+  },
+  "SIDE_B": {
+   "ok": true,
+   "uniq": 501,
+   "uFFFD": 0
+  },
+  "THE_LAST_RIDE": {
+   "ok": true,
+   "uniq": 230,
+   "uFFFD": 0
+  },
+  "THE_ONE_THAT_LOOKED": {
+   "ok": true,
+   "uniq": 800,
+   "uFFFD": 0
+  },
+  "WITHIN": {
+   "ok": true,
+   "uniq": 528,
+   "uFFFD": 0
+  },
+  "MEMORY_WORLD": {
+   "ok": true,
+   "uniq": 1014,
+   "uFFFD": 0
+  },
+  "PLUS_INTEREST": {
+   "ok": true,
+   "uniq": 509,
+   "uFFFD": 0
+  },
+  "RELIC": {
+   "ok": true,
+   "uniq": 416,
+   "uFFFD": 0
+  },
+  "TOP_UP_CINEMATIC_AD_BREAKDOWN": {
+   "ok": true,
+   "uniq": 74,
+   "uFFFD": 0
+  },
+  "VESPER": {
+   "ok": true,
+   "uniq": 297,
+   "uFFFD": 0
+  },
+  "APOCALYPSE_SQUAD": {
+   "ok": true,
+   "uniq": 192,
+   "uFFFD": 0
+  },
+  "BEHIND_THE_LENS": {
+   "ok": true,
+   "uniq": 421,
+   "uFFFD": 0
+  },
+  "BRAMBLE": {
+   "ok": true,
+   "uniq": 129,
+   "uFFFD": 0
+  },
+  "CAMEL": {
+   "ok": true,
+   "uniq": 176,
+   "uFFFD": 0
+  },
+  "CLEAR_INTENTION": {
+   "ok": true,
+   "uniq": 467,
+   "uFFFD": 0
+  },
+  "DEMENTIA": {
+   "ok": true,
+   "uniq": 268,
+   "uFFFD": 0
+  },
+  "H2O": {
+   "ok": true,
+   "uniq": 604,
+   "uFFFD": 0
+  },
+  "HOPE": {
+   "ok": true,
+   "uniq": 232,
+   "uFFFD": 0
+  },
+  "HORSELESS": {
+   "ok": true,
+   "uniq": 449,
+   "uFFFD": 0
+  },
+  "HUMAN_ERROR": {
+   "ok": true,
+   "uniq": 297,
+   "uFFFD": 0
+  },
+  "INDIGO": {
+   "ok": true,
+   "uniq": 324,
+   "uFFFD": 0
+  },
+  "KADHAA_2155": {
+   "ok": true,
+   "uniq": 351,
+   "uFFFD": 0
+  },
+  "KARNA": {
+   "ok": true,
+   "uniq": 837,
+   "uFFFD": 0
+  },
+  "MARCO_POLO": {
+   "ok": true,
+   "uniq": 138,
+   "uFFFD": 0
+  },
+  "MARIA_MARIA": {
+   "ok": true,
+   "uniq": 386,
+   "uFFFD": 0
+  },
+  "MY_WAY_NAVILLUS": {
+   "ok": true,
+   "uniq": 157,
+   "uFFFD": 0
+  },
+  "NATIVE": {
+   "ok": true,
+   "uniq": 418,
+   "uFFFD": 0
+  },
+  "OEDIPUS": {
+   "ok": true,
+   "uniq": 91,
+   "uFFFD": 0
+  },
+  "ONE_DAY_AT_A_TIME": {
+   "ok": true,
+   "uniq": 270,
+   "uFFFD": 0
+  },
+  "ONE_THE_MERCY_LEDGER": {
+   "ok": true,
+   "uniq": 1517,
+   "uFFFD": 0
+  },
+  "OOPS_FIRST_CONTACT": {
+   "ok": true,
+   "uniq": 1135,
+   "uFFFD": 0
+  },
+  "PON": {
+   "ok": true,
+   "uniq": 221,
+   "uFFFD": 0
+  },
+  "PROPHECY_IN_2047": {
+   "ok": true,
+   "uniq": 761,
+   "uFFFD": 0
+  },
+  "QUEEN_NOIR": {
+   "ok": true,
+   "uniq": 64,
+   "uFFFD": 0
+  },
+  "RISE_OF_AN_EMPIRE_BY_HOUSE_OF_DI_LORENZO": {
+   "ok": true,
+   "uniq": 584,
+   "uFFFD": 0
+  },
+  "SUNRISE_THE_PROLOGUE": {
+   "ok": true,
+   "uniq": 656,
+   "uFFFD": 0
+  },
+  "SUPER_SENIORS": {
+   "ok": true,
+   "uniq": 935,
+   "uFFFD": 0
+  },
+  "S_T_E_V_E": {
+   "ok": true,
+   "uniq": 1361,
+   "uFFFD": 0
+  },
+  "THE_APPLE": {
+   "ok": true,
+   "uniq": 1120,
+   "uFFFD": 0
+  },
+  "THE_BREACH": {
+   "ok": true,
+   "uniq": 501,
+   "uFFFD": 0
+  },
+  "THE_FESTIVAL": {
+   "ok": true,
+   "uniq": 102,
+   "uFFFD": 0
+  },
+  "THE_HOST": {
+   "ok": true,
+   "uniq": 567,
+   "uFFFD": 0
+  },
+  "THE_LAST_OATH": {
+   "ok": true,
+   "uniq": 738,
+   "uFFFD": 0
+  },
+  "THE_MOUNTAIN_KEEPS": {
+   "ok": true,
+   "uniq": 724,
+   "uFFFD": 0
+  },
+  "THE_WORLD_WORTH_LIVING_IN": {
+   "ok": true,
+   "uniq": 223,
+   "uFFFD": 0
+  },
+  "THE_ZERO_LINE": {
+   "ok": true,
+   "uniq": 996,
+   "uFFFD": 0
+  },
+  "TOKYO_4_17": {
+   "ok": true,
+   "uniq": 84,
+   "uFFFD": 0
+  },
+  "TO_LIVE_ANOTHER_MORNING": {
+   "ok": true,
+   "uniq": 178,
+   "uFFFD": 0
+  },
+  "TWO_DAYS": {
+   "ok": true,
+   "uniq": 1047,
+   "uFFFD": 0
+  },
+  "UNSENT": {
+   "ok": true,
+   "uniq": 755,
+   "uFFFD": 0
+  },
+  "VORTEX": {
+   "ok": true,
+   "uniq": 1254,
+   "uFFFD": 0
+  },
+  "WELCOME_TO_THE_TEAM": {
+   "ok": true,
+   "uniq": 425,
+   "uFFFD": 0
+  },
+  "WHERE_LETTERS_FALL": {
+   "ok": true,
+   "uniq": 151,
+   "uFFFD": 0
+  },
+  "APEIROPHOBIA": {
+   "ok": true,
+   "uniq": 1689,
+   "uFFFD": 0
+  },
+  "ATHERIA": {
+   "ok": true,
+   "uniq": 128,
+   "uFFFD": 0
+  },
+  "A_LIFE": {
+   "ok": true,
+   "uniq": 893,
+   "uFFFD": 0
+  },
+  "A_YEAR_LATER": {
+   "ok": true,
+   "uniq": 596,
+   "uFFFD": 0
+  },
+  "BLACKPINE": {
+   "ok": true,
+   "uniq": 105,
+   "uFFFD": 0
+  },
+  "BRATIX": {
+   "ok": true,
+   "uniq": 509,
+   "uFFFD": 0
+  },
+  "BUCK": {
+   "ok": true,
+   "uniq": 139,
+   "uFFFD": 0
+  },
+  "DEAD_ALIVE": {
+   "ok": true,
+   "uniq": 272,
+   "uFFFD": 0
+  },
+  "DEAD_WATER": {
+   "ok": true,
+   "uniq": 335,
+   "uFFFD": 0
+  },
+  "DEATH_CAME_TO_DINNER": {
+   "ok": true,
+   "uniq": 545,
+   "uFFFD": 0
+  },
+  "GLITCH_DAY": {
+   "ok": true,
+   "uniq": 1092,
+   "uFFFD": 0
+  },
+  "HWANDO_SEOL": {
+   "ok": true,
+   "uniq": 308,
+   "uFFFD": 0
+  },
+  "ICONIC_BETA": {
+   "ok": true,
+   "uniq": 289,
+   "uFFFD": 0
+  },
+  "IT_S_ME": {
+   "ok": true,
+   "uniq": 72,
+   "uFFFD": 0
+  },
+  "KARKINOS": {
+   "ok": true,
+   "uniq": 272,
+   "uFFFD": 0
+  },
+  "KNOCK_KNOCK_KNOCK": {
+   "ok": true,
+   "uniq": 117,
+   "uFFFD": 0
+  },
+  "MINA_ONE_MORE_LIFE": {
+   "ok": true,
+   "uniq": 565,
+   "uFFFD": 0
+  },
+  "MODEL_CITIZEN": {
+   "ok": true,
+   "uniq": 689,
+   "uFFFD": 0
+  },
+  "NAHUAL_A_STORY_FROM_LA_HUASTECA": {
+   "ok": true,
+   "uniq": 785,
+   "uFFFD": 0
+  },
+  "NINE_LIVES_AI_FILM_FESTIVAL": {
+   "ok": true,
+   "uniq": 142,
+   "uFFFD": 0
+  },
+  "NOT_A_MONSTER_MOVIE_A_ONE_TAKE_FILM": {
+   "ok": true,
+   "uniq": 112,
+   "uFFFD": 0
+  },
+  "ONCE_A_KITTEN": {
+   "ok": true,
+   "uniq": 1432,
+   "uFFFD": 0
+  },
+  "OVERBOARD": {
+   "ok": true,
+   "uniq": 335,
+   "uFFFD": 0
+  },
+  "OVERCLOCK": {
+   "ok": true,
+   "uniq": 665,
+   "uFFFD": 0
+  },
+  "RAYEN": {
+   "ok": true,
+   "uniq": 52,
+   "uFFFD": 0
+  },
+  "REROUTING": {
+   "ok": true,
+   "uniq": 763,
+   "uFFFD": 0
+  },
+  "RUBY": {
+   "ok": true,
+   "uniq": 404,
+   "uFFFD": 0
+  },
+  "SAMPO": {
+   "ok": true,
+   "uniq": 296,
+   "uFFFD": 0
+  },
+  "SNAP": {
+   "ok": true,
+   "uniq": 618,
+   "uFFFD": 0
+  },
+  "STREET_FOOD": {
+   "ok": true,
+   "uniq": 1129,
+   "uFFFD": 0
+  },
+  "STUFFY_SYNTH": {
+   "ok": true,
+   "uniq": 551,
+   "uFFFD": 0
+  },
+  "THE_COLLECTOR": {
+   "ok": true,
+   "uniq": 282,
+   "uFFFD": 0
+  },
+  "THE_GRAVE": {
+   "ok": true,
+   "uniq": 376,
+   "uFFFD": 0
+  },
+  "THE_LAST_BIT": {
+   "ok": true,
+   "uniq": 212,
+   "uFFFD": 0
+  },
+  "THE_LEGEND_OF_VANARA": {
+   "ok": true,
+   "uniq": 184,
+   "uFFFD": 0
+  },
+  "UNCOUNTED": {
+   "ok": true,
+   "uniq": 245,
+   "uFFFD": 0
+  },
+  "WHAT_DO_YOU_NEED_ME_FOR": {
+   "ok": true,
+   "uniq": 261,
+   "uFFFD": 0
+  }
+ }
+}

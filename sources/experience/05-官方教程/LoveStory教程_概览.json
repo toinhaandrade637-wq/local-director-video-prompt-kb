@@ -1,0 +1,122 @@
+{
+  "source": "https://higgsfield.ai/@adilinthewild/blogs/youtube-guide-ai-lovestory-video",
+  "title": "How to Create AI Love Stories (Full Tutorial)",
+  "author": "@adilinthewild",
+  "date": "2026-08-21",
+  "type": "经验类（教程/Guide）—— 自带完整可复制提示词体系",
+  "status": "原始资料已保存，待深加工为方法论与 Skill（官方项目批次完成后处理）",
+  "pipeline": {
+    "character_sheets": "Seedream 5.0 Pro",
+    "locations": "Soul Cinema",
+    "scale_sketch": "GPT Image 2",
+    "every_scene": "Seedance 2.5",
+    "prompt_writer": "作者发布的 Claude Skill: higgsfield-seedance-prompt-builder.md（官网可下载）"
+  },
+  "key_techniques": [
+    "资产先行：角色表/场景/巨人在所有场景前锁定（1905港口到最终帧的一致性来源）",
+    "真实人脸混合：生成角色表后，把真人照片贴到肖像面板 —— 让脸读成真实本人而非像",
+    "风格头复用：每个场景提示词复用同一个技术块（同样光学同样调色），六个时代剪成一部片",
+    "SCENE ENGINE：GOAL/OBSTACLE/TACTIC/REVERSAL/VALUE SHIFT 五段叙事引擎写进视频提示词",
+    "手绘分镜图作为资产：@storyboard1-3 手绘镜头草图直接当参考图喂给模型",
+    "@元素命名同步：Claude 提示词里的元素名 = Higgsfield Elements 里上传的资产名"
+  ],
+  "structure": {
+    "stage1_assets": [
+      "Nate 角色表",
+      "Aila 角色表",
+      "The Harbor 场景",
+      "The Scale Sketch 比例草图",
+      "The Carnival Square + 群众"
+    ],
+    "stage2_framework": "元素清单 + Skill 用法（Claude 写提示词 → Higgsfield 执行）",
+    "stage3_scenes": [
+      "Scene 1 Harbor(11镜头22秒)",
+      "Scene 2 Fight",
+      "Scene 2 Queens Box",
+      "Scene 3 Train(16镜头西部劫车)",
+      "Scene 4 Boarding(海盗登船)",
+      "Scene 4 Duel(决斗喜剧)",
+      "Scene 5 Parade",
+      "Scene 5 Search",
+      "Scene 5 Touch",
+      "Scene 6 Elevator(现代终章)"
+    ]
+  },
+  "prompts": [
+    {
+      "index": 1,
+      "header": "What it does: Generates a three-panel character sheet of the male lead as a 1900",
+      "length": 2803
+    },
+    {
+      "index": 2,
+      "header": "What it does: Generates her matching three-panel sheet — a late-1800s traveler w",
+      "length": 4110
+    },
+    {
+      "index": 3,
+      "header": "What it does: Generates the empty 1905 pier master plate with the sun pinned in ",
+      "length": 2203
+    },
+    {
+      "index": 4,
+      "header": "What it does: Generates a pencil scale sketch of the giant and the boy; fed back",
+      "length": 3056
+    },
+    {
+      "index": 5,
+      "header": "What it does: Generates the night carnival piazza with the costumed crowd baked ",
+      "length": 3810
+    },
+    {
+      "index": 6,
+      "header": "What it does: Animates the full 11-shot harbor sequence, from the seagull fly-in",
+      "length": 15816
+    },
+    {
+      "index": 7,
+      "header": "What it does: Animates the giant fight — the throw, the sword snatch and the tak",
+      "length": 18938
+    },
+    {
+      "index": 8,
+      "header": "What it does: Animates the acting half of the arena scene in 8 cuts: her hidden ",
+      "length": 12231
+    },
+    {
+      "index": 9,
+      "header": "What it does: Animates the 16-shot western train robbery, with three hand-drawn ",
+      "length": 19866
+    },
+    {
+      "index": 10,
+      "header": "What it does: Animates the 9-cut pirate boarding, from the spyglass hand-off to ",
+      "length": 3974
+    },
+    {
+      "index": 11,
+      "header": "What it does: Animates the 15-second comedy duel beat — split from the boarding ",
+      "length": 3908
+    },
+    {
+      "index": 12,
+      "header": "What it does: Animates the opening of the masked ball, ending on her one deliber",
+      "length": 13921
+    },
+    {
+      "index": 13,
+      "header": "What it does: Animates the crossroad beat: the two leads separated by an endless",
+      "length": 12768
+    },
+    {
+      "index": 14,
+      "header": "What it does: Animates the payoff: her search, the stop, and the slow-motion fin",
+      "length": 17420
+    },
+    {
+      "index": 15,
+      "header": "What it does: Animates the modern-day finale, with the hummed melody riding an a",
+      "length": 20383
+    }
+  ]
+}

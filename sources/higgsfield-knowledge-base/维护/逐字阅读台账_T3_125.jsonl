@@ -1,0 +1,499 @@
+{"project":"MEMORY_THIEF","idx":1,"sha8":"87bb3ef4","len":9505,"nTasks":1,"models":"default","read":true,"findings":"9,505c **NEW INDEPENDENT SHOT 四禁继承**：Scene Type: **NEW INDEPENDENT SHOT — NOT A SEQUEL**…**Do NOT continue from, interpolate from, reconstruct, or visually inherit any previous video**——独立镜头+四禁继承（vs Direct sequel 双模式并存）"}
+{"project":"MEMORY_THIEF","idx":2,"sha8":"f0ddc8ae","len":19542,"nTasks":1,"models":"video_extension","read":true,"findings":"19,542c **叙事续集 vs 帧续接双模式**：Create a narrative sequel to Video 1 using a clean hard cut. **Do not continue, extend or interpolate from Video 1's final frame. Begin with a newly composed interior shot**——叙事续集（非帧续接）"}
+{"project":"MEMORY_THIEF","idx":3,"sha8":"3c694f33","len":4030,"nTasks":1,"models":"video_extension","read":true,"findings":"4,030c **Generation B1 命名+生成文件名引用首例**：**Generation B1 — Break the Choke**…Input video: VIDEO 1 — **fix ear attempt.mp4**——Generation 字母编号+引号动作名+生成文件名（迭代痕迹 fix ear attempt）"}
+{"project":"MEMORY_THIEF","idx":4,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":5,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":6,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":7,"sha8":"9af38d5d","len":13000,"nTasks":1,"models":"video_extension","read":true,"findings":"13,000c **Generation F — \"Finish Him\"**：**Generation F — \"Finish Him\"**…Tone: **Psychological cruelty escalating into sudden physical violence**——引号动作名+心理残忍→突然暴力"}
+{"project":"MEMORY_THIEF","idx":8,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":9,"sha8":"120a4d1e","len":15587,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":10,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":11,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":12,"sha8":"cd578f6b","len":9333,"nTasks":1,"models":"video_extension","read":true,"findings":"9,333c **Agreed 元对话+Chapter 编号**：**Agreed. Jane should remain a background source of urgency.**…**the dramatic focus now belongs to Carls and the magnate. Chapter 05 — Fatal Finale. Generation A — \"I Paid for Her\"**——对话式元调整+WELCOME 同款诊断文本+Chapter 章名+引号动作名"}
+{"project":"MEMORY_THIEF","idx":13,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":14,"sha8":"4d6f23c6","len":8545,"nTasks":1,"models":"video_extension","read":true,"findings":"8,545c **The Third Floor 场名**：Scene — **\"The Third Floor\"**…**the lift doors are already fully closed**——三楼场名+电梯门已关"}
+{"project":"MEMORY_THIEF","idx":15,"sha8":"6aa70b15","len":11082,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":16,"sha8":"a9fa23b6","len":379,"nTasks":1,"models":"null","read":true,"findings":"379c **独白文本块首例（记忆窃贼背景）**：**The truth is… I don't know my real name.** For reasons I don't understand, **I donate most of my contract money to the Heart Disease Assistance Fund. I feel compelled to do it—but I don't remember why.** Five years ago, **I woke up alone in a ruined laboratory.** I had no name. No past. I remembered how to operate the Memory Device. **but not who invented it. or what it had taken from me.**——独白叙事块"}
+{"project":"MEMORY_THIEF","idx":17,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":18,"sha8":"fae09fc9","len":6943,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":19,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":20,"sha8":"120a4d1e","len":15587,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":21,"sha8":"8ceac37f","len":12016,"nTasks":1,"models":"video_extension","read":true,"findings":"12,016c **c3s14.mp4 文件名续接首例**：Continue directly from the exact final frame of **c3s14.mp4**. Carls is trapped inside dense traffic approaching a **red signal**…sees a grey cr(oss)——章节场景文件名制（c3s14=Ch3 Scene14）"}
+{"project":"MEMORY_THIEF","idx":22,"sha8":"044f2d5a","len":9615,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":23,"sha8":"12a023d1","len":21999,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":24,"sha8":"79112890","len":16086,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":25,"sha8":"9439bb1f","len":16481,"nTasks":1,"models":"video_extension","read":true,"findings":"16,481c **蓝电记忆粒子+30 秒长**：**Electric-blue memory particles flow from Carls's Memory Device**…Tone: **Murderous anger interrupted by recognition and compassion**——记忆可视化+情绪弧声明"}
+{"project":"MEMORY_THIEF","idx":26,"sha8":"0dddf6fa","len":12744,"nTasks":1,"models":"video_extension","read":true,"findings":"12,744c **Scene 2B 子场景编号**：**Scene 2B — Slip, Side Kick and Blue Ascent**…**a compact boxer's slip to evade it without activating his enhanced speed**——子场景编号（2B）+拳击侧闪+强化速度禁用"}
+{"project":"MEMORY_THIEF","idx":27,"sha8":"d6c903d5","len":46,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":28,"sha8":"01c30a89","len":15049,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":29,"sha8":"b3055ada","len":871,"nTasks":1,"models":"video_extension","read":true,"findings":"871c **Fragmented Memory 标题续集**：SEQUEL titled **\"Fragmented Memory\"**…**the blue-white electrical activation of Carls's neurological scar; the pink sensory signal**——神经疤蓝白激活+粉感官信号"}
+{"project":"MEMORY_THIEF","idx":30,"sha8":"b3070194","len":13464,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":31,"sha8":"1ef87aee","len":9096,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":32,"sha8":"d9b5ce53","len":3302,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":33,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":34,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":35,"sha8":"4581ce4d","len":39,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":36,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":37,"sha8":"ee867aa6","len":3139,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":38,"sha8":"07753844","len":2137,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":39,"sha8":"f66bf5bd","len":4638,"nTasks":1,"models":"video_extension","read":true,"findings":"4,638c **巨齿鲨战舰+DREAD ADMIRAL+蓝皮鳃颊水兵**：**THE ADMIRAL AND THE CHILD**…**DREAD ADMIRAL**: Strictly preserve…an enormous, imposing **blue-skinned abyssal humanoid, approximately 7 feet tall**…aquatic sailors from the supplied references: **blue-skinned humanoid naval soldiers with cheek gills, fin-like ears**——海底奇幻支线+7 英尺+鳃颊鳍耳"}
+{"project":"MEMORY_THIEF","idx":40,"sha8":"076b95d4","len":15013,"nTasks":1,"models":"video_extension","read":true,"findings":"15,013c **JSON project 结构首例**：{\"project\": {\"title\": \"Memory Thief - Underwater Title Sequence\", **\"model_target\": \"Seedance 2.5 Sequel\"**, \"duration_seconds\": 15, \"aspect_ratio\": \"16:9\", \"style\":…, \"shot_structure\": \"continuous sequel camera movement\", \"music\": \"none\"}, \"references\": {\"sequel_video\": {\"role\": \"**PRIMARY PHYSICAL CONTINUITY REFERENCE**\", \"instruction\":…}}}——完整 JSON 双层结构+model_target/role 键"}
+{"project":"MEMORY_THIEF","idx":41,"sha8":"72557ba7","len":3852,"nTasks":1,"models":"video_extension","read":true,"findings":"3,852c **SLUNG 三禁+时间码段名**：His rifle remains securely **SLUNG across his body throughout the entire scene. He does not raise, draw or touch the rifle.**…**0:00–0:04 — HERO APPROACHES**——背挂三禁（举/拔/触）+段名时间码"}
+{"project":"MEMORY_THIEF","idx":42,"sha8":"3e994562","len":8108,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":43,"sha8":"0487c051","len":10825,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":44,"sha8":"1265db01","len":12067,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":45,"sha8":"4ff1cb45","len":15475,"nTasks":1,"models":"video_extension","read":true,"findings":"15,475c **转义下划线痕迹首例**：**\"model_target\"**/**\"duration_seconds\"**/**\"aspect_ratio\"**/**\"shot_structure\"**——JSON 转义反斜杠（Markdown 转义痕迹）"}
+{"project":"MEMORY_THIEF","idx":46,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":47,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":48,"sha8":"6b306c78","len":2567,"nTasks":1,"models":"video_edit","read":true,"findings":"2,567c **video_edit 编号修错+禁替代**：**1. REMOVE THE ANCHOR**. Completely remove the naval anchor…**No anchor is visible anywhere in the final section. Do not replace it with another prop or object. 2. KEEP HERO'S RI(fle)**——编号修错+禁替代物"}
+{"project":"MEMORY_THIEF","idx":49,"sha8":"dec17e5c","len":13032,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":50,"sha8":"4ff1cb45","len":15475,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":51,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":52,"sha8":"9e0a65c0","len":2090,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":53,"sha8":"bb7a32a2","len":17190,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":54,"sha8":"38b84444","len":1186,"nTasks":1,"models":"default","read":true,"findings":"1,186c **storyboard 引用+dorsal-fin 指挥站**：**with reference to the storyboard** <<<image_1>>>…the curved armored wall of the **dorsal-fin command station**——分镜板引用+背鳍指挥站（战舰结构）"}
+{"project":"MEMORY_THIEF","idx":55,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":56,"sha8":"216e0213","len":6030,"nTasks":1,"models":"default","read":true,"findings":"6,030c **首尾帧桥接过渡首例**：IMAGE 1 = **EXACT FIRST FRAME**. IMAGE 2 = **EXACT LAST FRAME**…The purpose of this shot is to create **a smooth cinematic bridge between these two images. The generation MUST begin from IMAGE 1 and gradually evolve toward IMAGE 2. Do not immediately cut from underwater to Hero's face. 0:00–0:02 — ASCEND**——首尾帧桥接+渐变演化禁直切+ASCEND 段名"}
+{"project":"MEMORY_THIEF","idx":57,"sha8":"a98d686c","len":2216,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":58,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":59,"sha8":"f01550d2","len":1582,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":60,"sha8":"dbae58c7","len":1066,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":61,"sha8":"137fbe1d","len":132,"nTasks":1,"models":"default","read":true,"findings":"132c **三禁短句**：Dread Admiral says: **\"You can't win.\"** Hero remains silent. **No drop off items**——你赢不了+沉默+无交付物"}
+{"project":"MEMORY_THIEF","idx":62,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":63,"sha8":"80271c5f","len":17951,"nTasks":1,"models":"video_extension","read":true,"findings":"17,951c **The Red-Light Gap 场名+signalised junction**：Scene 12 — **\"The Red-Light Gap\"**…a large **signalised cross junction**——红绿灯间隙+信号交叉口"}
+{"project":"MEMORY_THIEF","idx":64,"sha8":"3c694f33","len":4030,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":65,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":66,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":67,"sha8":"b3e72478","len":9750,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":68,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":69,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":70,"sha8":"f0ddc8ae","len":19542,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":71,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":72,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":73,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":74,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":75,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":76,"sha8":"358aec4d","len":8482,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":77,"sha8":"5311c391","len":8422,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":78,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":79,"sha8":"3711199a","len":4154,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":80,"sha8":"3711199a","len":4154,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":81,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":82,"sha8":"dc4c2c92","len":5684,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":83,"sha8":"8313dbfd","len":16847,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":84,"sha8":"93d124b7","len":2823,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":85,"sha8":"8313dbfd","len":16847,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":86,"sha8":"be98ee8d","len":10522,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":87,"sha8":"be98ee8d","len":10522,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":88,"sha8":"93e5b4e4","len":10605,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":89,"sha8":"6dadde7f","len":14002,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":90,"sha8":"957e7e21","len":110,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":91,"sha8":"8ea70cf0","len":15604,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":92,"sha8":"39db8092","len":12665,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":93,"sha8":"6cbe5a3a","len":11522,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":94,"sha8":"1a7d9e61","len":15188,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":95,"sha8":"c0624064","len":9433,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":96,"sha8":"0c6b136f","len":11259,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":97,"sha8":"5835f386","len":9464,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":98,"sha8":"d61e246a","len":13511,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":99,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":100,"sha8":"0c6b136f","len":11259,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":101,"sha8":"8741a7ca","len":8592,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":102,"sha8":"3f8d4a92","len":9121,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":103,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":104,"sha8":"47a9b712","len":16987,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":105,"sha8":"a74772c2","len":4245,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":106,"sha8":"3ff61cfb","len":10286,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":107,"sha8":"92338e83","len":6398,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":108,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":109,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":110,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":111,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":112,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":113,"sha8":"985b8c21","len":7123,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":114,"sha8":"0ae26da0","len":10105,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":115,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":116,"sha8":"74cf5a03","len":3860,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":117,"sha8":"c8160088","len":4029,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":118,"sha8":"cba842b8","len":6335,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":119,"sha8":"a9fa23b6","len":379,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":120,"sha8":"dc4c2c92","len":5684,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":121,"sha8":"7af4919d","len":2857,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":122,"sha8":"b3070194","len":13464,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":123,"sha8":"54a28024","len":10316,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":124,"sha8":"8313dbfd","len":16847,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":125,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":126,"sha8":"be98ee8d","len":10522,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":127,"sha8":"a458383a","len":9434,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":128,"sha8":"12a023d1","len":21999,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":129,"sha8":"276c8252","len":8586,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":130,"sha8":"79112890","len":16086,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":131,"sha8":"79112890","len":16086,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":132,"sha8":"8f640995","len":10380,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":133,"sha8":"1847235e","len":121,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":134,"sha8":"2cd873a6","len":1248,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":135,"sha8":"07a463da","len":9564,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":136,"sha8":"d472758e","len":7972,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":137,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":138,"sha8":"6b306c78","len":2567,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":139,"sha8":"c4cfa954","len":3773,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":140,"sha8":"f75403bd","len":2645,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":141,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":142,"sha8":"da80ec66","len":53,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":143,"sha8":"4a65f965","len":84,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":144,"sha8":"9eca65ec","len":8764,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":145,"sha8":"0b8d42bd","len":54,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":146,"sha8":"4c449ac7","len":11066,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":147,"sha8":"eff60812","len":8478,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":148,"sha8":"8405983c","len":10732,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":149,"sha8":"7ef9d32e","len":10084,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":150,"sha8":"c92e0f0b","len":15715,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":151,"sha8":"d1e72cc4","len":122,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":152,"sha8":"8b79aa4a","len":4219,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":153,"sha8":"1ae2217a","len":51,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":154,"sha8":"53b4d4ce","len":4180,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":155,"sha8":"8ec1d4f0","len":9185,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":156,"sha8":"19155a9b","len":17314,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":157,"sha8":"f9dcfd45","len":82,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":158,"sha8":"912160b3","len":70,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":159,"sha8":"bc600470","len":4930,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":160,"sha8":"9c165bff","len":73,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":161,"sha8":"3a71af85","len":80,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":162,"sha8":"d918c1d6","len":12376,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":163,"sha8":"2db5ccd5","len":12552,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":164,"sha8":"22621fbf","len":35,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":165,"sha8":"16e50ec1","len":7288,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":166,"sha8":"eba3236e","len":33,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":167,"sha8":"3022763f","len":10990,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":168,"sha8":"e7eb0ddb","len":11026,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":169,"sha8":"c0705929","len":3882,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":170,"sha8":"a2933248","len":10922,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":171,"sha8":"7ef9d32e","len":10084,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":172,"sha8":"3a22b129","len":5089,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":173,"sha8":"38cb3d64","len":3168,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":174,"sha8":"654f39f4","len":16800,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":175,"sha8":"0609dd01","len":4208,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":176,"sha8":"1cff98f2","len":45,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":177,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":178,"sha8":"0ec58be4","len":10335,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":179,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":180,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":181,"sha8":"4b2a7c66","len":13380,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":182,"sha8":"13ad6808","len":13766,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":183,"sha8":"682d3569","len":20781,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":184,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":185,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":186,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":187,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":188,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":189,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":190,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":191,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":192,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":193,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":194,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":195,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":196,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":197,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":198,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":199,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":200,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":201,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":202,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":203,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":204,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":205,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":206,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":207,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":208,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":209,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":210,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":211,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":212,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":213,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":214,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":215,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":216,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":217,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":218,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":219,"sha8":"dff7797f","len":16890,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":220,"sha8":"b5a2b8eb","len":12133,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":221,"sha8":"4a65f965","len":84,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":222,"sha8":"4ea92712","len":19411,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":223,"sha8":"95406fa9","len":3395,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":224,"sha8":"2db77047","len":14910,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":225,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":226,"sha8":"2f465162","len":8272,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":227,"sha8":"ae6e595c","len":5395,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":228,"sha8":"2824e9f8","len":11061,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":229,"sha8":"c0705929","len":3882,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":230,"sha8":"53b4d4ce","len":4180,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":231,"sha8":"ab441e8c","len":4348,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":232,"sha8":"feba31f3","len":12635,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":233,"sha8":"12f737b7","len":47,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":234,"sha8":"702bfc22","len":6117,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":235,"sha8":"c2f9e9a3","len":4030,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":236,"sha8":"beb4f854","len":3527,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":237,"sha8":"aebbccf5","len":15761,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":238,"sha8":"2824e9f8","len":11061,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":239,"sha8":"caf2596c","len":80,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":240,"sha8":"49adc495","len":95,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":241,"sha8":"eeb459fe","len":12032,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":242,"sha8":"39b39cf0","len":12331,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":243,"sha8":"ee5af86e","len":4357,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":244,"sha8":"1b587ab0","len":9613,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":245,"sha8":"74fe38d0","len":10829,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":246,"sha8":"4f055b11","len":2403,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":247,"sha8":"f6d38dae","len":8393,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":248,"sha8":"92338e83","len":6398,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":249,"sha8":"e1354960","len":6367,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":250,"sha8":"4c449ac7","len":11066,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":251,"sha8":"9b3acfbb","len":9095,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":252,"sha8":"8c5411a0","len":6897,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":253,"sha8":"59e33236","len":13772,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":254,"sha8":"01b89b84","len":109,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":255,"sha8":"8188283c","len":4979,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":256,"sha8":"dc5cbe1d","len":11252,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":257,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":258,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":259,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":260,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":261,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":262,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":263,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":264,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":265,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":266,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":267,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":268,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":269,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":270,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":271,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":272,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":273,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":274,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":275,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":276,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":277,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":278,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":279,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":280,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":281,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":282,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":283,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":284,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":285,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":286,"sha8":"41f4ceb3","len":11113,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":287,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":288,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":289,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":290,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":291,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":292,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":293,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":294,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":295,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":296,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":297,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":298,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":299,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":300,"sha8":"dc4c2c92","len":5684,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":301,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":302,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":303,"sha8":"b13fbbc7","len":12860,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":304,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":305,"sha8":"7dbcf6c4","len":1331,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":306,"sha8":"d562e96a","len":1087,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":307,"sha8":"ece50ec7","len":9697,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":308,"sha8":"ceab60de","len":6370,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":309,"sha8":"ece50ec7","len":9697,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":310,"sha8":"edb52f8f","len":10455,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":311,"sha8":"3d09687b","len":181,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":312,"sha8":"edb52f8f","len":10455,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":313,"sha8":"348a177f","len":1234,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":314,"sha8":"736010a3","len":10662,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":315,"sha8":"03cea300","len":79,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":316,"sha8":"edf7533a","len":140,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":317,"sha8":"d9a715ab","len":77,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":318,"sha8":"34dbc7bb","len":8609,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":319,"sha8":"1d7b24e1","len":12697,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":320,"sha8":"4b2a7c66","len":13380,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":321,"sha8":"e8820abd","len":13766,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":322,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":323,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":324,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":325,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":326,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":327,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":328,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":329,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":330,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":331,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":332,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":333,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":334,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":335,"sha8":"009ad98a","len":17949,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":336,"sha8":"8313dbfd","len":16847,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":337,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":338,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":339,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":340,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":341,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":342,"sha8":"f916f9c6","len":16192,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":343,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":344,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":345,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":346,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":347,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":348,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":349,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":350,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":351,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":352,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":353,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":354,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":355,"sha8":"dff0335b","len":108,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":356,"sha8":"44d76ac0","len":790,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":357,"sha8":"ba981912","len":11103,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":358,"sha8":"055e1ec7","len":5701,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":359,"sha8":"854cd9c7","len":15651,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":360,"sha8":"8616a17e","len":14979,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":361,"sha8":"bdc34937","len":11085,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":362,"sha8":"e36168bd","len":10499,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":363,"sha8":"e36168bd","len":10499,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":364,"sha8":"75e81f93","len":6956,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":365,"sha8":"aef00271","len":3538,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":366,"sha8":"1a0736f6","len":5644,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":367,"sha8":"375d5229","len":4870,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":368,"sha8":"aef00271","len":3538,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":369,"sha8":"6d6b8153","len":4854,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":370,"sha8":"ad7c750c","len":7786,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":371,"sha8":"ca9724c5","len":4776,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":372,"sha8":"1c4d2615","len":2388,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":373,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":374,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":375,"sha8":"baf42371","len":12200,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":376,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":377,"sha8":"548b1890","len":3288,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":378,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":379,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":380,"sha8":"0a6e68d8","len":6587,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":381,"sha8":"f9792c1b","len":6930,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":382,"sha8":"5a6ccf58","len":16,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":383,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":384,"sha8":"8ea70cf0","len":15604,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":385,"sha8":"21e3cc8d","len":12847,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":386,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":387,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":388,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":389,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":390,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":391,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":392,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":393,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":394,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":395,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":396,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":397,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":398,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":399,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":400,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":401,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":402,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":403,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":404,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":405,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":406,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":407,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":408,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":409,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":410,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":411,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":412,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":413,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":414,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":415,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":416,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":417,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":418,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":419,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":420,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":421,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":422,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":423,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":424,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":425,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":426,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":427,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":428,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":429,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":430,"sha8":"bc8189ab","len":17951,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":431,"sha8":"987c48c2","len":7664,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":432,"sha8":"bc8189ab","len":17951,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":433,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":434,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":435,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":436,"sha8":"ccf23606","len":6761,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":437,"sha8":"a803e950","len":5013,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":438,"sha8":"80277a93","len":13068,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":439,"sha8":"f9e33f22","len":6373,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":440,"sha8":"1fd04341","len":24472,"nTasks":1,"models":"video_extension","read":true,"findings":"24,472c 全项目最长"}
+{"project":"MEMORY_THIEF","idx":441,"sha8":"1602a9bc","len":13542,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":442,"sha8":"54306586","len":18682,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":443,"sha8":"b20ae0bb","len":12845,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":444,"sha8":"eb9e96cd","len":1345,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":445,"sha8":"b5aa34ed","len":10126,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":446,"sha8":"2fc4a973","len":14483,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":447,"sha8":"57fa8a82","len":18917,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":448,"sha8":"c2241232","len":152,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":449,"sha8":"ae68c22e","len":33,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":450,"sha8":"5c767d60","len":51,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":451,"sha8":"46d8c8fd","len":13978,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":452,"sha8":"edb52f8f","len":10455,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":453,"sha8":"46d8c8fd","len":13978,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":454,"sha8":"e5a6227c","len":4364,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":455,"sha8":"ccb8b3b6","len":11509,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":456,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":457,"sha8":"2714fafe","len":8189,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":458,"sha8":"c2214e73","len":11486,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":459,"sha8":"239dde8a","len":13589,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":460,"sha8":"cae2bfd4","len":13585,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":461,"sha8":"4fabc210","len":10870,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":462,"sha8":"fba9a14d","len":8265,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":463,"sha8":"e5a6227c","len":4364,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":464,"sha8":"de0b1dbe","len":8339,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":465,"sha8":"15fc6747","len":9318,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":466,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":467,"sha8":"25a6a41e","len":8656,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":468,"sha8":"1de9add8","len":15933,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":469,"sha8":"29f4980a","len":15892,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":470,"sha8":"3a2d057b","len":12141,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":471,"sha8":"866abd4b","len":70,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":472,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":473,"sha8":"e1ff1791","len":5203,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":474,"sha8":"bc5d65f7","len":5883,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":475,"sha8":"96444976","len":15737,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":476,"sha8":"fd86c5de","len":3917,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":477,"sha8":"b57a725d","len":10159,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":478,"sha8":"9e23fca7","len":12266,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":479,"sha8":"68e82e3b","len":13071,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":480,"sha8":"b57a725d","len":10159,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":481,"sha8":"3af18502","len":44,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":482,"sha8":"3af18502","len":44,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":483,"sha8":"04dd125a","len":24,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":484,"sha8":"ff455ab3","len":7286,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":485,"sha8":"5e526aec","len":5436,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":486,"sha8":"42d6d2e8","len":105,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":487,"sha8":"7f334804","len":70,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":488,"sha8":"95268395","len":4902,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":489,"sha8":"1e30f178","len":3701,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":490,"sha8":"7bf87f33","len":12431,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":491,"sha8":"7bf87f33","len":12431,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":492,"sha8":"68c1f0de","len":10763,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":493,"sha8":"ef19a777","len":51,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":494,"sha8":"3a153ec8","len":79,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":495,"sha8":"4e8c5d29","len":11080,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":496,"sha8":"8405983c","len":10732,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":497,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MEMORY_THIEF","idx":498,"sha8":"299afb4f","len":3228,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MEMORY_THIEF","idx":499,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}

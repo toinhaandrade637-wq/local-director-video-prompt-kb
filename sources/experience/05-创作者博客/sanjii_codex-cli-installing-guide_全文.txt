@@ -1,0 +1,80 @@
+【项目】CODEX CLI INSTALLING GUIDE（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/codex-cli-installing-guide
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+CODEX CLI INSTALLING GUIDE
+@sanjii
+681
+1
+0
+Before You Start
+
+Most people meet Codex CLI as a coding tool. It is also one of the fastest ways to run a content pipeline, because the thing a coding agent is actually good at — reading a goal, breaking it into steps, running tools, keeping files organized — is the same shape as producing a launch campaign.
+
+
+
+
+This is the full setup for turning it into one. You drop a single product photo into the terminal, describe the outcome, and get back listing images, UGC ads, product commercials and thumbnails as files on your disk.
+
+
+
+
+Two pieces make it work. Codex CLI is the agent — it plans the job and runs the tools. Higgsfield Skills is what gives it the craft: instead of you explaining how a UGC ad differs from a cinematic commercial, or which model handles product photography, the skills already encode those workflows. You give the goal, the agent picks the skill.
+
+
+
+
+Worth knowing why this route rather than the MCP connector. Both reach the same account and the same credits. But the skills path is built for coding agents specifically — each skill has a fixed structure, which cuts token overhead and makes the output consistent run to run. The MCP connector is the better fit for chat, where you want the model choosing parameters freely from context.
+
+
+
+
+One thing that does not change between them: generation costs credits from your Higgsfield plan either way, and unlimited models and free generations do not apply to CLI or MCP usage.
+
+Setup — Install the CLI and Skills
+
+Everything below takes about five minutes. You need to open “Terminal” on your Mac
+
+Install the Higgsfield CLI
+npm i -g @higgsfield/cli
+
+Or with the install script:
+
+curl -fsSL https://raw.githubusercontent.com/higgsfield-ai/cli/main/install.sh | sh
+Authenticate
+higgsfield auth login
+
+This opens a browser window to connect your Higgsfield account. There is no API key. Read the permissions before approving — the CLI needs access to generated content, uploaded media, workspaces, plan and credits so it can submit jobs and pull results back.
+
+Add the skills
+npx skills add higgsfield-ai/skills
+
+The installer auto-detects your agent — Codex, Claude Code, Cursor and others — and writes each skill to the right path. If detection picks the wrong one, force it:
+
+npx skills add higgsfield-ai/skills -a codex
+
+For scripted or non-interactive setups, -g installs globally for the current user and -y skips the confirmation prompts. Use those only when you already know where the skills are landing; the interactive run shows you the paths.
+
+Run it
+
+Inside Codex, call a skill directly:
+
+/higgsfield:generate
+
+Or just describe what you want in plain language and let the agent select the skill itself.
+
+
+
+
+One setup detail that matters more than it looks: work in a dedicated project folder. The agent creates campaign directories, saves outputs and writes tracking files there, and that only compounds if it can find the same folder next time. A pipeline is a folder with history in it, not a chat thread.
+
+
+
+
+If your reference images are not reaching the generation, re-run the npx skills add command — earlier CLI versions had a bug passing references through, and current versions pass all of them, images included.
+
+READY TO MAKE YOUR OWN?
+go!

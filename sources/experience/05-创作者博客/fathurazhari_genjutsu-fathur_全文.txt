@@ -1,0 +1,55 @@
+【项目】REPLACE EVERYONE IN THE VIDEO WITH YOU（@fathurazhari · 创作者博客）
+【链接】https://higgsfield.ai/@fathurazhari/blogs/genjutsu-fathur
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+REPLACE EVERYONE IN THE VIDEO WITH YOU
+F
+Fathur Azhari
+@fathurazhari
+47
+0
+0
+
+Download the reference video first
+
+This is the clip from my video. Use it as-is, or swap in your own.
+
+Download reference video
+
+Prepare two photos
+image_1: who the main character in the center becomes (your photo)
+
+image_2: who everyone around them becomes
+Upload the reference video
+The one you downloaded above, or your own.
+
+It needs a group of people with one main character in the center.
+Paste the prompt, then wait
+prompt
+Copy paste this
+CHARACTER REPLACEMENT TASK
+
+CENTER CHARACTER: Replace ONLY the single main character standing in the exact center of the group with the character from @Image 1. The center position, body placement, scale, pose, movement, and screen position must remain consistent with the original video.
+
+SURROUNDING CHARACTERS: Replace EVERY OTHER PERSON surrounding the center character with the character from @Image 2. This includes ALL visible people around the center character: front row, left and right sides, middle rows, and background. Do NOT leave any of the original surrounding people unchanged. Every surrounding person becomes the same @Image 2 character, repeated as identical copies.
+
+IDENTITY LOCK: Keep each replacement character's face, hairstyle, skin tone, body proportions, outfit, and color palette exactly as shown in the reference images, in every single frame. No morphing, no identity drift, no blending between image_1 and image_2.
+
+MOTION AND TIMING: Preserve the original choreography frame by frame. Each replaced character follows the exact same body movement, limb motion, head turn, facing direction, walking speed, and timing as the original person they replace. Do not add, remove, or re-time any motion.
+
+CAMERA AND FRAMING: Keep the original camera angle, camera movement, focal length, depth of field, and shot duration unchanged. Do not re-frame, crop, zoom, or stabilize.
+
+ENVIRONMENT: Keep the background, set, props, floor, and all non-human elements 100% identical to the original video. Only the people are replaced.
+
+LIGHTING INTEGRATION: Match the original lighting direction, intensity, color temperature, shadows, and reflections onto the new characters. Contact shadows and ground contact must stay physically correct, so the characters look natively filmed in the scene, not pasted on.
+
+SCALE AND DEPTH: Respect the original perspective. Characters further from camera stay smaller, and the occlusion order stays the same. Nobody floats, overlaps incorrectly, or changes height relative to the original person.
+
+AVOID: extra people added, people removed, duplicated or missing limbs, warped faces, flickering identity, style change, cartoon or filter look, watermark, text overlay, background alteration, slow motion or speed ramp.
+
+OUTPUT: same resolution, same aspect ratio, same frame rate, same length as the source.
+image_1 and image_2 in the prompt map automatically to the two photos you upload. No edits needed.
+GO TO HIGGSFIELDAI

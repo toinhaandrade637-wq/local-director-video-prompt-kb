@@ -1,0 +1,114 @@
+【项目】COMO CRIAR VÁRIOS ÂNGULOS DE CÂMERA USANDO APENAS UM VÍDEO（@scottadavi · 创作者博客）
+【链接】https://higgsfield.ai/@scottadavi/blogs/como-criar-v-rios-ngulos-de-c-mera-usando-apenas-um-v-deo
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+COMO CRIAR VÁRIOS ÂNGULOS DE CÂMERA USANDO APENAS UM VÍDEO
+@scottadavi
+122
+0
+0
+
+Você não precisa gravar com várias câmeras para deixar seu conteúdo mais dinâmico.
+
+Com um único vídeo estático, no estilo talking head, é possível usar IA para criar diferentes ângulos, enquadramentos e movimentos de câmera, mantendo a mesma fala, a mesma performance e o mesmo áudio original.
+
+Ou seja: você grava uma vez só, sobe esse vídeo na IA e transforma esse único take em uma sequência que parece ter sido captada por várias câmeras ao mesmo tempo.
+
+1. Grave um vídeo estático
+
+Grave seu vídeo normalmente, com a câmera parada.
+
+De preferência:
+
+use um tripé
+mantenha boa iluminação
+deixe seu rosto e corpo bem visíveis
+
+O ideal é que esse vídeo seja a sua base principal, porque ele será usado como a fonte original da performance.
+
+2. Faça upload do vídeo no Seedance 2.5
+
+Depois de gravar, suba esse vídeo na ferramenta Seedance 2.5.
+
+A proposta aqui não é mudar sua fala, nem recriar sua atuação.
+
+A IA deve apenas transformar a forma como a cena é filmada, como se outras câmeras estivessem posicionadas ao redor do ambiente registrando a mesma performance simultaneamente.
+
+3. Use este prompt
+
+Abaixo está o prompt em inglês para orientar a IA a manter sua performance original e criar múltiplos ângulos de câmera a partir de um único vídeo:
+
+TREAT @video1 ORIGINAL as the absolute source of truth for the performance and audio.
+
+Preserve the original audio track exactly as it is — do not synthesize, recreate, redub, replace, enhance, or reinterpret any voices, dialogue, or sounds. Do not add music.
+
+Preserve the identity of all characters, including face, body, hair, clothing, and accessories. Also preserve the performance exactly as it happens, frame by frame: body movements, gestures, posture, expressions, mouth movement, lip sync, eye direction, interactions, object handling, and timing.
+
+Do not invent, recreate, or reinterpret any movement.
+
+Each new viewpoint should simply be another physical camera observing the same original performance at the exact same moment.
+
+Keep the image realistic, raw, and slightly imperfect, avoiding an overly polished or cinematic look.
+
+Transform the continuous performance into a sequence filmed with multiple cameras.
+
+Cut to a substantially different camera setup approximately every 1.5–2 seconds, as if several cameras placed around the same environment had captured the exact same performance simultaneously.
+
+Mix:
+
+medium shots
+
+close-ups
+
+extreme close-ups
+
+over-the-shoulder shots
+
+profile angles
+
+detail shots
+
+low and high angles
+
+framings partially obstructed by foreground elements
+
+off-center and unusual compositions
+
+full-body shots
+
+wide shots and, occasionally, ultrawide environmental shots
+
+Vary the focal length and camera distance aggressively, so that some shots feel more intimate while others reveal the dimension and scale of the environment.
+
+Approximately half of the setups should be static. For the others, use short, creative camera movements such as:
+
+subtle orbital moves
+
+curved lateral moves
+
+push-ins
+
+pullbacks
+
+crane moves up or down
+
+slight rolls
+
+reveals through foreground elements
+
+parallax moves
+
+Keep all camera movement physically realistic and varied.
+
+Use real cuts between different camera positions, rather than having a single camera continuously “teleport” through the environment.
+
+Camera changes must NEVER create a new performance.
+
+At every cut, preserve the exact temporal continuity of the original video, the original audio, and every action frame by frame.
+
+Only the camera position, framing, lens perspective, and camera movement may change.
+
+[OPTIONAL RHYTHM: CHANGE THE CAMERA EVERY 3 SECONDS.]

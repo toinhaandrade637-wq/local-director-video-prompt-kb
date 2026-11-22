@@ -1,0 +1,328 @@
+【项目】HOW TO CREATE AN AI OUTFIT TRANSFORMATION VIDEO WITH CHATGPT × HIGGSFIELD（@highriseopossum1806 · 创作者博客）
+【链接】https://higgsfield.ai/@highriseopossum1806/blogs/fan-swipe-outfit-transformation
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW TO CREATE AN AI OUTFIT TRANSFORMATION VIDEO WITH CHATGPT × HIGGSFIELD
+@highriseopossum1806
+150
+1
+0
+Create a Fan-Swipe Outfit Transformation Video with 5 Looks
+
+Want to turn your favorite outfits into a fashion video where each look changes as a ceiling fan blade sweeps across the frame?
+
+
+
+
+This workflow has three main steps: create a consistent character reference, generate five outfit looks, then use Higgsfield to create the final 15-second vertical fashion video.
+
+
+
+
+Below is the full English guide with copy-ready prompts. I’ve kept the technical instructions, timing, transition logic, and constraints consistent with your original version so the intended video outcome is not changed.
+
+Before You Start
+
+Prepare the following:
+
+2 clear photos of yourself — one front-facing and one side-profile photo.
+5 outfit reference images — Pinterest can be used to collect outfit inspiration.
+ChatGPT with image generation available.
+Higgsfield connected and available inside your ChatGPT conversation.
+
+The video prompt in this guide specifies Seedance 2.5. Available models and features may vary depending on your account and device.
+
+Step 1: Create Your Four-View Character Reference
+
+First, upload your front-facing and side-profile photos.
+
+The goal is to create a consistent character reference showing the same person from multiple angles while preserving your facial features, skin tone, hairstyle, height, body shape, and proportions.
+
+The four views should include:
+
+Front facial close-up
+Side-profile facial close-up
+Front full-body view
+Side full-body view
+
+Before copying the prompt, replace the placeholders with your actual height and weight.
+
+Character Reference Prompt
+
+Use the front-facing and side-profile photos I uploaded as the only identity references for the person. Preserve the person's facial features, face shape, skin tone, hairstyle, and recognizable identity.
+
+The person's height is [___ cm] and weight is [___ kg]. Use these measurements to maintain natural and realistic body proportions.
+
+Generate a photorealistic four-panel character reference sheet on a white background:
+
+Top left: front-facing facial close-up.
+Bottom left: side-profile facial close-up.
+Center: front full-body view.
+Right: side full-body view.
+
+All four panels must depict the exact same person wearing the same simple beige/off-white loungewear and standing naturally barefoot.
+
+Keep the person's appearance, height, body shape, and proportions consistent across all four views.
+
+Do not add text, accessories, or additional people.
+
+Check the Character Reference
+
+Before continuing, make sure all four views still look like you.
+
+Pay particular attention to the eyes, nose, jawline, hairline, facial proportions, and body proportions.
+
+If one of the views noticeably looks like a different person, correct the character reference first before generating the outfits.
+
+Step 2: Generate Five Outfit Looks from Your References
+
+Choose five outfits you want to try.
+
+Your outfit reference images should clearly show the clothing cut, fabric, footwear, and accessories. Whenever possible, avoid references that only show the upper body.
+
+For each outfit:
+
+Upload your character reference image.
+Upload one outfit reference image.
+Paste the prompt below.
+Generate the image.
+Repeat until you have five satisfactory outfit images.
+
+Style Outfit Reference
+
+Outfit Transformation Prompt
+
+Use my uploaded character image as the only identity reference for the person.
+
+Use the other uploaded outfit reference image only as a reference for the hairstyle, makeup, clothing, and accessories.
+
+MOST IMPORTANT — PRESERVE MY IDENTITY
+
+Fully preserve my original facial features, facial proportions, face shape, skin tone, and recognizable identity.
+Do not transfer the reference model's face, expression, personality, or overall aura onto me.
+Do not change my age, body proportions, or natural bone structure.
+
+ONLY APPLY THESE STYLING ELEMENTS
+
+Use the outfit reference only for the following elements and apply them to me:
+
+Hairstyle: hair color, length, parting, curls/waves, and hair accessories.
+Makeup: eye makeup, eyeliner, eyelashes, eyebrow shape, blush, contour, and lip color.
+Clothing: silhouette, cut, fabric, colors, patterns, and layering.
+Accessories: earrings, necklaces, gloves, shoes, headwear, jewelry, and other visible accessories.
+
+DO NOT COPY THESE ELEMENTS FROM THE REFERENCE MODEL
+
+Personality or aura.
+Facial expression or gaze.
+Pose or body language.
+Mood or emotional tone of the image.
+Photography style or personality.
+
+CHARACTER PRESENTATION
+
+Keep my appearance natural and recognizable, as though I am simply wearing this outfit in real life.
+
+The goal is "me wearing this styling", not transforming me into the model shown in the outfit reference.
+
+If the outfit reference contains multiple angles, such as front, side, or close-up views, use them together to understand the details of the same complete outfit.
+
+The final result should be natural, photorealistic, refined, and detailed enough to clearly show the clothing, makeup, and accessories while still being immediately recognizable as me.
+
+AVOID
+
+Changing my face into the reference model's face, excessively copying the reference model's personality or aura, overly cold or exaggerated fashion expressions, excessive retouching, plastic-looking skin, distorted facial features, malformed hands, incorrect accessories, or inaccurate clothing details.
+
+Additional Hairstyle Consistency Prompt for This Video
+
+The general outfit prompt above allows hairstyle references. However, for this specific five-outfit video, all five looks must use the same hairstyle.
+
+Add the following paragraph to the end of the outfit prompt:
+
+These images will be used to create five outfit transformations featuring the same person.
+
+For hairstyle consistency, this instruction overrides the hairstyle instructions above: preserve the hair color, length, parting, and hairstyle from the character identity reference. Do not apply the hairstyle of the model in the outfit reference.
+
+All five outfit images must maintain the same facial features, skin tone, body proportions, and hairstyle.
+
+Organize the Five Outfit Images
+
+Arrange your finished images in the exact order you want them to appear:
+
+Outfit 1 → Outfit 2 → Outfit 3 → Outfit 4 → Outfit 5
+
+Before uploading them for video generation, check that every image clearly shows the complete outfit, especially the shoes and important accessories.
+
+Fix any obvious facial, clothing, or accessory errors before moving to the video-generation stage.
+
+Step 3: Generate the Fan-Swipe Outfit Transformation Video
+
+This step turns your five outfit images into a 15-second, 9:16 vertical fashion video.
+
+Inside a ChatGPT conversation where Higgsfield is available:
+
+Upload the five finished outfit images in the correct order.
+Select or tag Higgsfield.
+Paste the complete video prompt below.
+Specify Seedance 2.5 as the model.
+
+If your interface provides a tool selector, select Higgsfield before submitting the prompt.
+
+The key effect is that the rotating ceiling fan blade physically hides every outfit change. The camera, room, character position, and framing remain continuous throughout the video.
+
+Complete Video Generation Prompt
+
+@Higgsfield
+
+Use the five images I uploaded, in their exact upload order, to create a photorealistic 15-second vertical 9:16 fashion video.
+
+The video contains only one female character, who sequentially wears five different outfits.
+
+Character Identity and Outfits
+
+All five uploaded images depict the same woman. Throughout the entire video, consistently preserve her facial features, skin tone, body shape, and hairstyle.
+
+Image 1 corresponds to Outfit 1, Image 2 corresponds to Outfit 2, and continue in order through Image 5 corresponding to Outfit 5.
+
+Accurately reproduce the clothing design, colors, fabrics, shoes, and visible accessories from each corresponding image.
+
+The uploaded images are references only for the woman's identity and outfits. Recreate the environment and actions according to the following instructions.
+
+Camera and Composition
+
+Present the entire video as one continuous shot.
+
+The camera must remain completely fixed at a precise 90-degree vertical top-down angle, looking downward past a ceiling fan toward the woman lying on the floor below.
+
+Do not zoom in, zoom out, pan horizontally, tilt vertically, orbit around the subject, or change the camera angle.
+
+Cover the floor with a muted blue carpet.
+
+Place a curved pale-pink sofa on the left side of the frame, with part of the sofa extending beyond the frame.
+
+The woman lies on the carpet beside the sofa, with her head toward the top of the frame and her feet toward the bottom.
+
+After the opening rolling movement is completed, keep her entire body comfortably and fully visible within the frame.
+
+Chrome Ceiling Fan
+
+Place a large polished chrome ceiling fan in the extreme foreground, suspended between the camera and the woman.
+
+The fan has a reflective circular motor housing positioned at the top center of the frame, partially extending beyond the frame.
+
+Its wide metallic blades are extremely close to the camera and visually large enough to sweep across and obscure the woman's body.
+
+Preserve realistic silver reflections, visible blade brackets, and rounded blade tips.
+
+The ceiling fan must remain completely stationary at the beginning.
+
+It only begins rotating clockwise after the woman presses the remote control.
+
+While rotating, keep the blade shapes recognizable and apply only moderate, natural motion blur.
+
+Every outfit-change transition must be created by the rotating fan blade itself.
+
+Timing and Actions
+
+0.0–1.5 seconds
+
+The woman is wearing Outfit 1.
+
+At the beginning of the video, she is lying completely on the pink sofa, with her entire body supported by the sofa cushions.
+
+She then rolls naturally toward the right side of the frame, rolls off the edge of the sofa, and lands on the carpet lying on her back, with her head toward the top of the frame and her feet toward the bottom.
+
+1.5–2.3 seconds
+
+She looks upward toward the camera, relaxes her shoulders, straightens her legs, and keeps her elbows bent beside her body.
+
+2.3–4.4 seconds
+
+She reaches for a small silver remote control placed on the carpet on the right side of the frame.
+
+She picks it up, points it toward the ceiling fan, and presses the button once.
+
+4.4–5.5 seconds
+
+She lowers her hand.
+
+The ceiling fan begins rotating clockwise.
+
+One wide chrome fan blade sweeps downward across her body and obscures the first outfit change.
+
+5.5–8.2 seconds
+
+Reveal Outfit 2.
+
+She remains in the same position on the carpet.
+
+Her hands rest near her waist, her elbows point outward, her ankles are gently crossed, and her head moves slightly.
+
+8.2–10.9 seconds
+
+After the next fan blade sweeps across her body, reveal Outfit 3.
+
+She places one hand on her hip and the other hand on the carpet, with both knees angled slightly toward one side.
+
+10.9–13.3 seconds
+
+After another fan blade sweeps across her body, reveal Outfit 4.
+
+She crosses both arms over her chest, gently crosses her ankles, and looks confidently upward.
+
+13.3–15.0 seconds
+
+After the final fan blade sweeps across her body, reveal Outfit 5.
+
+She places one hand on her abdomen while naturally extending the other arm outward.
+
+Her face turns slightly toward the sofa with a relaxed expression.
+
+The ending must clearly show the complete final outfit.
+
+Transition Rules
+
+The entire video must contain exactly five outfits and exactly four outfit changes.
+
+Every outfit change must be hidden at the exact moment when the chrome fan blade sweeps across the woman's body.
+
+Areas of her body that the blade has not yet passed over must continue showing the previous outfit.
+
+Only after the trailing edge of the blade has passed over a body region should that region reveal the new outfit.
+
+Pose changes must also be hidden within the same fan-blade sweep.
+
+Do not use visible clothing morphing, dissolve transitions, flashes, or unoccluded jump cuts.
+
+The room, camera, character scale, and the woman's position on the floor must remain continuously consistent.
+
+Her movements must look natural, with realistic human anatomy and physically believable fabric movement.
+
+Use soft, warm fashion-photography lighting and maintain consistent shadows throughout the video.
+
+Do not generate duplicate characters, extra limbs, facial changes, floating body parts, or additional scene transitions.
+
+Use the Seedance 2.5 model.
+
+Step 4: Check the Final Video
+
+The prompt describes the intended result, but generative video models can still deviate from individual instructions. Watch the complete video before using or publishing it.
+
+Check the following:
+
+Character consistency: All five outfits show the same person without unexpected changes to the face or hairstyle.
+Correct outfit order: The looks appear from Image 1 through Image 5 without skipping or repeating an outfit.
+Correct number of transformations: There are exactly five outfits and four outfit changes.
+Fan-blade transitions: Clothing and pose changes happen while the fan blade is passing over and obscuring the body.
+Fixed camera: The camera does not unexpectedly zoom, rotate, pan, tilt, or change its top-down angle.
+Complete body: After the opening roll, the entire body stays within the frame without obvious hand, leg, or accessory deformation.
+Clear ending: Outfit 5 is fully revealed before the video ends.
+
+If one part is incorrect, describe the specific issue in your next generation rather than changing the entire prompt. For example:
+
+Keep the current scene and outfit order. Correct the third outfit transition so that the clothing change occurs entirely behind the moving fan blade.
+
+For the most consistent result, finalize the character reference first, then verify all five outfit images, and only then generate the video.

@@ -1,0 +1,255 @@
+【项目】30-Day Seedance Unlimited: July 2026 Promotion（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/seedance-unlimited
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+30-Day Seedance Unlimited: July 2026 Promotion
+Higgsfield
+Jul 31, 2026
+10 min
+Last updated: 4w ago
+
+In July 2026, Higgsfield offered 30 days of Unlimited access to Enhanced Seedance 2.0 Fast at 480p and 720p. The promotion allowed users to generate one video at a time through a shared standard queue on higgsfield.ai, without credit deductions during their access window. This offer has ended. The article below explains its terms and how it worked.
+
+What Seedance Unlimited gives you?
+
+Here is exactly what is included in the 30-day Seedance Unlimited add-on:
+
+Enhanced Seedance 2.0 Fast: a dedicated model in the Seedance 2.0 family from ByteDance, delivered through Higgsfield's BytePlus partnership, optimized for speed and high-throughput generation
+Unlimited generations: no credit deductions for the duration of your access window (available to purchase until July 12)
+480p and 720p resolution
+Standard queue: 1 concurrent generation at a time (credit-based generation supports multiple parallel jobs)
+Multi-shot generation, native audio, and character consistency: the same creative capabilities as the Seedance 2.0 family
+Available on higgsfield.ai only: not accessible via MCP, CLI, Canvas, or Supercomputer
+Average generation time under 5 minutes: measured across 23,913 generations in the first 7 hours after launch
+What is Unlimited and how it works on Higgsfield?
+
+On Higgsfield, Unlimited gives you access to a selected model without spending credits. Instead of deducting from your balance per generation, you can generate freely for the duration of your access window. The tradeoff is that Unlimited generations run through the shared standard queue, so generation times can be longer during periods of high demand.
+
+The key difference between Unlimited and credit-based generation is the queue each mode uses:
+
+What is Unlimited and how it works on Higgsfield?
+
+Criteria
+
+	
+
+Unlimited
+
+	
+
+Credit-based
+
+
+
+
+Queue
+
+	
+
+Standard (shared)
+
+	
+
+Priority
+
+
+
+
+Concurrency
+
+	
+
+1 job at a time
+
+	
+
+Multiple parallel jobs
+
+
+
+
+Speed
+
+	
+
+May vary during peak load
+
+	
+
+Always on-demand, maximum speed
+
+
+
+
+Cost per generation
+
+	
+
+No credits deducted
+
+	
+
+Credits deducted per generation
+
+Once the Unlimited window closes, Seedance 2.0 and Seedance 2.0 Fast remain available on Higgsfield through credit-based generation. Check the pricing page for current plan details.
+
+Both modes are available at the same time, and you can switch to Credit Mode at any point. This turns off Unlimited and routes your generations through the priority queue using credits instead. Use Credit Mode when turnaround time matters more than conserving your credit balance.
+ During periods of high demand, Unlimited generation speed may temporarily vary to maintain platform stability for all users.
+ Keep in mind that Unlimited is designed for personal, human use. Automation, scripting, and credential sharing are not permitted.
+
+Enhanced Seedance 2.0 Fast vs Seedance 2.0: what's the difference?
+
+Both models belong to the Seedance 2.0 family from ByteDance. The difference is in what each is optimized for.
+
+Enhanced Seedance 2.0 Fast vs Seedance 2.0: what's the difference?
+
+Criteria
+
+	
+
+Enhanced Seedance 2.0 Fast
+
+	
+
+Seedance 2.0
+
+
+
+
+Family
+
+	
+
+Seedance 2.0
+
+	
+
+Seedance 2.0
+
+
+
+
+Optimized for
+
+	
+
+Speed and high-throughput generation
+
+	
+
+Highest quality output
+
+
+
+
+Resolution
+
+	
+
+480p / 720p
+
+	
+
+480p / 720p / 1080p
+
+
+
+
+Multi-shot
+
+	
+
+✓
+
+	
+
+✓
+
+
+
+
+Native audio
+
+	
+
+✓
+
+	
+
+✓
+
+
+
+
+Character consistency
+
+	
+
+✓
+
+	
+
+✓
+
+
+
+
+Available via Unlimited
+
+	
+
+✓ (Higgsfield only)
+
+	
+
+Credit-based
+
+
+
+
+Best for
+
+	
+
+Volume, iteration, campaign production
+
+	
+
+Final delivery, precision work
+
+Seedance 2.0, 720p
+
+Enhanced Seedance 2.0 Fast, 720p
+
+Enhanced Seedance 2.0 Fast was updated specifically for high-throughput generation. It uses the same architecture as Seedance 2.0, but is tuned to run at maximum speed. Output quality is comparable in most use cases. The difference shows up in the most demanding scenarios-complex multi-reference inputs or scenes where you need the highest fidelity for final delivery. In those cases, credit-based Seedance 2.0 is the right choice.
+ For everything else (iteration, testing, high-volume content production, campaign variations), Enhanced Seedance 2.0 Fast delivers Seedance 2.0-level quality at a pace that supports this kind of workflow.
+
+Why Seedance Unlimited is only available on Higgsfield?
+
+Higgsfield operates through an official BytePlus partnership. BytePlus is ByteDance’s enterprise infrastructure division, responsible for maintaining and distributing Seedance models. This direct partnership is what makes unlimited-volume access commercially viable.
+ Other platforms that offer Seedance 2.0 typically use standard API pricing, where each generation is a billable call. That model works for credit-based access, but makes unlimited generation economically unsustainable at scale.
+ The BytePlus partnership gives Higgsfield a different arrangement: direct infrastructure access that supports unlimited generation volume. This is also why Higgsfield receives model updates directly from BytePlus, including the Enhanced Seedance 2.0 Fast variant that powers this offer.
+
+Who Seedance Unlimited is best for?
+
+Works best for:
+
+Creators producing high volumes of content (ads, social media, campaign variations)
+Teams that need to iterate quickly across multiple versions of the same scene
+Early-stage projects where you’re testing ideas and don’t want credit costs to limit exploration
+Workflows where generation volume matters more than turnaround time for each individual clip
+
+Credit-based Seedance 2.0 is the better choice when:
+
+You need the fastest possible turnaround on a single generation
+Your project requires 1080p output
+You’re working through MCP, CLI, Canvas, or Supercomputer: Unlimited isn’t available on these surfaces
+You need maximum fidelity for complex, multi-reference inputs
+
+Both work well within the same project. A common workflow is to use Seedance Unlimited for exploration and iteration (generating multiple versions, testing different directions), then switch to credits for the final delivery pass.
+
+30-DAY SEEDANCE UNLIMITED: JULY 2026 PROMOTION
+See Plans!

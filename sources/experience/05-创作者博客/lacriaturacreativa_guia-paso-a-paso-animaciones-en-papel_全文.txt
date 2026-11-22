@@ -1,0 +1,187 @@
+【项目】GUÍA PASO A PASO: ANIMACIONES EN PAPEL（@lacriaturacreativa · 创作者博客）
+【链接】https://higgsfield.ai/@lacriaturacreativa/blogs/guia-paso-a-paso-animaciones-en-papel
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+GUÍA PASO A PASO: ANIMACIONES EN PAPEL
+@lacriaturacreativa
+66
+0
+0
+1. Prepara la imagen de tu producto
+
+Lo primero que necesitas es una fotografía del producto que quieras animar.
+
+
+
+
+Lo ideal es utilizar una imagen con un fondo sencillo y neutro, ya que nos servirá como punto de partida para construir la escena.
+
+
+
+
+Un consejo: intenta que el producto esté centrado y tenga suficiente espacio a su alrededor para incorporar los elementos del paisaje.
+
+
+
+
+2. Genera el paisaje con recortes de papel
+
+Entra en Higgsfield y accede a la herramienta de generación de imágenes.
+
+
+
+
+Sube la fotografía de tu producto como referencia y describe la escena que quieres crear.
+
+
+
+
+En mi caso, he utilizado paisajes construidos con recortes de papel: una montaña, un bosque otoñal y una playa.
+
+
+
+
+Puedes utilizar este prompt como punto de partida:
+
+
+
+
+Create a premium advertising product image featuring the provided amber glass scented candle, seamlessly integrated into a handcrafted paper-cut coastal landscape.
+
+
+
+
+The entire scenery is constructed from individually cut and layered pieces of textured paper and cardstock, creating a realistic three-dimensional handmade collage with visible paper fibers, slightly irregular cut edges, subtle paper thickness and delicate shadows between overlapping layers.
+
+
+
+
+The scene depicts a peaceful, natural Mediterranean coastal landscape. In the background, a soft muted blue sky with a warm paper-cut sun and a few delicate cream-colored clouds. Along the horizon, distant rocky coastal cliffs and headlands made from overlapping layers of earthy beige and warm gray paper. Below them, a calm sea built from horizontal layers of turquoise, dusty blue and muted teal paper, with subtle cream-colored paper waves approaching the shoreline.
+
+
+
+
+The foreground consists of overlapping sandy dunes, warm beige and ochre paper shapes, small coastal rocks and a few delicate Mediterranean grasses. Avoid tropical scenery, palm trees, beach umbrellas, people, buildings or artificial beach accessories. The atmosphere should feel peaceful, natural, warm and sophisticated.
+
+
+
+
+Place the amber glass candle prominently in the exact center of the composition, maintaining its original photographic appearance, proportions, label design, typography, colors and glass reflections. The candle must remain photorealistic, contrasting with the handcrafted paper scenery.
+
+
+
+
+Integrate the candle naturally into the collage by positioning it behind the first layers of foreground sand, rocks and coastal vegetation, partially overlapping the bottom of the glass jar. The candle should be the main visual focus, large and clearly visible, with its entire label unobstructed and perfectly legible.
+
+
+
+
+Use a balanced, symmetrical advertising composition with layered depth, similar to a premium artisanal product campaign. The paper landscape should frame the candle naturally without competing with it.
+
+
+
+
+Soft, warm studio lighting, tactile matte paper textures, subtle realistic shadows, muted Mediterranean colors and refined art direction.
+
+
+
+
+Landscape 4:3 aspect ratio. No additional text, no people, no tropical elements, no digital illustration effects, no flat vector shapes, no changes to the candle or its label.
+
+See all
+Copy prompt
+Recreate
+3. Prepara los dos fotogramas
+
+Para crear la animación necesitamos dos imágenes:
+
+
+
+
+Fotograma inicial: nuestro producto sobre un fondo neutro, sin ningún elemento del paisaje.
+Fotograma final: el mismo producto integrado en el paisaje de recortes de papel que acabamos de generar.
+
+Es importante que ambas imágenes tengan exactamente el mismo formato y que el producto mantenga la misma posición y tamaño.
+
+De esta manera, la IA podrá construir el paisaje alrededor del producto sin necesidad de moverlo.
+
+
+
+
+4. Anima la escena con WAN 3.0
+
+Una vez tengas las dos imágenes, vuelve a Higgsfield y entra en la sección de generación de vídeo.
+
+
+
+
+Selecciona el modelo WAN 3.0 y sube los dos fotogramas:
+
+En Start Frame, coloca la imagen del producto con el fondo neutro.
+En End Frame, coloca la imagen del paisaje completo.
+
+Ahora solo nos queda explicarle al modelo cómo queremos que se construya la escena.
+
+
+
+
+La clave está en indicarle que el paisaje debe construirse capa a capa, desde el fondo hasta el primer plano, como si alguien estuviera colocando manualmente los recortes de papel.
+
+
+
+
+Este es un prompt general que puedes adaptar:
+
+Create a handcrafted paper-cut stop-motion animation using the provided start and end frames.
+
+The product must remain completely stationary, preserving its exact position, size, proportions and appearance. The camera is completely locked.
+
+Starting from the plain background, gradually assemble the landscape around the product using individual physical paper cutouts.
+
+Build the scene in a strict back-to-front order: first the background, then the distant landscape elements, followed by the middle-ground layers, and finally the foreground pieces surrounding the product.
+
+Each paper element should appear directly near its final position with a quick, subtle stop-motion placement movement, as if an invisible hand were assembling a real paper collage.
+
+Maintain a continuous, natural assembly rhythm without artificial pauses or sudden changes in speed.
+
+Once a paper piece has been placed, it must remain completely stationary.
+
+Preserve the realistic paper textures, irregular cut edges, physical thickness and delicate shadows between layers.
+
+Synchronize each paper placement with a subtle paper rustle or soft cardstock tap. No music or voices.
+
+The final composition must match the supplied end frame. No morphing, fades, camera movements, flickering or final transitions.
+
+See all
+Copy prompt
+Recreate
+
+Selecciona la duración y la calidad que prefieras y pulsa Generate.
+
+
+
+
+La IA irá construyendo el paisaje con movimientos de stop motion hasta completar la composición final.
+
+
+
+
+¡Y ya lo tienes!
+
+
+
+
+Algunos consejos
+
+
+
+
+Para conseguir mejores resultados, te recomiendo personalizar el orden de aparición de los elementos según tu paisaje. Por ejemplo, en una escena de montaña: primero el cielo, después las nubes, las montañas, las colinas y finalmente la vegetación del primer plano.
+
+
+
+
+Para que la animación funcione visualmente, intenta que el paisaje tenga distintas capas de profundidad y que cada una esté bien diferenciada. Cuanto más claro sea el orden de construcción, más fácil será conseguir ese efecto artesanal de recortes de papel que se van colocando uno a uno.

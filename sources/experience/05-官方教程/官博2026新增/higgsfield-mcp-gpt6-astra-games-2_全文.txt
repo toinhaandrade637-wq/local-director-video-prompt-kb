@@ -1,0 +1,186 @@
+【项目】Higgsfield MCP on GPT-6 Astra: Introducing Higgsfield Games 2.0（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/higgsfield-mcp-gpt6-astra-games-2
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Higgsfield MCP on GPT-6 Astra: Introducing Higgsfield Games 2.0
+Higgsfield
+Sep 8, 2026
+8 min
+
+GPT-6 Astra is now available in Higgsfield workflows, including Games 2.0 and connected MCP experiences. It lets you build games, motion graphics, and interactive 3D experiences directly. Full multiplayer games can be built and deployed from a single prompt. This guide covers what changed and the full workflow.
+
+What Changed With GPT-6 Astra?
+
+GPT-6 Astra is OpenAI's new flagship model, built for computer use, coding, research, and multi-step agentic tasks. In the Higgsfield MCP workflow, the responsibilities are split between the two systems:
+
+GPT-6 Astra: coding, logic, reasoning, and multi-step orchestration
+Higgsfield: creative assets and the game-generation/deployment workflow
+Higgsfield Plugin/MCP: connects the AI agent to Higgsfield tools
+What Is Higgsfield Games 2.0?
+
+Higgsfield Games 2.0 is a game-generation system inside Supercomputer that builds playable games from a plain-language prompt. It now runs on GPT-6 Astra, which handles the logic and build orchestration behind the experience.
+
+You can start with a written prompt, then set the main game parameters directly in the interface:
+
+Game type: Shooter, Platformer, Novella, Hypercasual, Racing, or Horror
+Style: Pixel Art, Minimalistic, ASCII, Voxel, Anime, or 3D
+Setting: Medieval, Cyberpunk, Retro, Modern, Space, or Fantasy
+Multiplayer: Turn multiplayer on or off with a dedicated toggle
+
+These controls work alongside the prompt, so a request like “Make a cyberpunk racing game with neon tracks” can be combined with the selectors to lock the game format, visual direction, world, and multiplayer mode before generation.
+
+Games 2.0 also includes a discovery section where you can play games created by other users and by Higgsfield.
+
+How to Access It
+
+Through ChatGPT: Download the ChatGPT desktop app, install the Higgsfield Plugin from inside it, and start creating directly through a prompt.
+
+Through Supercomputer: Open Higgsfield AI and go to Supercomputer. The same capabilities are available there directly, no separate app or plugin required, just describe what needs to be built.
+
+Full Workflow: Step-by-Step Guide
+
+Step 1: Open Games in Supercomputer or the supported connected workflow. Either directly inside Higgsfield, or through the ChatGPT desktop app with the Higgsfield Plugin installed.
+
+Step 2: Choose Genre, Style, Setting, and Multiplayer. Set the game type, visual style, world setting, and whether multiplayer should be on, directly in the interface before writing anything.
+
+Step 3: Describe the game you want. Add a prompt with any specific characters, gameplay details, or direction the selectors above don't already cover.
+
+Step 4: Generate and review the build. GPT-6 Astra handles the underlying logic and orchestration while Higgsfield generates the characters, props, environments, and other assets needed for the build.
+
+Step 5: Refine it with follow-up instructions. Describe what needs to change, the setting, a character, the gameplay, or the visual direction, and continue refining the build.
+
+Step 6: Deploy, then publish if you want it public. Deploying makes the game playable at a link. Publishing puts it in the Games marketplace, where other users can find and play it.
+
+GPT-6 Astra vs GPT-5.6 Sol: A Side-by-Side Comparison
+GPT-6 Astra vs GPT-5.6 Sol: A Side-by-Side Comparison
+
+Area
+
+	
+
+GPT-5.6 Sol
+
+	
+
+GPT-6 Astra
+
+	
+
+Key change
+
+
+
+
+Computer use (OSWorld 2.0)
+
+	
+
+65.7%
+
+	
+
+72.6%
+
+	
+
+Better computer/browser use and about 47% less time per task.
+
+
+
+
+Agentic workflows (AutomationBench)
+
+	
+
+18.1%
+
+	
+
+41.4%
+
+	
+
+Major jump in complex multi-step task execution.
+
+
+
+
+Software engineering (Terminal-Bench 4.0)
+
+	
+
+37.3%
+
+	
+
+57.9%
+
+	
+
+Stronger coding and more reliable path from idea to working software.
+
+
+
+
+3D / CAD (BenchCAD)
+
+	
+
+83.3%
+
+	
+
+95.9%
+
+	
+
+Much stronger at reconstructing 3D objects and generating CAD code.
+
+
+
+
+Games & visual work
+
+	
+
+Previous-generation capability
+
+	
+
+Stronger visual judgment for games, apps, websites, and renderings
+
+	
+
+Astra handles the coding and orchestration behind games and web apps; hosting and sharing happen through the Higgsfield workflow.
+
+
+
+
+Long, evolving tasks
+
+	
+
+Earlier models could lose track of the original goal as instructions changed
+
+	
+
+Better at staying oriented while incorporating new requirements
+
+	
+
+More reliable for long creative builds with repeated edits and changing instructions.
+
+For Games 2.0, these improvements matter because building a playable game involves coding, spatial reasoning, multiple steps, and repeated changes while keeping the original brief in mind.
+
+What Else Can MCP on GPT-6 Astra Do?
+
+Beyond full games, the same MCP connection covers a broader set of 3D and motion tasks:
+
+3D modeling, rigging, and reconstruction. Examples include assembling a camera from 1,025 individual parts, or reconstructing a face in 3D from reference images.
+Motion graphics and animation. Built through the same logic-plus-generation pipeline as the games themselves.
+Interactive 3D experiences. A solar system you can explore, a time machine, mechanical objects you can take apart piece by piece.
+HIGGSFIELD MCP ON GPT-6 ASTRA: INTRODUCING HIGGSFIELD GAMES 2.0
+Try Higgsfield Games

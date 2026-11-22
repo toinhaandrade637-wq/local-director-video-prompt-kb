@@ -1,0 +1,146 @@
+【项目】DRIVING HIGGSFIELD FROM CLAUDE: A DEVELOPER'S GUIDE TO THE MCP WORKFLOW（@mehmetcankavak · 创作者博客）
+【链接】https://higgsfield.ai/@mehmetcankavak/blogs/driving-higgsfield-from-claude-a-developer-s-guide-to-the-mcp-workflow
+【提示词块】6
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+DRIVING HIGGSFIELD FROM CLAUDE: A DEVELOPER'S GUIDE TO THE MCP WORKFLOW
+M
+Mehmet Can Kavak
+@mehmetcankavak
+48
+35
+10
+
+As a software engineer, my first question about any tool is: can I script it? When I found out that Higgsfield ships an MCP server, I wanted to know if I could run my image and video workflow from a chat with Claude instead of jumping between tabs.
+
+Short answer: yes, and it changed how I iterate. In this post I show the exact workflow I used, the prompts, and the real credit costs, so you can copy it.
+
+1. Setup in five minutes
+
+Add Higgsfield as a custom connector in Claude: open Settings, then Connectors, choose Add custom connector, name it Higgsfield and paste the server URL (https://mcp.higgsfield.ai). Click Connect, sign in to your Higgsfield account and approve access. This is a one-time step. Then ask Claude to check your credit balance. If it answers, you are connected. Always check the balance first: it takes one message and saves you from a surprise mid-project.
+
+2. Your first generation
+
+Start small. Ask for one image, look at it, then decide what to change. I asked Claude for a hero image for this very post (Nano Banana 2, 16:9, 1k, 2 variants). This was my first prompt:
+
+A software engineer's desk at night in Istanbul, glowing monitor showing a chat interface, Bosphorus lights in the window, cinematic lighting, shallow depth of field
+
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+It was a decent start, but three things were off: the person did not look like me, the resolution was too low for a cover image, and the screen showed no code, which was the whole point of the picture.
+
+So I fixed all three at once: I uploaded my own photo as a reference, switched to 2k, and described the screen explicitly.
+
+The man from the reference photo, keeping his face and likeness exactly, sitting on an office chair at a desk at night in Istanbul. His large monitor shows a chat with Claude using Higgsfield, with a clearly readable code editor panel full of code beside the chat. Bosphorus lights and city skyline through the window behind him, cinematic lighting, shallow depth of field, sharp detail, photorealistic
+
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+What I learned from this first run:
+
+A reference photo fixes who is in the picture better than any description.
+If you care about what is on a screen, say it in the prompt. Generic wording gets you a generic screen.
+Resolution is a setting, not a prompt. Check it before you judge the result.
+I changed three things at once because all three were clearly wrong. For subtler problems, change one thing per attempt.
+3. From a still to a video
+
+Once I had an image I liked, I turned it into motion. I used the 2k image as the start frame and asked for a slow push-in:
+
+Slow cinematic push-in. The man looks at the glowing monitor and types, lines of code scroll on the screen, soft reflections on his face, city lights twinkle through the window behind him. Keep his face and the room unchanged.
+
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+The price check mattered here. Before generating anything, I asked Claude for the cost of the same 5-second, 720p clip on two models. Seedance 2.5 would have cost 35 credits, which is almost my entire balance. Grok Imagine Video 1.5 Lite cost 5 credits. For a blog illustration, the cheaper model was the right call.
+
+Why this order works: iterating on a still costs about 2 credits, iterating on video costs 5 to 35. Lock the look first, then animate.
+
+4. Three prompt blocks you can reuse
+
+Block A: same person, new scene. Upload one reference photo, reuse it in every request, and only change the scene. Cost: 2 credits at 2k.
+
+The man from the reference photo, keeping his face and likeness exactly, standing on a small stage at a tech meetup in Istanbul, speaking to an audience with a slide behind him, warm stage lighting, photorealistic
+
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+Block B: variations that change only one thing. Use your best image as the reference and tell the model what must stay the same. I ran three lighting variations in a single batch: sunset, dawn and neon. Cost: 1.5 credits each at 1k, 4.5 credits for all three.
+
+Same scene, same man, same desk and monitor, same composition. Change only the lighting to warm golden sunset light coming through the window.
+
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+
+
+
+
+
+
+Block C: fixing one detail without redoing everything. The key words are "keep everything exactly the same" and "change only one thing". Cost: 2 credits at 2k.
+
+Keep everything exactly the same: the man, his pose, the room, the window and the lighting. Change only one thing: make the code on the monitor larger, sharper and easier to read.
+
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+5. Keeping credits under control
+
+My routine, which you can copy:
+
+Check the balance before a session.
+Draft with the cheapest settings that show the idea.
+Only render the final video for the one winner.
+Check the balance again and note what the session cost.
+
+Here are my real numbers for making everything in this post: I started with 43.87 credits. Round 1 (two 1k variants) cost 3. Round 2 (two 2k variants with a reference photo) cost 4. Round 3 (one 5-second video, one stage image, three lighting variations and one detail fix) cost 13.5. I ended with 23.37 credits, so the whole post cost 20.5 credits.
+
+6. Mistakes to avoid
+Changing five things between attempts, so you cannot tell what helped.
+Rendering video before the still is final.
+Not checking the price first: the same clip cost 7 times more on another model.
+Forgetting that the prompt is part of the result. Save the ones that work.
+Wrap-up
+
+Running Higgsfield from Claude did not replace the studio for me. It made the boring parts (comparing models, batching variations, checking prices and tracking spend) fast, so I could spend my time on the creative decisions.
+
+If you try this workflow, I would love to see what you make. Tell me in the comments which prompt block worked best for you.

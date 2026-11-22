@@ -1,0 +1,119 @@
+【项目】HOW I PUT MYSELF IN MY FAVORITE MUSIC VIDEO - FOUR DIFFERENT WAYS（@magicalcamel_500 · 创作者博客）
+【链接】https://higgsfield.ai/@magicalcamel_500/blogs/how-i-put-myself-in-my-favorite-music-video-four-different-ways
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I PUT MYSELF IN MY FAVORITE MUSIC VIDEO - FOUR DIFFERENT WAYS
+@magicalcamel_500
+179
+1
+0
+
+I've watched GENER8ION's STORM more times than I can count. The Oxford courtyard, the rows of navy blazers, one guy in a plain white shirt walking through the middle of it.
+
+I wanted to be that guy. Then I wanted to be four versions of that guy.
+
+Here's exactly how it was made, start to finish.
+
+What you need
+The reference clip you want to recast
+One image per version you want to make
+Higgsfield with the Genjutsu model 
+Any editor that can cut clips — this part is not complicated
+Step 1 — Pick the reference clip
+
+Genjutsu keeps the original movement, camera and timing, and swaps out who's in it. So the clip you choose is doing most of the work. Pick something where the motion itself is the point.
+
+For STORM, the walk is the whole shot. That's why it works.
+
+Step 2 — Prepare your character image
+
+One image, the person you want to drop into the scene.
+
+
+
+
+Step 3 — The prompt
+
+This is the exact prompt, unchanged:
+
+Replace the lead in the @Video 1 — the one figure in a plain white 
+
+shirt with no blazer, distinct from everyone else in navy blazers and striped 
+
+ties — with @Image 1
+
+Copy prompt
+Recreate
+
+The part that matters is the description of who to replace. Not "the man in the middle" — but what makes him visually distinct from everyone else in frame. White shirt, no blazer, against navy blazers and striped ties. That's what pins it to the right person.
+
+
+
+
+
+
+
+Step 4 — Generate the variants
+
+Here's the whole trick, and it's simpler than it looks:
+
+Same video. Same prompt. Swap only Image 1.
+
+
+
+
+Run it once per version. The prompt never changes — you're just handing it a different face each time. Because the reference clip is identical across runs, every output has the same walk, the same camera move, the same length. Which means they cut together perfectly.
+
+
+
+
+Step 5 — Edit
+
+Basic cut and paste. Drop all four on a timeline, and switch between them at the transition points.
+
+Cut on the beat, not wherever. That's the part that took the most time — the swaps only feel intentional when they land with the music. If a cut is even slightly off, the whole thing reads as sloppy rather than designed.
+
+[IMAGE 6 — the editing timeline showing the cuts.]
+
+A simple version will look like this:
+
+
+
+
+What fought me
+
+My first attempt didn't work, and it's worth showing you why.
+
+I wrote a long prompt. I described the scene, the lighting, the mood, the clothing, what the crowd should do. I thought more detail meant more control.
+
+Here's what I ran:
+
+Segment 1 — Real (0:00–0:04) — Object Swap
+
+TASK: Edit @Video 1. Replace the lead — the one figure wearing a plain white shirt with no blazer, front and center of frame, distinct from the crowd of students behind him in navy blazers and striped ties — with the man in @Image 1, using his complete face, dark curly hair, moustache, skin tone, build, white shirt, navy striped tie, black trousers and shoes exactly as shown. Nothing of the source lead's face or body carries over. Keep the original environment, the original background students, and everything else in the source exactly as it is: camera pull-back, his turn away from camera, the start of his forward bow, timing.
+
+ACTIVE REFERENCES: @Image 1 — complete replacement appearance for the lead only.
+
+SOURCE VIDEO: 0–1s tight close-up, strained expression, facing camera. 1–3s he turns away, back to camera. 3–4s begins bowing forward as the camera starts its pull-back. Background students and location untouched.
+
+See all
+Copy prompt
+Recreate
+
+As you can see result isnt great. 
+
+
+
+
+Your turn
+
+Pick a clip you love. Describe the person to replace by what makes them visually different from everyone else in the frame. Run it once per face. Cut on the beat.
+
+Tag me if you post it! @syedoemad i am gonna repost it definetly :D 
+
+my insta:
+
+https://www.instagram.com/syedoemad/

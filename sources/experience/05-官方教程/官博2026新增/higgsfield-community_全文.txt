@@ -1,0 +1,261 @@
+【项目】Higgsfield Community: Where Your AI Work Goes After You Generate It（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/higgsfield-community
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Higgsfield Community: Where Your AI Work Goes After You Generate It
+Higgsfield
+Oct 17, 2026
+9 min
+Last updated: 1w ago
+
+Higgsfield Community is how Higgsfield handles sharing and growth. It is the public part of the website where creators publish Open Projects, Shots, and blog posts. Each creator has a public profile with a Community rating. Specific achievements and rating milestones add generation credits to the balance. This release adds the Community page, a Ranking tab, a Creators tab, and Higgsfield Grants.
+
+What Higgsfield Community Is
+
+Higgsfield Community is a public space for work made with Higgsfield’s models and tools, with a profile for every creator. A published Open Project carries the brief, the asset folders, and the models behind it, so a viewer can see how the result was put together, and a published Shot carries its prompt and settings with a recreate option. Profiles, projects, and shots are open to anyone, including visitors without an account.
+
+What Higgsfield Community Is
+
+You publish
+
+	
+
+What it carries
+
+	
+
+Where it lives
+
+
+
+
+An Open Project
+
+	
+
+The result, the project brief, the folders with assets, the models and tools used, and the prompts if you choose to share them
+
+	
+
+Your profile and the Community feed
+
+
+
+
+A Shot
+
+	
+
+A single image or video with its prompt, model, and settings, and a recreate option
+
+	
+
+Your profile and the Shots feed
+
+
+
+
+A blog post
+
+	
+
+A write-up with prompt blocks and your own generations
+
+	
+
+Your profile
+
+Community is organized in four tabs. Discovery is the front page with featured projects and creators. Projects and Shots are the full feeds with filters and search. Creators shows the featured creators the Higgsfield team highlights. Everything generated on Higgsfield stays private in Assets until the creator publishes it, and a published work can be unpublished without losing the generations. The one exception is a project that has received a grant: it stays published for three months after the grant is awarded.
+
+What Changed in This Release
+
+The release turns the creator profile into a public destination and adds the pieces around it.
+
+The Community page brings published projects, shots, and creators into one feed with its own filters, including contest entries and Higgsfield Originals.
+The Ranking tab on the profile shows the creator’s rating, the points needed for the next level, the credit milestones, and a list of the actions that add points, with completed ones marked.
+The Creators tab collects featured creators on the Community page in one place.
+Higgsfield Grants lets a published Open Project apply for up to 200,000 generation credits from a banner on the Discovery page or from the Grants page.
+Access control for prompts at publishing: an Open Project can go out with prompts visible or with prompts hidden.
+Why a Published Project Keeps Its Context
+
+Most feeds show a finished clip and nothing else. The model, the number of attempts, and the brief the project was built from usually stay with the creator, so a viewer who wants to learn from the work has to ask for them. An Open Project on Higgsfield keeps that context attached to the result.
+
+The project page shows how many generations went into the project and which models and tools were used. It also shows the project brief with its notes and the folders the creator worked in. Credits spent are shown when the creator turns that option on. The prompts are the creator’s decision. At the Access step of publishing, the With prompts option opens every asset so a viewer can see how each shot was made. The Prompts hidden option keeps the result, the brief, and the folders browsable while the prompts stay private. Both options produce an Open Project.
+
+A project can also be verified. An Open Project with at least 30 likes, 30 generations, and a video as its final result is sent to the Higgsfield team for review automatically, with no form to submit, and a verified project earns rating points and is marked as verified. When publishing work that includes other people’s material, such as music, footage, or a likeness, use material you own or have permission to use.
+
+How Publishing Works
+
+Publishing starts from the Publish button on the profile or from the project itself. The Publish project window has four steps:
+
+Details: a title, a description, the public link in the form higgsfield.ai/@username/projects/project-name, co-authors, and tags.
+Assets: how the project opens. Feature places one video or image at the top, for a finished film, trailer, or single artwork; Series shows episodes in order and lets you add more later; Carousel is a set of stills and clips a viewer swipes through.
+Cover: optional; without it the project card uses the first asset.
+Access: With prompts or Prompts hidden.
+
+A Shot is published from a generation in Assets and appears on the profile and in the Shots feed with its prompt, model, and settings. The step-by-step guide, including unpublishing, is in the Help Center: How do projects work in Higgsfield Community?
+
+Rating, Milestones, and Credits
+
+Community rating is a public number shown next to the avatar. It grows from a set of actions listed in the Ranking tab, and three milestones add credits to the balance. Views, likes, and followers do not add rating on their own; likes count toward conditions such as verification.
+
+Rating, Milestones, and Credits
+
+Action
+
+	
+
+Rating points
+
+	
+
+Credits
+
+
+
+
+Complete the profile with a photo, name, bio, and specialty
+
+	
+
++3
+
+	
+
+Counts toward milestones
+
+
+
+
+Recreate a result from another creator’s project for the first time
+
+	
+
++2
+
+	
+
+Counts toward milestones
+
+
+
+
+Complete the beginner course of Higgsfield Academy
+
+	
+
++15
+
+	
+
+Counts toward milestones
+
+
+
+
+Publish your first Open Project
+
+	
+
++4
+
+	
+
+Counts toward milestones
+
+
+
+
+Get an Open Project verified, for each verified project
+
+	
+
++30
+
+	
+
+Counts toward milestones
+
+
+
+
+Have a verified Open Project recreated by a paying creator
+
+	
+
++1 per recreation, up to 15 a month
+
+	
+
+Counts toward milestones
+
+
+
+
+Publish a blog post approved by Higgsfield that reaches 20 or more likes
+
+	
+
++20
+
+	
+
+Up to 5,000
+
+
+
+
+Have your work used in an official Higgsfield promotion, for each promotion
+
+	
+
++50
+
+	
+
+Up to 200,000
+
+
+
+
+Reach 100, 500, and 1,000 rating points
+
+	
+
+Milestone
+
+	
+
+5,000, 75,000, and 200,000
+
+Rating rules verified October 17, 2026.
+
+Each milestone and each action is also marked by an achievement on the profile. A new achievement arrives as a notification with a Claim button, and the points and credits are added once it is claimed; unclaimed rewards do not expire. The full list of achievements with their names is in the Help Center: How do rating and achievements work?
+
+Higgsfield Grants
+
+Higgsfield Grants is a program that awards up to 200,000 generation credits to a published Open Project. The creative and production teams review submissions and award credits to the projects they select; the credits go to the creator’s balance for future generations.
+
+To apply, a project has to be a video of at least one minute, in any genre or style, published as an Open Project. Shots and unpublished projects cannot be submitted. The application takes three steps:
+
+Open the Grants page and select Submit your project.
+Pick the project from the list of your published Open Projects. A message of up to 320 characters is optional.
+Submit. The project shows the Submitted status, and selected creators are notified by email.
+
+A project that receives a grant stays published for three months after the grant is awarded and cannot be unpublished during that period. The Grants page also lists projects that have already received grants.
+
+Who This Is For
+
+Community is built for creators whose work is already on Higgsfield and who want it to do more than sit in Assets: filmmakers with a finished project to show and fund, creators building a public portfolio with a verified track record, and anyone who learns by opening someone else’s generation and running it again.
+
+Because Community lives on the same account as the models and tools that make the work, the pieces connect without exporting anything. A project assembled in Cinema Studio, with characters that Soul ID helps keep consistent across shots, is published from its own page with the folders intact.
+
+A verified project can be recreated by other creators, which adds to the author’s rating. The credits from milestones, featured work, and grants return to the same balance that pays for the next generation.
+
+Contest entries for the Global Film Festival and applications to the Creator Partnership Program start from the same profile. This is what the Higgsfield AI-native creative suite means in practice: the publishing stage shares an account, a library, and a credit balance with the stages before it.
+
+HIGGSFIELD COMMUNITY: WHERE YOUR AI WORK GOES AFTER YOU GENERATE IT
+Explore Community

@@ -1,0 +1,156 @@
+【项目】AI CARTOON - FULL BREAKDOWN（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/zh/@sanjii/blogs/ai-cartoon-full-breakdown
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+AI CARTOON - FULL BREAKDOWN
+@sanjii
+3.1K
+7
+2
+Before You Start
+
+Animation studios don't start with episodes — they build a production pipeline first. The characters, the environments, the props, the voices, the visual language. Then every new episode is simply another story built on top of those same assets. That's exactly what you're going to build here, and it runs on one rule from start to finish: whatever you don't define, the AI will hallucinate. Everything in this pipeline exists to define things once and reuse them forever.
+
+
+
+
+Two tools cover the whole production: Higgsfield generates every image, video, and voice, and a Claude Skill turns your plain scene descriptions into complete production prompts.
+
+cartoon-scene-builder (1).skill
+SKIL
+Stage 1 — Art Direction
+
+Don't generate a single image yet. The mistake everyone makes is jumping straight into prompting — but every great animated show starts with art direction, because before you create a character you need the visual language of the entire series.
+
+Spend some time collecting references. Pinterest is great for this, and Instagram and ArtStation work too. Don't hunt for one perfect image — build a library of styles, colors, character designs, and environments that all fit the world you want to make. To save you a few hours, there's a ready-made reference collection you can start from: https://drive.google.com/drive/u/4/folders/1bDmdOGiy1E2hZuMf34JcRcy-WlDh5kvQ
+
+Stage 2 — Casting the Lead
+
+Don't think of this as generating an image. Think of it as casting the lead actor — you'll animate this character hundreds of times, so don't settle for the first result.
+
+Upload two things: a few images of your character — or of yourself, if you want to be the main character — and one style reference from Stage 1. One tells the AI who to create; the other tells it how they should look. Then describe everything that has to stay consistent — hair, clothes, accessories, eye color — because anything you leave out becomes something the AI has to guess. Generate multiple variations, compare them side by side, and stop only when one immediately feels like the face of your show.
+
+Create my main cartoon character from the attached photos, drawn in the exact art style of the attached style reference. Keep these details locked and instantly recognizable: [short dark hair, thick round glasses, a mustard-yellow hoodie, blue eyes — replace with your character's own locks]. Full body, neutral standing pose, clean plain background, front three-quarter view. This is the lead of an animated series, so the design must read clearly at any size.
+
+Copy prompt
+Recreate
+Stage 3 — The Character Sheet
+
+One great image isn't enough. The AI only knows your character from a single angle — ask for a different expression, pose, or camera angle, and it starts filling in the missing details on its own. That's where drift begins.
+
+
+
+
+A character sheet is where you lock those decisions once. Use the image you just cast as the reference, make any final adjustments to the design — it's far easier to fix things now than after you've generated twenty scenes — and generate the sheet. From this point on, it's the single source of truth every future image and video references.
+
+Stage 4 — The Asset Library
+
+Now expand the world — without starting from scratch each time. Use your character sheet as the reference for every new asset: a dog that matches the style you've built, then later the props and everything else the story needs. Because they all grow from the same visual foundation, everything naturally feels like it belongs together.
+
+
+
+
+The library grows fast, so organize it from day one: every generation you're happy with — character, location, prop — goes into your Favorites with a clear name. After a few hundred generations, finding the exact asset in seconds is what keeps production moving.
+
+Stage 5 — The Locations
+
+Your sets deserve the same treatment as your cast. Think of The Simpsons — you instantly recognize the living room, the kitchen, the front yard. Recurring locations are part of what makes a world feel complete.
+
+
+
+
+The workflow is nearly identical: reference your character sheet so the AI keeps the visual language, and generate the master version of your location — a cozy living room, or whatever your story needs. Then don't stop: generate multiple views of that same environment, matched to the camera angles you'll actually use. One shot toward the sofa, one toward the window, one from above, one on the floor where a character might sit. Every view becomes a reusable shot.
+
+
+
+
+This is where the pipeline starts paying off. A new scene is now just your character sheet plus one location view — the AI already knows what both should look like; you're only telling it which character goes where. For a quick one-off cutaway you can skip the sheet and simply describe the environment, but for any location you'll revisit, a few extra minutes of views will save you hours.
+
+Stage 6 — The Voices
+
+People recognize a character by how they sound just as much as by how they look. Head to the Audio tab and open SeedAudio — start from a built-in voice, or upload your own if a character should sound like you. Generate the same simple line a few different ways — "Where's the TV remote?" — and compare until one fits the character. Download it.
+
+
+
+
+Then treat voices exactly like visual assets: upload every one into your Assets with a clear name, so you always know which character it belongs to. Now your characters, locations, props, and voices are all saved — and every new scene is pulled together from assets instead of built from zero.
+
+Stage 7 — The First Scene
+
+Time to put the library to work. Open Claude with the Skill loaded — it already knows your world: the character sheets, the location views, the voice references. All you write is a plain description of what happens:
+
+Leo is lying on the couch looking for a mysterious remote hidden between the cushions. When he finally finds it and presses the button, he gets teleported to the age of dinosaurs.
+
+
+
+
+That's the whole prompt. The Skill turns it into a complete production prompt: it plans the camera shots, tiles the scene into timestamped beats, writes the visual directions, and places every line of dialogue exactly where it belongs. By default it structures everything as a fifteen-second generation — say "make it five seconds" and it rescales everything automatically. Here's what comes back:
+
+SCENE: The Remote
+DURATION: 15 seconds
+STYLE: 3D Pixar-style cartoon, soft warm lighting
+
+[0:00–0:04] WIDE SHOT, eye level, static
+@Leo_Sheet lies sprawled on the sofa in @LivingRoom_View1, one arm buried to the shoulder between the cushions, digging with growing frustration. @Baxter_Sheet sits on the rug, head tilted.
+Dialogue: "Where is that stupid remote?" @Leo_Voice
+
+[0:04–0:08] CLOSE-UP on the cushions, slow push-in
+Leo's hand yanks out @TimeRemote. He holds it up and squints at it, suspicious. Baxter gives one sharp bark off-screen.
+Dialogue: "…This is not our remote." @Leo_Voice
+
+[0:08–0:11] MEDIUM SHOT, eye level, static
+Leo shrugs and presses the big red button. The remote flashes; white light floods the room.
+
+[0:11–0:15] WIDE SHOT, low angle, static
+The light fades: same sofa, same Leo — but the living room is gone, replaced by a prehistoric jungle. A huge dinosaur head rises slowly behind the sofa. Leo freezes mid-blink. Baxter barks frantically at the edge of frame.
+Dialogue: "Okay. Wrong button." @Leo_Voice
+
+ATTACH IN HIGGSFIELD:
+- @Leo_Sheet — character sheet (Leo)
+- @Baxter_Sheet — character sheet (Baxter)
+- @LivingRoom_View1 — location view (wide, facing the sofa)
+- @TimeRemote — prop (golden time remote)
+- @Leo_Voice — voice (Leo)
+
+Paste it into Higgsfield and attach exactly what the checklist says. And here's the part most people get wrong: don't upload your references and hope the AI figures out what goes where — tell it explicitly with the @ key. Whenever the prompt mentions a character or location, @-tag the exact reference you mean, and after every single line of dialogue, @-tag the voice that says it. It feels like a tiny detail, but it's what keeps a multi-character conversation from falling apart — skip the tags, and the model starts mixing voices halfway through the scene. With everything tagged, generate.
+
+cartoon-scene-builder (1).skill
+SKIL
+Getting Better Takes
+
+After hundreds of scenes, one lesson stands out: you almost never need to start over. If a shot isn't perfect, make the smallest change that could fix it — swap the key visual, rewrite a single action, regenerate one scene instead of the whole sequence. Because your characters, locations, and voices are locked, every iteration builds on the same foundation instead of rolling new dice.
+
+
+
+
+Two more habits pay off fast. Choose simple, readable compositions for your key visuals — visual complexity is where generations fail. And if a take has a small mistake at the very start or end, trim it in the edit instead of regenerating: a trim is free.
+
+Ready To Make Your Own?
+
+This is the mindset shift the whole build leads to. You now have what a studio has: a cast, sets, props, voices, and a visual language — a real production pipeline. 
+
+
+
+
+Creating a new episode no longer means rebuilding your world. It means opening Claude, describing the next scene, and letting the workflow do the rest.
+
+READY TO MAKE YOUR OWN?
+
+
+
+
+Contents
+Before You Start
+Stage 1 — Art Direction
+Stage 2 — Casting the Lead
+Stage 3 — The Character Sheet
+Stage 4 — The Asset Library
+Stage 5 — The Locations
+Stage 6 — The Voices
+Stage 7 — The First Scene
+Getting Better Takes
+Ready To Make Your Own?
+Ready To Make Your Own?

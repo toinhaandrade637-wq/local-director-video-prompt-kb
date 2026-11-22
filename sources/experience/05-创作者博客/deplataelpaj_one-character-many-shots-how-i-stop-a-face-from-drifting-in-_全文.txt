@@ -1,0 +1,169 @@
+【项目】ONE CHARACTER, MANY SHOTS: HOW I STOP A FACE FROM DRIFTING IN SEEDANCE 2.5（@deplataelpaj · 创作者博客）
+【链接】https://higgsfield.ai/@deplataelpaj/blogs/one-character-many-shots-how-i-stop-a-face-from-drifting-in-seedance-2-5
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+ONE CHARACTER, MANY SHOTS: HOW I STOP A FACE FROM DRIFTING IN SEEDANCE 2.5
+D
+Natallia Tsimafeyeva
+@deplataelpaj
+42
+1
+0
+
+You generate a character. Shot one looks great. Shot two — the jaw is wider. Shot three — different person, same cardigan.
+
+This post shows the fix. It is a simple system of three reference images and one rule. I use it for every character in my series. Here I show it on a brand-new character, so you can copy the whole thing and run it today.
+
+The one thing to understand
+
+Seedance has no memory between frames. It does not “know” your character. It only knows what you show it in this generation.
+
+So the goal is not a good prompt. The goal is the same evidence in every shot. Same face file. Same costume file. Same words that bind them.
+
+LOCATION PLATE  ─┐
+FACE LOCK       ─┼─►  one REF MAP in the prompt  ─►  repeat in EVERY shot
+COSTUME (no body)┘
+
+Three images. One map. Repeat. That is the whole method.
+
+Meet the Archivist
+
+For this post I made a new character. She works in a paper archive in the 1970s. No name, no story — just a face, a costume and a room. You will build her in ten minutes.
+
+Step 1 — The location plate
+
+Make the room first. Later, every video prompt says “the action happens inside @image1”. This stops the model from inventing new walls in each shot.
+
+Photorealistic still, 35mm film look, slight grain.
+A long narrow archive room from the 1970s. Tall grey steel shelving on both sides, packed with cardboard document boxes, each box with a small paper label. A narrow aisle between the shelves runs to a far wall with one small window. Pale daylight comes from that window and falls along the aisle. Fluorescent tubes on the ceiling are switched off. A wooden library ladder leans on the left shelf. Linoleum floor, dark green, worn in the middle of the aisle. The room is empty of people.
+Camera at eye level, standing at the near end of the aisle, looking straight down it. Wide shot. Neutral colours, no colour grade. Sharp focus from front to back.
+
+
+
+
+
+
+
+Keep the plate empty. People come from their own references.
+
+
+Step 2 — The face lock
+
+This is the most important file. The face reference carries the whole look: face, skin, eyes, hair, hairstyle. In the video prompt you will never describe her face in words. Words fight the image and pull the likeness away.
+
+Generate a triptych: front, three-quarter, profile. Same light, same expression, grey background.
+
+Photorealistic studio reference sheet, three views of the same woman side by side on one plain mid-grey background: front view, three-quarter view, profile view. Head and shoulders only.
+She has a dark brown chin-length bob with a straight fringe and one narrow grey streak on the left side. Oval face, light olive skin with natural texture and small freckles on the nose, straight dark brows, grey-green eyes, a small mole under the right eye. Thin round wire glasses. Calm neutral expression, mouth closed.
+She wears a plain black crew-neck top in all three views.
+Soft even frontal light, no shadows on the face. Sharp focus. No text, no labels, no grid lines.
+
+Pick the best result. Save it as face_lock.png. Do not re-generate it later. This file is now the character.
+
+
+
+
+Step 3 — The costume without a body
+
+Here is the trick most people miss. If your costume reference has a face, the model may take that face. If it has a mannequin, you may get a grey head in your video.
+
+So the costume is generated as clothes only — shaped as if a person wears them, but with no person inside.
+
+Photorealistic product-style image on a plain light-grey background. A complete outfit shown as if worn by an invisible person: the clothes keep the shape of a body, but there is no head, no hands, no mannequin, no stand — only the garments, floating in a natural standing pose.
+The outfit: a mustard-yellow knitted cardigan with brown leather elbow patches, buttoned over a cream cotton blouse with a rounded collar; dark green high-waisted wool trousers with a narrow brown belt; brown lace-up leather shoes. A thin brown pencil is tucked into the cardigan's chest pocket.
+Front view, full length, soft even light, sharp focus. Neutral colours, no colour grade.
+
+
+
+
+
+
+
+Save it as costume.png.
+
+Why no body: the costume file must give the model clothing and nothing else. The face comes from face_lock.png only.
+
+Step 4 — The ref map
+
+Now the three images go into the video prompt as @image1, @image2, @image3. The order never changes. The map tells the model what to take from each file — and what to ignore.
+
+This block goes into every prompt, in the same words:
+
+@image1 is the location. The action happens inside the visible area of @image1. Keep its light, colours and geometry.
+@image2 is the face reference of the woman. Her face, skin, eyes, hair and hairstyle must match @image2 precisely. Do not alter the face. Use @image2 for the head only; ignore the black top and the grey background.
+@image3 is her costume. Her clothing is exactly as in @image3, every colour as shown. Use @image3 for clothing only. She has two complete hands with five fingers each; the cardigan sleeves end at the wrist.
+
+Three lines. Read them again — each one says “take this, ignore that”. That is the whole discipline.
+
+Step 5 — Repeat it in every shot
+
+Write the ref map once at the top. Then, inside every shot, repeat the short form: “the woman (face as @image2, costume as @image3)”. Yes, every shot. The model does not carry it over. “As before” means nothing to it.
+
+Two demo clips
+
+Here are the prompts I ran. Both use the same three files and the same map.
+
+Clip A — she finds the box
+
+
+
+
+Documentary handheld, real camera, 35mm look. Duration: 10 sec. No music. Camera held by a quiet observer who follows her at a few paces; small natural handheld movement; camera level and upright, horizon straight.
+
+@image1 is the location. The action happens inside the visible area of @image1. Keep its light, colours and geometry.
+@image2 is the face reference of the woman. Her face, skin, eyes, hair and hairstyle must match @image2 precisely. Do not alter the face. Use @image2 for the head only; ignore the black top and the grey background.
+@image3 is her costume. Her clothing is exactly as in @image3, every colour as shown. Use @image3 for clothing only. She has two complete hands with five fingers each; the cardigan sleeves end at the wrist.
+
+Geometry: the woman stands in the aisle of @image1, two paces from the camera, facing the left shelf. Her glasses are on. Both hands are empty at the start. The camera is behind her at eye level, slightly to the right.
+
+Immediately, medium shot from behind her right shoulder: the woman walks slowly along the left shelf, her right hand runs along the box labels at chest height. The camera follows her at the same slow pace, keeping her at medium shot. She stops at one box, reads its label for a moment, then pulls the box out with both hands and holds it against her chest. The box leaves a dark gap on the shelf. She turns toward the camera, looks down at the label on the box in her hands, and gives a small nod. Final state: she stands still, facing the camera, the box held against her chest with both hands, her face lit by the pale window light from the far end of the aisle.
+
+The woman: face as @image2, costume as @image3 — mustard cardigan, cream blouse, dark green trousers, brown shoes. Glasses on throughout. Two complete hands visible on the box.
+
+Sound: her footsteps on linoleum, the soft scrape of cardboard on steel, the quiet hum of an empty room. No music.
+
+Light: pale daylight from the single far window; the shelves shade the aisle. Neutral colours, sharp focus.
+Strict photorealism preservation; maintain all visual characteristics of the reference images throughout the entire video — lighting, colour palette, contrast, grain, softness, lens behaviour, exposure; keep a purely photographic real-camera look with natural matte skin; preserve full natural skin texture, pores and micro imperfections, left unretouched; every frame stays organic and faithful to the reference images.
+
+Clip B — close, one line
+
+
+
+
+Documentary handheld, real camera, 35mm look. Duration: 8 sec. No music. Camera held by a quiet observer standing one pace in front of her; very small handheld movement; camera level and upright, horizon straight.
+
+@image1 is the location. The action happens inside the visible area of @image1. Keep its light, colours and geometry.
+@image2 is the face reference of the woman. Her face, skin, eyes, hair and hairstyle must match @image2 precisely. Do not alter the face. Use @image2 for the head only; ignore the black top and the grey background.
+@image3 is her costume. Her clothing is exactly as in @image3, every colour as shown. Use @image3 for clothing only. She has two complete hands with five fingers each; the cardigan sleeves end at the wrist.
+
+Geometry: the woman stands in the aisle of @image1, one pace from the camera, facing the camera. She holds an open cardboard box in her left hand at chest height. Her right hand holds one yellowed index card. Her glasses are on. The camera is at eye level in front of her.
+
+Immediately, medium close-up on the woman: she looks down at the index card in her right hand and reads it. Her eyes move along the lines. She looks up at the camera, gives a small, tired half-smile, and speaks. After the line she lowers the card back into the box. Final state: she holds the closed box with both hands and looks at the camera, face still, half-smile fading.
+
+Dialogue (lip-synced), each line said exactly once, pronounce each word fully to the end:
+The woman, in a low calm voice, a little amused, as if she has just won a small bet with herself: "Nineteen seventy-four. I knew it."
+Each line is spoken exactly once. Do not repeat any line.
+
+The woman: face as @image2, costume as @image3 — mustard cardigan, cream blouse, dark green trousers. Glasses on throughout. Two complete hands visible: left on the box, right on the card.
+
+Sound: the dry rustle of the card, her quiet voice, the hum of an empty room. No music.
+
+Light: pale daylight from the far window on her face; the shelves shade the background. Neutral colours, sharp focus.
+Strict photorealism preservation; maintain all visual characteristics of the reference images throughout the entire video — lighting, colour palette, contrast, grain, softness, lens behaviour, exposure; keep a purely photographic real-camera look with natural matte skin; preserve full natural skin texture, pores and micro imperfections, left unretouched; every frame stays organic and faithful to the reference images.
+
+Notice: not one word about her face in either prompt. Only “face as @image2”. The file does the work.
+
+Three mistakes I made so you don’t have to
+I described the face in words AND gave the face file. Result: a cousin of my character. Now: file only.
+My costume reference had a mannequin. Result: a grey plastic head in shot three. Now: clothes only, no body.
+I wrote “same as the previous shot”. Result: a new outfit. Now: full ref map in every prompt, costume colours repeated in every shot.
+Now you try
+
+Build one character with these three prompts. Change the room, the hair, the cardigan — whatever you like. Then run both clips.
+
+Post your two clips and your three references in the comments. I want to see whose Archivist held her face. If yours drifted, paste the shot that broke and I’ll tell you where the prompt let go.
+
+Next post: the seven Seedance rules that nobody explains — why “no white door” draws a white door, and why “looking back at him” turns the camera around.

@@ -1,0 +1,432 @@
+【项目】How to Run Ad Production End to End With Claude: From Idea to Published Ads（官方博客· 2026-10 新增探测）
+【链接】https://higgsfield.ai/zh/blog/claude-ad-production-end-to-end
+【捕获】2026-10-30（浏览器全文抓取）
+
+──────────────────────────────────────
+
+How to Run Ad Production End to End With Claude: From Idea to Published Ads
+Higgsfield
+12 min
+
+Claude runs ad production end to end with two connectors and one manual step. Alone, it writes scripts and analyzes exported results. With Higgsfield MCP it generates finished ad videos and posts them to TikTok, with Meta MCP it searches the Ad Library, builds paused campaigns, and pulls metrics. The finished video is uploaded to Ads Manager by hand. Verified September 17, 2026.
+
+Key Takeaways
+Claude alone produces text. Scripts, hooks, briefs, and analysis of the metrics you export for it. It does not render video or audio by itself.
+Claude with Higgsfield MCP produces finished creatives. Video across 30+ models, images up to 4K, voiceovers, and a recurring face through saved Soul characters, all inside one conversation.
+Publishing runs from the same session, with one manual step. Higgsfield MCP posts to TikTok directly, Supercomputer publishes on a schedule from higgsfield.ai, and Meta MCP builds paid campaigns in a paused state, with the finished video uploaded to Ads Manager by hand.
+There are three working levels of autonomy. Claude as an assistant that writes, an operator that generates, and an agent that also publishes and retrieves performance data, with review gates around publishing, activation, and budget changes.
+Some steps stay manual. Research beyond the Meta Ad Library runs on external libraries, credits apply at standard rates through agents, and finished ads should pass a review before anything goes live.
+The Six Stages of Ad Production
+
+Ad production breaks into six stages, and each one traditionally belongs to a different role or tool. Higgsfield is an AI-native creative suite, and MCP is how it plugs into an AI workflow: with two connectors added to Claude, most of the work runs inside one conversation.
+
+The Six Stages of Ad Production
+
+Stage
+
+	
+
+What happens
+
+	
+
+Who it fits best
+
+	
+
+In a Claude session with connectors
+
+
+
+
+Creative research
+
+	
+
+Studying competitor ads, hooks, and formats
+
+	
+
+Strategist with ad libraries
+
+	
+
+Partial, Meta Ad Library search through Meta MCP
+
+
+
+
+Concept and script
+
+	
+
+Turning a brief or product page into a script
+
+	
+
+Copywriter
+
+	
+
+Yes
+
+
+
+
+Asset production
+
+	
+
+Generating the video, presenter, voiceover, captions
+
+	
+
+Creative team or agency
+
+	
+
+Yes, through Higgsfield MCP
+
+
+
+
+Resizing and versioning
+
+	
+
+Hooks, products, languages, aspect ratios
+
+	
+
+Editor
+
+	
+
+Yes, through Ad Multiplier and Genjutsu models
+
+
+
+
+Publishing
+
+	
+
+Posting organic content and launching paid campaigns
+
+	
+
+Social manager, media buyer
+
+	
+
+Partial, TikTok from the session, manual video upload for Meta
+
+
+
+
+Performance loop
+
+	
+
+Reading metrics and feeding the next brief
+
+	
+
+Analyst
+
+	
+
+Yes, through Meta MCP for paid campaigns
+
+What Claude Does On Its Own vs With Connectors
+What Claude Does On Its Own vs With Connectors
+
+Output
+
+	
+
+Claude alone
+
+	
+
+Claude with MCP connectors
+
+
+
+
+Ad scripts, hooks, campaign briefs
+
+	
+
+Yes
+
+	
+
+Yes
+
+
+
+
+Analysis of exported metrics (CSV, screenshots)
+
+	
+
+Yes
+
+	
+
+Yes
+
+
+
+
+Competitor ad research
+
+	
+
+No
+
+	
+
+Partial, Meta Ad Library search through Meta MCP
+
+
+
+
+Finished video ads with a presenter and voiceover
+
+	
+
+No
+
+	
+
+Yes, through Higgsfield MCP
+
+
+
+
+Consistent character across a series of ads
+
+	
+
+No
+
+	
+
+Yes, through Soul characters and reference images
+
+
+
+
+Static visuals up to 4K
+
+	
+
+No
+
+	
+
+Yes, through Higgsfield MCP
+
+
+
+
+New variants from an approved source video
+
+	
+
+No
+
+	
+
+Yes, through Ad Multiplier and Genjutsu models
+
+
+
+
+Publishing to social platforms
+
+	
+
+No
+
+	
+
+Partial, TikTok through Higgsfield MCP
+
+
+
+
+Paid campaigns and live metrics
+
+	
+
+No
+
+	
+
+Yes, through Meta MCP, built in a paused state
+
+Four Surfaces and Where Each Runs
+
+This workflow uses four surfaces, and they are not one interface. Two run inside the Claude session, two run on higgsfield.ai:
+
+Four Surfaces and Where Each Runs
+
+Surface
+
+	
+
+Where it runs
+
+	
+
+Role in this workflow
+
+
+
+
+Higgsfield MCP
+
+	
+
+Inside the Claude session
+
+	
+
+Generation models, skills, saved Soul characters, audio, assets, and credit checks
+
+
+
+
+Marketing Studio
+
+	
+
+On higgsfield.ai, template gallery also opens in the Claude session
+
+	
+
+Visual template library for UGC, product shots, motion, ads, posters, and marketplace content
+
+
+
+
+Supercomputer
+
+	
+
+On higgsfield.ai
+
+	
+
+Agentic projects, skills, connected apps, and scheduled publishing
+
+
+
+
+Meta Ads MCP
+
+	
+
+Inside the Claude session
+
+	
+
+Meta advertising actions available to the connected ad account
+
+Where Does Creative Research Happen?
+
+Creative research is the stage this workflow covers only partially. With Meta MCP connected, Claude searches the public Meta Ad Library from the conversation, which covers competitor ads running on Facebook and Instagram. Everything else lives in external libraries: TikTok formats, archived hooks, and dedicated research tools that tag ads by pattern. Claude works with what you bring back from them. Export a shortlist as screenshots or a CSV, drop it into the conversation, and Claude combines it with the Ad Library results into a brief for the next stage.
+
+How Claude Writes the Concept and Script
+
+This stage needs no connectors, only context. Give Claude a product photo, a store page URL, or a plain brief, and it produces the concept, the hook options, and the full script in the format the next stage expects. With Higgsfield MCP connected, the skills handle this step on their own: a request like "create a UGC ad for this product" makes the skill build the concept, write the script, and run the generation without separate prompts for each step.
+
+
+Here is our product page: [URL]. Write three UGC ad concepts for TikTok, each with a hook for the first two seconds, a 15 second script, and a closing line with a call to action.
+Copy
+Recreate
+How Production Runs Through Marketing Studio and Skills
+
+Marketing Studio is how Higgsfield handles specialized ad content. Its full workspace lives on higgsfield.ai, and through MCP its template gallery also opens inside the Claude conversation, organized into UGC, product shots, motion, ads, posters, and marketplace creatives. Pick a preset in the gallery or name the format in the request, attach a product image, and the generation runs in the conversation through the dedicated marketing models.
+
+The skill catalog on higgsfield.ai/mcp keeps growing, so the list below is examples by category, not the full set:
+
+UGC Factory: Product Review, Unboxing, Try-on, Tutorial, and SaaS UGC, each turning a product photo or a store page into a vertical video with a presenter, a script, and captions.
+Marketing: Physical UGC Video, Ad Multiplier, Brandkit, and TV Commercials.
+Faceless Content Factory: stylized formats such as Whiteboard Doodle, Stickman Cartoon, Pixel Art, and Claymotion for brand videos without a presenter.
+Utility: Voiceover, Subtitles, and Localization for adapting what already exists.
+
+For a recurring campaign face, train a Soul character once on 20 to 80 photos, on higgsfield.ai or right in the conversation through an upload widget, and reference the saved character in every following creative. Trained Soul characters work with the Soul 2.0 and Soul Cinema models, one character per generation. Soul improves consistency across a series, small differences can still appear, so review each output, and train a real person's identity only with their consent. Marketing Studio templates generate their own presenter, so the character route runs through the UGC skills and reference-based models. Prompts and format examples for a complete campaign are in Full Ad Campaign Inside Claude, and the skill catalog is covered in MCP for Marketers.
+
+Using the Product Review UGC skill, create a vertical video for the product in the attached photo. The presenter is a friendly young woman, bright home setting, full monologue that ends naturally before the clip ends.
+Copy
+Recreate
+How to Create Variants Without Rebuilding the Entire Ad
+
+Testing needs volume, and rebuilding a whole ad for every variant spends time on parts that did not change. Two tools in the connector start from an approved source video. Ad Multiplier takes one finished 4 to 30 second video and produces several independently edited versions of it.
+
+The Genjutsu models go further: one replaces an object, product, garment, or character in the source video using reference images, the other transfers motion and camera movement from a driving clip onto new subjects. Each variant is a new generation and spends credits, but the approved source sets the structure. One master ad becomes a set of variants with different products, people, or hooks, the Localization skill adds language versions, and every variant still gets a review before it ships.
+
+Take this approved ad and create versions where the product is replaced with the second product from my references. Preserve the presenter, the timing, and the camera movement from the source.
+Copy
+Recreate
+How Publishing Works From the Same Session
+
+From the Claude session, publishing covers two routes. For organic, TikTok is the one network the connector publishes to: a finished video from your Higgsfield account goes out as a direct post or lands in your TikTok drafts, with a review step for the caption, privacy settings, and required declarations before anything is submitted.
+
+For paid, Meta MCP connects the same session to an ad account. It covers four groups of actions:
+
+Campaign setup. Claude creates campaigns, ad sets, and ads in your ad account, always in a paused state.
+Activation. Going live is a separate confirmed step, so nothing spends budget until you approve it.
+Account data. Catalog uploads, A/B tests, and reporting run through the same connection.
+Creatives. The server works with single-image link creatives and boosts existing Instagram posts. The finished video is added by hand: download it from your Higgsfield assets, upload it in Ads Manager, and the campaign built in the session runs on it.
+
+There is a separate distribution route that does not go through the Claude session at all. Generate through Supercomputer on higgsfield.ai, and the same suite account sends content across more than 30 connectors: Scheduled Tasks publish to connected TikTok, LinkedIn, X, and Threads accounts, with an Instagram connector available in select regions, and deliver files to team apps such as Slack, Google Drive, and Notion. Scheduled Tasks are available on eligible plans.
+
+How the Performance Loop Closes
+
+Performance data comes back differently for the two publishing routes:
+
+Paid campaigns. Meta MCP pulls reporting and insights into the conversation, and Claude turns them into the next brief: which hooks held attention, which variants to retire, what to generate next.
+Organic posts. Performance analytics live inside the connected platforms, so the numbers come back into the session as exports.
+Before spending at all. Virality Predictor runs through the Higgsfield connector and scores a finished video on hook strength, retention risk, and engagement, a practical filter before publication.
+Three Levels of Autonomy: Assistant, Operator, Agent
+
+How far Claude runs the workflow depends on what you connect and what you keep manual. There are three working modes.
+
+Assistant. Claude writes scripts, hooks, and briefs, and a human takes them into production tools manually. This is Claude with no connectors, and it fits teams with an existing production pipeline.
+Operator. Claude generates finished creatives through Higgsfield MCP, and a human downloads the files and publishes them through Ads Manager or a scheduling tool such as Supercomputer. This fits most marketing teams: production is automated, and a person decides what goes live.
+Agent. Claude generates, publishes to supported platforms, and retrieves available performance data in the same session, with budget limits set in the ad account and review gates on activation. This fits teams running high-volume creative testing that review what the agent does before it spends.
+How To Set Up Both Connectors
+
+Two connectors cover the workflow. Setup takes a few minutes:
+
+On higgsfield.ai/mcp, use the Connect to Claude button, or add the connector manually: in Claude, open Settings, then Connectors, and paste the server URL https://mcp.higgsfield.ai/mcp.
+Sign in to your Higgsfield account. An active subscription is required, and there is no API key to manage.
+For paid distribution, add Meta's hosted ads server at mcp.facebook.com/ads the same way, and sign in through the Facebook Login for Business dialog.
+
+Custom connectors are available on all Claude plans, and the Free plan is limited to one custom connector, so this two-connector setup needs a paid plan. On Team and Enterprise accounts, an owner adds the connector to the organization before members connect. Connector actions depend on account permissions and Claude's approval settings, so keep explicit review gates around publishing, campaign activation, and budget changes, even when trusted tools are allowed to run automatically.
+
+The full walkthrough with model details is in Generate AI Videos From Claude with Higgsfield MCP.
+
+With both connected, one prompt can start several connected tasks, with review at the key stages:
+
+Here is the product page: [URL]. Write a UGC script, generate the ad with the Product Review UGC skill, create three hook variants with Ad Multiplier, then show me the credit cost and wait for my approval before publishing the winner to TikTok and setting up the Meta campaign as paused drafts.
+Copy
+Recreate
+What Stays Manual
+
+An honest list of what stays outside the automated part:
+
+Research is limited to the Meta Ad Library. Other ad libraries are not connected, so part of the first stage input stays manual.
+Credits apply at standard rates through agents. Unlimited model access applies only on higgsfield.ai, so every generation through Claude deducts credits regardless of your plan.
+There is no built-in credit cap for the agent. The working control is a prompt-level instruction to state the cost and wait for confirmation before generating.
+Paid activation needs review. New campaigns arrive paused, the activation step starts spending budget, and Meta's documentation places responsibility for agent actions on the account holder.
+The video handoff to Meta is manual. The connector builds the campaign, and the finished video is uploaded in Ads Manager before the ad runs on it.
+Organic analytics live in the platforms. Post performance is tracked inside the connected social accounts, not in Higgsfield.
+A human review stays in the process. Watch the generated ad before it goes live and check the product, the text on screen, and the voiceover.
+HOW TO RUN AD PRODUCTION END TO END WITH CLAUDE: FROM IDEA TO PUBLISHED ADS
+Connect Higgsfield MCP

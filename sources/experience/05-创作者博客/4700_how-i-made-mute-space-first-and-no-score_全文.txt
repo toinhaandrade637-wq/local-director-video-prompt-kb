@@ -1,0 +1,45 @@
+【项目】HOW I MADE MUTE: SPACE FIRST, AND NO SCORE（@4700 · 创作者博客）
+【链接】https://higgsfield.ai/@4700/blogs/how-i-made-mute-space-first-and-no-score
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I MADE MUTE: SPACE FIRST, AND NO SCORE
+4
+@4700
+26
+3
+0
+
+MUTE is an 11-minute short about a deaf man who begins to hear the unspoken thoughts of the woman he loves. Two of us made it. Here is how it was actually built, in case any of it is useful to someone.
+
+SPACE BEFORE STORY
+
+Most workflows start with reference images: generate a look, lock it, then push every shot toward it. I went the other way. I gave the model only a color palette, a mood and a lighting direction - no reference image, no blocking - and let it invent the space on its own.
+
+Then I put the character inside it. A 720p, 30-second POV shot: he walks in, and the camera slowly pans around the room. That was the whole idea. I wasn't shooting a scene, I was scouting a location.
+
+When a space came back that I actually wanted to be inside, I captured frames from it and built the story out of that space. Location first, story second. It sounds backwards, but the rooms in MUTE feel lived-in because they were never designed to serve a scene - the scene was written to fit a room I had already fallen for.
+
+NO SCORE, ONLY THE SOUND THAT EXISTS IN THE SCENE
+
+I didn't use a music-generation model. When the film needed music, I generated a video of an orchestra actually performing and pulled the audio out of it. Everything else you hear is diegetic - it comes from a radio inside the shot.
+
+Narration worked on the same principle. Instead of generating a voice track, I put the character in a recording studio and generated the session. The performance comes from a body in a room, not from a text box.
+
+All of this came out of 480p, 30-second passes. Resolution doesn't matter when what you are harvesting is sound.
+
+CHASING A FILM LOOK
+
+What I was really after was texture. I didn't want it to read as AI footage. I wanted outlines that stay soft, figures that sink into the frame instead of sitting on top of it - the quality that makes an image feel photographed rather than rendered.
+
+I found that Japanese settings bring that out remarkably well, and that is why MUTE is set in Japan: the palette and the texture of the image. Beyond the look, the story simply fit Japan better than Korea.
+
+WHAT IT COST
+
+403 generations, 21,081 credits, roughly $1,000 for the two of us. That is more than I had planned, because I generated the narration, the music and the ambience myself instead of sourcing them. If you hand those off externally you can finish for much less - but to fill ten minutes and keep it cinematic, I would say $500 is the realistic floor.
+
+You can watch MUTE here: higgsfield.ai/@4700/projects/mute
+
+Happy to answer anything about the process. Good luck to everyone still in the race.

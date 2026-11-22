@@ -1,0 +1,11 @@
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+/资料库/** -text
+/研究记录/** -text
+/资料库/来源登记.md text eol=lf
+/资料库/来源登记.json text eol=lf

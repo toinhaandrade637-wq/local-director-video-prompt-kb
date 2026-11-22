@@ -1,0 +1,59 @@
+【项目】Death's First Day（@nirina · 社区项目）
+【链接】https://higgsfield.ai/zh/@nirina/projects/death-s-first-day
+【数据】计数未取到（见项目页）
+【捕获】2026-10-28（浏览器"项目简报"面板）
+
+──────────────────────────────────────
+
+Death has come, but nothing goes as planned.
+
+A story about anger and the things we never took the time to saying, based on my personal story.
+
+✨ CONTEXT
+
+This film is based on my personal journey since my father passed away a few years ago: navigating grief, forgiveness, and now connecting with him in the afterlife.
+
+
+
+
+STORY
+
+On her very first day, a clumsy rookie Reaper can't pry loose the soul of an absent father, because his seven-year-old son's heart is too heavy to let him go. To free him, she dares the boy to finally tell his dad what he's never said.
+
+CHARACTERS
+
+FATHER and SON are mirrors, with REAPER between them. 
+FATHER: Blue, well-groomed, square face, tired of having followed the rules all his life.
+SON: Orange, round. Unlike his father's neat look, his hair represents his free and creative spirit.
+REAPER: Purple, a mix of blue and orange.
+
+
+
+
+LOCATIONS
+
+I wanted the story to be an emotional ride and built an audio environnement for each.
+1. Room: Cold tone. Heart monitor sound.
+2. Woundland: Grayish. The wound from SON's consciousness. Lot of echo
+3 Farewell: A multicolored universe from SON's consciousness. I'm using a subtle reversed delay to show that time doesn't exist here: past, present and future coexist.
+
+
+
+
+FIRST & LAST FRAME
+
+The film opens on a father's closed eyes and ends on his son's, opening.
+Grief taught me that the story doesn't stop with the one who leaves. It goes on with the one who wakes up the next morning, carrying a little of their light.
+
+
+
+
+MUSIC
+
+Je suis là ("I'm here") is a song I wrote while I was grieving. It's about a soul who comes back to tell a loved one that they're okay. For this film, I used SUNO to turn it into an instrumental movie soundtrack, with no lyrics. The original version isn't in the film, but the song is where the film comes from.
+
+AUDIO SFX
+
+If you ask me, I believe sound is 51% of the moviegoing experience. That's why I generate SFX in a separate pass and layer it on top of the video generations. Sometimes I blend 20% of the audio from Seedance, sometimes the audio is entirely rebuilt from scratch.
+
+For SFX generations I use Seed Audio, Elevenlabs or Sonilo. Because SFX generation is really cheap, I can generate, try and iterate fast.

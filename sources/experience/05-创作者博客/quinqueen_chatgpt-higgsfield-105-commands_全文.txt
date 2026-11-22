@@ -1,0 +1,298 @@
+【项目】CHATGPT × HIGGSFIELD 完整入門：設定教學與 105 個 COMMANDS 中英對照（@quinqueen · 创作者博客）
+【链接】https://higgsfield.ai/@quinqueen/blogs/chatgpt-higgsfield-105-commands
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+CHATGPT × HIGGSFIELD 完整入門：設定教學與 105 個 COMMANDS 中英對照
+Q
+@quinqueen
+160
+0
+0
+
+3天免費試用：https://higgsfield.ai/s/higgsfield-plugin-in-chatgpt-commands-ig-quinqueen-DkNaYn
+
+Get 3 days free trial:https://higgsfield.ai/s/higgsfield-plugin-in-chatgpt-commands-ig-quinqueen-DkNaYn
+
+中文版
+
+ChatGPT × Higgsfield（HVL） 可以讓你在對話中用自然語言或 /command 製作圖片、影片、廣告、動態設計，亦可連接 After Effects、Blender、Premiere Pro 等桌面軟件。
+
+本教學收錄 105 個入口：36 個功能指令、45 個圖片預設、18 個影片預設、4 個模板庫入口，以及 2 個已確認 Viral 模板。
+
+如何在 ChatGPT 設定 Higgsfield
+打開 ChatGPT 或 Codex 的 Apps／Plugins 管理頁。
+搜尋並安裝或啟用 Higgsfield。
+按畫面提示連接你的 Higgsfield 帳戶。
+開啟新對話，在輸入框選擇或 @ 提及 Higgsfield。
+輸入「列出可用的 Higgsfield commands」測試連接。
+如需控制桌面軟件，先輸入相應設定指令，例如 /use-after-effects。
+建議 Prompt 公式
+
+指令＋素材＋用途＋畫面比例＋時長＋動作＋風格＋必須保留內容＋輸出要求
+
+例：/floatingfall。使用我上載的人物照及三張產品圖，製作 9:16 社交媒體短片。人物向後跌落，產品在空中漂浮；Logo 必須清晰，保持人物樣貌一致，輸出 720p 預覽。
+
+使用前要知道
+指令只係入口，仍應寫清楚主體、用途、比例、風格與輸出。
+圖片及影片預設不同；例如 /unboxing 在本清單屬於圖片預設。
+Viral 與 Marketing Studio 會持續更新，名稱可能新增、下架或改動。
+105 是本文收錄數量，並非 Higgsfield 全平台永久總數。
+105 個 Commands：中文版
+A. 功能／工作流程（36）
+/2d-character — AE 2D 角色動畫
+/cartoon-shaders — Blender 卡通材質
+/color-grading — DaVinci Resolve 影片調色
+/destruction-studio — Blender 建築倒塌模擬
+/exploded-view — 產品拆解及組裝動畫
+/genjutsu — 動作轉移／替換人物或物件
+/image-fixer — Photoshop 圖像修復
+/kinetic-typography — AE 動態文字
+/logo-animation — AE Logo 動畫
+/lyrics-animation — 音訊同步歌詞動畫
+/marketing — 查看 Marketing 工作流程
+/marketing-adapt-video — 參考廣告結構製作新影片
+/marketing-campaign-manager — 分析廣告數據及投放建議
+/marketing-feedback-to-ads — 將顧客意見轉成廣告
+/marketing-headline-variants — 製作標題版本
+/marketing-hook-variants — 製作影片 Hook 版本
+/marketing-localize-ads — 廣告多語言本地化
+/marketing-research-to-ads — 研究產品及競品後製作廣告
+/marketing-resize-ads — 調整廣告至指定尺寸
+/motion-bundle — AE 動態圖像套裝
+/poster-animation — AE 海報動畫
+/presentation-animation — AE 簡報及轉場動畫
+/project-sorter — 整理 Premiere Pro 工程
+/saas-animation — SaaS 介面及產品示範動畫
+/scene-builder — Blender 場景及鏡位配置
+/scribble-animation — AE 手繪塗鴉動畫
+/shot-cleanup — 移除影片雜物及瑕疵
+/shot-composer — AE 可編輯 VFX 合成
+/use-after-effects — 設定 After Effects 整合
+/use-blender — 設定 Blender MCP
+/use-davinci — 設定 DaVinci Resolve 整合
+/use-illustrator — 設定 Illustrator 整合
+/use-photoshop — 設定 Photoshop 整合
+/use-premiere — 設定 Premiere Pro 整合
+/use-touchdesigner — 設定 TouchDesigner MCP
+/vectorize — 圖片轉可編輯向量圖
+B. 圖片預設（45）
+/angles — 多角度產品展示
+/before-after — 使用前後對比
+/benefits — 產品主要優點
+/bundle — 產品套裝
+/care-guide — 產品保養指南
+/color-pop — 鮮色圖形產品構圖
+/fabric-wave — 流動布料圍繞產品
+/feature-zoom — 放大重點功能
+/flatlay — 俯拍平鋪構圖
+/gym-bag — 健身用品場景
+/hero-shot — 產品主角視覺
+/how-it-works — 產品運作解說
+/ice-capsule — 產品封入透明冰塊
+/in-hand — 手持產品畫面
+/inside-pack — 包裝內部結構
+/kitchen-scene — 廚房產品場景
+/luxury — 高級柔光視覺
+/main-benefit — 單一核心賣點
+/minimalist-white — 簡約白底商品圖
+/moodboard — 品牌 Moodboard
+/myth-fact — 迷思與事實對照
+/new-drop — 新品發布圖
+/on-desk — 工作桌產品場景
+/pedestal-shot — 紀念碑式產品展示
+/powder-cloud — 彩色粉末雲
+/power-angle — 有力量感的低角度
+/product-match — 產品選擇指南
+/quick-steps — 簡短步驟教學
+/reel-cover — Reel 靜態封面
+/retail-stack — 產品包裝堆疊
+/saveable-tip — 收藏型貼士卡
+/share-card — 分享型視覺卡
+/shelf-ready — 貨架產品展示
+/signature-frame — 品牌標誌性視覺
+/specs — 產品規格
+/swipe-opener — Carousel 首頁
+/symmetry — 完全對稱構圖
+/three-reasons — 三個選購理由
+/travel-pack — 旅行用品場景
+/unboxing — 開盒展示內容物（圖片）
+/usage-guide — 產品使用指南
+/vertical-hook — 直向吸睛視覺
+/water-splash — 皇冠形水花
+/weekend-carry — 週末隨身用品
+/whats-inside — 內容物或成分展示
+C. 影片預設（18）
+/crane-reveal — 垂直鏡頭揭示產品
+/detail-scan — 逐項揭示產品細節
+/floating-roll — 零重力慢速旋轉
+/half-turn — 平滑旋轉 180°
+/impact — 粒子爆發定格
+/label-trace — 掃過 Logo 及標籤
+/light-sweep — 光帶掃過產品
+/liquid-wrap — 液體包圍產品
+/macro-glide — 微距滑過產品表面
+/paint-wave — 彩色油漆浪潮
+/product-spin — 產品旋轉 360°
+/pull-back — 拉遠揭示場景
+/push-in — 平滑推近
+/shadow-motion — 移動圖形陰影
+/sunrise-pass — 由暗轉暖光
+/texture-track — 沿材質紋理移動
+/topdown-dive — 由俯視推進至近鏡
+/whip-pan — 快速甩鏡至產品
+D. 模板庫入口（4）
+/effects — 瀏覽 Viral 特效模板
+/product — 瀏覽產品攝影模板
+/motion — 瀏覽動態模板
+/marketing-studio — 瀏覽 Marketing Studio
+E. 已確認 Viral 模板（2）
+/floatingfall — 向後跌落，物件在半空漂浮
+/earthzoom — 地球縮放轉場
+你可能見過的其他名稱
+/productexplosion：目前內置清單未有完全相同名稱，可描述「產品爆炸／拆解效果」，或搜尋 Motion 模板庫。
+/tvcommerical：目前未有完全相同名稱；標準英文拼法是 commercial。
+/ugc：目前沒有單一同名入口；可直接要求 UGC product、try-on、tutorial、unboxing 或 website video。
+English Version
+
+ChatGPT × Higgsfield (HVL) lets you create images, videos, ads, and motion design through natural-language prompts or a specific /command. It can also connect to desktop tools such as After Effects, Blender, and Premiere Pro.
+
+This guide documents 105 entries: 36 functional commands, 45 image presets, 18 video presets, four gallery entry points, and two confirmed Viral templates.
+
+Set Up Higgsfield in ChatGPT
+Open the Apps or Plugins manager in ChatGPT or Codex.
+Search for and install or enable Higgsfield.
+Follow the on-screen steps to connect your Higgsfield account.
+Start a new conversation and select or @mention Higgsfield.
+Test the connection by asking: “List the available Higgsfield commands.”
+For a desktop app, begin with its setup command, such as /use-after-effects.
+Recommended Prompt Formula
+
+Command + assets + purpose + aspect ratio + duration + motion + style + protected details + delivery format
+
+Example: /floatingfall. Use my uploaded portrait and three product images to create a 9:16 social video. The subject falls backward while the products float in midair. Keep each logo legible and preserve the subject’s identity. Deliver a 720p preview.
+
+Before You Start
+A command is an entry point; still specify the subject, purpose, aspect ratio, style, and output.
+Image and video presets are different. For example, /unboxing is an image preset in this list.
+Viral and Marketing Studio libraries change over time.
+105 is the number documented here, not a permanent platform-wide total.
+Complete List of 105 Commands
+A. Functional and Workflow Commands (36)
+/2d-character — Animate 2D characters in After Effects
+/cartoon-shaders — Create cartoon materials in Blender
+/color-grading — Grade video in DaVinci Resolve
+/destruction-studio — Build destruction simulations in Blender
+/exploded-view — Create product exploded-view animations
+/genjutsu — Transfer motion or replace subjects and objects
+/image-fixer — Repair generated images in Photoshop
+/kinetic-typography — Create kinetic typography in After Effects
+/logo-animation — Animate logos in After Effects
+/lyrics-animation — Animate lyrics in sync with audio
+/marketing — Browse marketing workflows
+/marketing-adapt-video — Adapt a reference ad structure
+/marketing-campaign-manager — Analyze campaign data and recommend actions
+/marketing-feedback-to-ads — Turn customer feedback into ads
+/marketing-headline-variants — Create headline variants
+/marketing-hook-variants — Create video hook variants
+/marketing-localize-ads — Localize ads into multiple languages
+/marketing-research-to-ads — Research products and competitors, then create ads
+/marketing-resize-ads — Resize ads for requested placements
+/motion-bundle — Create a coordinated motion-graphics bundle
+/poster-animation — Animate posters in After Effects
+/presentation-animation — Animate presentations and transitions
+/project-sorter — Organize Premiere Pro projects
+/saas-animation — Animate SaaS interfaces and product demos
+/scene-builder — Build scenes and camera blocking in Blender
+/scribble-animation — Create scribble animation in After Effects
+/shot-cleanup — Remove unwanted objects and blemishes
+/shot-composer — Compose editable VFX shots in After Effects
+/use-after-effects — Set up the After Effects integration
+/use-blender — Set up Blender MCP
+/use-davinci — Set up DaVinci Resolve
+/use-illustrator — Set up Illustrator
+/use-photoshop — Set up Photoshop
+/use-premiere — Set up Premiere Pro
+/use-touchdesigner — Set up TouchDesigner MCP
+/vectorize — Convert an image into editable vector artwork
+B. Built-in Image Presets (45)
+/angles — Multiple product angles
+/before-after — Before-and-after solution
+/benefits — Key product benefits
+/bundle — Product bundle
+/care-guide — Product care guide
+/color-pop — Bold colorful product composition
+/fabric-wave — Flowing fabric around the product
+/feature-zoom — Zoom into a key feature
+/flatlay — Overhead flat-lay composition
+/gym-bag — Gym-kit scene
+/hero-shot — Hero product visual
+/how-it-works — How-it-works explainer
+/ice-capsule — Product encased in transparent ice
+/in-hand — Product held in a hand
+/inside-pack — Inside-the-pack view
+/kitchen-scene — Kitchen product scene
+/luxury — Luxury soft-glow visual
+/main-benefit — Single main benefit
+/minimalist-white — Minimal white store image
+/moodboard — Branded moodboard
+/myth-fact — Myth versus fact
+/new-drop — New product announcement
+/on-desk — Product on a desk
+/pedestal-shot — Monumental pedestal shot
+/powder-cloud — Colored powder cloud
+/power-angle — Striking low-angle view
+/product-match — Product matching guide
+/quick-steps — Quick step-by-step guide
+/reel-cover — Static Reel cover
+/retail-stack — Retail product stack
+/saveable-tip — Saveable tip card
+/share-card — Shareable visual card
+/shelf-ready — Shelf-ready product display
+/signature-frame — Signature brand frame
+/specs — Product specifications
+/swipe-opener — Carousel opening slide
+/symmetry — Perfectly symmetrical composition
+/three-reasons — Three reasons to choose the product
+/travel-pack — Travel-kit scene
+/unboxing — Open-box reveal (image)
+/usage-guide — Product usage guide
+/vertical-hook — Vertical hook visual
+/water-splash — Crown-shaped water splash
+/weekend-carry — Weekend essentials
+/whats-inside — Contents or ingredients view
+C. Built-in Video Presets (18)
+/crane-reveal — Vertical camera reveal
+/detail-scan — Sequential detail reveal
+/floating-roll — Slow zero-gravity rotation
+/half-turn — Smooth 180-degree turn
+/impact — Frozen particle impact
+/label-trace — Trace the logo and label
+/light-sweep — Light band sweeps across the product
+/liquid-wrap — Liquid wraps around the product
+/macro-glide — Macro glide across the surface
+/paint-wave — Colorful paint wave
+/product-spin — Clean 360-degree product spin
+/pull-back — Camera pull-back reveal
+/push-in — Smooth camera push-in
+/shadow-motion — Moving graphic shadows
+/sunrise-pass — Dark-to-warm-light transition
+/texture-track — Track along the material texture
+/topdown-dive — Top-down dive into a close-up
+/whip-pan — Fast whip-pan to the product
+D. Gallery Entry Points (4)
+/effects — Browse Viral effects
+/product — Browse product-shot templates
+/motion — Browse motion templates
+/marketing-studio — Browse Marketing Studio
+E. Confirmed Viral Templates (2)
+/floatingfall — Backward fall with floating belongings
+/earthzoom — Earth-zoom transition
+Other Names You May Have Seen
+/productexplosion: no exact match in the current built-in catalog; describe an explosion or exploded-view result, or search the motion library.
+/tvcommerical: no exact match; the standard spelling is commercial.
+/ugc: no single exact built-in entry; request a UGC product, try-on, tutorial, unboxing, or website video in plain language.
+
+Checked against the connected Higgsfield command catalog on 24 September 2026. Dynamic gallery entries may change.

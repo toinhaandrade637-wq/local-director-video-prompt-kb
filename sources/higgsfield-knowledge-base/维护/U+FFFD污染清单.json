@@ -1,0 +1,1096 @@
+{
+ "generated": "2026-11-05",
+ "total_files": 272,
+ "total_hits": 20683,
+ "note": "1,064 条 prompt 正文字段污染待回源重抓（学习仓/05区副本比对）；恢复前引文不得声称 verbatim",
+ "files": [
+  {
+   "file": "02_完整提示词数据包\\100_MILLION_RAT\\100_MILLION_RAT_all_prompts.jsonl",
+   "处": 9
+  },
+  {
+   "file": "02_完整提示词数据包\\14_DAYS\\14_DAYS_all_prompts.jsonl",
+   "处": 106
+  },
+  {
+   "file": "02_完整提示词数据包\\1916_WORLD_WAR\\1916_WORLD_WAR_all_prompts.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\333\\333_all_prompts.jsonl",
+   "处": 13
+  },
+  {
+   "file": "02_完整提示词数据包\\4K_BLOCKBUSTER_BREAKDOWN\\blockbuster_4k_all_assets.jsonl",
+   "处": 35
+  },
+  {
+   "file": "02_完整提示词数据包\\4K_BLOCKBUSTER_BREAKDOWN\\blockbuster_4k_all_unique_prompts_1076.jsonl",
+   "处": 35
+  },
+  {
+   "file": "02_完整提示词数据包\\9091\\9091_all_prompts.jsonl",
+   "处": 7
+  },
+  {
+   "file": "02_完整提示词数据包\\AA_MEETING\\AA_MEETING_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\ADILIADA\\ADILIADA_1__COLD_OPEN___The_Crow_Hunt__1342.jsonl",
+   "处": 8
+  },
+  {
+   "file": "02_完整提示词数据包\\ADILIADA\\ADILIADA_2__MAIN_TITLE_SEQUENCE_4432.jsonl",
+   "处": 19
+  },
+  {
+   "file": "02_完整提示词数据包\\ADILIADA\\ADILIADA_3__SPACE_SCENES_2242.jsonl",
+   "处": 8
+  },
+  {
+   "file": "02_完整提示词数据包\\ADILIADA\\ADILIADA_4__MEETING_THE_VILIAN_2268.jsonl",
+   "处": 12
+  },
+  {
+   "file": "02_完整提示词数据包\\ADILIADA\\ADILIADA_all_unique_prompts_1698.jsonl",
+   "处": 51
+  },
+  {
+   "file": "02_完整提示词数据包\\ADILIADA\\ADILIADA__root_404.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\AFTER_HOURS\\AFTER_HOURS_all_prompts.jsonl",
+   "处": 16
+  },
+  {
+   "file": "02_完整提示词数据包\\AI_FILM_FESTIVAL_A_PROPER_WOMAN_S_GUIDE_TO_MONSTER\\AI_FILM_FESTIVAL_A_PROPER_WOMAN_S_GUIDE_TO_MONSTER_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\AND_STILL_LIFE\\AND_STILL_LIFE_all_prompts.jsonl",
+   "处": 9
+  },
+  {
+   "file": "02_完整提示词数据包\\ANERNEQ\\ANERNEQ_all_prompts.jsonl",
+   "处": 171
+  },
+  {
+   "file": "02_完整提示词数据包\\APEIROPHOBIA\\APEIROPHOBIA_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\APOCALYPSE_SQUAD\\APOCALYPSE_SQUAD_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\ARKYN\\ARKYN_all_prompts.jsonl",
+   "处": 7
+  },
+  {
+   "file": "02_完整提示词数据包\\ASHES_OF_FREEDOM\\ASHES_OF_FREEDOM_all_prompts.jsonl",
+   "处": 11
+  },
+  {
+   "file": "02_完整提示词数据包\\ATHERIA\\ATHERIA_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\AZTEC_REVOLT_ESCAPING_TENOCHTITLAN\\AZTEC_REVOLT_ESCAPING_TENOCHTITLAN_all_prompts.jsonl",
+   "处": 10
+  },
+  {
+   "file": "02_完整提示词数据包\\A_LIFE\\A_LIFE_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\A_LONG_LUNCH\\A_LONG_LUNCH_all_prompts.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\A_YEAR_LATER\\A_YEAR_LATER_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\BEHIND_THE_LENS\\BEHIND_THE_LENS_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\BIOSCOPE\\BIOSCOPE_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\BLACKPINE\\BLACKPINE_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\BLESTYASHCHEE_NEVEZHESTVO\\BLESTYASHCHEE_NEVEZHESTVO_all_prompts.jsonl",
+   "处": 14
+  },
+  {
+   "file": "02_完整提示词数据包\\BRAMBLE\\BRAMBLE_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\BRATIX\\BRATIX_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\BREATH\\BREATH_all_prompts.jsonl",
+   "处": 27
+  },
+  {
+   "file": "02_完整提示词数据包\\BUCK\\BUCK_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\CAMEL\\CAMEL_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\CAMPING\\CAMPING_all_prompts.jsonl",
+   "处": 20
+  },
+  {
+   "file": "02_完整提示词数据包\\CHORNOS_THE_CHOSEN\\CHORNOS_THE_CHOSEN_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\CLEAR_INTENTION\\CLEAR_INTENTION_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\CULLY_HILL_BOYS\\CULLY_HILL_BOYS_0_Regenerations_200.jsonl",
+   "处": 15
+  },
+  {
+   "file": "02_完整提示词数据包\\CULLY_HILL_BOYS\\CULLY_HILL_BOYS_1_ACT__1-49__799.jsonl",
+   "处": 22
+  },
+  {
+   "file": "02_完整提示词数据包\\CULLY_HILL_BOYS\\CULLY_HILL_BOYS_2_ACT__50-93__625.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\CULLY_HILL_BOYS\\CULLY_HILL_BOYS_3_ACT__93-120__536.jsonl",
+   "处": 48
+  },
+  {
+   "file": "02_完整提示词数据包\\CULLY_HILL_BOYS\\CULLY_HILL_BOYS_4ACT_Epilogue__121-137__798.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\CULLY_HILL_BOYS\\CULLY_HILL_BOYS_all_unique_prompts_3174.jsonl",
+   "处": 272
+  },
+  {
+   "file": "02_完整提示词数据包\\CULLY_HILL_BOYS\\CULLY_HILL_BOYS_PRE__PROD_34319.jsonl",
+   "处": 181
+  },
+  {
+   "file": "02_完整提示词数据包\\DEAD_ALIVE\\DEAD_ALIVE_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\DEAD_WATER\\DEAD_WATER_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\DEATH_CAME_TO_DINNER\\DEATH_CAME_TO_DINNER_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\DEEP_CLEAN\\DEEP_CLEAN_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\DEMENTIA\\DEMENTIA_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_all_assets.jsonl",
+   "处": 380
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_all_unique_prompts_2173.jsonl",
+   "处": 380
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_Characters_1106.jsonl",
+   "处": 33
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_Locations_1673.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_root_direct_727.jsonl",
+   "处": 9
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_scenes_11.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_scenes_Scene_02_49.jsonl",
+   "处": 9
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_scenes_Scene_03_184.jsonl",
+   "处": 34
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_scenes_Scene_04_49.jsonl",
+   "处": 9
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_scenes_Scene_06_353.jsonl",
+   "处": 126
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_scenes_Scene_07_120.jsonl",
+   "处": 58
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_scenes_Scene_08_240.jsonl",
+   "处": 72
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_scenes_Scene_09_248.jsonl",
+   "处": 15
+  },
+  {
+   "file": "02_完整提示词数据包\\DETOUR\\DETOUR_Tests_140.jsonl",
+   "处": 8
+  },
+  {
+   "file": "02_完整提示词数据包\\DREAMER_THE_OTHER_YOU\\DREAMER_THE_OTHER_YOU_all_prompts.jsonl",
+   "处": 19
+  },
+  {
+   "file": "02_完整提示词数据包\\DUSK\\dusk_all_assets.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\DUSK\\DUSK_all_unique_prompts_220.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\EASY_TARGET\\EASY_TARGET_all_prompts.jsonl",
+   "处": 10
+  },
+  {
+   "file": "02_完整提示词数据包\\ECLIPSE\\ECLIPSE_all_prompts.jsonl",
+   "处": 20
+  },
+  {
+   "file": "02_完整提示词数据包\\EDEN\\EDEN_all_prompts.jsonl",
+   "处": 14
+  },
+  {
+   "file": "02_完整提示词数据包\\FLY\\FLY_all_prompts.jsonl",
+   "处": 42
+  },
+  {
+   "file": "02_完整提示词数据包\\FOUND_ME\\FOUND_ME_all_prompts.jsonl",
+   "处": 82
+  },
+  {
+   "file": "02_完整提示词数据包\\GLITCH_DAY\\GLITCH_DAY_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\GREEN_FLAG\\GREEN_FLAG_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\H2O\\H2O_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\HELL_GRIND\\HELL_GRIND_1__COLD_OPEN_624.jsonl",
+   "处": 11
+  },
+  {
+   "file": "02_完整提示词数据包\\HELL_GRIND\\HELL_GRIND_all_unique_prompts_1861.jsonl",
+   "处": 196
+  },
+  {
+   "file": "02_完整提示词数据包\\HELL_GRIND\\HELL_GRIND_Assets_4501.jsonl",
+   "处": 21
+  },
+  {
+   "file": "02_完整提示词数据包\\HELL_GRIND\\HELL_GRIND_Flashbacks_2427.jsonl",
+   "处": 56
+  },
+  {
+   "file": "02_完整提示词数据包\\HELL_GRIND\\HELL_GRIND_Scene_25_Roko_vs_Robots_352.jsonl",
+   "处": 8
+  },
+  {
+   "file": "02_完整提示词数据包\\HELL_GRIND\\HELL_GRIND_Scene_28_200.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\HELL_GRIND\\HELL_GRIND_Scene_67_200.jsonl",
+   "处": 82
+  },
+  {
+   "file": "02_完整提示词数据包\\HELL_GRIND\\HELL_GRIND_Scene_72A_200.jsonl",
+   "处": 8
+  },
+  {
+   "file": "02_完整提示词数据包\\HELL_GRIND\\HELL_GRIND_Scene_72__Roko_vs_Dagon_200.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\HELL_GRIND\\HELL_GRIND_Series_914.jsonl",
+   "处": 9
+  },
+  {
+   "file": "02_完整提示词数据包\\HERO\\HERO_all_prompts.jsonl",
+   "处": 56
+  },
+  {
+   "file": "02_完整提示词数据包\\HERU_OUTSIDE_THE_FEED\\HERU_OUTSIDE_THE_FEED_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\HIGGSFIELD_ACADEMY_ASKAR\\HIGGSFIELD_ACADEMY_ASKAR_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\HIGGSFIELD_ACADEMY_PROJECT\\higgsfield_academy_project_all_assets.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\HIGGSFIELD_ACADEMY_PROJECT\\higgsfield_academy_project_all_unique_prompts_42.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\HIGH_SCHOOL_TERROR\\HIGH_SCHOOL_TERROR_all_prompts.jsonl",
+   "处": 42
+  },
+  {
+   "file": "02_完整提示词数据包\\HONOR\\HONOR_all_prompts.jsonl",
+   "处": 163
+  },
+  {
+   "file": "02_完整提示词数据包\\HOPE\\HOPE_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\HORSELESS\\HORSELESS_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\HUMAN_ERROR\\HUMAN_ERROR_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\HWANDO_SEOL\\HWANDO_SEOL_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\ICONIC_BETA\\ICONIC_BETA_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\IF_YOU_STOP_LOVING_ME\\IF_YOU_STOP_LOVING_ME_all_unique_prompts_749.jsonl",
+   "处": 8
+  },
+  {
+   "file": "02_完整提示词数据包\\IF_YOU_STOP_LOVING_ME\\IF_YOU_STOP_LOVING_ME_Development_1590.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\IF_YOU_STOP_LOVING_ME\\IF_YOU_STOP_LOVING_ME_PT-1_1842.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\INDIGO\\INDIGO_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\IN_S\\IN_S_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\IT_S_ME\\IT_S_ME_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\KADHAA_2155\\KADHAA_2155_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\KARKINOS\\KARKINOS_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\KARNA\\KARNA_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\KNOCK_KNOCK_KNOCK\\KNOCK_KNOCK_KNOCK_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\KOK_BORU\\KOK_BORU_all_unique_prompts_218.jsonl",
+   "处": 39
+  },
+  {
+   "file": "02_完整提示词数据包\\KOK_BORU\\KOK_BORU_root_1475.jsonl",
+   "处": 33
+  },
+  {
+   "file": "02_完整提示词数据包\\KOK_BORU\\KOK_BORU_SH01_40.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\KOK_BORU\\KOK_BORU_SH09_460.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\KOK_BORU_FILM\\KOK_BORU_FILM_ACT_1_4730.jsonl",
+   "处": 54
+  },
+  {
+   "file": "02_完整提示词数据包\\KOK_BORU_FILM\\KOK_BORU_FILM_ACT_2_4178.jsonl",
+   "处": 2721
+  },
+  {
+   "file": "02_完整提示词数据包\\KOK_BORU_FILM\\KOK_BORU_FILM_ACT_3_3031.jsonl",
+   "处": 2747
+  },
+  {
+   "file": "02_完整提示词数据包\\KOK_BORU_FILM\\KOK_BORU_FILM_all_unique_prompts_2436.jsonl",
+   "处": 5522
+  },
+  {
+   "file": "02_完整提示词数据包\\LONG_SIGH\\LONG_SIGH_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\MADSEASON\\madseason_all_prompts.jsonl",
+   "处": 9
+  },
+  {
+   "file": "02_完整提示词数据包\\MARCEL_S_HEART\\MARCEL_S_HEART_all_prompts.jsonl",
+   "处": 14
+  },
+  {
+   "file": "02_完整提示词数据包\\MARCO_POLO\\MARCO_POLO_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\MARIA_MARIA\\MARIA_MARIA_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\MARUMAI_25\\MARUMAI_25_all_prompts.jsonl",
+   "处": 26
+  },
+  {
+   "file": "02_完整提示词数据包\\MEMORY_THIEF\\MEMORY_THIEF_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\MEMORY_WORLD\\MEMORY_WORLD_all_prompts.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\MINA_ONE_MORE_LIFE\\MINA_ONE_MORE_LIFE_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\MODEL_CITIZEN\\MODEL_CITIZEN_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\MORTAL_KOMBAT_ARC_SERIES\\MORTAL_KOMBAT_ARC_SERIES_all_prompts.jsonl",
+   "处": 91
+  },
+  {
+   "file": "02_完整提示词数据包\\MY_WAY_NAVILLUS\\MY_WAY_NAVILLUS_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\NAHUAL_A_STORY_FROM_LA_HUASTECA\\NAHUAL_A_STORY_FROM_LA_HUASTECA_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\NALA_HEADS_DROP\\nala_heads_drop_all_assets.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\NALA_HEADS_DROP\\nala_heads_drop_all_unique_prompts_151.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\NAMED_FOR_HIM\\NAMED_FOR_HIM_all_prompts.jsonl",
+   "处": 146
+  },
+  {
+   "file": "02_完整提示词数据包\\NAME_IS_COMET\\NAME_IS_COMET_all_prompts.jsonl",
+   "处": 13
+  },
+  {
+   "file": "02_完整提示词数据包\\NATIVE\\NATIVE_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\NEUROVERSE_STILL_AGLOW\\NEUROVERSE_STILL_AGLOW_all_prompts.jsonl",
+   "处": 25
+  },
+  {
+   "file": "02_完整提示词数据包\\NINE_LIVES_AI_FILM_FESTIVAL\\NINE_LIVES_AI_FILM_FESTIVAL_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\NOKU\\NOKU_all_prompts.jsonl",
+   "处": 7
+  },
+  {
+   "file": "02_完整提示词数据包\\NOTHING\\NOTHING_all_prompts.jsonl",
+   "处": 34
+  },
+  {
+   "file": "02_完整提示词数据包\\NOT_A_MONSTER_MOVIE_A_ONE_TAKE_FILM\\NOT_A_MONSTER_MOVIE_A_ONE_TAKE_FILM_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\OCEAN\\OCEAN_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\OEDIPUS\\OEDIPUS_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\ONCE_A_KITTEN\\ONCE_A_KITTEN_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_all_unique_prompts_3247.jsonl",
+   "处": 104
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_ASSETS_22644.jsonl",
+   "处": 32
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_SCENE_10_-_LIVING_ROOM_747.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_SCENE_1_-_KITCHEN_303.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_SCENE_2_-_LIVINGROOM_1324.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_SCENE_3__-_TROY_1665.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_SCENE_5_-_COSMOS_5397.jsonl",
+   "处": 11
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_SCENE_6_-_LIVING_ROOM_911.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_SCENE_7_-_FAIRYTALE_1815.jsonl",
+   "处": 13
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_SCENE_8_-_LIVINGROOM_186.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_SCENE_9A_-_LIVINGROOM_64.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\ONEIRIC\\ONEIRIC_SCENE_9_-_FAIRY_TALE_3740.jsonl",
+   "处": 24
+  },
+  {
+   "file": "02_完整提示词数据包\\ONE_DAY_AT_A_TIME\\ONE_DAY_AT_A_TIME_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\ONE_THE_MERCY_LEDGER\\ONE_THE_MERCY_LEDGER_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\ON_THIN_ICE\\ON_THIN_ICE_all_prompts.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\OOPS_FIRST_CONTACT\\OOPS_FIRST_CONTACT_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\ORDER_OF_ASH\\ORDER_OF_ASH_all_prompts.jsonl",
+   "处": 177
+  },
+  {
+   "file": "02_完整提示词数据包\\ORDINARY_DAY\\ORDINARY_DAY_all_prompts.jsonl",
+   "处": 7
+  },
+  {
+   "file": "02_完整提示词数据包\\OUT_OF_CREDITS\\OUT_OF_CREDITS_all_prompts.jsonl",
+   "处": 23
+  },
+  {
+   "file": "02_完整提示词数据包\\OVERBOARD\\OVERBOARD_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\OVERCLOCK\\OVERCLOCK_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_all_assets.jsonl",
+   "处": 778
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_all_unique_prompts_1193.jsonl",
+   "处": 778
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_art_direction_244.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_regens_413.jsonl",
+   "处": 51
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_root_direct_174.jsonl",
+   "处": 12
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_seq_Seq3_4.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_1-13_743.jsonl",
+   "处": 15
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_1-14_184.jsonl",
+   "处": 53
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_19-25_1301.jsonl",
+   "处": 22
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_1_457.jsonl",
+   "处": 99
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_26-33_457.jsonl",
+   "处": 109
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_34-50_877.jsonl",
+   "处": 13
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_45-55_111.jsonl",
+   "处": 10
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_4_598.jsonl",
+   "处": 175
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_9-13_69.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_misc_4514.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_sc17_319.jsonl",
+   "处": 68
+  },
+  {
+   "file": "02_完整提示词数据包\\PASSPORT_RUSH\\passport_rush_shot_sc7_354.jsonl",
+   "处": 135
+  },
+  {
+   "file": "02_完整提示词数据包\\PERSISTENCE\\PERSISTENCE_all_prompts.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\PHOTO_IN_PARIS\\PHOTO_IN_PARIS_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\PLAY_ANYWAY\\PLAY_ANYWAY_all_prompts.jsonl",
+   "处": 79
+  },
+  {
+   "file": "02_完整提示词数据包\\PLUS_INTEREST\\PLUS_INTEREST_all_prompts.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\PON\\PON_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\PROPHECY_IN_2047\\PROPHECY_IN_2047_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\QUEEN_NOIR\\QUEEN_NOIR_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\RAYEN\\RAYEN_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\RED_FLAG\\RED_FLAG_all_unique_prompts_619.jsonl",
+   "处": 467
+  },
+  {
+   "file": "02_完整提示词数据包\\RED_FLAG\\RED_FLAG_root_2314.jsonl",
+   "处": 178
+  },
+  {
+   "file": "02_完整提示词数据包\\RED_FLAG\\RED_FLAG_scene1_386.jsonl",
+   "处": 84
+  },
+  {
+   "file": "02_完整提示词数据包\\RED_FLAG\\RED_FLAG_scene2_283.jsonl",
+   "处": 85
+  },
+  {
+   "file": "02_完整提示词数据包\\RED_FLAG\\RED_FLAG_scene3_252.jsonl",
+   "处": 92
+  },
+  {
+   "file": "02_完整提示词数据包\\RED_FLAG\\RED_FLAG_test_59.jsonl",
+   "处": 28
+  },
+  {
+   "file": "02_完整提示词数据包\\RELIC\\RELIC_all_prompts.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\REROUTING\\REROUTING_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\REVELATION\\REVELATION_all_prompts.jsonl",
+   "处": 7
+  },
+  {
+   "file": "02_完整提示词数据包\\REVOLUTION\\REVOLUTION_all_prompts.jsonl",
+   "处": 236
+  },
+  {
+   "file": "02_完整提示词数据包\\RIFT_RIDER\\RIFT_RIDER_all_prompts.jsonl",
+   "处": 38
+  },
+  {
+   "file": "02_完整提示词数据包\\RISE_OF_AN_EMPIRE_BY_HOUSE_OF_DI_LORENZO\\RISE_OF_AN_EMPIRE_BY_HOUSE_OF_DI_LORENZO_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\ROAR\\ROAR_all_prompts.jsonl",
+   "处": 7
+  },
+  {
+   "file": "02_完整提示词数据包\\RUBY\\RUBY_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\SAMPO\\SAMPO_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\SEA_OF_FOG\\SEA_OF_FOG_all_prompts.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\SHARDS_OF_WHEN\\SHARDS_OF_WHEN_all_prompts.jsonl",
+   "处": 8
+  },
+  {
+   "file": "02_完整提示词数据包\\SIDE_B\\SIDE_B_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\SIDE_BY_SIDE\\SIDE_BY_SIDE_all_prompts.jsonl",
+   "处": 60
+  },
+  {
+   "file": "02_完整提示词数据包\\SITARA\\SITARA_all_prompts.jsonl",
+   "处": 8
+  },
+  {
+   "file": "02_完整提示词数据包\\SKIN_TRADE\\SKIN_TRADE_all_prompts.jsonl",
+   "处": 8
+  },
+  {
+   "file": "02_完整提示词数据包\\SNAP\\SNAP_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\SPANNERGIRL\\SPANNERGIRL_all_prompts.jsonl",
+   "处": 91
+  },
+  {
+   "file": "02_完整提示词数据包\\STREET_FOOD\\STREET_FOOD_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\STUFFY_SYNTH\\STUFFY_SYNTH_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\SUMMONED\\SUMMONED_all_prompts.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\SUNRISE_THE_PROLOGUE\\SUNRISE_THE_PROLOGUE_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\SUPER_SENIORS\\SUPER_SENIORS_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\S_T_E_V_E\\S_T_E_V_E_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\TAGE_7\\TAGE_7_all_prompts.jsonl",
+   "处": 9
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_APPLE\\THE_APPLE_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_BALLOON\\THE_BALLOON_all_prompts.jsonl",
+   "处": 7
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_BREACH\\THE_BREACH_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_COLLECTOR\\THE_COLLECTOR_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_DIVERGION\\THE_DIVERGION_all_prompts.jsonl",
+   "处": 83
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_FESTIVAL\\THE_FESTIVAL_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_FILTER\\THE_FILTER_all_prompts.jsonl",
+   "处": 168
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_GRAVE\\THE_GRAVE_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_HOST\\THE_HOST_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LAST_BIT\\THE_LAST_BIT_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LAST_OATH\\THE_LAST_OATH_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LAST_RIDE\\THE_LAST_RIDE_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LAST_THING_SHE_HELD\\THE_LAST_THING_SHE_HELD_all_prompts.jsonl",
+   "处": 15
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LEGEND_OF_VANARA\\THE_LEGEND_OF_VANARA_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LOCKED_ROOM\\THE_LOCKED_ROOM_all_prompts.jsonl",
+   "处": 38
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_MOUNTAIN_KEEPS\\THE_MOUNTAIN_KEEPS_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_ONE_THAT_LOOKED\\THE_ONE_THAT_LOOKED_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_SECOND_HAND\\THE_SECOND_HAND_all_prompts.jsonl",
+   "处": 11
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_SEVENTH_LOOP\\THE_SEVENTH_LOOP_all_prompts.jsonl",
+   "处": 6
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_TRIGGER\\THE_TRIGGER_all_unique_prompts_773.jsonl",
+   "处": 225
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_TRIGGER\\THE_TRIGGER_ASSETS_2488.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_TRIGGER\\THE_TRIGGER_SCENE_01_-_KILLER_S_WORK_442.jsonl",
+   "处": 129
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_TRIGGER\\THE_TRIGGER_SCENE_03_-_SNIPER_WATCHING_818.jsonl",
+   "处": 72
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_TRIGGER\\THE_TRIGGER_SCENE_04_-_SNIPER_S_REACTION_291.jsonl",
+   "处": 9
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_TRIGGER\\THE_TRIGGER_SCENE_06_-_WAR_FLASHBACK_879.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_TRIGGER\\THE_TRIGGER__root_132.jsonl",
+   "处": 10
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_WEEKEND\\THE_WEEKEND_all_prompts.jsonl",
+   "处": 10
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_WORLD_WORTH_LIVING_IN\\THE_WORLD_WORTH_LIVING_IN_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_ZERO_LINE\\THE_ZERO_LINE_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\TOKYO_4_17\\TOKYO_4_17_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\TOKYO_DRIFT\\TOKYO_DRIFT_all_prompts.jsonl",
+   "处": 14
+  },
+  {
+   "file": "02_完整提示词数据包\\TOP_UP_CINEMATIC_AD_BREAKDOWN\\TOP_UP_CINEMATIC_AD_BREAKDOWN_all_prompts.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\TO_LIVE_ANOTHER_MORNING\\TO_LIVE_ANOTHER_MORNING_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\TV_4K\\tv_4k_all_assets.jsonl",
+   "处": 11
+  },
+  {
+   "file": "02_完整提示词数据包\\TV_4K\\tv_4k_all_unique_prompts_254.jsonl",
+   "处": 11
+  },
+  {
+   "file": "02_完整提示词数据包\\TWO_DAYS\\TWO_DAYS_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\UNCOUNTED\\UNCOUNTED_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\UNHEARD\\UNHEARD_all_prompts.jsonl",
+   "处": 68
+  },
+  {
+   "file": "02_完整提示词数据包\\UNSENT\\UNSENT_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\VENGEANCE_IS_MINE\\VENGEANCE_IS_MINE_all_prompts.jsonl",
+   "处": 345
+  },
+  {
+   "file": "02_完整提示词数据包\\VESPER\\VESPER_all_prompts.jsonl",
+   "处": 4
+  },
+  {
+   "file": "02_完整提示词数据包\\VORTEX\\VORTEX_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\WELCOME_TO_THE_TEAM\\WELCOME_TO_THE_TEAM_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\WHAT_DO_YOU_NEED_ME_FOR\\WHAT_DO_YOU_NEED_ME_FOR_all_prompts.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\WHAT_IS_LEFT_IS_WIND\\WHAT_IS_LEFT_IS_WIND_all_prompts.jsonl",
+   "处": 21
+  },
+  {
+   "file": "02_完整提示词数据包\\WHERE_LETTERS_FALL\\WHERE_LETTERS_FALL_all_prompts.jsonl",
+   "处": 3
+  },
+  {
+   "file": "02_完整提示词数据包\\WITHIN\\WITHIN_all_prompts.jsonl",
+   "处": 5
+  },
+  {
+   "file": "02_完整提示词数据包\\WORD_VS_WORLD\\WORD_VS_WORLD_all_prompts.jsonl",
+   "处": 50
+  },
+  {
+   "file": "02_完整提示词数据包\\YINGNING\\YINGNING_all_prompts.jsonl",
+   "处": 113
+  },
+  {
+   "file": "02_完整提示词数据包\\YIN_YANG_AGENCY_THUNDER_RISING\\YIN_YANG_AGENCY_THUNDER_RISING_all_prompts.jsonl",
+   "处": 31
+  },
+  {
+   "file": "02_完整提示词数据包\\ZEPHYR\\ZEPHYR_all_unique_prompts_481.jsonl",
+   "处": 8
+  },
+  {
+   "file": "02_完整提示词数据包\\ZEPHYR\\ZEPHYR_image_prompts_1184.jsonl",
+   "处": 2
+  },
+  {
+   "file": "02_完整提示词数据包\\ZEPHYR\\ZEPHYR_video_prompts_3647.jsonl",
+   "处": 6
+  }
+ ]
+}

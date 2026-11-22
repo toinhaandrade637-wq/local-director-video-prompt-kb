@@ -1,0 +1,499 @@
+{"project":"RECURSION","idx":1,"sha8":"df881dd8","len":13431,"nTasks":1,"models":"default","read":true,"findings":"13,431c 25s 五镜反打对话全案（SCENE CONTEXT/SHOT COUNT AND DURATION（two camera angles that cut back and forth. Five shots total, alternating——**两角反打五镜**）/ACTIVE REFERENCES 五条（loc_lab supplies the room geography…only——空间参考四件）/THE TWO ANGLES（both are over-the-shoulder singles, and they are each other's reverse——**互为反打**）/TONE — HOLD THIS ACROSS ALL FIVE SHOTS（**基调跨镜锁定段头**——the mismatch must survive every cut 金句）/DIALOGUE 量表（Exactly four lines…in this order+Lines 1 and 3 belong to the seated woman only——**台词归属锁**）/SHOT A-E 五拍/CUT DISCIPLINE（**Every cut lands in a moment of stillness between lines, never mid-word, mid-breath, mid-laugh or mid-gesture** 金句——**切点落静止**）/CONTINUITY ACROSS THE CUTS（**Alyx's mood only closes further as the sequence runs; it never brightens** 金句——**情绪单向收紧**+Once Alyx sets the pen down it stays lying on the papers——**笔放下恒定**）/单源双角异侧金句（this single source arrives from opposite screen sides in the two angles）/位换禁（never swap positions and never swap lines）/Kodak Vision3 500T）"}
+{"project":"RECURSION","idx":2,"sha8":"0be9d95d","len":13501,"nTasks":1,"models":"default","read":true,"findings":"13,501c 行1 v2（The papers are the only thing on the desk — no lamp, no monitor——桌面空声明 v2）"}
+{"project":"RECURSION","idx":3,"sha8":"9fdd604b","len":6522,"nTasks":1,"models":"default","read":true,"findings":"6,522c 复印间撕纸（COPY ROOM — 25 SECONDS 标题行+two shots, one hard cut at 0:15+SHOT A wide/SHOT B close+paper behaves as paper 物理声明+status light blinking slow red）"}
+{"project":"RECURSION","idx":4,"sha8":"3b4905e3","len":10839,"nTasks":1,"models":"default","read":true,"findings":"10,839c 28s 对话 v2（行1 v2——ANGLE ON ALYX a clean single 版+3,000K 额外 key 段）"}
+{"project":"RECURSION","idx":5,"sha8":"8d5a0811","len":10692,"nTasks":1,"models":"default","read":true,"findings":"10,692c 行4 v2（Nobody speaks in this stretch and nothing begins in it）"}
+{"project":"RECURSION","idx":6,"sha8":"d8045b73","len":318,"nTasks":1,"models":"null","read":true,"findings":"318c 反角生成微指令（**Make the reverse angle of this 3/4 shot of a copier room. Maintain all geometry, lighting, textures, and assets**——**反角指令模板**+Change nothing else about this shot except for the camera angle——**唯一变角**）"}
+{"project":"RECURSION","idx":7,"sha8":"b13da6a0","len":4252,"nTasks":1,"models":"default","read":true,"findings":"4,252c 读纸条 POV（COPY ROOM — 10 SECONDS+POINT OF VIEW. **CAMERA: the camera is her eyes**——**POV 相机=眼声明**+SHOT B — REVERSE, LOW——反打低位+confusion settling on her face）"}
+{"project":"RECURSION","idx":8,"sha8":"89db235f","len":10891,"nTasks":1,"models":"default","read":true,"findings":"10,891c v3（Alyx's is screen right——方位漂移+The kitchen is behind her）"}
+{"project":"RECURSION","idx":9,"sha8":"f1af962f","len":8450,"nTasks":1,"models":"default","read":true,"findings":"8,450c 10s 行走抵达（**LOCATION MAP 段头**——Camera sits on the south side…looking due north——**罗盘方位**+FAR BACKGROUND/MIDGROUND/FOREGROUND/OVERHEAD/MOVEMENT PATH（walks 6 meters south——**路径米数**）五段+84° wide+**No part of this shot becomes telephoto portrait coverage**——**禁长焦覆盖**+**The exposure is set for the window and the lamp pool, not for anyone's face** 金句——**曝光为窗设**+**The camera stays on the shadow side of Samantha**——阴影侧声明）"}
+{"project":"RECURSION","idx":10,"sha8":"c5c7aee2","len":4609,"nTasks":1,"models":"default","read":true,"findings":"4,609c POV 续接（<<<video_1>>> — Angles of layout of the room. Reference for prior movement and action——**视频参考动线声明**+Tilted down almost 70 degrees——**俯角 70°**+true POV of Alyx fom the last shot——**尾帧 POV 续接**（fom 笔误））"}
+{"project":"RECURSION","idx":11,"sha8":"b0b506a1","len":6430,"nTasks":1,"models":"default","read":true,"findings":"6,430c 行3 v2（The blinking red status light throws a small pulse on the shredder's own housing only）"}
+{"project":"RECURSION","idx":12,"sha8":"dadb2b4c","len":8598,"nTasks":1,"models":"default","read":true,"findings":"8,598c v2（arms swinging jauntily——轻快摆臂+台词 You're gonna work yourself to death+PERFORMANCE NOTES 段头）"}
+{"project":"RECURSION","idx":13,"sha8":"491e1e92","len":10777,"nTasks":1,"models":"default","read":true,"findings":"10,777c 28s v2（行4 同文微差）"}
+{"project":"RECURSION","idx":14,"sha8":"76d5472d","len":8584,"nTasks":1,"models":"default","read":true,"findings":"8,584c 行9 v2（arms swinging naturally——自然摆臂版）"}
+{"project":"RECURSION","idx":15,"sha8":"b1efb7d3","len":9138,"nTasks":1,"models":"default","read":true,"findings":"9,138c 28s 单镜双人（**One shot. 28 seconds**——单镜版对话+profile-three-quarter+**Screen positions never swap**）"}
+{"project":"RECURSION","idx":16,"sha8":"3e33778f","len":2307,"nTasks":1,"models":"default","read":true,"findings":"2,307c **SHOT 2/5a 标题行制**（**SHOT 2/5a — LAB / WINDOW LEFT, SAMANTHA DECIDES**——镜头编号+功能名标题行！+offers a sympathetic gesture, and leaves to go talk to her）"}
+{"project":"RECURSION","idx":17,"sha8":"a5787b2c","len":2924,"nTasks":1,"models":"default","read":true,"findings":"2,924c SHOT 2/5b（**Alexis is pretending to be King Lear** 李尔王引用）"}
+{"project":"RECURSION","idx":18,"sha8":"ec5ccedd","len":5086,"nTasks":1,"models":"default","read":true,"findings":"5,086c SHOT 2/1（14s 无声戏（**surveillance-flat framing, Haneke composure**——**哈内克式监控构图署名**！+**The performance inside is completely inaudible except for the palm strike…carries through the wall as a single very faint low-frequency thump…felt more than heard** 金句——**隔墙低频传声**）+固定屏幕位（They never trade positions and never cross in front of one another））"}
+{"project":"RECURSION","idx":19,"sha8":"81ff1090","len":2929,"nTasks":1,"models":"default","read":true,"findings":"2,929c 行17 v2（pretending to be mad, shaking his fists——发怒变体）"}
+{"project":"RECURSION","idx":20,"sha8":"a9980d61","len":7245,"nTasks":1,"models":"null","read":true,"findings":"7,245c **previz 贴图指令全案**（Retexture this untextured greyscale 3D previz render+sole authority for camera lens geometry 分工+**FIXED INVENTORY 段头**（INTERIOR WINDOW/TALL SHELVING/ELEVATOR WALL/MACHINERY/DESKS/TASK CHAIRS/BINS/FLOOR/WALLS/CEILING 十项清单）+**EXPOSED SERVICES, colour-coded in the manner of the Centre Pompidou**——**蓬皮杜色彩编码管道制**（cobalt blue 通风/chrome yellow 电缆/bright green 水与消防/gloss white 结构）+render only the geometry present in the previz——**不增物件禁令**+**Every visible text element is a small, plain, illegible printed label**——**不可读标签制**）"}
+{"project":"RECURSION","idx":21,"sha8":"d8598e9f","len":2729,"nTasks":1,"models":"default","read":true,"findings":"2,729c 行17 v3（<<<video_1>>> 引用版）"}
+{"project":"RECURSION","idx":22,"sha8":"fda2567e","len":2611,"nTasks":1,"models":"default","read":true,"findings":"2,611c SHOT 1/4 FAN（**扇影爬墙金句**（blades passing behind the louvres…their moving shadow crawling across the wall）+carries rotational weight——rotational momentum+**coasting rather than driven**——**惯性扇**声明）"}
+{"project":"RECURSION","idx":23,"sha8":"ff57b51a","len":2447,"nTasks":1,"models":"default","read":true,"findings":"2,447c SHOT 2/4 ALYX SHRUGS（**she mouths largely so they can see her from far away** 远距大声口型+droopily mouths）"}
+{"project":"RECURSION","idx":24,"sha8":"efe0fb49","len":2255,"nTasks":1,"models":"default","read":true,"findings":"2,255c 行23 v2（A small tired smile——疲惫微笑版）"}
+{"project":"RECURSION","idx":25,"sha8":"f9e4ec86","len":3471,"nTasks":1,"models":"default","read":true,"findings":"3,471c SHOT 2/2 ALYX AT HER DESK（**pretending to work, staring past her papers** 金句）"}
+{"project":"RECURSION","idx":26,"sha8":"e1fdee1c","len":1738,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,738c LAB / DARK BAY WIDE 静版（**sleeping monitor**——**睡着的显示器**！+**Shot wide open and pushed hard in near-darkness…blacks lifted and slightly milky rather than crushed**——**推感光度夜拍法**（milky shadows）+**The image reads as a camera straining to see** 金句——**相机挣扎观看**）"}
+{"project":"RECURSION","idx":27,"sha8":"1e7e12d3","len":4998,"nTasks":1,"models":"default","read":true,"findings":"4,998c SHOT 2/1 v2（**like a stranded man flagging a passing ship** 金句——搁浅者挥船）"}
+{"project":"RECURSION","idx":28,"sha8":"0467e664","len":2588,"nTasks":1,"models":"default","read":true,"findings":"2,588c SHOT 1/2 DARK BAY WIDE 10s（**Shot wide open and pushed hard in near-darkness** 推感光度+**The image reads as a camera straining to see** 金句）"}
+{"project":"RECURSION","idx":29,"sha8":"1693f052","len":3591,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"3,591c 碎纸机道具表（**BRANDING 段头**（PW 圆钮+RAZR chrome——**通道分割 chrome 字工艺**））"}
+{"project":"RECURSION","idx":30,"sha8":"10c6445e","len":9330,"nTasks":1,"models":"default","read":true,"findings":"9,330c 17s 死者电脑三镜（**THE SCREEN 段头**（flat matte tracking calibration card——**校准卡屏**：四角 registration marker+crosshair+**It reads as a printed grey sheet fixed flat over the display rather than as software** 金句——**印刷纸非软件**）+**CAMERA PLACEMENT IS NOT LIMITED BY THE WALLS 段头**（**Where a wall or an object stands between the camera and the subject, treat it as removed**——**穿墙机位声明**！）+CAMERA A/M 双机声明+**An ordinary conversational reverse angle, the way opposing coverage sits in a two-hander**——**双人对打反角声明**+photo face-down 恒定（It should NEVER be face up or upright））"}
+{"project":"RECURSION","idx":31,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":32,"sha8":"c3e06756","len":14080,"nTasks":1,"models":"default","read":true,"findings":"14,080c **全项目最长**（4 shots 18s+**SCREEN DIRECTION 段头**+**拉远非换镜** 金句+**creamy black bokeh**+**相框背遮挡转场**）"}
+{"project":"RECURSION","idx":33,"sha8":"3496ec39","len":13812,"nTasks":1,"models":"default","read":true,"findings":"13,812c v2（行32 同文微差独立——无 reverse angle 参考）"}
+{"project":"RECURSION","idx":34,"sha8":"a7c4a939","len":2744,"nTasks":1,"models":"default","read":true,"findings":"2,744c SHOT 1/3 INSTRUMENT CABINET（**No two lamps change state at the same instant** 金句——四灯异律）"}
+{"project":"RECURSION","idx":35,"sha8":"92f0cd4a","len":9141,"nTasks":1,"models":"default","read":true,"findings":"9,141c **录像拍摄全案**（**THE SOURCE RECORDING 段头**（This is not a style reference and not a mood reference…**minutes earlier in the same unbroken recording session**——**同次录像续接**：This new shot picks up from its closing frames+**Everything visible and audible in it is the ground truth**——**ground truth 19 属性清单**+**What does NOT carry over is the action**——**续接排除制**：动作不继承）+**IMAGE BEHAVIOUR 段头**（low-grade consumer video look+**Automatic exposure hunts…dims and rebalances a beat late**——**自动曝光迟滞金句**！+**Automatic white balance drifts slightly warm and back**——**自动白平衡漂移**+消费级画质四件）+**混合口音声明**（a soft Indian substrate worn down by decades…clipped British vowels and American rhythm——**印底英韵美节奏三叠**）+**递归隧道无穷台词**（relative recursive formula…brain would basically trick you——**RECURSION 项目名来源**！+The tunnel empirically extends into infinity——**经验无穷论**）+**like the punchline rather than the thesis** 金句+**He speaks like a man who has lectured in three countries** 金句+桌面相机（**nothing that could be a camera…appears anywhere in frame**——**机器出画禁令**））"}
+{"project":"RECURSION","idx":36,"sha8":"612d7efb","len":8009,"nTasks":1,"models":"default","read":true,"findings":"8,009c TAKE 2 版（同续接+TAKE 2 段头+短句版台词）"}
+{"project":"RECURSION","idx":37,"sha8":"8def38e9","len":3698,"nTasks":1,"models":"null","read":true,"findings":"3,698c 复印间板（**FIXED INVENTORY 8 项**+DRESSING 段头）"}
+{"project":"RECURSION","idx":38,"sha8":"8def38e9","len":3698,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行37）"}
+{"project":"RECURSION","idx":39,"sha8":"8def38e9","len":3698,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行37）"}
+{"project":"RECURSION","idx":40,"sha8":"def6c21e","len":12102,"nTasks":1,"models":"default","read":true,"findings":"12,102c 5 镜密码笑（**WHAT THIS FRAMING MUST SHOW 段头**+**The tip of her nose stays well inside the line of her far cheek** 金句+**电脑 POV 反角**+**the laugh runs itself down** 金句）"}
+{"project":"RECURSION","idx":41,"sha8":"f1f48450","len":11754,"nTasks":1,"models":"default","read":true,"findings":"11,754c v2（行40 同文微差独立——head half-turns once）"}
+{"project":"RECURSION","idx":42,"sha8":"a52f540e","len":12006,"nTasks":1,"models":"default","read":true,"findings":"3,776c 行40 同文微差"}
+{"project":"RECURSION","idx":43,"sha8":"0b512711","len":10013,"nTasks":1,"models":"default","read":true,"findings":"10,013c 密码笑 v3（**She laughs before the fear catches up with her** 金句——笑先于恐惧）"}
+{"project":"RECURSION","idx":44,"sha8":"a8dd7c2d","len":4745,"nTasks":1,"models":"null","read":true,"findings":"4,745c **businessman-slouching 引用参考**（like in the \"businessman-slouching\" reference——**加引号姿态参考**！+**so sunken down into the seat that her head is halfway down the seat back**——沉陷金句+**scrunches her mouth off to the left side, lips pursed**——**偏嘴抿唇思考脸**+6500K HEX+**Dr. Patel 命名**（location plate: Dr. Patel's office——**角色名+office 命名制**）+hot bulb throwing a warm flare across the lens——灯泡炫光）"}
+{"project":"RECURSION","idx":45,"sha8":"a8dd7c2d","len":4745,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行44）"}
+{"project":"RECURSION","idx":46,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"2,494c 走廊看入空房（SHREDDER PLINTH 720mm 600×450）"}
+{"project":"RECURSION","idx":47,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":48,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":49,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":50,"sha8":"45791415","len":2008,"nTasks":1,"models":"null","read":true,"findings":"2,008c 隧道反向门板（**heavy steel pressure door**+**MOTION DETECTION label**）"}
+{"project":"RECURSION","idx":51,"sha8":"77502bc6","len":1412,"nTasks":1,"models":"null","read":true,"findings":"1,412c 走廊空板（a row of ten frames…three of them visible in shot——**十排画框只三框入画**+Each frame is about half as wide as the door——**框宽对门宽**）"}
+{"project":"RECURSION","idx":52,"sha8":"5f51dfa2","len":1002,"nTasks":1,"models":"null","read":true,"findings":"1,002c 画框道具表（5:4 proportion+brass plate engraved four-digit year——黄铜年份牌+wide white card mount——宽白衬卡）"}
+{"project":"RECURSION","idx":53,"sha8":"613adf36","len":3219,"nTasks":1,"models":"null","read":true,"findings":"3,219c 挑高预算版（**prestigious, generously funded** 资金等级声明）"}
+{"project":"RECURSION","idx":54,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":55,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":56,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":57,"sha8":"d0981f5d","len":824,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"824c videotape 隧道静版（miles-long perfectly straight+diameter twelve feet）"}
+{"project":"RECURSION","idx":58,"sha8":"def68132","len":1342,"nTasks":1,"models":"null","read":true,"findings":"1,342c 走廊板 v2（1.3m centres 量化）"}
+{"project":"RECURSION","idx":59,"sha8":"6dc317a0","len":2987,"nTasks":1,"models":"null","read":true,"findings":"2,987c 走廊板 v3（500 by 400mm+arris 线声明）"}
+{"project":"RECURSION","idx":60,"sha8":"88c11fbe","len":3235,"nTasks":1,"models":"null","read":true,"findings":"3,235c 复印间板 v2（troffers 4000K+**prestigious, generously funded** 复用）"}
+{"project":"RECURSION","idx":61,"sha8":"8367fafa","len":1160,"nTasks":1,"models":"null","read":true,"findings":"1,160c 办公室反角（**turned around 段头**）"}
+{"project":"RECURSION","idx":62,"sha8":"613adf36","len":3219,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行53）"}
+{"project":"RECURSION","idx":63,"sha8":"51db1337","len":3143,"nTasks":1,"models":"null","read":true,"findings":"2,461c 晾衣低仰 tilt up"}
+{"project":"RECURSION","idx":64,"sha8":"6e6df04f","len":2376,"nTasks":1,"models":"null","read":true,"findings":"2,720c 市场车窗问候（AUDIO — DIALOGUE RULE+塞尔维亚语台词 Selam alejkum, Toro!）"}
+{"project":"RECURSION","idx":65,"sha8":"6e6df04f","len":2376,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行64）"}
+{"project":"RECURSION","idx":66,"sha8":"025e9195","len":820,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,223c 夜车面纱"}
+{"project":"RECURSION","idx":67,"sha8":"7ab60695","len":2405,"nTasks":1,"models":"null","read":true,"findings":"2,405c 办公室反角 v2（**The bull-horns are NOT in the shot** 大写——物件移除声明）"}
+{"project":"RECURSION","idx":68,"sha8":"51db1337","len":3143,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行63）"}
+{"project":"RECURSION","idx":69,"sha8":"dc471204","len":557,"nTasks":1,"models":"null","read":true,"findings":"557c 反角微指令（**angled slightly too far away to see the photo** 金句+**do not add or remove features int he room** 源内笔误）"}
+{"project":"RECURSION","idx":70,"sha8":"5f442f20","len":4490,"nTasks":1,"models":"null","read":true,"findings":"4,490c 沉陷注视静版（**so sunken down into the seat** 沉陷金句）"}
+{"project":"RECURSION","idx":71,"sha8":"74079cf1","len":848,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,855c 6s pedestal up 伏地童"}
+{"project":"RECURSION","idx":72,"sha8":"a74275e7","len":4514,"nTasks":1,"models":"null","read":true,"findings":"2,958c 5s 踝高跟拍（LOW TRACKING SHOT 段头）"}
+{"project":"RECURSION","idx":73,"sha8":"e8730b83","len":4456,"nTasks":1,"models":"null","read":true,"findings":"4,456c 沉陷 v2（**frowns slightly, her eyebrows furrowed deeply, in concentration**——深皱眉专注）"}
+{"project":"RECURSION","idx":74,"sha8":"ab79d39f","len":4351,"nTasks":1,"models":"default","read":true,"findings":"3,100c 6s 偷苹果"}
+{"project":"RECURSION","idx":75,"sha8":"4c352a0b","len":2858,"nTasks":1,"models":"null","read":true,"findings":"5,560c 6s 公交低头寻童（REFERENCE USE 段头双参考分工 v2+THE HIDDEN CHILD 七连否定）"}
+{"project":"RECURSION","idx":76,"sha8":"803a2679","len":2445,"nTasks":1,"models":"null","read":true,"findings":"1,953c 4s 谷地直升机（九段头小写系+**the dust never sticks to the vehicle** 物理金句）"}
+{"project":"RECURSION","idx":77,"sha8":"8367fafa","len":1160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行61）"}
+{"project":"RECURSION","idx":78,"sha8":"b8448a28","len":4017,"nTasks":1,"models":"null","read":true,"findings":"2,247c 收银抽屉三拍（PHASE 1/2/3+FORBIDDEN 段头 no smile after second 3）"}
+{"project":"RECURSION","idx":79,"sha8":"4262170d","len":2638,"nTasks":1,"models":"null","read":true,"findings":"2,610c 4s 磨坊活体（**EVERYTHING IN THE FRAME IS ALIVE, NOTHING IS FROZEN** 段头）"}
+{"project":"RECURSION","idx":80,"sha8":"c97b1dc0","len":11539,"nTasks":1,"models":"default","read":true,"findings":"2,147c 椅子砸地 crash zoom（84°→18° in under half a second）"}
+{"project":"RECURSION","idx":81,"sha8":"da6e3646","len":8377,"nTasks":1,"models":"default","read":true,"findings":"2,196c 果园怒吼 crash zoom 同构（**the fury of a tired man robbed once too often, hard and real, not a cartoon monster** 金句）"}
+{"project":"RECURSION","idx":82,"sha8":"4526ef24","len":2399,"nTasks":1,"models":"default","read":true,"findings":"2,707c 肉铺购物"}
+{"project":"RECURSION","idx":83,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":84,"sha8":"fbfbc039","len":2296,"nTasks":1,"models":"default","read":true,"findings":"1,155c 夜路尾随（A real 35mm film in motion）"}
+{"project":"RECURSION","idx":85,"sha8":"d4009498","len":5084,"nTasks":1,"models":"default","read":true,"findings":"5,084c SHOT 2/1 v2（**Haneke composure** 复用）"}
+{"project":"RECURSION","idx":86,"sha8":"db11b27c","len":2538,"nTasks":1,"models":"default","read":true,"findings":"1,449c 月巷静影（FROZEN COMPLETELY STILL 大写）"}
+{"project":"RECURSION","idx":87,"sha8":"87c02877","len":2289,"nTasks":1,"models":"default","read":true,"findings":"2,302c 5s 穿墙转场（**camera passes INTO the wall — half a second of soft warm darkness**——**穿墙暗隙转场**）"}
+{"project":"RECURSION","idx":88,"sha8":"92331dca","len":2755,"nTasks":1,"models":"default","read":true,"findings":"1,441c 8m 俯拍自然步态（never stiff, never mechanical, never marching 三禁）"}
+{"project":"RECURSION","idx":89,"sha8":"ed75ba0b","len":2563,"nTasks":1,"models":"default","read":true,"findings":"2,551c 鞋店入墙进影院"}
+{"project":"RECURSION","idx":90,"sha8":"9231018d","len":2997,"nTasks":1,"models":"default","read":true,"findings":"2,997c SHOT 2/3 THEY CATCH HER（**被窥表演**（begin performing at the glass）+**Alexis raises both arms overhead and waves them wide, summoning** 召唤挥手+**Jim beckons with both hands, scooping the air toward himself** 双爪捞空气）"}
+{"project":"RECURSION","idx":91,"sha8":"cfafd811","len":2348,"nTasks":1,"models":"default","read":true,"findings":"2,983c 8s 冻像穿墙"}
+{"project":"RECURSION","idx":92,"sha8":"cccf72e3","len":3162,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"3,162c DARK INSTRUMENT CABINET 静版（**ISO 7010 W002 explosive material hazard sign**——ISO 型号锚！+**GREENBURY UNIVERSITY ACCELERATOR LAB** 机构资产贴纸+**It is scarily dark** 可怕地黑声明）"}
+{"project":"RECURSION","idx":93,"sha8":"71334a18","len":2624,"nTasks":1,"models":"default","read":true,"findings":"2,624c SHOT 1/2 DARK BAY WIDE 8s（Reference photo source of truth 声明）"}
+{"project":"RECURSION","idx":94,"sha8":"710ab8c9","len":5218,"nTasks":1,"models":"default","read":true,"findings":"5,218c SHOT 2/1 14s v2（like a stranded man flagging a passing ship 复用）"}
+{"project":"RECURSION","idx":95,"sha8":"38c7efb2","len":2527,"nTasks":1,"models":"default","read":true,"findings":"8,245c 15s 市场追逐全案"}
+{"project":"RECURSION","idx":96,"sha8":"f398b9d2","len":4118,"nTasks":1,"models":"default","read":true,"findings":"4,026c 7s 摘李被抓（CAMERA 三段变速+SNAPS AROUND 直视镜头收束）"}
+{"project":"RECURSION","idx":97,"sha8":"5fcd441c","len":5328,"nTasks":1,"models":"default","read":true,"findings":"3,317c 4s 举枪不射（**the movement of a man reaching for a tool, not of a man attacking** 金句+rifle 四禁）"}
+{"project":"RECURSION","idx":98,"sha8":"3fecb4d1","len":2792,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"3,398c 4s 公交跪窗（**all together, on the same rhythm** 全车共振）"}
+{"project":"RECURSION","idx":99,"sha8":"5e953759","len":5049,"nTasks":1,"models":"default","read":true,"findings":"3,382c 5s 尾车离村（bus NEVER shows its front+**The chickens move in short irregular bursts, never on a loop** 鸡群非循环）"}
+{"project":"RECURSION","idx":100,"sha8":"7e84bb0b","len":499,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,993c 4s 山脊侦察（**The parted seed-heads bend from the base, not from the tip** 草弯物理）"}
+{"project":"RECURSION","idx":101,"sha8":"80c65525","len":3992,"nTasks":1,"models":"default","read":true,"findings":"3,168c 4s 李子漏袋（**What remains in the fold visibly shrinks** 金句）"}
+{"project":"RECURSION","idx":102,"sha8":"9e9f9745","len":3595,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"3,105c 4s 中弹瞬间（**flinch 四段链**金句）"}
+{"project":"RECURSION","idx":103,"sha8":"53b330c4","len":2612,"nTasks":1,"models":"default","read":true,"findings":"3,128c 4s 墙后喘息（**The breathing is the whole performance and it must be real** 金句）"}
+{"project":"RECURSION","idx":104,"sha8":"fceed672","len":9075,"nTasks":1,"models":"default","read":true,"findings":"2,750c 4s 双手捧果微距（**the way you hold something worth far more than it is** 金句）"}
+{"project":"RECURSION","idx":105,"sha8":"fc69051f","len":12155,"nTasks":1,"models":"default","read":true,"findings":"12,155c 4 镜找视频（**It has already been laid down** 已放倒状态声明（**only its orientation differs**——唯一差异=朝向）+**The room, not the woman, is the subject** 金句+CAMERA W 复刻定位声明+**four corner markers and centre crosshair all clearly visible**——卡面五件+**the loose restless motion of someone searching through folders** 金句+**Her index finger clicks twice, deliberately**——双击决断）"}
+{"project":"RECURSION","idx":106,"sha8":"edcdd663","len":2096,"nTasks":1,"models":"null","read":true,"findings":"4,704c 10s 十八岁献李（SCALE RULE 段头等距+**塞尔维亚语金句 Otvorice Bog rupu u zemlji od sramote.**——天会开洞之羞+Her mouth barely moves）"}
+{"project":"RECURSION","idx":107,"sha8":"37b06dd7","len":12388,"nTasks":1,"models":"default","read":true,"findings":"3,696c 5s 装睡睁眼（**HER EYES OPEN. That is the only action in the take** 大写）"}
+{"project":"RECURSION","idx":108,"sha8":"7acd44d1","len":8625,"nTasks":1,"models":"default","read":true,"findings":"4,597c 4s 皮影戏（**THIS IS A SHADOW PLAY ON PLASTER** 大写+**The smaller outline strains away from the larger** 金句）"}
+{"project":"RECURSION","idx":109,"sha8":"677f97a9","len":3903,"nTasks":1,"models":"default","read":true,"findings":"4,555c 4s 低角巨影（**From this angle he is enormous**+HE ONLY STANDS AND LOOKS DOWN 十不声明）"}
+{"project":"RECURSION","idx":110,"sha8":"446e52eb","len":2645,"nTasks":1,"models":"default","read":true,"findings":"4,944c 5s 淤伤臂沉板（**THE ARM IS NEVER PULLED…** 臂五禁）"}
+{"project":"RECURSION","idx":111,"sha8":"8def38e9","len":3698,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行37）"}
+{"project":"RECURSION","idx":112,"sha8":"8def38e9","len":3698,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行37）"}
+{"project":"RECURSION","idx":113,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":114,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":115,"sha8":"51bc22c3","len":2734,"nTasks":1,"models":"default","read":true,"findings":"2,100c 8s 高空尾车（**dust plume trails BEHIND as a long soft comma** 金句）"}
+{"project":"RECURSION","idx":116,"sha8":"0b512711","len":10013,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（首现行43）"}
+{"project":"RECURSION","idx":117,"sha8":"1e0d3a21","len":2561,"nTasks":1,"models":"default","read":true,"findings":"6,151c 12s 对峙推镜（**The silence is the first beat of the scene** 金句）"}
+{"project":"RECURSION","idx":118,"sha8":"e8a528a6","len":4562,"nTasks":1,"models":"null","read":true,"findings":"4,562c 沉陷注视 v2（**darkened into deep blue hues like the rest of the surrounding bookshelves**——牛头骨蓝化声明+Brown eyes 虹膜改棕）"}
+{"project":"RECURSION","idx":119,"sha8":"72f2641c","len":4674,"nTasks":1,"models":"null","read":true,"findings":"4,103c 5s 推入虹膜满帧（虹膜解剖三件+**THE LAST FRAME IS WARM BROWN IRIS TEXTURE** 大写）"}
+{"project":"RECURSION","idx":120,"sha8":"72f2641c","len":4674,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行119）"}
+{"project":"RECURSION","idx":121,"sha8":"55c6a002","len":2363,"nTasks":1,"models":"null","read":true,"findings":"1,722c 8s 试鞋 dolly+tilt（过手过裙落地）"}
+{"project":"RECURSION","idx":122,"sha8":"55c6a002","len":2363,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行121）"}
+{"project":"RECURSION","idx":123,"sha8":"55c6a002","len":2363,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行121）"}
+{"project":"RECURSION","idx":124,"sha8":"55c6a002","len":2363,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行121）"}
+{"project":"RECURSION","idx":125,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":126,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":127,"sha8":"fbdef00f","len":2494,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行46）"}
+{"project":"RECURSION","idx":128,"sha8":"e3fb2753","len":876,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,576c 4s 双物穿场"}
+{"project":"RECURSION","idx":129,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":130,"sha8":"5c6d15ca","len":5685,"nTasks":1,"models":"null","read":true,"findings":"5,685c previz 实验室板 v2（**KITCHENETTE 段头**（**There should be one microwave on the counter and nothing else**——一微波炉唯一声明）+**lit island** 光岛金句+**this warm spill is a required and clearly visible element**——必备暖溢声明）"}
+{"project":"RECURSION","idx":131,"sha8":"ed8ffa93","len":7768,"nTasks":1,"models":"null","read":true,"findings":"2,416c 5s 追逃背影（替换四禁 must NOT become a boy…）"}
+{"project":"RECURSION","idx":132,"sha8":"a38ab9c9","len":5685,"nTasks":1,"models":"null","read":true,"findings":"5,685c 行130 同文微差（It sit deep…cast——语法漂移版）"}
+{"project":"RECURSION","idx":133,"sha8":"ca47f3e3","len":4950,"nTasks":1,"models":"null","read":true,"findings":"4,950c previz 更衣室板（**INTERIOR WINDOW 段头**（**Exclusively use reference 3 to replace the lab as it appears through the interior window**——专窗专用参考+**the window reads as a deep dark band set into the warm lit wall** 金句））"}
+{"project":"RECURSION","idx":134,"sha8":"a9980d61","len":7245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行20）"}
+{"project":"RECURSION","idx":135,"sha8":"be9d2dba","len":2743,"nTasks":1,"models":"null","read":true,"findings":"1,288c 移门框+拉远（**the loneliness of the walk is the picture** 金句）"}
+{"project":"RECURSION","idx":136,"sha8":"a9980d61","len":7245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行20）"}
+{"project":"RECURSION","idx":137,"sha8":"7a4e7c38","len":5153,"nTasks":1,"models":"null","read":true,"findings":"1,681c 相机转身（**THE RETURN 段头**——only the camera has turned around 金句+**Her face and hair 100% match reference image 1** 百分制）"}
+{"project":"RECURSION","idx":138,"sha8":"b3b8ba80","len":5696,"nTasks":1,"models":"null","read":true,"findings":"5,696c previz 实验室板 v3（two blown fixtures 高亮双灯）"}
+{"project":"RECURSION","idx":139,"sha8":"a9980d61","len":7245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行20）"}
+{"project":"RECURSION","idx":140,"sha8":"a9980d61","len":7245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行20）"}
+{"project":"RECURSION","idx":141,"sha8":"ca47f3e3","len":4950,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行133）"}
+{"project":"RECURSION","idx":142,"sha8":"f5029945","len":4571,"nTasks":1,"models":"null","read":true,"findings":"1,360c 深冬版（Frost has crept up the inside of the plaster+平行四边形光斑）"}
+{"project":"RECURSION","idx":143,"sha8":"b7f0b60e","len":5669,"nTasks":1,"models":"null","read":true,"findings":"1,528c 岁月版（**岁月痕迹六件**+**nothing has happened except years** 金句）"}
+{"project":"RECURSION","idx":144,"sha8":"a9980d61","len":7245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行20）"}
+{"project":"RECURSION","idx":145,"sha8":"17e912ea","len":10814,"nTasks":1,"models":"default","read":true,"findings":"10,814c 对话场 v4（**Samantha DECIDES 单向变化版**（ANGLE ON SAMANTHA — a clean single with nothing in the foreground——**净单声明**））"}
+{"project":"RECURSION","idx":146,"sha8":"687d6607","len":11597,"nTasks":1,"models":"default","read":true,"findings":"11,597c 对话场 v5（**LOCATION AND CAMERA AXIS 段头**（**Both cameras live on the same side of that eyeline**——同侧轴声明）+**LENS IS 29° ACROSS ALL FIVE SHOTS. NOT NEGOTIABLE.**——焦距不可协商大写段头！+**the line landing like a punchline** 金句+**her grin still there but doing more work than it should** 金句+**The smile stays on her face but loses its energy now that nobody is looking at it** 金句）"}
+{"project":"RECURSION","idx":147,"sha8":"203abe5b","len":8707,"nTasks":1,"models":"default","read":true,"findings":"8,707c 15s 门禁入场（**badge reader**（red→green+**A brief swell of muffled laughter and voices through the open doorway, cut off cleanly when the door closes** 金句——门外笑声涌入随门切+**alyx 小写人名漂移实录**））"}
+{"project":"RECURSION","idx":148,"sha8":"b5508faf","len":2401,"nTasks":1,"models":"default","read":true,"findings":"2,401c SHOT 2/6 ALYX HEARS THE DOOR 7s（**badge reader chirp+the heavy clunk of a door latch releasing** 声音事件）"}
+{"project":"RECURSION","idx":149,"sha8":"5d0d4426","len":2577,"nTasks":1,"models":"default","read":true,"findings":"1,356c 气步枪道具表（PROP REFERENCE SHEET 段头三视+**farm tool rather than a military weapon** 定性）"}
+{"project":"RECURSION","idx":150,"sha8":"b23fb882","len":5100,"nTasks":1,"models":"default","read":true,"findings":"5,100c SHOT 2/1 14s v3（Alexis stays upright at the table——头后仰变体）"}
+{"project":"RECURSION","idx":151,"sha8":"0a98f7cc","len":3860,"nTasks":1,"models":"default","read":true,"findings":"3,860c 碎纸机 15s v2（**MACHINE IS OFF 始态反转**（**Without any paper feeding into it, It prints out the one slip of paper. The machine pauses, mechanics clicking and whirring as it thinks** 金句——**机器思考**！））"}
+{"project":"RECURSION","idx":152,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":153,"sha8":"964c709d","len":2356,"nTasks":1,"models":"default","read":true,"findings":"2,356c SHOT 2/6 v2（行148 同文微差）"}
+{"project":"RECURSION","idx":154,"sha8":"e6790bea","len":3784,"nTasks":1,"models":"default","read":true,"findings":"1,453c 农夫三视表（**NOT a monster** 反怪物声明+forked wooden slingshot）"}
+{"project":"RECURSION","idx":155,"sha8":"fbdedd8d","len":3873,"nTasks":1,"models":"default","read":true,"findings":"3,873c 碎纸机 v3（**Recursion shredder still: Approximate Reference for framing. Do NOT keep the text**——构图近似参考+禁保留文字声明）"}
+{"project":"RECURSION","idx":156,"sha8":"2c196843","len":2894,"nTasks":1,"models":"default","read":true,"findings":"2,894c SHOT 2/5a v2（**barely supressing his smile** 源内笔误 supressing）"}
+{"project":"RECURSION","idx":157,"sha8":"fb1c4b27","len":4055,"nTasks":1,"models":"default","read":true,"findings":"2,403c 四视造型表 v1（**HAIR — THE MOST IMPORTANT RULE 段头**）"}
+{"project":"RECURSION","idx":158,"sha8":"b3b2277b","len":9025,"nTasks":1,"models":"default","read":true,"findings":"9,025c 17s v2（**Her chin lifts a fraction and her lips part**+**She stops breathing for a moment**——屏息瞬间）"}
+{"project":"RECURSION","idx":159,"sha8":"eb3fc78d","len":12154,"nTasks":1,"models":"default","read":true,"findings":"12,154c 行105 v2（laptop 引用微差）"}
+{"project":"RECURSION","idx":160,"sha8":"84af4520","len":13975,"nTasks":1,"models":"default","read":true,"findings":"1,350c 弹弓道具表（**Overall length about 25 centimetres**+**unromantic** 去浪漫定性）"}
+{"project":"RECURSION","idx":161,"sha8":"9ded05f3","len":6987,"nTasks":1,"models":"default","read":true,"findings":"6,987c **录像首拍**（**I have long kept this experiment a secret for its importance. And I acknowledge the risks of doing so.**——秘守实验开场白！+**手调相机+画面倾斜并保持**金句（**The horizon is never quite level afterward**——斜地平线恒定！+**the whole image tips and rotates a few degrees as it is nudged, and then it settles and holds at the new angle**））"}
+{"project":"RECURSION","idx":162,"sha8":"8def38e9","len":3698,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行37）"}
+{"project":"RECURSION","idx":163,"sha8":"e08f9f8a","len":3204,"nTasks":1,"models":"null","read":true,"findings":"3,204c 复印间板 v3（**island peninsula**——L 桌半岛岛台声明）"}
+{"project":"RECURSION","idx":164,"sha8":"e08f9f8a","len":3204,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行163）"}
+{"project":"RECURSION","idx":165,"sha8":"70876760","len":12691,"nTasks":1,"models":"default","read":true,"findings":"12,691c 17s v3（SHOT 1 84° 版（camera about 1.2 meters behind the nearest foreground bench edge——门道 1.2m 书柜后版）+**the vast majority of the frame is black empty lab** 大面积黑空声明）"}
+{"project":"RECURSION","idx":166,"sha8":"0ae2942c","len":7289,"nTasks":1,"models":"default","read":true,"findings":"7,289c 教授首拍 v2（The second sentence is quieter and more careful than the first——**第二句更轻更慎**）"}
+{"project":"RECURSION","idx":167,"sha8":"e8a528a6","len":4562,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行118）"}
+{"project":"RECURSION","idx":168,"sha8":"0ae2942c","len":7289,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（首现行166）"}
+{"project":"RECURSION","idx":169,"sha8":"411d37c8","len":4519,"nTasks":1,"models":"null","read":true,"findings":"4,519c 沉陷注视 v3（75mm 4m 版）"}
+{"project":"RECURSION","idx":170,"sha8":"411d37c8","len":4519,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行169）"}
+{"project":"RECURSION","idx":171,"sha8":"5108e988","len":4685,"nTasks":1,"models":"null","read":true,"findings":"4,685c 静版（**姿势三锁**（Alyx looks at the computer screen, nowhere else. Her chair is square with the desk, not tilted out. Alyx is slouching deeply）+**The desk is parallel to and touching the windowed wall** 桌贴窗墙声明）"}
+{"project":"RECURSION","idx":172,"sha8":"e417c677","len":3993,"nTasks":1,"models":"null","read":true,"findings":"3,993c 门内全景静版（**one-point-and-a-half perspective** 一点半透视声明！+**kitschy Western saloon décor, absurd and out of place among the physics books** 金句——西部酒吧装饰在物理书堆中荒谬）"}
+{"project":"RECURSION","idx":173,"sha8":"69bb8456","len":1322,"nTasks":1,"models":"null","read":true,"findings":"1,322c 走廊板 3/4 版（at 3/4 angle 版）"}
+{"project":"RECURSION","idx":174,"sha8":"e3fb2753","len":876,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行128）"}
+{"project":"RECURSION","idx":175,"sha8":"e3fb2753","len":876,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行128）"}
+{"project":"RECURSION","idx":176,"sha8":"d0981f5d","len":824,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行57）"}
+{"project":"RECURSION","idx":177,"sha8":"9a653e9c","len":2452,"nTasks":1,"models":"null","read":true,"findings":"2,452c 复印间板 80mm（**facing directly into the room at a perfectly straight bearing…80mm lens length**——正对 80mm）"}
+{"project":"RECURSION","idx":178,"sha8":"9a653e9c","len":2452,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行177）"}
+{"project":"RECURSION","idx":179,"sha8":"8367fafa","len":1160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行61）"}
+{"project":"RECURSION","idx":180,"sha8":"8367fafa","len":1160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行61）"}
+{"project":"RECURSION","idx":181,"sha8":"c2d12db9","len":1009,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,009c 画框表 v2（**four-digit year (2024)** 具体年份版）"}
+{"project":"RECURSION","idx":182,"sha8":"77502bc6","len":1412,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行51）"}
+{"project":"RECURSION","idx":183,"sha8":"d0981f5d","len":824,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行57）"}
+{"project":"RECURSION","idx":184,"sha8":"803a2679","len":2445,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行76）"}
+{"project":"RECURSION","idx":185,"sha8":"ab5a818b","len":3224,"nTasks":1,"models":"null","read":true,"findings":"2,866c 5s 窗前织线（**KAMERA (Katalog 02B — Pan left) 德语运镜目录索引制**）"}
+{"project":"RECURSION","idx":186,"sha8":"1a2383b4","len":890,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,876c 8s 四镜夜逃（**each shot uses exactly the framing of its numbered reference image**——编号图绑定）"}
+{"project":"RECURSION","idx":187,"sha8":"e1d5f69e","len":4224,"nTasks":1,"models":"null","read":true,"findings":"2,124c 7s 极慢奔（**the look of 120 frames per second played back at 24** 金句+**one drop leaves her jaw and hangs in the air** 泪悬空）"}
+{"project":"RECURSION","idx":188,"sha8":"6e6df04f","len":2376,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行64）"}
+{"project":"RECURSION","idx":189,"sha8":"d0981f5d","len":824,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行57）"}
+{"project":"RECURSION","idx":190,"sha8":"025e9195","len":820,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行66）"}
+{"project":"RECURSION","idx":191,"sha8":"0c25776c","len":2889,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,889c videotape 隧道三/4 板全案（**BORE/STRUCTURE/FLOOR/MARKINGS/SERVICE RUN/GEOMETRY 六段头制**！+**the vanishing point sits well to one side of centre** 灭点侧置声明+**The nearest structural rib is cut by the frame edge**+**the ring seams stack into tight nested arcs** 金句+**the tunnel bends gently and continuously…so the far wall gradually occludes the vanishing point** 金句——**缓弯渐吞灭点**）"}
+{"project":"RECURSION","idx":192,"sha8":"6e6df04f","len":2376,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行64）"}
+{"project":"RECURSION","idx":193,"sha8":"ca47f3e3","len":4950,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行133）"}
+{"project":"RECURSION","idx":194,"sha8":"cb717a14","len":4337,"nTasks":1,"models":"null","read":true,"findings":"4,337c previz 实验室板 v4（**troffers with prismatic diffusers as the dominant source, arranged in regular rows, several fixtures reading brighter and blown toward the sensor** 常亮版）"}
+{"project":"RECURSION","idx":195,"sha8":"f1d92675","len":3201,"nTasks":1,"models":"null","read":true,"findings":"3,201c 实验空板 v2（**turned roughly 45 degrees to the camera axis** 45° 斜桌+**all of them dark and unlit** 全暗灯声明+**whiteboards, wiped clean to a plain blank surface** 白板擦净声明）"}
+{"project":"RECURSION","idx":196,"sha8":"f1d92675","len":3201,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行195）"}
+{"project":"RECURSION","idx":197,"sha8":"a9980d61","len":7245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行20）"}
+{"project":"RECURSION","idx":198,"sha8":"2d5be39b","len":4945,"nTasks":1,"models":"null","read":true,"findings":"864c key-art 暗（**Palette 70% near-black warm shadow, 25% warm olive skin tones, 5% amber lamp glow**——三段百分比配方）"}
+{"project":"RECURSION","idx":199,"sha8":"a9980d61","len":7245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行20）"}
+{"project":"RECURSION","idx":200,"sha8":"b3b8ba80","len":5696,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行138）"}
+{"project":"RECURSION","idx":201,"sha8":"e417c677","len":3993,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行172）"}
+{"project":"RECURSION","idx":202,"sha8":"e417c677","len":3993,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行172）"}
+{"project":"RECURSION","idx":203,"sha8":"239180cc","len":1005,"nTasks":1,"models":"null","read":true,"findings":"2,280c 6s 晾衣双女（**two women who have divided one life between them** 金句+**NO rivalry** 反嫉妒声明）"}
+{"project":"RECURSION","idx":204,"sha8":"17a07b1b","len":977,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,828c 6s 三镜穿行（**EVERY CAMERA IS PHYSICALLY FIXED TO AN OBJECT 段头**+**aware she will never own it** 金句）"}
+{"project":"RECURSION","idx":205,"sha8":"e417c677","len":3993,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行172）"}
+{"project":"RECURSION","idx":206,"sha8":"fe062fc7","len":3412,"nTasks":1,"models":"null","read":true,"findings":"4,883c 10s 弹丸追踪（**the camera LOCKS ONTO THE PELLET** 金句）"}
+{"project":"RECURSION","idx":207,"sha8":"4eb2eecd","len":2931,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,931c 四件设备表（**GREENBURY ACCEL LAB over GAL-0077** 资产标签+**All four are ordinary institutional office equipment several years into service**——服役老化四件（most-used keycaps rubbed smooth——高频键磨亮+a soft haze of finger oil——指油雾））"}
+{"project":"RECURSION","idx":208,"sha8":"0fe13e82","len":546,"nTasks":1,"models":"null","read":true,"findings":"546c 写满板修正（**dense columns…marching down the page in a shrinking hand** 金句——缩手字列行进+**Many figures struck through and rewritten**+**Ink heavier at the top, scratchier at the bottom**）"}
+{"project":"RECURSION","idx":209,"sha8":"26ca84ee","len":965,"nTasks":1,"models":"null","read":true,"findings":"1,886c 5s pass-through 入墙（**like gliding into a tunnel** 金句）"}
+{"project":"RECURSION","idx":210,"sha8":"f79740a6","len":2378,"nTasks":1,"models":"null","read":true,"findings":"1,764c 5s 闻李（**the smell of every stolen summer** 金句）"}
+{"project":"RECURSION","idx":211,"sha8":"f79740a6","len":2378,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行210）"}
+{"project":"RECURSION","idx":212,"sha8":"ca0976ac","len":591,"nTasks":1,"models":"null","read":true,"findings":"1,962c 5s 递面包（**tucks a strand of nothing behind no ear** 无物动作金句）"}
+{"project":"RECURSION","idx":213,"sha8":"1b57da6a","len":1160,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,182c 5s 皂布仪式（**older working hands, thick knuckles, deliberate, slightly stiff, never hasty** 老手四态）"}
+{"project":"RECURSION","idx":214,"sha8":"f79740a6","len":2378,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行210）"}
+{"project":"RECURSION","idx":215,"sha8":"f79740a6","len":2378,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行210）"}
+{"project":"RECURSION","idx":216,"sha8":"26ca84ee","len":965,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行209）"}
+{"project":"RECURSION","idx":217,"sha8":"ab973c40","len":2500,"nTasks":1,"models":"null","read":true,"findings":"1,729c 12s 求亲 v2"}
+{"project":"RECURSION","idx":218,"sha8":"ab973c40","len":2500,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行217）"}
+{"project":"RECURSION","idx":219,"sha8":"e26a9dcf","len":6241,"nTasks":1,"models":"default","read":true,"findings":"1,882c 5s 医生过场（**without a glance at the bench** 金句+**one knuckle whitening** 指节白）"}
+{"project":"RECURSION","idx":220,"sha8":"ff125e84","len":726,"nTasks":1,"models":"default","read":true,"findings":"726c **Style 8K 短头版**（**Style:/Cinematography:/Lighting:/SHOT:/Action: 五段头微缩版**+15mm lens slow pan following——跟摇）"}
+{"project":"RECURSION","idx":221,"sha8":"3689a7da","len":1482,"nTasks":1,"models":"null","read":true,"findings":"2,728c 10s 医院长镜（**HER HANDS ARE ABSOLUTELY STILL…carved like stone, NOT A SINGLE FINGER MOVES** 大写手雕石+**ONLY HE MOVES** 段头+**his thumb strokes once across the back of her motionless hand** 拇指单摩挲）"}
+{"project":"RECURSION","idx":222,"sha8":"04c6063f","len":2423,"nTasks":1,"models":"null","read":true,"findings":"2,423c 走廊板 v5（不含 Space walls——精简版）"}
+{"project":"RECURSION","idx":223,"sha8":"04c6063f","len":2423,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行222）"}
+{"project":"RECURSION","idx":224,"sha8":"5954f0ad","len":1820,"nTasks":1,"models":"null","read":true,"findings":"1,820c **竖井俯视板**（**Two-point perspective**+**LADDER 段头**（**rising about a metre above the slab edge as two vertical grab handles standing free in the air**——梯轨高出浮空双把）+**Red light rises out of the shaft from far below**——井底红光上涌）"}
+{"project":"RECURSION","idx":225,"sha8":"d9324a93","len":2811,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,966c 10s 泪中映像（**泪中映像金句**：a faint MIRRORED REFLECTION shimmers…dreamlike, upside-down, barely readable+**The photographs themselves are NEVER directly visible**）"}
+{"project":"RECURSION","idx":226,"sha8":"2ab8632b","len":2602,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,602c 竖井板 v2（**The two meet across the last two metres of the tunnel…the red the only saturated colour in the frame** 金句）"}
+{"project":"RECURSION","idx":227,"sha8":"33c52a36","len":2631,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,576c 5s 固定框穿行（**She simply WALKS THROUGH the fixed frame**+**The camera never follows her**）"}
+{"project":"RECURSION","idx":228,"sha8":"f104bd32","len":1603,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,603c 服务前室板（**Left END 电梯/Right END 竖井**——双端板+**the interior of the opening reads as one flat solid black mass, the deepest value in the frame, its depth unresolved**——洞底深度未解声明）"}
+{"project":"RECURSION","idx":229,"sha8":"154a1242","len":4314,"nTasks":1,"models":"null","read":true,"findings":"1,225c 6s 月夜逃 v2（**heartbeat-like footfalls** 金句）"}
+{"project":"RECURSION","idx":230,"sha8":"2d4b3634","len":2341,"nTasks":1,"models":"null","read":true,"findings":"2,045c 10s 拳击三击（**a blow of heartbreak, not force** 金句）"}
+{"project":"RECURSION","idx":231,"sha8":"2d4b3634","len":2341,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行230）"}
+{"project":"RECURSION","idx":232,"sha8":"8ae0b2c3","len":2388,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,291c 12s 泪中映像 v2（**SUBTLE and DARK**——**just a ghost of two figures you have to look for** 金句——你得去找的幽灵）"}
+{"project":"RECURSION","idx":233,"sha8":"803a2679","len":2445,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行76）"}
+{"project":"RECURSION","idx":234,"sha8":"154a1242","len":4314,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行229）"}
+{"project":"RECURSION","idx":235,"sha8":"8e8fe167","len":4689,"nTasks":1,"models":"null","read":true,"findings":"1,505c THE WALK 静版（**grin caught in three-quarter lost profile**+signature CLOSED-LIP grin）"}
+{"project":"RECURSION","idx":236,"sha8":"803a2679","len":2445,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行76）"}
+{"project":"RECURSION","idx":237,"sha8":"6fd6613b","len":2068,"nTasks":1,"models":"null","read":true,"findings":"1,157c 换照片变体（**like holding something she cannot look at anymore** 金句）"}
+{"project":"RECURSION","idx":238,"sha8":"84a888ec","len":2302,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,525c 医院长凳（**His face carries the grief for both of them** 金句）"}
+{"project":"RECURSION","idx":239,"sha8":"757dec9f","len":3720,"nTasks":1,"models":"null","read":true,"findings":"3,720c 满室杂物门内全景 v3（**Three light sources and only three**——三源声明（含 **a wedge of cool corridor fluorescent light falling in through the open door behind the camera**——门后冷荧光楔+**dried brown coffee ring inside it**——干咖啡圈））"}
+{"project":"RECURSION","idx":240,"sha8":"835011c2","len":3776,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,471c 后处理换脸（**IMAGE EDIT…This is post-processing of the original photograph, not a rebuild** 段头+**PRESERVE EXACTLY everything else, pixel for pixel**）"}
+{"project":"RECURSION","idx":241,"sha8":"8e6bdf85","len":2517,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,517c 4:3 碎纸机三柱版（**COLUMN 1/2/3 竖栏制**！+**steel cutting drums visible…the machine open straight through from top to bottom**——通体开膛+**a discreet maker's mark** 低调铭牌金句）"}
+{"project":"RECURSION","idx":242,"sha8":"f790e3a7","len":232,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,103c 理发店问答（**BOTH WOMEN ARE IN THE REAL ROOM AND BOTH ALSO VISIBLE IN THE MIRROR** 大写）"}
+{"project":"RECURSION","idx":243,"sha8":"d26f7093","len":1535,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,535c 公告板 v1（**spaced in clumps, organically** 成簇有机分布+**NEVER TRUST AN ATOM, THEY MAKE UP EVERYTHING** 物理梗标语+**Mountain House 中餐外卖菜单**+**Lakeshore Cryotronics** 商业卡+**a kid's crude…crayon drawing hanging off the bottom of the board**——儿童蜡笔画出板沿）"}
+{"project":"RECURSION","idx":244,"sha8":"da80639a","len":1570,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"839c 卷发手特写（**师快客静**金句+**源内笔误 the 客**）"}
+{"project":"RECURSION","idx":245,"sha8":"a7af434c","len":1148,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,148c 公告板 v2（行243 精简版）"}
+{"project":"RECURSION","idx":246,"sha8":"42d24933","len":1231,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,231c 公告板 v3（**a liquid nitrogen fill schedule, hand-annotated in the margins**——液氮填充日程手注）"}
+{"project":"RECURSION","idx":247,"sha8":"d6fb8e69","len":1141,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,762c 静照买李（**The woman who once stole plums now buys a whole bag without asking the price** 金句——偷李者今买李）"}
+{"project":"RECURSION","idx":248,"sha8":"3b5b5675","len":3080,"nTasks":1,"models":"null","read":true,"findings":"3,080c 办公室 v4（**one taped shut and marked OFFICE — BOOKS in black marker**——黑马克笔书箱！）"}
+{"project":"RECURSION","idx":249,"sha8":"3b5b5675","len":3080,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行248）"}
+{"project":"RECURSION","idx":250,"sha8":"106a2830","len":1356,"nTasks":1,"models":"null","read":true,"findings":"1,960c 换装双人远（**THE TWO FIGURES NOW WEAR EXACTLY WHAT THEY WEAR IN THE SECOND REFERENCE IMAGE** 加粗+**that contrast is the point** 加粗金句+**Everything else stays bit-identical**）"}
+{"project":"RECURSION","idx":251,"sha8":"23e90d99","len":424,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,061c 德语标题行制首例"}
+{"project":"RECURSION","idx":252,"sha8":"96bb8866","len":2972,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,236c 德语标题 v2（**RAMIZA WARTET — am Fenster, von innen**）"}
+{"project":"RECURSION","idx":253,"sha8":"890214bd","len":269,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"269c 秒表挂微指令（<<<585ca40b>>> hanging vertically——挂表指令）"}
+{"project":"RECURSION","idx":254,"sha8":"aabdbde6","len":1555,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,555c 秒表表 v2（**0:00:00.00** 时分秒百秒+orange start button）"}
+{"project":"RECURSION","idx":255,"sha8":"a39873ff","len":3602,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,413c 德语标题 v4（**DIE TÜR — eng. Mutter und Tochter warten**）"}
+{"project":"RECURSION","idx":256,"sha8":"e1fa74f3","len":3708,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,755c 拉远变体（**THE CAMERA PULLS BACK** 加粗）"}
+{"project":"RECURSION","idx":257,"sha8":"3c9181f0","len":1834,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,062c 德语标题 v5（**DER WEG IN DIE STADT — tiefere Drohnenhöhe, von hinten**）"}
+{"project":"RECURSION","idx":258,"sha8":"50b66796","len":4933,"nTasks":1,"models":"null","read":true,"findings":"2,104c 求婚特写（**nervous, not charming** 金句+**LIGHT MUST BE WARM 段头**）"}
+{"project":"RECURSION","idx":259,"sha8":"c1d2d3cf","len":840,"nTasks":1,"models":"null","read":true,"findings":"840c 隧道 v2（**small, white painted measurement intervals every foot**——每英尺刻度）"}
+{"project":"RECURSION","idx":260,"sha8":"0cb4f21c","len":867,"nTasks":1,"models":"null","read":true,"findings":"867c 隧道 v3（**There should be no text on the walls whatsoever**——墙面无字禁令）"}
+{"project":"RECURSION","idx":261,"sha8":"dc471204","len":557,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行69）"}
+{"project":"RECURSION","idx":262,"sha8":"a3f502dd","len":4796,"nTasks":1,"models":"null","read":true,"findings":"4,796c 伏案凝视（**hunched forward over the desk, spine curved, shoulders rounded up toward her ears**——耸肩驼背前伏+**The look of someone reading something and not moving. Exhausted, absorbed, faintly afraid of being caught.** 金句）"}
+{"project":"RECURSION","idx":263,"sha8":"3c7d58e9","len":1560,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,560c **关闭告示牌道具表**（**GREENBURY ACCELERATOR LAB** 黑带反白+**CLOSED FOR EXPERIMENT in enormous heavy black condensed capitals across three lines**——三行大字关闭+**EFFECTIVE SEPTEMBER 12 2024 and AUTHORIZED ACCESS ONLY — R. PATEL, PRINCIPAL INVESTIGATOR**——日期署名制+**the printed word SEALED repeating along it**——SEALED 重复封条带）"}
+{"project":"RECURSION","idx":264,"sha8":"e2d55673","len":1651,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,651c **拆装面板道具表**（**a bare rectangular aperture cut through the faceplate**——拆走开关洞+**a single loose black wire tail sheathed in cloth insulation**——布包线尾+**the enamel is a paler unweathered rectangle where a fitting once covered it** 金句）"}
+{"project":"RECURSION","idx":265,"sha8":"8e64e2ad","len":1508,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,508c 电梯层显道具表（**two-character orange-amber segmented LED display reading -4**——负层显示！+**backlit in the same orange-amber, pointing upward / unlit and reading as a flat etched outline**——上箭头亮下箭头灭）"}
+{"project":"RECURSION","idx":266,"sha8":"454d6ce7","len":1170,"nTasks":1,"models":"null","read":true,"findings":"1,653c 天花板俯拍暴力（**HURLS it away from the women toward the far empty wall** 掷物背向）"}
+{"project":"RECURSION","idx":267,"sha8":"f1d4471a","len":2738,"nTasks":1,"models":"null","read":true,"findings":"2,738c 走廊板 v6（**bearing a scatter of brass pins and three plain pale cream slips of paper**——三纸条声明）"}
+{"project":"RECURSION","idx":268,"sha8":"bab83cb5","len":2647,"nTasks":1,"models":"null","read":true,"findings":"2,647c 合照 v1（**BACK RANK 段头**+**character reference P/S/A/J 代号引用**+**one hand resting on the shoulder of each of the two seated people**——双手搭肩+**mottled blue-grey painted canvas backdrop** 花斑布景+**Each wears an open white lab coat over formal dress** 白大褂礼服内衬）"}
+{"project":"RECURSION","idx":269,"sha8":"bab83cb5","len":2647,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行268）"}
+{"project":"RECURSION","idx":270,"sha8":"75ccbaa9","len":4197,"nTasks":1,"models":"null","read":true,"findings":"4,197c 双图合成 v2（**Image 1 is a framed photograph. Image 2 is a desktop computer**——编号图引用+**the same monitor, the same tower, the same keyboard and mouse, exactly as shown**——同物等声明）"}
+{"project":"RECURSION","idx":271,"sha8":"29e524d4","len":2709,"nTasks":1,"models":"null","read":true,"findings":"1,351c 双变更家内（**THE YOUNG WOMAN STAYS 100% UNCHANGED** 大写）"}
+{"project":"RECURSION","idx":272,"sha8":"86709834","len":2702,"nTasks":1,"models":"null","read":true,"findings":"1,171c 新机位（**COMPLETELY NEW CAMERA ANGLE 段头**+**an errand on a good day** 金句）"}
+{"project":"RECURSION","idx":273,"sha8":"ef54b41c","len":2768,"nTasks":1,"models":"null","read":true,"findings":"2,768c 合照 v3（**Morgan, a Chinese-American woman in her mid-forties**——Morgan 命名角色（UUID→匿名→命名三版漂移实录））"}
+{"project":"RECURSION","idx":274,"sha8":"019050e1","len":1878,"nTasks":1,"models":"null","read":true,"findings":"1,878c 相框+照合成（**reproduced exactly as it appears, square and centred in the aperture**——照入框合成声明）"}
+{"project":"RECURSION","idx":275,"sha8":"75ccbaa9","len":4197,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行270）"}
+{"project":"RECURSION","idx":276,"sha8":"019050e1","len":1878,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行274）"}
+{"project":"RECURSION","idx":277,"sha8":"257e2e5b","len":436,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"436c 写满修正 v3（**blue ballpoint** 版+**the boxed formula exactly as they are. Below the formula box the sheet is now completely filled**）"}
+{"project":"RECURSION","idx":278,"sha8":"e438abb6","len":1201,"nTasks":1,"models":"null","read":true,"findings":"1,201c **合照人数修正**（**Four people now**——四人版+**the standing rank has lost the woman in glasses, leaving open backdrop on that side of the frame**——失去眼镜女露空布景）"}
+{"project":"RECURSION","idx":279,"sha8":"26ca84ee","len":965,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行209）"}
+{"project":"RECURSION","idx":280,"sha8":"373e2ec4","len":1372,"nTasks":1,"models":"null","read":true,"findings":"354c **德语 Seedream-Edit 指令**（gib dem Sheet per Seedream-Edit einen）"}
+{"project":"RECURSION","idx":281,"sha8":"ca0976ac","len":591,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行212）"}
+{"project":"RECURSION","idx":282,"sha8":"f5f5760d","len":1321,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,656c 九岁老化板（**the round toddler softness has gone out of the cheeks** 金句+**Undernourished — thin wrists, sharp collarbones**）"}
+{"project":"RECURSION","idx":283,"sha8":"6c9dba3c","len":2755,"nTasks":1,"models":"null","read":true,"findings":"2,921c 四视模型表（**HER IDENTITY COMES ENTIRELY FROM THE REFERENCE IMAGES** 大写）"}
+{"project":"RECURSION","idx":284,"sha8":"f79740a6","len":2378,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行210）"}
+{"project":"RECURSION","idx":285,"sha8":"ab973c40","len":2500,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行217）"}
+{"project":"RECURSION","idx":286,"sha8":"f8fba07e","len":934,"nTasks":1,"models":"default","read":true,"findings":"1,059c 衣着三视表（**only a small white triangle of shirt showing at the throat** 白三角衬衫）"}
+{"project":"RECURSION","idx":287,"sha8":"ad49d6ac","len":565,"nTasks":1,"models":"null","read":true,"findings":"2,071c 静照巡游（**THE KORZO 段头**+**a woman who is somebody now** 金句）"}
+{"project":"RECURSION","idx":288,"sha8":"a7aa4f12","len":2739,"nTasks":1,"models":"null","read":true,"findings":"1,988c 静照影院（**He is NOT watching the film — his head is turned toward her, watching her face in the flicker** 金句）"}
+{"project":"RECURSION","idx":289,"sha8":"d9324a93","len":2811,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行225）"}
+{"project":"RECURSION","idx":290,"sha8":"8f36033a","len":1671,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,795c 静照新鞋（**suddenly foreign in this shop** 金句）"}
+{"project":"RECURSION","idx":291,"sha8":"5954f0ad","len":1820,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行224）"}
+{"project":"RECURSION","idx":292,"sha8":"803a2679","len":2445,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行76）"}
+{"project":"RECURSION","idx":293,"sha8":"33c52a36","len":2631,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行227）"}
+{"project":"RECURSION","idx":294,"sha8":"97a826b2","len":547,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"547c 微指令（**it says -4** 层叙述+**slight glare with it into the camera** 炫光入镜）"}
+{"project":"RECURSION","idx":295,"sha8":"fb798b2b","len":534,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"534c 行294 微差（删 (it says -4)）"}
+{"project":"RECURSION","idx":296,"sha8":"154a1242","len":4314,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行229）"}
+{"project":"RECURSION","idx":297,"sha8":"194d1034","len":2037,"nTasks":1,"models":"null","read":true,"findings":"2,037c 门缝标题板（**DR. DESMOND PATEL** 门牌+**we only see a SMALL SLIVER of that scene—a strip from the rightmost 18th of the office plate frame**——**1/18 条带金句**+**two thin soft-edged lines of low cool light**——双线冷光）"}
+{"project":"RECURSION","idx":298,"sha8":"8bf7ea75","len":2231,"nTasks":1,"models":"null","read":true,"findings":"2,231c 竖井板 v3（**so the drop reads as the tunnel simply turning a corner into the ground** 金句——隧道转入地下即拐弯）"}
+{"project":"RECURSION","idx":299,"sha8":"f104bd32","len":1603,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行228）"}
+{"project":"RECURSION","idx":300,"sha8":"f104bd32","len":1603,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行228）"}
+{"project":"RECURSION","idx":301,"sha8":"6a7213fc","len":2465,"nTasks":1,"models":"null","read":true,"findings":"2,465c 前室板 v2（**NEAR END/FAR END 段头**（Left/Right→Near/Far 命名修订）+**a thin bright line down the leading face of each rail and a bright crescent on the top of each grab extension** 金句——轨棱亮线+把手亮月牙+**the rust catching warm ochre in the raking light**——锈接暖赭）"}
+{"project":"RECURSION","idx":302,"sha8":"6a7213fc","len":2465,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行301）"}
+{"project":"RECURSION","idx":303,"sha8":"0ae2942c","len":7289,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（首现行166）"}
+{"project":"RECURSION","idx":304,"sha8":"8d7468ca","len":2884,"nTasks":1,"models":"default","read":true,"findings":"1,707c 解剖锁修正（**1. ANATOMY: she has exactly TWO arms** 大写）"}
+{"project":"RECURSION","idx":305,"sha8":"6c9dba3c","len":2755,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行283）"}
+{"project":"RECURSION","idx":306,"sha8":"55e4791f","len":427,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"427c slip 位置修正 v2（slightly off-center right——位置漂移实录）"}
+{"project":"RECURSION","idx":307,"sha8":"6d56deb5","len":2847,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,295c 双变更背影（**He is the only one not moving** 金句）"}
+{"project":"RECURSION","idx":308,"sha8":"40d6e7b8","len":2652,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,669c 时代成长（**It is 1975 and the town has grown around the bakery** 金句）"}
+{"project":"RECURSION","idx":309,"sha8":"44f2e18a","len":2040,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,040c 三脚架表 v2（无 foot spikes 版）"}
+{"project":"RECURSION","idx":310,"sha8":"6d6c736a","len":425,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"425c slip 位置 v3（about 2/3 to the right——三版漂移）"}
+{"project":"RECURSION","idx":311,"sha8":"fb8172da","len":1404,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,666c 肉铺静版（Palette 60/30/10 肉红）"}
+{"project":"RECURSION","idx":312,"sha8":"8864a2af","len":3713,"nTasks":1,"models":"null","read":true,"findings":"6,071c 5s 贬矮上工（**十段头全案**）"}
+{"project":"RECURSION","idx":313,"sha8":"146a3de7","len":2831,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,794c 发高修正（**THE VOLUME AT THE CROWN IS CLEARLY REDUCED** 加粗+DOWN by about a third）"}
+{"project":"RECURSION","idx":314,"sha8":"f4fb0620","len":1894,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,894c **纸条道具表全案**（**下切上撕双缘**金句（lower long edge is a clean straight machine cut…upper long edge is torn — an irregular ragged line with fine paper fibres standing up）+**11-point serif type, two complete lines**+**the torn edge clips through the line of text…only the bottom fraction of those letterforms visible** 金句——**撕纸裁字只余下缘**（descenders severed）+**for an empirical, embodied experience of an infinitely extended space; proof of infinity in the physical world** 纸条正文金句）"}
+{"project":"RECURSION","idx":315,"sha8":"e89733cc","len":3600,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,492c 真顶拍静版（**floorboards filling the frame like a map** 金句）"}
+{"project":"RECURSION","idx":316,"sha8":"b17a0531","len":1813,"nTasks":1,"models":"null","read":true,"findings":"1,061c 抽屉弹开（SPRINGING OPEN+RELAXED AND LIGHT）"}
+{"project":"RECURSION","idx":317,"sha8":"a39873ff","len":3602,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行255）"}
+{"project":"RECURSION","idx":318,"sha8":"16e6be23","len":1845,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,324c 5s 夜远守望（**@Besim 宏名**+夜距失焦金句）"}
+{"project":"RECURSION","idx":319,"sha8":"7d6befb3","len":5024,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"5,024c previz 更衣室板 v3（INTERIOR WINDOW v3（窗外实验室五件描述））"}
+{"project":"RECURSION","idx":320,"sha8":"eca8393c","len":1701,"nTasks":1,"models":"null","read":true,"findings":"32c 塞语台词修正（Štaradiš to?! ... Šta radiš to?!）"}
+{"project":"RECURSION","idx":321,"sha8":"27d363e7","len":3910,"nTasks":1,"models":"null","read":true,"findings":"1,477c 静版超远距离（**a small running figure the height of a fingernail in the frame** 金句——指甲高）"}
+{"project":"RECURSION","idx":322,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":323,"sha8":"53f00076","len":845,"nTasks":1,"models":"sunburst","read":true,"findings":"845c sunburst 海报首例（**O 嵌套 O 隧道形标题字设计**）"}
+{"project":"RECURSION","idx":324,"sha8":"b3b8ba80","len":5696,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行138）"}
+{"project":"RECURSION","idx":325,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":326,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":327,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":328,"sha8":"5c758862","len":4898,"nTasks":1,"models":"default","read":true,"findings":"4,898c 记者围堵（**Yellow tape marks the edge of the press area**——黄色封锁带+**three closely staggered rows**——三排交叠（**Faces appear between neighbouring shoulders, with natural overlap**——肩间露脸金句）+台词 5 句+**Their shoulders sag briefly between gestures**——耸肩塌陷疲惫）"}
+{"project":"RECURSION","idx":329,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":330,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":331,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":332,"sha8":"c97cd4fd","len":5738,"nTasks":1,"models":"null","read":true,"findings":"5,738c previz 实验室板 v5（行130 复刻）"}
+{"project":"RECURSION","idx":333,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":334,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":335,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":336,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":337,"sha8":"e417c677","len":3993,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行172）"}
+{"project":"RECURSION","idx":338,"sha8":"1eb205e6","len":1075,"nTasks":1,"models":"null","read":true,"findings":"1,075c 反角 v3（looking back toward the door——朝门版（vs 朝墙版冲突））"}
+{"project":"RECURSION","idx":339,"sha8":"88945ffc","len":2608,"nTasks":1,"models":"null","read":true,"findings":"2,545c 5s 车牌 v1（**THE REAR LICENCE PLATE — HARD LOCK 段头**（NP 12-345——两版车牌冲突））"}
+{"project":"RECURSION","idx":340,"sha8":"44345030","len":1895,"nTasks":1,"models":"null","read":true,"findings":"3,095c 5s 直行版（roughly TEN METRES over the clip——10 米行程计量）"}
+{"project":"RECURSION","idx":341,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":342,"sha8":"8367fafa","len":1160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行61）"}
+{"project":"RECURSION","idx":343,"sha8":"258df711","len":2934,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,840c 黑暗即主题（**The darkness is the point: one can tell that a man is standing there, and nothing more** 金句）"}
+{"project":"RECURSION","idx":344,"sha8":"44345030","len":1895,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行340）"}
+{"project":"RECURSION","idx":345,"sha8":"a9980d61","len":7245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行20）"}
+{"project":"RECURSION","idx":346,"sha8":"ed8ffa93","len":7768,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行131）"}
+{"project":"RECURSION","idx":347,"sha8":"ca47f3e3","len":4950,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行133）"}
+{"project":"RECURSION","idx":348,"sha8":"1aaaee9e","len":415,"nTasks":1,"models":"null","read":true,"findings":"1,588c 同刻广角（**She is alone among adults without anyone paying attention to her, and that is the point of the shot** 金句）"}
+{"project":"RECURSION","idx":349,"sha8":"92b4789c","len":1457,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"3,391c 4s 80m 射击（**The recoil is small — this is a low-powered air gun, not a firearm** 金句）"}
+{"project":"RECURSION","idx":350,"sha8":"4eb2eecd","len":2931,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行207）"}
+{"project":"RECURSION","idx":351,"sha8":"da7cb8db","len":397,"nTasks":1,"models":"null","read":true,"findings":"397c 写满修正 v4（行208 复刻）"}
+{"project":"RECURSION","idx":352,"sha8":"1aaaee9e","len":415,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行348）"}
+{"project":"RECURSION","idx":353,"sha8":"ab973c40","len":2500,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行217）"}
+{"project":"RECURSION","idx":354,"sha8":"f79740a6","len":2378,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行210）"}
+{"project":"RECURSION","idx":355,"sha8":"f5f5760d","len":1321,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行282）"}
+{"project":"RECURSION","idx":356,"sha8":"6c9dba3c","len":2755,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行283）"}
+{"project":"RECURSION","idx":357,"sha8":"33b15959","len":2996,"nTasks":1,"models":"null","read":true,"findings":"1,419c 孤村大巴（**dwarfed by the empty lane** 金句）"}
+{"project":"RECURSION","idx":358,"sha8":"fe062fc7","len":3412,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行206）"}
+{"project":"RECURSION","idx":359,"sha8":"0c25776c","len":2889,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行191）"}
+{"project":"RECURSION","idx":360,"sha8":"0c25776c","len":2889,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行191）"}
+{"project":"RECURSION","idx":361,"sha8":"18998452","len":2511,"nTasks":1,"models":"null","read":true,"findings":"2,511c 走廊板 v4（**At the end of the 15-meter run, the hallway turns 90 degrees to the left and continues**——90° 左转声明！）"}
+{"project":"RECURSION","idx":362,"sha8":"04c6063f","len":2423,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行222）"}
+{"project":"RECURSION","idx":363,"sha8":"803a2679","len":2445,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行76）"}
+{"project":"RECURSION","idx":364,"sha8":"2ab8632b","len":2602,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行226）"}
+{"project":"RECURSION","idx":365,"sha8":"d9324a93","len":2811,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行225）"}
+{"project":"RECURSION","idx":366,"sha8":"803a2679","len":2445,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行76）"}
+{"project":"RECURSION","idx":367,"sha8":"70982d24","len":3102,"nTasks":1,"models":"null","read":true,"findings":"1,854c 摊位空板（Nothing knocked over yet）"}
+{"project":"RECURSION","idx":368,"sha8":"7acea40e","len":4225,"nTasks":1,"models":"null","read":true,"findings":"4,759c 7s 弹丸飞行（**a true tracking shot on a projectile, not a pan** 金句）"}
+{"project":"RECURSION","idx":369,"sha8":"81dfe37b","len":2214,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,214c 竖井板 v4（behind the camera 谓词版）"}
+{"project":"RECURSION","idx":370,"sha8":"cfa6d8e2","len":4194,"nTasks":1,"models":"null","read":true,"findings":"4,194c **双图 previz 简化版**（**Image 1 is…geometry authority. Image 2 is…material, palette and lighting authority**——双权威分工首例确认！）"}
+{"project":"RECURSION","idx":371,"sha8":"4c352a0b","len":2858,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行75）"}
+{"project":"RECURSION","idx":372,"sha8":"803a2679","len":2445,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行76）"}
+{"project":"RECURSION","idx":373,"sha8":"803a2679","len":2445,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行76）"}
+{"project":"RECURSION","idx":374,"sha8":"4fd213bf","len":1563,"nTasks":1,"models":"null","read":true,"findings":"2,453c 6s 照片揭示（**her EYES begin to understand** 金句——眼悟+**the prints sinking a few centimetres in her hands** 金句——照片下沉）"}
+{"project":"RECURSION","idx":375,"sha8":"92f437c4","len":2805,"nTasks":1,"models":"null","read":true,"findings":"2,805c 办公室 v5（**monitor sleeping black**——显示睡眠黑+**The only light in the room is the desk lamp** 单灯版+**Warm and cold meeting on the same desk** 金句+**soft pulsing equipment LEDs scattered in it** 窗外脉冲 LED）"}
+{"project":"RECURSION","idx":376,"sha8":"92f437c4","len":2805,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行375）"}
+{"project":"RECURSION","idx":377,"sha8":"92f437c4","len":2805,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行375）"}
+{"project":"RECURSION","idx":378,"sha8":"92f437c4","len":2805,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行375）"}
+{"project":"RECURSION","idx":379,"sha8":"c2f13f46","len":2734,"nTasks":1,"models":"null","read":true,"findings":"2,734c 合照 v4（**directly in front of Patel**——Patel 命名引用）"}
+{"project":"RECURSION","idx":380,"sha8":"da80639a","len":1570,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行244）"}
+{"project":"RECURSION","idx":381,"sha8":"835011c2","len":3776,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行240）"}
+{"project":"RECURSION","idx":382,"sha8":"d308337c","len":1286,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,286c 公告板 v4（行247 复刻）"}
+{"project":"RECURSION","idx":383,"sha8":"c565128c","len":1731,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"6,346c 4s 门口十段头（**FORMAT MODE 首例**+**ACTING 目标式表演法**金句群+**Deakins controlled silhouette**）"}
+{"project":"RECURSION","idx":384,"sha8":"79a736fc","len":1452,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,452c 公告板 v5（行243 复刻）"}
+{"project":"RECURSION","idx":385,"sha8":"57221ba4","len":1152,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"3,198c 德语标题尾部（**The emptiness ahead of them is the subject as much as the jeep is** 加粗金句——空旷即主题）"}
+{"project":"RECURSION","idx":386,"sha8":"834f2b5e","len":2333,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,825c 贴近变体（**THE CAMERA IS MUCH CLOSER TO THE JEEP** 加粗）"}
+{"project":"RECURSION","idx":387,"sha8":"de3b9578","len":974,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"4,000c 尺度宣言（**SCALE — THIS IS THE MOST IMPORTANT PART** 加粗段头）"}
+{"project":"RECURSION","idx":388,"sha8":"2f46b0ae","len":2334,"nTasks":1,"models":"null","read":true,"findings":"2,666c 门内 v3（**THE ONE THING THAT MUST CHANGE: THE WOMAN** 加粗段头）"}
+{"project":"RECURSION","idx":389,"sha8":"3b3a8cfe","len":3918,"nTasks":1,"models":"default","read":true,"findings":"3,918c SHOT 2/2 v3（**reads as a blank silhouette edge to the camera**——计时器背影轮廓）"}
+{"project":"RECURSION","idx":390,"sha8":"6345a0b6","len":3137,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,958c 被夸害羞（**She is on the point of saying a single quiet word** 金句）"}
+{"project":"RECURSION","idx":391,"sha8":"92f681ab","len":2009,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,009c 纸条表 v2（**平挂双态**（lying flat+hanging vertically）+**All four edges are clean straight machine cuts** 四缘齐切（vs 撕版冲突）+**a single complete line** 单行版（vs 两行冲突）+**an empirical experience of infinitely extended space**——删词版词序变体）"}
+{"project":"RECURSION","idx":392,"sha8":"842d3a9d","len":1823,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,823c 圆秒表表（**the shape of a pocket watch**——怀表形！+**Curved silkscreened text arcs** 弧形丝印+**12 o'clock crown position**——12 点钟冠位大橙钮）"}
+{"project":"RECURSION","idx":393,"sha8":"92f681ab","len":2009,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（首现行391）"}
+{"project":"RECURSION","idx":394,"sha8":"5d9e1c5b","len":7235,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"7,235c previz 实验室板 v6（**reading as a plain lit rectangle at a moderate value with a clean edge**——平亮矩形版（vs blown 高亮版冲突））"}
+{"project":"RECURSION","idx":395,"sha8":"1e7e12d3","len":4998,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（首现行27）"}
+{"project":"RECURSION","idx":396,"sha8":"4085a8dd","len":562,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"562c 纸条雨微指令（**dozens of strips…at scattered angles, furling into curls to different extents**——散角卷曲声明）"}
+{"project":"RECURSION","idx":397,"sha8":"7d6befb3","len":5024,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行319）"}
+{"project":"RECURSION","idx":398,"sha8":"7d6befb3","len":5024,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行319）"}
+{"project":"RECURSION","idx":399,"sha8":"06a19ddd","len":751,"nTasks":1,"models":"sunburst","read":true,"findings":"1,818c 淤伤修正模板（**a real haematoma the width of a hand**+**NOT as pellet wounds…四误认禁**）"}
+{"project":"RECURSION","idx":400,"sha8":"52a4fd7f","len":569,"nTasks":1,"models":"sunburst","read":true,"findings":"1,684c 房间自述空板（**What the room is: 段头**）"}
+{"project":"RECURSION","idx":401,"sha8":"a3846927","len":818,"nTasks":1,"models":"sunburst","read":true,"findings":"3,717c 5s 油灯迎归（**push past 谓词首例**+**认出即迎**金句）"}
+{"project":"RECURSION","idx":402,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":403,"sha8":"e35e5049","len":2634,"nTasks":1,"models":"default","read":true,"findings":"1,619c 同世界系列（SAME ORCHARD, SAME AFTERNOON, SAME LIGHT 段头）"}
+{"project":"RECURSION","idx":404,"sha8":"f34c4105","len":2486,"nTasks":1,"models":"default","read":true,"findings":"1,424c 兜满修正（**READ CLEARLY AS FULL OF STOLEN PLUMS** 大写）"}
+{"project":"RECURSION","idx":405,"sha8":"ecb4a5a7","len":2106,"nTasks":1,"models":"default","read":true,"findings":"2,106c 4s 空白纸 v2（**almost personally offended by what has happened**——被冒犯声明+**Are you fucking kidding me?**——内心台词金句）"}
+{"project":"RECURSION","idx":406,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":407,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":408,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":409,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":410,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":411,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":412,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":413,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":414,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":415,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":416,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":417,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":418,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":419,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":420,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":421,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":422,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":423,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":424,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":425,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":426,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":427,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":428,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":429,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":430,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":431,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":432,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":433,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":434,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":435,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":436,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":437,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":438,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":439,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":440,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":441,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":442,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":443,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":444,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":445,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":446,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":447,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":448,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":449,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":450,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":451,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":452,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":453,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":454,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":455,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":456,"sha8":"9e43511e","len":2588,"nTasks":1,"models":"default","read":true,"findings":"2,000c 英文标题 v2（**纯天背板**加粗段头）"}
+{"project":"RECURSION","idx":457,"sha8":"bf6237da","len":1455,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,455c 门缝板 v4（**A narrow vertical band of cool blue-white light runs the full height of the gap and lays a thin wedge of the same light forward across the corridor floor toward camera**——门缝光楔声明）"}
+{"project":"RECURSION","idx":458,"sha8":"f1d92675","len":3201,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行195）"}
+{"project":"RECURSION","idx":459,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":460,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":461,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":462,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":463,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":464,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":465,"sha8":"88eaa889","len":301,"nTasks":1,"models":"null","read":true,"findings":"301c 服装修正微指令（**ALMOST fully zipped up…The hood drawstring tips are metal**——几乎全拉链+金属抽绳头+**expect 源内笔误**）"}
+{"project":"RECURSION","idx":466,"sha8":"5f13ce68","len":2730,"nTasks":1,"models":"null","read":true,"findings":"2,730c 三柱角色表 v1（**COLUMN 1/2/3 段头**（chest-up/full-body front **A-pose**/back view）+**CHARACTER (must remain identical in all panels)**——恒定段头+**宽面人物考据全案**（**wide-set small brown eyes with a broad flat span of skin between them**——宽距小眼+**heavy flat medium-brown brows sitting low**——低平浓眉+**long distance from nose to upper lip**——鼻唇距长+**sharp protruding jaw**——凸颚+**natural asymmetry between the two sides of the face**——自然不对称+**plain unglamorous features in strange proportion** 金句——**比例奇特的朴素特征**！+**undereye skin matching the surrounding cheek tone**——眼下同颊色+**bare earlobes with small visible piercing holes**——耳洞可见））"}
+{"project":"RECURSION","idx":467,"sha8":"32eeda58","len":2983,"nTasks":1,"models":"null","read":true,"findings":"1,695c 真顶拍（**TRUE BIRD'S-EYE VIEW 段头**）"}
+{"project":"RECURSION","idx":468,"sha8":"105ee982","len":2939,"nTasks":1,"models":"null","read":true,"findings":"2,939c 三柱角色表 v2（**dusty clay-rose cotton-modal** 陶玫瑰衣版）"}
+{"project":"RECURSION","idx":469,"sha8":"37bc9656","len":3008,"nTasks":1,"models":"null","read":true,"findings":"3,008c 三柱角色表 v3（**printed across the chest with the single word MALIBU in large faded cracked white collegiate block capitals set in a shallow upward arch**——MALIBU 拱形裂纹字！）"}
+{"project":"RECURSION","idx":470,"sha8":"37bc9656","len":3008,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行469）"}
+{"project":"RECURSION","idx":471,"sha8":"be9d2dba","len":2743,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行135）"}
+{"project":"RECURSION","idx":472,"sha8":"e599c376","len":2467,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"1,504c 洗手"}
+{"project":"RECURSION","idx":473,"sha8":"5d9e1c5b","len":7235,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（首现行394）"}
+{"project":"RECURSION","idx":474,"sha8":"1d8b228f","len":7156,"nTasks":1,"models":"null","read":true,"findings":"7,156c previz 实验室板 v7（**EXPOSED SERVICES…rendered in aged, dusty, desaturated enamel**——蓬皮杜陈旧化声明！+**muted greyed blue/dulled ochre yellow/faded sage green/chalky off-white** 四色褪色版）"}
+{"project":"RECURSION","idx":475,"sha8":"7e0783f7","len":3914,"nTasks":1,"models":"null","read":true,"findings":"3,291c 4s 交接（**no snatching** 金句）"}
+{"project":"RECURSION","idx":476,"sha8":"c378c01e","len":851,"nTasks":1,"models":"sunburst","read":true,"findings":"851c sunburst 海报 v2（**all symmetrically centered**——对称多重 O 版）"}
+{"project":"RECURSION","idx":477,"sha8":"eb6e2ed1","len":6223,"nTasks":1,"models":"default","read":true,"findings":"751c sunburst 海报首例（**O 嵌套 O 隧道形标题字设计**（Stylize the O (so it has multiple additional Os inside of it, resembling a tunnel)+**Keep the rest of the font monospaced and scaled correctly**+**参考取舍声明**（Though the font is wrong (too plain)—her pose and the hair is fantastic））"}
+{"project":"RECURSION","idx":478,"sha8":"64f4b868","len":819,"nTasks":1,"models":"sunburst","read":true,"findings":"819c sunburst v3（so it has one additional Os——语法漂移版）"}
+{"project":"RECURSION","idx":479,"sha8":"09f0ef34","len":759,"nTasks":1,"models":"sunburst","read":true,"findings":"759c sunburst v4（**Stylize the E and the O to match the thematic vibe of the poster (scientific horror/thriller/drama)**——类型三连声明！）"}
+{"project":"RECURSION","idx":480,"sha8":"580fe3ee","len":705,"nTasks":1,"models":"sunburst","read":true,"findings":"705c sunburst v5（**thinning edges and a novel, notable look**——削边新样声明）"}
+{"project":"RECURSION","idx":481,"sha8":"dc9ae949","len":1101,"nTasks":1,"models":"default","read":true,"findings":"1,101c 4s 最小表演版（**During the first second, her eyes widen a tiny amount, then remain that way. This is the only visible change.**——唯一变化声明金句）"}
+{"project":"RECURSION","idx":482,"sha8":"5fa525d4","len":2383,"nTasks":1,"models":"default","read":true,"findings":"2,383c 字迹消失 v2（**She receives this impossible development as a personal slight** 金句+**as though physics has deliberately chosen to waste her time** 金句——**物理故意浪费她时间**+**One eyebrow lifts slightly, giving the page a pointed, almost accusatory look** 金句——指认性抬眉）"}
+{"project":"RECURSION","idx":483,"sha8":"a123e6a1","len":1510,"nTasks":1,"models":"default","read":true,"findings":"1,510c 4s 无表演版（**Her face remains blank throughout**——全空白脸声明）"}
+{"project":"RECURSION","idx":484,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":485,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":486,"sha8":"6351c944","len":2198,"nTasks":1,"models":"default","read":true,"findings":"2,198c 笔失效 v2（**The pen, which worked moments ago, now leaves nothing**——笔失效超自然+**absorbing the fact that even the pen has failed her** 金句）"}
+{"project":"RECURSION","idx":487,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":488,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":489,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":490,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":491,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":492,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":493,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":494,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":495,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":496,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":497,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":498,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}
+{"project":"RECURSION","idx":499,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":""}

@@ -1,0 +1,153 @@
+【项目】Clear Intention（@cyr4x · 社区项目）
+【链接】https://higgsfield.ai/zh/@cyr4x/projects/ai-film-festival-clear-intention
+【数据】计数未取到（见项目页）
+【捕获】2026-10-28（浏览器"项目简报"面板）
+
+──────────────────────────────────────
+
+PROJECT BRIEF
+
+This is the project brief for CLEAR INTENTION, my AI-native short film.
+
+Logline: Four college students run a real contact protocol as a class project, on camera, for a joke. Something answers — and what walks back out of the light is wearing their friend. A found-footage science-fiction thriller about invitation to the unknown.
+
+
+
+
+
+
+
+
+
+
+ABOUT THE PROJECT
+The shortfilm
+
+A cluttered college rental at night, one lamp and a laptop screen. Tyler reads the steps of the CE5 protocol off the screen in a flat deadpan — clear intentions — and Jaz throws a cushion at his back. Marcus holds the camcorder. Danny, who talked everyone into this, is the one in front of the lens all night.
+
+They drive out to a dirt farm road in rural Ohio, corn walls on both sides, and they run the protocol properly, because doing it properly is funnier. Then the sky answers. 
+
+Runtime around 9 minutes. One night, four characters, two camera formats, one rule under everything: the camera is a person.
+
+
+
+
+
+
+
+
+
+The frames
+
+Every frame is generated. The film is written against a registry of reference IDs — every character, every altered state, every location plate carries a fixed UUID and a frozen descriptor pasted in verbatim, never paraphrased. Production runs on a numbered body of laws distilled from failed generations: forty of them, each written after a take came back wrong, plus a catalogue of thirty-eight named failure symptoms mapped to the prompt block that causes them. Prompts are built on a sixteen-block skeleton, optics are specified as diagonal FOV in degrees rather than lens names, and the arithmetic is fixed: roughly one physical action plus one line per four seconds, dialogue at 2.5 words per second, long scenes cut as four fifteen-second beats rather than two thirty-second takes — identity lock is more reliable, a failed take costs less, and every cut is one more continuity anchor.
+
+Video and Image assets are Higgsfield. Audio is Envato.
+
+All video and speech is generated in Higgsfield with Seedance. Characters exist as registered references with UUIDs, re-pasted into every prompt that contains them. Score and sound design are built with Envato and ElevenLabs Music — ElevenLabs where a cue has to hold internal timings, Envato for the chase scene.  Prompts are written by Claude running the project's own skills (below). Edit, sound layout and colour: Adobe Premiere Pro. No visual material is generated outside Higgsfield. Not even a frame from a video was uploaded. All referenced items were within Higgsfield.
+
+
+
+
+
+
+Two Styles
+
+The film has two formats and they are a rule, not a look. Camcorder/Cine.
+
+Hi8. 1990s consumer camcorder, operator-held. Heavy grain, crushed blacks, blown highlights, autofocus hunting, interlace comb on motion. No text, no watermark, no timecode. This block is pasted byte-identical at the head and tail of every found-footage prompt, because drift in the invariant block is the single biggest cause of the look changing between clips.
+
+
+
+
+
+
+35mm widescreen. Photoreal, cinematic, the film's own camera rather than the characters'. It arrives only when the camcorder can no longer be the witness. The format change is the reveal: the moment the film stops pretending this footage was recovered is the moment the audience understands who has been watching all night.
+
+The world itself is one dirt farm road in rural Ohio, corn walls on both sides, and pure black night — never a dawn or dusk sky, because left alone the model reaches for a horizon glow to make the frame legible. The corn is a wall, not a field: it decides where anyone can go. Two light sources exist in the exterior act, the truck's headlights and the living light, and everything else falls to black.
+
+Two kinds of strangeness are kept strictly apart. The film's strangeness is designed — the light that behaves like water, the stillness in a body that used to fidget, the sky that turns out to have been a ceiling. It never breaks the way AI video breaks. The moment a shot's wrongness reads as a generation artefact rather than an event, the shot is re-cut, not re-rolled.
+
+
+
+
+
+
+The Cast
+The cast is fully synthetic — four leads plus one where Tyler has an altered state registered as its own separate identity.
+@Danny1 
+
+
+Each character carries a camera grammar — their fixed relationship to the lens — locked before the first shot and pasted into every prompt they appear in. Everyone acknowledges the camera at least once, because that is the whole grammar of found footage; nobody plays it like a film scene.
+
+All spoken dialogue is specified as English, American accents — in the opening invariant block, in the closing invariant block, and inline at every dialogue attribution, because the model's language default drifts and one mention doesn't hold it.
+
+The Skills
+
+A skill is a playbook of rules that Claude loads and works by. I use two that I've made, based off of trying different prompt templates and styles mixed and baked into one. One that I know that works.
+
+SHOT-PROMPT — writing. A prompt is written in a fixed skeleton, in fixed order: scene context, active references, identity separation, geo spatial layout, first frame, format mode, optics, camera, action timing, physics, lighting, audio, character acting, style, quality, positive constraints. Spatial rules before camera style; optics before aesthetics; lighting as a lock rather than decoration. Every prompt ends outside the code block with an ordered take-check — numbered checks to run against the take, most-likely-failure first, each naming the section to fix if it fails. When a take comes back wrong, the job is to name the block that caused it, never to bolt another negative constraint onto the bottom.
+
+ACTION-EVOLVER — performance and blocking. Its axiom: most bad acting in AI video is not an acting problem. It is arithmetic, geometry, or abstraction. So the diagnostic runs in a fixed order and stops at the first hard failure. Geometry — is the actor actually inside the camera cone, does an eyeline pass through the lens, do screen sides flip on a reverse. Beat density — count discrete events per window; stunt beats get their own seconds with no acting layered on them, and the ending is the emptiest window, not the fullest. Dialogue arithmetic — words ÷ 2.5, and locate the cue word any physical beat is keyed to, because a reaction keyed to the twenty-second word of a five-second read fires against nothing and every beat downstream detaches. Physical translation — psychological direction does not render; if a camera couldn't photograph it, it gets rewritten into something a camera could.
+
+THE REGISTRY — the inheritance. UUIDs, frozen descriptors, the invariant format blocks, forty laws, thirty-eight catalogued symptoms and a thirty-row diagnostic table. Every entry exists because a shot failed without it. So essentially, a cataloguer of successes and fails for troubleshooting your shots so you don't waste too many credits.
+
+I will open source the skills after the competition on my personal Github page. 
+
+Geography
+
+Every scene carries a GEO SPATIAL LAYOUT block: a locked compass, a floor plan in a few lines, written once per scene and pasted identically into every shot of it. It names where the camera sits, which way it faces, and every body tied to a landmark the model can see.
+
+Scale is written the same way, as yardsticks, never adjectives. Seedance 2.5 likes clear and precise wording or even better, metrics, degrees, feet, miles per hour... Words like Enormous renders as nothing; the model has no ruler. For this short though, the road width, the corn walls, the truck and the human figures are the ruler, and the instruction is that the ship's rim is never contained within the frame at any point. Items are anchors if possible. 
+
+Acting on the page
+
+What "behaviour, not psychology" looks like in practice.
+
+For eample, initially, Nothing in the truck cab says Danny is terrified. It says his hand hits the dash, and that interior forces do not affect the vehicle's motions, a physics line, written because the truck rocked when he struck it. It says the search is a ransack, hands finding and discarding, not a performance of searching.
+
+
+
+
+
+
+
+
+
+
+Dialogue is written to the model's real clock, and when a window is overloaded, dialogue is cut first and converted to breath, gesture or sound. I stay away from whispers. For me, they are the highest-failure element there is: jaws float, mouths desync, just tons of silly bloopers.
+
+Sound and Music
+
+Subtle sound effects generated within the scenes. Only one score was used, prompted from within Envato. Used as the primary chase between Tyler and Danny.
+
+Production
+
+Work runs in scene blocks, in the order of the film. Every shot has a number, a duration and a full prompt; invariant blocks and descriptors are constants, pasted verbatim so one edit updates every shot at once. Iterations are surgical — one line changes, the rest stays word for word.
+
+Three production rules are specific to this film:
+
+Count people per frame, not per clip. A clip that ends with someone entering is written ZERO PEOPLE 0:00–0:10, EXACTLY ONE PERSON 0:10–0:14. A blanket "no people" on a clip containing a person is a contradiction, and contradictions produce duplicates and phantoms. Two people in frame need four separators — distance, timing, silhouette, build and gait — never headgear alone.
+
+Chases cut on action, not on frames. An extracted start frame doesn't encode velocity, so every handoff produced a standing start. Chase clips now carry a MOTION STATE block and are cut match-on-action instead.
+
+Design every clip's last frame to be usable. Face detection blocks extracted start frames containing recognisable faces, so clips are written to end mid-pan, on a lowered head, or on an empty frame.
+
+When a shot fights back past its budget, the shot is simplified, never the wording: split in two, an action dropped, an angle changed. Every failing shot ever saved was saved by changing the shot.
+
+Conclusion
+
+Five rules hold the film.
+
+References first. Not one shot until the character, the location plate and the prop are registered, named and pasted verbatim.
+
+Describe everything, every time. The model has no memory. Invariant blocks go in byte-identical and are never shortened.
+
+Geometry before acting. A prompt with broken geometry cannot be fixed with better acting notes. Check the camera cone, then count the beats, then do the dialogue arithmetic — and only then write a single adjective.
+
+Behaviour, not psychology. A character wants something, something interferes, and they act. If a camera couldn't photograph it, it isn't direction.
+
+If it won't come together, simplify the shot, not the wording.
+
+Every rule here exists because a shot failed without it.
+
+And one intention holds the project: the film is about four people who invited something in without understanding what an invitation is — and it is made by inviting a model to generate a world, one prompt at a time, under rules written by everything that went wrong. The medium's limitations are not hidden; they are the method. The camcorder is the last honest witness in the film, and the moment it stops being able to see, the film changes format and we're taken out of the experience and into witnessing the experience.

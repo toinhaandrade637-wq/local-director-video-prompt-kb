@@ -1,0 +1,253 @@
+【项目】AI Video Credits Explained: Why They Run Out So Fast and How to Stop Wasting Them（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/ai-video-credits-explained
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+AI Video Credits Explained: Why They Run Out So Fast and How to Stop Wasting Them
+Higgsfield
+Aug 4, 2026
+8 min
+
+Credits tend to run out faster than a plan's sticker price suggests. It's usually not one expensive generation. It's a few small factors adding up together. This walks through how credit spend actually works, duration, resolution, and model choice all factoring in. And how to think about what a finished clip really costs before picking a plan.
+
+How Credits Get Spent
+
+Credit cost isn't one number, it's a multiplication of three variables that each move the price independently.
+
+Duration is the most direct lever. A longer clip means more frames to generate, and cost scales with that, though not always in a straight line, some models carry fixed overhead per generation regardless of length, others scale closer to linearly.
+
+Resolution tends to be the single biggest multiplier of the three. Moving from 720p to 1080p, or 1080p to 4K, adds real computational cost, and on most models that jump is more expensive than adding a few extra seconds of duration would be.
+
+Model choice changes the base rate entirely, independent of duration and resolution. Two models generating the same clip at the same resolution can land at meaningfully different credit costs, because the underlying architecture and the quality tier the model targets both factor into the price.
+
+The gap is real enough to matter, here's the same 10-second clip across a few models, at two different resolutions:
+
+5 seconds, 720p: 
+
+How Credits Get Spent
+
+Model
+
+	
+
+Approximate cost
+
+
+
+
+Seedance 2.0
+
+	
+
+23 credits ($1.15)
+
+
+
+
+Kling 3.0
+
+	
+
+10 credits ($0.50)
+
+
+
+
+Cinema Studio
+
+	
+
+25 credits ($1.25)
+
+
+
+
+Wan 2.7
+
+	
+
+8 credits ($0.40)
+
+5 seconds, 1080p:
+
+AI Video Credits Explained: Why They Run Out So Fast and How to Stop Wasting Them
+
+Model
+
+	
+
+Approximate cost
+
+
+
+
+Seedance 2.0
+
+	
+
+45 credits ($2.25)
+
+
+
+
+Kling 3.0
+
+	
+
+12,5 credits ($0.63)
+
+
+
+
+Cinema Studio
+
+	
+
+50 credits ($2.50)
+
+
+
+
+Wan 2.7
+
+	
+
+13 credits ($0.65)
+
+10 seconds, 720p: 
+
+AI Video Credits Explained: Why They Run Out So Fast and How to Stop Wasting Them
+
+Model
+
+	
+
+Approximate cost
+
+
+
+
+Seedance 2.0
+
+	
+
+45 credits ($2.25)
+
+
+
+
+Kling 3.0
+
+	
+
+20 credits ($1)
+
+
+
+
+Cinema Studio
+
+	
+
+50 credits ($2.50)
+
+
+
+
+Wan 2.7
+
+	
+
+15 credits ($0.75)
+
+10 seconds, 1080p:
+
+AI Video Credits Explained: Why They Run Out So Fast and How to Stop Wasting Them
+
+Model
+
+	
+
+Approximate cost
+
+
+
+
+Seedance 2.0
+
+	
+
+90 credits ($4.50)
+
+
+
+
+Kling 3.0
+
+	
+
+25 credits ($1.25)
+
+
+
+
+Cinema Studio
+
+	
+
+100 credits ($5.00)
+
+
+
+
+Wan 2.7
+
+	
+
+25 credits ($1.25)
+
+Multiply all three together, and the same "one clip" can range widely in cost depending on which combination of settings you picked. On some models, the jump from 720p to 1080p alone is nearly double the price, which is exactly why a plan's advertised credit allotment translates to a very different number of usable clips depending on what you're actually generating.
+
+Ways to Save Credits When Generating AI Videos
+Start with models that have a cheaper generation cost while you're still learning what works.
+ If you're new to AI video, test your prompts and ideas on lower-cost models first, save the pricier, more capable options like Cinema Studio or Seedance for once you actually know what settings and descriptions get you a usable result.
+Test at 720p before committing to 1080p or 4K.
+ Motion, pacing, and camera behavior all read correctly at the lower resolution, so confirm the shot works there before spending the extra credits a higher resolution costs.
+Lock camera movement and lighting as settings, not prompt text.
+ A vague text description gets reinterpreted differently every attempt, which is exactly what drives up regeneration count. An explicit setting removes that guesswork.
+Use a trained identity for any recurring character.
+ A face described fresh in every prompt drifts between generations, and each fix-it attempt is a paid regeneration. Training it once removes that entire category of failed attempts.
+Move to Cinema Studio or Seedance once the generation actually needs motion and consistency control.
+ These cost more per generation, but for a shot with camera movement, multiple references, or a character that has to hold steady across several clips, they get to a usable result in fewer attempts than a model with a cheaper base rate would, which is often the better deal once you do the real math.
+How to Choose the Right Credit Plan
+
+Different plans make sense depending on what you're actually trying to do with them. Higgsfield's plans break down around exactly this kind of use case.
+
+If you're just getting started and want to explore the tools on images, Basic is enough to test the waters. 120 credits gets you roughly 40-50 photos, plenty to figure out what you actually need before committing to more.
+
+Once you want to start generating video, Plus is the natural next step. Its 1,000 credits cover somewhere around 40-50 video clips on models like Kling 3.0 or Wan 2.7, which is enough runway to build a real workflow rather than just testing one or two ideas.
+
+Ultra is for when you're ready to build out full projects with real production value, motion control, character and lighting consistency, the kind of settings-heavy work Cinema Studio or Seedance 2.0 are actually built for. That level of iteration and control burns through credits faster, and Ultra's 3,000 credits are sized for that.
+
+These tiers all still count every attempt the same way, a bigger plan just means more attempts before you run out. Unlimited runs on a separate system entirely, which is what the next section actually explains.
+
+The Mechanism Behind Unlimited
+
+Higgsfield actually runs two separate layers of unlimited access, not one. Plans above the entry tier come with their own 365-day unlimited set built in, a one-time inclusion that lasts 365 days from activation, doesn't roll over, and doesn't renew with your next billing cycle. On top of that sits All Unlimited, a separate, short, time-boxed window, 1 to 7 days depending on how you access it, that extends zero-credit generation to most flagship models on the platform, 23 in total across image, video, and audio.
+
+During either layer, eligible generations cost zero credits, exclusively on the web app, since MCP, CLI, Supercomputer, Canvas, and plugins still draw from your regular balance regardless of Unlimited status.
+
+“The tradeoff is concurrency, not quantity: 1 generation per format at a time, shared across every model. Regenerating the same shot five times to nail a camera movement still costs nothing, it just happens sequentially rather than in parallel.”
+
+This is exactly why it addresses the iteration problem this guide describes. Testing prompts, refining settings, regenerating until something locks in are the attempts that drain a credit balance fastest, and precisely what stop costing anything once either layer of Unlimited is active.
+
+What This Actually Comes Down To
+
+Credit cost is never one number, it's duration, resolution, and model choice multiplying against each other, and the same clip can cost anywhere from a few credits to several times that depending on which combination you pick. Cheaper models and lower resolutions during testing, explicit camera and lighting settings instead of vague prompts, and a trained identity for any recurring character all cut down on the regeneration that actually drains a balance fastest. Once you know what you're generating and how often, Basic, Plus, or Ultra map fairly cleanly to image testing, regular video work, or full settings-heavy production.
+
+Where the math changes entirely is Unlimited. Both layers, the 365-day set built into higher plans and the shorter All Unlimited window, remove credit cost from eligible models rather than discounting it, trading a credit ceiling for a concurrency limit instead. For a workflow built around iteration, testing prompts, dialing in camera movement, regenerating until a shot actually lands, that's a fundamentally different deal than any credit tier can offer, no matter how large.
+
+AI VIDEO CREDITS EXPLAINED: WHY THEY RUN OUT SO FAST AND HOW TO STOP WASTING THEM
+View Plans

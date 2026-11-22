@@ -1,0 +1,449 @@
+【项目】ONE UNITY ALLEYWAY, THREE WORLDS — GENJUTSU ON GAME-ENGINE FOOTAGE（@sam_candler · 创作者博客）
+【链接】https://higgsfield.ai/@sam_candler/blogs/one-unity-alleyway-three-worlds-genjutsu-on-game-engine-footage
+【提示词块】3
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+ONE UNITY ALLEYWAY, THREE WORLDS — GENJUTSU ON GAME-ENGINE FOOTAGE
+S
+@sam_candler
+24
+0
+0
+
+I built a Japanese sushi alleyway in Unity and walked a first-person camera through it for thirty seconds. Narrow corridor, paper lanterns, roller shutters, a few bar counters, no people. Then I ran it through Genjutsu three times to see how far the location could be pushed while keeping the walk.
+
+In this tutorial we are testing Higgsfield's new model where we are using a game engine's basic 3D  first person walkthrough and transforming it into 3 different worlds
+
+STEP 1: Upload recording of first person walkthrough built from any game engine (i used Unity)
+
+Most Genjutsu prompt sets you see are built around a character: a hero still, an opponent still, a two-shot. That format assumes there is a body in frame to map the motion onto. Mine had no body. The camera was the character. Everything below came out of solving that.
+
+STEP 2: reference images
+
+Prompts alone give you a different trader at every counter. Genjutsu takes up to forty reference images and that is the lever. I generate stills first: four environment plates per world — corridor wide, stall interior, overhead canopy, material close-up — and character sheets.
+
+STEP 3: PROMPTS
+Attaching the references images, follow the format of these prompts for each version.
+Version 1 — The Ember Souk
+
+THE EMBER SOUK — carved cliff-city
+
+
+
+
+
+1. shot on ARRI Alexa Mini LF, 32mm anamorphic, photorealistic
+
+first-person POV, preserve source camera motion exactly, handheld
+
+walking cadence, hard low sun shafts raking down a narrow canyon slot,
+
+warm ember key from forge openings, high dynamic range, ochre-and-brass
+
+grade with deep crushed shadows, volumetric ash and forge smoke,
+
+subsurface skin scattering, visible pores and sweat, wet stone
+
+specular, shallow depth of field, natural motion blur, subtle film
+
+grain, IMAX-scale production design, 8K detail
+
+
+
+2. Camera and eyeline — first person, no character in frame
+
+Continuous forward walk down a corridor street barely two arm-spans
+
+wide. No hands, no arms, no weapon, no body visible. Camera turns
+
+into stall openings on both sides and holds, then tilts up toward a
+
+slot of sky. Preserve the original walking rhythm and every head
+
+turn exactly.
+
+
+
+3. Near-wall layer
+
+Sheer carved sandstone facades of a monolithic cliff-city, five
+
+storeys of hand-cut window recesses receding upward. Ground level:
+
+hammered brass roller shutters half-drawn, dyed-wool banners in deep
+
+crimson and saffron hanging in the doorways, copper lantern-globes on
+
+iron hooks throwing ember light, relief panels cut with a fictional
+
+angular glyph script, soot streaks and tally marks, hand-ground
+
+ochre pigment.
+
+
+
+4. Overhead layer
+
+Stone footbridges and rope walkways span the canyon slot high above,
+
+strung with drying indigo cloth and copper chimes. Forge ash and dust
+
+drift down through hard white sun shafts. A thin ribbon of
+
+blown-out sky at the very top. Scrub and roots growing from the
+
+stone joints, backlit gold.
+
+
+
+5. Inhabitants — seated at counters and distant only
+
+ANCHOR: a tally-keeper seated at a stone counter. Her left shoulder
+
+and upper arm are sheathed in overlapping brass scales, and every
+
+scale is stamped with a different debt glyph — she wears her ledger
+
+on her body. Right arm bare and soot-black to the elbow. Ochre linen
+
+wrap, heat-cracked leather apron, a belt of iron counting-rings.
+
+Woven conical ash-hood with a wide brim that sheds falling ash,
+
+smoked-quartz lenses on a brass brow-band pushed up onto it.
+
+Weathered face lit from below by a bed of coals. Still, unhurried,
+
+may glance briefly toward the lens as it passes — no held stare.
+
+SECONDARY: forge workers at the other counters wearing brass
+
+half-masks with a coiled ceramic filter cartridge across the mouth,
+
+throats wrapped in layered ash-cloth, forearms bound in scorched
+
+wrapping, hands scarred.
+
+DISTANT: robed figures under conical hoods moving at the far end of
+
+the corridor, backlit in the sun shafts, small in frame,
+
+never in close-up.
+
+
+
+6. Negative prompt
+
+concept art, artstation, digital painting, matte painting, key art,
+
+character sheet, illustration, anime, cel shading, videogame look,
+
+unity render, unreal engine, plastic skin, mannequin faces,
+
+third-person view, visible hands, visible arms, first-person weapon,
+
+body in frame, character standing in the corridor blocking the path,
+
+figure walking toward camera, held stare into lens, reaction acting,
+
+floating figure, morphing crowd, smeared limbs, extra fingers,
+
+garbled latin text, gibberish signage, japanese text, watermark,
+
+logo, subtitles, end card, neon signs, modern city, cool blue
+
+daylight, flat evenly lit scene, blurry, low res, warped
+
+architecture, melting geometry
+
+See all
+Copy prompt
+Recreate
+Version 2 — The Drowned Court
+
+THE DROWNED COURT — sunken coral civilization
+
+
+
+
+1. shot on ARRI Alexa Mini LF, 32mm anamorphic, photorealistic
+
+first-person POV, preserve source camera motion exactly, cold cyan key
+
+from above with warm bioluminescent practicals, caustic light crawling
+
+across every surface, high dynamic range, teal-and-pearl grade with
+
+deep retained shadow detail, suspended particulate in the beams,
+
+subsurface skin scattering, wet nacre specular, shallow depth of
+
+field, natural motion blur, subtle film grain, 8K detail
+
+
+
+
+2. Camera and eyeline — first person, no character in frame
+
+Continuous wade forward through ankle-deep water down a narrow flooded
+
+arcade. No hands, no arms, no body visible. Water surface below the
+
+lens reflecting every light source. Camera turns into side alcoves and
+
+holds, then tilts up to the vaulting. Preserve the original walking
+
+rhythm and head turns exactly.
+
+
+
+
+3. Near-wall layer
+
+Ancient masonry overgrown with living coral — brain coral and fan
+
+coral in pale jade and bone-white, mother-of-pearl inlay catching
+
+light. Barnacle-crusted bronze shutters, kelp-strand curtains drifting
+
+in a slow current across the doorways, jellyfish held in blown-glass
+
+lantern spheres pulsing soft cyan, anemone colonies glowing in the
+
+shape of shop marks, a fictional flowing glyph script scratched into
+
+shell plaster.
+
+
+
+
+4. Overhead layer
+
+Vaulted arches built from colossal whale ribs, coral-fused, draped in
+
+trailing sea grass. Far above, the underside of a distant water
+
+surface fracturing sunlight into shifting caustic webs. Translucent
+
+siphonophores hanging down into frame, faintly luminous. Slow bubbles
+
+rising.
+
+
+
+
+5. Inhabitants — seated at counters and distant only
+
+ANCHOR: a lung-keeper seated at a coral counter. Head sealed in a
+
+blown-glass and bronze helmet dome, and inside the dome, behind the
+
+skull, a living jellyfish that provides all their light — the figure
+
+is lit from behind their own head, a soft cyan pulse through the hair.
+
+Face visible through the front glass, pale, a milky nictitating
+
+membrane sliding across the eyes. Cloak of grafted living kelp that
+
+drifts and shifts even in still air. Waxed cord binding the forearms.
+
+Slow, deliberate, may glance briefly toward the lens — no held stare.
+
+SECONDARY: tide-readers at the other counters, elders with pale coral
+
+grown into the collarbone and shoulder over decades, hardened into a
+
+plated mantle. Oiled sealskin wraps, blistered hands, salt crust in
+
+the seams.
+
+DISTANT: rounded silhouettes with faintly glowing glass domes wading
+
+at the far end of the arcade, small in frame, never in close-up.
+
+
+
+
+6. Negative prompt
+
+concept art, artstation, digital painting, matte painting, key art,
+
+character sheet, illustration, anime, cel shading, videogame look,
+
+unity render, unreal engine, plastic skin, mannequin faces, mermaid,
+
+fish tails, scuba gear, modern diving suit, third-person view,
+
+visible hands, visible arms, body in frame, character standing in
+
+the corridor blocking the path, figure walking toward camera, held
+
+stare into lens, reaction acting, floating figure, morphing crowd,
+
+smeared limbs, extra fingers, garbled latin text, gibberish signage,
+
+japanese text, watermark, logo, subtitles, end card, neon signs,
+
+modern city, muddy green murk, pitch black frame, flat evenly lit
+
+scene, blurry, low res, warped architecture, melting geometry
+
+See all
+Copy prompt
+Recreate
+Version 3 — The Spore Bazaar
+
+THE SPORE BAZAAR — mycelial undercity
+
+
+
+
+1. shot on ARRI Alexa Mini LF, 32mm anamorphic, photorealistic
+
+first-person POV, preserve source camera motion exactly, no daylight,
+
+bioluminescent key from glowing gills and spore vessels, magenta and
+
+violet dominant with jade accents, warm amber practicals at counter
+
+level, high dynamic range, deep crushed blacks with retained shadow
+
+detail, heavy spore particulate catching every light source,
+
+subsurface skin scattering, damp organic specular, shallow depth of
+
+field, natural motion blur, subtle film grain, 8K detail
+
+
+
+
+2. Camera and eyeline — first person, no character in frame
+
+Continuous forward walk down a corridor between colossal living fungal
+
+stalks. No hands, no arms, no body visible. Damp packed-earth path
+
+underfoot with reflective wet patches. Camera turns into alcoves and
+
+holds, then tilts up into the canopy. Preserve the original walking
+
+rhythm and head turns exactly.
+
+
+
+
+3. Near-wall layer
+
+Trunks of vast mushrooms three metres thick, pale grey-violet flesh
+
+with deep vertical fissures, doorways and windows carved directly
+
+into the living tissue and edged with hardened resin. Mycelial threads
+
+webbing the gaps between stalks, faintly pulsing. Hanging shelf-fungi
+
+used as awnings, undersides glowing magenta. Blown-glass vessels of
+
+luminous spores swinging on cords in place of lanterns. Shop marks
+
+burned into the flesh in a fictional looping glyph script.
+
+
+
+
+4. Overhead layer
+
+A closed canopy of enormous interlocking mushroom caps far above,
+
+undersides a dense radial architecture of luminous gills in magenta
+
+and pale jade, casting patterned light down the corridor. Hanging root
+
+chandeliers and dripping resin strands. Constant drifting spore motes,
+
+thick in the light shafts, some catching and flaring. No sky visible
+
+at any point.
+
+
+
+
+5. Inhabitants — seated at counters and distant only
+
+ANCHOR: a spore-cultivator seated at a counter of dried fungal matter
+
+polished to a horn sheen. Their left forearm is sealed inside a fitted
+
+glass sleeve containing a deliberately cultivated luminous fungal
+
+colony — living inventory and lamp in one, throwing magenta light up
+
+onto the underside of their face. Across the shoulders a carved
+
+wooden yoke hung with stoppered vessels of glowing cultures, so the
+
+figure sits inside a personal halo. Layered charcoal and plum robes,
+
+apron of pressed specimen sheets stitched together. Tall, pale, still,
+
+may glance briefly toward the lens — no held stare.
+
+SECONDARY: veil-breathers at the other counters, whole face covered
+
+by a fine mesh veil weighted at the hem with brass beads to keep
+
+spores from the lungs, eyes visible through the mesh, gloves with
+
+the fingertips cut away, fingertips stained luminous jade.
+
+DISTANT: hooded silhouettes with faint halos of hanging vessels
+
+moving at the far end of the corridor, small in frame,
+
+never in close-up.
+
+
+
+
+6. Negative prompt
+
+concept art, artstation, digital painting, matte painting, key art,
+
+character sheet, illustration, anime, cel shading, videogame look,
+
+unity render, unreal engine, plastic skin, mannequin faces, cartoon
+
+mushrooms, toadstool whimsy, fairytale, gnome, third-person view,
+
+visible hands, visible arms, body in frame, character standing in the
+
+corridor blocking the path, figure walking toward camera, held stare
+
+into lens, reaction acting, floating figure, morphing crowd, smeared
+
+limbs, extra fingers, garbled latin text, gibberish signage, japanese
+
+text, watermark, logo, subtitles, end card, neon signs, modern city,
+
+daylight, blue sky, flat evenly lit scene, oversaturated purple,
+
+blurry, low res, warped architecture, melting geometry
+
+See all
+Copy prompt
+Recreate
+STEP 4 - STITCH
+
+Stitch the three clips together in an editing software like adobe premier or final cut to match the sequence and done!
+
+
+
+
+
+
+
+BY SAM CANDLER
+Follow me

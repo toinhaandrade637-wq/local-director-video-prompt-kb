@@ -1,0 +1,548 @@
+【项目】APOSTLE, APOSTLE, I HAVE NOTHING TO WEAR!（@picassong · 创作者博客）
+【链接】https://higgsfield.ai/@picassong/blogs/apostle-apostle-i-have-nothing-to-wear
+【提示词块】3
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+APOSTLE, APOSTLE, I HAVE NOTHING TO WEAR!
+P
+@picassong
+36
+1
+0
+I have nothing to wear! 
+
+Turn your own photo into a figurine, dress it for a cozy morning, and bring one very stubborn sneeze to life.
+
+
+
+
+Hi, I'm Picassong! 
+
+I'm here to share how to create videos that showcase a variety of episodes in under 30 seconds!! 
+
+
+
+
+I designed this workflow so you can start with your own photo and make your own version. The example below follows a model reference through a figurine sheet, a homewear change, and the finished video. The image prompts are reusable recreations for this tutorial; the final video prompt is the approved template from this episode.
+
+Make your version in three steps
+Upload your own photo and create a figurine reference sheet.
+Change the figurine into the Cloth, then prepare your pet and bedroom references.
+Copy the final video prompt, connect the references, Once all the materials are ready, let's get started.
+01 / Image prompt 1 - Change Character
+
+Start with a clear photo of yourself. A full-body image makes it easier to carry your outfit into the figurine, while a clearly visible face helps retain your recognizable features.
+
+[Insert image: Model Image.jpg]
+Starting reference — the model image.
+
+
+
+
+[Insert image: @image3]
+Figurine result — front full-body view, front face close-up and side profile.
+
+Upload only your own photo for this step. The prompt describes the figurine style and three-panel layout, so a separate doll-style image is not required.
+
+
+
+
+Create a three-panel character reference sheet transforming the person in the single attached photo into a handcrafted collectible art doll.
+
+Use the attached photo as the only reference for identity, hairstyle, clothing, colors, and accessories. The doll style and sheet layout are defined below; no additional reference image is required.
+
+
+
+
+SUBJECT IDENTITY
+
+Translate the photographed person into a recognizable doll version of themselves.
+
+Preserve their characteristic face shape, eye spacing, eye color, eyebrow shape, nose, lips, skin tone, and distinctive features while gently simplifying them into sculpted doll forms.
+
+Keep the original hair color, hairstyle, length, and parting.
+
+Preserve the subject’s gender presentation and recognizable character.
+
+Do not replace their face with an unrelated generic doll.
+
+
+
+
+HANDCRAFTED ART-DOLL STYLE
+
+Create a physical miniature art doll photographed in a studio.
+
+Use a gently oversized head, approximately one quarter of the doll’s total standing height, a petite slender body, delicate limbs, and small sculpted hands.
+
+Give the face softly rounded cheeks, a small dimensional nose, a delicate chin, and small softly shaped lips.
+
+Use clear inset glass eyes with natural iris detail, subtle depth, and small realistic catchlights.
+
+The eyes are gently enlarged but never huge or anime-like.
+
+Use softly defined eyelids, fine eyebrows, delicate eyelashes, and restrained hand-painted facial shading.
+
+Keep the expression calm and natural.
+
+
+
+
+MATERIALS
+
+The face and exposed body are finely finished matte resin with a subtle porcelain-like softness.
+
+Skin surfaces are smooth and evenly colored, with gentle continuous shading and a faint blush.
+
+No human skin pores, oily sheen, waxy skin, or glossy plastic.
+
+Use realistic premium doll-wig hair with fine individual strands, soft volume, and natural directional highlights.
+
+No molded hair or chunky hair clumps.
+
+Use seamless-looking limbs without visible ball joints, mechanical hinges, or deep joint gaps.
+
+
+
+
+CLOTHING
+
+Recreate the photographed outfit as real miniature clothing.
+
+Preserve the original silhouette, layers, colors, patterns, fabric types, accessories, and footwear wherever visible.
+
+Show believable miniature stitching, seams, fabric thickness, folds, and drape.
+
+Fit the clothes naturally to the doll proportions.
+
+If the photograph does not show the complete outfit, extend it conservatively with simple matching garments and shoes. Do not invent elaborate patterns or accessories.
+
+Do not add a different costume.
+
+
+
+
+SHEET FORMAT
+
+One landscape 16:9 image containing exactly three vertical panels in a single horizontal row.
+
+Use approximately equal panel widths and a continuous pure white (#FFFFFF) studio background.
+
+Separate the views through clean composition and subtle white gutters only.
+
+No borders, captions, labels, titles, color swatches, or decorative graphics.
+
+
+
+
+LEFT PANEL — FRONT FULL-BODY OUTFIT VIEW
+
+Show the complete doll from the top of the hair to the soles of the shoes.
+
+Face and torso point directly toward the camera.
+
+Use a relaxed upright standing pose with arms resting naturally and hands visible.
+
+Keep the outfit clearly readable and avoid covering important clothing details.
+
+Leave comfortable white space above the head and below the feet.
+
+Use an eye-level camera with minimal perspective distortion.
+
+Add a soft, restrained contact shadow beneath the shoes.
+
+
+
+
+CENTER PANEL — FRONT FACE CLOSE-UP
+
+Show an enlarged straight-on portrait of the exact same doll.
+
+Frame the full face from the top of the hair to just below the chin, with a little neck visible.
+
+Keep both eyes clearly visible, the face centered, and the gaze directed forward.
+
+Show the sculpted eyelids, glass eyes, small nose, lips, delicate painted blush, and fine hair strands in sharp detail.
+
+Do not crop the chin or distort the face with a wide-angle lens.
+
+
+
+
+RIGHT PANEL — SIDE FACE CLOSE-UP
+
+Show a true 90-degree side profile of the exact same doll, facing toward the left side of the sheet.
+
+Frame the head at the same scale as the center portrait.
+
+Clearly show the forehead, nose bridge, nose tip, lips, chin, and jaw silhouette.
+
+Use a true side view, not a three-quarter portrait.
+
+Keep the hairstyle consistent and arrange only a few strands as needed to reveal the facial silhouette.
+
+Infer unseen profile details naturally from the visible face without changing the identity.
+
+
+
+
+CROSS-PANEL CONSISTENCY
+
+All three panels show one identical physical doll photographed from different views.
+
+Lock the same facial sculpt, eye size and color, skin tone, makeup, hairline, hairstyle, clothing, and accessories across every panel.
+
+The close-ups must match the face of the full-body doll exactly.
+
+Maintain the same neutral expression, material finish, lighting direction, and color balance.
+
+Do not mix a doll body with a realistic human face.
+
+Every visible face and body part must remain unmistakably a handcrafted doll.
+
+
+
+
+LIGHTING AND CLEAN QUALITY
+
+Use soft diffused studio lighting, delicate shadows, neutral white balance, and crisp focus on the relevant subject in each panel.
+
+Keep the white background pure, smooth, and uniform.
+
+Remove blotchy color bleed, cloudy shading, patchy gradients, color banding, digital noise, coarse grain, and compression artifacts.
+
+Maintain smooth tonal transitions while preserving intentional fabric weave and individual hair strands.
+
+No muddy texture, artificial surface buildup, excessive blur, or oversharpening.
+
+
+
+
+AVOID
+
+Real human portraits, cartoon illustration, extreme chibi proportions,
+
+oversized anime eyes, heavy false lashes, inflated lips,
+
+glossy toy plastic, visible mechanical joints,
+
+inconsistent faces between panels, different outfits between panels,
+
+cropped feet in the full-body panel, three-quarter profile,
+
+extra panels, duplicated limbs, malformed hands,
+
+added props, display stands, packaging, text, and watermarks.
+
+
+
+
+OUTPUT
+
+One polished 16:9 three-panel art-doll character sheet:
+
+left = front full-body outfit view;
+
+center = front face close-up;
+
+right = true side face close-up.
+
+See all
+Copy prompt
+Recreate
+@image3
+02 / Image prompt 2 - Room Pajama
+
+Next comes the powder-blue towel turban, striped pajamas, soft blanket and mint eye patches. Keep the same face and proportions so the character remains recognizable from the first sheet to the final scene.
+
+
+
+
+[Insert image: @image3.]
+Homewear result — the same figurine in its morning skincare outfit.
+
+Upload the figurine sheet you created in Step 1. This template changes the outfit and tucks the hair into a towel; glasses are removed for the skincare look.
+
+Using the single attached character image as the identity reference, create a three-panel character sheet of the exact same character wearing a sleepy morning skincare outfit.
+
+IDENTITY AND BODY LOCK
+
+Preserve the character’s recognizable face shape, eye shape and spacing, iris color, eyebrows, nose, lips, skin tone, head-to-body ratio, body shape, and limb proportions.
+
+Keep the original character’s visual medium and material identity.
+
+Do not replace the face with a generic doll or copy another character.
+
+Do not add articulated joints. If the character has a seamless body, keep it seamless.
+
+Apply the styling described below without redesigning the character.
+
+STYLE DIRECTION
+
+A cozy, slightly disheveled morning-at-home look with realistic miniature textiles and skincare accessories.
+
+Use a soft powder-blue and white palette, accented with red piping, mint eye patches, and teal sock details.
+
+The character should look freshly out of bed and in the middle of a quiet skincare routine.
+
+HEAD TOWEL AND HAIR
+
+Wrap a large plush powder-blue bath towel around the head as a twisted towel turban.
+
+Make the towel visibly wrapped and folded, with a thick twisted section tucked securely at the top.
+
+Use realistic fine terry-cloth fibers, soft compression, and believable fabric weight.
+
+Keep the character’s original hair color.
+
+Tuck most of the hair inside the towel, leaving a few tousled curling strands visible along the forehead and beside the cheeks.
+
+Do not change the hair color to pink unless it is already pink in the source.
+
+UNDER-EYE PATCHES
+
+Place one pale mint-green crescent-shaped hydrogel patch beneath each eye.
+
+Position the patches on the upper cheeks, following the lower-eye contours without covering the eyes.
+
+Give them smooth translucent gel surfaces, subtle thickness, and gentle moist reflections.
+
+Keep them distinct from blush and face paint.
+
+PAJAMA SET
+
+Dress the character in a matching powder-blue and white vertically striped pajama set:
+
+a loose short-sleeved button-front shirt and relaxed shorts ending at the upper-to-mid thigh.
+
+The shirt has a notched pajama collar, small white buttons, and one chest pocket.
+
+Add thin red piping along the collar, front opening, sleeve cuffs, chest-pocket edge, and shorts hems.
+
+Use soft woven cotton with realistic stitching, small folds, and a comfortable slightly oversized fit.
+
+Keep the vertical stripes clean and consistent across the garment construction.
+
+SHOULDER BLANKET
+
+Drape a thick soft blue blanket over both shoulders like a loose cape.
+
+Use broad powder-blue, medium-blue, navy, and cream geometric color blocks with a few dark linear accents.
+
+Keep the front open so the pajama buttons, pocket, and shorts remain visible.
+
+Let one side hang lower than the other with natural folds and believable weight.
+
+The blanket must be plain patterned fabric with no lettering, logos, or symbols.
+
+PILLOW
+
+In the full-body view, place a large soft rectangular pale-blue pillow in the character’s right hand, on the viewer’s left.
+
+The arm hangs down naturally, holding the pillow by its upper corner beside the thigh.
+
+Show slight fabric tension at the grip, soft creases, stitched edges, and a gently compressed stuffed form.
+
+Keep the hand anatomically correct and the pillow clear of the face and main outfit details.
+
+SOCKS
+
+Use slouchy rib-knit socks reaching the lower calves.
+
+The main sock color is muted blue-gray, with teal cuffs, heels, and toe caps.
+
+Show fine vertical knit ribs and slight bunching around the ankles.
+
+No shoes.
+
+EXPRESSION AND POSE
+
+Use a relaxed standing pose with low shoulders and a subtle head tilt.
+
+Keep the character’s original eye design; suggest sleepiness with gently lowered eyelids without changing the eye shape.
+
+Keep the mouth relaxed and close to the original lip shape.
+
+Avoid exaggerated yawning, crying, or added facial marks.
+
+THREE-PANEL CHARACTER SHEET
+
+Create one landscape 16:9 image with three vertical panels arranged horizontally.
+
+Use a continuous pure white (#FFFFFF) background and clean white spacing.
+
+No text, panel labels, borders, logos, or watermarks.
+
+LEFT — FRONT FULL-BODY VIEW
+
+Show the entire character from the top of the towel turban to the bottoms of the socks.
+
+Include the complete pajama outfit, shoulder blanket, pillow, and both feet.
+
+Use a mostly straight-on view with a relaxed upright stance.
+
+Leave enough margin to avoid cropping the towel, pillow, or feet.
+
+CENTER — FRONT FACE CLOSE-UP
+
+Show the exact same character directly from the front.
+
+Include the entire towel turban, visible hair strands, both eye patches, full face, and a small amount of the pajama collar.
+
+Keep the facial features sharply readable.
+
+Do not crop the towel or chin.
+
+RIGHT — TRUE SIDE FACE CLOSE-UP
+
+Show the exact same character in a true 90-degree profile facing left.
+
+Use the same head scale as the center portrait.
+
+Show the towel wrapping, loose hair strands, visible under-eye patch, nose, lips, chin, and a small amount of the collar.
+
+Preserve the character’s facial structure rather than inventing a different profile.
+
+CONSISTENCY
+
+All three panels depict the same character in the same outfit at the same moment.
+
+Match the facial sculpt, body materials, skin color, hairstyle, towel wrapping, patch placement, clothing details, and lighting across all views.
+
+The enlarged faces must match the full-body character exactly.
+
+MATERIALS AND CLEAN QUALITY
+
+Use realistic terry cloth, cotton pajamas, rib-knit socks, a soft woven blanket, and a stuffed cotton pillow.
+
+Keep the character’s original skin or body material unchanged.
+
+Use soft diffused studio lighting and restrained contact shadows.
+
+Keep whites pure white and all specified colors clean and stable.
+
+Remove blotchy color bleed, cloudy shading, patchy gradients, color banding, digital noise, coarse grain, and compression artifacts.
+
+Maintain smooth, even tonal transitions while preserving intentional textile fibers and individual hair strands.
+
+NEGATIVE CONSTRAINTS
+
+No identity changes, altered body proportions, added mechanical joints,
+
+generic replacement face, new makeup, extra accessories,
+
+shoes, slippers, bathrobe, missing pillow, missing eye patches,
+
+illegible lettering, brand marks, extra panels,
+
+inconsistent outfits, duplicate limbs, malformed hands, or cropped feet.
+
+OUTPUT
+
+One polished 16:9 three-panel character sheet:
+
+front full-body outfit view, front face close-up, and true side face close-up.
+
+See all
+Copy prompt
+Recreate
+@image2
+03 / Assets Image
+
+Take a photo of your room and add your character, then use the various clothing assets provided to create a video.
+
+
+
+
+[Insert image: @image1] - A photo of your room is best, especially if the clothes are hanging up!!
+
+
+
+
+[Insert images: @image4, @image5, @image6, @image7, @image8, @image9] - Prepare 6 images of outfits to try on
+
+
+
+
+@image1
+@image4
+@image5
+@image6
+@image7
+@image8
+@image9
+04 / The Made Video
+
+A video showing a situation where, after waking up in the morning and getting ready to go out, no matter how hard you look, you can't find a single outfit worth wearing among all your clothes.
+
+
+
+
+Help Me Pick Out Some Clothes. — Completed Episode.
+
+When creating the video, please upload the following: a background image of the room - @Image1,
+
+the character with a perm in bed - @Image2,
+
+the character getting ready to go out - @Image3,
+
+and six different outfit assets - @Image4, @Image5, @Image6, @Image7, @Image8, @Image9.
+
+
+
+
+The prompt asks for a creative voice that suits the character. 
+
+video prompt
+
+Create a 30-second horizontal 16:9 cinematic comedy video in Seedance 2.5 style.
+
+Use @0eb84fb5-0742-4943-a738-18f259291203 as the full bedroom setting for the entire video. The room should feel soft, cozy, cream-toned, and airy, with gentle lavender accents and a clean, warm atmosphere. The story begins in this room with the protagonist emerging from under the blanket on the bed.
+
+Use @Image 2 as the protagonist’s pre-glam appearance. This is the version of the character shown before washing up and before getting fully styled. She should appear sleepy, natural, and not fully ready yet. Show her waking up in bed, getting out from under the blanket, then moving into a quick wash-up and getting-ready montage. Include a fast sequence of her heading to wash up, doing a quick freshen-up, and getting herself ready in a playful and visually engaging way.
+
+After the getting-ready sequence is complete, switch to @Image 3 as the protagonist’s fully styled appearance. From that point onward, keep her identity, face, proportions, hair, makeup, and overall polished look consistent with Image 3. This is the version of the character used for all outfit try-on scenes.
+
+Then have her try on the outfits in exact sequence using the outfit references one by one. The outfit order must be:
+
+Image 4 @Image 5 first,
+
+Image 5 @Image 6 second,
+
+Image 6 @Image 7 third,
+
+Image 7 @Image 8 fourth,
+
+Image 8 @Image 9 fifth,
+
+Image 9 @Image 10 sixth and last.
+
+Each outfit should be tried on quickly in a fun, fast-paced montage. After each change, she checks herself, reacts as if something feels off, and immediately changes again. Her reactions should stay cute, relatable, and slightly dramatic rather than angry. She should look picky, unconvinced, and increasingly tired of the process. Use quick cuts, dynamic transitions, and short visual beats so the pacing never drags.
+
+As she continues trying on outfits, the rejected clothes should gradually build up across the floor. The room should become messier step by step, with a clear growing pile of discarded clothes. The emotional progression should be: sleepy, motivated, hopeful, picky, frustrated, overwhelmed, and finally exhausted.
+
+Important story rule: do not introduce a separate final outfit change beyond the last try-on. Instead, after she tries all the outfits, she ends the story still wearing the last outfit from Image 9. She does not change again after that.
+
+For the ending, keep her in the final outfit from Image 9 and show her completely giving up. The floor should now have a mountain-like pile of clothes. She dramatically throws herself or flops backward onto the huge clothing pile on the floor, landing in a tired and defeated but still cute way. The ending should clearly communicate the feeling of “I tried so many clothes and still hate everything.”
+
+Use a voice that matches the character naturally: a youthful feminine voice, soft and slightly airy, with a cute and expressive tone. It can feel a little sleepy at the start, then more animated and reactive during the outfit montage, and finally exhausted at the end. Keep spoken dialogue minimal. Most of the middle section should rely on small reactions, sighs, tiny groans, and playful sound effects. Only the ending should feel like a clear emotional payoff, with the character collapsing onto the clothes pile in total defeat.
+
+Camera style should be energetic and varied: begin with a cozy bed shot, then use quick montage cuts for washing and getting ready, followed by fast try-on beats and room coverage that shows the floor gradually filling with clothes. End with a wider shot or slightly elevated angle that clearly shows the protagonist lying on the mountain of clothes in the final outfit.
+
+See all
+Copy prompt
+Recreate
+All of my Instagram posts are videos that I’ve edited by looping the footage multiple times. 
+
+Share your version on Instagram with @picassong.art and #picassong_art 
+
+I’d love to see who ends up wearing the eye patches! 
+
+You can also find me on Higgsfield as @picassong. 
+
+Please use photos you own or have permission to use; sharing this workflow does not grant rights to third-party reference images or character designs.
+
+
+@PICASSONG

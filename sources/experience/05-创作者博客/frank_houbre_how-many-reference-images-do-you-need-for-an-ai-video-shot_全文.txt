@@ -1,0 +1,182 @@
+【项目】HOW MANY REFERENCE IMAGES DO YOU NEED FOR AN AI VIDEO SHOT?（@frank_houbre · 创作者博客）
+【链接】https://higgsfield.ai/@frank_houbre/blogs/how-many-reference-images-do-you-need-for-an-ai-video-shot
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW MANY REFERENCE IMAGES DO YOU NEED FOR AN AI VIDEO SHOT?
+F
+@frank_houbre
+33
+0
+0
+
+You upload five reference images of your character, hit generate, and the face that comes back looks like a cousin of the one you designed. Most of the time that happens because the references disagree with each other.
+
+
+
+
+For a normal shot, two to three reference images per character is enough. One clean full figure that fixes identity and costume, one that fixes the location or the light, and at most one more for a prop or a specific angle. Beyond that, the model has to reconcile inputs that contradict each other, and it does what any averaging system does. It splits the difference.
+
+
+
+
+I direct Lost Garden, a dark fantasy anime series I produce solo with AI tools, and I have spent a lot of credits learning which reference actually does the work in a shot. Here is the short version.
+
+What does a reference image actually control?
+
+A reference image is a visual input that tells a generative video model what a subject, a location or an object looks like. It says nothing about how that subject moves.
+
+
+
+
+That distinction explains most of the confusion around consistency. Your references can hold the face perfectly across twelve shots while the walk, the gaze and the emotional pitch keep sliding. Identity and performance are handled by different parts of the request: the reference carries the look, the prompt carries the motion.
+
+
+
+
+A reference answers "what does this look like", and only that.
+
+
+
+
+On Lost Garden I build a character turnaround sheet in MidJourney, then animate shot by shot in Seedance from that sheet. The faces hold. What kept sending me back to zero was movement, and some five second shots went through around twenty rejected versions before one was usable.
+
+So how many reference images should you use?
+
+Two to three per character for a standard shot, one per element that must not change.
+
+
+
+
+Runway sets a hard ceiling on this. Its Gen-4 Image References guide states that you can use up to three active References for a single generation, and that the model handles consistent characters across lighting, locations and treatments from just a single reference image. Other platforms allow more, up to nine on some 2026 models, and that ceiling is not a recommendation.
+
+
+
+
+A simple way to decide:
+
+
+
+
+One reference covers identity alone. Fastest, widest variation, good for exploring a scene.
+Two references cover identity plus location, or identity plus a costume state.
+Three references let you add a prop, or one specific angle you keep failing to get.
+Four or more only makes sense when the shot really contains separate subjects, like two characters in one place.
+
+Count the things that must stay identical rather than the images you happen to have. A folder of twenty pictures of your character is a folder. It becomes a reference set once you pick the two or three that carry the decisions.
+
+A very wide shot from Lost Garden episode 1. At this scale a character reference does almost no work and the location carries the frame, which is worth checking before you attach a full turnaround sheet to a shot that will never show a face.
+
+Which references earn their slot?
+
+The useful ones are boring on purpose. Even light, neutral expression, plain background, one subject.
+
+
+
+
+Worth uploading:
+
+
+
+
+A full figure of the character, costume readable head to foot.
+The same character in the same costume from a second angle.
+A location plate with nobody in it.
+A prop shot, close, on a plain surface.
+
+Worth leaving out:
+
+
+
+
+Busy frames with several people or a lot of background detail.
+Heavily stylised lighting you do not want repeated in every shot.
+Screenshots with interface elements, borders or captions still in them.
+Any image that already contains a face you are replacing. Runway's own guide suggests covering that face with a black box in a photo editor first, so the model does not confuse the old subject with the new one.
+
+Each reference should be about one thing. A cluttered image gives the model several instructions at once and it will blend them.
+
+Same episode, closer in. This is the kind of frame that works as a character reference, because the whole figure reads at once and the model has nothing to invent about the armour or the way the scarf sits.
+
+Why your first frame matters more than your reference count
+
+On image to video models, the reference you feed as the input image becomes the literal first frame of the clip. Runway's Gen-4 documentation says exactly that: the input image establishes the visual starting point and acts as the first frame of the output.
+
+
+
+
+So if the first frame gets a detail wrong, the model does not correct itself later. It commits to that error and holds it for the whole shot. A sword that came out curved instead of straight stays curved for five seconds, and no reference added downstream will argue with it.
+
+
+
+
+Which means the cheapest check available is also the one most people skip. Open the first frame at full size, look at the hands, the silhouette, the weapon, the costume fastenings, and only then spend the video generation. That single habit removed more rerolls from my week than any prompt trick.
+
+What to do when the character still drifts
+
+Step 1. Regenerate the reference, not the shot. If the drift shows up everywhere, the anchor image is the problem.
+
+
+
+
+Step 2. Strip the prompt back to motion and camera. Describing hair colour that the reference already shows gives the model a second, weaker source for the same information.
+
+
+
+
+Step 3. Promote an approved output frame to become the new reference. A frame the model itself produced is easier for it to reproduce than a photo from a different pipeline.
+
+
+
+
+Step 4. Split the shot. Two characters overlapping in frame is where identities bleed fastest, so generate them separately and cut between them.
+
+
+
+
+Step 5. Write the decision down. The costume state, the palette, the lens, the reference filename. If it only lives in your head, it will quietly change by episode two. That written layer between the script and the generation is what we built ScreenWeaver around.
+
+Common beginner mistakes with reference images
+Uploading a mood board as a character reference. A collage is many images at once, so the model averages it.
+Adding a new reference at every shot. The set should stay fixed for a whole sequence.
+Describing in the prompt what the reference already carries.
+Using a dramatic hero image as the base. Hard shadows and extreme angles get baked into every later shot.
+Judging identity while the clip plays. Pause it. Drift is visible on a still and forgiving at 24 frames per second.
+FAQ
+
+Can a single reference image be enough?
+
+Often, yes, especially for a close shot where the costume barely appears. One clean full figure with even light covers more situations than three uneven ones.
+
+
+
+
+Do more reference images cost more credits?
+
+On most platforms the price of a generation comes from the model, the resolution and the duration, and not from the number of attached references. The expensive part is the reroll.
+
+
+
+
+Should the reference match the style of my film?
+
+Yes. A photographic reference in a stylised project forces the model to translate two things at once, and translation is where detail gets lost. Generate your reference in the target style first.
+
+
+
+
+Reference images or a trained character identity?
+
+Trained identities hold a face better across many shots and cost more to set up. References are quicker and easier to change. For a short piece, references are usually enough. For a series with recurring characters, a trained identity pays for itself. On Lost Garden I use a fixed turnaround sheet, which sits somewhere between the two.
+
+
+
+
+Reference images narrow the range you are generating inside. They do not remove iteration, and any workflow promising otherwise has not been run over a full episode.
+
+
+
+
+So: how many references are you attaching per shot right now, and could you say which one is doing the work?

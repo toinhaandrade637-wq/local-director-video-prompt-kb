@@ -1,0 +1,72 @@
+<!-- Generated from canonical knowledge. Edit the source, then run build_skill_refs.py. -->
+
+# 方法与示例出处
+
+- P001：跳格子与踢球·首次提供
+- P002：母子街道转熔岩火山
+- P003：母子街道转秋日山谷
+- P004：跳格子与踢球·再次提供
+- P005：酒馆对峙·蛇老板与相骨
+- P006：雪熊传奇介绍
+- P007：丰兔传奇介绍
+- P008：水面分流与巨塔攀爬
+- P009：606宿舍争执
+- P010：黑白出租车·连续长镜头
+- P011：芦苇单手对抗·首次提供
+- P012：芦苇睁眼拔剑与剑面倒影
+- P013：闭眼火焰剑与怪物
+- P014：芦苇鸟妖近身缠斗
+- P015：芦苇单手对抗·再次提供
+- P016：凉亭鸟妖跃起与冲击
+- P017：浩铭举枪与发现女孩
+- P018：披萨店接单与制作
+- P019：披萨出炉与父子交接
+- P020：《一镜到底第一期》结构长图
+- P021：男孩足球·四镜与速度切换
+- P022：MULTIVERSE LUNGE
+- P023：日本校园饮料广告
+- P024：绿色西装独轮车
+- P025：卧室女子、猫、电话与门铃
+- P026：九十年代试镜
+- P027：城堡三人密谋
+- P028：高空机舱现金打斗·全局设计
+- P029：四人女团MV
+- P030：竹林剑修与禅师
+- P031：曼哈顿时停与FPV
+- P032：樱花草原割草
+- P033：掌击与灵体剥离
+- P034：冰封遗迹斜向法阵
+- P035：九天云海十段组合技
+- P036：雨天错投快递
+- P037：冬日街边双人对白
+- P038：门廊夫妻争吵
+- P039：日出男孩奔跑敲鼓
+- P040：草原狩猎
+- P041：男孩被架离并关入黑屋
+- P042：五女采摘、闻嗅与分享蘑菇
+- P043：拾荒者围观病者并转向Echo
+- P044：对岸约定拉钩·引用首版
+- P045：万花筒争夺与归还
+- P046：对岸约定拉钩·编号变体
+- P047：打赌激将与起身反应
+- P048：对岸约定拉钩·再次提供
+- P049：蚂蚁搬运透明硬糖
+- P050：实验基地与糖果化反转
+- P051：发布会声明
+- P052：美术馆到桶厂
+- P053：女孩捏起黄色硬糖
+- P054：美术馆群像讨论
+- O001：即梦使用手册 — https://bytedance.larkoffice.com/wiki/RXh5ww6EqighMdkVTMccm2d4n7e
+- O002：小云雀手册 — https://bytedance.larkoffice.com/wiki/W5tHwoZIDi12dbk2z3KcFkuUnsf
+- O003：Seedance 2.5 提示词撰写指南 — https://bytedance.larkoffice.com/docx/OsiUdR1OxoDqvnxsK8LczYx7nPd
+- O004：Seedance 2.5 企业级业务场景实践指南 — https://bytedance.larkoffice.com/wiki/Tyi1woQAgiZlkhkWGnYcF2Cun3e
+- O005：火山方舟 Seedance 2.5 教程 — https://docs.volcengine.com/docs/ark/seedance-2-5?lang=zh
+- O006：火山方舟 Seedance 2.5 提示词指南 — https://docs.volcengine.com/docs/ark/seedance-2-5-prompt-guide?lang=zh
+- O007：官方 sd25-pe 技能参考 — https://arkdocs.tos-cn-beijing.volces.com/skills/artifacts/video-generation/sd25-pe/0.1.1/sd25-pe-0.1.1.zip
+- U001：综合小段与局部完整关系
+- U002：生成目标、有效细节与去冗余
+- U003：条件性使用“强调！”
+- U004：持续完整学习与经验回流
+- F001：八份 Word 提示词的迁移经验
+- S001：影像知识库 ZIP 的组织结构参考
+- U005：内容优先、现行知识持续生长、批次维护与完整私有同步

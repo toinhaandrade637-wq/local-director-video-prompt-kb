@@ -1,0 +1,190 @@
+【项目】The 5 Biggest AI Experts on YouTube Helped Me Build an Automated AI Business（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/ai-ad-agency
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+The 5 Biggest AI Experts on YouTube Helped Me Build an Automated AI Business
+Higgsfield
+5 min
+
+For the full breakdown, check out the YouTube video: I Built an AI Business in One Day With 5 World-Class Experts
+Every step below is pulled straight from the build, complete with the exact prompts!
+
+Higgsfield MCP Is Now Unlimited - So We Built an Entire AI Business in One Day
+
+Big news first: Higgsfield just made MCP unlimited - every new user gets it, for a limited time. Here's how to claim it. And to show what that actually unlocks, we spent 24 hours building a fully automated AI ad agency from scratch - with five of YouTube's biggest AI experts guiding every step: the creator who invented the AI Automation Agency model, the man behind the biggest AI automation channel on YouTube (850,000+ subscribers), an ex-Amazon engineer who's helped 600+ businesses implement AI, and two more operators running seven-figure AI companies.
+Each one handed over their exact playbook - and every playbook below comes with the prompt that executes it.
+
+The toolset is two names: Claude for the research and thinking, and Higgsfield for everything else - the ads, the automation, the live website. You don't need to know how to code - by the end, the only job left in this business is typing one sentence.
+
+
+Step 1 - The Offer
+
+Don't pick the businesses everyone else goes for - clothing brands, coffee shops. The money is in the plain industries nobody talks about but everyone needs, because they have real ad budgets and the worst digital ads. Let Claude find them:
+
+Act as a B2B positioning expert. Which service niches spend big money on traditional ads but have the lowest digital ad quality?
+Copy
+Recreate
+
+Financial advisors, home services - and roofers, growing at 6% year-over-year, way faster than most traditional businesses. That's the opportunity.
+
+Next, the offer. A good offer has to be so strong that when someone hears it, they feel like an idiot for saying no. We took the formula from Liam Ottley - the man who invented the AI Automation Agency model and built multiple multi-million dollar AI businesses on it. His five rules: 
+1. sell the end result they actually want (a roofer doesn't want videos, he wants income)
+2. hit their core problem
+3. make them risk nothing, sharpen it with speed, an easy entry price and a gift on top, and 
+4. end with a call to action - if you don't tell them what to do next, they won't do it.
+
+Feed the formula straight into Claude:
+
+research what AI ad agencies typically charge local businesses for video ads. Then, using this formula (sell the end result, hit their biggest problem, remove all risk for the client, add speed, an easy entry price, and a bonus, also Add a strong call to action at the end) write a short offer for roofing contractors. Keep it short.
+Copy
+Recreate
+
+The research came back first: agencies in this niche charge from $1,000 per video. And then the offer - new customers (end result), crew sitting idle (core problem), you don't pay until it's done (zero risk), 24 hours and $500 instead of $5,000 (speed + gift), reply "SPRINT" (CTA). All five points, and we didn't write a single word of it. The same setup sits under the best ads you see every day - use it for any niche.
+
+If you run a roofing business, your crew is sitting idle, and you want more clients — here's the deal: Give me 24 hours, and I'll build you 5 custom video ads designed to bring in new customers. And as part of our launch deal — you get all five videos for $500 instead of $5,000. You don't pay until the ads are finished. Zero risk for you. Just reply 'SPRINT' to this message and I'll send you the details.
+
+One worry usually kills this business before it starts: what if you make all the videos and the client walks away without paying? Normally that's credits down the drain. But right now MCP is unlimited for new users - so if you're just starting out, a ghosting client costs you exactly nothing. There has never been a cheaper moment to test a business idea.
+
+Step 2 - The Product
+
+No client yet, so the first five ads become the portfolio. Connect Higgsfield to Claude so everything generates right inside the chat: open Claude, go to Settings - Connectors - Add custom connector, and paste the link from higgsfield.ai/mcp. Done - Claude writes the prompts itself and sends every request to the right model. Your only job is to say what you want:
+
+Make me video ads for a roofing business — each in a completely different style: cinematic before/after, funny, customer-testimonial, problem-focused, and premium brand vibe. You already know our audience and our offer — use them. Every ad needs a strong hook in the first 3 seconds and a clear call to action at the end.
+Copy
+Recreate
+
+And here's the cheat within the cheat: this runs on a custom Claude Skill built on Liam's offer formula, so Claude does all the heavy lifting. The skill asks you five quick things - what business you're running, whether you have a logo, your call to action, how many ads you need, and the format - then does deep audience research on its own and hands you everything to approve. One problem per ad, a style matched to that problem, a hook in the first 3 seconds, your CTA at the end. Download the skill, upload it in Claude under Customize - Skills, and the ad factory becomes one sentence.
+
+ADMAKER-SKILL.md
+text/markdown
+
+Want stronger options? Ask for five more and pick the best - through the MCP or in Supercomputer you can generate 100 videos at the same time, hands-free. Anyone who's run ads knows you have to keep testing new creatives or performance drops. That problem is now solved completely - and the results are ready to sell: you could run them on Meta ads or performance marketing straight out of the chat.
+
+Step 3 - The Back-Office (with Brock Mesarich and Nate Herk)
+
+Now imagine 50 clients and you're still one person. Time to automate. First, Claude becomes the operations manager:
+
+You are the Operations Manager of our AI Ad Agency.
+Your job is to onboard every client and deliver the product using these exact steps:
+
+Step 1: Accept the client's raw brief (it might be messy, spoken, or copy-pasted).
+Step 2: Check if you have these 5 details:
+
+Company Name
+
+Location/City
+
+Target Audience
+
+Visual Style preferences
+
+Email to deliver the files.
+If any details are missing, ask for them.
+Step 3: Once you have all 5, convert them into optimized ad briefs.
+Step 4: Send the briefs to Higgsfield and generate the 5 video ads.
+Step 5: Write a professional delivery email with the client's video links.
+Copy
+Recreate
+
+Before sending anything to a real roofer, we got a reality check from Brock Mesarich, who works with businesses in this exact niche every day. His verdict: the system is good, the offer is strong - but "Accept the client's brief. What client?" A roofer gets 20 spam messages a week, he's busy, he's on a roof somewhere. Three fixes: make the subject line and first sentence about HIS business (nobody deletes their own company name), add proof (portfolio links), and change the CTA to a filter - reply INTERESTED and get a free banner ad. The sample costs almost nothing to generate, but to get it, the roofer has to send his business info. Whoever does that is a real client. That's the answer to "what if they walk away without paying."
+
+Rewrite my offer as a cold email to a roofer. Start with his business, not ours (company name, city, his ads). Add our 5 portfolio links as proof, keep the same deal, and end with one CTA — reply 'INTERESTED' to get a free banner ad for his business
+Copy
+Recreate
+
+Here's the email that came back - steal it:
+
+“Subject: [Company Name] — your ads in [City]Hey [Name],[One true observation — e.g., "Your work shows up all over Google in [City], but your ads don't do it justice."]I make AI video ads for roofers. Here are five I built for the roofing niche: [link]If your crew is sitting idle and you want more clients — here's the deal: give me 24 hours, and I'll build you 5 custom video ads designed to bring in new customers. And as part of our launch deal — you get all five for $500 instead of $5,000. You don't pay until the ads are finished. Zero risk for you.Reply INTERESTED — and I'll start with a free banner ad for your business.”
+
+Then Nate Herk - the biggest AI automation channel on YouTube, whose agency builds systems major companies pay for - stress-tested the pipeline: "What you have is a good demo. If we're talking about a real business - there's still a lot missing. Fifty clients is 250 videos a month - are you seriously going to watch them one by one?" 
+His fix: five upgrades, in order.
+
+Upgrade 1 - stop working in standard chats. Create a Project (ours is "Agency HQ") and paste the Ops Manager prompt into the project instructions. Now Claude permanently remembers who you are, what you sell, and what the ads need.
+
+Upgrade 2 - connect the email. Settings - Connectors - Gmail. Claude reads incoming mail and drafts replies (with your approval).
+
+Upgrade 3 - the intake machine. New rules into the project instructions:
+
+New rules:
+
+Monitor my inbox. When a lead replies "INTERESTED", send them our intake questions: company name, city, services, pricing, best jobs, phone, email.
+
+When the answers arrive, verify them first: does the company exist in that city? Does the phone format match? Flag anything that looks wrong.
+
+Save the client as a permanent profile in this project.
+
+Then generate ONE free banner ad from their profile in Higgsfield and send it to them
+
+From now on, when I say a client's name — load their profile and work from it.
+Copy
+Recreate
+
+A lead replies INTERESTED - Claude sends the questions, verifies the company actually exists in that city, checks the phone format, saves a permanent client profile and generates the free sample. You touch nothing.
+
+Upgrade 4 - the subscription. Why charge $500 once when businesses need new ads all the time? Fresh ads every week for $2,000 a month - and the automation is one prompt:
+
+It's Monday. Go through every client profile and generate 3 fresh ad variations for each. Prepare a delivery email for every client.
+Copy
+Recreate
+
+Upgrade 5 - quality control. You don't watch 250 videos. An AI QC agent does:
+
+Run a QC check on every video before delivery: verify client details (Name, City, Services, Phone) and flag any legal or risky claims. If it passes, send it. If it fails, move it to 'Needs Review' with a reason and notify me. Only show me failed videos
+Copy
+Recreate
+
+Every video gets checked against the client's profile before delivery - name, city, services, phone, and any claim that could get a client sued. If it passes, it sends. If it fails, you see it with the reason. You only ever look at the broken ones.
+
+Look at the pipeline now: leads come in, get verified, get their sample, become clients, get fresh ads every Monday, and every video is checked before it ships. The one thing left to do when a client says yes: type "Make 5 ads."
+
+Step 4 - The Website (with Samin Yasar)
+
+Samin Yasar - the ex-Amazon engineer who's helped 600+ businesses implement AI - gave us his rules for a website that sells: it's not an art project, it's a conversation that answers the client's questions in five blocks. The hero answers what you do, who it's for, what I get in five seconds - and if the price looks too cheap, explain why ("launch pricing for our first 50 clients") or the discount scares people away. Then proof (videos right on the page), "How does the process work?", benefits, FAQ - and after every single block, one button with your strongest CTA: get a free banner ad.
+
+Forms, a backend, an admin panel - that's normally a different league. With the Higgsfield MCP it's one prompt, because it launches a live website with a real link: the portfolio videos on the page actually play, the buttons work, the contact form lands in an admin panel, and it even found an available domain on its own.
+
+Here's advice from a top expert on how a selling website should be structured. Build and launch a website for my agency using exactly this structure, with our real offer and our portfolio videos:
+
+Hero: answers in 5 seconds — what we do, who it's for, what they get. Headline: "Professional video ads that bring roofing companies paying customers." Below it — our offer: custom ads in 24 hours, 5 videos for $500 instead of $5,000. Explain why it's cheap ("Launch pricing for our first 50 clients") and remind they risk nothing — they pay only when it's done.
+
+Proof: our portfolio videos right on the page + two lines about us: "We're a full-automation ad agency for roofing businesses — high-quality videos that bring in new clients."
+
+"How does the process work?": You answer 5 quick questions — everything else we dig up ourselves. We analyze your audience, find what converts in your niche, write the selling script, and make ads that sell.
+
+Benefits: No filming days. No extra costs. A full-cycle agency takes care of everything.
+
+FAQ — the questions a roofer will actually ask: What kind of ads will I get? Do I need to film anything? How long will it take? How do I get in touch?
+After EVERY block — one button, same CTA as our email: Get a free banner ad for your business
+Copy
+Recreate
+
+Graded against Samin's checklist: hero in one sentence - check, "why so cheap" - check, real videos playing on the page - check, process, benefits, FAQ - check, and one CTA after every block, opening a simple form that lands in the admin dashboard - check. Five for five, without designing a single pixel. And the cold email just got an upgrade too: one clean website link instead of five raw ones.
+
+You can check the website here
+
+Step 5 - The Client Plan (with Jack Roberts)
+
+The original plan - find 5,000 roofing companies and message every single one - got destroyed by Jack Roberts, who runs a 7-figure AI business: "You can message a thousand cold leads and hear nothing back." 
+Instead: 10-15 companies with a crystal-clear reason to buy right now - owners already spending money on ads, running old outdated videos or pushing premium services. They already believe in ads; they're just doing them badly. Half of them might actually answer.
+
+Find 10–15 roofing companies that are already spending money on ads — old outdated videos, or pushing premium services. Use public info only. For each: document why they fit, note one TRUE detail about their current ads, and personalize our cold email draft in Gmail based on it. Don't send anything — I review every draft myself. And build me an outreach tracker: company, why they fit, status, reply, intake.
+Copy
+Recreate
+
+Remember the "[one true observation]" line sitting in the cold email since Brock's fixes? This is where it gets filled: Claude finds a real detail about each company's ads and writes it in, so every email opens with proof you actually looked at their business. Fifteen companies, a personalized draft for each waiting in Gmail, a tracker for the whole pipeline. You review, you hit send.
+
+The Math
+
+The traditional way, five high-quality ads cost at least $5,000 (agencies charge from $1,000 per video), and freelancers charge $400+ for a bare-minimum website. Our test price is $500 - but the real goal is the subscription: fresh ads every week for $2,000 a month per client. 5 clients - $10,000 a month. 10 clients - $20,000 a month. And the system does the exact same work for ten clients as it does for one - your job is still one sentence a week. Even the worst case - one $500 client a week - is $2,000 a month on paper.
+
+Are these numbers guaranteed? Of course not - that's exactly what the fifteen emails are about to find out. But the math is on the table. And you don't have to stop at ads: any business can run on top of this system - Claude thinks, Higgsfield handles everything else.
+
+Steal the prompts above and go build the version of this that's yours.
+
+YOUR FIRST CLIENT IS ONE PROMPT AWAY
+Start Building
+Higgsfield Meets DaVinci Resolve: Generate B-Roll Right in Your Edit
+How to Keep Characters and Locations Consistent Across AI Shots (2026 Guide)

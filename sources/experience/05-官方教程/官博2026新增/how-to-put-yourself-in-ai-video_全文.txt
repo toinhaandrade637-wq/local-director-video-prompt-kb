@@ -1,0 +1,396 @@
+【项目】How to Put Yourself in an AI Video（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/how-to-put-yourself-in-ai-video
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+How to Put Yourself in an AI Video
+Higgsfield
+8 min
+
+You can put yourself in an AI video on Higgsfield in three ways. Animate one photo with Create Video, reuse your likeness across videos with Soul ID, or swap your face into an existing clip with Video Face Swap. Each method gives the model a different amount of information about your face, which is why results and costs differ. This guide covers all three, how to fix a face that changes, and how to add your own voice in Lipsync Studio.
+
+Which Method Should You Use to Put Yourself in an AI Video?
+
+Use Create Video for a one-off clip from one photo, Soul ID when you need the same face across many videos, and Video Face Swap when the video already exists.
+
+Each method solves a different job. Create Video turns one photo into a new clip. It’s the simplest route, but the model has to guess the angles your photo doesn’t show. Soul ID learns your face from 20 to 80 photos in about 3 to 5 minutes and saves it as a reusable character. Video Face Swap starts from a video that already exists and replaces only the face, using one clear photo of you.
+
+Which Method Should You Use to Put Yourself in an AI Video?
+
+Method
+
+	
+
+You start with
+
+	
+
+Best for
+
+	
+
+Cost
+
+	
+
+Main limitation
+
+
+
+
+Create Video
+
+	
+
+1 photo
+
+	
+
+A single clip for social, a quick test of a scene or idea, or animating a favorite photo of yourself
+
+	
+
+Varies by model and settings. Our 10-second Seedance 2.5 clip cost 160 credits (≈$7.84)
+
+	
+
+Works best with front-facing photos and calm motion. Side angles and fast movement can shift your features
+
+
+
+
+Soul ID
+
+	
+
+20 to 80 photos
+
+	
+
+Video series, recurring ads, or a persona whose face should stay the same across scenes and styles
+
+	
+
+25 credits to train the character once. Image and video generations are charged separately based on the model and settings
+
+	
+
+Needs about 3 to 5 minutes of setup, and results depend on a varied, good-quality photo set
+
+
+
+
+Video Face Swap
+
+	
+
+Existing video + 1 face photo
+
+	
+
+Putting yourself into a trend, template or ready-made scene, or updating a clip without reshooting it
+
+	
+
+Video swaps require a paid plan. The 5 free daily swaps cover images only
+
+	
+
+One face per swap. Keeps the original action, so it can’t create a new scene
+
+Approximate dollar values use the Plus plan rate ($49 for 1,000 credits, ≈$0.049 per credit); the effective dollar cost depends on your plan or credit package.
+
+Which Photo Should You Use So Your Face Stays Recognizable?
+
+Use a recent, sharp, front-facing photo with even light and nothing covering your face. For Soul ID, we recommend 960px or higher per image. Sunglasses, hats, filters and group shots hide the features the model needs to keep your face recognizable.
+
+Which Photo Should You Use So Your Face Stays Recognizable?
+
+What to check
+
+	
+
+Do
+
+	
+
+Avoid
+
+
+
+
+Quality
+
+	
+
+For a single-photo Create Video or Video Face Swap workflow, use a sharp, well-lit photo where your face is clearly visible. For Soul ID, use 20 to 80 recent photos;
+
+	
+
+Blurry, low-resolution or heavily zoomed-in crops
+
+
+
+
+Face visibility
+
+	
+
+Your whole face is visible, with eyes open and uncovered
+
+	
+
+Sunglasses, masks, hats that shade your eyes, cropped faces
+
+
+
+
+Lighting
+
+	
+
+Even, soft light across your face
+
+	
+
+Heavy shadows or strong light from behind you
+
+
+
+
+Expression
+
+	
+
+A natural, relaxed expression
+
+	
+
+Extreme expressions such as a wide-open mouth or a tight squint
+
+
+
+
+Editing
+
+	
+
+The original, unedited photo
+
+	
+
+Beauty filters, skin smoothing, face-altering apps
+
+
+
+
+Recency
+
+	
+
+Recent photos (from the last few months)
+
+	
+
+Older photos, which can make the result look like an earlier version of you
+
+
+
+
+Who’s in the shot
+
+	
+
+Only you, or you as the clear main subject
+
+	
+
+Group photos where you aren’t the clear subject
+
+
+
+
+Single photo (Create Video, Video Face Swap)
+
+	
+
+One front-facing photo
+
+	
+
+A side profile or a strongly tilted head
+
+
+
+
+Photo set (Soul ID)
+
+	
+
+20 to 80 photos that mix front, three-quarter and profile angles, slightly different expressions and consistent lighting, plus at least one full-body shot
+
+	
+
+Twenty near-identical selfies taken from the same angle
+
+How Do You Turn a Photo of Yourself Into an AI Video?
+
+In Higgsfield Create Video, you upload one photo, describe the scene and motion, choose a video model and click Generate. The 10-second example clip below, made with Seedance 2.5 from ByteDance, cost 160 credits (≈$7.84).
+
+Step 1: Open Create Video. Sign in to Higgsfield, open Video and select Create Video. The upload area, prompt field and generation settings are all on one screen.
+
+Step 2: Upload your photo. Upload one photo of yourself in the image upload area. Choose a sharp, front-facing shot with your whole face visible (see the checklist above). Your pose, outfit and background in the photo shape the whole clip.
+
+Step 3: Describe the scene. Name four things: what you do, where it happens, the light and how the camera moves.
+
+Start with simple movements and keep your face toward the camera. Avoid fast spins, full profile turns and words such as “younger” or “slimmer” unless you want to change your appearance.
+
+Step 4: Choose the settings and generate. Pick a video model, duration and resolution. We used Seedance 2.5 for the example below. The credit cost appears on the Generate button and updates as you change the settings. Check it, then click Generate.
+
+Step 5: Review and regenerate if needed. Watch the clip and check whether your face stays recognizable throughout, especially at its most turned angle. If it doesn’t, try a different photo or simpler motion before you switch models.
+
+Example result
+
+All examples in this guide use one test character that we created in Soul 2.0 from a text prompt. From her character sheet, we generated an image of her on a giant water lily leaf with Soul 2.0 and animated it into a 10-second clip. You can upload your own photo the same way. Seedance 2.5 · 10 seconds · 1080p
+
+Cost. The cost depends on the model, duration and resolution. Check the amount on the Generate button before each attempt.
+
+Limitations. A single photo gives the model only one view of your face, so your features may shift as you move or turn. Each clip also starts from scratch. For the same face across several videos, use Soul ID.
+
+When Should You Use Soul ID Instead of a Single Photo?
+
+Use Soul ID when you want the same face across several videos. It trains on 20 to 80 of your photos in about 3 to 5 minutes and creates a character you can reuse in new scenes and styles.
+
+You upload your photos once and train a reusable identity. Use it to generate consistent images, then carry the same character into supported video workflows through Elements without retraining.
+
+Step 1: Prepare your photos. Collect 20 to 80 clear photos of yourself with different angles and expressions, including at least one full-body shot. Leave out group photos, covered faces and heavy shadows. Use only your own likeness, or the likeness of someone who has given you permission to use it.
+
+Step 2: Train your character. Open Soul → Train new character, upload your photos, start training and name your character. Training takes about 3 to 5 minutes.
+
+Step 3: Generate an image. Select your trained character, choose the image model and settings, and check the current credit cost on the Generate button before generating.
+
+Step 4: Turn it into a video. Animate the image in Create Video, or select your trained character through @Elements in Seedance.
+
+Example result
+
+ 
+
+We used the same test character from her character sheet. We generated an image of her in a bedroom with Soul 2.0 and animated it with Seedance 2.5, then made a second clip in a garden with Seedance 2.5. The setting, outfit and emotions change, but with one character sheet, the face stays the same in every video. If you want to create yourself, train Soul ID on 20 to 80 of your photos and create your character.
+
+Limitations. Soul ID takes more preparation than uploading one photo, so a single-photo workflow is simpler for a one-off clip. It reduces drift between videos, but unusual angles and strong style changes can still alter some features.
+
+When Is Video Face Swap the Right Choice?
+
+Use Video Face Swap when you already have a clip you like, such as a trend or meme video, and want your face in it. It replaces the face while keeping the original performance and scene.
+
+Video Face Swap is a Higgsfield app that replaces the face in an existing video with the face from your photo. The original motion, scene and timing stay as they were. Use only your own likeness, or the likeness of someone who has given you permission to use it.
+
+Step 1: Open the app. Go to Apps → Video Face Swap.
+
+Step 2: Upload the video you want to appear in.
+
+Step 3: Add a clear photo of your face. No prompt is needed.
+
+Step 4: Click Generate, then watch the result to check how your face looks throughout the clip.
+
+Cost and processing time. Video swaps require a paid plan, and the 5 free daily swaps cover images only. Higgsfield lists processing times of about 30 seconds to 2 minutes, depending on your plan and the queue. Video swaps generally take longer than photo swaps.
+
+Limitations. The tool swaps one face per run. It keeps the existing action, so to create a different scene or movement, use Create Video instead.
+
+Why Does My Face Change in an AI Video, and How Do I Fix It?
+
+Your face changes because the model has to generate angles, expressions and movement that your photo doesn’t show. For a single-photo clip, simpler motion and smaller head turns can reduce drift. For recurring videos, train Soul ID on varied angles so the identity has more information to work from.
+
+Why Does My Face Change in an AI Video, and How Do I Fix It?
+
+Problem
+
+	
+
+Possible cause
+
+	
+
+What to try
+
+
+
+
+Your face changes when you turn
+
+	
+
+The reference doesn’t show enough angles
+
+	
+
+Try a smaller turn. For recurring videos, train Soul ID with varied angles
+
+
+
+
+You look older, younger or slimmer
+
+	
+
+The prompt or style changes your appearance
+
+	
+
+Remove appearance-changing words and try a more natural style
+
+
+
+
+Your face loses detail during movement
+
+	
+
+Fast motion, or a face that’s too small in the frame
+
+	
+
+Slow down the action and use a medium close-up
+
+
+
+
+Your body proportions look wrong
+
+	
+
+The reference doesn’t clearly show your build
+
+	
+
+Use a full-body reference, or include one in your Soul ID photo set
+
+
+
+
+The swapped face looks pasted on
+
+	
+
+The source photo doesn’t suit the target shot
+
+	
+
+Try a clearer photo with a closer head angle and similar lighting
+
+Treat these as troubleshooting steps rather than guaranteed fixes. For Soul ID, Higgsfield specifically recommends varied angles and at least one full-body photo.
+
+How Do You Add Your Own Voice and Sync Your Lips?
+
+Open Video → Lipsync Studio, upload your clip and a recording of your voice, then choose a model that supports existing videos, such as Kling Lipsync from Kuaishou or Sync Lipsync 3 from Sync Labs. Check the credit cost on the Generate button and generate.
+
+To have your own voice read a script, first create a custom voice in Audio from a short recording. Generate the speech there, then use that audio in Lipsync Studio.
+
+Clone only your own voice or one you have permission to use. If you publish the video as an ad, follow the platform’s AI-disclosure rules.
+
+Prices verified October 2026. Check current pricing before committing.
+
+HOW TO PUT YOURSELF IN AN AI VIDEO
+Try Soul ID

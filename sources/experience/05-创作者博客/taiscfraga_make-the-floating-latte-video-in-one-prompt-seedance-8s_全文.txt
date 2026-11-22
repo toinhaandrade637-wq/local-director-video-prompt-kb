@@ -1,0 +1,140 @@
+【项目】MAKE THE FLOATING LATTE VIDEO IN ONE PROMPT (SEEDANCE, 8S)（@taiscfraga · 创作者博客）
+【链接】https://higgsfield.ai/@taiscfraga/blogs/make-the-floating-latte-video-in-one-prompt-seedance-8s
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+MAKE THE FLOATING LATTE VIDEO IN ONE PROMPT (SEEDANCE, 8S)
+@taiscfraga
+16
+0
+0
+
+a latte floats in the middle of a real street. a girl walks in, gives it a suspicious look, takes it, sips, and walks away like nothing happened.
+
+one prompt. two scenes. 8 seconds. no editing needed.
+
+all you need is two photos: a place and a person. the prompt does the rest.
+
+
+
+
+what you need
+
+seedance, duration set to 8 seconds
+@image 1: a photo of the location (a street corner works great)
+
+
+
+
+@image 2: a photo of your character (full body, face clearly visible)
+
+
+
+
+
+
+
+how to do it
+
+upload the location as @image 1 and the character as @image 2, in that order.
+set the duration to 8 seconds.
+paste the prompt from the bottom of this post.
+hit generate and watch her steal a latte.
+
+
+
+
+why this one makes people stop scrolling
+
+scene 1 (0 to 2s) is the hook: the mug floats alone and nobody is on screen. people stay to find out what happens.
+scene 2 (2 to 8s) has one action per beat: she walks in and looks, she takes the mug and sips, she leaves. simple beats are easy for seedance to follow.
+every beat has its own audio line: footsteps, "hmm", sip, chime. that is what makes it feel real.
+the drink is described by shape and layers, no brand names. bottom to top: latte, foam, whipped cream, caramel.
+"no people, no moving vehicles" is in there on purpose. if your location photo has people, seedance copies them into the scene.
+
+
+
+
+if something goes wrong (i tested it, here are the fixes)
+
+face looks distorted: big expressions like "eyes wide, mouth open" break the face. use "small pleased smile" instead.
+face looks stretched: the ultra-wide lens does that when she is close. keep her a few steps back, full body in frame.
+mug too small: change "about 10 cm tall" to "about 15 cm tall".
+whipped cream melts: add "stiff whipped cream that keeps its shape".
+outfit changes mid-video: add "there is no [the thing it keeps adding]" after the outfit line.
+action feels rushed: remove the "hmm" line and keep only the curious look.
+
+
+
+
+make it yours
+
+want a different drink? replace only the mug paragraph in scene 1. everything else stays. want a different place or character? just swap the photos.
+
+
+
+
+try it and tag @taiscfraga so i can see yours.
+
+
+
+
+the prompt (copy and paste)
+
+Set the generation length to 8 seconds.
+
+
+
+
+Scene 1 [0:00–0:02]
+
+
+
+
+A clear glass coffee mug of caramel latte floats perfectly still in mid-air at the exact center of the frame, about chest height above the sidewalk from @Image 1, with no hand or support holding it. The mug is about 10 cm tall, with thick clear glass, a rounded body, a short wide clear pedestal foot with fine ridged rings, and a round open loop handle on the right side. There is no lid and no straw. The drink shows through the glass in layers from bottom to top: a warm caramel-brown latte filling most of the mug, a thin pale creamy beige milk foam layer just below the rim, and a generous swirl of white whipped cream piled high above the rim, finished with thin zigzag drizzles of golden-orange caramel sauce running across the whipped cream. A very faint thread of steam rises from the top. The camera looks down from a slightly high angle through an ultra-wide phone lens with mild edge distortion, so the sidewalk curves outward toward the corners. Behind the mug is the exact location shown in @Image 1, kept faithful to the reference: the same street corner, the same buildings, the same trees, the same staircase and the same sidewalk texture. The sidewalk in the foreground is empty, with no people and no moving vehicles nearby, and no readable signs or text anywhere. The light matches @Image 1: bright daylight filtered through tree leaves with gentle shadows and slightly muted, true-to-life colour. The look is candid, lo-fi social media footage shot on a phone.
+
+
+
+
+[0:00–0:02] The mug hovers alone in the center of the frame, bobbing very gently as the glass catches the light and a thin wisp of steam curls upward, while the sidewalk stays quiet and empty. Audio: quiet city street ambience with distant traffic hum and a few birds, and a faint, soft magical shimmer.
+
+
+
+
+CUT
+
+
+
+
+Scene 2 [0:02–0:08]
+
+
+
+
+Same slightly high ultra-wide angle, same location as @Image 1, same daylight, with the glass mug still floating at the exact center of the frame. The woman in the scene is the woman from @Image 2, and her face, hair, makeup, outfit, jewellery and shoes match @Image 2 exactly, with only white wired earphones added. She wears white wired earphones in both ears, with the cord running down her chest. Nothing else about her outfit is added or changed. Her face stays natural, relaxed and undistorted throughout, with subtle real-life expressions only, and her whole body stays in frame at a comfortable distance from the lens.
+
+
+
+
+[0:02–0:04] The woman from @Image 2 strolls in from the left edge of the frame at an unhurried, chill pace, with her hands loose at her sides and her head nodding slightly to her music. She stops a few steps behind and to the left of the floating mug, so the mug stays in the center of the frame and she is not close to the lens. She looks at the mug with a curious, mildly skeptical look: one eyebrow lifts slightly, her head tilts a little to one side, and her lips stay relaxed and closed. Her face stays smooth and natural, with no frowning, no squinting and no scrunched features. Audio: relaxed footsteps with faint lo-fi music leaking from her earphones, then a soft, questioning "hmm" sound.
+
+
+
+
+[0:04–0:06] She calmly takes the mug out of the air by its round handle with one hand and takes a small careful sip from the rim. Her expression softens into a small, pleasant surprise: her eyebrows rise slightly, her eyes stay natural and open, and her lips part just a little into a small pleased smile, followed by a slow appreciative nod. The reaction is subtle and natural, with no wide eyes, no open mouth and no exaggerated facial movement. Her shoulders and body stay relaxed and grounded, with no jumping, bouncing or dancing. Audio: a soft warm sip, then a quiet pleased "mm" and a bright, sparkly chime.
+
+
+
+
+[0:06–0:08] She turns and walks away toward the right edge of the frame at the same relaxed pace, sipping from the mug with the drink in hand, until she exits the frame. Audio: easygoing footsteps fading out with a light, upbeat lo-fi beat.
+
+
+
+
+The energy is candid, effortlessly cool and quietly comedic, with real-life phone-footage texture and muted natural colour grading.
+
+See all
+Copy prompt
+Recreate

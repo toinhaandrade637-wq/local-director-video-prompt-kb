@@ -1,0 +1,588 @@
+【项目】Higgsfield-Games（官方博客 · Title-Case 重抓 2026-11-04）
+【链接】https://higgsfield.ai/blog/Higgsfield-Games
+【提示词块】3（2026-11-05 原始大小写 curl 复核；3 块已存 官博提示词块全集_63篇402块.jsonl 附录）
+【捕获】2026-11-04（Title-Case 重抓·替换旧 404 墓碑）
+
+──────────────────────────────────────
+
+Build Multiplayer Games With AI
+
+Higgsfield
+
+Explore
+
+Image
+
+Video
+
+Audio
+
+MCP
+
+API
+
+Genjutsu
+New
+
+Content Factory
+New
+
+Playable
+New
+
+Mangaka
+New
+
+AI Influencer
+
+Academy
+New
+
+Katana
+
+ChatGPT Plugin
+
+Ads Studio
+
+Effects
+
+Cinema Studio
+
+Contests
+
+Marketing Studio
+
+Supercomputer
+
+Edit
+
+Community
+
+Plugins
+
+Canvas
+
+Originals
+
+Creator Hub
+
+Creator Hub
+
+Help center
+
+Blog
+
+Changelog
+
+Customer Stories
+
+Search Creator Hub
+
+On this page
+
+The Setup (30 seconds)
+
+Game 1 — Pirates (first-person)
+
+Game 2 — Blockfield (block-world shooter)
+
+Game 3 — NeonSlice (webcam-controlled)
+
+Publish to the Marketplace (deploy ≠ publish)
+
+What It Costs — and How It Makes Money
+
+Blog
+
+/
+
+Guides
+
+/
+
+Build Multiplayer Games With AI
+
+Back
+
+Build Multiplayer Games With AI
+
+Mariam Barova
+
+Jun 19, 2026
+
+3 min
+
+You&#x27;ve probably seen the games people build with Claude this week. The code genuinely works — but they all look the same: capsule characters, gray boxes, one flat texture stretched over the whole world. Brilliant logic wrapped in programmer art.
+
+Two things have been missing, and they&#x27;re the two things that decide whether anyone actually plays your game: it has to 
+look
+ real, and your friends have to be able to 
+join
+ it. Solving the second one used to mean hiring a backend developer at $50/hour, weeks of work syncing players, and a server bill every month — forever. That&#x27;s the wall where most people quit.
+
+Claude Fable 5 + the Higgsfield MCP takes both walls down at once. Fable writes and directs the game; Higgsfield generates every character, texture and sound, hosts the live multiplayer match, and lists the finished game on a public marketplace. In this article we built three complete multiplayer games — pirates, a block-world shooter, and a webcam-controlled fruit slicer — for 
+$68 total
+, published them, and woke up to 
+nearly 4,000 players and 121 remixes
+. (We also handed all three to the studio behind 
+CrossFire
+ — 670M+ players — for an unscripted gut-check.)
+
+Here&#x27;s exactly how, with every prompt.
+
+The Setup (30 seconds)
+
+The whole pipeline runs on two pieces, and connecting them takes about half a minute.
+
+1. 
+Connect the Higgsfield MCP.
+ Open Claude → 
+Settings → Connectors
+ → 
+Add custom connector
+. Name it 
+Higgsfield
+ and paste the server URL: https://mcp.higgsfield.ai/mcp Click connect. Now Claude can generate real game assets and host live matches instead of returning gray boxes.
+
+2. 
+Add the Game Studio skill.
+ This is a file that makes Claude behave like an actual game studio (more on what that means in Game 2). Drop it into your Claude chat to activate it. 
+→ Download the Game Studio Skill
+
+game-studio.md
+
+text/markdown
+
+Think of it this way: 
+Claude is the brain that designs and writes the game; Higgsfield is what actually makes and hosts it.
+
+Game 1 — Pirates (first-person)
+
+What you&#x27;re building:
+ a first-person pirate game — crew a galleon, steer it, man the cannons, pull alongside an enemy ship and board it for a sword fight on deck.
+
+Build a first-person pirate game where I sail a galleon, fire cannons at enemy ships, and board them for a sword fight on deck.
+
+Copy
+
+Recreate
+
+What it does:
+ one sentence returns a playable game with every texture and sound generated from scratch — real wood on the hull, detailed cannons, characters that read as actual pirates and navy, a real ocean.
+
+The difference the MCP makes:
+ we ran the exact same sentence through Claude 
+alone
+ — no MCP, no skill. Same model, same working game underneath — but no skins, no textures, no ocean. Just gray shapes. That&#x27;s the line between a tech demo and something people want to play. 
+Fable writes the game; Higgsfield makes it look real.
+
+Multiplayer with zero setup:
+ a friend clicked a link and was in the match — Higgsfield hosted the game and synced both players automatically. No backend developer, no server rental, no networking code. The same prompt that builds the game also makes it joinable.
+
+Game 2 — Blockfield (block-world shooter)
+
+What you&#x27;re building:
+ a build-and-break block-world shooter — two teams, place and destroy blocks, fight the other side.
+
+Build a first-person pirate game where I sail a galleon, fire cannons at enemy ships, and board them for a sword fight on deck
+
+Copy
+
+Recreate
+
+What it does — and what the skill is doing under the hood:
+ this time the skill doesn&#x27;t start coding. It 
+interviews you first
+, the way a real studio interviews a client, then turns your answers into a full design document — mechanics, art direction, level structure, sound. 
+That
+ brief is what builds the game, not your one sentence. The skill is an experienced game-dev team that works before a single line of code gets written. Then it deploys itself: the same prompt that writes the game hosts it, ending in a live link you can send anyone — no deployment headaches.
+
+The result has real detail. Each weapon has its own personality: the 
+sniper
+ fires slowly but zooms in and hits far harder; the 
+bazooka
+ launches rockets with a real smoke trail and blows through blocks that bullets can&#x27;t touch.
+
+Game 3 — NeonSlice (webcam-controlled)
+
+What you&#x27;re building:
+ a fruit-slicing game with no controller, no mouse, no touchscreen — your webcam watches your hand and your fingertip 
+is
+ the blade (two hands supported).
+
+Build a block-world shooter with two teams against each other, where I can place and destroy blocks and fight the opposite team
+
+Copy
+
+Recreate
+
+What it does:
+ this is the one to remember. Under the hood a vision model handles the hand-tracking — but the hard part is everything around it. Fable and Higgsfield stitch the tracking, velocity prediction, physics and a fully playable game together 
+in the browser, from a single prompt
+. No installs, no extra hardware. Just your hand.
+
+Publish to the Marketplace (deploy ≠ publish)
+
+Up to here the games live at private links you send people. When each game was finished, the skill asked whether to 
+publish
+ it to the marketplace — and that&#x27;s a different thing entirely. A deployed game is one you send. A published game is one strangers 
+discover, play, and remix
+ on their own.
+
+Why the timing matters:
+ the marketplace launched this week and it&#x27;s almost empty. Publish now and you&#x27;re discovered first, played first, remixed first — and every play is free data telling you what&#x27;s actually fun. It&#x27;s the early-YouTube, early-App-Store window: in 2008, solo developers made fortunes on simple flashlight apps purely for being first with no competition. The advantage isn&#x27;t only 
+building
+ games — it&#x27;s being the only game in town when the players show up.
+
+What that looked like overnight:
+ we published three games, ran no ads, made no posts, told no one. By morning 
+Blockfield
+ alone had 
+~4,000 plays
+ — up to 
+22 players in a single arena
+ building, fighting and talking — and 
+121 people had remixed it
+: opened the game, changed it, and shipped their own version. One click after thinking 
+"I could do that."
+
+What It Costs — and How It Makes Money
+
+We asked Claude to pull the full credit breakdown, failed generations included: 
+$68 to build all three games start to finish.
+ Not one line of code was typed by hand — every asset, the 2D art, the 3D buildings, the characters, the sound, was generated with Higgsfield.
+
+The money works as a funnel:
+
+Top of funnel (free): the marketplace.
+ You host for nothing, real people play, and if they keep coming back, you&#x27;ve found something worth betting on.
+
+Bottom of funnel (scale): distribution platforms.
+ Because you own the code Claude wrote, you take the proven winner to the big digital distribution platforms — that&#x27;s where it pays off.
+
+The marketplace tells you 
+what
+ to bet on; the big platforms are where the bet cashes in.
+
+Ready to ship your own?
+
+Start at higgsfield.ai
+
+by Mariam Barova
+
+4K Seedance 2.0 Workflow: Make Ultra-Realistic AI Ads (Full Tutorial)
+
+ Recreate a $39,500/Month Faceless YouTube Channel With AI
+
+Discover more
+
+View all
+
+Guides
+
+ Recreate a $39,500/Month Faceless YouTube Channel With AI
+
+By Mariam Barova
+
+3 min
+
+·
+
+Jun 16, 2026
+
+AI-native creative suite
+
+Create
+
+AI Video
+
+AI Video Effects
+
+AI Image
+
+Edit Image
+
+Inpaint
+
+Upscale
+
+AI Video Upscaler
+
+Mixed Media
+
+AI Face Swap
+
+AI Influencer
+
+Apps
+
+Video Models
+
+Seedance 2.5
+
+Seedance 2.0
+
+Kling 3.0
+
+Sora 2 Introduction
+
+Veo 3.1 Introduction
+
+WAN 2.6
+
+Grok Imagine 1.5
+
+Gemini Omni Flash
+
+Image Models
+
+Nano Banana
+
+Flux 2
+
+Seedream 5
+
+GPT Image 2
+
+Ideogram 4.5
+
+Studios
+
+Cinema Studio
+
+Marketing Studio
+
+Lipsync Studio
+
+Higgsfield Popcorn
+
+Higgsfield Canvas
+
+Higgsfield Mangaka
+
+Soul
+
+Soul 2.0
+
+Soul ID Character
+
+Soul Cinema
+
+Platform
+
+Supercomputer
+
+AI Motion Designer
+
+MCP/CLI
+
+API
+
+Collab
+
+Games
+
+Reference Extension
+
+Resources
+
+Blog
+
+Help Center
+
+Academy
+
+Prompt Guide
+
+Company
+
+About
+
+Trust
+
+Report a vulnerability
+
+Enterprise
+
+Team
+
+Pricing
+
+Careers
+
+Contact
+
+Community
+
+Community
+
+Contests
+
+Creative Partners
+
+X / Twitter
+
+Youtube
+
+LinkedIn
+
+Tiktok
+
+Discord
+
+Create
+
+AI Video
+
+AI Video Effects
+
+AI Image
+
+Edit Image
+
+Inpaint
+
+Upscale
+
+AI Video Upscaler
+
+Mixed Media
+
+AI Face Swap
+
+AI Influencer
+
+Apps
+
+Video Models
+
+Seedance 2.5
+
+Seedance 2.0
+
+Kling 3.0
+
+Sora 2 Introduction
+
+Veo 3.1 Introduction
+
+WAN 2.6
+
+Grok Imagine 1.5
+
+Gemini Omni Flash
+
+Image Models
+
+Nano Banana
+
+Flux 2
+
+Seedream 5
+
+GPT Image 2
+
+Ideogram 4.5
+
+Studios
+
+Cinema Studio
+
+Marketing Studio
+
+Lipsync Studio
+
+Higgsfield Popcorn
+
+Higgsfield Canvas
+
+Higgsfield Mangaka
+
+Soul
+
+Soul 2.0
+
+Soul ID Character
+
+Soul Cinema
+
+Platform
+
+Supercomputer
+
+AI Motion Designer
+
+MCP/CLI
+
+API
+
+Collab
+
+Games
+
+Reference Extension
+
+Resources
+
+Blog
+
+Help Center
+
+Academy
+
+Prompt Guide
+
+Company
+
+About
+
+Trust
+
+Report a vulnerability
+
+Enterprise
+
+Team
+
+Pricing
+
+Careers
+
+Contact
+
+Community
+
+Community
+
+Contests
+
+Creative Partners
+
+535 Mission St, 14th floor, San Francisco, CA, 94105
+
+X / Twitter
+
+Youtube
+
+LinkedIn
+
+Tiktok
+
+Discord
+
+© 
+2026
+ Higgsfield, Inc.
+
+ 
+All rights reserved.
+
+Help center
+
+Cookie Notice
+
+Terms
+
+Privacy
+
+Report a vulnerability

@@ -1,0 +1,644 @@
+【项目】How to Generate AI Video From Your Terminal With Higgsfield CLI（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/higgsfield-cli
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+How to Generate AI Video From Your Terminal With Higgsfield CLI
+Higgsfield
+Oct 19, 2026
+11 min
+
+Higgsfield CLI lets you generate images and videos from a terminal, script or coding agent without opening the web app. It installs with curl, Homebrew or npm and runs the same models as the web app from the same account and credit balance. One command creates a generation, another shows its cost first, and --json makes every answer readable for scripts and agents.
+
+What Is Higgsfield CLI?
+
+This guide covers installation, sign-in, an image and a video made from that image, cost checks, Soul ID, batch scripts and the difference between CLI, MCP and the Higgsfield API. Higgsfield CLI is an open-source command-line client for Higgsfield, an AI-native creative suite for video and image generation. The code and releases are on GitHub. The command is higgsfield, with higgs as a shorter alias.
+
+Three things define how it works:
+
+No API key. You sign in through the browser with a regular Higgsfield account.
+Same credits. Every generation is charged to that account's plan credits at standard rates.
+Web-only access stays on the web. Unlimited model access and free generations do not apply to CLI generations.
+What Is Higgsfield CLI?
+
+Area
+
+	
+
+What the CLI covers
+
+	
+
+Command group
+
+
+
+
+Generation
+
+	
+
+35+ models and tools for image, video, 3D and audio, plus analysis such as Virality Predictor
+
+	
+
+generate, model
+
+
+
+
+Characters
+
+	
+
+Training and reusing Soul characters
+
+	
+
+soul-id
+
+
+
+
+Workflows
+
+	
+
+Reframe, dubbing, voice change, draw-to-video
+
+	
+
+workflow
+
+
+
+
+Account
+
+	
+
+Balance, transactions, billing workspaces
+
+	
+
+account, workspace
+
+
+
+
+Beyond generation
+
+	
+
+Marketing Studio assets, product photoshoots, website and game deployment
+
+	
+
+marketing-studio, product-photoshoot, website, game
+
+Websites, games and the Video Explainer flow live in the same tool, but this guide stays on image and video. The full command reference is in the README on GitHub.
+
+Quick Start: From Install to First Batch
+
+The whole path takes six commands. Each step is explained in its own section below.
+
+1. Install with one method. Or use curl (curl -fsSL <https://raw.githubusercontent.com/higgsfield-ai/cli/main/install.sh> | sh) or npm (npm install -g @higgsfield/cli).
+
+brew install higgsfield-ai/tap/higgsfield
+
+
+2. Check the version.
+
+higgsfield version
+
+
+3. Sign in through the browser.
+
+higgsfield auth login
+
+4. Generate one image.
+
+higgsfield generate create nano_banana_2 --prompt "1980s flash photo on film: a young man with shaggy dark hair in a black glossy leather jacket with a red flame shape painted on the back, seen from behind, turns his head in profile while talking on a payphone on a subway platform. Silver trains on both sides, the left one blurred as it rushes past, a yellow platform edge, chrome pipes with fluorescent lights overhead. No text, no signs." --aspect_ratio 16:9 --wait --json
+
+5. Check the price, then generate one video from that image.
+
+higgsfield generate cost seedance_2_5 --mode omni_reference --start-image <image_job_id> --prompt "Start from the start frame. 1980s film look, handheld, slow push-in. He listens on the payphone, tense. The left train rushes past, the roar drowns the call, he frowns and shouts \"Hello? I can't hear you!\" The train leaves, sudden quiet, he hears the voice, exhales and smiles: \"Yeah... I'm here.\" Train wind moves his hair, window light flickers on his face. No text." --duration 5 --resolution 1080p
+higgsfield generate create seedance_2_5 --mode omni_reference --start-image <image_job_id> --prompt "Start from the start frame. 1980s film look, handheld, slow push-in. He listens on the payphone, tense. The left train rushes past, the roar drowns the call, he frowns and shouts \"Hello? I can't hear you!\" The train leaves, sudden quiet, he hears the voice, exhales and smiles: \"Yeah... I'm here.\" Train wind moves his hair, window light flickers on his face. No text." --duration 5 --resolution 1080p --wait --wait-timeout 20m --json
+
+6. Start a batch. Without --wait, each call returns a job id at once, so a loop over a prompt file starts one job per line.
+
+while IFS= read -r prompt; do
+  higgsfield generate create seedance_2_5 --prompt "$prompt" --duration 5 --json | jq -r '.[]' >> job_ids.txt
+done < prompts.txt
+
+The full batch workflow, including how to collect results, is in the scripts section.
+
+Commands in this guide were checked on October 16, 2026 with Higgsfield CLI 1.1.26 on macOS. Model ids, parameters and credit prices can change, so use higgsfield model list, model get and generate cost for current values.
+
+CLI vs MCP vs API
+
+Higgsfield has three programmatic routes. They differ by who calls them and how they are billed, so the choice comes before installation.
+
+CLI vs MCP vs API
+
+Criteria
+
+	
+
+CLI
+
+	
+
+MCP
+
+	
+
+Higgsfield API
+
+
+
+
+Made for
+
+	
+
+Terminal, scripts, coding agents
+
+	
+
+Chat agents such as Claude and other MCP-compatible clients
+
+	
+
+Your own application
+
+
+
+
+Sign-in
+
+	
+
+Browser, no key
+
+	
+
+Browser, no key
+
+	
+
+API key from open.higgsfield.ai
+
+
+
+
+Billing
+
+	
+
+Plan credits, standard rates
+
+	
+
+Plan credits, standard rates
+
+	
+
+Separate prepaid API balance in US dollars
+
+
+
+
+Unlimited models
+
+	
+
+No
+
+	
+
+No
+
+	
+
+No
+
+
+
+
+Output
+
+	
+
+Text or --json
+
+	
+
+Tool results in the chat
+
+	
+
+REST responses
+
+
+
+
+Guide
+
+	
+
+This article
+
+	
+
+Generate AI videos from Claude with Higgsfield MCP
+
+	
+
+Generate AI videos from the Higgsfield API
+
+CLI and MCP share one account and one credit balance, so switching between them changes the interface, while the account, credits and Assets stay the same. The API is a separate product with its own API key and a prepaid balance in US dollars; it does not use your higgsfield.ai plan credits.
+
+What You Need Before Installing
+
+You need three things:
+
+A paid Higgsfield subscription.
+A terminal on macOS, Linux or Windows.
+One package route: curl (macOS and Linux, nothing else required), Homebrew (needs Homebrew) or npm (needs Node.js).
+
+A coding agent is optional. If you plan to call the CLI from Claude Code, Codex, OpenClaw or Hermes, the agent can run the installation itself. That is covered in the agents section below.
+
+How to Install Higgsfield CLI
+
+All three methods install the same tool. Pick the one that matches the rest of your setup, because updates go through the same method you installed with.
+
+1. Install with curl (macOS and Linux). The installer may ask for your system password.
+
+curl -fsSL <https://raw.githubusercontent.com/higgsfield-ai/cli/main/install.sh> | sh
+
+2. Or install with Homebrew. Later updates: brew update && brew upgrade higgsfield.
+
+brew install higgsfield-ai/tap/higgsfield
+
+3. Or install with npm (any platform, including Windows). The package name is @higgsfield/cli.
+
+npm install -g @higgsfield/cli
+
+4. Check the version. It prints the release number, for example higgsfield 1.1.26, with a build date.
+
+higgsfield version
+
+Troubleshooting: wrong version after install. In our test on macOS, the curl installer reported version 1.1.26, but higgsfield version printed an older 1.0.1 left over from an earlier Homebrew install. Running which -a higgsfield listed both copies, and brew upgrade higgsfield fixed the mismatch. If the version check disagrees with the installer, check for a second copy first.
+
+How to Sign In and Check Your Account
+
+Sign-in works through the browser, the same way any connected app signs in. There is no key to copy.
+
+1. Start the login. The terminal prints "Opening browser for authentication" and waits. If no browser opens, the terminal also prints the path of a local sign-in file to open manually.
+
+higgsfield auth login
+
+2. Approve in the browser. A Higgsfield consent page lists what the CLI will access: your email, basic profile, organization membership and permission to remember the login. Click Allow. The browser shows "Device authorized" and the terminal prints "Successfully authenticated".
+
+3. Confirm the account. It prints one line: email, plan name and available credits.
+
+higgsfield account status
+
+Two related command groups:
+
+higgsfield auth token prints the current access token, and higgsfield auth logout deletes it. Treat the token as a secret: do not paste it into prompts, logs, screenshots or source control. The token is kept in a local credentials file and is short-lived, so a "Session expired" message means running auth login again.
+higgsfield workspace list shows the billing workspaces on the account with plan and balance, and workspace select switches the one that generations are charged to. In our test, a personal account showed one workspace, named Private.
+How to Generate an Image and Turn It Into Video
+
+Generation runs through higgsfield generate create <model_id> --prompt "...". Parameters go in as --name value. Two flags matter from the start. --wait holds the terminal until the job finishes and prints the result link. --json returns machine-readable output: with --wait, the create command returns the full job record; without it, a list of job ids, and generate wait <job_id> --json returns the record later. The example below makes one image and then animates that same image, which is the usual order when a clip has to match an approved frame.
+
+1. Generate the image. Note the id in the response.
+
+higgsfield generate create nano_banana_2 --prompt "1980s flash photo on film: a young man with shaggy dark hair in a black glossy leather jacket with a red flame shape painted on the back, seen from behind, turns his head in profile while talking on a payphone on a subway platform. Silver trains on both sides, the left one blurred as it rushes past, a yellow platform edge, chrome pipes with fluorescent lights overhead. No text, no signs." --aspect_ratio 16:9 --wait --json
+
+2. Animate it. The --start-image flag accepts a job id from a previous generation, an upload id or a local file path; local files are uploaded automatically. Seedance 2.5 needs --mode omni_reference for a start image or reference images, because its default text-only mode does not accept media.
+
+higgsfield generate create seedance_2_5 --mode omni_reference --start-image <image_job_id> --prompt "Start from the start frame. 1980s film look, handheld, slow push-in. He listens on the payphone, tense. The left train rushes past, the roar drowns the call, he frowns and shouts \"Hello? I can't hear you!\" The train leaves, sudden quiet, he hears the voice, exhales and smiles: \"Yeah... I'm here.\" Train wind moves his hair, window light flickers on his face. No text." --duration 5 --resolution 1080p --wait --wait-timeout 20m --json
+
+3. Find the result. The JSON includes id, job_type, status, result_url and the params the model actually used. The video record also lists the start image under medias with its role and source link, and adds thumbnail_url. Both files appear in Assets on higgsfield.ai alongside web generations.
+
+In our test, the image finished within about a minute at 2752 by 1536 and cost 2 credits. The 5-second video from that image at 1080p completed inside the 20-minute wait and was priced at 80 credits. An earlier text-only video at the same settings ran longer than the default 10-minute wait, so the call ended with "timed out waiting for job" while the job kept running on the server; higgsfield generate get <job_id> showed it as in_progress, and the video link arrived a few minutes later. --wait-timeout 20m raises the waiting limit to 20 minutes. If a generation takes longer, the command can still time out while the job continues on the server.
+
+The params block is useful to read once. It shows the defaults you did not set: for the video, 16:9, standard bitrate and audio generation on.
+
+How to Check the Cost Before You Generate
+
+higgsfield generate cost returns the credit price of a job without creating it. It takes the same model id, parameters and media flags as generate create, so a cost check is the same command with one word changed.
+
+How to Check the Cost Before You Generate
+
+Command
+
+	
+
+What it does
+
+	
+
+Credits charged
+
+
+
+
+generate cost seedance_2_5 --mode omni_reference --start-image <id> --prompt "..." --duration 5 --resolution 1080p
+
+	
+
+Prints the price, for example 80 credits
+
+	
+
+None
+
+
+
+
+generate cost seedance_2_5 --prompt "..." --duration 5 --resolution 1080p --draft true
+
+	
+
+Prints the draft price, for example 15 credits
+
+	
+
+None
+
+
+
+
+generate create ...
+
+	
+
+Creates the job and, with --wait, prints the result link
+
+	
+
+Price of the job
+
+
+
+
+generate list
+
+	
+
+Lists recent jobs with date, model, status and link
+
+	
+
+None
+
+
+
+
+generate get <job_id>
+
+	
+
+Shows one job's status and link
+
+	
+
+None
+
+
+
+
+generate wait <job_id>
+
+	
+
+Holds until the job finishes
+
+	
+
+None
+
+
+
+
+account transactions --size 5
+
+	
+
+Lists recent credit movements with date, model, amount and action
+
+	
+
+None
+
+Credit costs verified on October 16, 2026 for one account. Prices depend on model, duration and resolution and may change, so the cost command is the way to see the current figure for your settings. Additional generations or alternatives may increase the total. In our test, a 5-second Seedance 2.5 clip at 1080p was priced at 80 credits for a full render and 15 credits with --draft true at the same duration and resolution, which makes draft a cheaper way to preview before the final pass. Two workflows, voice-change and dubbing, do not support cost estimation.
+
+Which Models You Can Call From the Terminal
+
+The CLI reads the same catalog as the web app. Two commands cover it:
+
+higgsfield model list prints every job type with its display name and category.
+higgsfield model get <model_id> prints one model's parameters: accepted values, defaults, required fields and limits such as how many references it takes.
+Which Models You Can Call From the Terminal
+
+Model id
+
+	
+
+Name
+
+	
+
+Type
+
+
+
+
+seedance_2_5
+
+	
+
+Seedance 2.5
+
+	
+
+Video
+
+
+
+
+kling3_0
+
+	
+
+Kling v3.0
+
+	
+
+Video
+
+
+
+
+veo3_1
+
+	
+
+Google Veo 3.1
+
+	
+
+Video
+
+
+
+
+wan3_0
+
+	
+
+Wan 3.0
+
+	
+
+Video
+
+
+
+
+gemini_omni
+
+	
+
+Gemini Omni Flash
+
+	
+
+Video
+
+
+
+
+nano_banana_2
+
+	
+
+Nano Banana Pro
+
+	
+
+Image
+
+
+
+
+gpt_image_2_5
+
+	
+
+GPT Image 2.5
+
+	
+
+Image
+
+
+
+
+flux_2
+
+	
+
+FLUX.2
+
+	
+
+Image
+
+
+
+
+text2image_soul_v2
+
+	
+
+Higgsfield Soul 2.0
+
+	
+
+Image
+
+
+
+
+brain_activity
+
+	
+
+Virality Predictor
+
+	
+
+Analysis
+
+In our test on October 16, 2026, model list returned 107 entries. The 35+ figure counts models and tools; the catalog lists each mode and variant as a separate entry, such as upscalers, background removers and the Nano Banana Pro modes, which is why the count is higher. Ids can change between releases, so model list is the source to trust. If you see "Unknown model", check the id for typos and run higgsfield model list to find the current identifier.
+
+As an example of model get, Seedance 2.5 shows four modes: text to video, reference-based generation (omni_reference), video edit and video extension. The defaults are 5 seconds at 720p with audio on, it accepts up to 50 reference items, and a draft option is priced lower for previews.
+
+How to Use Soul ID From the Terminal
+
+Soul ID is how Higgsfield handles character consistency. In the CLI it takes three commands.
+
+1. Train the character. Repeat --image for each photo, up to 20 per character, which is the CLI's limit. The flag accepts local paths or upload ids. --soul-cinematic trains the Soul Cinematic variant.
+
+higgsfield soul-id create --name <name> --soul-2 --image ./photo1.jpg --image ./photo2.jpg ...
+
+2. Wait for training. Use the id returned by the first command.
+
+higgsfield soul-id wait <soul_id>
+
+3. Generate with the character. The same id works in any compatible image model.
+
+higgsfield generate create text2image_soul_v2 --prompt "..." --soul-id <soul_id> --wait
+
+Characters trained on the web and in the CLI are stored in the same account, so a Soul ID created in the browser can be called from a script the next day. Soul ID helps keep a character's identity consistent across generations; results still vary from shot to shot. Use photos that you own or have permission to use.
+
+How to Use the CLI in Scripts and AI Agents
+
+Two features make the CLI usable without a person at the keyboard:
+
+--json works on every command and returns raw records.
+Local file paths passed to --image, --video or --audio are uploaded automatically.
+
+The examples below require Bash and jq. Without --wait, generate create returns at once with the new job id, so the first loop starts one video job per line in a prompt file and saves the ids:
+
+while IFS= read -r prompt; do
+  higgsfield generate create seedance_2_5 \
+    --prompt "$prompt" --duration 5 --json | jq -r '.[]' >> job_ids.txt
+done < prompts.txt
+
+In our test, a call without --wait printed ["251557f4-..."], a one-element list with the job id, and the generation continued on the server. The second loop waits for each saved id and prints its record, including result_url:
+
+while IFS= read -r id; do
+  higgsfield generate wait "$id" --json
+done < job_ids.txt
+
+A separate pipeline from the README lists completed results from the whole generation history, including older jobs, which is useful for a quick look but not for collecting one batch:
+
+higgsfield generate list --json | jq -r '.[] | select(.status=="completed") | .result_url'
+
+Coding agents use the same tool. Claude Code, Codex, OpenClaw and Hermes connect to Higgsfield through CLI + Skills, and the agent can run the setup itself: install the package, run auth login for you to approve in the browser, then add the companion skills with npx skills add higgsfield-ai/skills. Skills are preset workflows for tasks such as ads, UGC videos and faceless content, listed on the Skills page. The ready-to-paste setup message is on the CLI page and in the Help Center.
+
+Cursor also supports CLI + Skills alongside its marketplace integration. Claude on the web connects through MCP, and ChatGPT uses the official Higgsfield Plugin. Both routes are in How to Generate AI Videos With AI Agents.
+
+Who This Is For
+
+The CLI fits people who already work in a terminal: developers wiring generation into a build step, technical creators who batch dozens of clips from a prompt file, and anyone running Claude Code, OpenClaw or Hermes who wants the agent to produce images and video without a browser tab. If your workflow is mostly manual and relies on models included in your Unlimited web access, generating on higgsfield.ai may use fewer credits, because Unlimited does not apply through the CLI. If you generate from scripts, the CLI takes the interface out of the loop. Everything it produces lands in the same Assets library, uses the same Soul characters and draws from the same credit balance as the web app and MCP.
+
+HOW TO GENERATE AI VIDEO FROM YOUR TERMINAL WITH HIGGSFIELD CLI
+Install Higgsfield CLI

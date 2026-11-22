@@ -1,0 +1,143 @@
+【项目】萬聖節 AI 貓貓派糖影片教學：CHATGPT × HIGGSFIELD，附 17 個 EMOJI 指令（@quinqueen · 创作者博客）
+【链接】https://higgsfield.ai/@quinqueen/blogs/ai-chatgpt-higgsfield-17-emoji
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+萬聖節 AI 貓貓派糖影片教學：CHATGPT × HIGGSFIELD，附 17 個 EMOJI 指令
+@quinqueen
+27
+0
+0
+
+ChatGPT Plugin 連結
+
+
+
+
+呢種萬聖節貓貓派糖影片，真係超可愛！紫色女巫拎住南瓜糖果桶，一隻黑貓喺煙霧入面探頭拎糖，仲可以用自己張相做主角。
+
+今次教你用 ChatGPT 準備造型，再用 Higgsfield 製作動畫。同一張相仲可以延伸成 Pumpkin Queen，玩埋南瓜國王特效。文末整理咗 17 個 Halloween emoji 指令，方便直接複製。
+
+開始之前，準備一張清晰人像相
+
+揀一張五官清楚、面部冇遮擋、光線充足嘅相。以下流程分兩部分：先生成靜態造型，再將圖片做成影片。教學影片用直向 9:16；文章封面則用橫向構圖。
+
+示範一｜女巫貓貓派糖影片
+Step 1：輸入 /halloween，加上女巫造型提示詞
+
+
+
+
+喺 ChatGPT 上載自己張相，先寫「/halloween」作為主題提示，再貼上下面嘅內容。重點係保留你個樣，加入紫色女巫帽、斗篷、南瓜桶，同埋由門眼望出去嘅魚眼視角。
+
+圖片提示詞：
+
+Transform the person in my uploaded photo into a photorealistic Halloween trick-or-treater, preserving their facial features and identity. Show them standing outside an apartment door, viewed from inside through a circular door peephole. Use a strong fisheye effect, a dark circular border and a metallic peephole rim. Dress them in a purple witch hat and matching cape, holding a small orange jack-o’-lantern candy bucket with both hands. They look directly up at the peephole with a cute, curious expression. Show their full body, with their face appearing slightly larger due to the close fisheye perspective. Use a warmly lit apartment hallway, subtle Halloween decorations and a doormat beneath their feet. Natural skin texture, realistic clothing, cozy and playful mood. No cartoon or 3D-rendered appearance. Vertical 9:16, no text or interface elements.
+
+生成後，先睇清楚五官、雙手同南瓜桶有冇變形，再揀最滿意嗰張做動畫。
+
+Step 2：上載圖片，選擇 Higgsfield
+
+想玩女巫召喚黑貓嘅預設，可以上載圖片、選擇 Higgsfield，再輸入：
+
+/🧙🐈‍⬛
+
+呢個指令對應 The Witch’s Familiar，預設場景係燭光小屋，紫色煙霧會變成黑貓。
+
+如果想做到本文嘅「門眼視角＋貓貓喺南瓜桶拎糖」，就要加上具體動畫描述；單靠 emoji 唔代表會保留呢個分鏡。要優先保留原圖構圖，可以用圖片加以下提示詞提出自訂動畫要求。
+
+貓貓派糖動畫提示詞：
+
+Animate the uploaded image while preserving the woman's identity, witch outfit, apartment hallway, circular peephole framing and fisheye perspective. Keep the camera fixed. 0–2s: The woman smiles into the peephole and raises her pumpkin candy bucket slightly. 2–5s: Violet mist rises from the bucket and forms exactly one tiny black kitten with golden eyes. It peeks over the rim and hooks one wrapped candy with its paw. She glances down with an amused expression. 5–7s: The kitten ducks back into the bucket and dissolves into violet mist. She looks back at the viewer with a mischievous smile, holding the bucket at waist height. Keep the action gentle, anatomically coherent and photorealistic. No extra cats, no scene change, no text. If audio generation is available: playful music-box notes, light pizzicato strings, candy-wrapper rustling, a magical shimmer and one soft kitten meow.
+
+呢段用 7 秒描述動作節奏；實際影片長度按所選模型支援嘅設定調整。音樂同音效亦要視乎生成模式，冇音訊嘅版本可以喺剪片時補上。
+
+示範二｜同一張相，變成 Pumpkin Queen
+Step 1：攞返第一張生成嘅女巫相
+
+
+
+
+唔使由頭再整！將第一張女巫相放返入 ChatGPT，叫佢保留你個樣、姿勢同門眼視角，只將造型改成南瓜女王。
+
+簡短改圖提示詞：
+
+/Pumpkin Queen
+
+呢度嘅「Pumpkin Queen」係你想要嘅造型描述。補上「保留身份同構圖」會令要求更清楚，唔使重新寫成大段背景設定。
+
+Step 2：配上南瓜 emoji，製作南瓜國王特效
+
+將新相上載，選擇 Higgsfield，再輸入：
+
+/🎃
+
+呢個指令對應 Pumpkin Monarch：主角戴住藤蔓皇冠，周圍嘅南瓜燈接連亮起，營造南瓜王國嘅氣氛。用 Pumpkin Queen 造型相做參考，就可以延伸你嘅南瓜女王主題。
+
+預設可能會重新建立場景，所以原本嘅門眼背景未必會保留。想固定背景，就喺自訂動畫要求入面講清楚要保留邊啲元素。
+
+收藏｜17 個 Higgsfield Halloween emoji 指令
+
+用法：上載清晰人像相片 → 選擇 Higgsfield → 輸入完整指令。記得保留最前面嘅斜線「/」，兩個 emoji 嘅組合亦要一齊複製。
+
+/🎃 ｜南瓜國王
+戴住藤蔓皇冠，喚醒一片發光南瓜燈。
+
+/🧙 ｜午夜魔法
+月夜森林入面，從魔法鍋召喚綠色煙霧。
+
+/🧙🐈‍⬛ ｜女巫黑貓
+燭光小屋入面，紫色煙霧變出一隻黑貓。
+
+/🧛 ｜古堡吸血鬼
+月光古堡、吸血鬼造型同遠處蝙蝠。
+
+/🧛🦇 ｜吸血鬼與蝙蝠群
+蝙蝠群喺古堡露台上環繞主角。
+
+/👻 ｜鬼屋幽靈
+變成半透明幽靈，穿過大宅房門。
+
+/🐺 ｜滿月狼人
+滿月之下，逐漸變成半人半狼。
+
+/👽 ｜外星人現形
+UFO 掃描光線揭示外星人造型。
+
+/💀 ｜半人半骷髏
+移動光帶帶出半人半骷髏效果。
+
+/💀🔥 ｜藍色火焰骷髏
+藍色火焰映出骷髏造型，並形成背後光環。
+
+/🧟 ｜喪屍覺醒
+主角變成喪屍，身後城市霧氣浮現人影。
+
+/🧟🪦 ｜喪屍破土而出
+喪屍喺月光薄霧中，慢慢從墳墓起身。
+
+/😈 ｜惡魔覺醒
+彎角同一對暗黑翅膀逐漸出現。
+
+/🤡 ｜廢棄馬戲團
+浮現小丑妝容，身後廢棄旋轉木馬亮起。
+
+/🕷 ｜巨型蜘蛛王座
+坐喺蛛網王座上，巨型蜘蛛從身後現身。
+
+/🕯 ｜魔鏡倒影
+本人不動，鏡中倒影卻自己微笑同側頭。
+
+/🎃🏚 ｜鬼屋甦醒
+南瓜燈點亮門廊、窗戶，大門慢慢打開。
+
+想整得自然，記住三個小細節
+先確認張相，再做動畫。五官、雙手同道具喺靜態圖已經清晰，會更容易判斷動畫有冇走樣。
+一段影片集中一個效果。例如黑貓探頭、拎糖、縮返入桶，動作簡單會更容易睇清楚。
+分清楚預設同自訂分鏡。emoji 適合快速試主題；想保留門眼、指定貓貓數量同動作，就要寫清楚提示詞。
+
+先收藏呢篇，揀一個最鍾意嘅造型試玩。由可愛貓貓到南瓜女王，一張相就可以發展出兩個萬聖節創作方向！
+
+指令清單於 2026 年 10 月 26 日按 Higgsfield 連接工具目錄核對；可用效果及生成設定以當時介面為準。本文封面為 AI 生成示意圖。

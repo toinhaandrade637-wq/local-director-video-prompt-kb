@@ -1,0 +1,26 @@
+name: Knowledge and Skill checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check references, provenance, links and publish scope
+        env:
+          KB_BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: python3 维护/check_kb.py --base-ref "$KB_BASE_REF"
+      - name: Regression tests for invalid and valid knowledge states
+        env:
+          KB_BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          if git diff --quiet "$KB_BASE_REF" HEAD -- '维护/*.py'; then
+            echo 'Content update; maintenance-code regression tests skipped.'
+          else
+            python3 维护/test_kb.py
+          fi

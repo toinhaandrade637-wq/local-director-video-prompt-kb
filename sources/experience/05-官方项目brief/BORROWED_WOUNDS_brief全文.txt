@@ -1,0 +1,242 @@
+【项目】Borrowed Wounds（@jeffzambrano · 社区项目）
+【链接】https://higgsfield.ai/zh/@jeffzambrano/projects/borrowed-wounds
+【数据】计数未取到（见项目页）
+【捕获】2026-10-28（浏览器"项目简报"面板）
+
+──────────────────────────────────────
+
+Every cut meant for Sadao Kiri opens on Rokuro Hane instead. That is the law of Onaga, and
+
+Hane has knelt at the edge of the sand for twenty-six years so his swordsman can fight
+
+without bleeding. In the final of the tournament there is no clean skin left on him, and
+
+Kiri does the one thing the law does not forgive: he kneels for the man who has always
+
+knelt for him.
+
+✨ Context
+
+In the duels of Onaga, no swordsman fights alone. Each one enters the sand with a second who kneels
+at the edge, and for as long as that second keeps his knees on the ground, every wound meant for the
+swordsman opens on the second instead, in the same place and to the same depth. The second may stand
+up whenever he wants. The moment he does, the duel ends, his lord loses, and the loss is a disgrace
+that follows him out of the field.
+
+
+
+
+Bible: https://labs.ohwow.es/movies/borrowed-wounds/#/portada
+
+🎭 Narrative
+
+Rokuro Hane is fifty. For twenty-six years he has knelt for Sadao Kiri, and nineteen victories have
+
+left his body covered in scars, many of them opened on top of older ones. Before every duel he
+
+spreads the same linen cloth under his knees, darkened and stiffened by decades of blood.
+
+
+
+
+On the morning of Kiri's duel, Hane watches another second stand up after the first wound. The fight
+
+stops instantly. As the defeated swordsman walks off the sand in disgrace, the people at the edge
+
+call his second a coward, and Hane turns his face away in contempt. When the young man passes close
+
+and looks for his eyes, Hane does not give them.
+
+
+
+
+Hours later Kiri faces Toshiro Mabe, twenty years younger. Hane spreads the linen and kneels. Kiri
+
+puts an open palm on his shoulder and says three words. The duel begins, and every cut that should
+
+open Kiri's skin opens on Hane instead: the shoulder, the chest, and finally the neck. The neck is
+
+the line the film has been counting toward: after it, there is no clean skin left on Hane to take
+
+the next one. For the first time in twenty-six years Hane lifts his face toward the man he has spent
+
+half his life protecting. Kiri reads that look as endurance, gives him a short nod, and attacks
+
+again.
+
+
+
+
+What Hane has to do now is stand up. He cannot. And his hand, slipping off his thigh, comes down on
+
+a fold of the cloth he has knelt on for twenty-six years and never once turned over.
+
+🎨 Visuals
+
+The duel is in the frame and the film is not about it. Forty per cent of the running time is eight
+
+continuous handheld takes of steel, and every wound they land opens somewhere else, on a man who is
+
+not fighting.
+
+
+
+
+LIGHT. Natural daylight only, one source, and its disc is never in frame. At dawn the sun has just
+
+risen behind the pine trunks and rakes almost horizontally: every trunk throws a ten-metre shadow and
+
+cuts the sand into bright bars and dark bars, warm on what it touches and cold blue on what it
+
+misses, four stops between the two. At noon the same sun sits almost overhead, the shadows shorten to
+
+a hard line under the brow and the nose, and a weak bounce off the pale sand fills the underside of
+
+every face. No fill, no rim light, no lens flare. The move from one hour to the other is the only
+
+lighting change in the film, and it works as the clock.
+
+
+
+
+CAMERA. Spherical primes from 35mm to 100mm, and one height for the whole film: the chest of a
+
+standing man. The camera stays up there while Hane goes down, so every shot of the kneeling man is
+
+looked at from where the onlookers are standing. That height breaks exactly three times, and each
+
+break is a beat: twice straight down over the cloth, and once at the kneeling man's own eye level,
+
+for the only moment in the film when one person touches another.
+
+
+
+
+COLOUR. A world with almost no chroma and one saturated colour that lives only in cloth: pale raked
+
+sand, undyed linen, dark robes and a wall of near-black pine read as a single neutral scale, and the
+
+only red in the frame is the deep madder of set-in staining. No fourth colour anywhere. Ninety parts
+
+of the frame to ten.
+
+
+
+
+CLOTH. No cut is ever seen happening: it is seen arriving. First a thin line
+
+opening by itself on the skin, then the linen darkening from the inside by capillary action, fast at
+
+first and slower after, and never a drop that falls. The audience learns to watch the cloth before
+
+the face, and that habit decides who in the room understands the last thirty seconds
+
+first.
+
+SOUND & MUSIC.
+
+
+
+
+Morning is yours
+
+Borrowed
+
+Kizu yo modore
+
+It was done
+
+Rokuro's doom
+
+The Last Shepherd
+
+The Last Samurai
+
+
+
+
+🎬 Production
+
+Video is generated with Seedance 2.5 at 720p, one shot per prompt, with the character and location
+
+references attached so identity and wardrobe hold across the film. Stills are generated with Nano
+
+Banana Pro at 4K.
+
+
+
+
+The film is built on 83 reference images: character plates in three views, individual portraits,
+
+wardrobe sheets, props, and five locations. On top of those
+
+there are 22 wound-state plates, one per stage of damage on each body, so the same cut can be shown
+
+open on one man and closed on another without the geometry drifting between shots.
+
+
+
+
+The film was boarded before the final generation pass: 146 frames, three to five per short shot and
+
+six to twelve per long one, in the film's own 21:9 frame, so the cut could be read shot by shot and
+
+beat by beat. An earlier pass of 21 clips was generated, measured with ffmpeg, and thrown out: the
+
+average shot ran 21 seconds and 191 of those seconds never cut at all. That measurement is why the
+
+film was rebuilt from 12 shots into 38, and why the average shot is now 7.1 seconds.
+
+
+
+
+Locations are two states of the same ground, dawn and noon, plus the exit path, the raked sand in
+
+macro and the strip of trodden earth where the onlookers stand. No sets are reused from anywhere
+
+else and no stock material is used.
+
+🚀 Status
+
+Script and shot breakdown locked at 38 shots, with duration, hour, camera height, lens, location and
+
+cast fixed for each one. All 83 reference images generated and approved. All 22 wound-state plates
+
+generated. The complete board is drawn: 146 frames across the 38 shots, reviewed one by one against
+
+the shot list.
+
+
+
+
+What remains is the generation pass over the locked board, the cut, sound design over four
+
+materials, and score.
+
+🔗 Resources
+
+Production bible: premise, world rule and its limits, character arcs, theme, visual tone and the full
+compliance checklist against the festival rules.
+
+Character sheets: three-view plates and portraits for the six speaking bodies, plus 22 wound-state
+plates covering every stage of damage on each of them.
+
+Locations and props: five locations in two lighting states, and the objects the story actually turns
+on, including the linen cloth that carries the ending.
+
+Storyboard: 146 frames, grouped by shot, in the film's 21:9 frame.
+
+Shot list: 38 shots with duration, camera height, location, cast, sound elements and the full prompt
+for each one.
+
+Sound plan: the four materials, the three-element ceiling per shot, instrumental music, one main song, chating voices and where silence does the work.
+
+📝 Notes
+
+The title was chosen for what it names. Borrowed Wounds names the mechanism, and borrowed carries the
+
+whole theme in one word: what is borrowed belongs to someone else and has to be given back. Three
+
+earlier candidates were dropped for the same reason in three different forms. Each of them answered
+
+on the poster a question the film spends four and a half minutes asking.

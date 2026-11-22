@@ -1,0 +1,164 @@
+【项目】HIGGSFIELD GENJUTSU INFINITE ADS PROMPTS（@aifavmag · 创作者博客）
+【链接】https://higgsfield.ai/@aifavmag/blogs/higgsfield-genjutsu-infinite-ads-prompts
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HIGGSFIELD GENJUTSU INFINITE ADS PROMPTS
+ai.favmag AI studio
+@aifavmag
+208
+0
+0
+원본 영상 하나를 새로운 제품 영상으로 확장하기
+
+안녕하세요, 에페매거진입니다. 댓글 남겨 주셔서 감사합니다🩵
+
+이번에는 Higgsfield Genjutsu Infinite Ads를 활용해 기존 영상을 새로운 제품 콘텐츠로 확장하는 워크플로우를 소개합니다. 나무젓가락에 실버 링을 걸어 촬영한 원본 영상을 바탕으로, 젓가락을 꽃으로 바꾸고 배경과 조명을 다르게 연출하였습니다. 제품의 특징과 원본의 움직임은 유지하도록 요청하면서, 서로 다른 분위기의 제품 영상 세 가지를 만드는 과정을 참고해 주세요! 
+
+
+
+
+*본 가이드는 에페매거진이 팔로워 여러분을 위해 제작한 요약 자료입니다. 사전 동의 없는 무단 복제, 배포 및 재생산을 금지합니다.
+
+01. 시작하기 전에 준비해 주세요
+
+원본 영상
+
+나무젓가락에 실버 링을 걸어 촬영한 영상을 준비해 주세요. 제품의 형태와 표면 질감이 선명하게 보이고, 움직임이 부드럽게 이어지는 영상이 좋습니다.
+
+
+
+
+레퍼런스 이미지
+
+나무젓가락을 대체할 꽃과 원하는 배경이 담긴 이미지를 준비합니다.
+
+
+
+
+제작 버전
+
+	
+
+꽃 레퍼런스
+
+	
+
+배경 연출
+
+
+
+
+1번 영상
+
+	
+
+흰색 호접란 가지
+
+	
+
+따뜻한 밝은 회색 배경
+
+
+
+
+2번 영상
+
+	
+
+흰색 칼라 한 송이
+
+	
+
+따뜻한 밝은 회색 배경
+
+
+
+
+3번 영상
+
+	
+
+로즈 핑크 오키드
+
+	
+
+짙고 차분한 올리브 그린 리넨
+
+02. Higgsfield에서 작업하는 순서
+Chat GPT에서 Higgsfield 플러그인 연결 후 /Genjutsu 입력https://higgsfield.ai/s/higgsfield-genjutsu-infinite-ads-ig-ai-favmag-lIdHdT
+원본 영상과 사용할 레퍼런스 이미지를 추가합니다.
+아래 프롬프트를 입력하고 원본에 맞지 않는 부분을 수정합니다.
+화면에 표시되는 생성 조건과 사용 크레딧을 확인한 뒤 생성합니다.
+완성된 영상을 원본과 비교하며 제품과 움직임을 점검합니다.
+03. 1번 영상 — 흰색 호접란으로 연출하기
+
+준비할 이미지: 흰색 호접란 가지 레퍼런스
+
+복사해서 사용하는 프롬프트
+
+KEEP EXACTLY AS IN THE SOURCE VIDEO: the three silver rings are the real product and must stay faithful and fully visible for the whole video: the same three hammered, textured silver rings with the same shapes, widths, surface texture, shine, spacing, positions and tilts. Do not change, replace, restyle, recolor, hide or add any ring. Also keep the same hand, skin, fingers and the small ring on the hand, every hand movement and tilt on the same frame, the camera framing and movement, timing and all original audio. Do not add any cuts. The video stays one continuous shot exactly like the source.
+
+CHANGE 1, ORCHID BRANCH, for the whole video from 0.00s: only the pair of wooden chopsticks is replaced by the white phalaenopsis orchid branch from the reference image. The hand holds the thin brown knotted woody stem exactly where it holds the chopsticks; the stem runs straight and horizontal through all three silver rings, which stay threaded on the stem at the same spots and are never covered by petals. Beyond the rings, at the right end where the chopstick tips are, two to three creamy white orchid blooms with soft yellow centers and two small olive-green buds. The blooms stay to the right of the rings and never overlap them. Same angle as the chopsticks, moving with the hand. No chopsticks remain.
+
+CHANGE 2, BACKGROUND AND MOOD, for the whole video from 0.00s: the background becomes the plain seamless warm light-grey paper backdrop. Soft diffused studio light from the upper left with gentle shadows.
+
+04. 2번 영상 — 흰색 칼라로 연출하기
+
+
+
+
+준비할 이미지: 흰색 칼라와 따뜻한 밝은 회색 배경이 담긴 레퍼런스
+
+복사해서 사용하는 프롬프트
+
+KEEP EXACTLY AS IN THE SOURCE VIDEO: the three silver rings are the real product and must stay faithful and fully visible for the whole video: the same three hammered, textured silver rings with exactly the same size in the frame, shapes, widths, surface texture, shine, spacing between them, positions along the object and tilts as in the source. Do not change, shrink, move, bunch together, replace, restyle, recolor, hide or add any ring. Also keep the same hand, skin, fingers and the small ring on the hand, every hand movement and tilt on the same frame, the camera framing and movement, timing and all original audio. Do not add any cuts. The video stays one continuous shot exactly like the source.
+
+CHANGE 1, CALLA LILY, for the whole video from 0.00s: only the pair of wooden chopsticks is replaced by the single white calla lily from the reference image. Its smooth green stem is as thick and as long as the chopsticks, held by the hand exactly where it holds the chopsticks, running straight and horizontal through all three silver rings, which stay threaded on the stem at exactly the same spots and spacing as on the chopsticks. The white trumpet-shaped bloom sits only at the far right end where the chopstick tips are, well to the right of the rings, and never overlaps them. Same angle as the chopsticks, moving with the hand. No chopsticks remain.
+
+CHANGE 2, BACKGROUND AND MOOD, for the whole video from 0.00s: the background becomes the plain seamless warm light-grey paper backdrop from the reference image, filling the whole frame, with no large shadows or other objects. Soft diffused studio light from the upper left with a gentle soft shadow under the stem.
+
+05. 3번 영상 — 핑크 오키드와 리넨으로 연출하기
+
+준비할 이미지
+
+첫 번째 레퍼런스: 로즈 핑크 오키드
+두 번째 레퍼런스: 짙고 차분한 올리브 그린 빈티지 리넨
+
+복사해서 사용하는 프롬프트
+
+KEEP EXACTLY AS IN THE SOURCE VIDEO: the three silver rings are the real product and must stay faithful for the whole video: the same triple-band silver ring on the left and the two hammered, textured silver rings to its right, with the same shapes, widths, surface texture, shine, spacing, positions and tilts. Do not change, replace, restyle, recolor or add any ring. Keep the camera framing, the slow camera movement, timing and all original audio. Do not add any cuts. The video stays one continuous shot exactly like the source.
+
+CHANGE 1, FLOWER, for the whole video from 0.00s: only the wooden chopsticks are replaced by the rose pink orchid from the first reference image. Its slender green stem enters from the left edge of the frame exactly where the chopsticks do and runs through all three silver rings, which stay threaded on the stem at the same spots; the rose pink orchid blooms sit at the right end where the chopstick tips are. Same angle as the chopsticks, moving with the camera exactly like them. No chopsticks remain.
+
+CHANGE 2, BACKGROUND, for the whole video from 0.00s: the plain light grey surface becomes the deep muted olive green vintage linen fabric from the second reference image, filling the whole frame, with its fine woven grain and soft mottled tone.
+
+CHANGE 3, LOOK: professional studio lighting with a soft key light from the upper left, gentle fill, crisp highlights on the silver rings and soft shadows of the stem and rings on the fabric.
+
+여러분의 원본 영상으로 시작해 보세요
+
+새롭게 촬영하지 않아도, 이미 가지고 있는 영상에서 다른 분위기의 제품 콘텐츠를 만들어볼 수 있습니다.
+
+
+
+
+원본 영상 하나와 원하는 레퍼런스 이미지를 준비해 보세요.
+꽃과 배경, 조명 연출을 달리해 여러 버전의 콘텐츠를 제작하고, 어떤 표현에 여러분의 고객과 팔로워가 더 반응하는지 직접 테스트해 보시길 바랍니다.
+
+
+
+
+에페매거진은 새로운 AI 도구를 실제 창작에 연결할 수 있도록, 활용 방법과 제작 과정을 전합니다.
+이번 가이드가 여러분의 제품을 새로운 시선으로 보여주는 데 도움이 되길 바랍니다.
+
+
+
+
+기획·편집 | 에페매거진
+팔로워를 위한 AI 크리에이티브 가이드
+
+© 2026 에페매거진. 본 가이드의 무단 복제·배포 및 재생산을 금지합니다.
+
+https://www.instagram.com/ai.favmag/

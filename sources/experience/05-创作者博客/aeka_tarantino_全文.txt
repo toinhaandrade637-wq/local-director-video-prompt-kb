@@ -1,0 +1,95 @@
+【项目】TARANTINO — KEEP THE MOTION, CREATE YOUR OWN CAST（@aeka · 创作者博客）
+【链接】https://higgsfield.ai/@aeka/blogs/tarantino
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+TARANTINO — KEEP THE MOTION, CREATE YOUR OWN CAST
+@aeka
+84
+0
+0
+
+Keep the dance, camera movement and lens flares. Build your own fantasy-school cast around the source clip below.
+
+What you need
+
+Lisa-01.mp4 is the source motion reference, approximately 30 seconds in 16:9. The downloadable example sheet shows Elara Venn, one fictional adult character in three views. Use her to try the setup, or generate your own character first.
+
+1. Start with the source clip
+
+Attach Lisa-01 as Video 1. Its job is motion, choreography, camera, cut timing and optical flares. Do not use the cover image as a reference.
+
+
+
+
+2. Choose your character
+
+Attach the Elara sheet as Image 1. Its job is face, hair, body and the complete outfit. Three views are one person, not three dancers. You can generate a different adult character with the sheet prompt below.
+
+Character-sheet prompt
+Use case: photorealistic-natural. Create a horizontal 16:9 photorealistic professional character reference sheet of ONE completely new fictional adult woman, 25 years old, named Elara Venn (do not print the name). Three clearly separated vertical views arranged left to right on one seamless light-gray studio backdrop: large head-and-shoulders frontal portrait, full-body front, full-body back. Same exact identity, body, hair and outfit in all three views. She has warm olive skin, dark hazel almond eyes, thick brows, softly angular jaw, a short dark chestnut bob ending at the jaw with a single slim braid tucked behind her right ear, small brushed-brass stud earrings, no glasses. Calm confident expression. Original fantasy art-academy outfit: black knee-length tailored coat with deep forest-green lining and fitted sleeves, asymmetrical overlapping lapels and one simple brass clasp at the waist; white high-neck blouse; charcoal high-waisted wide-leg ankle-length trousers; black lace-up leather ankle boots. No robe hood, no skirt, no tie, no house symbols or striped school palette. Coat worn properly with both arms in sleeves; outfit identical front/back including hem, lining, sleeves and clasp. Hands relaxed at sides, natural anatomy, all fingers correct, full boots visible in the full-body panels. Neutral editorial studio lighting, realistic pores, individual hairs, woven fabric, adult proportions, accurate front/back clothing construction. No action pose, no magic, no weapons, no extra people, no duplicate bodies inside a panel, no text or labels, no logos, no watermark. Output one high-quality three-panel sheet.
+
+
+
+
+
+
+
+
+3. Run Genjutsu and review
+
+Open Genjutsu Motion Control. Start with 480p, 16:9 and the source duration (about 30 seconds). Attach Video 1 and Image 1, then paste the motion-transfer prompt. Check the current price before generating. If the current interface requires shorter inputs, cut at an existing camera cut and use the same sheet for both parts.
+
+This is the motion-transfer prompt adapted for the example cast; this exact example combination has not been video-tested.
+
+Create one 30-second, 16:9 live-action cinematic video with NO AUDIO. Preserve the cuts already present in Video 1; continuous action does not mean replacing the source edit with a new uncut shot. Use Video 1 as the exact motion, choreography, beat timing, blocking, person positions, group staging, camera movement, framing, viewing angles, and edit timing reference throughout the entire clip. Preserve the original event progression; do not invent new choreography, shots, camera angles, or timing.
+
+
+
+
+Use Image 1 as the sole identity AND complete wardrobe reference for the new lead dancer. Replace only the lead woman in Video 1 with this same adult woman consistently in every shot: the exact facial structure, warm olive skin, dark hazel eyes, short chestnut bob with the small braid, and brass stud earrings shown in Image 1. Ignore the gray studio backdrop and the reference-sheet panel layout. Image 1 contains multiple views of ONE person—never create several copies of her and do not give her face to background performers. All other performers are distinct-looking adult students. Preserve their number, screen positions, dance timing and movement paths, including people who enter at the frame edges; never duplicate the lead face across the group.
+
+
+
+
+The lead must wear the complete outfit shown in Image 1: a black knee-length tailored coat with dark forest-green lining and overlapping lapels, a brass waist clasp, a white high-neck blouse, charcoal wide-leg ankle-length trousers, and black leather ankle boots. Match the reference outfit's actual cut, layers, materials, trim, proportions, and visible details. Keep this exact outfit from the first frame to the last, across every turn, occlusion, cut, and reappearance. The coat stays worn on her body with her arms in its sleeves; it must not disappear, turn into a shoulder-draped cloth, or change into a cropped jacket. Fabric may fold and swing naturally with her dance, while garment construction, length, layers, and base colors remain consistent. Preserve lighting-driven changes in brightness without changing the actual clothing colors. Do not copy the original video lead's clothing or redesign the lead's outfit to match the background uniforms.
+
+
+
+
+Replace the setting with an original fantasy art school: light-gray stone hall, softly rounded arches, tall glass windows in copper frames, sunlight coming from the same direction as Video 1. Preserve the spatial relationship of stairs, walkways, floors, all supports, and actor movement. Convert all background performers to adult students in ivory and stone-gray uniforms with copper trim: cropped wrap jackets with trousers or pleated skirts; their uniforms have no house system, no house colors, no school crests, and no striped ties. These background-uniform instructions apply only to the other performers. The lead retains her complete Image 1 outfit throughout and never switches into their uniforms.
+
+
+
+
+Retain the source cart dimensions, wheel spacing, hand-rail positions, direction of movement, load-bearing height and every hand/body contact. Keep the cart and every support at the original position and timing, transforming it only into a copper art-supply cart with worn leather bags. Ensure physically correct hands, feet, torso contact, weight, occlusion, and no floating or clipping.
+
+
+
+
+Precisely retain lens flares from Video 1: their timing, location, direction, colors, and intensity changes. Especially preserve white-gold backlight flares, teal horizontal streaks, edge bloom, and volumetric shafts. Flares must react naturally to camera motion and real occlusion; do not remove flares to clarify faces and do not add flares during moments where Video 1 has none. No added text, no combat, no magic. Realistic human motion, weighted materials, natural lighting and shadows. Output must be silent.
+
+
+
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+Make it yours
+
+Change the character and full outfit together, then change the school setting if you want. Keep the motion, camera, timing, support contacts and flare instructions. If you replace the sheet, update its identity and clothing descriptions too.
+
+Check before export
+Check the lead outfit after every turn and cut. The lead sheet overrides the background uniforms.
+Compare actions and cuts side by side before shifting audio. A global delay can fix one moment and spoil another.
+Check close-up identity, hands, feet and flare timing separately. Add your music in the edit and check the final beat.
+
+Source clip: LISA — Tarantino. Character sheet: original tutorial example. Cover artwork is for this guide only.
+
+Guide & design by @anon.media_

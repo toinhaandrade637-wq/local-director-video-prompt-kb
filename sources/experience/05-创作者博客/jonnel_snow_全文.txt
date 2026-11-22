@@ -1,0 +1,142 @@
+【项目】HOW I MADE MY SNOWY MINECRAFT REEL（@jonnel · 创作者博客）
+【链接】https://higgsfield.ai/@jonnel/blogs/snow
+【提示词块】7
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I MADE MY SNOWY MINECRAFT REEL
+J
+Jonnel Cayabyab
+@jonnel
+28
+1
+0
+
+I wanted to see what it would feel like to spend a quiet evening in Minecraft. Here’s the simpler version of my workflow: make your character, use the references below, then generate a few short scenes.
+
+Watch the finished reel
+
+1. Make your character
+
+Upload a clear selfie and a clothed full-body photo of yourself. Use the prompt below with GPT Image 2.5 Sunburst, 4:3. Keep the sheet you like and reuse that same image in every video scene.
+
+The example below is mine — create your own instead of using my face. These prompts are adapted for your own character, so results will vary.
+
+Use image 1 as the primary face and identity reference and image 2 as the body-proportion reference. Create one photorealistic 4:3 character sheet of this exact person on a flat neutral grey studio background. Preserve their own facial structure, skin tone, hair, facial hair and distinctive marks. Keep their natural build and realistic head-to-body proportions; do not shorten the legs or exaggerate the head. Three clean panels: full-body front three-quarter view, full-body rear three-quarter view, and a large head-and-shoulders three-quarter portrait. In the portrait, chin slightly lowered, eyes looking directly at the camera, relaxed attentive expression and natural asymmetry; no sad expression or forced smile. Outfit in every panel: matte black hip-length puffer jacket with moderate padding, no fur, black crew-neck shirt, a visible silver curb chain, black sweatpants with loose open hems, and clean white low-top Air Force 1 style sneakers. Empty bare hands, no phone. Same person and clothing across all panels. Soft neutral studio lighting, natural skin texture, level camera and undistorted proportions. No scene, snow, text or labels.
+
+See all
+Copy prompt
+Recreate
+2. Save these references
+
+Save the mountain, reverse ground angle and three props below. Keep their designs unchanged across your scenes. The world and items stay blocky; you, the flames, falling snow and steam stay realistic.
+
+Mountain view
+
+Use this for the wide view and to keep the location consistent.
+
+
+
+
+
+
+
+Reverse ground angle
+
+Use this for the foot-slip close-up. The snowy patch stays intact; nothing breaks through to stone.
+
+Campfire
+
+Start with the unlit logs. Seedance creates the real flames when they catch.
+
+Flint and steel
+
+Use this when lighting the campfire.
+
+
+
+
+
+
+
+Cooked steak
+
+Keep this pixel shape. Steam and sizzling sell the heat.
+
+
+
+
+
+
+
+3. Generate the scenes
+
+Open Cinema Studio → Video → Seedance 2.5. Use reference images / Omni mode, 4:3, 1080p, 6 seconds for each clip. Upload the images in the order listed above each prompt. Use your character sheet, not my example. These are asset references, not generated starting frames.
+
+Copy a prompt or use Recreate, then attach its references. Generate the shots separately. Keep the same outfit, mountain and props. No generated music or dialogue; add your chosen track in the edit.
+
+A. A small slip
+
+Attach: 1. Your character sheet · 2. Reverse ground angle./
+
+Create a 6-second continuous shot, 4:3, 1080p. Image 1 locks the person, natural proportions and black winter outfit. Image 2 locks the snowy ground and uphill background. Low waist-down close-up showing both white shoes. The person is ALREADY mid-walk at a normal pace when the clip begins: a normal forward stride, the leading sole briefly slides on a slippery intact snow surface, their weight tips forward, then one natural catch step restores balance. No tentative tiny steps or marching before the slip. The snow stays flat and unbroken: no hole, collapse, debris or newly exposed stone. Any existing stone patch stays behind the action. Camera stays in one place with a mild Dutch angle and a brief handheld jolt at the slip; no tracking or cut. Low sun is offscreen behind camera-right, illuminating the front of the shoes. Cold blue fill, restrained warm highlight halation, subtle grain. Real human, simple Minecraft terrain, realistic drifting snow and clothing motion. Foot scrape, wind and fabric only. No music or speech.
+
+See all
+Copy prompt
+Recreate
+B. Take in the view
+
+Attach: 1. Your character sheet · 2. Mountain view./
+
+Create a 6-second single wide shot, 4:3, 1080p. Use image 1 for the exact person and outfit; image 2 for the mountain layout, spruce on the right, valley and low sun upper-left. The person has already recovered their balance and now stands comfortably on the intact snowy plateau, back three-quarter to camera, looking toward the sunset. No new stumble, hole or gravel. Make the landscape the subject: the person is small in the lower-right third, with the valley filling most of the frame. A barely perceptible slow push-in. One natural weight shift and quiet breath; hands relaxed, no heroic posing. Wind gently moves their hair and jacket; a few real snowflakes drift across the frame. Terrain remains unmistakably Minecraft with block geometry and flat snow layers. Cold blue-grey scene with a narrow warm sunset edge, soft atmospheric haze and restrained film halation. Natural wind only, no music or dialogue.
+
+See all
+Copy prompt
+Recreate
+C. A quiet close-up
+
+Attach: 1. Your character sheet · 2. Your selfie./
+
+Create a 6-second continuous natural close-up, 4:3, 1080p. Image 1 locks the character and black winter outfit; image 2 locks their own facial identity, hair, skin tone and marks. Camera is west of the person looking east; low sunset stays OFFSCREEN behind camera-right, softly lighting their face. Behind them: softly blurred uphill Minecraft snow terraces and spruce, not the west-facing valley. An 85mm portrait feel, focus on the nearer eye. They casually take in the view beyond camera: one small glance left, one back ahead, a normal blink and a quiet inhale. Then a relaxed exhale as they take a normal step forward past the camera. Expression says “nice view”; no dramatic sigh, exaggerated darting eyes or staged smile. Camera has tiny handheld movement but stays in its position and does not follow. Natural hair movement, faint cold breath and a few drifting flakes. Cold blue shadows, gentle warm edge halation, subtle grain. No music, words or voiceover.
+
+See all
+Copy prompt
+Recreate
+D. Light the campfire
+
+Attach: 1. Your character sheet · 2. Your selfie · 3. Campfire · 4. Flint and steel.
+
+Create a 6-second continuous wide shot, 4:3, 1080p. Images 1 and 2 preserve the person, face and black winter outfit. Image 3 is the exact UNLIT pixel-log campfire; image 4 is the exact flint and steel. On a flat snowy Minecraft mountaintop, the person is already kneeling at the campfire, spruce several metres to screen-right with the fire clear of its branches. Camera about 8 metres away to the west-southwest looks east-northeast, showing the person from the front three-quarter angle in the left third, campfire lower-centre and terraced uphill snow behind. Low sunset is offscreen behind camera-right, lighting face and hands. Flint in the left hand, C-shaped steel in the right: two distinct scrapes of steel against flint over the kindling. First fails; second sends a few sparks into the kindling. A small flame catches and grows into real flickering fire between the unchanged blocky logs. Hold for a quiet breath as they relax their hands and watch. No instant giant blaze. Minimal handheld drift, gentle snow and wind, cool blue shadows, faint halation. Flint clicks, wind and crackle only; no music or speech.
+
+See all
+Copy prompt
+Recreate
+E. Pick up the steak
+
+Attach: 1. Your character sheet · 2. Campfire · 3. Cooked steak.
+
+
+
+
+Create a 6-second continuous cinematic shot, 4:3, 1080p. Image 1 locks the exact person and outfit, image 2 the simple Minecraft log campfire, image 3 the pixel-shaped cooked steak. Camera low in front of the person, slightly three-quarter, looking east uphill. The low sun is OFFSCREEN behind camera-right and lights their face and chest. Background is a softly blurred terraced snowbank and a spruce trunk frame-left, not the distant valley. Start focused on the hot pixel steak resting on the edge of a campfire log, away from the flames; it sizzles with thin realistic steam. Real fire flickers between unchanged pixel logs. After about 1.5 seconds the person reaches with their right hand and lifts the steak clear of the fire. Camera makes a gentle tilt following the hand, then racks focus from the steak to their face as the steak stops below their chin. One blink and a small pleased grin, no exaggerated acting. Steam continues rising. Shallow 85mm lens feel, cold ambient fill, restrained warm halation, fine grain. Sizzle, soft crackle and wind; no music or dialogue.
+
+See all
+Copy prompt
+Recreate
+F. Stay a little longer
+
+Attach: 1. Your character sheet · 2. Your selfie · 3. Campfire · 4. Cooked steak.
+
+Create a 6-second single floating wide shot, 4:3, 1080p. Images 1 and 2 lock the person, identity and black puffer outfit; image 3 locks the pixel campfire logs; image 4 locks the pixel steak. Person sits on the edge of the same snowy Minecraft plateau, legs hanging naturally over the edge, quietly holding and eating the steaming steak. Camera floats outside the west cliff looking east toward the person, about 18 metres away and slightly above eye level. Show their front three-quarter view in the right third, about 15 percent of frame height. The campfire and spruce sit safely inland behind them, with cool terraced mountain terrain farther behind. They look toward the OFFSCREEN western sunset behind camera-right; this light softly illuminates their face, not their back. A small casual bite, relaxed shoulders, no camera performance. Camera drifts slowly one metre farther out, no orbit or rapid reveal. Light snowfall has settled; subtle wind, natural steam and real fire against simple pixel logs. Cold blue scene, restrained sunset highlights, gentle halation and grain. Quiet crackling and wind only, no music or dialogue.
+
+See all
+Copy prompt
+Recreate
+4. Put it together
+
+Bring the clips into your editor in order: slip → view → close-up → fire → steak → quiet ending. Keep only the strongest moment from each clip and aim for about 15–20 seconds overall. Let the fire catching and the final view breathe a little longer.
+
+Cut from the slip after you have regained your balance, so the next shot can begin calmly. Keep the sunset on the same side of the world when changing camera angles. Check that your face, outfit, feet and props stay consistent before choosing a take.
+
+Add your music separately, keep the wind and fire low underneath it, and finish with a light touch of grain and halation. That’s it — your own quiet evening in Minecraft.

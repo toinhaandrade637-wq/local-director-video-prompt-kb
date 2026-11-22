@@ -1,0 +1,395 @@
+【项目】HOW CLAUDE OPUS 5.5 MADE A YOUTUBE VIDEO WITH AN AI AVATAR（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/how-claude-opus-5-5-made-a-youtube-video-with-an-ai-avatar
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW CLAUDE OPUS 5.5 MADE A YOUTUBE VIDEO WITH AN AI AVATAR
+@sanjii
+154
+1
+0
+Before You Start
+
+Sanji gave Claude Opus 5.5 a brief: create a complete YouTube video using his AI avatar and cloned voice. The finished episode runs for about four minutes and seventeen seconds, combining a presenter, three demos, on-screen text, music and sound effects.
+
+
+
+
+The opening makes the setup clear. After Sanji’s hook, the avatar introduces itself as Claude and explains that the voice is a clone. The AI remains the narrator through the rest of the episode.
+
+
+
+
+Claude Opus 5.5 handles the production instructions. Higgsfield MCP connects Claude to generation and editing tools. Sanji supplies the source material, editorial direction and feedback.
+
+
+
+
+To follow the workflow, start with the materials the video will reuse. A consistent presenter reference and voice help the episode feel continuous as it moves between the host and the demos.
+
+Stage 1 — Prepare the Assets
+Presenter and Voice
+
+Use your own presenter reference and a clean voice sample, or materials from a presenter who has agreed to their use. Keep the same identity and voice throughout the episode. Make the AI presentation clear to viewers near the beginning.
+
+Demo Footage
+
+This episode features three examples: a Brawl Stars-style game, a headset animation and a Titanic sequence. Collect the relevant footage and original creator links before production so the edit can show the work and credit its source.
+
+Choose clips for what they demonstrate. The game needs a fight that makes the mechanics visible. The headset needs its opening layers, lens close-up and reassembly. The Titanic sequence needs enough uninterrupted playback for viewers to see the ship and camera movement.
+
+Editorial References
+
+Attach the opening hook, a reference video for structure and a writing sample for tone. Include any claims that need verification alongside their sources. These materials give the agent concrete direction for the script and edit.
+
+Stage 2 — The Prompting Framework
+
+A useful production brief describes the finished viewing experience: who speaks, what the audience sees, how the sections connect and what needs checking before delivery.
+
+
+
+
+The prompt below is a new adaptation of the shortened brief in the episode, expanded into reusable production instructions. Copy it into Claude Opus 5.5 with Higgsfield MCP connected, or use the prompt card to open it in Supercomputer.
+
+Create the Complete Episode
+
+What it does: Directs an AI agent to turn supplied presenter references, voice material and demos into a finished YouTube episode, with a documented cost and export review.
+
+Create a complete English-language YouTube video about Claude Opus 5.5 using my supplied AI presenter reference and cloned voice. Aim for approximately four to five minutes, adjusting the script to the footage rather than padding the runtime.
+
+
+
+
+Use the attached presenter reference, voice material, example footage, original creator links, structural reference and writing sample. Identify any essential missing input before generating dependent assets. Use only presenter and voice materials I have permission to use.
+
+
+
+
+Use Higgsfield MCP for the available generation and editing work. Check the current tool capabilities and generation estimates before choosing the production settings. Keep the same presenter identity and voice throughout.
+
+
+
+
+OPENING AND NARRATOR
+
+Start with this hook in my avatar and voice:
+
+“You’re not going to believe how insane this is. I asked Opus 5.5 to create an entire YouTube video using my AI avatar and voice. And what you’re watching right now is the result.”
+
+
+
+
+Then clearly reveal that the presenter is an AI avatar and the voice is cloned. Keep Claude as the narrator for the rest of the video. Any statements about how the episode was produced must match the work actually performed. Acknowledge my supplied materials and feedback.
+
+
+
+
+EXAMPLES
+
+Use the three supplied examples in this order:
+
+1. The Brawl Stars-style playable game.
+
+2. The headset animation.
+
+3. The Titanic animation.
+
+
+
+
+Credit each creator using the original source. Verify claims about tools, build time and duration before including them. Do not invent sources or create substitute footage and present it as the original work.
+
+
+
+
+For the game, select a fight that shows the mechanics and leave a short stretch without narration. For the headset, show the opening layers, lens close-up and reassembly. For Titanic, leave several seconds for the sequence to play on its own.
+
+
+
+
+PRODUCTION EXPLANATION
+
+Show how the script maps to selected footage. Build a short comparison from the headset passage: presenter and voice; then footage and text; then the final music and effects. Make each addition easy to recognize.
+
+
+
+
+Time the narration to what is visible. Keep text readable, preserve useful creator credits, and place music below the voice. Use sound effects where they support a visible movement or cut.
+
+
+
+
+THE BRIEF AND COST
+
+Include a concise on-screen summary of the production brief, labeled as a summary. Explain which materials I supplied.
+
+
+
+
+Track available generation charges and elapsed production time. Distinguish estimates from recorded spending, and separate generation from any other known costs. Do not present the reference estimate of approximately $120 for five to six minutes of presenter footage with voice as an actual bill for this production. Include additional takes in the cost report when their charges are available.
+
+
+
+
+ENDING AND DELIVERY
+
+End by asking viewers what they would like to see built next and inviting an idea in the comments. Mention resources below the video only when those links are actually included in the delivery.
+
+
+
+
+Review the finished export for clipped text, narration-to-shot alignment, audio balance, creator credits and playback problems. Correct any issues found. Report which checks were completed and any remaining limitations.
+
+
+
+
+Deliver the finished video, final script, verified source links, measured chapter timestamps, a cost and production-time report, and a short account of the export review. Do not publish the video.
+
+See all
+Copy prompt
+Recreate
+Stage 3 — Build the Scenes Around the Footage
+Match Each Line to a Visible Detail
+
+The headset passage provides a useful editing pattern: show the lens as the narrator mentions it. Hold the shot long enough for viewers to inspect the detail, then move with the next line.
+
+
+
+
+The game needs a different treatment. An uninterrupted fight gives viewers time to understand how the character moves and how the shrinking play area affects the action. Cutting away too quickly would hide the behavior the narration is describing.
+
+Let the Pace Change
+
+Give the Titanic sequence a few seconds without narration. That pause lets the animation demonstrate its scale and camera movement.
+
+
+
+
+These choices give each example the time it needs. A detail-led product shot follows the voice closely; a larger animated sequence benefits from room to play.
+
+Add the Sound and Review the Export
+
+To explain the edit, play the same short passage in successive layers: presenter and voice, footage and text, then music and effects. Viewers can compare each version and hear what the final sound mix adds.
+
+
+
+
+For your own version, review the exported file from beginning to end. Check that text fits, the picture matches the narration, and music leaves the voice clear. Include the results of that review in the delivery report.
+
+What Does a Video Like This Cost?
+
+The episode gives an estimate of approximately $120 for one generation pass of five to six minutes of AI presenter footage with voice. Extra takes and regenerated clips would increase that amount.
+
+
+
+
+Use that figure as a planning reference for five to six minutes of presenter generation. The finished episode runs for about four minutes and seventeen seconds; the $120 estimate should not be read as its total production bill.
+
+
+
+
+When making your own episode, check the estimate for your selected settings and record what was actually generated. Track final spending and production time separately. Presenter duration, extra takes and regenerated sections all affect how much production you need.
+
+Ready To Make Your Own?
+
+Gather your presenter reference, voice material, demo clips and editorial references, then adapt the production prompt to your topic. Keep the brief specific about what viewers should see and hear, and ask for a finished export with its sources, costs and review results.
+
+
+
+
+What would you want the next episode to demonstrate?
+
+READY TO MAKE YOUR OWN? 
+GO!
+Before You Start
+
+Sanji gave Claude Opus 5.5 a brief: create a complete YouTube video using his AI avatar and cloned voice. The finished episode runs for about four minutes and seventeen seconds, combining a presenter, three demos, on-screen text, music and sound effects.
+
+
+
+
+The opening makes the setup clear. After Sanji’s hook, the avatar introduces itself as Claude and explains that the voice is a clone. The AI remains the narrator through the rest of the episode.
+
+
+
+
+Claude Opus 5.5 handles the production instructions. Higgsfield MCP connects Claude to generation and editing tools. Sanji supplies the source material, editorial direction and feedback.
+
+
+
+
+To follow the workflow, start with the materials the video will reuse. A consistent presenter reference and voice help the episode feel continuous as it moves between the host and the demos.
+
+Stage 1 — Prepare the Assets
+Presenter and Voice
+
+Use your own presenter reference and a clean voice sample, or materials from a presenter who has agreed to their use. Keep the same identity and voice throughout the episode. Make the AI presentation clear to viewers near the beginning.
+
+Demo Footage
+
+This episode features three examples: a Brawl Stars-style game, a headset animation and a Titanic sequence. Collect the relevant footage and original creator links before production so the edit can show the work and credit its source.
+
+Choose clips for what they demonstrate. The game needs a fight that makes the mechanics visible. The headset needs its opening layers, lens close-up and reassembly. The Titanic sequence needs enough uninterrupted playback for viewers to see the ship and camera movement.
+
+Editorial References
+
+Attach the opening hook, a reference video for structure and a writing sample for tone. Include any claims that need verification alongside their sources. These materials give the agent concrete direction for the script and edit.
+
+Stage 2 — The Prompting Framework
+
+A useful production brief describes the finished viewing experience: who speaks, what the audience sees, how the sections connect and what needs checking before delivery.
+
+
+
+
+The prompt below is a new adaptation of the shortened brief in the episode, expanded into reusable production instructions. Copy it into Claude Opus 5.5 with Higgsfield MCP connected, or use the prompt card to open it in Supercomputer.
+
+Create the Complete Episode
+
+What it does: Directs an AI agent to turn supplied presenter references, voice material and demos into a finished YouTube episode, with a documented cost and export review.
+
+Create a complete English-language YouTube video about Claude Opus 5.5 using my supplied AI presenter reference and cloned voice. Aim for approximately four to five minutes, adjusting the script to the footage rather than padding the runtime.
+
+
+
+
+Use the attached presenter reference, voice material, example footage, original creator links, structural reference and writing sample. Identify any essential missing input before generating dependent assets. Use only presenter and voice materials I have permission to use.
+
+
+
+
+Use Higgsfield MCP for the available generation and editing work. Check the current tool capabilities and generation estimates before choosing the production settings. Keep the same presenter identity and voice throughout.
+
+
+
+
+OPENING AND NARRATOR
+
+Start with this hook in my avatar and voice:
+
+“You’re not going to believe how insane this is. I asked Opus 5.5 to create an entire YouTube video using my AI avatar and voice. And what you’re watching right now is the result.”
+
+
+
+
+Then clearly reveal that the presenter is an AI avatar and the voice is cloned. Keep Claude as the narrator for the rest of the video. Any statements about how the episode was produced must match the work actually performed. Acknowledge my supplied materials and feedback.
+
+
+
+
+EXAMPLES
+
+Use the three supplied examples in this order:
+
+1. The Brawl Stars-style playable game.
+
+2. The headset animation.
+
+3. The Titanic animation.
+
+
+
+
+Credit each creator using the original source. Verify claims about tools, build time and duration before including them. Do not invent sources or create substitute footage and present it as the original work.
+
+
+
+
+For the game, select a fight that shows the mechanics and leave a short stretch without narration. For the headset, show the opening layers, lens close-up and reassembly. For Titanic, leave several seconds for the sequence to play on its own.
+
+
+
+
+PRODUCTION EXPLANATION
+
+Show how the script maps to selected footage. Build a short comparison from the headset passage: presenter and voice; then footage and text; then the final music and effects. Make each addition easy to recognize.
+
+
+
+
+Time the narration to what is visible. Keep text readable, preserve useful creator credits, and place music below the voice. Use sound effects where they support a visible movement or cut.
+
+
+
+
+THE BRIEF AND COST
+
+Include a concise on-screen summary of the production brief, labeled as a summary. Explain which materials I supplied.
+
+
+
+
+Track available generation charges and elapsed production time. Distinguish estimates from recorded spending, and separate generation from any other known costs. Do not present the reference estimate of approximately $120 for five to six minutes of presenter footage with voice as an actual bill for this production. Include additional takes in the cost report when their charges are available.
+
+
+
+
+ENDING AND DELIVERY
+
+End by asking viewers what they would like to see built next and inviting an idea in the comments. Mention resources below the video only when those links are actually included in the delivery.
+
+
+
+
+Review the finished export for clipped text, narration-to-shot alignment, audio balance, creator credits and playback problems. Correct any issues found. Report which checks were completed and any remaining limitations.
+
+
+
+
+Deliver the finished video, final script, verified source links, measured chapter timestamps, a cost and production-time report, and a short account of the export review. Do not publish the video.
+
+See all
+Copy prompt
+Recreate
+Stage 3 — Build the Scenes Around the Footage
+Match Each Line to a Visible Detail
+
+The headset passage provides a useful editing pattern: show the lens as the narrator mentions it. Hold the shot long enough for viewers to inspect the detail, then move with the next line.
+
+
+
+
+The game needs a different treatment. An uninterrupted fight gives viewers time to understand how the character moves and how the shrinking play area affects the action. Cutting away too quickly would hide the behavior the narration is describing.
+
+Let the Pace Change
+
+Give the Titanic sequence a few seconds without narration. That pause lets the animation demonstrate its scale and camera movement.
+
+
+
+
+These choices give each example the time it needs. A detail-led product shot follows the voice closely; a larger animated sequence benefits from room to play.
+
+Add the Sound and Review the Export
+
+To explain the edit, play the same short passage in successive layers: presenter and voice, footage and text, then music and effects. Viewers can compare each version and hear what the final sound mix adds.
+
+
+
+
+For your own version, review the exported file from beginning to end. Check that text fits, the picture matches the narration, and music leaves the voice clear. Include the results of that review in the delivery report.
+
+What Does a Video Like This Cost?
+
+The episode gives an estimate of approximately $120 for one generation pass of five to six minutes of AI presenter footage with voice. Extra takes and regenerated clips would increase that amount.
+
+
+
+
+Use that figure as a planning reference for five to six minutes of presenter generation. The finished episode runs for about four minutes and seventeen seconds; the $120 estimate should not be read as its total production bill.
+
+
+
+
+When making your own episode, check the estimate for your selected settings and record what was actually generated. Track final spending and production time separately. Presenter duration, extra takes and regenerated sections all affect how much production you need.
+
+Ready To Make Your Own?
+
+Gather your presenter reference, voice material, demo clips and editorial references, then adapt the production prompt to your topic. Keep the brief specific about what viewers should see and hear, and ask for a finished export with its sources, costs and review results.
+
+
+
+
+What would you want the next episode to demonstrate?

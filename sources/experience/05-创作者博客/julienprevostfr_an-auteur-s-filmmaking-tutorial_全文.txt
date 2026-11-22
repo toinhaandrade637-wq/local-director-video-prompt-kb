@@ -1,0 +1,262 @@
+【项目】AN AUTEUR'S FILMMAKING TUTORIAL（@julienprevostfr · 创作者博客）
+【链接】https://higgsfield.ai/@julienprevostfr/blogs/an-auteur-s-filmmaking-tutorial
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+AN AUTEUR'S FILMMAKING TUTORIAL
+@julienprevostfr
+17
+0
+0
+✨ Making a work that's yours
+
+Hey, fellow creators! How are you?
+
+
+
+
+You already have tutorials everywhere. Prompts, workflows, camera moves, etc. So let's talk about something else: how to make a real work. Authentic, singular, yours. How to write it, what intentions to hold, what carries us when we create. Because that's what we're all here for, isn't it? Not to generate images. To make films that belong to us.
+
+
+
+
+But first, a quick introduction. My name is Julien Prévost, I'm a French director, trained at Luc Besson's film school in Paris. Fifteen years of career on real sets: commercials, corporate films, television shows, and currently a scripted series for French television.
+
+
+
+
+My conviction is simple, and it's the thread of everything that follows. What separates a work from content isn't the tool, and it isn't even the craft. It's the meaning. A scene can be spectacular, fun, perfectly executed, and evaporate the second it ends. What stays with a viewer, sometimes for years, is a film that meant something and dared to say it. If we want that, there's only one way I know: invest yourself personally, deeply, down to your guts. You lay yourself bare. You are the first viewer of your own film: if it doesn't move you, why would it move anyone? So, dive with me into the creative process.
+
+
+
+
+I'll do it through my latest short film, INCUBUS, which I'll use as my running example. It's fully open source: the whole project is here, images, shots, prompts, generation history. Everything I talk about, you can go and look at. Nothing hidden, no secret sauce.
+
+
+
+
+Ready? Go! 🔥
+
+💡 The original idea
+
+When a new tool arrives, we all have the same reflex: we ask what it can do, and we go looking for an idea that will show it off. I'd suggest flipping the question. Not "what can these models do?" but "what story do I deeply want to tell?" The first question produces demos. The second produces films. The best starting point is almost always a story that's already been living in you.
+
+
+
+
+And a word about the idea itself, because I see a lot of us paralyzed by this. A work is not made by a 100% original, never-seen-before idea. It's made by the treatment: your unique, personal way of seizing it. Think of the great films you love. Most of them don't have an exceptional pitch. I'd even say the greatest films often start from a simple story. So don't wait for "the big idea" like a lottery ticket. Tell what you deeply want to tell, and the singularity will come from you, not from the pitch.
+
+For me, that story was INCUBUS. A man who can leave his body and live inside other people's. I carried it for years: unfinanceable as live action, too strange, too expensive. When AI video became real, I didn't go looking for an idea that would show off the tools. I went back to the one that had never left me.
+
+
+
+
+🧠 The meaning, the part that matters most
+
+Here's what I've come to believe, watching the films that stay with me and the ones that evaporate: what they have isn't a theme or a subject, it's an idea. Something the film actually claims, often uncomfortable, always true. When a film has one, we forgive it almost anything. Some of the greatest films ever made have rough technique, poor image quality, visible seams. They're timeless masterpieces anyway, because they mean something. The reverse is never true, and I think we all sense it: no visual perfection has ever saved an empty film.
+
+
+
+
+Here's mine. INCUBUS is not "screens are bad." It's about our relationship with happiness. Happiness that is yours has weight. It commits you, it can be lost, you feel you must deserve it. Other people's happiness weighs nothing, because you never have to answer for it. That's why we scroll. Not because our lives lack joy, but because someone else's joy is the only kind we can consume without owing it anything. Pascal said all human misery comes from not being able to sit quietly in a room. My character has the supernatural version of the problem. We have the tactile version in our pockets. And his power is the saddest part: perfect empathy, the ability to fully inhabit another human being, and he only uses it to run. A man who can live inside anyone except himself.
+
+
+
+
+Every choice in the film answers to that idea. That's what "the meaning comes first" means in practice: it's not a message we add at the end, it's the judge of every decision we make along the way.
+
+
+
+
+🖋 Writing & narrative choices
+
+First rule: write for your format. INCUBUS existed in my head as something much bigger, and I rewrote it ruthlessly to hold in six minutes. A short film is not a small feature, and the worst thing we can make is a short that feels like a truncated feature: too many characters, too many scenes, a story visibly amputated. A short is one idea, driven all the way in. Choose what your six minutes are really about, and sacrifice everything else without regret.
+
+
+
+
+The whole film is a first-person address. The narrator speaks to YOU, from inside his own head, and the film ends by turning the question on you: "How long have you been living inside other people's lives?" That device came from the meaning, not from a style choice. A film about living by proxy had to make the viewer live by proxy, then catch them doing it.
+
+
+
+
+Two writing choices I care about. First, my character isn't traumatized by something he did. He's traumatized by something someone else did. As a child he entered the head of a monster and felt evil from the inside. I find that idea fascinating: that a person can be marked for life by the darkness of others, without being guilty of anything. It changes everything about how you feel for him.
+
+
+
+
+Second, the ending is built as a lived experience. The middle of the film deliberately makes you forget what the character is running from. No dates, no sense of time passing, just the intoxication of the borrowed lives. So when he stumbles on his own body, eighty years old, asleep for forty years, the time hits you the way it hits him. That's what I'm chasing overall: uniting the empirical experience and the philosophical idea underneath, so the film doesn't just say something, it makes you live it.
+
+
+
+
+🎨 Remove everything standing between your mind and the machine
+
+I made 200+ reference images before generating a single second of video. Character sheets locking my protagonist's face at three ages (9, 30, 80), every set from multiple angles, frame references for key compositions. But the point isn't the bible itself. The point is that the video generation phase, the moment we're actually directing, should stay purely creative and passionate to live. Every inconsistent face we have to fix, every prompt we rebuild from scratch, every detail we re-explain is friction. And friction is a brake between your mind and the machine. Prepare everything that can be prepared, so that when inspiration is hot, nothing slows it down.
+
+
+
+
+Two practical tricks. One: name your references and connect them everywhere. Every prompt calls its @references explicitly, so the model never guesses who or where. Two: I compiled the entire bible into a single PDF (characters, sets, @handles, story, terminology) and gave that one document to Claude, my prompting partner. One shared source of truth means every conversation starts with the film already loaded. You talk intentions, the AI already knows your world.
+
+
+
+
+🔊 Sound first, like an army of brushes
+
+I work sound-first, and here's the real reason. When I edit in Premiere, I go into a kind of trance, and a trance doesn't survive interruptions. So before I start cutting, everything is already there. The music, made very early. 200 sound effects generated in advance. The voice-over recorded upfront on ElevenLabs. I need all of it under my hand like a painter needs an army of brushes and colors ready mid-painting. Sometimes I lay the sound before the picture even exists. Then, as the cut reveals what the film actually is, I regenerate sounds and rewrite the VO to sharpen my intentions. Same principle as the preparation: the less weight between our creativity and the fabrication process, the more of our soul ends up on screen. Picture cuts to sound, never the other way. Half a film's emotion is in the audio.
+
+
+
+
+🎲 Accepting the machine's share of chance
+
+AI generation has a random part, and we have to make peace with it, in both directions. There are shots you have precisely in your head, shots your film absolutely needs. Fight for those, and your weapon is the reference images you built upfront. But the AI will also hand you things that betray your intentions. Learn to throw them away without mercy, even when they're beautiful. And sometimes it will hand you marvels you never imagined.
+
+
+
+
+Let me make a confession: this is exactly what a director feels on a real set. On most shoots, the director does NOT have every frame precisely in mind. He has a crew he trusts, and that crew proposes. A DP frames something you hadn't thought of. An actor plays a beat in a way that surprises you. And something magical happens, a glorious moment that goes beyond the director's thought yet sits in total harmony with his intentions. Directing has never been controlling everything. It's holding the intention firmly enough to recognize those moments when they appear, and seize them.
+
+
+
+
+🌅 The image: what do we want them to feel?
+
+Here's how I think about every image, and I say it without shame because it's the job: we're playing with emotions, constantly. Before every frame, one question. What do I want people to feel seeing this, given my story, given my intentions? Not "what would look good." What should they feel.
+
+
+
+
+Light first. My hospital finale bathes in a very warm, orange light: one natural window source, heavily filtered by the curtains, never raw. Because forty lost years had to end in warmth, not under cold fluorescents. Same dialogue, opposite light, opposite film. And when the emotion felt too fragile to survive a fully lit face, I turned the light around: backlit silhouettes, her profile rimmed in gold, the faces half in shadow. A silhouette lets viewers pour their own feelings into the figure. Show less, they feel more.
+
+
+
+
+Costumes and colors carry story too. At the start of the film, the young boy wears a bright red t-shirt: passion, appetite, a kid discovering the world with his strange gift. Nobody in the audience consciously registers it. Everybody feels it. That's what we're after: choices the viewer feels without seeing.
+
+
+
+
+And compose for the feeling, not for the postcard. A vast black ocean with one tiny floating figure isn't "a beautiful wide shot." It's loneliness, stated at scale. Every visual choice, light, color, costume, distance, is a sentence in the story. If we can't say what a choice makes the viewer feel, it's decoration, and we can either cut it or bend it to our intentions.
+
+
+
+
+🎭 Directing AI actors: write behavior, never emotion
+
+Alright, long section ahead, but it might be the most important one: directing actors. Yes, actors. Because here's something I understood along the way: an AI performs like an actor. A talented one who plays your script, but overinterprets everything. So we can direct it the way we'd direct a person. Not with adjectives, with behavior. Here's what worked for me, scene after scene.
+
+
+
+
+Writing the emotion rarely works; writing what it does to the body almost always does. "Sad" gives you a soap opera. A slow blink, lips pressing together, one broken exhale, the chin trembling once: describe the physical trace of the feeling and the feeling appears. Name the feeling and you tend to get its cliché.
+
+
+
+
+The weight of listening is made of delay. This changed my finale. When a character receives devastating words, the instinct, ours and the model's, is to react immediately. I tried the opposite: three full seconds of nothing after her line. He does not react yet, he lies completely still, one very slow blink, the words traveling through forty years to reach him. Then the reaction arrives in stages, each later than expected. Eyes shine, tears spill, chin trembles, and only in the final seconds the smile breaks through. Sequencing the face like beats of music, in order, with timecodes, was a revelation: a delayed reaction reads as depth, an instant one reads as acting.
+
+
+
+
+Distributing the emotion asymmetrically helps enormously. In my hospital scene, she never cries, her eyes stay dry from first frame to last, but her voice breaks. He can't speak, but he carries all the tears. One channel per character, the others locked. Two people doing the same emotion the same way feels like television. The contradiction between a calm body and a breaking voice feels like cinema.
+
+Vocal breaks are worth locating surgically. Her line "But I'm still here" is tender in the body and fractured in the voice: the word catches, an audible crack, a fraction of silence where the voice gives out, then "...here", almost a whisper. I even write the breath she takes to rebuild control before the next line. Vocal mechanics are direction, not decoration.
+
+
+
+
+When an emotion plays false, stepping back helps. Literally. AI, like actors, overacts in close-up. My whole finale is played in backlit profile, near-silhouette, and the emotion survived because I stopped staring at it. If a scene doesn't land, try changing the shot size, the angle, playing it in profile or through a silhouette. And there's the older question worth asking: whose point of view is this scene? Half my fixes were POV changes, not acting changes.
+
+
+
+
+Here's a trick from real sets that works exactly the same with AI. When a scene rings false, turns cheesy, or nothing seems to happen, try inverting a character's direction. Cold instead of sad. Calm instead of furious. The reaction opposite to what you first imagined. You'll be surprised how much truer it can sound. In real life, we rarely react the way we're supposed to.
+
+
+
+
+In two-person moments, letting only one person move changed everything for me. The forehead-to-forehead that ends my film failed as long as both heads moved toward each other. It looked mechanical, choreographed. The fix: she does everything, he receives. His head never leaves the pillow, his eyes follow her coming down and close a fraction before contact. Acceptance, written as a beat. Deciding who gives the gesture and who receives it gives a scene its truth; symmetry tends to kill it.
+
+
+
+
+It also helps to write what the character does NOT do. "No tears, no trembling chin, no scream, no words, lips never moving." The model needs the fence as much as the field. And when forbidding a movement doesn't work, the inverse micro-movement works better: not "his head doesn't lift" but "his head sinks slightly deeper into the pillow." A positive instruction beats a prohibition almost every time.
+
+One last thing: a gesture is a biography. My darkest scene is a POV where you never see the man's face. Only his hands, his walk, his breathing. I wrote the belt coming off "with the economy of a gesture made many times," and that one clause characterizes him more than any close-up could. Objects, hands and habits act too. They deserve direction.
+
+
+
+
+If I had to keep one sentence from all of this, it's the one I typed the most during production: tout est dans la minutie. Everything is in the smallest detail. The model will always offer you 100% of an emotion. Our job is to ask for the 10% that's true.
+
+
+
+
+✂️ Editing: writing with your hands in the matter
+
+For me, editing is a moment of writing. As much as the screenplay, maybe more. The script is the immaterial part of creation: ideas, intentions, architecture. The edit is where you finally get your hands in the matter, where the sketches end and the painting begins. Every cut is a sentence you're writing. It's the moment you truly model your creation, and honestly, for me it's almost religious. I go into a trance, I enter the machine's time, hours disappear. If there's one phase where you should protect your bubble, it's this one. That's the real reason behind my sound-first method: everything ready, nothing to break the trance.
+
+
+
+
+But the trance alone isn't enough, and this is the part worth stealing. Editing lives on a rhythm of two movements: being completely inside, then deliberately stepping back. Between versions, take real distance. Watch your cut like a stranger would. And keep asking the uncomfortable questions: am I still going in the right direction? Is this what I meant? Would someone who knows nothing feel what I want them to feel?
+
+
+
+
+And then: delete, delete, delete. That's the hardest discipline and the most important one. Everything that works against your intentions, everything that drifts from your story, everything that pulls the viewer out of the experience you're building for them, cut it. Even the beautiful shots. Especially the beautiful shots, because those are the ones we defend for the wrong reasons. Your film isn't the sum of your best images. It's the experience you want to leave imprinted in someone's mind, and everything that doesn't serve that imprint is standing in its way.
+
+
+
+
+The good news with AI filmmaking: cutting costs nothing but courage. No producer counting the price of the deleted scene, no crew who shot it in the rain. Just you, your intentions, and the honesty to serve them. And it works the other way too, and this changed my life as an editor: you can do retakes AFTER the edit. A scene almost works but the reaction comes too fast, the look goes the wrong way, the light betrays the mood? You go back to generation and reshoot exactly what the cut needs. The edit stops being the place where you make do with what you have, and becomes the place where you order what's missing. I'll say it plainly: editing an AI film has been one of the best experiences of my editing life. The best remains documentary editing, but it's a close race. :D
+
+
+
+
+🙏 What I'm chasing
+
+The film that cracked my skull open is Lost Highway. That's the cinema I love: cinema that literally opens your head and changes you deeply. Radical staging. Realities that fissure. Stories that reconfigure what you thought you saw. Dark romanticism. Sensory filmmaking. Cinema that innovates, that tries new approaches, that believes totally in its own device. An experience intense both empirically and philosophically. I'm not there. That's the point: it's my quest, my long apprenticeship toward the artists I admire, and AI just gave me a real path to walk it.
+
+
+
+
+So here's what I believe, for all of us making films this way. Technique matters little. The process matters little. We can make art with anything, and obviously with AI. What makes a work authentic is that we put our soul in it and it shows. A meaning we actually believe. A point of view held on every shot. Sound built like a foundation. Light and color shaped by our intentions. And ourselves, somewhere in the frame. Let's be the first viewers of our films, and demanding ones.
+
+
+
+
+❤️ Thank you
+
+Thank you for reading me. I hope some of this helps, that it proves useful to other creators. I'm genuinely happy to be living this moment with all of you. What's happening right now between creators, this level of sharing, is extraordinary.
+
+
+
+
+I wish us all beautiful films. Let's make work so strong that nobody cares anymore whether it was made with AI or not. They'll just have lived through something incredible. Let's make the world dream, together. 
+
+
+
+
+If this was useful and you'd like more, follow me ❤️ I'll keep sharing along the way. And my inbox is open on X : if you have questions about any of this, ask. 
+
+
+
+
+Contents
+✨ Making a work that's yours
+💡 The original idea
+🧠 The meaning, the part that matters most
+🖋 Writing & narrative choices
+🎨 Remove everything standing between your mind and the machine
+🔊 Sound first, like an army of brushes
+🎲 Accepting the machine's share of chance
+🌅 The image: what do we want them to feel?
+🎭 Directing AI actors: write behavior, never emotion
+✂️ Editing: writing with your hands in the matter
+🙏 What I'm chasing
+❤️ Thank you

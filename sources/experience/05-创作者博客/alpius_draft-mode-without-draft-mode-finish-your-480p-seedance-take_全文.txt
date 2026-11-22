@@ -1,0 +1,169 @@
+【项目】DRAFT MODE, WITHOUT DRAFT MODE: FINISH YOUR 480P SEEDANCE TAKE AT 4K（@alpius · 创作者博客）
+【链接】https://higgsfield.ai/@alpius/blogs/draft-mode-without-draft-mode-finish-your-480p-seedance-take-at-4k
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+DRAFT MODE, WITHOUT DRAFT MODE: FINISH YOUR 480P SEEDANCE TAKE AT 4K
+A
+@alpius
+220
+27
+5
+
+Seedance 2.5 Draft mode is no longer available for US accounts. It let you watch a cheap version of a shot, decide, then finish that same take in high resolution.
+
+I rebuilt that loop with tools already on Higgsfield and tested it on six clips, from a quiet workshop to a sword fight and a mass battle: over 3,000 credits of test runs, every finish measured against its draft. Below is the workflow, what each finish costs, a copy-paste prompt, what breaks, and a free Claude skill that runs the whole finish for you.
+
+The short version
+Draft at 480p (30 credits a roll) with your reference images attached. Re-roll until the motion is right.
+Make a depth map of the take you approve (15 credits).
+Finish it one of three ways: A upscale (2 credits, your exact take), B Seedance 2.5 at 1080p (160), or C Seedance 2.0 at true 4K (220).
+How it works
+
+Split the take in two. A depth map of your draft keeps the motion: the camera move, the framing, where every cut lands, the poses, even blade contact. Your reference images keep the looks: faces, outfits, the set, the light. The finish puts the two back together at high resolution.
+
+Seedance has no seed. Only the upscale keeps your exact pixels. B and C are new generations locked to your draft's motion, framing and cuts: the same shot, not the same pixels.
+
+Step 1: Build your references
+
+These images decide how finishes B and C look, so get them right once. I built mine on Nano Banana Pro.
+
+Face: a straight-on headshot, flat shadowless light, a mid-grey backdrop, 2K.
+Outfit: full body in the complete costume, generated from the face image so the face matches. Same grey, 2K.
+Location: one plate for every direction the camera looks. A reverse angle needs its own plate. 4K, in your video's ratio, nobody in it.
+One subject per image. For crowds, one plate per army or uniform so the extras wear the right kit.
+Plates edge to edge. No vignette, no rounded film-frame corners. Seedance 2.0 turned a soft corner into a hard black band in my battle test.
+
+
+
+
+Grey, not white. A mid-grey backdrop gives cleaner edges in video. In every prompt, say the grey background is the reference sheet and not part of the scene, or it leaks into the shot.
+
+Step 2: Draft at 480p
+Model: Seedance 2.5, References tab (not Extend Video).
+References: every image from step 1, in a fixed order. The finish uses the same order.
+Resolution: 480p, about 3 credits a second.
+Duration and ratio: your final ones. The finish copies them.
+
+Judge at 480p: motion and weight, staging, cut rhythm, the performance, whether the idea works at all. Leave for the finish: skin, fabric, small props and background detail. That is what B and C redraw.
+
+Write down the cuts. When a take is right, note the time of every cut, read off the video itself. The draft rarely cuts where the prompt asked, and the finish prompt needs the real times.
+
+Step 3: Make the depth map
+
+Needed for finishes B and C. A depth map is a black-and-white video where brightness means distance from the camera.
+
+Tool: Video › Edit Video › Depth Map.
+Video: the approved draft, nothing else.
+Settings: Color map Grayscale, Resolution Auto, Max frames 1800, Side by side Off.
+Check it before you finish
+
+The depth map only sees what has shape. My battle draft has about 250 arrows in the sky. Its depth map has an empty sky, so no finish can copy them.
+
+Scrub through your depth map next to the draft. Anything missing from it gets redrawn from your prompt, on the model's own timing. If it has to stay exactly as drafted, finish that shot with A. Otherwise describe it in the prompt: when it starts, how dense it gets, which way it moves.
+
+Step 4: Pick your finish
+
+A keeps the take. B and C rebuild it from your references.
+
+Which one for which shot
+Step 5: The finish prompt
+
+One paragraph, four blocks, in this order. The same prompt works for B and C. The first video you attach is @Video 1 (the depth map); the images are @Image 1, 2, 3 in the order you attach them. Fill in the brackets:
+
+Keep the camera movement, the framing, the timing, the hard cuts at [2.63]s and [5.21]s and every movement exactly as shown in @Video 1: Shot 1 (0-[2.63]s) [framing, what happens]; Shot 2 ([2.63]-[5.21]s) [...]; Shot 3 ([5.21]s to the end) [...].
+Video 1 is a grayscale depth map that supplies only the motion, the framing and the timing and none of the look; the picture is in full natural colour with no grey or depth-shaded areas.
+The look comes only from the references: [her] face and hair strictly follow @Image 1, and [her] height, build and full outfit - [outfit in a few words] - refer to @Image 2; the grey background in both is the reference sheet itself, not part of the scene. The [location] refers to @Image 3, which also sets the light and colour of the whole clip.
+The camera hard-cuts only at [2.63]s and [5.21]s and never cuts or moves on its own at any other moment. Sound: the entire video contains only [every sound]; nothing else is heard, no background music, no dialogue, no subtitles, no on-screen text.
+Describe the draft, not your idea. Write each shot as it actually plays, with the cut times you wrote down.
+Point, don't describe. Say which image each thing comes from. Re-describing what an image shows pulls the result away from it.
+Spell out what the depth map can't see. For example: "from 4 s a volley of hundreds of thin arrows rises over the ridge, fills the sky by 5.5 s and dives at the camera."
+List every sound and end with "nothing else is heard". "No music" on its own still gets you a score.
+See the difference
+
+The same crop at the same frame, four ways: the 480p draft, A, B and C.
+
+The face
+
+A sharpens the draft's soft skin. B and C draw new skin, ear and hair detail from the face reference.
+
+Hands on the hilt
+
+Same grip, same angle. B and C draw knuckles, nails and leather that the draft only hinted at.
+
+Blade contact
+
+The bind lands where the draft has it in every version. C gave her plain brass pommel an engraved boss: small props no reference shows up close get re-chosen.
+
+The arrow volley
+
+The sky at 5.7 s. The arrows aren't in the depth map, so both rebuilds drew them from the prompt. B keeps the far swarm on its own timing. C draws fewer, bigger arrows diving at the lens and burns a dark band into the top edge. Only A keeps the draft's volley.
+
+The army
+
+The packed ranks are only faint texture in the depth map. B keeps the block; C spreads it into a thinner charge across open mud.
+
+Watch it move
+
+The sword fight draft at 480p, then the same take rebuilt on Seedance 2.0 at 4K from its depth map and the six references:
+
+Check before you deliver
+
+Put the draft and the finish on two tracks in your editor and step through them together.
+
+Cuts: C can cut up to 4 frames early, B one frame either way. Slip them back, or cut on the finish's own cuts.
+Faces at every cut: same person, outfit, set and light.
+Behind close-ups: the depth map pins shapes, not what sits in a blurred background. B changes it most.
+Small props: pommels, buckles, arrow feathers, shield shapes. Compare them with your references.
+Frame edges: look along the top and bottom of C for dark bands or borders.
+Fast motion: the finishes draw strikes crisper than the draft. Check fast moves still read as fast.
+Audio: B and C make new sound. For the draft's exact sound, lay its audio under the finish.
+Fix one shot, never finish a finish: re-finish only the shot that drifted, always from the approved draft.
+The numbers
+
+Four 10-second 21:9 scenes, one roll per finish. Similarity compares every frame of the finish with the draft (100% means identical pixels). B and C score lower on purpose: they redraw detail from your references.
+
+Also tested:
+
+Stills grabbed from the draft instead of references, on C: 93% close. Keeps the take but adds no detail the draft lacked. Use it when you have no references.
+Seedance 2.5 Edit Video with a quality-only prompt: 97–98% close, keeps the sound, but the web app stops at 720p.
+The raw draft instead of the depth map: 87% on C, 70% on B, but it copies the draft's 480p softness even when told it's a new video. The 2-credit upscale does that job better.
+What it costs
+
+A 10-second 21:9 clip, with three draft rolls to find the take:
+
+For comparison, three rolls made straight at Seedance 2.5 1080p with no draft cost 480. Drafting pays off from the second roll.
+
+Get the skill
+
+I packed the whole finish into a free Claude skill, draft-mode-rerender. Give it your draft and the references you made it with, and it:
+
+reads the draft and finds the real cut times,
+helps you pick A, B or C for each shot,
+prices every paid call before it spends anything,
+makes the depth map and writes the four-block finish prompt,
+and checks the result against the draft frame by frame.
+
+The skill and the full one-page guide:
+
+draft-mode-rerender.zip
+ZIP
+draft-mode-without-draft-mode.pdf
+PDF
+Install
+You need Claude Code with the Higgsfield connector attached, and ffmpeg (on a Mac: brew install ffmpeg).
+Unzip the folder into ~/.claude/skills/.
+Start a session and say "finish my draft".
+What to ask it
+"Finish this draft at 4K. Here are the references I made it with."
+"Upscale my 480p Seedance take and keep the audio."
+"Which finish should I use for this battle shot?"
+"Re-render just the close-up at 4K, keep the rest as it is."
+
+If you only want to see it work first, ask for finish A: it costs about 2 credits.
+
+Questions, or results from your own runs? Find me in the Higgsfield Discord.
+
+Alpius

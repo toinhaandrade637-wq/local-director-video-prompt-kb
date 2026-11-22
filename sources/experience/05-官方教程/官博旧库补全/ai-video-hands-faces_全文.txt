@@ -1,0 +1,238 @@
+【项目】Why AI Video Still Gets Hands and Faces Wrong (And How to Fix It)（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/ai-video-hands-faces
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Why AI Video Still Gets Hands and Faces Wrong (And How to Fix It)
+Higgsfield
+Jul 25, 2026
+10 min
+
+Hands and faces are the two things AI video breaks most often, and the two things a viewer notices fastest. It happens because the model has no memory between frames and has to resolve enormous structural detail, joints, fingers, facial geometry, packed into a small part of the image every time it generates. This guide covers why that happens and what fixes it. For distortion more broadly, see our companion guide on avoiding distortions in AI video.
+
+TL;DR: Hands and faces break in AI video because the model has to guess, with no memory of what it generated a moment ago. The fixes that hold are structural. Soul ID trains a real identity so the face doesn't need reinventing each time. Cinema Studio sets the camera through real parameters. A reference image gives the model an actual gesture to follow. None of this makes the model smarter, it just removes the guessing.
+
+Why Hands and Faces Break More Than Anything Else in the Frame
+
+Hands pack an enormous amount of detail into a small area. Joints bend in specific directions, fingers overlap and curl in ways that are structurally complex even for a human artist to draw. The model has to get the finger count, the joint angles, and the overlap right all at once, in a fraction of the frame. In Cinema Studio, setting the lens, focal length, and aperture based on how much of the frame the hand occupies fixes that density problem directly.
+
+Faces drift because the model has no memory between frames. Every frame is a fresh interpretation of the prompt, not a continuation of a stored identity, so a description like "a woman with dark hair" can produce hundreds of valid faces, a slightly different one each time. Soul ID solves this at the root, training one identity once and applying it as a fixed reference across every generation.
+
+Training data has real gaps around hands specifically. Hands appear gripping, pointing, resting, gesturing, often partially occluded by an object or motion blur, so the model has seen fewer clean examples of a given hand position than it has of a face looking forward at a camera. Uploading a reference image of the exact hand position alongside the character reference on Seedance 2.0 closes that gap directly.
+
+An overloaded prompt gives the model too many things to resolve at once. Describing the face, the hand gesture, the object, the lighting, and the camera all in one dense paragraph splits the model's attention, and hands and faces are the first details to degrade under that load. Moving the camera and lighting into Cinema Studio's settings takes that weight off the prompt, so it can stay focused on the hand or face alone.
+
+5 Tips to Avoid Broken Hands and Faces
+5 Tips to Avoid Broken Hands and Faces
+
+Fix
+
+	
+
+What you do
+
+	
+
+What it removes
+
+
+
+
+Replace face description with a trained identity
+
+	
+
+Train Soul ID 20+ reference photos, apply across every generation
+
+	
+
+The model's need to reinterpret "a woman with dark hair" fresh each time
+
+
+
+
+Use Cinema Studio to control framing
+
+	
+
+Set lens, focal length, and aperture based on how much of the frame the hand or face occupies
+
+	
+
+Ambiguity about how much structural detail the model needs to resolve at that scale
+
+
+
+
+Describe start and end states, not motion
+
+	
+
+State the hand's exact position before and after, not the gesture itself
+
+	
+
+The open-ended motion path the model would otherwise have to invent
+
+
+
+
+Choose a model built for multi-reference input
+
+	
+
+Upload a reference image of the exact hand position alongside the character reference on Seedance 2.0
+
+	
+
+The need to approximate a gesture from text alone
+
+
+
+
+Keep the prompt focused on the hardest detail
+
+	
+
+Describe the hand or face first, with the most specific language, before secondary details
+
+	
+
+Competition for the model's attention from background, lighting, and wardrobe details
+
+Step by Step: Soul ID+Cinema Studio
+
+Step 1: Train a Soul ID. Upload 20+ reference photos of the real person who needs to appear consistently. Vary the angle and lighting across the photos so the trained identity holds up under different generation conditions later. 
+
+Step 2: Set the Cinema Studio parameters for the shot. Choose the genre, lighting preset, lens, focal length, and aperture based on how much of the frame the hand or face occupies. A close macro shot on a hand needs a different depth of field than a wide shot where the face is a smaller part of the frame.
+
+Step 3: Attach a reference image alongside the trained Soul ID. If the shot involves a specific hand gesture or object interaction, upload a reference image of that exact position. This gives the model real visual material for the hardest detail in the shot, not just the trained identity for the face.
+
+Step 4: Write the prompt around start and end states. Describe the hand or face position at the beginning of the shot and the position at the end, rather than describing the motion itself. Keep this description first in the prompt, ahead of secondary details like background and wardrobe.
+
+Step 5: Generate and check the hardest detail first. Review the hand or face before checking anything else in the frame. If it holds up, the rest of the shot is very likely fine. If it does not, adjust the reference image or the start/end description before touching anything else.
+
+Settings Reference
+Settings Reference
+
+Tool
+
+	
+
+Key capability
+
+	
+
+What it fixes for hands and faces
+
+
+
+
+Soul ID
+
+	
+
+Trains identity from 20+ reference photos
+
+	
+
+Face reading as a different person shot to shot
+
+
+
+
+Soul ID
+
+	
+
+Works across Kling 3.0, Veo 3.1, Seedance 2.0, WAN 2.6
+
+	
+
+Same face holding across every model, not just one
+
+
+
+
+Soul ID
+
+	
+
+Persists across Cinema Studio, Marketing Studio, LipSync Studio
+
+	
+
+No re-uploading a face reference per tool
+
+
+
+
+Cinema Studio
+
+	
+
+Per-shot camera control (not text-described)
+
+	
+
+Framing decisions that control how much hand or face detail the model must resolve
+
+
+
+
+Cinema Studio
+
+	
+
+6 lens options, 5 focal lengths, 3 aperture settings
+
+	
+
+Depth of field and scale, so a close macro hand shot gets a different setup than a wide face shot
+
+
+
+
+Cinema Studio
+
+	
+
+10 camera movement styles
+
+	
+
+Predictable motion paths, reducing the ambiguous mid-gesture guessing that produces extra fingers
+
+
+
+
+Seedance 2.0
+
+	
+
+Up to 12 reference inputs per generation
+
+	
+
+Real visual material for a hand position or face, instead of a text approximation
+
+What Happens Without a Trained Identity
+
+Try running the exact same prompt through generation twice, same character description, same scene, same everything, but with no trained Soul ID behind it. What comes back is different faces. Not close variations of the same person, but four people who happen to share a text description. Below is the reference we generated this way on Seedance 2.0 through Cinema Studio, and what actually came out on each run.
+
+The Same Face Across Every Scene
+
+With a trained AI character in place, everything else around them becomes flexible. Switch models, change the location, put them in a completely different action or scene, and none of it touches the one thing that actually needs to stay fixed: the face and the body. Below is that in practice. Same trained character, several different prompts, all run through Seedance 2.0 and Cinema Studio. Here's what came out across each one.
+
+The Fix Is Always the Same Shape
+
+Hands and faces break for structurally different reasons. Hands fail because of raw detail density packed into a small part of the frame. Faces fail because the model has no memory of what it generated a moment ago. But every fix in this guide solves both problems the same way: give the model something concrete to hold onto instead of leaving it to infer.
+
+A trained identity replaces a guessable text description with a fixed object the model applies rather than reinvents. A reference image replaces an ambiguous gesture with a real visual target instead of a guess. Start and end states replace an open-ended motion with two fixed points to interpolate between, rather than an unbounded path the model has to invent on its own. Framing choices in Cinema Studio decide upfront how much structural detail the model actually has to resolve, instead of leaving that decision to chance. None of these fixes make the model smarter. They all just remove the specific ambiguity that was causing it to guess wrong in the first place.
+
+The practical upshot is that distortion in hands and faces is not a quality ceiling you have to accept. It is a symptom of the model working with less information than it needs. Soul ID, Cinema Studio, reference images, and structured prompts are not workarounds bolted onto a broken system, they are the missing information itself, supplied upfront instead of left for the model to guess at mid-generation. Once that information is there, the same model that produced six fingers and a drifting face on the first attempt produces a consistent, correct result on the next one, because the actual generation problem was never a lack of capability. It was always a lack of constraints.
+
+WHY AI VIDEO STILL GETS HANDS AND FACES WRONG (AND HOW TO FIX IT)
+Open Cinema Studio

@@ -1,0 +1,305 @@
+【项目】FIRE TUTORIAL（@sadiesfaction · 创作者博客）
+【链接】https://higgsfield.ai/@sadiesfaction/blogs/fire-tutorial
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+FIRE TUTORIAL
+
+Sep 12, 21:47 · 1 min
+
+FIRE TUTORIAL
+S
+@sadiesfaction
+116
+0
+0
+hiiiiiiii!!!! thank you so much for supporting me!
+
+there are three steps:
+
+Soul ID → still → video.
+
+everything done on higgsfield.ai, prompts are below, just copy & paste ★
+
+1 CREATE YOUR SOUL ID ★
+go to → cinema studio ← on higgsfield.ai
+choose image, and choose SOUL 2.0
+tap "Characters"
+tap "Create character"
+tap "Upload images" → 25+ photos of yourself
+name it, model = Soul 2.0, tap "Create"
+
+photo tips: one person, clear face, multiple angles, a few full-body shots, good lighting. no filters, no sunglasses, no group shots.
+
+2 GENERATE THE STILL ★
+open → Soul 2.0 ← → select your character
+paste a still prompt from below
+generate ★
+3 ANIMATE IT ★
+open Seedance 2.5
+attach your still as the image input
+paste the matching animation prompt from below
+generate ★
+
+
+
+
+STILLS
+CHARACTER
+
+A slightly low angle, full-body shot features a young adult Asian woman standing indoors against a backdrop consisting of orange brick walls, large glass windows, and a metal stair rail, characteristic of a utilitarian public transit station or pedestrian overpass. The subject's winter outfit includes a slightly shiny, oversized taupe quilted jacket with vertical stitching, a black knit beanie hat, and large, rectangular black sunglasses that obscure her eyes. Her long, straight black hair falls over her shoulders, and she wears a long, loose-fitting black skirt that pools slightly at her ankles over bulky black suede boots. She stands with her hands tucked into her jacket pockets and her legs slightly apart, exuding a chilly-weather urban mood. Ambient daylight seeps in from the glass windows above, casting diffuse shadows and emphasizing the subdued, muted color palette of taupe, brick orange, and black. The image is sharply captured with a clear, typical smartphone digital camera look, no visible post-processing or analog artifacts present. The mood is functional, low-key, and somewhat introspective.
+
+HEX VALUES: ["#aeafa3", "#9ca098", "#bbbeb2", "#374043", "#868b83", "#aa865b", "#f2f1ec", "#535a54", "#b8cccc", "#6b726d", "#8f6d46", "#17252d", "#d5d7d2", "#050f16", "#c9a16e"]
+
+See all
+Copy prompt
+Recreate
+ASSETS
+ANIMATION
+INPUTS
+
+(your photo)
+
+REAL-TIME LOCK
+
+Normal-speed footage, 1x, start to finish. Not slow motion. Fire flickers fast like a real fire, several tongues per second. Embers fall at real gravity speed. Every human movement is at real speed with motion blur. One second of video is one second of real time. No speed ramps, no floating, no dreamy motion.
+
+
+
+
+FAST SHARP ACTION LOCK
+
+Every action she performs is a snap: instant start, hard stop, motion blur, no wind-up, no drift. Sleeve in 0.15s. Knob grabbed in 0.1s. Door yanked open in 0.3s. Door slammed shut in 0.4s. Between actions she is completely still.
+
+
+
+
+HANDS LOCK
+
+Her hands never go near her face. No forearm is ever raised. Hands are only on the knob, hanging at her sides, or hitting the door for the slam.
+
+
+
+
+SCENE CONTEXT
+
+A young woman, a dark figure seen from behind in a dim bedroom, rips her arm into the second sleeve of an open puffer jacket and yanks the door open toward herself with her right hand; orange firelight cuts through the gap. Match cut to the other side of the door: a corridor that is almost entirely fire, giant flames right at the lens on both sides, walls, ceiling, and floor burning. The door swings open and reveals her as a black silhouette. She stands motionless as the fire grows and grows, flames sweeping across the doorway and hiding her again and again, and then smashes the door shut in one sudden hit. Real time throughout.
+
+
+
+
+ACTIVE REFERENCES
+
+@girl: young woman, early 20s, slim, bold, cocky, fearless. Black knit beanie pulled low, black rectangular sunglasses, long straight dark hair over both shoulders, oversized taupe-grey quilted nylon puffer jacket with a tall standing collar, long straight black skirt to the ankles, black suede boots. Jacket UNZIPPED and hanging open over a plain dark top in every frame. Beanie and sunglasses stay on. She stands in shadow in both shots; her silhouette carries the identity. 100% matches the reference wherever light touches her.
+
+@bedroom: bedroom wall, 4:3. Dark bookshelf on the left, white six-panel door with brass knob on its left edge and hinges on its right edge, warm beige wall on the right. Geography and materials only; the room is dimmer here.
+
+@corridor: burning corridor, 4:3. Use for camera position, geography, fire palette, and flame texture only. The fire here is about THREE TIMES the amount in @corridor from the first frame and grows from there. The far white six-panel door is swinging open at the start and closes only at the end.
+
+
+
+
+LOCATION MAP
+
+The far door in @corridor is the bedroom door from @bedroom seen from the corridor side. Hinged on the jamb that is screen-right in the bedroom view and screen-left in the corridor view. It opens into the bedroom, toward her.
+
+Segment 1 camera: inside the dim bedroom, 1.5 m behind her, 2 m from the door wall, straight on. The door spans x 45% to the right edge of frame; the brass knob sits on the door's left edge at x 48%, hip height, near the bottom of frame. Bookshelf at far screen-left behind her, in shadow. When she pulls, the leaf swings toward camera and toward screen-right and the gap opens along the left jamb at x 45%, beside her right shoulder. Behind the gap: the inferno. The room itself has no fire or smoke.
+
+Segment 2 camera: in the corridor, 5.5 m from the far door, 1.0 m height, straight down the axis, same position as @corridor.
+
+FG, 0.2 m to 1.5 m: giant flames on both sides of the lens, left x 0% to 40%, right x 60% to 100%, from below the bottom edge to past the top edge, huge, soft, fast-flickering, with heat shimmer. Fire hanging from the ceiling across the whole top of frame, y 0% to 35%. Floor burning across its full width, y 65% to 100%. Embers shooting past the lens constantly. The fire is a thick ring around all four frame edges; the corridor is visible only through a narrow tunnel in the center. Foreground tongues sway across the center and briefly block the doorway.
+
+MG, 1.5 m to 4.5 m: both walls solid curtains of fire down the full depth, ceiling a sheet of fire dripping burning streams, floor burning along its whole length with blazing debris. No unburnt surface anywhere.
+
+BG, 5.5 m: the far doorway at x 46% to 58%, y 37% to 73%, its frame burning heavily on all sides, flames pouring over its top. The doorway is the darkest thing in frame; she stands inside it as a black silhouette.
+
+The door leaf pivots on the screen-left jamb and swings away from camera into the bedroom; fully open it stands inside the bedroom on the screen-left side, on her right. The bedroom behind her is a dim dark pocket with no fire in it.
+
+
+
+
+FIRST FRAME
+
+Segment 1: @girl already mid-action, large in frame, dark against the paler door. Medium close-up from behind, frame from just below her waist to 15 cm above the beanie. She stands at x 28%, back to camera, 0.5 m from the wall, offset LEFT of the door so the knob is just right of her right hip. Right arm in its sleeve, left arm halfway into the left sleeve and already moving, both arms low. Only one person in the room.
+
+Segment 2: the fire already at full ring-of-flame intensity, the door one third open and swinging fast, @girl visible as a black silhouette in the gap on the screen-right half of the doorway, facing camera, right hand on the knob on the door's free edge, left arm hanging. Nobody else anywhere.
+
+
+
+
+FORMAT MODE
+
+4:3. Two segments, one MATCH CUT on action at 1.0s, the door motion continuing across the cut at the same real speed. Full color. Both segments locked-off tripod, no camera movement. No dissolves, no fades. Real time.
+
+
+
+
+OPTICS
+
+Segment 1: 47° diagonal field of view, normal lens, camera 1.5 m behind her, natural perspective, rectilinear door panels.
+
+Segment 2: 84° diagonal field of view, classic wide, camera 5.5 m from the far door. Foreground flames at the lens loom enormous and soft around all edges; deep perspective converges on the small doorway; straight lines rectilinear, no fisheye. Focus on the doorway and the silhouette; foreground flames out of focus, so when they cross the center they are a soft bright blur over the doorway.
+
+
+
+
+MOVEMENT
+
+Segment 1: one fast burst, everything done by 0.7s.
+
+Segment 2: she does not move at all until the slam. No steps, no head turns, no gestures, no weight shifts, no reaction to flames passing in front of her. Head fixed straight down the corridor, arms hanging, only breathing; the updraft stirs her hair and jacket panels. After every flame pass she is in exactly the same pose.
+
+Slam: sudden, out of total stillness, no wind-up, no glance at the door.
+
+Shoulders stay level throughout; she never shrugs.
+
+
+
+
+FIRE PROGRESSION
+
+Maximum fire from the first frame, then more. Real fire speed, fast snapping tongues, never slow. Growth is steady and continuous, no bursts, no fireballs, no explosions, no flashes. Every second has more fire than the one before; it never shrinks.
+
+1.0s: three times @corridor. Foreground flames x 0% to 40% and x 60% to 100%; ceiling fire y 0% to 35%; floor fire y 65% to 100%; both walls solid fire; door frame heavily burning; embers thick.
+
+By 5.0s: foreground flames press in to x 43% and x 57%; ceiling fire hangs to y 37%; floor fire rises to y 63%; everything thicker and brighter.
+
+By 8.0s: foreground and wall flames reach the doorway's edges at x 46% and x 58% and lick across them; ceiling fire hangs to the top of the doorway; floor fire rises to the threshold. The doorway is a small dark window in a wall of fire.
+
+By 11.0s: peak. The frame is fire everywhere except the doorway; flames constantly lick across its edges and pour over its top. Holds at peak, still growing slightly, through the slam and to the end; after the door closes, flames lick across the closed white door.
+
+
+
+
+
+
+
+FIRE OCCLUSION
+
+Flames hide her repeatedly. Natural flame movement: a tongue from a wall or the floor leans across the doorway in the draft, or a foreground flame at the lens sways across the center as a soft bright blur. Each pass covers her partly or fully for 0.2 to 0.5 seconds, then she is visible again, unmoved. Passes get more frequent as the fire grows. The slam is never occluded.
+
+3.2s to 3.5s: left-wall tongue covers her lower half.
+
+4.6s to 5.0s: foreground flame crosses the center, covers the whole doorway.
+
+6.0s to 6.4s: door-frame flames lean in, cover her from the shoulders up.
+
+7.2s to 7.6s: right-wall sheet sweeps fully across; she disappears, reappears.
+
+8.4s to 8.8s: foreground flame crosses the center again.
+
+9.6s to 10.0s: left-wall sheet sweeps fully across; she disappears, reappears.
+
+10.6s to 11.0s: door-frame flames meet in front of her, then part.
+
+11.4s to 11.9s: foreground flame crosses the center.
+
+12.0s to 12.4s: fully visible, clear, still.
+
+12.4s onward: no occlusion.
+
+
+
+
+ACTION TIMING
+
+0.0s to 0.15s: She rips her left arm through the left sleeve in one hard jerk at hip height, motion blur, fingers shooting out of the cuff; the jacket drops onto her shoulders on its own.
+
+0.15s to 0.25s: Right hand snatches the knob. Left arm drops to her side.
+
+0.25s to 0.55s: She twists the knob and yanks the door toward herself in one hard pull, the leaf a blur. One quick half step back with her right foot, stop dead. The gap opens to 30 to 40 cm along the left jamb; a hard blade of orange light cuts through it and rims her right edge, shoulder, sleeve, beanie, hair; the rest of her stays dark. Embers shoot through.
+
+0.55s to 1.0s: She is still. The door keeps swinging open on its momentum.
+
+1.0s MATCH CUT
+
+1.0s to 2.2s: Corridor, ring of fire. The far door continues the same fast swing into the bedroom, pivoting on the screen-left jamb. She is a black silhouette in the screen-right half of the doorway, right hand riding the knob, then a quick release; her arm drops. The leaf coasts to 90 degrees and stops inside the bedroom on her right. She stays exactly where she is: facing straight down the corridor, feet apart, weight on one hip, arms hanging, chin slightly up.
+
+2.2s to 12.4s: She does not move. The fire grows and presses in around the doorway; flames sweep across it at the occlusion beats and reveal her again unchanged. Only breathing; hair and jacket panels stir in the updraft. Two small fire glints in her sunglasses; her face stays dark.
+
+12.4s to 12.8s: THE SLAM. Out of complete stillness her right arm fires out sideways at chest height and her hand smashes into the open leaf on her right. The leaf whips from screen-left across the doorway in a blur and bangs into the frame at 12.8s with a hard dead stop and a shudder. She vanishes behind it mid-blur.
+
+12.8s to 15.0s: The closed white door in the doorway, fire wrapping it on all sides and licking across its face, the whole frame a wall of fire. Flames nearest the door jump from the air shock; embers kick up and settle fast. Hold.
+
+
+
+
+PHYSICS
+
+Real-time physics, motion blur on every fast move. Light quilted nylon jacket: sleeve snaps straight as the arm rips through, jacket drops onto the shoulders under its own weight, front panels swing with the yank and stir in the updraft, collar holds. Heavy wood door: latch snaps free, fast swing, coasts to 90 degrees; on the slam full acceleration from first contact to a hard dead stop, frame shudders, nearby flames pushed by the air shock. Fire: thick turbulent flames with volume, tongues appearing and vanishing several times a second, leaning and swaying in the draft, spreading by climbing and creeping and running down the ceiling in burning streams; embers race up in the updraft and fall at real gravity speed; smoke glows orange. Nothing appears from nowhere, nothing bursts.
+
+
+
+
+LIGHTING
+
+Segment 1: dim low-key room, darker than @bedroom. The white door is the palest surface; she is a dark shape in front of it. From 0.4s the fire through the gap is the dominant light: a hard orange blade along the left jamb rimming her right edge, growing as the gap widens. The rest of her stays in shadow.
+
+Segment 2: fire is the only light, flooding the frame, steadily brighter as it grows. Exposed for the fire, not for her: flames hold orange and yellow detail, cores go hot yellow-white at peak but never wash out to flat white; she falls to a near-black silhouette in the doorway against the dim room behind her. Face dark under the beanie, body dark, only a thin flickering orange rim on her outline and two fire glints in the sunglasses. When a flame passes in front of her she is swallowed in orange for a moment, then cuts back out of it. No front fill on her, ever.
+
+
+
+
+AUDIO
+
+Diegetic only, in sync with real-time picture. No music of any kind: no score, no drone, no sting, no rhythmic bed.
+
+Segment 1: quiet room tone, a sharp fast nylon rip, the hard snap of the latch, a quick hinge creak, a muffled fire roar leaking through the gap. No dialogue.
+
+At the cut: full deep continuous roar with heavy fast crackle, pops, wood ticking, nearest flames hissing at the mic. The roar swells steadily with the fire, a soft rush each time a tongue sweeps the doorway, no whooshes, no booms. 12.8s: one violent wooden door slam, a hard sharp bang with a short rattle. Roar continues alone to the end. No voice, no subtitles.
+
+
+
+
+POSITIVE LOCKS
+
+Real time only, 1x, no slow motion anywhere, fast motion shows blur, fire flickers fast.
+
+Every action is a fast sharp snap; she is dead still between actions.
+
+Segment 2: she does not move until the slam. She just stands.
+
+Flames sweep across the doorway and briefly hide her many times; she reappears each time in the same pose. The slam is never hidden.
+
+The slam is sudden and violent, out of stillness, 0.4 seconds, no wind-up.
+
+Hands never near her face. No raised forearm.
+
+She is in shadow in both segments; in segment 2 an almost pure black silhouette with a thin orange rim and two sunglass glints.
+
+Only one person exists in the video: @girl.
+
+Right hand opens the door, yanking it toward herself, inward into the bedroom; the same right hand slams it.
+
+Shoulders level, no shrug.
+
+Jacket unzipped and open in every frame. Beanie and sunglasses on.
+
+Segment 1: close shot of her back, face not shown. Segment 2: facing camera in silhouette.
+
+One cut at 1.0s. Static camera in both segments.
+
+The door opens once across the cut and is slammed shut once at 12.8s.
+
+Segment 2 is fire from edge to edge in every frame, giant flames at the lens on both sides, burning walls, ceiling, and floor, three times @corridor from the first frame and growing until only the doorway is left.
+
+Fire only ever grows, steadily. No explosions, no fireballs, no bursts.
+
+No music anywhere.
+
+Full color, 4:3, real grain. @corridor sets palette, flame texture, and camera geometry only; the fire amount here is far greater.
+
+See all
+Copy prompt
+Recreate
+
+post yours and tag me! @sadiesfactionn i repost my favorites ★
+
+
+
+
+my instaaa:
+
+https://www.instagram.com/sadiesfactionn/

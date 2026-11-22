@@ -1,0 +1,167 @@
+【项目】INFINITE CAMERA ANGLES: HOW TO SHOOT MULTIPLE ANGLES WITH ONE CAMERA（@adilinthewildtempo · 创作者博客）
+【链接】https://higgsfield.ai/zh/@adilinthewildtempo/blogs/infinite-camera-angles
+【捕获】2026-10-30（浏览器全文抓取）
+
+──────────────────────────────────────
+
+INFINITE CAMERA ANGLES: HOW TO SHOOT MULTIPLE ANGLES WITH ONE CAMERA
+A
+@adilinthewildtempo
+4.9K
+10
+3
+
+Hey! Thanks for your comment! So here it is - the exact prompt behind the video.
+
+
+
+
+We filmed that family lunch with one static camera. Everything else is Seedance 2.5. Swap in your own footage and your own shots, and tag us in what you make 🎥
+
+How It Works
+
+Film one wide, stable take with clean audio. That's the only thing you actually have to shoot.
+
+Then you don't write the big prompt yourself. Just describe the shots you want and when you want them and send it to Claude with something like: "Turn this into a full Seedance 2.5 alternate-camera prompt. Lock the cast, location, dialogue and timing, only the camera changes." Claude builds the whole thing: the locks, the timeline mapping, the constraints, the properly written camera schedule.
+
+
+
+
+Ours looked like this before Claude touched it:
+
+00:00–00:05 — dolly zoom on the speaker
+
+00:05–00:11 — slow close-up from the side
+
+00:11–00:16 — top shot of the whole table
+
+00:16–00:25 — camera inside the scene, table level
+
+00:25–00:30 — extreme close-up on the face
+
+The Prompt
+
+Attach your master clip as @Video 1 and paste this. Swap the camera schedule for your own shots — keep the structure.
+
+
+
+
+Input your video 
+
+Make sure you tagged your video with @ in the prompt where it is marked @Video 1 and just tap recreate
+
+
+
+
+Our original video 
+
+Since the dog never appears in the master take, we generated it as a separate asset and attached it to the generation.
+
+REFERENCE INPUTS
+
+@视频 1 · 30 秒 = the reference performance video.
+
+@图片 1 = the dog appearance asset.
+
+Use these two inputs only. The camera order and timestamps below follow the supplied to_upscale.mp4 edit, capped at 30.000 seconds.
+
+MASTER DIRECTION
+
+Create one photorealistic, cinematic 30.000-second, 16:9 video containing the thirteen shots below, separated by twelve clean hard cuts at the specified times. Recreate the same garden lunch as @视频 1 · 30 秒, as if the camera setups captured the same event simultaneously. The performance continues through every cut: output time t depicts the corresponding reference time t. Preserve the original speed, dialogue, gestures, pauses, interactions and action order. Do not restart a performance when the camera changes. Keep every existing cut time; stop the final shot at 30.000 seconds without speeding up, freezing or adding a fade.
+
+CONTINUITY
+
+Use @视频 1 · 30 秒 for all five people, their exact faces, hair, ages, clothes, seated positions, expressions and performance: the curly-haired, mustached main man in the loose fine-striped white shirt; the older dark-haired woman in ivory; the shaggy-haired young man in a pale shirt; the woman in blue; and the silver-haired older man with glasses. Preserve the white-clothed oval table, chairs, food, plates, clear pitcher, flutes, green bottle, garden, building, warm sunlight and shadows. The camera may change screen positions; the people and furniture retain their physical positions. Match object states across cuts: cork removal, bottle tilt, liquid level, passing food, hand contacts and releases.
+
+Use @图片 1 to define exactly ONE dog's identity: its precise facial structure, brindle markings, white muzzle blaze and chest, ears, eyes and proportions. The dog belongs on the grass beside the main man's physical RIGHT leg/chair, in the gap toward the ivory-clad woman. This position appears screen-left of the main man in the overhead views. Preserve its reference scale, posture and action; never relocate it to maintain a fixed screen position. Show it naturally in shots 2, 6 and 10, with correct occlusion by chairs, people and tablecloth. Let it remain outside the frame or hidden in other shots. The same dog is petted in shot 10. Do not add another dog, a new person or any extra reference-derived object.
+
+TIMECODED CAMERA SEQUENCE
+
+01 | 0.000-2.569 seconds | Frontal introduction, pulling back
+
+Begin at seated eye level on a centered medium close-up of the main man, facing the camera, speaking and gesturing with both hands. Smoothly dolly backward, naturally reducing his size in frame and revealing the tabletop, foreground glasses and neighboring diners at the edges. Keep his face readable against softly blurred greenery and the garden building. Follow his original gestures and reach toward the green bottle. Preserve the gentle physical pullback and changing foreground parallax.
+
+02 | 2.569-5.038 seconds | True overhead, whole table
+
+Hard cut to an approximately 85-90-degree bird's-eye view looking almost vertically down. Show the complete oval white tablecloth, all five diners in their unchanged seats, the food arrangement, chairs and surrounding lawn. The main man occupies the far short end of the table and handles the bottle while the others reach for food. The dog is beside his chair on his physical right, screen-left in this view, visible on the grass at natural scale. Soft leaves frame the upper edges. Match the reference's restrained drift while keeping this a readable overhead composition.
+
+03 | 5.038-7.074 seconds | Across the tabletop, through glassware
+
+Hard cut to a low table-level medium view of the main man. Use blurred clear glassware, pitcher edges, dishes and passing hands as foreground layers; retain the tall flute containing yellow liquid on frame right. Focus on the man as he looks down, works with his hands, smiles and starts raising the bottle. Keep the camera mostly fixed with shallow depth of field and natural foreground occlusion.
+
+04 | 7.074-9.877 seconds | Bottle-mounted extreme low angle
+
+Hard cut to a wide-angle camera apparently fixed low on the green bottle's shoulder, looking upward along its neck toward the main man's hands and face. The bottle neck anchors the lower center while he towers above against the roofline and sky. Show the original cork removal with his correct hands and grip. As he lifts and tilts the bottle to pour, the camera moves rigidly with it: the surrounding world rolls and tilts, and the table swings up into frame right. Preserve the strong perspective and rolling horizon. This entire movement is one shot. Keep a full rectangular image without a circular vignette.
+
+05 | 9.877-11.645 seconds | Inside the receiving glass
+
+Hard cut to a camera inside the receiving clear drinking flute, near its bottom, looking upward through the circular rim. Sky, foliage and the surroundings appear through concentric glass refraction. The tilted green bottle enters from upper-left and pours pale golden sparkling liquid directly toward the lens. Show the stream striking and swirling, fine bubbles forming, foam expanding and the liquid rising until the view becomes immersed and obscured. Preserve the glass rim and optical distortion. Remain inside this same glass throughout the shot.
+
+06 | 11.645-14.147 seconds | Inclined overhead through leaves
+
+Hard cut to a high three-quarter view looking down at approximately 45-55 degrees. Frame the complete table and all five diners through softly blurred sunlit leaves and branches. Keep the tabletop foreshortened, with faces, seated bodies and chair backs readable. The main man remains at the far end, handling or pouring from the bottle while the others continue their original food and glass interactions. Reveal the same dog beside his chair only as this perspective permits, with honest partial occlusion. Match the reference's stable, gently floating framing.
+
+07 | 14.147-16.483 seconds | Reverse two-shot, passing food
+
+Hard cut across the table at seated eye level. Frame the shaggy-haired young man in the pale shirt on the left and the older dark-haired woman in ivory on the right. Out-of-focus near-side diners create over-shoulder framing at the edges. Follow the young man passing the large burger or sandwich toward her and her smiling acceptance with both hands. Preserve their exact handoff timing, eye lines and warm backlight through the trees.
+
+08 | 16.483-18.018 seconds | Woman in blue, reaction
+
+Hard cut to a frontal medium shot centered on the woman in blue at table height. Plates, flutes and reaching hands cross the foreground naturally. Follow her reference glance, speech, gesture toward the food and movement toward her mouth or chin. Keep her face in focus, with softly separated garden background and nearly fixed framing.
+
+09 | 18.018-21.355 seconds | Three layers, focus passing across the table
+
+Hard cut to a side view with the older silver-haired man's left profile and glasses dominant in the RIGHT foreground. The woman in blue occupies the middle plane; the main man in white sits deeper across the table toward the LEFT. Begin with the older man sharp. Drift laterally and transfer focus to the main man, allowing the older man's head and shoulder to soften into foreground framing. Preserve the distinct foreground, middle and background distances and the original expressions and conversational timing.
+
+10 | 21.355-23.757 seconds | Dog close-up at grass level
+
+Hard cut to a very low, wide-angle camera close to the dog beside the main man's chair. Match @图片 1 exactly. Its face and nose feel close to the lens, with folded ears, white markings, relaxed eyes, open mouth and gentle panting. Include the visible upper chest/body as in the reference. The white tablecloth hangs as a large surface on frame right; lawn and greenery surround the dog. The main man leans down from upper-left and strokes its head at the reference moment. Preserve believable hand-to-fur contact and the dog's small natural reactions. Keep the dog grounded beside the same chair.
+
+11 | 23.757-25.259 seconds | Over the blue-clad woman's shoulder
+
+Hard cut to a seated-eye-level over-shoulder composition. The woman in blue's blurred hair and shoulder fill the LEFT foreground; the main man occupies the RIGHT in medium three-quarter profile. Follow him looking down, turning toward her, speaking and gesturing. Retain the garden wall and trellis behind him, shallow focus and nearly stationary camera.
+
+12 | 25.259-27.661 seconds | Clean close-up of the main man
+
+Hard cut to an unobstructed eye-level close-up of the main man, with shoulders and upper chest in frame and soft green garden and trellis behind him. Follow his downward glance, raised gaze, speech, hand gesture and smile in their original sequence. Keep his identity and facial proportions exact. Preserve the reference's gaze direction, including looking toward the camera where present.
+
+13 | 27.661-30.000 seconds | Group view, beginning the final push-in
+
+Hard cut to the main man centered between the older woman in ivory on the left and the woman in blue on the right, with the meal and glassware prominent across the foreground. Begin the same smooth forward dolly as the reference while he speaks and gestures toward the camera. Continue only through reference time 30.000 seconds. End during the push-in on the frontal medium framing: upper torso and hands visible, pitcher, flutes and food still prominent below, and portions of both neighboring women still visible at the edges. His right hand is raised beside his face near the endpoint. Do not accelerate the move to reach the tighter portrait that occurs later in the original clip.
+
+FINISH
+
+Preserve the reference's natural photographic texture, warm color, sunlight direction, lens character, motion blur, focus transitions and audio through 30.000 seconds. Keep special glass distortion and bottle-mounted rolling motion only in their assigned shots. No additional cuts, transition morphs, invented actions, altered seating, duplicated limbs or props, added titles, subtitles, graphics, music, slow motion or speed changes. One finished 30.000-second video; two reference inputs only.
+
+查看全部
+复制提示词
+重新创作
+
+
+
+
+TRY ANY CAMERA ANGLE
+Lets start!
+
+评论3
+
+kainulla
+1w
+awd
+回复
+kainulla
+1w
+awd
+回复
+kainulla
+1w
+,
+回复
+
+© 2026 Higgsfield, Inc. 保留所有权利。
+
+帮助中心
+Cookie 声明
+条款
+隐私
+报告漏洞

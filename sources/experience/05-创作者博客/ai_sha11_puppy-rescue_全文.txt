@@ -1,0 +1,736 @@
+【项目】PUPPY RESCUE（@ai_sha11 · 创作者博客）
+【链接】https://higgsfield.ai/@ai_sha11/blogs/puppy-rescue
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+PUPPY RESCUE
+ai_sha11
+@ai_sha11
+34
+13
+4
+
+For the full breakdown, including what went wrong and how I fixed it, watch my YouTube tutorial: https://www.youtube.com/@Ahadanimates Every asset and clip below is the real one from the film, with the exact prompt that made it.
+
+
+
+
+Puppy Rescue is a short film told in five AI clips. On a rainy night, a girl stops for a puppy that everyone else walks past. A year later, he leads her back to the same spot.
+
+Before You Start
+
+Build every asset before you generate a single video: the characters, the locations and the props. They appear in every scene, and locking them first is what keeps five separate AI clips looking like one film.
+
+Prompts: Claude wrote every prompt. The video prompts came from the Seedance Shotlist Director skill, which turns a scene into a structured Seedance prompt. Higgsfield shares the skill free in this breakdown post.
+Images: generated in Higgsfield with Soul Cinema, Seedream 5.0 pro and Image 2.
+Video: every clip generated in Higgsfield with Seedance, vertical 9:16.
+Names: each asset is saved as a Higgsfield Element with an @name, like @dry or @street. The prompts call assets by those names, so name yours exactly the same.
+Stage 1 — The Assets
+
+Every asset below is either a reference sheet or an empty location plate. Attach them to your video prompts so the model copies them instead of guessing.
+
+Starting point: the character
+
+Everything starts from one character image: a three-panel sheet with a close-up, a side profile and a full body. Each look below is an edit of it.
+
+
+
+
+The girl, night of the rescue (@dry)
+
+What it does: Dresses the character for the rescue night, in the same three-panel layout. Attach your character image as the reference.
+
+
+
+
+Edit objective:
+Create a new character reference sheet of the girl in the first attached image, wearing a new outfit, in exactly the same three-panel layout as the reference.
+
+Identity anchor (preserve exactly):
+Same girl, around 10 years old, with the same face, warm brown eyes, light freckles across her nose and cheeks, fair skin with rosy cheeks, and dark brown hair with a centre parting. Keep her age, height and proportions identical to the reference unless the LOOK section says otherwise.
+
+Layout (preserve exactly):
+Three equal vertical panels side by side, separated by thin white borders, on a plain warm light-grey studio backdrop with soft, even, diffused light.
+Panel 1: close-up portrait, front-facing, head and shoulders, looking into the camera.
+Panel 2: side profile facing left, head and shoulders.
+Panel 3: full body, standing straight and front-facing, arms relaxed at her sides, feet visible, face clearly visible and identical to panel 1.
+
+LOOK:
+A knee-length rust-orange hooded raincoat, zipped up, with the hood down so her hair is visible and fine raindrops beaded on the fabric. Dark navy jeans, white sneakers, and a cream canvas school backpack worn on both shoulders. Hair in a low ponytail with a black hair tie, mostly dry. Neutral, slightly hurried expression.
+
+Do not introduce:
+Do not copy the blue scribble marks from the reference. No text, labels or watermark. No change to her face or hair colour between panels. No extra props or background elements.
+
+Output:
+16:9 landscape, photorealistic, natural skin texture, realistic fabric detail, high resolution.
+The girl, after the rescue (@wet)
+
+What it does: The same sheet, soaked and muddy. Attach the character image first and @dry second, so the raincoat and backpack match exactly.
+
+
+
+
+Edit objective:
+Create a new character reference sheet of the girl in the first attached image, wearing a new outfit, in exactly the same three-panel layout as the reference.
+
+Identity anchor (preserve exactly):
+Same girl, around 10 years old, with the same face, warm brown eyes, light freckles across her nose and cheeks, fair skin with rosy cheeks, and dark brown hair with a centre parting. Keep her age, height and proportions identical to the reference unless the LOOK section says otherwise.
+
+Layout (preserve exactly):
+Three equal vertical panels side by side, separated by thin white borders, on a plain warm light-grey studio backdrop with soft, even, diffused light.
+Panel 1: close-up portrait, front-facing, head and shoulders, looking into the camera.
+Panel 2: side profile facing left, head and shoulders.
+Panel 3: full body, standing straight and front-facing, arms relaxed at her sides, feet visible, face clearly visible and identical to panel 1.
+
+LOOK:
+Use the second attached image (the Look 1 character sheet) as the outfit reference. The same rust-orange raincoat, navy jeans, white sneakers and cream backpack, now drenched and muddy. Hood down, hair soaking wet in its low ponytail with strands stuck to her forehead and cheeks, raindrops on her face. Mud streaks on the raincoat, both knees of the jeans caked in mud from kneeling, sneakers and backpack splashed with mud. Cheeks flushed from the cold. Tired but relieved expression.
+
+Do not introduce:
+Do not copy the blue scribble marks from the reference. No text, labels or watermark. No change to her face or hair colour between panels. No extra props or background elements.
+
+Output:
+16:9 landscape, photorealistic, natural skin texture, realistic fabric detail, high resolution.
+The girl, at home (@home-clothes)
+
+What it does: The same girl later that night, dry and warm in a sweater.
+
+
+
+
+Edit objective:
+Create a new character reference sheet of the girl in the first attached image, wearing a new outfit, in exactly the same three-panel layout as the reference.
+
+Identity anchor (preserve exactly):
+Same girl, around 10 years old, with the same face, warm brown eyes, light freckles across her nose and cheeks, fair skin with rosy cheeks, and dark brown hair with a centre parting. Keep her age, height and proportions identical to the reference unless the LOOK section says otherwise.
+
+Layout (preserve exactly):
+Three equal vertical panels side by side, separated by thin white borders, on a plain warm light-grey studio backdrop with soft, even, diffused light.
+Panel 1: close-up portrait, front-facing, head and shoulders, looking into the camera.
+Panel 2: side profile facing left, head and shoulders.
+Panel 3: full body, standing straight and front-facing, arms relaxed at her sides, feet visible, face clearly visible and identical to panel 1.
+
+LOOK:
+At home after the rain, raincoat off. An oversized long-sleeved cream knit sweater, soft grey pyjama trousers and thick wool socks. Hair still damp, loosely tied back, slightly frizzy as it dries. Calm, sleepy expression with a soft smile.
+
+Do not introduce:
+Do not copy the blue scribble marks from the reference. No text, labels or watermark. No change to her face or hair colour between panels. No extra props or background elements.
+
+Output:
+16:9 landscape, photorealistic, natural skin texture, realistic fabric detail, high resolution.
+The girl, one year later (@year-after)
+
+What it does: One year older and a little taller, with longer hair in a braid and a new outfit. The face stays the same, so the audience recognises her instantly.
+
+
+
+
+Edit objective:
+Create a new character reference sheet of the girl in the first attached image, wearing a new outfit, in exactly the same three-panel layout as the reference.
+
+Identity anchor (preserve exactly):
+Same girl, around 10 years old, with the same face, warm brown eyes, light freckles across her nose and cheeks, fair skin with rosy cheeks, and dark brown hair with a centre parting. Keep her age, height and proportions identical to the reference unless the LOOK section says otherwise.
+
+Layout (preserve exactly):
+Three equal vertical panels side by side, separated by thin white borders, on a plain warm light-grey studio backdrop with soft, even, diffused light.
+Panel 1: close-up portrait, front-facing, head and shoulders, looking into the camera.
+Panel 2: side profile facing left, head and shoulders.
+Panel 3: full body, standing straight and front-facing, arms relaxed at her sides, feet visible, face clearly visible and identical to panel 1.
+
+LOOK:
+One year later: she is one year older and slightly taller, with the same face. Her hair has grown longer and is worn in a single braid over one shoulder. Rust-orange denim dungarees over a white cotton T-shirt, and white sneakers. Bright, happy, open smile.
+
+Do not introduce:
+Do not copy the blue scribble marks from the reference. No text, labels or watermark. No change to her face or hair colour between panels. No extra props or background elements.
+
+Output:
+16:9 landscape, photorealistic, natural skin texture, realistic fabric detail, high resolution.
+The puppy (@puppy)
+
+What it does: Builds the puppy's sheet: his face, a side profile, a soaked version, and asleep in the terracotta towel. Attach any image of a puppy with the coat colour you want; the prompt uses it only for colour.
+
+
+
+
+Objective:
+A character reference sheet for the puppy in a short film, used to keep the same puppy consistent across every shot. Four panels showing the same puppy.
+
+Reference:
+Use the puppy in the attached image only as the coat colour reference: match its pale cream coat and slightly darker golden ears. Do not copy its pose, the armchair or the room.
+
+Identity anchor (identical in every panel):
+A Labrador mix puppy about 8 weeks old with a short, dense pale cream coat, slightly darker golden ears, big dark brown eyes and a black nose. Its one natural coat marking: the fur around its left eye is a soft caramel-brown, an irregular ring of darker fur that fades gradually into the surrounding cream fur, like a naturally marked dog. It is part of the fur, not an object, sticker or bandage. The fur around its right eye is plain cream. Same size, proportions and markings in all four panels.
+
+Layout:
+Four equal vertical panels in a single row, separated by thin white borders, on a plain warm light-grey studio backdrop with soft, even, diffused light. The caramel fur around the left eye is visible in every panel.
+Panel 1: close-up portrait of the face, front-facing, looking into the camera, mouth closed, clean and dry.
+Panel 2: full body side profile facing right, standing on all four paws, showing the left side of its face with the caramel eye marking, mouth closed, clean and dry.
+Panel 3: full body, front-facing, sitting hunched with its head lowered and tail tucked, shivering, completely soaked and muddy: pale fur darkened and clinging in wet clumps, streaks of brown mud on its legs, belly and right cheek, ears flat against its head, mouth closed, eyes wide and frightened. The caramel fur around the left eye is still clearly visible.
+Panel 4: asleep, curled up and wrapped in a soft, thick terracotta-orange towel with only its head and one front paw showing, the left side of its face toward camera, eyes and mouth closed, fur dry and fluffy, peaceful expression.
+
+Constraints:
+No white patch, eye patch, bandage, sticker or disc over the eye. The caramel marking stays around the left eye only and is never mirrored. No open mouth, no yawning, no tongue. No standing on hind legs. No collar, leash, text or other animals. No cartoonish stylisation.
+
+Output:
+16:9 landscape, photorealistic, natural fur texture, high resolution.
+The puppy, soaked (@wet-puppy)
+
+What it does: The same puppy, drenched and muddy, for the whole rescue. Attach the clean panels of @puppy as the reference.
+
+
+
+
+Objective:
+A reference sheet of the puppy in the attached image, soaked and muddy, for a short film. Three panels showing the same puppy.
+
+Reference:
+Use the attached image as the identity reference. This is the same puppy: keep its face, proportions, pale cream coat, slightly darker golden ears, dark brown eyes, dark brown nose, and the large caramel-brown marking in its fur that covers its right eye and runs up over the right side of its forehead (on the left of the frame when it faces camera). Change only its condition: it is now soaked through and muddy.
+
+Wet and muddy state (identical in every panel):
+Its coat is drenched: the cream fur is darkened and separates into wet, spiky clumps, and pink skin shows through the thin wet fur on its belly and inner legs. Water drips from its ears, chin and whiskers, and its nose glistens. Uneven patches of brown mud cover its paws and lower legs, streak its belly and back, and smear across its left cheek, away from the marking. The caramel marking looks slightly darker when wet but keeps exactly the same shape and position. A small puddle of muddy water collects on the floor beneath it.
+
+Layout:
+Three equal vertical panels side by side, separated by thin white borders, on a plain warm light-grey studio backdrop with soft, even, diffused light.
+Panel 1: close-up of the face, front-facing, head slightly lowered, eyes looking up into the camera, ears flat, mouth closed.
+Panel 2: full body, sitting hunched and facing camera, head low, tail tucked, ears flat, mouth closed.
+Panel 3: full body, lying on its belly with its head resting on its front paws, facing camera, eyes open and looking up, mouth closed.
+
+Realism:
+A real puppy photographed in a studio: individual hairs visible, natural-sized eyes with real moisture, natural puppy proportions with oversized paws and loose skin. No plush-toy or plastic smoothness, no oversized glossy eyes, no cartoonish or CGI look.
+
+Constraints:
+Mouth closed in every panel: no open mouth, no yawning, no tongue. The marking stays around the right eye only and is never mirrored. No collar, leash, towel, text or other animals.
+
+Output:
+16:9 landscape, photorealistic, natural fur and water texture, high resolution.
+The dog, one year later (@old-pup)
+
+What it does: Grows the puppy into a one-year-old dog with the same face and marking, wearing his collar. Attach @puppy first and @collar second (see Props).
+
+
+
+
+Objective:
+A character reference sheet for the same dog one year later, for the final scene of a short film. Three panels showing the same dog.
+
+References:
+Use the first attached image (the puppy sheet) as the identity reference. This is the same dog, now fully grown at about one year old. Use the second attached image only as the reference for the collar, name tag and leash.
+
+Identity anchor (identical in every panel):
+A young adult Labrador mix about one year old, medium-large, athletic and energetic, with a short, dense pale cream coat, slightly darker golden ears, dark brown eyes and a black nose. Its one natural coat marking, exactly as on the puppy: the fur around its left eye is a soft caramel-brown, an irregular ring of darker fur that fades gradually into the surrounding cream fur. It is part of the fur, not an object, sticker or bandage. The fur around its right eye is plain cream. It wears the terracotta-orange leather collar with the small round brass name tag engraved "PUDDLE".
+
+Layout:
+Three equal vertical panels in a single row, separated by thin white borders, on a plain warm light-grey studio backdrop with soft, even, diffused light. The caramel fur around the left eye is visible in every panel.
+Panel 1: close-up portrait of the face, front-facing, looking into the camera, mouth closed, calm and happy, with the collar and brass tag clearly visible and the word "PUDDLE" legible.
+Panel 2: full body side profile facing right, standing on all four paws, showing the left side of its face with the caramel eye marking, with the terracotta-orange leash clipped to the collar and trailing to the floor, mouth closed.
+Panel 3: full body, front-facing, sitting upright and alert, mouth closed.
+
+Constraints:
+No white patch, eye patch, bandage, sticker or disc over the eye. The caramel marking stays around the left eye only and is never mirrored. No open mouth, no tongue. No text other than "PUDDLE" on the tag. No people, no hands, no other animals. No cartoonish stylisation.
+
+Output:
+16:9 landscape, photorealistic, natural fur texture, high resolution.
+The street at night (@street)
+
+What it does: Builds the empty street plate in the rain, framed from second-floor height. The same frame opens the film and, relit, closes it.
+
+
+
+
+Objective:
+A clean location plate for a short film: a quiet residential street in an old European town at night during heavy rain. This frame is the film's opening shot and the background reference for every street scene, so it must contain no people or animals.
+
+Environment:
+A narrow cobblestone street lined with two- and three-storey brick and stone terraced houses with dark front doors, stone steps and mostly dark windows. A few small cars are parked along the right side, beaded with rain. Along the left side, below street level, runs a narrow stone-walled brook channel about 1.5 metres wide, separated from the pavement by a black iron railing. The channel is full of fast-flowing, muddy, rising rainwater. In the lower third of the frame, a small stone bridge carries a side street over the channel, and the water rushes into the dark arched culvert beneath it. Beside the culvert, one section of the railing is broken and missing. Just inside the culvert mouth, a narrow stone ledge sits just above the waterline, an arm's length below the pavement edge.
+
+Composition:
+High-angle wide shot from second-floor height, about 6 metres up, looking down the street at a 35-degree angle, 24mm lens. The street leads from the bottom of the frame to a vanishing point in the upper third, where it fades into rain and darkness. The culvert and broken railing sit in the lower third, slightly left of centre. Keep open pavement in the foreground where a character can later walk into frame.
+
+Lighting:
+Night. Old cast-iron street lamps with cool white-blue LED light cast pools of light on the wet cobblestones, with rain streaks clearly visible inside each light cone. Strong reflections on the wet stones and on the surface of the rushing water. One distant upstairs window glows a dim warm yellow for depth. Deep shadows between the pools of light.
+
+Color and mood:
+Dominant cold blue and steel grey with deep shadows. Only tiny touches of warm light far in the distance, with no warm colours in the foreground. Lonely, cold and indifferent.
+
+Surface and realism:
+Heavy rain with visible streaks and splashes bouncing off puddles, water pouring from gutters and running down the walls, wet brick and stone, moss on the channel walls, light mist in the distance. Photorealistic cinematic still, shot on ARRI Alexa with subtle film grain.
+
+Constraints:
+No people, no animals, no moving vehicles. No readable text, signs, licence plates or logos. No overall orange or yellow cast. No artificially clean, CGI-looking surfaces.
+
+Output:
+9:16 vertical, high resolution.
+The rescue spot at night (@culvert)
+
+What it does: A close-up of the exact rescue spot from the girl's point of view, built from the street plate so the stonework matches. Attach @street.
+
+
+
+
+Objective:
+A clean close-up location plate of the rescue spot from the attached street image, for a short film. This is a girl's point of view looking down into the culvert, so it must contain no people or animals.
+
+Location reference (preserve exactly):
+Use the attached image as the location reference. This is the culvert under the near stone footbridge, the one closest to camera on the left: the same weathered stone arch, mossy stone channel walls, black iron railing on the bridge, wet stone pavement edge, and the same muddy, fast-flowing water.
+
+Subject:
+The dark arched mouth of the culvert under the footbridge. Just inside the arch, a narrow stone ledge about 30 cm wide runs along the culvert wall, sitting barely above the waterline, with water splashing over its edge. The ledge is about an arm's length below the pavement edge. The water is high and rising, churning white where it rushes out of the culvert.
+
+Composition:
+Steep high-angle point-of-view shot from someone standing at the pavement edge just downstream of the footbridge, beside the bollard, looking down and back toward the arch at about 60 degrees, 35mm lens. The wet stone edge of the pavement runs across the bottom of the frame. The ledge sits in the centre of the frame, small, with the dark culvert behind it and rushing water below and around it, so anything sitting on it will feel tiny and trapped.
+
+Lighting:
+Night. Cool white-blue light from the wall lantern spills down from above and behind camera, catching rain streaks and the churning water. The inside of the culvert falls into near-black shadow, with only the front edge of the ledge lit. Raindrops pock the water surface.
+
+Color and mood:
+The same cold blue and steel-grey grade as the reference. Claustrophobic, dangerous and urgent.
+
+Surface and realism:
+Wet moss and algae on the stones, water stains, rain splashes, foam on the water, and small twigs and leaves carried by the current. Photorealistic cinematic still, shot on ARRI Alexa with subtle film grain.
+
+Constraints:
+No people, no animals, no hands. No readable text. Do not change the stone, railing or water from the reference. No warm colours.
+
+Output:
+9:16 vertical, high resolution.
+The living room (@home)
+
+What it does: The warm room for the night after the rescue. Amber lamplight inside and cold blue rain outside: the colour alone tells you she's safe.
+
+
+
+
+Objective:
+A clean location plate for a short film: the girl's home on the night of the rescue, a small, cosy living room in an old European terraced house. This is where she sits with the rescued puppy asleep on her lap, so it must contain no people or animals.
+
+Environment:
+A small living room with warm cream walls, old wooden floorboards and a soft, worn rug. A large, slightly worn olive-green armchair with a cream knitted throw over its back. Beside it, a small wooden side table with a brass table lamp and a fabric shade. Behind the armchair, a tall white-painted sash window with small panes, rain streaming down the glass, and a radiator beneath it. In the right background, the front door: a dark painted wooden door with a small glass panel, a coat hook beside it, and a doormat on the floor. A small bookshelf and a few framed pictures on the walls.
+
+Composition:
+Eye-level medium-wide shot from about 1 metre high, 35mm lens. The armchair sits in the lower centre, angled slightly toward camera, with the lamp on its left. The rain-streaked window fills the upper half behind it. The front door and doormat are visible in the right background, slightly soft but clearly readable.
+
+Lighting:
+Night. The table lamp is the main light source: warm amber, soft falloff, pooling over the armchair and fading into gentle shadows in the corners. Through the window, the cold blue night outside and the blurred glow of a street lantern, with raindrops on the glass catching that blue light. The warm lamp must clearly dominate the room.
+
+Color and mood:
+Dominant warm amber, honey and cream tones with soft browns. The only cold colour is the blue night outside the window. Safe, quiet and warm, the opposite of the street.
+
+Surface and realism:
+Visible fabric texture on the armchair and throw, scuffed floorboards, slightly chipped paint on the window frame, water droplets and streaks on the glass. Photorealistic cinematic still, shot on ARRI Alexa with subtle film grain.
+
+Constraints:
+No people, no animals. No readable text on books, pictures or anything else. No television or glowing screens. Do not let the blue from the window overpower the warm lamp.
+
+Output:
+9:16 vertical, high resolution.
+The street, one year later (@new-street)
+
+What it does: Relights the night street into a sunny morning as an edit, not a new image, so the bridge, bollard and railings stay exactly where they were. Attach @street.
+
+
+
+
+Edit objective:
+Relight the attached image from a rainy night to a bright, clear morning one year later, for the final scene of a short film. This must be the exact same place from the exact same camera position.
+
+Preserve exactly:
+The camera position, high angle, lens and framing. Every building, window, doorway, drainpipe and wall lantern. The stone-walled brook along the left, both stone footbridges and their culvert arches, the iron railings on the footbridges and along the building side of the brook, the single iron bollard, the open stone pavement edge with no railing, the cobblestones and flagstones, the parked cars, and the archway at the end of the street.
+
+Change only:
+Time and weather. Fresh early-morning sun rising low over the rooftops at the far end of the street, backlighting the scene, with long soft shadows stretching toward the camera and a light morning haze in the distance. Clear blue sky. The rain has stopped and the street is dry, with only a few small puddles left, reflecting the sky. The brook is calm and low: clear, shallow water flowing gently over the stones, far below the culvert ledges. The wall lanterns are off, and the windows reflect daylight instead of glowing.
+
+Color and mood:
+Bright, fresh and peaceful: sunlit stone, blue sky, soft shadows. Natural daylight colour with no heavy orange or golden cast.
+
+Do not introduce:
+No people, no animals, no new objects or signs. No railing along the pavement edge. No readable text or licence plates. No change to the architecture or layout.
+
+Output:
+9:16 vertical, photorealistic, same resolution as the original.
+The rescue spot, one year later (@new-culvert)
+
+What it does: The same relight for the culvert: calm water, a dry ledge, morning sun. Attach @culvert.
+
+
+
+
+Edit objective:
+Relight the attached image from a rainy night with floodwater to a calm, sunny morning one year later, for the final scene of a short film. This must be the exact same spot from the exact same camera position.
+
+Preserve exactly:
+The camera position, steep high angle and framing. The weathered stone arch, the mossy stone channel walls, the narrow stone ledge just inside the arch on the right, the black iron railing on the footbridge, the iron bollard, and the stone pavement edge across the bottom of the frame.
+
+Change only:
+Time, weather and water. Bright morning sun falling from above and behind the footbridge, lighting the stonework, with the inside of the arch in soft, readable shadow. The floodwater is gone: clear, shallow water now flows gently over the stones of the channel floor, far below the ledge. The ledge is dry and fully visible, its front edge catching the sun. The stones are dry, the moss is bright green, and a small puddle on the pavement reflects the blue sky. A few fallen leaves rest on the pavement edge.
+
+Color and mood:
+Calm, quiet and sunlit: warm grey stone, fresh green moss, clear water. Natural daylight colour with no heavy orange or golden cast.
+
+Do not introduce:
+No people, no animals, no new objects. No railing along the pavement edge. No readable text. No change to the stonework, arch or ledge.
+
+Output:
+9:16 vertical, photorealistic, same resolution as the original.
+Prop: the towel (@towel)
+
+What it does: The terracotta towel the puppy sleeps in at home.
+
+
+
+
+Objective:
+A prop reference image of a towel for a short film, used to keep it identical across every shot.
+
+Subject:
+A soft, thick terracotta-orange cotton bath towel, slightly faded and worn from use, with a narrow cream woven band near each end. Loosely folded with one corner falling open to show its plush texture and thickness.
+
+Composition:
+Three-quarter top-down view, towel centred with comfortable space around it.
+
+Lighting and background:
+Plain warm light-grey studio backdrop with soft, even, diffused light and a gentle natural shadow.
+
+Constraints:
+No text, no logos, no people, no hands, no animals, no other objects.
+
+Output:
+1:1 square, photorealistic product photography, realistic cotton texture, high resolution.
+Prop: the phone (@phone)
+
+What it does: Mum's incoming call in Clip 1. It shows she's already late, so stopping for the puppy costs her something.
+
+
+
+
+Objective:
+A prop reference image of a phone for a short film, used to keep it identical across every shot.
+
+Subject:
+A modern mid-size smartphone in a slightly scuffed cream silicone case. The screen is lit with a simple incoming-call screen: the caller name "Mum" in large white letters near the top on a dark background, a round green answer button and a round red decline button at the bottom. No photo, no other text.
+
+Composition:
+Phone standing upright, facing camera at a slight angle, centred with comfortable space around it.
+
+Lighting and background:
+Plain warm light-grey studio backdrop with soft, even, diffused light and a gentle natural shadow. The screen glows softly.
+
+Constraints:
+No brand logos or brand-specific phone design. No text anywhere except "Mum". No people, no hands, no other objects.
+
+Output:
+1:1 square, photorealistic product photography, realistic silicone and glass textures, high resolution.
+Prop: the collar and leash (@collar)
+
+What it does: The dog's collar, PUDDLE name tag and leash for the ending. Make it before @old-pup, because his sheet uses it.
+
+
+
+
+Objective:
+A prop reference image of a dog collar and leash for a short film, used to keep them identical across every shot.
+
+Subject:
+A terracotta-orange leather dog collar with a brass buckle and brass D-ring, laid in a loose circle, with a small round brass name tag hanging from the ring, engraved "PUDDLE" in clear capital letters and turned to face camera. A matching terracotta-orange leather leash with a brass trigger clip and a looped handle lies coiled beside it.
+
+Composition:
+Overhead top-down view, collar and leash centred with comfortable space around them.
+
+Lighting and background:
+Plain warm light-grey studio backdrop with soft, even, diffused light and a gentle natural shadow.
+
+Constraints:
+No text anywhere except "PUDDLE" on the tag. No logos, no people, no hands, no animals, no other objects.
+
+Output:
+1:1 square, photorealistic product photography, realistic leather and brass textures, high resolution.
+Stage 2 — The Prompting Framework
+
+Claude wrote every video prompt with the Seedance Shotlist Director skill. The setup takes five minutes:
+
+Download the skill from Higgsfield's post, then in Claude go to Customize → Skills and upload it.
+Open a new chat and attach the story plus every asset sheet. The more Claude can see, the better the prompts come back.
+Give Claude the element list below, so it knows each asset by name.
+In Higgsfield, save each asset as an Element with exactly the same name. Higgsfield then attaches the right image to each @name in the prompt.
+@dry — the girl, clean, in her rust raincoat
+@wet — the girl, soaked and muddy after the rescue
+@home-clothes — the girl at home that night, in a cream sweater
+@year-after — the girl one year later, braid and rust dungarees
+@puppy — the puppy, clean and dry
+@wet-puppy — the puppy, soaked and muddy
+@old-pup — the dog one year later, with his collar
+@street — the street at night in the rain
+@culvert — the rescue spot under the footbridge, at night
+@home — the living room, lamplight and rain on the window
+@new-street — the same street one year later, morning sun
+@new-culvert — the rescue spot one year later, calm water
+@towel — terracotta towel
+@phone — phone showing Mum's call
+@collar — collar, PUDDLE tag and leash
+
+Frames taken from earlier clips aren't Elements. Attach them as plain images; the prompts call them @image_1.
+
+The style header
+
+What it does: The top of every video prompt locks the look: the light, the colour rule, the lens, the acting and the physics. All five clips reuse it, so they feel like one film. It also keeps the sound to effects only; the music goes in during the edit.
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine.
+Lighting: Motivated light only — every light has a visible source: street lanterns, a table lamp, the sun. Contre-jour backlight, camera on the shadow side, atmospheric haze or rain mist for depth. No unmotivated fill light.
+Color: 60:30:10 — dominant / secondary / accent. Rust-orange and terracotta belong only to the girl and her world: they are always the warm accent.
+Camera: Physical cine lens. 180° shutter motion blur.
+Skin: Pore-level realism — natural freckles, vellus hair, capillary flush, pore-shadow matching on-set light.
+Acting: Hollywood — micro-pauses before reactions, precise eye-line, living eyes with catch-lights, chest rise from breathing. Characters never standing, always reacting.
+Physics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.
+Composition: Rule of thirds + golden ratio. Every person moving from frame one. 9:16 vertical.
+Continuity: Characters, props, environment identical across every cut. No identity drift.
+Technical: 24fps smooth motion. 8K detail. No jitter.
+Audio: Environmental SFX only. No music. No dialogue. No subtitles.
+Stage 3 — The Scenes
+
+The film is five clips, each generated separately and cut together in the edit. Every prompt below is complete, style header included, so you can copy it straight into Higgsfield.
+
+Clip 1 — The rush (15 seconds)
+
+What it does: She hurries home through the rain and ignores Mum's call. Then she hears a whimper nobody else notices, searches for it, and finds the puppy on the ledge. It ends on his eyes looking up at her.
+
+Attach: @dry, @puppy, @street, @culvert, @phone
+
+Result: 
+
+
+
+
+
+
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine.
+Lighting: Motivated light only — every light has a visible source: street lanterns, a table lamp, the sun. Contre-jour backlight, camera on the shadow side, atmospheric haze or rain mist for depth. No unmotivated fill light.
+Color: 60:30:10 — dominant / secondary / accent. Rust-orange and terracotta belong only to the girl and her world: they are always the warm accent.
+Camera: Physical cine lens. 180° shutter motion blur.
+Skin: Pore-level realism — natural freckles, vellus hair, capillary flush, pore-shadow matching on-set light.
+Acting: Hollywood — micro-pauses before reactions, precise eye-line, living eyes with catch-lights, chest rise from breathing. Characters never standing, always reacting.
+Physics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.
+Composition: Rule of thirds + golden ratio. Every person moving from frame one. 9:16 vertical.
+Continuity: Characters, props, environment identical across every cut. No identity drift.
+Technical: 24fps smooth motion. 8K detail. No jitter.
+Audio: Environmental SFX only. No music. No dialogue. No subtitles.
+
+Characters:
+THE GIRL — exactly as @dry. About 10 years old, fair skin with light freckles across her nose and cheeks, warm brown eyes, dark brown centre-parted hair in a low ponytail with a black hair tie. Knee-length rust-orange zip-up raincoat with the hood up, rain beading on the fabric, cream canvas backpack on both shoulders, dark navy jeans, white sneakers. Still clean — only her hood and shoulders are wet. Her phone (@phone) is in her right raincoat pocket.
+THE PUPPY — exactly as @puppy. An 8-week-old Labrador mix with a pale cream coat, slightly darker golden ears, dark brown eyes and a black nose. One natural coat marking: caramel-brown fur covering its right eye and the right side of its forehead (on the left of the frame when it faces camera). Here it is soaked and muddy: fur darkened and clinging in wet clumps, mud on its legs and belly, ears flat, shivering, mouth closed.
+PASSERSBY — three or four adults in dark coats under black umbrellas, faces never seen clearly, hurrying.
+
+Scene:
+A narrow cobblestone street in an old European town at night in heavy rain, exactly as @street. A flooded stone-walled brook rushes along the left side; the pavement runs along its right bank. The pavement edge above the brook is an open, bare stone edge with NO railing, fence, posts or barrier anywhere along it — the only iron railings are on the footbridge and along the building side of the brook, exactly as in @street. The near stone footbridge crosses the brook, with the dark culvert arch beneath it exactly as @culvert and a single iron bollard on the pavement beside it. The girl hurries along the pavement away from camera toward the footbridge, the brook on her left. Cold blue-white wall lanterns are the only light.
+
+CUT 1 — Extreme wide, high angle from second-floor height, 24mm, locked off, 0–2.5s:
+The opening frame of @street. The girl enters from the bottom of frame and hurries away from camera along the pavement, head down, small in the frame — her rust raincoat the only warm colour in a cold blue world. The pavement's open stone edge runs bare along the brook beside her, with no railing. Passersby under black umbrellas stream past her in both directions. Heavy rain glows in the lantern light. Sound: rain hammering the cobblestones, the roar of the brook.
+
+CUT 2 — Over-the-shoulder insert from just behind her right shoulder, 50mm, handheld, moving with her, 2.5–4.5s:
+Mid-stride, she pulls @phone from her raincoat pocket and holds it upright in her right hand in front of her chest, screen facing her face, so the camera reads it over her shoulder: an incoming call, "Mum". The back of the phone faces the street ahead, never the camera. Raindrops land on the glass and smear the glow. Her thumb hovers for half a beat, then she shoves the phone back into her pocket and walks faster. Under the buzzing and the rain, a puppy's faint, thin whimper begins.
+
+CUT 3 — Medium close-up from the front, 50mm, eye level, tracking backward with her, then stopping, 4.5–8.5s:
+The whimper comes again, louder. She slows, then stops dead on the pavement a few steps short of the footbridge. She pushes the edge of her hood back from one ear and tilts her head, listening. Passersby under black umbrellas brush past her without a glance. Her eyes search for the sound: down the street ahead, across to the parked cars on the right, back over her shoulder. Nothing. The whimper again — from somewhere below. Her head turns sharply to her left, toward the roaring brook, and she steps toward the edge.
+
+CUT 4 — Worm's-eye POV of the puppy, 18mm, static, from the stone ledge inside the culvert just above the water, 8.5–11.5s:
+Muddy water churns across the bottom of the frame and rain falls toward the lens, backlit by the lantern above. Along the bare stone pavement edge overhead, open with no railing or posts, hurrying feet and black umbrellas pass — nobody slows, nobody looks down. White sneakers step up to the edge and stop. The girl crouches and her face appears over the edge, framed by her rust hood, rain dripping from its rim, backlit by the lantern. Her eyes search the dark below; her lips part; her breath fogs in the cold.
+
+CUT 5 — Steep high-angle POV of the girl, 35mm, slow push-in, 11.5–15s:
+Her view down into the culvert, exactly as @culvert: white water roars out from under the arch. On the narrow stone ledge just inside the arch, on the right, the soaked puppy huddles against the wall, shivering, water spilling over the ledge around its paws. The camera pushes in slowly until the puppy's face fills the frame: the caramel marking around its right eye, wide dark eyes catching the cold blue lantern light, looking straight up at her. Mouth closed. Hold on the eyes. Sound: the roar of the water, rain, one small whimper.
+Clip 2 — The rescue (15 seconds)
+
+What it does: She hesitates, drops her bag in a puddle, earns the puppy's trust, and lifts him out just before the water takes the ledge. It ends with him held against her chest, under her chin.
+
+Attach: @dry, @wet, @wet-puppy, @street, @culvert
+
+Result: 
+
+
+
+
+
+
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine.
+Lighting: Motivated light only — every light has a visible source: street lanterns, a table lamp, the sun. Contre-jour backlight, camera on the shadow side, atmospheric haze or rain mist for depth. No unmotivated fill light.
+Color: 60:30:10 — dominant / secondary / accent. Rust-orange and terracotta belong only to the girl and her world: they are always the warm accent.
+Camera: Physical cine lens. 180° shutter motion blur.
+Skin: Pore-level realism — natural freckles, vellus hair, capillary flush, pore-shadow matching on-set light.
+Acting: Hollywood — micro-pauses before reactions, precise eye-line, living eyes with catch-lights, chest rise from breathing. Characters never standing, always reacting.
+Physics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.
+Composition: Rule of thirds + golden ratio. Every person moving from frame one. 9:16 vertical.
+Continuity: Characters, props, environment identical across every cut. No identity drift.
+Technical: 24fps smooth motion. 8K detail. No jitter.
+Audio: Environmental SFX only. No music. No dialogue. No subtitles.
+
+Characters:
+THE GIRL — starts exactly as @dry and ends exactly as @wet. About 10 years old, fair skin with light freckles across her nose and cheeks, warm brown eyes, dark brown centre-parted hair in a low ponytail with a black hair tie. Knee-length rust-orange zip-up raincoat, cream canvas backpack, dark navy jeans, white sneakers. She begins crouched at the edge with her hood up, still clean. As she kneels and reaches into the culvert, her hood falls back, her hair soaks through and sticks to her forehead and cheeks, mud covers the knees of her jeans and streaks the front of her raincoat. Her phone is in her right raincoat pocket.
+THE PUPPY — exactly as @wet-puppy, and exactly as wet and dirty as it is there, for the whole video. A real Labrador mix puppy about 8 weeks old, filmed like a real animal on location. Its cream coat is soaked through, dark with water and slicked flat against its body in wet, spiky clumps; pink skin shows through the wet fur on its chest and belly; brown mud is speckled across its left cheek and smeared over its chest and legs, and its paws are caked in mud; water drips from its chin and the tips of its ears; its nose is wet and glistening. Slightly darker golden ears, dark brown eyes, dark brown nose. One natural coat marking, exactly as in @wet-puppy: a large caramel-brown area of fur covering its right eye and running up over the right side of its forehead (on the left of the frame when it faces camera), with a soft natural edge against the cream fur. Real puppy proportions: oversized paws, loose skin, natural-sized eyes, individual hairs visible. In every shot it is at least as wet and muddy as in @wet-puppy — never clean, dry, fluffy or bright white. Ears flat, trembling, mouth closed. Not stylised or cartoonish: no oversized glossy eyes, no plastic or plush-toy smoothness, no CGI look.
+
+Scene:
+The same moment, continuing straight on: the narrow cobblestone street at night in heavy rain, exactly as @street, at the culvert under the near footbridge, exactly as @culvert. The pavement edge is an open, bare stone edge with NO railing, fence, posts or barrier anywhere along it — the only iron railings are on the footbridge and along the building side of the brook, exactly as in @street. The girl is crouched at the stone edge of the pavement just downstream of the footbridge, beside the iron bollard. Below her, the puppy lies on the narrow stone ledge just inside the culvert arch, on the right, with its head resting on its front paws, about an arm's length beneath the pavement edge. Muddy floodwater roars out from under the arch and is rising toward the ledge. A cold blue-white wall lantern above is the only light. This is always the same stone arch, ledge and roaring floodwater as in @culvert — never a dry trench, alley, gutter or drain.
+
+CUT 1 — Close-up, 85mm, eye level, side-on, shallow focus, 0–3s:
+Her face under the rust hood, rim-lit cold blue by the lantern, rain streaking past in the foreground. She stares down into the culvert, frozen. Her phone buzzes again in her pocket. Her eyes flick toward the street — the way home — then back down. She swallows once. Her jaw sets.
+
+CUT 2 — Pavement-level insert, 35mm, static, 3–5.5s:
+Her clean white sneakers at the stone edge, inches from the roaring brown water. The buzzing stops. A wide, rain-pocked puddle of muddy water lies on the stone beside her feet. Her cream backpack slides off her shoulder and drops straight into it with a heavy splash, muddy water soaking into the canvas. Her knees come down onto the wet stone, into the mud.
+
+CUT 3 — Low angle from the brook just downstream of the culvert, 35mm, static, looking straight at the arch, 5.5–11s:
+The stone arch exactly as @culvert fills the frame, brown floodwater roaring out from under it toward the camera. Just inside the arch, on the right, the narrow stone ledge sits barely above the racing water; the puppy lies on it against the wall, its head resting on its front paws, soaked and filthy exactly as @wet-puppy. The open stone edge of the pavement runs along the top of the right-hand wall, above the ledge. The girl lies flat on her stomach on that edge and reaches one arm down toward the ledge; her hood falls back and the rain plasters her hair to her forehead and cheeks. As her hand comes down, the puppy lifts its head and shrinks back against the wall. Her hand stops just short of it — palm open, perfectly still — and she waits, breathing hard. A long beat. The puppy stretches its neck, sniffs her fingertips, then presses its head into her palm. She slides her hand under its chest, her other hand comes down to cradle its back legs, and she lifts it off the ledge with its whole weight supported — never by the scruff or the neck. A heartbeat later, a surge of brown water swallows the empty ledge.
+
+CUT 4 — Medium close-up, 50mm, eye level, slow push-in, 11–15s:
+She kneels on the pavement in the pouring rain, soaked and muddy exactly as @wet, her raincoat still zipped, holding the puppy against her chest with both arms wrapped around it. The puppy is still as wet and muddy as in @wet-puppy: fur slicked dark, mud on its face and legs, its muddy paws smearing her raincoat. Its head rests just under her chin, centred in the frame and facing camera, with the caramel marking around its right eye on the left of the frame; its eyes half-close as its trembling slows. She rests her chin on top of its head and lets out one shaky breath. Hold. Sound: rain, the brook roaring behind them, her breathing.
+Clip 3 — Home (5 seconds)
+
+What it does: The match cut. The same pose as the last frame of Clip 2, now warm, dry and safe at home. It ends on the puppy's tiny paw resting on her hand.
+
+Attach: @home, @home-clothes, @puppy, @towel, plus the last frame of Clip 2 as @image_1
+
+The last frame of Clip 2, attached as @image_1:
+
+
+
+
+Result: 
+
+
+
+
+
+
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine.
+Lighting: Motivated light only — every light has a visible source: street lanterns, a table lamp, the sun. Contre-jour backlight, camera on the shadow side, atmospheric haze or rain mist for depth. No unmotivated fill light.
+Color: 60:30:10 — dominant / secondary / accent. Rust-orange and terracotta belong only to the girl and her world: they are always the warm accent.
+Camera: Physical cine lens. 180° shutter motion blur.
+Skin: Pore-level realism — natural freckles, vellus hair, capillary flush, pore-shadow matching on-set light.
+Acting: Hollywood — micro-pauses before reactions, precise eye-line, living eyes with catch-lights, chest rise from breathing. Characters never standing, always reacting.
+Physics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.
+Composition: Rule of thirds + golden ratio. Every person moving from frame one. 9:16 vertical.
+Continuity: Characters, props, environment identical across every cut. No identity drift.
+Technical: 24fps smooth motion. 8K detail. No jitter.
+Audio: Environmental SFX only. No music. No dialogue. No subtitles.
+
+Characters:
+THE GIRL — exactly as @home-clothes. About 10 years old, fair skin with light freckles across her nose and cheeks, warm brown eyes, dark brown centre-parted hair, still damp and loosely tied back, slightly frizzy as it dries. Oversized cream knit sweater, soft grey pyjama trousers, thick socks. Clean, warm and sleepy.
+THE PUPPY — exactly as @puppy: the same Labrador mix puppy, about 8 weeks old, now bathed and towel-dried. Soft, fluffy pale cream coat, slightly darker golden ears, dark brown eyes, dark brown nose. One natural coat marking: a large caramel-brown area of fur covering its right eye and running up over the right side of its forehead (on the left of the frame when it faces camera). Wrapped in the terracotta towel with cream stripes, exactly as @towel. Real puppy proportions and natural-sized eyes; not stylised, no plush-toy smoothness, no CGI look. Mouth closed.
+
+Scene:
+Her home the same night, exactly as @home: a small living room with warm cream walls, the olive-green velvet armchair with a cream knitted throw, a brass table lamp glowing warm amber on the side table, and the tall sash window behind the armchair, rain streaming down the glass and the cold blue night outside. The table lamp is the main light. She sits curled up in the armchair, holding the puppy in her arms. There is no other dog or puppy anywhere in the room.
+
+CUT 1 — Medium close-up, 50mm, eye level, locked off, 0–3s:
+Framed exactly like @image_1 — copy only its composition, not its lighting, clothes or rain. She cradles the puppy against her chest, her cheek resting on top of its head, eyes closed, a soft smile. The puppy's head is on the left of the frame, the caramel marking around its right eye, one front paw draped over her forearm. Now everything is warm: amber lamplight on her face, her cream sweater, her damp hair, the dry, fluffy puppy wrapped in the terracotta towel, and rain sliding down the dark window behind them. The puppy's eyes drift shut. Sound: rain against the window, a quiet room.
+
+CUT 2 — Extreme close-up, 100mm macro, locked off, 3–5s:
+Her hand lies palm-down across the frame from the right, on the terracotta towel. In the centre of the frame, the puppy's small, fluffy front paw rests on the back of her hand, glowing in the warm lamplight. Her thumb strokes it once, slowly. Hold.
+Clip 4 — The time skip (4 seconds)
+
+What it does: The same hand on the same towel, one year later, now under a grown dog's paw. Cutting from the tiny paw to this one jumps a whole year without any text on screen.
+
+Step 1 — make the start frame. Edit the last frame of Clip 3, with @old-pup attached second.
+
+
+
+
+Edit objective:
+Edit the first attached image for a short film's time skip: the same moment, one year later. Keep the exact framing and change only the paw and the light.
+
+Preserve exactly:
+The camera angle, macro framing and shallow depth of field. Her hand lying palm-down across the frame from the right, its exact position, skin and natural short nails, and her thumb curled over the top of the paw. The terracotta towel under her hand, the blurred cream knit in the background, and the overall composition.
+
+Change only:
+1. The paw. Replace the small puppy paw with the front paw of the fully grown adult dog in the second attached image: broad, heavy and cream-furred, with thick toes, dark pads and longer claws, at least twice the size of the original paw. It covers most of the back of her hand, with a thick adult foreleg entering from the top of the frame. Her thumb rests over the top of the bigger paw in the same way.
+2. The light. Replace the warm amber lamplight with soft morning sunlight from the window behind, backlighting the fine hairs on the paw and the fibres of the towel, with a gentle sunlit glow in the blurred background.
+
+Do not introduce:
+No puppy paw, no second paw, no other hands. No change to her hand's shape, position or skin. No change to the towel's colour. No text.
+
+Output:
+9:16 vertical, photorealistic, same resolution as the original (1080 × 1920).
+
+
+
+
+Step 2 — animate it. Set the start frame from Step 1 as the first frame, attach @old-pup, and set the duration to 4 seconds.
+
+Result: 
+
+
+
+
+
+
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine.
+Lighting: Motivated light only — every light has a visible source: street lanterns, a table lamp, the sun. Contre-jour backlight, camera on the shadow side, atmospheric haze or rain mist for depth. No unmotivated fill light.
+Color: 60:30:10 — dominant / secondary / accent. Rust-orange and terracotta belong only to the girl and her world: they are always the warm accent.
+Camera: Physical cine lens. 180° shutter motion blur.
+Skin: Pore-level realism — natural freckles, vellus hair, capillary flush, pore-shadow matching on-set light.
+Acting: Hollywood — micro-pauses before reactions, precise eye-line, living eyes with catch-lights, chest rise from breathing. Characters never standing, always reacting.
+Physics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.
+Composition: Rule of thirds + golden ratio. Every person moving from frame one. 9:16 vertical.
+Continuity: Characters, props, environment identical across every cut. No identity drift.
+Technical: 24fps smooth motion. 8K detail. No jitter.
+Audio: Environmental SFX only. No music. No dialogue. No subtitles.
+
+Characters:
+THE GIRL — only her hand is visible, exactly as in the start frame: lying palm-down on the terracotta towel, her thumb resting against the side of the paw.
+THE DOG — only his front paw and lower foreleg are visible, exactly as in the start frame and @old-pup: the paw of a fully grown adult Labrador mix, not a puppy. Broad, heavy and cream-furred, with thick toes, dark pads and longer claws, resting on the back of her hand, with his foreleg entering from the top right of the frame.
+
+Scene:
+At home, one year later on a sunny morning, exactly as in the start frame: the terracotta towel under her hand, the blurred cream knit behind, and warm morning sunlight streaming in from the upper right, backlighting the fine hairs on the paw.
+
+CUT 1 — Extreme close-up, 100mm macro, locked off, 0–4s:
+Starts exactly on the start frame and keeps its framing, light and paw size throughout. Her thumb slowly strokes along the side of the big paw, back and forth, twice. The paw flexes gently, the toes spreading a little and the claws lifting slightly off her fingers, then relaxes and settles its weight back onto her hand. Sunlight glints on the fine hairs of the paw, and a few dust motes drift through the beam. Sound: soft birdsong through the window, the dog's slow, contented breathing.
+
+Constraints: The paw stays the same big adult paw for the whole shot and never shrinks or changes shape. Her hand stays in the same place. No lamplight. No other hands or paws.
+Clip 5 — One year later (10 seconds)
+
+What it does: The opening shot again, one year on and in sunshine. The dog pulls her along, stops dead at the culvert, and looks up at her as if to say: remember? The first cut repeats the paw shot, so swap it for Clip 4 in the edit.
+
+Attach: @new-street, @new-culvert, @year-after, @old-pup, @collar, plus the last frame of Clip 3 as @image_1
+
+Result: 
+
+
+
+
+
+
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine.
+Lighting: Motivated light only — every light has a visible source: street lanterns, a table lamp, the sun. Contre-jour backlight, camera on the shadow side, atmospheric haze or rain mist for depth. No unmotivated fill light.
+Color: 60:30:10 — dominant / secondary / accent. Rust-orange and terracotta belong only to the girl and her world: they are always the warm accent.
+Camera: Physical cine lens. 180° shutter motion blur.
+Skin: Pore-level realism — natural freckles, vellus hair, capillary flush, pore-shadow matching on-set light.
+Acting: Hollywood — micro-pauses before reactions, precise eye-line, living eyes with catch-lights, chest rise from breathing. Characters never standing, always reacting.
+Physics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.
+Composition: Rule of thirds + golden ratio. Every person moving from frame one. 9:16 vertical.
+Continuity: Characters, props, environment identical across every cut. No identity drift.
+Technical: 24fps smooth motion. 8K detail. No jitter.
+Audio: Environmental SFX only. No music. No dialogue. No subtitles.
+
+Characters:
+THE GIRL — exactly as @year-after: one year older and a little taller, the same face with light freckles across her nose and cheeks, warm brown eyes, dark brown centre-parted hair grown longer and worn in a single braid over one shoulder. Rust-orange denim dungarees over a white cotton T-shirt, white sneakers. Light, happy and carefree.
+THE DOG — exactly as @old-pup: the same dog, one year later. A fully grown adult Labrador mix — not a puppy — medium-large and athletic, his back reaching the middle of her thigh, with long legs, a deep chest, big heavy paws and a longer adult muzzle: about twice the size he was as a puppy. Short, dense pale cream coat, slightly darker golden ears, dark brown eyes and a dark brown nose. One natural coat marking: a large caramel-brown area of fur covering its right eye and running up over the right side of its forehead (on the left of the frame when it faces camera). It wears the terracotta leather collar with the round brass tag engraved "PUDDLE" and the matching terracotta leather leash, exactly as @collar. A real dog with natural fur and natural-sized eyes; not stylised, no CGI look.
+
+Scene:
+CUT 1 is at home, in the same armchair as @image_1, on a sunny morning one year later. CUTS 2 to 4 are on the same street one year later on a bright, fresh morning, exactly as @new-street: the sun low over the rooftops at the far end, backlighting everything, long soft shadows stretching toward the camera, light haze, clear blue sky, dry cobblestones with a few small puddles reflecting the sky. The brook along the left is calm and low. The pavement edge is the same open, bare stone edge with no railing. The near footbridge crosses the brook with the culvert arch beneath it, exactly as @new-culvert: the ledge just inside the arch is dry, and clear, shallow water flows gently below it. The iron bollard stands on the pavement beside the bridge.
+
+CUT 1 — Extreme close-up, 100mm macro, locked off, at home, 0–2s:
+The same spot as @image_1, one year later: the same armchair, the same terracotta towel and the same blurred cream knit behind, in the same composition. Only two things change. Bright morning sunlight from the window replaces the lamplight. And the paw resting on the back of her hand is now a big adult dog's paw, at least twice the size of the puppy's paw in @image_1: broad, heavy and cream-furred, with thick toes, dark pads and longer claws, covering most of the back of her hand, a thick adult foreleg entering from the top of the frame. Her thumb strokes it once.
+
+CUT 2 — Extreme wide, high angle from second-floor height, 24mm, locked off, 2–5s:
+The exact framing of @new-street, the same frame that opened the film, now in morning sun. The girl and the dog enter from the bottom of frame and head away from camera along the sunlit pavement, the brook on her left. The full-grown dog pulls ahead of her on the taut terracotta leash, mouth open in a happy pant, and she half-jogs behind him to keep up, laughing. One or two distant passersby stroll in the haze. Sound: footsteps on stone, birdsong, the gentle trickle of the brook, her laugh.
+
+CUT 3 — Low angle at the dog's height, 35mm, tracking, then stopping, 5–7.5s:
+At the open stone edge just downstream of the footbridge, beside the iron bollard, the dog stops dead and the leash snaps taut. He looks down over the edge into the culvert, exactly as @new-culvert: the dry ledge just inside the arch, clear water trickling below. He sniffs the air above it. Then he lifts his head and looks up at her, ears soft, mouth closed, tail slowly wagging. The PUDDLE tag swings and catches the sun.
+
+CUT 4 — Close-up, 85mm, eye level, shallow focus, slow push-in, 7.5–10s:
+Her face, backlit by the morning sun, loose strands of her braid glowing. Her laugh fades as she follows his gaze down to the ledge, then back to him. It lands: her eyes glisten and a slow smile spreads. She kneels down to his level and rests her forehead against his. Hold. Sound: birdsong, the brook, one soft breath.
+My Two Rules
+Assets first. If your character sheets and locations are messy, your film will be messy.
+Test at low quality first. Problems show up just as clearly in a cheap low-resolution test, so save your credits for the final.
+
+The whole process, failed takes included, is in my YouTube channel: https://www.youtube.com/@Ahadanimates Got a question about a prompt? Ask in the comments.

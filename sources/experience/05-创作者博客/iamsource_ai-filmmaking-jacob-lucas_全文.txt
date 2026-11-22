@@ -1,0 +1,134 @@
+【项目】WE DIDN’T KNOW HOW TO MAKE A FILM. WE STARTED MAKING ONE ANYWAY.（@iamsource · 创作者博客）
+【链接】https://higgsfield.ai/@iamsource/blogs/ai-filmmaking-jacob-lucas
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+WE DIDN’T KNOW HOW TO MAKE A FILM. WE STARTED MAKING ONE ANYWAY.
+@iamsource
+34
+4
+0
+How a festival deadline turned JACOB & LUCAS into an unexpected filmmaking bootcamp—and showed us what AI creation really demands.
+
+As we write this, there are fourteen hours left before the festival deadline.
+
+We are less than 3 minutes into the film. Our target was 5min. We are still trying to solve a shot that refuses to work. And if we are honest, it is unlikely that we will finish in time.
+
+But that is not the whole story.
+
+
+At the beginning of September 2026, neither of us had experience making films. We had never directed one, built a shot in Blender or created an AI-film production system. We started learning all of it when we began making Jacob & Lucas for the festival.
+
+Two weeks later, we may not have a completed submission. What we do have is the beginning of a new creative language for IAMSOURCE.
+
+The door opened before we felt ready
+
+I was already using Higgsfield to develop an AI twin for a personal project when I saw the film festival. My first thought was immediate: maybe this was how we could finally bring Jacob & Lucas to life.
+
+The story had come to me as a download years earlier. We had always imagined IAMSOURCE making films one day, but “one day” leaves a dream at a safe distance. The festival gave us a door to do it now.
+
+So we entered with no filmmaking background, an unfinished world and a deadline close enough to make hesitation irrelevant.
+
+We knew our greatest strength was the vision. We could see the atmosphere, the performances, the restraint, the tension and the world around the characters. We knew exactly when an image felt ordinary and when it reached the level we wanted. Our taste kept pushing the work toward heights we did not know we could reach.
+
+It also made the process much harder. 
+
+We were not trying to generate a collection of impressive clips. We were trying to direct a film. Those are not the same thing.
+
+A beautiful result is not the same as a controlled result
+
+AI can give you something visually extraordinary almost immediately. That first success can make the rest of the process look deceptively simple.
+
+Then you ask for the same character in the next shot.
+
+You ask for the same car to remain parked in the same place. You ask one boy to exit through the front passenger door and another to exit through the rear passenger door behind him. You ask the mother to remain in the driver’s seat until it is time for her action. You ask the camera to preserve an already-approved path.
+
+Suddenly, making a film is no longer about whether the model can create something beautiful. It is about whether every decision can survive from one generation to the next.
+
+This is where we encountered what we now call corruption and drift. A corrected detail would cause an approved detail to disappear. A character could follow the wrong path, occupy someone else’s seat or vanish. One person could perform another person’s action. The vehicle could change. The lighting could become more polished while becoming less correct. The more instructions we added to protect the shot, the more opportunities we created for the model to reinterpret it.
+
+The frustrating part was not simply that a generation failed. It was that we often did not yet know why it failed—or which part of the pipeline owned the failure.
+
+That distinction became everything.
+
+The part no one talks about
+
+People talk about AI filmmaking as if the main skill is prompting. Prompting matters, but a prompt alone is not a production system.
+
+What no one talks about enough is the handoff.
+
+How does the creative intention move from the idea to the shot design, from the shot design to the blocking, from the blocking to the reference assets, and from those assets into the final generation without being diluted or contradicted?
+
+How do you know whether a failure came from the camera design, the 3D previz, a character reference, the wording of the prompt or the model’s interpretation?
+
+How do you correct one failure without accidentally destroying five things that were already right?
+
+We did not begin with answers. We began building them because the film forced us to.
+
+Our process gradually became more structured. A shot needed a clear directorial intention. Blocking and camera movement needed to be tested before a final generation. Character, wardrobe, prop and location references needed defined responsibilities. Approved decisions needed to be locked. Failures needed to be logged instead of vaguely remembered. Every new attempt needed to test a specific change.
+
+The rule became simple: change one thing per run. If five things change and the next generation works, you still do not know what solved it. If one thing changes, success or failure teaches you something.
+
+We began creating shot ledgers, authority hierarchies, protected-success lists and handoffs between different stages of the process. We wanted the vision to survive contact with the tools.
+
+We are still figuring this out. That is important to say plainly. We are not presenting a perfect system after two weeks. We are documenting the moment we realized that the system itself is part of the art.
+
+When the film stopped moving
+
+Our lowest point came roughly a minute and a half into Jacob & Lucas.
+
+We became stuck on a specific shot. We were close enough to see it, but every attempt introduced a new problem. We turned to Blender to create more exact blocking and give the AI a clearer spatial map. That brought us closer, but it still did not give us the shot exactly as directed.
+
+The deadline kept moving toward us while the film stopped moving forward.
+
+This is the side of AI creation that disappears in a highlight reel: the hours spent diagnosing why an apparently simple action will not hold; the emotional swing between an astonishing frame and a corrupted sequence; the realization that knowing what you want does not automatically tell you how to communicate it to a machine.
+
+There were moments when the IF in “if we can finish this” felt enormous.
+
+We also believed that if we somehow completed the film at the level we could see, we had a real chance to win. That belief was not based on experience. It was based on the strength of the idea and our refusal to accept images that looked impressive but did not belong to our world.
+
+Our vision kept us in the process when our technical knowledge could not.
+
+Taste is not a workflow—but it can build one
+
+Taste did not teach us Blender. It did not prevent continuity errors, repair a broken handoff or tell us which instruction caused a character to disappear.
+
+What it did was stop us from calling something finished simply because it was difficult to make.
+
+Our taste level became the pressure that forced us to learn the craft underneath the image: composition, camera language, blocking, continuity, performance, lighting behavior and troubleshooting. We started this process trying to make one short film. We came out of it beginning to understand how an AI-native film pipeline may need to operate.
+
+That may be the most valuable result of the festival.
+
+A deadline compressed years of “we should learn that someday” into days of real decisions. Every obstacle exposed a missing skill. Every failed generation made the next question more precise. The film became a bootcamp designed by the demands of our own vision.
+
+Why film matters to IAMSOURCE
+
+IAMSOURCE has never been intended to live inside one category.
+
+Fashion, music and film are not separate departments competing for attention. They are different ways of entering the same universe. AI filmmaking gives us a new way to connect them—and a new way to communicate a product without reducing it to conventional advertising.
+
+An IAMSOURCE fashion piece can belong naturally to a character and carry meaning inside a story. A campaign can unfold as a world rather than a sequence of product shots. Music can be experienced through the atmosphere, characters and visual language around it. The audience does not have to be told what the brand represents before they feel it.
+
+That is the larger vision: not using AI to produce more content, but using it to bring a world to life that would once have required us to wait for permission, infrastructure or a much larger production budget.
+
+AI does not make that vision automatic. It makes it possible to begin.
+
+For IAMSOURCE, that difference is everything.
+
+Fourteen hours left
+
+We may miss the festival deadline. If we do, it will hurt. We entered to finish, and we believed in the possibility of winning.
+
+But the deadline is no longer the end of this story.
+
+We brought Jacob & Lucas out of our imagination and into motion. We discovered that our vision can carry us through a medium we had never touched before. We also discovered the distance between generating an image and directing a film—and we have chosen to keep crossing it.
+
+We will stay on this journey. We will keep learning how to build the systems, how to protect the work from drift and how to turn our taste into something repeatable without making it ordinary.
+
+Whatever we create will always be held to a certain level because that is how we see. The tools will change. Our standards will not.
+
+The festival gave us a deadline. Jacob & Lucas gave us a film education. And AI gave IAMSOURCE a door into the universe we had always planned to build.
+
+We are walking through it now.

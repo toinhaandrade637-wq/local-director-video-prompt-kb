@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "archived_date": "2026-10-19",
+  "thread_id": "01a11b93-0d5d-72b0-9a10-5b9fa386a1a1",
+  "source_user_record_line": 1774,
+  "original_message": {
+    "path": "资料库/00_完整原始消息/用户新增案例原始消息_2026-10-19_糖果世界六例与写作经验.txt",
+    "utf16_length": 8588,
+    "sha256_utf8": "b71322e5c4f61d3439dc5f6492dac13d8e786c3f95faa497b28698dcf39ba9e0"
+  },
+  "fidelity": "六条提示词与用户写作经验作连续切片，保留错字、引用、重复引句、英文台词与标点，不校正物理或画作描述。",
+  "reconstruction_verified": true,
+  "cases": [
+    {
+      "id": "P049",
+      "title": "蚂蚁搬运透明硬糖_微观纪录片",
+      "path": "资料库/01_用户提示词原文/P049_蚂蚁搬运透明硬糖_微观纪录片.txt",
+      "source_start_utf16": 0,
+      "source_end_utf16_exclusive": 565,
+      "utf16_length": 565,
+      "sha256_utf8": "3c1cfe1ba2f644af5a86ffa7d9d0a930c6358a6711202ce5c31b928d5df12034",
+      "validation": "新增文字样本；用户另述部分写法的个人实用经验，未提供本批生成视频或逐例验证记录。",
+      "reference_availability": "文中所指首尾图、画作局部与此前世界观仅按文字分析，未随本批提供相关图像或视频本体。"
+    },
+    {
+      "id": "P050",
+      "title": "实验基地观察与糖果化反转",
+      "path": "资料库/01_用户提示词原文/P050_实验基地观察与糖果化反转.txt",
+      "source_start_utf16": 565,
+      "source_end_utf16_exclusive": 3027,
+      "utf16_length": 2462,
+      "sha256_utf8": "c0b045ab3dc8430b49d056013b91fe1a3271bb098302a62983c44140e670b960",
+      "validation": "新增文字样本；用户另述部分写法的个人实用经验，未提供本批生成视频或逐例验证记录。",
+      "reference_availability": "文中所指首尾图、画作局部与此前世界观仅按文字分析，未随本批提供相关图像或视频本体。"
+    },
+    {
+      "id": "P051",
+      "title": "发布会声明_记者一镜到底",
+      "path": "资料库/01_用户提示词原文/P051_发布会声明_记者一镜到底.txt",
+      "source_start_utf16": 3027,
+      "source_end_utf16_exclusive": 3827,
+      "utf16_length": 800,
+      "sha256_utf8": "61615c1c7bfc75619f910545f71a4b9b8a6e79c264bba08ab85ae82861fbab03",
+      "validation": "新增文字样本；用户另述部分写法的个人实用经验，未提供本批生成视频或逐例验证记录。",
+      "reference_availability": "文中所指首尾图、画作局部与此前世界观仅按文字分析，未随本批提供相关图像或视频本体。"
+    },
+    {
+      "id": "P052",
+      "title": "美术馆到桶厂_逐区域遮挡转场",
+      "path": "资料库/01_用户提示词原文/P052_美术馆到桶厂_逐区域遮挡转场.txt",
+      "source_start_utf16": 3827,
+      "source_end_utf16_exclusive": 5076,
+      "utf16_length": 1249,
+      "sha256_utf8": "06e21c46a1790c110e665ca549a40e2fbbaa53cf7df6d81175ce1a862642c27b",
+      "validation": "新增文字样本；用户另述部分写法的个人实用经验，未提供本批生成视频或逐例验证记录。",
+      "reference_availability": "文中所指首尾图、画作局部与此前世界观仅按文字分析，未随本批提供相关图像或视频本体。"
+    },
+    {
+      "id": "P053",
+      "title": "女孩捏起黄色硬糖_贴地微距",
+      "path": "资料库/01_用户提示词原文/P053_女孩捏起黄色硬糖_贴地微距.txt",
+      "source_start_utf16": 5076,
+      "source_end_utf16_exclusive": 5558,
+      "utf16_length": 482,
+      "sha256_utf8": "2160aaa4bd842106516537ef262dde6149286db9b09178c8a493dda02139d3ad",
+      "validation": "新增文字样本；用户另述部分写法的个人实用经验，未提供本批生成视频或逐例验证记录。",
+      "reference_availability": "文中所指首尾图、画作局部与此前世界观仅按文字分析，未随本批提供相关图像或视频本体。"
+    },
+    {
+      "id": "P054",
+      "title": "美术馆群像讨论_说者与画作细节",
+      "path": "资料库/01_用户提示词原文/P054_美术馆群像讨论_说者与画作细节.txt",
+      "source_start_utf16": 5558,
+      "source_end_utf16_exclusive": 7237,
+      "utf16_length": 1679,
+      "sha256_utf8": "76b272071b30d7cbe82c542bb11fab4d3dbed9b930a0f41dbc347ead7ba29ed2",
+      "validation": "新增文字样本；用户另述部分写法的个人实用经验，未提供本批生成视频或逐例验证记录。",
+      "reference_availability": "文中所指首尾图、画作局部与此前世界观仅按文字分析，未随本批提供相关图像或视频本体。"
+    }
+  ],
+  "user_analysis": {
+    "path": "资料库/00_完整原始消息/用户写作经验_2026-10-19_代入感材质与一致性强调.txt",
+    "source_start_utf16": 7237,
+    "sha256_utf8": "fe32fd190527cd54b84618182d17674967cf31a70bcd761c4796ece9448571b2",
+    "source_end_utf16_exclusive": 8588
+  }
+}

@@ -1,0 +1,102 @@
+【项目】MY SEEDANCE 2.5 PROMPT ❅（@artemysiaai · 创作者博客）
+【链接】https://higgsfield.ai/@artemysiaai/blogs/my-seedance-2-5-prompt
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+MY SEEDANCE 2.5 PROMPT ❅
+A
+Sophie Nardi
+@artemysiaai
+72
+1
+0
+
+
+
+
+
+
+
+Here is the point-by-point explanation of this prompt, starting with the global part and then the six blocks.
+
+Global part (applies to all 30 seconds)
+@environment is the only “character” in the scene: the landscape. It describes the elements the generator must keep consistent from start to finish: the mountains (snow-capped peaks above a sea of clouds), the valley (dark pines, a frozen turquoise lake, a river) and the cabin (snow-covered roof, chimney smoke, warm light in the windows). It closes with the palette: pink-gold on the peaks and cold blue in the valleys. There are no characters, so no other tags are needed.
+style fixes the look: hyper-realistic aerial photography, IMAX tone, anamorphic lenses, deep depth of field with atmospheric haze. Then the palette (cold blue shadows against warm sunrise light), the grain and, above all, the camera type: a smooth, continuous drone with wide glides, slow descents and orbits, no cuts and no shaky movement.
+visual_feel gives the emotional intent: “majestic stillness” and a small warm shelter inside an immense, silent world. It helps the generator choose pace and atmosphere, for example slow movements rather than flashy ones.
+audio_design says there is no music (“No score”) and lists the sounds: wind across the peaks, an eagle’s cry, creaking pines, the crackle of fire near the cabin. At the end a low drone builds slowly to give emotional closure.
+avoid prevents typical errors: no people, vehicles, modern buildings or power lines (which would break the atmosphere), no cuts, whip-pans or shaky movement, no text or logos. The “no cuts” here repeats the one in style, which is fine: repeating an important constraint reinforces it.
+The six blocks (5 seconds each)
+
+Each block has the same fields: lens, shot, move, action, light and sfx. The journey goes from the immense landscape to the small detail, then back out:
+
+00_05, high altitude. A 16mm wide lens above the clouds, with the camera moving toward the peaks and rising slightly. The action is mist between the summits and the first sun coloring the ridgelines. It works as the “opening”: it shows the scale of the environment.
+05_10, descent along the ridge. Still 16mm. The camera drops below the clouds and follows the ridge line toward the valley of snowy pines. The scene changes level, from high altitude to mid altitude.
+10_15, lake and river. Switches to 20mm and the camera glides sideways over the frozen lake, then follows the curve of the river. This is the transition toward the cabin area: the river acts as a “guide” that leads the eye to the edge of the forest.
+15_20, the cabin reveal. 24mm, slow forward glide with a small descent. The cabin appears between the pines: snow-covered roof, smoke rising straight from the chimney, warm light in the windows. This is the central moment of the video. The warm window light against the blue snow is the point of interest.
+20_25, orbit around the cabin. A slow 180-degree orbit at medium height, with the cabin at the center and the mountains sweeping past behind it. It shows that the cabin belongs to the landscape, and it adds a movement different from the earlier ones (an orbit instead of a glide).
+25_30, closing shot. A tighter lens (35mm), with a slow rise backward. The cabin becomes a small warm dot inside the immense valley while the sun climbs. The final drone in the audio closes the scene.
+How the progression works
+Lenses go up (16 → 20 → 24 → 35mm): from an extreme wide angle to slightly tighter, because the cabin needs to look sharper and “closer” in the final part.
+Movements are varied but always gentle: advance, descent, lateral glide, reveal, orbit, rise. This keeps the clip from feeling monotonous.
+Light is consistent: pink-gold and cold blue from the start, with the cabin’s warm light as the one “domestic” element.
+Sounds are tied to the images: the high-altitude wind fades as the camera descends, and the fire is only heard when close to the cabin.
+One tip: 30 seconds of drone in a single generation can lose consistency (the cabin might change shape). If that happens, split it into two 15-second clips, 00_15 for the landscape and 15_30 for the cabin, repeating @environment and @style identically in both.
+The final result
+
+@environment: "A vast alpine mountain landscape at dawn. Jagged snow-capped peaks rising above a sea of low clouds, deep valleys of dark evergreen pine forest dusted with snow, a frozen turquoise lake and a winding river in the valley floor. In a small clearing near the forest edge sits a rustic wooden cabin with a steep roof covered in snow, a stone chimney sending a thin curl of smoke into the cold air, and a soft warm glow in its windows. Pale pink-gold light on the peaks, cold blue shadows in the valleys."
+
+
+
+
+style: "Hyper-realistic cinematic aerial photography, IMAX tone, anamorphic lenses, deep depth of field with soft atmospheric haze. Cold blue shadows against warm pink-gold sunrise light, crisp snow texture, drifting mist, subtle grain. Smooth, continuous drone camera — wide sweeping glides, slow descents and orbits, no cuts, no shaky moves."
+
+
+
+
+visual_feel: "Majestic stillness and quiet shelter — an immense, silent mountain world with one small warm home in the middle of it."
+
+
+
+
+audio_design: "No score. Deep cold wind across the peaks, a distant eagle cry, faint creak of snow-laden pines, a soft crackle of fire close to the cabin, a low gentle drone building softly at the end."
+
+
+
+
+avoid: "No people, no vehicles, no modern buildings, no power lines. No cuts, no whip-pans, no shaky movement. No text, no logos."
+
+
+
+
+00_05: lens: "16mm." shot: "VERY HIGH WIDE AERIAL view of a mountain range rising above a sea of clouds at dawn, the sun just touching the peaks." move: "Slow, smooth forward drone glide over the clouds toward the central peaks, rising slightly." action: "Mist drifts between the jagged snow-capped summits; the first sunlight spills pink and gold over the ridgelines." light: "Warm pink-gold sunrise light on the peaks, cold blue shadows in the clouds below." sfx: "Deep cold wind, a distant eagle cry."
+
+
+
+
+05_10: lens: "16mm." shot: "HIGH AERIAL descending along a snowy ridge toward a deep valley of dark evergreen forest." move: "Smooth descending glide following the ridge line, the forest rising into view." action: "The drone slowly drops below the cloud line, revealing a vast valley of snow-dusted pines, with mist rising between the trees and snow blowing gently off the ridge." light: "Golden light catching the tips of the pines, long cool shadows in the valley." sfx: "Wind softening, creaking pines in the distance."
+
+
+
+
+10_15: lens: "20mm." shot: "AERIAL over a frozen turquoise lake and a winding river in the valley floor." move: "Smooth lateral glide over the lake, slowly curving to follow the river." action: "The drone skims above the frozen lake, ice cracks and snow patterns glinting on the surface, the river winding dark through the white landscape toward the forest edge." light: "Sunrise reflected on the ice, soft pink and blue gradients." sfx: "Faint wind, a soft distant crack of ice."
+
+
+
+
+15_20: lens: "24mm." shot: "AERIAL REVEAL of the wooden cabin in a small clearing at the edge of the forest." move: "Slow forward glide with a gentle descent as the cabin comes into view between the pines." action: "A rustic wooden cabin appears in a snowy clearing, its steep roof covered in snow, a thin curl of chimney smoke rising straight into the cold air, a faint warm glow in its windows." light: "Warm firelight glow from the windows against cool blue snow, golden sunrise on the treetops." sfx: "Wind fading, a faint crackle of fire close to the cabin."
+
+
+
+
+20_25: lens: "24mm." shot: "SLOW ORBITING AERIAL around the cabin at medium height, the mountains rotating behind it." move: "Smooth, slow 180-degree orbit around the cabin, keeping it centered with the peaks sweeping past in the background." action: "The cabin sits quiet and still, smoke curling from the chimney, snow-laden pines framing it, the mountains glowing behind in pink-gold light." light: "Warm window glow and sunrise light on the snow, soft shadows stretching across the clearing." sfx: "Soft wind, creaking pines, a faint crackle of fire."
+
+
+
+
+25_30: lens: "35mm." shot: "AERIAL CLOSING SHOT, pulling up and back from the cabin to reveal it as a tiny warm spot inside the vast mountain landscape." move: "Slow, smooth ascending pull-back, rising above the treetops until the cabin is small in the frame and the full valley and peaks fill the view." action: "The cabin shrinks into the immense snowy valley, a single thread of smoke and a warm glow in a world of white and blue, the sun rising fully above the peaks." light: "Full sunrise light on the peaks, the warm glow of the cabin as the one warm point in a cold blue valley." sfx: "Wind swelling gently, a low soft drone building softly to the end."
+
+See all
+Copy prompt
+Recreate

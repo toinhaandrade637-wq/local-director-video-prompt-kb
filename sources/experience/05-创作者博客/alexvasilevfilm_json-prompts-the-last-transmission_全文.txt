@@ -1,0 +1,102 @@
+【项目】HOW I PROMPTED THE LAST TRANSMISSION: ONE JSON FILE PER SHOT（@alexvasilevfilm · 创作者博客）
+【链接】https://higgsfield.ai/@alexvasilevfilm/blogs/json-prompts-the-last-transmission
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I PROMPTED THE LAST TRANSMISSION: ONE JSON FILE PER SHOT
+@alexvasilevfilm
+47
+0
+0
+
+THE LAST TRANSMISSION is a 4:31 film about a station engineer eleven light-minutes from Earth who talks to his wife every day, until she answers things he never sent. The whole film rests on one rule: every frame has to support two explanations that cannot both be true. Either Vera is really there, or he is talking to a recording. A single wrong gauge, a moving reel in the wrong shot, a switch in the wrong position, and the mystery is settled by accident.
+
+That rule is what pushed me away from writing prompts as paragraphs. Here is what I tried, what broke, and what finally worked.
+
+The problem with paragraphs
+
+My first prompts were long blocks of prose. They looked fine on their own, but across twenty-odd shots things kept drifting. Orlov's face changed slightly between shots. The station picked up objects I never asked for. Actions inside one shot happened in the wrong order. And when I fixed one detail, I usually rewrote the whole paragraph and broke something else.
+
+So I started writing each shot as a small JSON file: named fields for format, look, characters, environment, lighting, dialogue, a timeline in seconds, and a list of things that must not change. The model does not "parse" JSON. It reads it as text. The win is on my side: every decision has exactly one place, nothing gets forgotten, and I can change one field without touching the rest.
+
+What a shot looks like
+
+This is a trimmed version of the real prompt for the shot where Vera answers him (S08). All prompts are public in the project, so you can open the full ones.
+
+{
+  "shot_id": "TLT_S08_session2",
+  "intent": "Feel: the wrongness hiding inside perfect tenderness. Notice: he is already wearing the sweater she names.",
+  "format": {"aspect_ratio": "16:9", "duration_seconds": 18,
+             "style": "one continuous take, no cuts, no fade, no dissolve"},
+  "characters": "VERA, a Russian woman of about forty-eight, seen only inside the transmission picture: soft oval face, ash-brown hair pinned loosely back, a heavy knitted cardigan in faded rose...",
+  "dialogue": {
+    "language": "English",
+    "speaker": "VERA, soft low alto, gentle Russian accent, heard through a narrow-band speaker with faint tape hiss; she pronounces the name Orlov cleanly: OR-loff, with a clear L",
+    "line": "{You're wearing it already... Or-lov. Good. You never notice the cold until it's in your bones.}",
+    "rule": "Only the words inside the braces are spoken, by this one speaker only."
+  },
+  "timeline": [
+    {"time": "0-3s",   "action": "The picture is already live: VERA at her kitchen table, rain on the window behind her."},
+    {"time": "3-13s",  "action": "She speaks; on the word \"Good\" a small approving nod. On \"bones\" the tired smile arrives."},
+    {"time": "13-18s", "action": "She smooths the towel flat and looks just beside the lens, waiting."}
+  ],
+  "positive_locks": "Exactly one person is visible, and only inside the screen picture. She keeps the identity and clothing of her reference from first frame to last."
+}
+
+The first line is always intent: what the viewer should feel and the one thing they must notice. Everything below it serves that line.
+
+What I learned
+
+1. Describe each character once and paste it word for word. Orlov, Vera and the station ZARYA-9 each have one description that goes into every shot unchanged. The moment I rephrased a description "in my own words" for one shot, the model took it as permission to change a face or a costume. With identical text, Orlov stays the same man for the whole film.
+
+2. Put time into the prompt. A timeline in seconds tells the model what happens in each stretch of the shot. In a paragraph, three actions blur together and come back in random order. In a timeline, they come back in order.
+
+3. Lines go in braces, with a rule. Every spoken line sits inside { } with the rule "only the words inside the braces are spoken". That stopped the ad-libs. I checked every dialogue take with speech-to-text before accepting it.
+
+4. Names need phonetics. This one cost me three takes. Vera said "Orkov" instead of Orlov twice, and Orlov mispronounced his own station once. Writing the names the way they sound fixed both: Or-lov in the line plus "OR-loff, with a clear L" in the voice notes, and Zar-ya Nine plus "ZAR-ya, a Russian word" for the station.
+
+5. Clues are data, not decoration. Because of the two-truths rule, I kept a checklist for every take before I accepted it: the tape reels spin in two shots and stand still in a third; the transmit switch is unreadable in one shot and clearly OFF in two others; the second hand on the clock does not move. Each of these lives in the prompt as a lock, and each take was checked against it. A beautiful take that proved one truth went to the bin.
+
+6. Fix one field, not the whole prompt. I threw out 17 takes and kept every one with the reason in the file name. The grade drifted to warm ochre in four of them, until the grade field said the cold explicitly ("icy desaturated blue-grey") and allowed warmth from one source only, the screen. When I edited the picture inside the CRT, the edit leaked out of the screen twice: once the whole frame merged into Vera's kitchen, once Orlov ended up sitting in it. The fix was to say it plainly in the edit prompt: inside the CRT screen ONLY. Every fix was a change to one key in an accepted file, never a rewrite.
+
+7. When two parts of a prompt disagree, the more categorical one wins. Not the more sensible one. Most of my failed takes were not the model being weak. They were two of my own fields contradicting each other. Structure does not prevent that, but it makes the contradiction easy to find.
+
+A fresh test: same scene, prose vs JSON
+
+This week Higgsfield gave unlimited Wan 3.0, so I ran a clean test outside the film. I wrote one 30-second scene from the world of the film twice: once as prose, once as JSON in the same format I used for the film. Same characters, same three beats, same lines. Orlov speaks into the microphone, Vera answers from the screen, and he realises he never sent what she is answering. Both versions were generated on Wan 3.0 Prime at 1080p.
+
+Visually they were equal. The difference was control:
+
+JSON kept the beats on time. Orlov's line landed in 0 to 10 seconds, Vera's in 12 to 18, his last line at 26 to 28, just as the timeline asked. He also did the small action from the last beat: he glances at the transmission log and back at the screen.
+Prose got every word right, but the timing slid. His first line ran into Vera's beat, her line stretched to 26 seconds, and the glance at the log never happened.
+
+One test is not a study, but it matches everything I saw while making the film.
+
+A template if you want to try it
+
+Keep the order. The model weighs the start of the prompt more, so identity and geometry come before style.
+
+{
+  "shot_id": "S01_name",
+  "intent": "what the viewer feels + the one thing they must notice",
+  "format": {"aspect_ratio": "16:9", "duration_seconds": 15, "style": "one continuous take"},
+  "film_look": {"reference": "...", "texture": "...", "grade": "..."},
+  "characters": "<shared description, pasted word for word>",
+  "environment": {"location": "...", "atmosphere": "..."},
+  "lighting": "source, direction, what stays dark",
+  "dialogue": {"language": "English", "speaker": "voice + how names are pronounced",
+               "line": "{only these words}", "rule": "only the words inside the braces are spoken"},
+  "timeline": [{"time": "0-5s", "action": "...", "camera": "..."}],
+  "audio": "ambience, what the voice sounds like",
+  "positive_locks": "how many people are in frame + what must not change"
+}
+
+A few rules that saved me the most takes:
+
+Write what the frame contains, not what it lacks. An empty sky in the prompt gets filled with whatever the model likes.
+Describe what the camera does, not the equipment. Mention a tripod and you may get a tripod in the shot.
+Review the first three or four shots before generating the rest. A mistake in a shared description will otherwise repeat in every shot.
+
+If you are making anything longer than a few shots, try it on your next one. The film and all its prompts are here: https://higgsfield.ai/@alexvasilevfilm/projects/the-last-transmission

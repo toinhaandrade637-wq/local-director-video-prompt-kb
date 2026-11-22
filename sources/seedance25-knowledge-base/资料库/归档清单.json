@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "archived_date": "2026-10-09",
+  "thread_id": "01a11b93-0d5d-72b0-9a10-5b9fa386a1a1",
+  "source_user_record_line": 24,
+  "original_message": {
+    "sha256_utf8": "ddb3c44a8a437675e9f35f809537bb538379379977f735a5db961c2fadbd76df",
+    "utf16_length": 55456,
+    "path": "资料库/00_完整原始消息/用户案例原始消息_2026-10-08.txt"
+  },
+  "prefix": {
+    "sha256_utf8": "ddec6d85ccd46e167cd86e956890b49c1aee7ee844b58f1cd5b713002baec4c3",
+    "path": "资料库/00_完整原始消息/用户案例原始消息_前言与官方链接.txt"
+  },
+  "fidelity": "只从本聊天用户原始消息提取；不改字、不解码HTML实体、不删除反斜杠、不统一标点、不去重。按原文起点连续切片，片尾保留原始分隔标点。",
+  "reconstruction_verified": true,
+  "cases": [
+    {
+      "id": "P001",
+      "title": "跳格子与踢球_首次提供",
+      "path": "资料库/01_用户提示词原文/P001_跳格子与踢球_首次提供.txt",
+      "source_start_utf16": 1119,
+      "source_end_utf16_exclusive": 3339,
+      "utf16_length": 2220,
+      "sha256_utf8": "8bca4e8519490f18f6e5dd5bfd629379b3ba1d5d9766b28ce773a79163b819c8",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P002",
+      "title": "母子街道转熔岩火山_三镜版本",
+      "path": "资料库/01_用户提示词原文/P002_母子街道转熔岩火山_三镜版本.txt",
+      "source_start_utf16": 3339,
+      "source_end_utf16_exclusive": 5283,
+      "utf16_length": 1944,
+      "sha256_utf8": "678b263c29c402ba9ea553f7c8caf07e5426b309521cfa77baf41423d37850dd",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P003",
+      "title": "母子街道转秋日山谷_连续行走版本",
+      "path": "资料库/01_用户提示词原文/P003_母子街道转秋日山谷_连续行走版本.txt",
+      "source_start_utf16": 5283,
+      "source_end_utf16_exclusive": 8155,
+      "utf16_length": 2872,
+      "sha256_utf8": "2af3624276a2382748127897265088594d5d991d4e1eaf4c8b4128e08b85b0f0",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P004",
+      "title": "跳格子与踢球_再次提供",
+      "path": "资料库/01_用户提示词原文/P004_跳格子与踢球_再次提供.txt",
+      "source_start_utf16": 8155,
+      "source_end_utf16_exclusive": 10375,
+      "utf16_length": 2220,
+      "sha256_utf8": "cb474e42fe429a1d34cd7ae9be34750590ef30322cb6f3a89cf16bb15ec53acc",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P005",
+      "title": "酒馆对峙_蛇老板与相骨",
+      "path": "资料库/01_用户提示词原文/P005_酒馆对峙_蛇老板与相骨.txt",
+      "source_start_utf16": 10375,
+      "source_end_utf16_exclusive": 13654,
+      "utf16_length": 3279,
+      "sha256_utf8": "38110c29e3412f594bfd3702d94790599ba4acbbf15fb21fae93a46d39f4dd85",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P006",
+      "title": "雪熊传奇介绍_三十秒一镜到底",
+      "path": "资料库/01_用户提示词原文/P006_雪熊传奇介绍_三十秒一镜到底.txt",
+      "source_start_utf16": 13654,
+      "source_end_utf16_exclusive": 17796,
+      "utf16_length": 4142,
+      "sha256_utf8": "748147c4d12438b09c64156c3078988f07a7bf4fb6b98b32b11bb25ad2aae8b3",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P007",
+      "title": "丰兔传奇介绍_三十秒一镜到底",
+      "path": "资料库/01_用户提示词原文/P007_丰兔传奇介绍_三十秒一镜到底.txt",
+      "source_start_utf16": 17796,
+      "source_end_utf16_exclusive": 21806,
+      "utf16_length": 4010,
+      "sha256_utf8": "8b1a147cc0a0e14f70fc723bbf51fa01c89db6f3ad60db5ab787735f64e4b67f",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P008",
+      "title": "水面分流与巨塔攀爬",
+      "path": "资料库/01_用户提示词原文/P008_水面分流与巨塔攀爬.txt",
+      "source_start_utf16": 21806,
+      "source_end_utf16_exclusive": 27202,
+      "utf16_length": 5396,
+      "sha256_utf8": "e66c4c425c3841e7249a7f704ab94b7b8f5d263f501215be2dea8a4d8df52f6f",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P009",
+      "title": "606宿舍争执与老年曾亮",
+      "path": "资料库/01_用户提示词原文/P009_606宿舍争执与老年曾亮.txt",
+      "source_start_utf16": 27202,
+      "source_end_utf16_exclusive": 31486,
+      "utf16_length": 4284,
+      "sha256_utf8": "9259039dd6f4690cf5e2741bc351651398f0c7772aa60d5c92682aa2772ec62c",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P010",
+      "title": "黑白出租车_连续长镜头",
+      "path": "资料库/01_用户提示词原文/P010_黑白出租车_连续长镜头.txt",
+      "source_start_utf16": 31486,
+      "source_end_utf16_exclusive": 34421,
+      "utf16_length": 2935,
+      "sha256_utf8": "950c064ec58a169ba92f491e861bea2452d50df7b7ea736b298ea140e13854c1",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P011",
+      "title": "芦苇单手对抗_首次提供",
+      "path": "资料库/01_用户提示词原文/P011_芦苇单手对抗_首次提供.txt",
+      "source_start_utf16": 34421,
+      "source_end_utf16_exclusive": 35053,
+      "utf16_length": 632,
+      "sha256_utf8": "f75db3835e6c6b14f5767ac181bb2cd240ee6981e7f1f3325bf2e708ddb9be29",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P012",
+      "title": "芦苇睁眼拔剑与剑面倒影",
+      "path": "资料库/01_用户提示词原文/P012_芦苇睁眼拔剑与剑面倒影.txt",
+      "source_start_utf16": 35053,
+      "source_end_utf16_exclusive": 36009,
+      "utf16_length": 956,
+      "sha256_utf8": "6657ccb0f4514ce48d6c5a115386cfd95638f0a0268a0db128b59d502f59ae9d",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P013",
+      "title": "闭眼火焰剑与怪物",
+      "path": "资料库/01_用户提示词原文/P013_闭眼火焰剑与怪物.txt",
+      "source_start_utf16": 36009,
+      "source_end_utf16_exclusive": 36537,
+      "utf16_length": 528,
+      "sha256_utf8": "cb35131eb5957aa60bd67724a8156759cab4c023601a78ff54ef738b6002586e",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P014",
+      "title": "芦苇鸟妖近身缠斗与挑飞长刀",
+      "path": "资料库/01_用户提示词原文/P014_芦苇鸟妖近身缠斗与挑飞长刀.txt",
+      "source_start_utf16": 36537,
+      "source_end_utf16_exclusive": 38006,
+      "utf16_length": 1469,
+      "sha256_utf8": "91a7789b2db0bdc5df0e66bfc31cde370b49c5fa2bd31198cb51df02999ec44e",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P015",
+      "title": "芦苇单手对抗_再次提供",
+      "path": "资料库/01_用户提示词原文/P015_芦苇单手对抗_再次提供.txt",
+      "source_start_utf16": 38006,
+      "source_end_utf16_exclusive": 38638,
+      "utf16_length": 632,
+      "sha256_utf8": "f75db3835e6c6b14f5767ac181bb2cd240ee6981e7f1f3325bf2e708ddb9be29",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P016",
+      "title": "凉亭鸟妖跃起与正面冲击",
+      "path": "资料库/01_用户提示词原文/P016_凉亭鸟妖跃起与正面冲击.txt",
+      "source_start_utf16": 38638,
+      "source_end_utf16_exclusive": 39232,
+      "utf16_length": 594,
+      "sha256_utf8": "b628ccc0e8e97a2c596f8ae3f5c61ad1bd817d484fc28fa97f7a7ad1fe88af40",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P017",
+      "title": "浩铭举枪与发现小女孩",
+      "path": "资料库/01_用户提示词原文/P017_浩铭举枪与发现小女孩.txt",
+      "source_start_utf16": 39232,
+      "source_end_utf16_exclusive": 40666,
+      "utf16_length": 1434,
+      "sha256_utf8": "61259e0949992a425802d052c18c4b819e63cd79a9ed521d4a73e9bf971b0119",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P018",
+      "title": "披萨店接单与制作_英文原文",
+      "path": "资料库/01_用户提示词原文/P018_披萨店接单与制作_英文原文.txt",
+      "source_start_utf16": 40666,
+      "source_end_utf16_exclusive": 47685,
+      "utf16_length": 7019,
+      "sha256_utf8": "29440011caab46e4da86b744894741da61eadb96c54109a7b7158ffd49282f42",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    },
+    {
+      "id": "P019",
+      "title": "披萨出炉与父子交接_英文原文",
+      "path": "资料库/01_用户提示词原文/P019_披萨出炉与父子交接_英文原文.txt",
+      "source_start_utf16": 47685,
+      "source_end_utf16_exclusive": 55456,
+      "utf16_length": 7771,
+      "sha256_utf8": "5a3cb3c3c1f588205118477a4652e965c2ba62d1bb850067779466d13900b24c",
+      "validation": "用户明确确认此前提供的提示词均经实际验证效果不错；未附对应生成视频"
+    }
+  ],
+  "supplements": [
+    {
+      "sha256_utf8": "a7f34f90d64b38ee89d21126d7ec285aec469bf346cf2f94813ce22789ecd2da",
+      "source_line": 252,
+      "path": "资料库/00_完整原始消息/用户确认_案例均已验证_2026-10-08.txt"
+    },
+    {
+      "sha256_utf8": "9b9c94a7a2d0d4b22e6c52d8c9d7f116ef03a1ccfcf96db78cc89bc652053235",
+      "source_line": 444,
+      "path": "资料库/00_完整原始消息/用户要求_原文分开存档与通用结构_2026-10-09.txt"
+    }
+  ],
+  "image": {
+    "original_source": "D:/微信图片_20260916155111_322_1.jpg",
+    "path": "资料库/02_图片原件/P020_一镜到底第一期_25秒日剧自然表演.jpg",
+    "sha256": "f0127cb7ef919ca871c75b6d1a46263659c6adb650796c65016204de9fc85e4c",
+    "validation": "用户提供的结构参考长图；尚未单独确认此图案例的生成验证状态",
+    "byte_copy_verified": true,
+    "id": "P020"
+  }
+}

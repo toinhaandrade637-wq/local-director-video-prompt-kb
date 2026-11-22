@@ -1,0 +1,282 @@
+[
+ {
+  "id": "H-视频-01",
+  "library": "higgsfield",
+  "track": "视频",
+  "title": "01-提示词结构",
+  "path": "sources/higgsfield-knowledge-base/现行知识/视频/01-提示词结构.md",
+  "bytes": 204005
+ },
+ {
+  "id": "H-视频-02",
+  "library": "higgsfield",
+  "track": "视频",
+  "title": "02-参考分工",
+  "path": "sources/higgsfield-knowledge-base/现行知识/视频/02-参考分工.md",
+  "bytes": 78508
+ },
+ {
+  "id": "H-视频-03",
+  "library": "higgsfield",
+  "track": "视频",
+  "title": "03-运镜与空间",
+  "path": "sources/higgsfield-knowledge-base/现行知识/视频/03-运镜与空间.md",
+  "bytes": 86143
+ },
+ {
+  "id": "H-视频-03",
+  "library": "higgsfield",
+  "track": "视频",
+  "title": "03-镜头语言",
+  "path": "sources/higgsfield-knowledge-base/现行知识/视频/03-镜头语言.md",
+  "bytes": 66672
+ },
+ {
+  "id": "H-视频-04",
+  "library": "higgsfield",
+  "track": "视频",
+  "title": "04-动作与打戏",
+  "path": "sources/higgsfield-knowledge-base/现行知识/视频/04-动作与打戏.md",
+  "bytes": 75447
+ },
+ {
+  "id": "H-视频-04",
+  "library": "higgsfield",
+  "track": "视频",
+  "title": "04-动作与表演",
+  "path": "sources/higgsfield-knowledge-base/现行知识/视频/04-动作与表演.md",
+  "bytes": 68580
+ },
+ {
+  "id": "H-视频-05",
+  "library": "higgsfield",
+  "track": "视频",
+  "title": "05-多主体调度",
+  "path": "sources/higgsfield-knowledge-base/现行知识/视频/05-多主体调度.md",
+  "bytes": 94517
+ },
+ {
+  "id": "H-视频-06",
+  "library": "higgsfield",
+  "track": "视频",
+  "title": "06-VFX与合成",
+  "path": "sources/higgsfield-knowledge-base/现行知识/视频/06-VFX与合成.md",
+  "bytes": 70459
+ },
+ {
+  "id": "H-视频-07",
+  "library": "higgsfield",
+  "track": "视频",
+  "title": "07-声音与音频",
+  "path": "sources/higgsfield-knowledge-base/现行知识/视频/07-声音与音频.md",
+  "bytes": 92891
+ },
+ {
+  "id": "H-视频-08",
+  "library": "higgsfield",
+  "track": "视频",
+  "title": "08-叙事与系列方法论",
+  "path": "sources/higgsfield-knowledge-base/现行知识/视频/08-叙事与系列方法论.md",
+  "bytes": 65018
+ },
+ {
+  "id": "H-生图-01",
+  "library": "higgsfield",
+  "track": "生图",
+  "title": "01-生图提示词方法",
+  "path": "sources/higgsfield-knowledge-base/现行知识/生图/01-生图提示词方法.md",
+  "bytes": 184491
+ },
+ {
+  "id": "H-生图-02",
+  "library": "higgsfield",
+  "track": "生图",
+  "title": "02-模型与风格",
+  "path": "sources/higgsfield-knowledge-base/现行知识/生图/02-模型与风格.md",
+  "bytes": 8095
+ },
+ {
+  "id": "H-生图-02",
+  "library": "higgsfield",
+  "track": "生图",
+  "title": "02-质感与后期",
+  "path": "sources/higgsfield-knowledge-base/现行知识/生图/02-质感与后期.md",
+  "bytes": 33629
+ },
+ {
+  "id": "H-通用-01",
+  "library": "higgsfield",
+  "track": "通用",
+  "title": "01-色彩与HEX",
+  "path": "sources/higgsfield-knowledge-base/现行知识/通用/01-色彩与HEX.md",
+  "bytes": 33933
+ },
+ {
+  "id": "H-通用-02",
+  "library": "higgsfield",
+  "track": "通用",
+  "title": "02-模型手册",
+  "path": "sources/higgsfield-knowledge-base/现行知识/通用/02-模型手册.md",
+  "bytes": 34502
+ },
+ {
+  "id": "H-通用-03",
+  "library": "higgsfield",
+  "track": "通用",
+  "title": "03-术语表",
+  "path": "sources/higgsfield-knowledge-base/现行知识/通用/03-术语表.md",
+  "bytes": 164096
+ },
+ {
+  "id": "H-通用-04",
+  "library": "higgsfield",
+  "track": "通用",
+  "title": "04-运营与变现方法论",
+  "path": "sources/higgsfield-knowledge-base/现行知识/通用/04-运营与变现方法论.md",
+  "bytes": 14396
+ },
+ {
+  "id": "H-NAV-按任务查",
+  "library": "higgsfield",
+  "track": "导航",
+  "title": "按任务查",
+  "path": "sources/higgsfield-knowledge-base/现行知识/按任务查.md",
+  "bytes": 3745
+ },
+ {
+  "id": "H-NAV-按问题查",
+  "library": "higgsfield",
+  "track": "导航",
+  "title": "按问题查",
+  "path": "sources/higgsfield-knowledge-base/现行知识/按问题查.md",
+  "bytes": 2077
+ },
+ {
+  "id": "H-NAV-索引",
+  "library": "higgsfield",
+  "track": "导航",
+  "title": "索引",
+  "path": "sources/higgsfield-knowledge-base/现行知识/索引.md",
+  "bytes": 2957
+ },
+ {
+  "id": "SD25-01",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "01-用户约定",
+  "path": "sources/seedance25-knowledge-base/现行知识/01-用户约定.md",
+  "bytes": 3317
+ },
+ {
+  "id": "SD25-02",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "02-通用结构与选用",
+  "path": "sources/seedance25-knowledge-base/现行知识/02-通用结构与选用.md",
+  "bytes": 3691
+ },
+ {
+  "id": "SD25-03",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "03-参考分工与主体一致性",
+  "path": "sources/seedance25-knowledge-base/现行知识/03-参考分工与主体一致性.md",
+  "bytes": 3650
+ },
+ {
+  "id": "SD25-04",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "04-全局设定与本场发展",
+  "path": "sources/seedance25-knowledge-base/现行知识/04-全局设定与本场发展.md",
+  "bytes": 3354
+ },
+ {
+  "id": "SD25-05",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "05-表演对白与方言",
+  "path": "sources/seedance25-knowledge-base/现行知识/05-表演对白与方言.md",
+  "bytes": 3695
+ },
+ {
+  "id": "SD25-06",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "06-动作因果与打戏",
+  "path": "sources/seedance25-knowledge-base/现行知识/06-动作因果与打戏.md",
+  "bytes": 3567
+ },
+ {
+  "id": "SD25-07",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "07-摄影运镜与空间",
+  "path": "sources/seedance25-knowledge-base/现行知识/07-摄影运镜与空间.md",
+  "bytes": 3439
+ },
+ {
+  "id": "SD25-08",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "08-光影色彩材质与环境",
+  "path": "sources/seedance25-knowledge-base/现行知识/08-光影色彩材质与环境.md",
+  "bytes": 3546
+ },
+ {
+  "id": "SD25-09",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "09-声音与跨镜衔接",
+  "path": "sources/seedance25-knowledge-base/现行知识/09-声音与跨镜衔接.md",
+  "bytes": 3717
+ },
+ {
+  "id": "SD25-10",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "10-连续转场与阶段变化",
+  "path": "sources/seedance25-knowledge-base/现行知识/10-连续转场与阶段变化.md",
+  "bytes": 3848
+ },
+ {
+  "id": "SD25-11",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "11-连续性约束与去重复",
+  "path": "sources/seedance25-knowledge-base/现行知识/11-连续性约束与去重复.md",
+  "bytes": 3842
+ },
+ {
+  "id": "SD25-12",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "12-Seedance入口与平台差异",
+  "path": "sources/seedance25-knowledge-base/现行知识/12-Seedance入口与平台差异.md",
+  "bytes": 3849
+ },
+ {
+  "id": "SD25-按任务查",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "按任务查",
+  "path": "sources/seedance25-knowledge-base/现行知识/按任务查.md",
+  "bytes": 2595
+ },
+ {
+  "id": "SD25-按问题查",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "按问题查",
+  "path": "sources/seedance25-knowledge-base/现行知识/按问题查.md",
+  "bytes": 3109
+ },
+ {
+  "id": "SD25-索引",
+  "library": "seedance-2.5",
+  "track": "现行知识",
+  "title": "索引",
+  "path": "sources/seedance25-knowledge-base/现行知识/索引.md",
+  "bytes": 2457
+ }
+]

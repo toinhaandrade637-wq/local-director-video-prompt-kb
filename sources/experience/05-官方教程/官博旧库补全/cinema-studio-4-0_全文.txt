@@ -1,0 +1,379 @@
+【项目】Meet Cinema Studio 4.0: New Generation of AI Filmmaking（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/cinema-studio-4-0
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Meet Cinema Studio 4.0: New Generation of AI Filmmaking
+Higgsfield
+Aug 13, 2026
+12 min
+
+Higgsfield has launched Cinema Studio 4.0, its next AI filmmaking environment. Generation now runs up to 30 seconds, long enough to carry a full scene. New lenses, montage pacing, references, and an era selector work as direct controls. Genre, sensor, and color close that gap another way. This guide covers what changed and how to use it.
+
+What Changed in Cinema Studio 4.0?
+
+10 main things changed in Cinema Studio 4.0.
+
+Generation up to 30 seconds. A single generation now runs up to 30 seconds, enough to carry a character through a complete arc or let a narrative beat develop and resolve.
+
+Up to 50 references. A single generation accepts up to 50 images, locking a face, a product's shape, or a style in place before generating a single frame.
+
+Tempo as a creative control. Direct control over how fast and how often the edit cuts during a generation.
+
+More camera movement presets. 30+ presets, including POV, Robot Arm, Pan Left, and Helicopter Shot.
+
+Expanded camera type. 4 options: Modern, DV Camcorder, 35mm Film, and 8mm Film.
+
+A rebuilt lens system. Five lenses give distinct optical characters at generation time.
+
+Forward/Backward Extend. Upload a video for a seamless continuation or lead-in, extending a clip in either direction rather than starting a new generation from scratch.
+
+A wider color palette. 50+ presets give far more room to set a specific tonal direction without building it manually through color grading afterward.
+
+Emotion Wheel. A new control for directing character performance directly, with 8+ emotion types including anger, joy, fear, and trust. Tag a character with the emotion and the model builds it into their expression and body language.
+
+Era selector. Choose any decade the shot is set in, and grain, color grading, and lens style adjust automatically to fit.
+
+What Changed in Cinema Studio 4.0?
+
+Setting
+
+	
+
+Cinema Studio 3.5
+
+	
+
+Cinema Studio 4.0
+
+
+
+
+Clip length
+
+	
+
+Up to 15 seconds
+
+	
+
+Up to 30 seconds
+
+
+
+
+References
+
+	
+
+Up to 9
+
+	
+
+Up to 50
+
+
+
+
+Tempo
+
+	
+
+Not available
+
+	
+
+Chaotic, Dynamic, Calm, Single Shot
+
+
+
+
+Camera movement
+
+	
+
+9 presets
+
+	
+
+30+ presets, including helicopter shot, tracking, and pedestal down
+
+
+
+
+Camera type
+
+	
+
+3 options
+
+	
+
+4 options: Modern, DV Camcorder, 35mm Film, 8mm Film
+
+
+
+
+Lens system
+
+	
+
+5 lenses, applied as filters
+
+	
+
+5 lenses, optically modeled at generation time
+
+
+
+
+Forward/Backward Extend
+
+	
+
+Not available
+
+	
+
+Upload a video for a seamless continuation or lead-in
+
+
+
+
+Color palette
+
+	
+
+8 presets
+
+	
+
+50+ templates
+
+
+
+
+Emotion control
+
+	
+
+Not available
+
+	
+
+Emotion Wheel, 8+ types including anger, joy, fear, and trust
+
+
+
+
+Era selector
+
+	
+
+Not available
+
+	
+
+Direct decade selection
+
+Film Setup: Genre, Era, and Tempo
+
+Film Setup covers three settings that shape a scene before a single frame generates: the genre it's shot in, the decade it's set in, and how fast the edit moves.
+
+Genre
+
+Genre is the setting with the widest downstream effect. Selecting a genre changes how the model handles light, character blocking, motion within a shot, and pacing, the same prompt produces a different result depending on which genre it runs under.
+
+General applies no genre-specific visual logic. The prompt drives the look directly.
+Action ties the camera to the moving subject, with tighter framing around motion and less time spent on static composition.
+Epic favors wide compositions and treats the environment as part of the subject, with light spread across the full frame.
+Drama holds the camera closer and longer, favoring held moments over quick cuts, with light directed onto faces.
+Comedy opens up the framing and adjusts comic timing at the shot level, giving performers more visible space to react in.
+Horror uses off-angle framing and withheld light, building unease into the shot before anything happens on screen.
+Noir commits to hard shadow and high contrast, with light carved into the frame.
+
+Without genre context, a model has no signal for what kind of film it's making, and the output tends to land in a flat middle ground that doesn't commit to any particular look.
+
+Era
+
+Choose any decade the shot is set in, and grain, color grading, and lens style adjust automatically to fit.
+
+Auto lets the model choose the era based on scene context.
+60s adds the grain, color response, and lens character of 1960s film stock.
+80s adds the saturation and lens character associated with 1980s production.
+90s adds the flatter color and video-adjacent texture of 1990s footage.
+2000s adds the digital color response of early-2000s production.
+2020s applies a contemporary, unmodified digital look.
+
+Tempo
+
+Tempo sets how fast and how often the edit cuts during a generation. Cinema Studio 3.5 had no equivalent setting, pacing was left to the prompt; 4.0 makes it a direct, separate control.
+
+Auto lets the model choose the pacing based on scene context and genre.
+Chaotic cuts faster than expected, from angles that don't resolve into a stable viewpoint, generating tension. Suited to action sequences or content where disorientation is the intended effect.
+Dynamic cuts with forward momentum without losing the viewer, the pacing used in most commercial production and music videos that need energy without becoming chaotic.
+Calm holds longer takes, cutting only once a moment has played out, giving performance and environment time to register. Suited to drama and documentary-adjacent work.
+Single Shot removes editing entirely: one continuous generation from start to finish, with no cut points where character consistency would need to re-establish itself. The hardest pacing option to execute well, and the most immersive when it lands.
+
+Character Direction: Emotion Wheel, Colour Palette, and Lighting
+
+Where Film Setup and Camera Settings shape the shot as a whole, these three settings direct the character and the light inside it.
+
+Emotion Wheel
+
+Emotion Wheel assigns a specific emotion directly to a character in the prompt, using @-mentions. Tag a character with @character_name Joy or @character_name Anger, and the model generates that character's expression and body language to match.
+
+Hope
+Anger
+Joy
+Trust
+Fear
+Surprise
+Sadness
+Disgust
+
+Colour Palette
+
+Colour Palette sets the tonal direction of the image directly, from 50+ named templates. Picking one is more precise than describing a mood or a color in the prompt and leaving the exact tone to the model.
+
+Film Colors
+Black Gloss
+Candy Pink
+Lime Jam
+Nostalgic Blue
+And more, 45+ templates in total.
+
+Lighting
+
+Improved Lighting sets the light source and direction for the shot, either from a preset or built manually. 
+
+Auto lets the model choose the lighting based on scene context.
+Silhouette backlights the subject into a dark outline against a bright background.
+Practicals lights the scene from visible in-frame sources, lamps, signage, and similar.
+Window uses a single directional source simulating daylight through a window.
+Overhead Fall lights from directly above, casting shadows straight down.
+Contre-jour shoots into the light source, similar to Silhouette but with more spill and flare around the subject.
+Soft Cross uses two soft sources crossing at an angle, reducing harsh shadow on either side of the face.
+
+Beyond the six presets, Lighting can be built manually by adjusting color, brightness, diffuse, and angle directly.
+
+Camera Settings: Camera, Lens, and Aperture
+
+Setup covers the choice of camera, lens, and aperture, with film cameras added in 4.0.
+
+Camera
+
+The camera setting sets the base image character before any other setting applies.
+
+Auto lets the model choose based on scene context and genre.
+Modern produces the clean, high-resolution digital look of contemporary production.
+35mm Film adds grain structure, tonal response, and analog warmth, modeled at generation time.
+8mm Film reproduces the softer, lower-resolution texture of home-movie footage.
+DV Camcorder reproduces the flat color and compression artifacts of consumer camcorder tape.
+
+Lens
+
+Six lens options model different classes of glass, built into the generation itself.
+
+Auto lets the model choose the lens character based on scene context.
+Clean Sharp delivers maximum resolution and minimum aberration, the look used in contemporary commercial and tech production.
+Anamorphic produces horizontal oval bokeh, horizontal lens flare, and slight barrel distortion, the stretched ratio associated with prestige contemporary production.
+Vintage Anamorphic goes further back: lower contrast across the frame and more chromatic aberration, reproducing the imperfections of older anamorphic glass that rental houses charge a premium for today.
+Warm Vintage adds diffusion and warmth, with highlights that bloom slightly and skin tones rendered more gently, suited to beauty content and anything meant to feel intimate.
+Halation Vintage reproduces the glowing red-tinged halo around bright highlights characteristic of older film stock.
+
+Aperture
+
+Aperture controls depth of field, how much of the shot stays in focus around the subject.
+
+Auto lets the model choose the depth of field based on scene context.
+f/1.4 Wide Open throws the background out of focus almost completely, isolating the subject against a soft blur.
+f/4 Moderate keeps the subject sharp with a gentler falloff behind it, holding some context in the frame without full separation.
+f/11 Deep Focus keeps the whole scene sharp front to back, the look used when the environment matters as much as the subject.
+
+Step-by-Step: How to Direct a Scene in Cinema Studio 4.0
+
+Cinema Studio 4.0 puts a full set of director-level controls in front of you before you generate. Here's how to use them for a cinematic scene.
+
+Step 1. Set your genre. Pick the genre that matches the scene's intention. Drama for a tense confrontation, Action for a chase or fight. This setting shapes every decision the model makes downstream, so it's the right place to start.
+
+Step 2. Configure your camera. Choose your camera first: 35mm Film for an analog feel, Modern for clean digital, DV Camcorder for consumer-tape degradation. Then choose your lens: Vintage Anamorphic for prestige cinematic work, Clean Sharp for contemporary commercial, Warm Vintage for intimate lifestyle content. Then set your aperture and color direction.
+
+Cinema Studio 4.0 accepts up to 50 reference images in a single generation call. Feed in product images, a spokesperson's face, a camera style reference, and a location reference at once; the output reflects all of them together rather than approximating from a text description alone.
+
+Example configuration for a cinematic drama scene: Camera 35mm Film, Lens Vintage Anamorphic, Aperture f/4 Moderate, Colour Palette Nostalgic Blue.
+
+Step 3. Set your tempo. Calm for a slow dramatic scene, Single Shot for a product reveal, Dynamic for a music video, Chaotic for an action sequence.
+
+Step 4. Set your character's emotion. Tag a character directly in the prompt using Emotion Wheel, @character_name followed by the emotion, Joy, Anger, Fear, and so on. Without it, AI-generated characters tend to default to a neutral, unreadable expression. The direct tag builds a specific performance into the generation.
+
+Step 5. Write your prompt. With genre, lens, camera, aperture, color, and tempo already set, the prompt only needs to cover scene description, not technical direction, since those settings have already established the visual approach.
+
+The two examples below show the same scene run through Era selector twice, once set to the 2010s and once to the 1980s. Same characters, same choreography, same rejection beat by beat, different decade.
+
+Era: 2010s
+
+Prompt used:
+
+15-second multi-shot cinematic scene in the style of a 2010 dance movie. Shot on a digital cinema camera: crisp clean image, deep blacks, glossy teal-and-orange color grade, smooth steadicam movement, 120fps slow-motion accents, rhythmic cuts landing on the beat, streaky lens flares from lasers. Location: a 2010s nightclub, pulsing LED video walls, sweeping laser beams, strobes, thick haze from a fog machine, an illuminated bar glowing in the background, a DJ on a raised booth behind CDJs and a laptop.
+ CHARACTERS (match the faces and hairstyles of the attached reference images exactly, but dress them in 2010s club fashion; keep them consistent across all shots): GOLD GIRL: young woman, voluminous brunette blowout, large gold hoop earrings; wearing a gold sequin bodycon mini dress and black strappy heels. PINK GIRL: young woman, short brunette bob with bangs; wearing a hot-pink bandage mini dress, a chunky silver statement necklace and metallic heels. THE GUY: young man with a large afro, thin mustache and soul patch; wearing a slim-fit light-blue blazer over a deep V-neck white tee, dark skinny jeans, crisp white sneakers and dark wayfarer-style sunglasses indoors. A packed crowd of 2010s-dressed extras surrounds the floor, hands in the air, a few filming on early smartphones and compact digital cameras, all bouncing to the beat.
+ BEAT 1, THE CLUB (0-3s): Steadicam glides through the hazy crowd, laser beams cutting overhead, LED wall pulsing; the crowd parts to reveal GOLD GIRL and PINK GIRL dancing side by side in perfect sync at the center of the floor, owning it. Extras cheer and mirror their moves.
+ BEAT 2, THE ENTRANCE (3-6s): Cut to THE GUY sliding through the crowd; he lowers his sunglasses down his nose, a brief 120fps slow-motion hero moment with a laser flare across the lens, then a speed-ramp back to real time as he struts toward GOLD GIRL doing an exaggerated shuffle step.
+ BEAT 3, FIRST ATTEMPT (6-9s): Quick cuts on the beat. He orbits GOLD GIRL, mirroring her moves, leaning in with a smug grin and offering his hand mid-move. Snap to her deadpan face: she raises a flat palm in a "stop right there" gesture, spins away without missing a step. Crowd goes "oooh".
+ BEAT 4, SECOND ATTEMPT (9-12s): Undeterred, he shuffle-glides across the floor to PINK GIRL, drops a flashy pose and wiggles his eyebrows over his sunglasses. She looks him up and down, flips her hair dismissively and struts off to join GOLD GIRL. A DJ air horn blares from the booth.
+ BEAT 5, DOUBLE REJECTION (12-15s): Wide shot: the girls fist-bump and keep dancing back to back, untouchable. THE GUY shrugs an exaggerated "well, I tried" shrug straight to camera as confetti cannons pop in slow motion around him, glittering in the lasers. The crowd bursts out laughing and keeps jumping; camera cranes up over the flashing LED wall.
+ AUDIO: An original, fictional electro-house club banger (not any existing song), four-on-the-floor kick at 128 BPM, side-chained pumping synths, rising build into a big drop at the entrance of THE GUY, chopped wordless vocal hooks, glossy 2010 radio-dance mix. Crowd cheers and claps on the beat. Beat 3: crowd gasps "oooh!". Beat 4: a loud DJ air horn as PINK GIRL rejects him. Beat 5: the drop hits full force under crowd laughter and cheers as the confetti flies. No spoken dialogue.
+Copy
+Recreate
+
+Era: 1980s
+
+Prompt used:
+
+15-second multi-shot cinematic scene, 1980s dance-movie style. Shot on 35mm film: heavy visible film grain, halation blooming around practical lights, subtle gate weave, warm faded highlights, slight chromatic softness, the texture of an early-80s theatrical print. Location: a retro discotheque with a glowing red, white and blue checkerboard illuminated dance floor, chrome railings, red tufted leather booths, mirror balls and tinsel garlands overhead, starburst lens flares from the rig lights.
+ CHARACTERS (match the attached reference images exactly, keep faces, hair and outfits consistent across all shots): GOLD GIRL: young woman, voluminous brunette 70s blowout, gold sequin sleeveless top over a mustard long-sleeve, orange high-waisted flared pants, gold platform shoes, large gold hoop earrings. PINK GIRL: young woman, short brunette bob with bangs, hot-pink satin top trimmed with pink marabou feathers, silver sequin mini skirt, long pink gloves with feather cuffs, leopard-print boots. THE GUY: young man with a large afro, thin mustache and soul patch, amber-tinted aviator glasses, light-blue suit jacket over a cream wide-collar shirt, black flared trousers, gold hoop earring. A background crowd of era-dressed extras rings the dance floor behind the chrome railings, watching, clapping on the beat and mirroring the moves.
+ BEAT 1, THE FLOOR (0-3s): Crane shot sweeps down from the mirror balls toward the glowing floor, then a fast crash zoom onto GOLD GIRL and PINK GIRL dancing side by side in perfect sync at the center, hips and shoulders hitting every beat. The crowd behind the rails claps along.
+ BEAT 2, THE ENTRANCE (3-6s): Whip pan to THE GUY sliding into frame on his knees across the lit tiles, popping up into a confident funky strut. Low-angle dolly follows him as he points finger-guns at the girls. Extras hoot and cheer.
+ BEAT 3, FIRST ATTEMPT (6-9s): Quick cuts on the beat. He spins around GOLD GIRL, mirroring her moves, leaning in with a smug grin and offering his hand mid-move. Snap zoom to her face: she raises an eyebrow, spins out of his reach and turns her back on him without missing a step. Crowd goes "oooh".
+ BEAT 4, SECOND ATTEMPT (9-12s): Undeterred, he moonwalk-glides over to PINK GIRL, drops a flashy pose, lowers his aviators and winks. Snap zoom to her deadpan face; she flips her feather-trimmed glove in a dismissive "talk to the hand" gesture and dances away to join GOLD GIRL.
+ BEAT 5, DOUBLE REJECTION (12-15s): Wide shot: both girls stand side by side, arms crossed, shaking their heads in comic unison while still bouncing to the beat. THE GUY shrugs an exaggerated "well, I tried" shrug to the camera. The surrounding crowd bursts out laughing and keeps dancing. Freeze-frame on his sheepish grin, film grain heavy, image flickers like a projected print, classic 80s comedy ending.
+ AUDIO: An original, fictional upbeat funk-disco instrumental (not any existing song), punchy slap bass, four-on-the-floor drums, bright brass stabs, wah-wah guitar, around 118 BPM, mixed like a vintage vinyl record with warm tape saturation. Crowd claps land on the beat. Beat 3: crowd gasps "oooh!". Beat 4: a short vinyl record-scratch as PINK GIRL rejects him. Beat 5: warm crowd laughter and cheers; the music hits a triumphant brass sting on the freeze-frame. No spoken dialogue.
+Copy
+Recreate
+
+Step 6. Use Color Grading as a final pass. After generation, Color Grading gives you post-production control without leaving the platform. Adjust temperature, contrast, saturation, sharpness, film grain, highlights, and exposure to finish the clip.
+
+Built for Teams
+
+Cinema Studio 4.0 extends its collaboration infrastructure for professional teams.
+
+AI Cast provides customizable AI actors with a consistent visual identity across scenes, angles, and lighting.
+
+Cinematic Locations generates environments that match the genre and camera settings already in place.
+
+Soul Cinema Models provide physics-accurate motion and character consistency frame to frame.
+
+Multi-Model Support keeps other models available inside the environment alongside the native Cinema Studio models, Seedance 2.5 included, so the model choice follows the shot.
+
+Live Multi-User Generation lets multiple team members generate inside the same project at the same time.
+
+Element Sharing makes assets created once available to the entire team immediately.
+
+Canvas Integration provides a shared brainstorming surface within the project.
+
+Project Brief carries the creative direction every team member works from.
+
+Subfoldering organizes production work as it scales.
+
+Personal Assistant adjusts genre, style, and camera settings through conversation, and breaks a script into individual shots with camera parameters pre-filled.
+
+What Cinema Studio 4.0 Changes
+
+Ten things move from Cinema Studio 3.5 to 4.0. Clip length doubles from 15 to 30 seconds. The five lenses go from filters applied after the fact to optical characters built into the generation itself. Camera, aperture, and camera movement work the same way, chosen before generation instead of described in text. Tempo, references, the era selector, Emotion Wheel, Colour Palette, and Lighting are all new or expanded the same way. Color presets grow from 8 to 50+.
+
+A longer clip needed most of this. Fifteen seconds hides a drifting face or a shaky light source. Thirty seconds doesn't. So the lens system got more precise, the color options got wider, and Emotion Wheel gave characters a way to hold an expression instead of losing it halfway through the shot.
+
+MEET CINEMA STUDIO 4.0: NEW GENERATION OF AI FILMMAKING
+Try Cinema Studio 4.0

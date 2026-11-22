@@ -1,0 +1,182 @@
+【项目】GPT-6 ASTRA FINALLY KILLS AI 3D（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/gpt-6-astra-finally-kills-ai-3d
+【提示词块】4
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+GPT-6 ASTRA FINALLY KILLS AI 3D
+@sanjii
+1.2K
+2
+1
+Before You Start
+
+Plan the movement in Blender, then use Higgsfield to generate the finished commercial. This workflow uses GPT-6 Astra in Codex, the Higgsfield Blender plugin, and Seedance 2.5.
+
+
+
+
+Install the Blender plugin, sign in, and enable Computer Use in Codex. On macOS, allow Screen Recording and Accessibility. Test the connection by asking Astra to animate a cube.
+
+Stage 1 — The Assets
+
+Asset 1 — Headphones, character and city
+
+Prepare the city, woman and black over-ear headphones as separate references.
+
+Asset 2 — Three products and their settings
+
+Pair VIVRA, BARBIERI and the white speaker with their environment images. Reuse one product previz.
+
+Asset 3 — Rally reference
+
+0:00 / 0:00
+
+Pair the camera previz with the buggy-and-track reference.
+
+Stage 2 — The Prompting Framework
+
+Describe product movement, camera route and final framing. Build a simple editable previz, then refine one thing at a time: camera easing first, reveal timing next. Export once the whole shot works.
+
+
+
+
+Attachment slots reset for each case:
+
+HEADPHONES
+@image1 — city
+@image2 — woman
+@image3 — headphones
+video reference — Blender export
+
+PRODUCTS
+@video1 — shared previz
+@image1 — product
+@image2 — environment
+
+RALLY
+@video1 — camera previz
+@image1 — buggy and track
+Stage 3 — The Scenes
+
+Scene 1 — Headphones: previz and final
+
+0:00 / 0:00
+
+Saved settings: Seedance 2.5 · 30s · 1080p · High · 16:9 · one output.
+
+Style: Photorealistic, warm daylight, consistent character and product. Music is unspecified in the saved prompt.
+
+
+
+
+What it does: Combines the three images with the optional Blender video. Both completed A/B runs used this exact text.
+
+Create a photorealistic cinematic commercial for black over-ear headphones. Use an attached video reference, when available, for motion, timing, camera movement, framing, character blocking and product reveal.
+
+
+
+
+Use @Image 1 for the city architecture and warm daylight. Use @Image 2 for the woman's identity, long dark hair and outfit: rust-orange jacket, white top, dark jeans and white sneakers. Use @Image 3 for the headphones' shape, proportions, materials and black finish.
+
+
+
+
+Use deliberate camera movement, framing, timing, character blocking and a clear product reveal. Keep the woman and headphones consistent throughout, with natural skin and fabric, coherent reflections and stable product details. Render realistic surfaces and preserve coherent subjects' positions and action.
+
+See all
+Copy prompt
+Recreate
+Scene 2 — With previz vs. prompt only
+
+Scene 2 — With previz vs. prompt only
+
+0:00 / 0:00
+
+Keep the prompt, images and settings identical; remove only the video reference. Compare reveal timing, camera route and final frame. One pair does not prove general superiority or savings.
+
+
+
+
+Track actual charges under VIDEO GENERATION ONLY, with plugin tools and Codex counted separately.
+
+Scene 3 — One previz, three products
+
+Keep the camera animation and timing; swap product references and descriptions. Check every output for branding, shape and framing. VIVRA retained proxy geometry, so only the other two saved examples appear below.
+
+Scene 3 — BARBIERI
+
+Scene 3 — BARBIERI
+
+0:00 / 0:00
+
+What it does: Applies the product previz to a navy shaving-foam can in a blue-and-gold setting. Check label details before delivery.
+
+Use @video1 as the unchanged motion reference. Preserve its shot sequence, camera path, timing, product movement and final framing. Replace each colored product proxy with the product in @Image 1; use @Image 2 for the environment and lighting. The red face marks the product front, the green surface marks the top, and the dark face marks the back. These are orientation guides, not final colors. Render the navy BARBIERI & FIGLI shaving-foam can, dark cap and gold-striped neck in the blue-and-gold colonnade with a glossy reflective floor. Match the reference proportions, materials, cap and label. Keep the product consistent across every shot and duplicate. Add no extra products, cuts, titles or invented branding.
+
+See all
+Copy prompt
+Recreate
+Scene 3 — White speaker
+
+Scene 3 — White speaker
+
+0:00 / 0:00
+
+What it does: Reuses the motion for a white speaker. The completed result ends with three speakers, so its final framing still needs correction.
+
+Use @video1 as the unchanged motion reference. Preserve its shot sequence, camera path, timing, product movement and final framing. Replace each colored product proxy with the product in @Image 1; use @Image 2 for the environment and lighting. The red face marks the product front, the green surface marks the top, and the dark face marks the back. These are orientation guides, not final colors. Render the white cylindrical smart speaker in the warm sunlit room. Match the reference shape, proportions, surface texture and materials. Keep the product consistent across every shot and duplicate. Add no extra products, cuts, titles or invented branding.
+
+See all
+Copy prompt
+Recreate
+
+Scene 4 — Rally: previz and final
+
+0:00 / 0:00
+
+The plugin's Camera tool supports phone-controlled movement. This saved rally example uses a supplied previz; its connection to a specific phone recording is unverified.
+
+
+
+
+What it does: Transfers camera direction and vehicle timing into a realistic rally scene.
+
+Create a photorealistic 30-second rally sequence. Use @video1 only for camera movement, timing, vehicle trajectories, spatial relationships and the continuous shot structure. Use @Image 1 for the realistic blue buggy cockpit and roll cage, the nearby green buggy, forest dirt track, dust and pale overcast daylight. Completely replace every simple colored box, plane and proxy surface in the previz with the corresponding realistic vehicle or environment surface. The proxies are spatial guides only and must not remain visible. Preserve the camera route and the timing of the vehicle actions. Keep the buggy geometry, colors and cockpit consistent throughout. Add no cuts, new actions, text, titles or logos.
+
+See all
+Copy prompt
+Recreate
+Scene 5 — One continuous shot
+
+Plan the journey as start → pass → reveal → end. Inspect the camera path for collisions and abrupt turns. After generation, check for unwanted cuts and drifting details.
+
+Scene 6 — Rebuild a reference shot
+
+Recreate the camera route and transition timing in Blender, then apply your own visual references. Adjust the approach, reveal or ending without rebuilding the idea.
+
+Scene 7 — Astra vs. Fable 5.1
+
+Compare identical briefs and correction requests. Track usable-scene time, camera accuracy and retries. The accompanying walkthrough uses authored scene reconstructions, not independently generated model results or a measured benchmark.
+
+Ready To Make Your Own?
+
+Plan, refine, generate, review. Save the Blender scene when it works, then reuse its movement across your next campaign.
+
+READY TO MAKE YOUR OWN?
+GO!
+Contents
+Before You Start
+Stage 1 — The Assets
+Stage 2 — The Prompting Framework
+Stage 3 — The Scenes
+Scene 2 — With previz vs. prompt only
+Scene 3 — One previz, three products
+Scene 3 — BARBIERI
+Scene 3 — White speaker
+Scene 5 — One continuous shot
+Scene 6 — Rebuild a reference shot
+Scene 7 — Astra vs. Fable 5.1
+Ready To Make Your Own?
+Ready to make your own?

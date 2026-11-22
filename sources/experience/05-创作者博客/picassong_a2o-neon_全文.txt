@@ -1,0 +1,551 @@
+【项目】A2O NEON（@picassong · 创作者博客）
+【链接】https://higgsfield.ai/@picassong/blogs/a2o-neon
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+A2O NEON
+P
+@picassong
+246
+0
+0
+Hi everyone, I’m Picassong! 
+
+
+These characters are exclusive to A2O Entertainment. Commercial use or use for personal gain is prohibited.
+
+
+When using or sharing the characters or videos, please include all tags below. 🤍
+
+
+@picassong.art @a2o_zone #picassong #a2o_lite
+
+
+
+Become the star of the video above!
+
+All you have to do is upload two images: @image1 and @image2.
+
+
+
+
+Example of the A2O LITE Character Sheet
+
+
+
+
+
+1. Character Reference Video
+Prompt
+
+Perform a strictly localized replacement of ONLY the two main foreground dancing characters in @Video 3.
+
+
+
+TARGET ASSIGNMENT
+
+
+
+Identify the two main characters in the opening shot:
+
+- Target A: initially on the viewer’s LEFT → replace with @Image 10.
+
+- Target B: initially on the viewer’s RIGHT → replace with @Image 11.
+
+
+
+Track these same two identities throughout the video. These assignments must not change when the targets cross, turn, overlap, or change screen positions.
+
+
+
+Use @Image 10 and @Image 11 exclusively for the appearance of their assigned targets. Never apply these references to any other character.
+
+
+
+CRITICAL: PROTECT ALL REAR AND BACKGROUND CHARACTERS
+
+
+
+In the later group scene, all characters standing or dancing BEHIND the two main foreground targets must remain exactly as they appear in the ORIGINAL video.
+
+
+
+Preserve every rear character’s original:
+
+- Identity and facial features
+
+- Expression, blinking, and gaze
+
+- Hairstyle, hair color, and hair movement
+
+- Skin color and makeup
+
+- Outfit, shoes, and accessories
+
+- Body proportions and size
+
+- Pose, choreography, timing, and position
+
+- Lighting, shading, texture, and motion blur
+
+
+
+Do not replace, redraw, restyle, recolor, enhance, or regenerate any rear character.
+
+
+
+Do not give the rear characters the reference outfits, headwear, facial features, hairstyles, proportions, or materials.
+
+
+
+Do not coordinate the whole group’s appearance with the replacement characters.
+
+
+
+Treat all non-target characters as protected original footage. Preserve their visible source pixels frame by frame wherever they are not naturally occluded by the two replacement targets.
+
+
+
+The presence of @Image 10 and @Image 11 must have ZERO effect on the appearance of the rear group.
+
+
+
+LOCAL EDIT BOUNDARY
+
+
+
+Limit all visual changes to the two tracked foreground targets and the minimum area required by their new silhouettes and contact shadows.
+
+
+
+Do not use a broad edit region covering the entire group or the full frame.
+
+
+
+When a target overlaps a rear character, preserve the original front-to-back ordering. Change only the foreground target; preserve the rear character’s visible portions exactly.
+
+
+
+If a replacement silhouette reveals an area previously hidden by the original target, reconstruct only that newly exposed area consistently with the source. Do not alter any already-visible portion of a rear character.
+
+
+
+If a target becomes fully hidden, do not replace the visible character in front of it.
+
+
+
+Never select a rear character as a substitute target because of similar hair, clothing, face, or screen position.
+
+
+
+If a target cannot be identified confidently in a frame, preserve that uncertain region rather than modifying another character.
+
+
+
+REFERENCE-BASED APPEARANCE
+
+
+
+For Target A and Target B only, replace the complete appearance using the assigned image:
+
+- Face, eyes, eyelids, eyebrows, eyelashes, nose, and lips
+
+- Skin tone, blush, and makeup
+
+- Hair color, style, length, and texture
+
+- Headwear, outfit, footwear, and accessories
+
+- Head-to-body ratio, torso, limbs, hands, and feet
+
+- Materials and surface finish
+
+
+
+If an image is a character sheet, treat all views as ONE character. Use the close-up for facial details and the full-body, side, and rear views for consistent anatomy and design.
+
+
+
+Do not reproduce sheet layouts, labels, backgrounds, or extra copies.
+
+
+
+Do not retain the original targets’ clothing or anatomy where they differ from their assigned references. Do not mix the two reference identities.
+
+
+
+PROPORTION LOCK
+
+
+
+Keep each replacement character’s reference proportions stable in every frame.
+
+
+
+Preserve the oversized head, compact torso, short limbs, and small hands and feet when shown in the reference.
+
+
+
+Retarget the source choreography to the reference anatomy. Do not stretch limbs, lengthen the torso, shrink the head, or introduce visible joints absent from the reference.
+
+
+
+Preserve the targets’ original floor positions, movement paths, depth, grounded steps, and jump timing.
+
+
+
+PERFORMANCE LOCK
+
+
+
+For the two replacement targets, preserve:
+
+- Original choreography and rhythm
+
+- Movement direction, sequence, and timing
+
+- Head angles, body orientation, and gestures
+
+- Hand actions and interactions
+
+- Gaze direction and blinking timing
+
+- Emotional expression and mouth-action timing
+
+
+
+Express the original performance through the reference faces without reverting to the original facial geometry.
+
+
+
+Keep the reference hairstyle, headwear, clothing, and accessories throughout. Animate their secondary motion naturally according to the replacement design.
+
+
+
+Keep the number, shape, size, spacing, and placement of ears, tails, ribbons, and other distinctive details consistent with the assigned reference.
+
+
+
+ORIGINAL FOOTAGE LOCK
+
+
+
+Preserve the original background, floor, props, lighting setup, camera angles, camera movement, framing, focus, depth of field, color grade, cuts, transitions, duration, aspect ratio, frame timing, and audio.
+
+
+
+Match the replacement targets to the source lighting and motion blur without changing the rest of the footage.
+
+
+
+When neither target is visible, leave the entire segment unchanged.
+
+
+
+Do not add text, captions, objects, extra characters, or scenes.
+
+
+
+Maintain clean, coherent surfaces and stable facial details without flickering, texture crawling, patchy shading, or distortion.
+
+
+
+AVOID
+
+
+
+- ANY appearance change to the rear group
+
+- Applying reference costumes or faces to background characters
+
+- Whole-frame or whole-group restyling
+
+- Identity swapping or target-tracking drift
+
+- Replacing a non-target character during occlusion
+
+- Original target features leaking into the replacements
+
+- Changing reference body proportions
+
+- Extra limbs, fingers, ears, tails, or accessories
+
+- Foot sliding, clipping, or incorrect overlap
+
+- Changes to choreography, camera work, editing, or audio
+
+
+
+FINAL PRIORITY
+
+
+
+Only the two designated foreground dancers receive the reference character designs.
+
+Every rear and non-target character remains in its original video appearance, unchanged throughout the entire clip.
+
+See all
+Copy prompt
+Recreate
+Simply press the + button to attach your image and run it!
+2. Person Reference Video
+Prompt
+
+Perform a strictly localized replacement of ONLY the two main foreground dancing characters in @Video 2.
+
+
+
+TARGET ASSIGNMENT
+
+
+
+Identify the two main characters in the opening shot:
+
+- Target A: initially on the viewer’s LEFT → replace with @Image 10.
+
+- Target B: initially on the viewer’s RIGHT → replace with @Image 11.
+
+
+
+Track these same two identities throughout the video. These assignments must not change when the targets cross, turn, overlap, or change screen positions.
+
+
+
+Use @Image 10 and @Image 11 exclusively for the appearance of their assigned targets. Never apply these references to any other character.
+
+
+
+CRITICAL: PROTECT ALL REAR AND BACKGROUND CHARACTERS
+
+
+
+In the later group scene, all characters standing or dancing BEHIND the two main foreground targets must remain exactly as they appear in the ORIGINAL video.
+
+
+
+Preserve every rear character’s original:
+
+- Identity and facial features
+
+- Expression, blinking, and gaze
+
+- Hairstyle, hair color, and hair movement
+
+- Skin color and makeup
+
+- Outfit, shoes, and accessories
+
+- Body proportions and size
+
+- Pose, choreography, timing, and position
+
+- Lighting, shading, texture, and motion blur
+
+
+
+Do not replace, redraw, restyle, recolor, enhance, or regenerate any rear character.
+
+
+
+Do not give the rear characters the reference outfits, headwear, facial features, hairstyles, proportions, or materials.
+
+
+
+Do not coordinate the whole group’s appearance with the replacement characters.
+
+
+
+Treat all non-target characters as protected original footage. Preserve their visible source pixels frame by frame wherever they are not naturally occluded by the two replacement targets.
+
+
+
+The presence of @Image 10 and @Image 11 must have ZERO effect on the appearance of the rear group.
+
+
+
+LOCAL EDIT BOUNDARY
+
+
+
+Limit all visual changes to the two tracked foreground targets and the minimum area required by their new silhouettes and contact shadows.
+
+
+
+Do not use a broad edit region covering the entire group or the full frame.
+
+
+
+When a target overlaps a rear character, preserve the original front-to-back ordering. Change only the foreground target; preserve the rear character’s visible portions exactly.
+
+
+
+If a replacement silhouette reveals an area previously hidden by the original target, reconstruct only that newly exposed area consistently with the source. Do not alter any already-visible portion of a rear character.
+
+
+
+If a target becomes fully hidden, do not replace the visible character in front of it.
+
+
+
+Never select a rear character as a substitute target because of similar hair, clothing, face, or screen position.
+
+
+
+If a target cannot be identified confidently in a frame, preserve that uncertain region rather than modifying another character.
+
+
+
+REFERENCE-BASED APPEARANCE
+
+
+
+For Target A and Target B only, replace the complete appearance using the assigned image:
+
+- Face, eyes, eyelids, eyebrows, eyelashes, nose, and lips
+
+- Skin tone, blush, and makeup
+
+- Hair color, style, length, and texture
+
+- Headwear, outfit, footwear, and accessories
+
+- Head-to-body ratio, torso, limbs, hands, and feet
+
+- Materials and surface finish
+
+
+
+If an image is a character sheet, treat all views as ONE character. Use the close-up for facial details and the full-body, side, and rear views for consistent anatomy and design.
+
+
+
+Do not reproduce sheet layouts, labels, backgrounds, or extra copies.
+
+
+
+Do not retain the original targets’ clothing or anatomy where they differ from their assigned references. Do not mix the two reference identities.
+
+
+
+PROPORTION LOCK
+
+
+
+Keep each replacement character’s reference proportions stable in every frame.
+
+
+
+Preserve the oversized head, compact torso, short limbs, and small hands and feet when shown in the reference.
+
+
+
+Retarget the source choreography to the reference anatomy. Do not stretch limbs, lengthen the torso, shrink the head, or introduce visible joints absent from the reference.
+
+
+
+Preserve the targets’ original floor positions, movement paths, depth, grounded steps, and jump timing.
+
+
+
+PERFORMANCE LOCK
+
+
+
+For the two replacement targets, preserve:
+
+- Original choreography and rhythm
+
+- Movement direction, sequence, and timing
+
+- Head angles, body orientation, and gestures
+
+- Hand actions and interactions
+
+- Gaze direction and blinking timing
+
+- Emotional expression and mouth-action timing
+
+
+
+Express the original performance through the reference faces without reverting to the original facial geometry.
+
+
+
+Keep the reference hairstyle, headwear, clothing, and accessories throughout. Animate their secondary motion naturally according to the replacement design.
+
+
+
+Keep the number, shape, size, spacing, and placement of ears, tails, ribbons, and other distinctive details consistent with the assigned reference.
+
+
+
+ORIGINAL FOOTAGE LOCK
+
+
+
+Preserve the original background, floor, props, lighting setup, camera angles, camera movement, framing, focus, depth of field, color grade, cuts, transitions, duration, aspect ratio, frame timing, and audio.
+
+
+
+Match the replacement targets to the source lighting and motion blur without changing the rest of the footage.
+
+
+
+When neither target is visible, leave the entire segment unchanged.
+
+
+
+Do not add text, captions, objects, extra characters, or scenes.
+
+
+
+Maintain clean, coherent surfaces and stable facial details without flickering, texture crawling, patchy shading, or distortion.
+
+
+
+AVOID
+
+
+
+- ANY appearance change to the rear group
+
+- Applying reference costumes or faces to background characters
+
+- Whole-frame or whole-group restyling
+
+- Identity swapping or target-tracking drift
+
+- Replacing a non-target character during occlusion
+
+- Original target features leaking into the replacements
+
+- Changing reference body proportions
+
+- Extra limbs, fingers, ears, tails, or accessories
+
+- Foot sliding, clipping, or incorrect overlap
+
+- Changes to choreography, camera work, editing, or audio
+
+
+
+FINAL PRIORITY
+
+
+
+Only the two designated foreground dancers receive the reference character designs.
+
+Every rear and non-target character remains in its original video appearance, unchanged throughout the entire clip.
+
+See all
+Copy prompt
+Recreate
+Simply press the + button to attach your image and run it!
+
+
+
+
+PLEASE UPLOAD YOUR WORK TO THE - A2O ZONE -FOR COLLABORATION!
+A2O ZONE

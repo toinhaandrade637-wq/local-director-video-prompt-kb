@@ -1,0 +1,530 @@
+【项目】Sora 2 API Shutdown: Best Alternatives and How to Migrate (2026)（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/sora-api-migration-guide
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Sora 2 API Shutdown: Best Alternatives and How to Migrate (2026)
+Higgsfield
+Oct 4, 2026
+11 min
+
+OpenAI removed the Sora 2 models and Videos API on September 24, 2026, six months after announcing the deprecation, with no named replacement. Products built on /v1/videos now need a new video backend and an updated request and response layer. This guide moves that workflow to the Higgsfield API. One API account covers Seedance 2.5, Kling 3.0 and Wan 3.0.
+
+What happened to the Sora 2 API?
+
+OpenAI published a deprecation notice for Sora on March 24, 2026, and phased the product out in two stages. The Sora website and apps shut down first. The API followed on September 24, 2026. The Videos API and every sora-2 and sora-2-pro model, including dated versions, were removed from the platform, so any call to /v1/videos now returns an error.
+
+What happened to the Sora 2 API?
+
+Date
+
+	
+
+What changed
+
+
+
+
+March 24, 2026
+
+	
+
+OpenAI publishes the Sora deprecation notice
+
+
+
+
+April 26, 2026
+
+	
+
+The Sora website and apps close
+
+
+
+
+September 24, 2026
+
+	
+
+The Sora 2 API and /v1/videos shut down
+
+OpenAI's developer documentation still hosts the Sora guide, now marked as deprecated, and the deprecation notice names no replacement model. Teams with a video feature built on Sora now have two tasks: choose a new backend and rewrite the integration layer. This guide covers the integration side. For creators who used Sora through its interface, the tool-by-tool overview is in Sora alternatives in 2026. All details below were verified in September 2026.
+
+Is there a drop-in replacement for the Sora API?
+
+Sora requests do not work on other video APIs without changes. The closest replacement keeps the same architecture: an asynchronous job, a status check or webhook, and a file to download. With that architecture in place, the product logic around generation can stay, and the changes stay inside the integration layer.
+
+Moving to another single-model API fixes the outage, but it recreates the same dependency: the whole feature again rests on one model from one vendor. Higgsfield approaches this as an AI-native creative suite, where generation runs through one account across many models and tools. The Higgsfield API is how Higgsfield handles integration: one key, one prepaid balance in US dollars and one request lifecycle for more than 50 current video and image models.
+
+Video models: the catalog includes Seedance 2.5, Kling 3.0 and Wan 3.0, as well as models from the MiniMax, LTX, PixVerse and Grok families.
+Image models: the catalog includes Higgsfield's own Soul 2, Soul Cinema and Marketing Studio Image, as well as models from Recraft, Ideogram and Qwen.
+Model switching: changing models means changing the endpoint path and the body fields. Polling, webhooks and file handling stay the same.
+
+The full list of models is in the API catalog, and the product overview, from billing to organizations, is in Meet the Higgsfield API.
+
+Which Higgsfield model fits a former sora-2 or sora-2-pro workload?
+
+Seedance 2.5, Kling 3.0 and Wan 3.0 cover different Sora workloads, and all three run through the same Higgsfield API integration.
+
+Which Higgsfield model fits a former sora-2 or sora-2-pro workload?
+
+Model
+
+	
+
+Fits
+
+	
+
+Max length per request
+
+	
+
+Max API resolution
+
+	
+
+Aspect ratios
+
+	
+
+Audio
+
+
+
+
+Seedance 2.5
+
+	
+
+Longer clips with sound
+
+	
+
+30 s
+
+	
+
+1080p
+
+	
+
+16:9, 4:3, 1:1, 3:4, 9:16, 21:9
+
+	
+
+Yes
+
+
+
+
+Kling 3.0
+
+	
+
+Multi-shot and higher-resolution workflows
+
+	
+
+15 s
+
+	
+
+Up to 4K, depending on endpoint
+
+	
+
+16:9, 9:16, 1:1
+
+	
+
+Yes
+
+
+
+
+Wan 3.0
+
+	
+
+Long, reference-driven clips
+
+	
+
+30 s
+
+	
+
+1080p
+
+	
+
+16:9, 4:3, 1:1, 3:4, 9:16, adaptive
+
+	
+
+Yes
+
+For reference, Sora 2 generated clips up to 20 seconds at 720p, and Sora 2 Pro reached 1080p, both in 16:9 and 9:16. Each model page in the API catalog lists its full parameter set, supported inputs and current rate.
+
+Seedance 2.5 for long clips with sound. Audio is produced in the same pass, and separate endpoints handle image-to-video, references, edits and extensions.
+Kling 3.0 for multi-shot scenes. It can produce several shots in one request. Standard, Pro, Turbo and 4K endpoints are available, and the 4K endpoints serve workloads that need output above the 1080p of sora-2-pro.
+Wan 3.0 for reference-driven clips. It works through text-to-video, image-to-video and reference-to-video endpoints, with native audio.
+
+Every model sits behind the same key, so a pipeline can mix them. For example, drafts can run on one model and finals on another, with one balance and one lifecycle. The suite also covers the step before motion. A Soul 2 or Marketing Studio Image request produces a character still or a product shot, and its URL goes straight into an image-to-video request on Seedance 2.5 or Kling 3.0. The API how-to walks through that chain from a Soul 2 still to a finished Kling 3.0 clip.
+
+How did the Sora API work, and what carries over to Higgsfield?
+
+The Sora API ran every generation in four stages. The Higgsfield API follows the same order:
+
+Submit a job. A Sora integration sent POST /v1/videos with the model, prompt, frame size and length, and got back a video object with an id and a status. On Higgsfield, the request goes to the model's own endpoint and returns a request_id, a status_url and a cancel_url.
+Wait in the queue. Sora jobs moved through queued and in_progress to completed or failed. Higgsfield uses the same four statuses and adds two more final ones: nsfw for requests stopped by moderation, and canceled for requests withdrawn while still queued.
+Poll or receive a webhook. Sora offered GET /v1/videos/{id} for status checks and the webhook events video.completed and video.failed. Higgsfield offers the status_url for polling and a webhook attached to each request.
+Download the file. Sora streamed the MP4 from /v1/videos/{id}/content, and download links stayed valid for up to one hour. Higgsfield returns a video URL in the completed response, and the file stays available for at least seven days.
+
+The overall flow stays the same: submit a job, wait for it to finish, save the result. Authentication, endpoint paths, request fields, response parsing, status handling, webhook setup and error handling all need updating.
+
+How do Sora API settings translate to the Higgsfield API?
+
+The table below works as a translation guide: each row shows how one part of a Sora request is written for the Higgsfield API.
+
+How do Sora API settings translate to the Higgsfield API?
+
+What it controls
+
+	
+
+Sora API
+
+	
+
+Higgsfield API
+
+
+
+
+Authentication
+
+	
+
+Authorization: Bearer with an OpenAI key
+
+	
+
+Authorization: Key with a key ID and secret, server-side only
+
+
+
+
+Where the request goes
+
+	
+
+POST /v1/videos, model named in the body
+
+	
+
+POST to the model endpoint, e.g. /bytedance/seedance-2.5/text-to-video
+
+
+
+
+Request format
+
+	
+
+multipart/form-data or JSON
+
+	
+
+JSON
+
+
+
+
+Clip length
+
+	
+
+seconds, sent as text ("8")
+
+	
+
+duration, sent as a number (8)
+
+
+
+
+Frame size
+
+	
+
+size in pixels ("1280x720")
+
+	
+
+resolution ("720p") plus aspect_ratio ("16:9")
+
+
+
+
+Audio
+
+	
+
+generated with the clip
+
+	
+
+a setting per model: generate_audio or sound
+
+
+
+
+Start image
+
+	
+
+input_reference, matched to the frame size
+
+	
+
+image_url on image-to-video endpoints
+
+
+
+
+Job identifier
+
+	
+
+video id
+
+	
+
+request_id
+
+
+
+
+Completion notice
+
+	
+
+webhook set in project settings
+
+	
+
+hf_webhook parameter on each request
+
+
+
+
+Finished file
+
+	
+
+download link valid up to one hour
+
+	
+
+video.url kept at least seven days
+
+Step 1: Create an API account and key
+
+The API is a separate product from a higgsfield.ai plan, with its own account and billing. Setup takes four steps:
+
+Sign up for an API account as an individual or as a company.
+Add a payment method and top up the prepaid US dollar balance. The minimum top-up is $5.
+Generate a key in the console at open.higgsfield.ai. The key has an ID and a secret, and the full key is shown only once.
+Store the key on your server. It authenticates every call and should stay out of browser and mobile code.
+
+Official Python and TypeScript SDKs are available alongside plain REST. The full setup walkthrough is in How To Generate AI Videos Straight From the Higgsfield API, and the reference documentation is at docs.higgsfield.ai.
+
+Step 2: Rewrite the generation request
+
+Three things change in every request. The model name moves from the body into the URL. The Bearer header becomes a Key header. The form fields become a JSON body. A typical Sora request looked like this:
+
+curl -X POST "<https://api.openai.com/v1/videos>" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -F model="sora-2" \
+  -F prompt="Wide tracking shot of a coupe on a desert highway" \
+  -F size="1280x720" \
+  -F seconds="8"
+
+The same job on Seedance 2.5 through the Higgsfield API:
+
+curl --request POST \
+  --url "<https://api.higgsfield.ai/bytedance/seedance-2.5/text-to-video>" \
+  --header "Authorization: Key ${HF_API_KEY_ID}:${HF_API_KEY_SECRET}" \
+  --header "Content-Type: application/json" \
+  --data '{"prompt": "Wide tracking shot of a coupe on a desert highway",
+    "duration": 8, "resolution": "720p", "aspect_ratio": "16:9",
+    "generate_audio": true}'
+
+
+
+
+Other Sora capabilities map to separate Seedance 2.5 endpoints. Media inputs go in as publicly accessible URLs.
+
+Image references: input_reference moves to the image-to-video endpoint, which takes an image_url and an optional end_image_url for the last frame.
+Character references: the reference-to-video endpoint accepts image, video and audio references in one request.
+Extensions and edits: Sora's extensions and edits calls correspond to the video-extend and video-edit endpoints.
+Step 3: Switch status checks and webhooks
+
+Store the request_id as soon as a request is accepted. It identifies the job for polling, cancellation, webhook deduplication and support requests.
+
+For polling:
+
+Poll the status_url returned in the submit response, with backoff between checks.
+Stop when the status reaches completed, failed, NSFW or canceled.
+Cancel through the cancel_url while the request is still queued.
+
+For webhooks:
+
+Add your HTTPS endpoint, URL-encoded, as the hf_webhook query parameter when you submit the request.
+Reply with any 2xx status within ten seconds, after recording the event.
+Network failures and 5xx responses are retried for up to two hours. 4xx responses are treated as final.
+Deliveries can repeat, so deduplicate by request_id and status. If delivery fails for good, read the result from the status endpoint.
+
+Every webhook uses one envelope with four fields: request_id, status, error and payload. On success, the video URL sits at payload.video.url.
+
+Step 4: Save the finished file and check the cost
+
+A completed request returns the file at video.url. Output stays available for at least seven days, so the last step of the pipeline copies it to your own storage. Integrations that downloaded Sora files right away, because Sora links expired within an hour, keep that logic unchanged.
+
+Cost planning works from published rates:
+
+Per-second pricing: video models are priced per second of output, and the rate depends on settings such as resolution and audio.
+Estimate before running: the estimate endpoint takes the same parameters as the generation request and returns the cost without starting a job.
+No charge for failures: failed generations are not billed, and their cost returns to the balance automatically.
+Hard stop at zero: the balance cannot go negative. New requests wait for a top-up, or auto top-up keeps production traffic running.
+
+Current rates for every model and configuration are listed on the model pages in the API catalog.
+
+How does Higgsfield MCP fit into a Sora migration?
+
+If Sora ran as a tool inside Claude or another AI agent, outside your own application backend, Higgsfield MCP may fit better than the API. Higgsfield MCP is how Higgsfield plugs into agent workflows: Claude or any MCP-compatible agent connects through the server URL mcp.higgsfield.ai/mcp and signs in with a higgsfield.ai account, without an API key.
+
+Beyond the comparison table below, four details matter:
+
+ChatGPT: the Higgsfield plugin connects ChatGPT the same way.
+Veo 3.1: the website lineup available through MCP includes Google Veo 3.1, alongside Seedance 2.5 at up to 1080p, Kling 3.0 and Wan 3.0. Access to each model follows the account's plan.
+Unlimited: generations through MCP spend plan credits at standard rates, since Unlimited access applies only on the website.
+Assets: results appear in Assets on higgsfield.ai, tagged with the MCP source, next to work made in the interface.
+How does Higgsfield MCP fit into a Sora migration?
+
+Criteria
+
+	
+
+Higgsfield API
+
+	
+
+Higgsfield MCP
+
+
+
+
+Account
+
+	
+
+Separate API account
+
+	
+
+Your higgsfield.ai account
+
+
+
+
+Access
+
+	
+
+API key ID and secret
+
+	
+
+Sign-in, no key
+
+
+
+
+Billing
+
+	
+
+Per generation from a prepaid dollar balance
+
+	
+
+Plan credits at standard rates
+
+
+
+
+Model catalog
+
+	
+
+API catalog
+
+	
+
+Website lineup
+
+
+
+
+Where results go
+
+	
+
+Output URL for your own storage
+
+	
+
+Assets on higgsfield.ai
+
+
+
+
+Built for
+
+	
+
+Generation inside your own product
+
+	
+
+Generation from an AI agent
+
+Connecting Claude is covered in How To Generate AI Videos Straight From Claude with Higgsfield's MCP. Other agents are covered in How to Generate AI Videos With AI Agents in 2026.
+
+What should a Sora API migration checklist include?
+
+Before switching production traffic, work through these steps:
+
+Replace /v1/videos with the endpoint of the selected Higgsfield model.
+Replace Bearer authentication with a Higgsfield API key ID and secret.
+Map Sora fields such as seconds, size and input_reference to the new model's parameters, and check length limits: Kling 3.0 caps a request at 15 seconds.
+Update response parsing from id to request_id.
+Update final statuses and error handling, including NSFW and canceled.
+Replace project-level Sora webhooks with the hf_webhook parameter on each request.
+Review retry and webhook deduplication behavior.
+Update cost controls for the prepaid API balance, since Unlimited access on higgsfield.ai plans does not apply to the API.
+Save completed outputs to your own storage.
+Test the workflow in the Playground before production rollout.
+
+n8n and Make have no native Higgsfield node and connect through the standard HTTP Request step. The full setup is covered in How to Automate AI Video Generation With n8n and Make.
+
+For a wider view of video APIs, see 9 Best AI Video Generation APIs in 2026.
+
+SORA 2 API SHUTDOWN: BEST ALTERNATIVES AND HOW TO MIGRATE (2026)
+Get Your API Key

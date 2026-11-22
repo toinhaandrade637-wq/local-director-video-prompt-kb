@@ -1,0 +1,321 @@
+【项目】MAKE ANY FOOTAGE LOOK CINEMATIC（@learnwithkayo · 创作者博客）
+【链接】https://higgsfield.ai/@learnwithkayo/blogs/make-any-footage-look-cinematic
+【提示词块】4
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+MAKE ANY FOOTAGE LOOK CINEMATIC
+L
+Kayo Daniel
+@learnwithkayo
+62
+0
+0
+
+I filmed four plain clips at home in the middle of the day, every light on. Then I relit and graded each one with a single prompt in Seedance 2.5 Edit. Every prompt is below, ready to use with your own footage.
+
+Step 1. Film a plain clip
+
+
+
+
+Put your phone or camera on a tripod and film a simple moment. Daylight is fine. The light in your room does not matter, the prompt replaces it. Keep it to 5 to 10 seconds, a few small actions and one pause.
+
+Keep a real light source in the shot: a window, a lamp, a laptop or your phone screen. The new light looks believable when it has somewhere to come from. And shoot it plain. The more ordinary the original, the bigger the reveal.
+
+Step 2. Open Seedance 2.5 Edit
+
+
+
+
+Open the model menu and choose Seedance 2.5 Edit. It is made for editing footage you already have. Upload your clip as the video to edit.
+
+Step 3. Describe the light
+
+Write the prompt like a cinematographer. Every prompt below follows the same recipe:
+
+Where each light comes from and its color in Kelvin
+How dark the rest of the room is, in stops
+How much haze, in percent
+The grade: which colors sit in the shadows and which in the highlights
+Locks: framing and movement stay exactly as in your clip
+
+Lock your framing. Without a line like "framing identical to the video", Seedance reframed or zoomed in on almost every first try I made. Want a slow push-in? Add it as a zoom in your edit. You control it, and it stays matched to your original.
+
+Never describe what you do in the clip. Tell Seedance that every movement comes from your video, and only describe the light.
+
+Have a look you love? Save a still with that light, for example from Pinterest or a film you like, and upload it next to your clip. Then add one line to your prompt: use the image only for the light, haze and color, everything physical comes from your video. Describe the light in words as well. If anything from the reference shows up in your shot, remove the image and let the text carry the look.
+
+Look 1. Golden hour backlight
+
+
+
+
+Midday turned into low sun pouring through the curtains. References: your clip.
+
+Let a window in your shot become the sun. Backlight plus 30% haze gives you the warm rim on your hair and shoulders that makes it read as golden hour.
+
+@Video 1, keep everything the same. Only the light, color and atmosphere change. Every movement comes from @Video 1  100%, frame for frame.
+
+
+
+
+SCENE CONTEXT
+
+Late golden-hour version of the video. Low warm sun pours through the window behind the sheer curtains and backlights the person through a soft haze. Same performance, timing and framing as the video.
+
+
+
+
+LOCATION
+
+Room, furniture and layout exactly as in the video. The window glows bright with low sun, plants and furniture near it in soft silhouette.
+
+
+
+
+CAMERA
+
+Camera position, framing, lens and field of view identical to @Video 1  in every frame. One continuous shot, the camera does not cut on its own.
+
+
+
+
+PHYSICS
+
+Haze density 30%, glowing thickest near the window and thinning across the room. Dust particles sparkle only inside the sunlight.
+
+
+
+
+LIGHTING
+
+Sun: low golden-hour sunlight, 3500K, from the window behind the person, backlighting them. A warm rim traces the edge of their hair or hat, ear, jaw and shoulder. A long warm sun patch stretches across the floor. The curtains glow bright and soft.
+
+Screen: if a phone or laptop is in the shot, its screen adds a soft cool white 6500K fill on the face, a cool counterpoint to the warm backlight.
+
+The rest of the room falls 3 stops under, sinking into warm brown-black toward the frame edges. White balance fixed at 5000K.
+
+
+
+
+COLOR GRADE
+
+Warm, muted and nostalgic: amber-gold highlights in the curtains, haze and rim light, olive-tinted midtones, deep warm brown shadows. Skin warm and natural. Low saturation, blacks lifted to a soft warm brown, gentle halation around the window and the rim light, fine film grain, soft contrast.
+
+
+
+
+POSITIVE LOCKS
+
+Framing, composition, camera position and lens 100% identical to @Video 1  from the first frame to the last. Same person, same face, same outfit and accessories. Every movement comes from the video 100%, frame for frame. The warm backlight, rim light and golden haze stay visible in every frame. No music. No subtitles. No on-screen text.
+
+See all
+Copy prompt
+Recreate
+Look 2. A band of light across the eyes
+
+
+
+
+A thin beam through the curtains lands on the eyes while the phone lights the rest of the face. References: your clip.
+
+Using a black and white lighting reference? Write "full colour" in the scene and in the locks, so the reference only shapes the light and your clip keeps its color.
+
+@Video 1, keep everything the same. Only the light, color and atmosphere change. Every movement comes from @Video 1  100%, frame for frame.
+
+
+
+
+SCENE CONTEXT
+
+Moody evening version of the video, in full colour. A narrow beam of light from a gap between the curtains lands exactly across the person's eyes, while their phone screen glows softly on the rest of their face. The room is dim and hazy.
+
+
+
+
+CAMERA
+
+Camera position, framing, lens and field of view identical to @Video 1  in every frame. One continuous shot, the camera does not cut on its own.
+
+
+
+
+PHYSICS
+
+Haze density 25%, visible as a soft glowing shaft where the beam passes through the air before it reaches the floor. Dust particles sparkle only inside the beam.
+
+
+
+
+LIGHTING
+
+Eye light: a narrow, hard-edged band of soft warm cream light, 4500K, about 12 cm wide, from a gap between the curtains off-screen, falling at a steep angle. It cuts diagonally across the floor and lands precisely across the eyes and the bridge of the nose. Above and below the band the face falls into shadow.
+
+Phone glow: soft and dimmer than the band, lighting the cheeks, nose tip, lips and chin. Its colour shifts between white, amber, blue and red each time the person scrolls in the video. The back of the phone stays in shadow with a faint rim of screen light.
+
+Room: everything outside these two lights sits 3 stops under, dim and hazy. White balance fixed at 4300K.
+
+
+
+
+COLOR GRADE
+
+Full colour, muted and melancholic. Olive-green and teal in the shadows, creamy warm gold where the band lands on skin and floor, softened by the haze. Low saturation, soft lifted blacks with an olive tint, soft contrast, gentle halation around the edges of the band, fine film grain.
+
+
+
+
+POSITIVE LOCKS
+
+The image is in full colour from the first frame to the last. Framing identical to @Video 1. Same person, same face, same outfit and accessories. Every movement comes from the video 100%, frame for frame. The light band stays across the eyes for the whole shot. Each phone-glow colour change lands on a scroll in the video. No music. No subtitles. No on-screen text.
+
+See all
+Copy prompt
+Recreate
+Look 3. Doomscrolling in teal
+
+
+
+
+The phone becomes the only warm light in the room, changing color with every scroll. References: your clip.
+
+Tie the light to your real action: "each time the person scrolls in the video, the glow shifts color." That way the color changes land on your actual swipes instead of random moments.
+
+@Video 1, keep everything the same. Only the light, color and atmosphere change. Every movement comes from @Video 1  100%, frame for frame.
+
+
+
+
+SCENE CONTEXT
+
+Night version of the video. Close-up of the person on their phone in a dark room. The phone screen is the only warm light, washing their face in shifting colours, while the room around them sits in deep teal night.
+
+
+
+
+CAMERA
+
+Camera position, framing, lens and field of view identical to @Video 1  in every frame. Focus on the eyes. One continuous shot, the camera does not cut on its own.
+
+
+
+
+PERFORMANCE
+
+Each eye holds a sharp, bright, vertical rectangular reflection of the phone screen, with the coloured shapes of the feed moving inside it and changing colour with every scroll. Pore-level skin texture, moist living eyes.
+
+
+
+
+LIGHTING
+
+Key: the phone screen, soft, 30 cm from the face and slightly below, lighting the cheek, nose, lips and chin. Each time the person scrolls in the video the glow shifts colour: warm white, amber, deep orange-red, cool blue-white. At every scroll the brightness dips for 2 frames, then the new colour lands at full strength.
+
+Rim: cool cyan night light, 9000K, from a window off-screen on the opposite side, a thin soft edge along the side of the face and hair.
+
+Room: everything outside these two lights sits 3 stops under, filled with soft teal ambient light. White balance fixed at 4300K.
+
+
+
+
+COLOR GRADE
+
+Deep saturated teal-cyan night palette in the walls, furniture and clothes. The phone light on the skin pops warm against the teal: the amber and orange-red phases glow like firelight. Strong, clean teal and orange separation, rich blacks with full detail, crisp and polished, very fine grain.
+
+
+
+
+POSITIVE LOCKS
+
+Framing identical to @Video 1  from the first frame to the last. Same person, same face, same outfit, same phone. Every movement comes from the video 100%, frame for frame. Every colour change lands on a scroll in the video. The screen reflection stays visible in both eyes. The room stays deep teal night and the phone stays the only warm light. No music. No subtitles. No on-screen text.
+
+See all
+Copy prompt
+Recreate
+Look 4. Late-night city glow
+
+
+
+
+The whole room goes deep navy, lit only by the phone and the city outside. References: your clip.
+
+My first try hid a lamp behind the sofa. It came out looking like a fire. Light from something real in the shot, like the city windows, always reads better. Also write "spread evenly as a fine, still mist", or the haze turns into glowing clouds.
+
+@Video 1, keep everything the same. Only the light, color and atmosphere change. Every movement comes from @Video 1  100%, frame for frame.
+
+
+
+
+SCENE CONTEXT
+
+Late-night version of the video. Wide shot of a dark, hazy room, the whole room in frame exactly as in the video. Outside the windows, the city is full of lit windows glowing warm yellow. A fine, even haze fills the room. The room sits in deep navy blue, and the phone and the city windows are the only warm light.
+
+
+
+
+CAMERA
+
+Locked off. Camera position, framing, lens and field of view identical to @Video 1  in every frame, completely still, every frame edge in the same place. One continuous shot, the camera does not cut on its own.
+
+
+
+
+PHYSICS
+
+Haze density 20%, spread evenly through the entire room as a fine, still mist, uniform from floor to ceiling. Objects grow slightly softer and lighter with distance. The city light blooms gently into the air near the windows.
+
+
+
+
+LIGHTING
+
+City light: the lit windows of the buildings outside, warm yellow 3000K, glowing through the glass and curtains, each one blooming softly in the haze. Their light enters as a faint warm wash on the floor near the windows and warm edges on plants and furniture, fading into blue across the room.
+
+Phone: the only warm light on the person, lighting the face from below and spilling a small pool onto their clothes. Its colour shifts each time a new video starts.
+
+Ambient: soft deep blue night light, 9000K, at a very low level.
+
+These are the only light sources. Everything sits 4 stops under the phone-lit face. White balance fixed at 4300K.
+
+
+
+
+COLOR GRADE
+
+Deep blue night leaning to navy and ultramarine rather than teal. Warm accents only from the golden city windows, the spill near the windows and the phone glow. Clean separation between blue and amber. Soft lifted blacks with full detail, soft halation around the city lights and the phone, low saturation outside blue and amber, crisp and precise like a staged photograph, fine grain.
+
+
+
+
+POSITIVE LOCKS
+
+Wide framing 100% identical to @Video 1  from the first frame to the last. Camera locked off. Same person, same face, same outfit and accessories. Every movement comes from the video 100%, frame for frame. Most city windows stay lit warm yellow for the whole shot. The haze stays even across the room. The room stays deep navy blue throughout. No music. No subtitles. No on-screen text.
+
+See all
+Copy prompt
+Recreate
+Before and afters
+
+
+
+
+
+
+
+Your turn
+
+Film something plain, pick one of the four looks and swap in your own clip. Then play with the light: move the source, change the Kelvin, add or remove haze.
+
+
+
+
+
+
+
+
+
+
+MORE BREAKDOWNS LIKE THIS
+Follow on Instagram

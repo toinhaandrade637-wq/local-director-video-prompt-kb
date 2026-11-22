@@ -1,0 +1,203 @@
+【项目】TE TRANSFORMER EN ANIME AVEC WAN 3.0 + TUTO HERETIC（@sketching_anglerfish_prime · 创作者博客）
+【链接】https://higgsfield.ai/zh/@sketching_anglerfish_prime/blogs/te-transformer-en-anime-avec-higgsfield-wan-3-0
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+TE TRANSFORMER EN ANIME AVEC WAN 3.0 + TUTO HERETIC
+@sketching_anglerfish_prime
+2.2K
+0
+0
+Ce qu'il te faut
+
+Tu gardes ta vraie vidéo et ta voix : Higgsfield redessine seulement ton image, en anime, avec ton propre mouvement.
+
+Un compte Higgsfield avec des crédits : compte environ 4 crédits par seconde de vidéo en 1080p. Si t’as pas la thune, redirige toi vers google Omni ou minimax (en local celui-ci gratuit) ou runway crédits gratuits tu refais des comptes 
+Ta vidéo face cam, filmée normalement.
+Un logiciel de montage (CapCut, Premiere…) pour remettre ta voix et assembler les plans.
+
+Pour le tuto Heretic, vous pouvez descendre tout en bas
+
+Étape 1 : créer ta version anime (une image)
+
+On part d'une capture de ta vidéo, redessinée en anime dans la même pose et le même cadrage.
+
+Mets ta vidéo sur pause sur la première image du passage à transformer, et fais une capture.
+Dans Higgsfield, ouvre la génération d'image avec le modèle GPT Image 2.5, format 9:16, et ajoute ta capture en référence.
+Colle ce prompt (adapte la description de ta tenue et de ta pièce) :
+Redraw this exact photo as a frame of a Japanese 2D anime series: clean line art, cel shading, soft anime lighting. Same young woman, recognisable face, same hair, same clothes, same pose, same vertical selfie framing and same position in frame. Same room behind her. No text, no extra objects.
+Garde la meilleure image. Si ta vidéo a plusieurs plans (un autre décor ou un autre cadrage), refais une image par plan, à partir de sa première image. Ajoute alors ta première image anime en deuxième référence pour garder le même personnage.
+
+Tu peux tester d'autres styles en changeant le début du prompt, par exemple « a still from a modern 3D animated feature film » ou « a 2D animated TV series with bold black outlines ».
+
+Étape 2 : l'animer avec ton mouvement (Wan 3.0)
+
+L'outil s'appelle Genjutsu Lite : il reprend le mouvement de ta vraie vidéo et l'applique à ton image anime, avec le moteur Wan 3.0.
+
+Dans Higgsfield, choisis le modèle vidéo Genjutsu Lite (transfert de mouvement, Wan 3.0).
+En image de référence : ton image anime de l'étape 1. En vidéo de référence : ton extrait, 15 secondes maximum.
+Mets ce prompt de style. Il est obligatoire : sans lui, Wan te ressort une personne réaliste au lieu de ton personnage anime.
+2D Japanese anime style, cel shading, clean line art, flat anime colours, exactly the drawing style of the reference image; the character stays a hand-drawn anime character, never photorealistic
+Résolution 1080p, puis lance. Compte quelques minutes par extrait.
+
+Ta bouche, tes clignements et tes gestes suivent ta vidéo, image par image. Les mains peuvent rester un peu plus réalistes que le visage.
+
+Étape 3 : le montage
+
+Le principe : chaque extrait anime remplace exactement le même passage de ta vidéo, et c'est ta vraie voix qu'on entend.
+
+Découpe ta vidéo en plans de 15 secondes maximum, en coupant à chaque changement de cadrage. Un passage dans Genjutsu Lite par plan.
+Pose chaque extrait anime au même instant que le passage d'origine. Il démarre en même temps, mais sa durée est arrondie à la seconde (3 s donnent 4 s) : coupe-le à la longueur du plan. S'il est un peu plus court, fige sa dernière image.
+Coupe le son des extraits générés et garde la piste audio de ta vidéo.
+Pour la transformation, passe ta main devant ton visage pendant le tournage. Au montage, passe à la version anime au moment où ta main cache ton visage, avec un fondu de 5 images.
+Option incrustation : génère ton image anime sur un fond vert uni, puis retire le vert au montage. Attention aux vêtements verts ou kaki, qui peuvent devenir transparents.
+Prix et erreurs à éviter
+
+Pour une vidéo de 40 secondes entièrement animée, compte autour de 170 crédits en 1080p.
+
+Outil
+
+	
+
+Prix constaté
+
+
+
+
+Image anime (GPT Image 2.5)
+
+	
+
+0,25 crédit l'image
+
+
+
+
+Genjutsu Lite (Wan 3.0), 1080p
+
+	
+
+16 crédits pour 3 s, 24 crédits pour 6 s
+
+
+
+
+Genjutsu (garde ton vrai décor, ne remplace que toi)
+
+	
+
+140 crédits pour 6 s
+
+Oublier le prompt de style : le résultat devient réaliste.
+Envoyer un extrait de plus de 15 secondes : Genjutsu Lite ne le prend pas.
+Utiliser l'image d'un autre plan : si la pose ou le cadrage sont trop différents, le résultat dérape. Une image par plan.
+Fais d'abord un essai sur 3 secondes avant de lancer toute la vidéo.
+Paramétrer Heretic, pas à pas https://github.com/p-e-w/heretic
+1. Ce qu’il te faut
+Python 3.10 ou plus récent
+PyTorch 2.2 ou plus récent, installé pour ta carte graphique (NVIDIA de préférence)
+De l’espace disque : prévois au moins le double de la taille du modèle
+Une connexion stable si tu télécharges le modèle depuis Hugging Face
+2. Créer un environnement isolé (recommandé)
+
+bash
+
+python -m venv heretic-env
+source heretic-env/bin/activate      # Windows : heretic-env\Scripts\activate
+3. Installer Heretic
+
+bash
+
+pip install -U heretic-llm
+heretic --help
+
+Si heretic --help affiche la liste des options, l’installation est bonne.
+
+4. Premier lancement
+
+bash
+
+heretic Qwen/Qwen3-4B-Instruct-2507
+
+Remplace le nom par le modèle de ton choix : un identifiant Hugging Face (organisation/modele) ou un dossier local (/chemin/vers/modele).
+
+Heretic teste automatiquement de nombreuses combinaisons de réglages (des « trials ») et cherche le meilleur compromis entre deux objectifs : le moins de refus possible, et le moins d’écart possible avec le modèle d’origine (pour ne pas abîmer ses capacités). À la fin, tu choisis un des résultats proposés, puis tu peux le sauvegarder, l’envoyer sur Hugging Face ou discuter avec lui pour le tester.
+
+5. Si tu manques de mémoire vidéo
+
+Active la quantification 4 bits, qui réduit énormément la VRAM nécessaire :
+
+bash
+
+heretic --quantization bnb_4bit Qwen/Qwen3-4B-Instruct-2507
+6. Régler le nombre d’essais
+
+Plus il y a de trials, meilleur est souvent le résultat, mais plus c’est long :
+
+bash
+
+heretic --n-trials 100 Qwen/Qwen3-4B-Instruct-2507
+7. Utiliser un fichier de configuration
+
+Pour ne pas retaper les options à chaque fois :
+
+Récupère config.default.toml dans le dépôt GitHub.
+Copie-le sous le nom config.toml dans le dossier d’où tu lances la commande.
+Modifie les valeurs voulues, par exemple :
+
+toml
+
+quantization = "bnb_4bit"
+n_trials = 100
+
+Attention : en ligne de commande les options s’écrivent avec des tirets (--n-trials), dans le fichier avec des underscores (n_trials). Les options en ligne de commande écrasent celles du fichier.
+
+8. Plusieurs cartes graphiques
+
+Heretic les utilise toutes automatiquement. Pour limiter la mémoire par carte, dans config.toml :
+
+toml
+
+device_map = "auto"
+max_memory = {"0" = "20GB", "1" = "20GB", "cpu" = "64GB"}
+9. Reprendre après une interruption
+
+Heretic sauvegarde sa progression. Relance simplement la même commande : il te proposera de continuer, d’afficher les résultats ou de recommencer à zéro.
+
+10. Comparer avec le modèle d’origine
+
+bash
+
+heretic --model google/gemma-3-12b-it --evaluate-model p-e-w/gemma-3-12b-it-heretic
+Erreurs fréquentes
+Plantage ou mémoire saturée : active bnb_4bit ou prends un modèle plus petit.
+« Configuration contains N errors » : une valeur a le mauvais type (texte au lieu de nombre) ou une option est mal orthographiée. Vérifie avec heretic --help.
+Modèle introuvable : vérifie le nom exact sur Hugging Face.
+Un mot sur l’usage
+
+Un modèle modifié ne refuse plus grand-chose, mais il n’est pas plus intelligent ni plus fiable, et il peut affirmer des choses fausses avec assurance. Celui qui l’utilise reste responsable de ce qu’il en fait, et la licence du modèle d’origine continue de s’appliquer, notamment si tu le republies.
+
+
+
+
+Contents
+Ce qu'il te faut
+Étape 1 : créer ta version anime (une image)
+Étape 2 : l'animer avec ton mouvement (Wan 3.0)
+Étape 3 : le montage
+Prix et erreurs à éviter
+Paramétrer Heretic, pas à pas https://github.com/p-e-w/heretic
+1. Ce qu’il te faut
+2. Créer un environnement isolé (recommandé)
+3. Installer Heretic
+4. Premier lancement
+5. Si tu manques de mémoire vidéo
+6. Régler le nombre d’essais
+7. Utiliser un fichier de configuration
+8. Plusieurs cartes graphiques
+9. Reprendre après une interruption
+10. Comparer avec le modèle d’origine
+Erreurs fréquentes
+Un mot sur l’usage

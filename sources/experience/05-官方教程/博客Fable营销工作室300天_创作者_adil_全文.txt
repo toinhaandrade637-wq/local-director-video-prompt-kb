@@ -1,0 +1,1137 @@
+【项目】I BUILT A $5K/MONTH BUSINESS WITH CLAUDE FABLE 5.1 + HIGGSFIELD AI（@adilinthewildtempo · 创作者博客）
+【链接】https://higgsfield.ai/zh/@adilinthewildtempo/blogs/claude-fable-5-1-higgsfield-marketing-studio-300-day
+【捕获】2026-10-30（浏览器全文抓取·二次）
+
+──────────────────────────────────────
+
+I BUILT A $5K/MONTH BUSINESS WITH CLAUDE FABLE 5.1 + HIGGSFIELD AI
+@adilinthewildtempo
+24.3K
+30
+16
+
+For the full walkthrough — connecting the MCP, building the portfolio, and landing your first client — check out the YouTube video:
+People are making $300 a day selling AI motion graphics - and every video in this post came out of one message. No editing software, nothing manual. Claude plans the video, and Higgsfield Marketing Studio renders it - connected through the Higgsfield MCP, they work as one team. 
+
+Step 1: Connecting the Studio
+
+Open Higgsfield Marketing Studio and click «Video» - you’ll see all the preset styles we’re about to use. But we’re going to drive them from inside Claude:
+
+Open Claude, go to Settings → Connectors, click «Add custom connector», name it Higgsfield and paste this dedicated server URL: https://higgsfield.ai/mcp. 
+Click connect - from that moment Claude writes the prompt, sends it to Higgsfield, and the video comes back right in the chat.
+
+Then upload the motion prompt skill - a file that handles motion and text design so the output matches professional software:
+
+Higgsfield-mcp-skill_1.md
+MD
+
+
+
+
+Drop the file into your Claude chat to activate it, and your production line is live. Before you touch any preset, though, you need to know which style fits which market, and where the real money is. We did the research - let’s get into it.
+
+
+1. Launch Videos ($500 - $3,000 per 15 seconds)
+
+Mostly ordered by tech and SaaS companies. Two ways to make them - from scratch and from a reference; combine both to get the best results without wasting time or credits.
+
+Launch Video from a Website Link
+
+What it does: builds a full launch film from one line - drop the client's website URL right in the chat, and the AI analyzes the product, core benefits and target audience. Under the hood, multiple specialized marketing agents work out the positioning, and Marketing Studio picks the SaaS preset on its own.
+
+Launch video - Tepsira
+
+0:00 / 0:00
+
+One dynamic 15-second 3D CG product-launch film for Tepsira, an AI phone-sales product: an unanswered call becomes an AI conversation and then recording analysis. Seven edited camera shots inside one consistent design world. Build depth-separated three-dimensional objects, not a slideshow of zoomed still images. English on-screen text, music and sound design; no speech or voiceover.
+
+
+
+
+design world:
+
+Optical-glass design language: rigid blue-edged crystal UI slabs, pearl inner surfaces, three-bar voice symbols, thin glass signal ribbons, controlled studio reflections, restrained sentence-case English typography. Cool-white studio, cobalt glass refraction, silver bevel highlights; one dark studio passage in the middle of the film (dark materials, polished curved rims, pearl rear form). No warm colors, no new logos, no people, no devices, no subtitles, no footer labels.
+
+
+
+
+motion rules:
+
+Real camera travel reveals parallax, thickness and changing occlusion. Objects keep their geometry at all times. Fast moves ease decisively into readable landings; motion blur only during travel. Headline overlays stay sharp and flat in screen space and never rotate with objects.
+
+
+
+
+[Shot 1] Open at extreme close range inside a missed-call queue: a stack of rigid optical-glass call strips floating in depth, each strip carrying a handset icon, a caller line and an embedded "Missed call" tag, blue crystal edges catching studio light, a glass bevel crossing the lower foreground. The camera trucks right with large amplitude at fast speed, passing between the separated strips and revealing the foreground handset icon. One restrained blue edge pulse selects that call. Land with the short headline "Missed calls?", the wordmark "Tepsira" and the embedded "Missed call" tag legible, the queue clearly behind them.
+
+
+
+
+[Shot 2] At 00:02.250, hard match-cut from the selected call strip to a wide, light conversation hero: two rigid optical-glass speech forms facing each other — pearl inner surfaces, blue crystal edges — connected by a thin glass signal ribbon, the front form carrying a three-bar voice symbol. The camera performs a rightward arc shot with large amplitude at fast speed, about thirty degrees around the two forms, revealing their actual thickness and separation. A light pulse travels along the ribbon from the rear form to the front one, activating the front three bars. Settle on the headline "Meet your AI salesperson.", the wordmark "Tepsira" and the status label "Listening". Keep all text out of the moving objects' path.
+
+
+
+
+[Shot 3] At 00:05.000, cut to an extreme macro of a dark voice indicator as it begins speaking activity: a smoked-crystal conversation form with soft rounded edges and a polished curved rim, dark studio finish, carrying a three-bar voice symbol. The camera pushes in with small amplitude at fast speed; the three white rounded bars pulse once, their reflected light moving through the clean smoked crystal. Soft rounded edges throughout, never angular machined facets. This is a brief action insert — no headline, no new text.
+
+
+
+
+[Shot 4] At 00:06.000, cut to a new three-quarter viewpoint revealing the rear participant responding. The camera pulls out with large amplitude at fast speed, close-up to medium to wide, revealing BOTH dark conversation forms: the front smoked-crystal form with its three-bar symbol now at rest, and a pearl-surfaced rear form with a polished curved rim carrying a responding waveform. Dark studio lighting, clean rounded optical-glass geometry, no cloudy blending on the rims. The headline is "Natural conversations.", the wordmark is "Tepsira", and the embedded status is "Live call". End with the two-way exchange readable as turn-taking, not simultaneous random oscillation.
+
+
+
+
+[Shot 5] At 00:08.500, hard graphic-match cut from the voice pattern to a recording waveform in macro: a long rigid optical-glass recording strip carrying an etched waveform, blue crystal edges, studio reflections. The camera tracks right with large amplitude at fast speed alongside the strip; a narrow light scan travels over the waveform. Show the label "Recording" and the timestamp "02:14"; no main headline in this insert.
+
+
+
+
+[Shot 6] At 00:09.500, cut to a wide analysis assembly as the scan reaches the summary: a clean optical-glass insights module — a call-summary panel, three vertical metric bars of fixed differing heights, and the recording strip retained beside them — floating over a blank bottom background. The camera arcs left with medium amplitude at fast speed, then lands slightly frontal. The three metric bars receive sequential light accents without changing their heights. On-screen text: "From conversation to insight.", "Tepsira", "Call summary", "Follow-up requested.", "Key metrics", "Talk time" and "02:14". Keep the bottom background blank. Finish with the complete module readable.
+
+
+
+
+[Shot 7] At 00:12.500, cut to the final centered brand frame: the "Tepsira" wordmark centered in the cool-white studio, the line "Your AI salesperson." beneath it, and a "Start a conversation" button with its arrow, a thin glass ribbon crossing the foreground. Locked-off static camera; a single reflection travels along the foreground ribbon and settles. Preserve exactly "Tepsira", "Your AI salesperson." and "Start a conversation" with its arrow. From 00:13.800 through 00:15.000, freeze the entire composition, including light and camera. No fade, darkening or appended scene.
+
+
+
+
+overall_soundscape:
+
+Short dry selection ticks, spatial glass-edge sweeps and restrained bass impacts mark the edits. Two distinct nonverbal taps mark the conversation turns; a fine scan sound accompanies the recording insert. A brief two-note glass tone resolves on the brand frame. No speech, phone ringing or room noise.
+
+
+
+
+non_diegetic_music:
+
+One continuous instrumental electronic track at 120 BPM: rounded bass pulses, crisp syncopated sixteenth-note percussion and sparse clear synth notes. Add brief fills at the macro inserts, reduce percussion at the brand reveal, and stop the beat at 13.8 seconds with a short tonal decay. No vocals.
+
+查看全部
+复制提示词
+重新创作
+Recreate Any Video from a Reference
+
+What it does: the even easier method - drop a finished video into Claude and it reverse-engineers a Marketing Studio prompt that recreates the exact motion, heavy text overlays and reveal effects included. We tested it on a real Higgsfield launch video:
+
+
+
+
+[Shot 1] 2D-animated flat graphic design motion graphics, a full-frame kinetic typography advertising loop for a creative software brand, 16:9, one continuous take with no cuts. No people, no environment, no 3D, no lens, no depth of field, no shadow, no bevel, no glow. The background is a soft airy pastel gradient held for the whole clip: warm bone-white base #EAEAE3 with a lilac-pink haze #F3DDEB in the upper left and a chartreuse-lime haze #E2E7B4 in the lower right, plus a very fine even film grain over the whole frame. All type is one heavy geometric grotesque, Bold, tight tracking, sentence case, centre aligned, near-black ink #1A1A18. The opening composition is almost empty: only four tiny symbols near frame centre, each about 2% of frame height, a magenta "@", a lime four-pointed sparkle, a grey "→" and a grey "↓".
+
+
+
+
+CAMERA: locked-off static frame. The frame never moves. No push in, no pull out, no pan, no tilt, no zoom, no dolly, no handheld, no shake, no roll, no parallax, no drift, no reframing. Only the flat graphic layers animate inside the fixed frame.
+
+
+
+
+MOTION RULES: every element enters ease-out with no bounce and no overshoot, every element exits ease-in and accelerates off frame, fast moves carry directional motion blur on the moving layer only, the background never blurs, nothing rotates except where stated, and there are no fades, dissolves, crossfades or wipes.
+
+
+
+
+[0 to 2 seconds] A headline builds word by word at frame centre, each word snapping up from 20 pixels below and locking still. Line one reads "Higgsfield is FREE", line two reads "& Unlimited", cap height about 7% of frame height. Each word flashes one accent colour on the frame it lands, "Higgsfield" in wine crimson #8C0F45, "is" in amber #C87D3E, "FREE" in raspberry pink #E33966, "&" in olive lime #ADC50D, then settles to near-black ink within four frames. While the headline builds, six tiny grey labels at about 2.5% of frame height scatter into the empty space around it and then hold still, reading "→ Nano Banana", "→ GPT Image", "→ Seedance 2.0", "→ Kling 3.0", "→ Gemini Omni Flash", "→ Seed Audio". End with both headline lines fully set in near-black ink at centre and the small grey labels static around them.
+
+
+
+
+[2 to 4 seconds] Six rounded-rectangle thumbnail cards, each 16:9 with a 20 pixel corner radius and a slight two degree tilt, fly in fast from beyond the four frame edges and settle overlapping near the corners, two upper left, two upper right, one lower left, one lower right, motion blurred on entry and sharp on landing. They arrive as harsh two-tone acid duotone images in magenta and lime, and at 00:02.900 each card resolves in place into a full colour photographic thumbnail: a surfer, a skydiver, a motocross rider at night, a baseball batter, a fantasy landscape, a portrait. Three small black pill chips sit against the card edges with lime text reading "$0", "Unlimited" and "Generate". The headline stays exactly where it is and is never covered. End with six full colour cards parked around the frame edges and the headline still readable at centre.
+
+
+
+
+[4 to 5.5 seconds] All six cards and all three pill chips slide inward toward frame centre as one group, overlapping into a tight stack, then scale down to nothing at the centre point and vanish, taking the headline and the small grey labels with them, so the frame is briefly empty pastel gradient. Immediately a thick outlined clock ring about 30% of frame height appears at exact frame centre with two straight hands spinning fast clockwise, first in olive lime #ADC50D, then flicking to amber #C87D3E. End with the empty gradient frame and the amber clock ring spinning at dead centre.
+
+
+
+
+[5.5 to 7.5 seconds] The clock ring shrinks to inline icon size and slides right as the words "24 hours" slide in from the left and lock at centre, so line one reads "24 hours" followed by the small clock icon in near-black ink, cap height about 7% of frame height. The type flashes raspberry pink #E33966 on arrival and settles to ink. A second line appears directly below reading "Generate anything", then at 00:06.600 that line is replaced word by word in place by "Every top model → Unlimited" with a small outlined open padlock icon at the end, while line one fades to light warm grey #C2C3B4 and stays put. End with grey "24 hours" plus grey clock icon on line one and black "Every top model → Unlimited" with a padlock on line two.
+
+
+
+
+[7.5 to 10 seconds] The two lines become the top of a tall centre-aligned vertical list that scrolls steadily upward, every item in light warm grey #C2C3B4 except the single item crossing the vertical centre band, which is near-black ink. The list reads in order "Nano Banana Pro", "Seedance 2.0", "GPT Image 2", "Seed Audio", "Gemini Omni Flash", "Kling 3.0", "Seedream 5.0 Pro", "Soul 2.0". Two long thin black arrows stay pinned at the far left and far right of the centre band, a "→" on the left and a "←" on the right, pointing inward at the highlighted item, and they never move. The scroll decelerates and stops with "Create without limits" as the highlighted black line at frame centre between the two arrows, and a small black four-pointed sparkle snaps in below it. End on that frame, completely still for the last half second.
+
+
+
+
+TEXT LOCK: render every quoted string exactly as written, correctly spelled, all in the same single bold geometric grotesque. Do not translate, do not paraphrase, do not add any other text, no subtitles, no captions, no watermark, no logo, no UI chrome, no letters or numbers other than the strings listed above. The video is completely silent from start to finish.
+
+
+
+
+overall_soundscape: N/A
+
+
+
+
+non_diegetic_music: N/A
+
+查看全部
+复制提示词
+重新创作
+
+Credit-saving hack: generate a 9-frame storyboard first to approve the layout and visuals. If something looks off, fix it at the image stage, then plug it in as a reference before rendering video.
+
+And if you're wondering "why would a client pay me if it takes minutes?" - work doesn't need to be hard, it needs to deliver results. Executing fast doesn't lower your value. Clients care about the final impact and how much revenue it drives.
+
+2. Motion on Top of Real Footage ($200 - $500 per 60 seconds)
+
+Animated text and graphics popping up over real footage - the style you see across every big channel. The secret: you can do all of it inside the MCP.
+
+upload a talking-head video of yourself, ask for dynamic motion and camera moves, give it a script or let Claude write one. Claude builds a design sheet first - you pick a font, approve it, and the MCP generates. Pro tip: always ask for the design sheet in HTML - fonts survive way better that way. That's the trick for keeping a brand identity intact.
+
+Motion over real footage
+
+0:00 / 0:00
+
+Video 1 = the identity and environment reference. Use Video 1 to keep the presenter's exact face, hair, wardrobe, the room, the warm side lighting and the lens character identical. Audio 1 = the voice reference. Clone the presenter's VOICE from Audio 1 — same timbre, same accent, same casual energy. Do NOT reuse any of the original speech or its timing: the presenter speaks ONLY the new dialogue written below, naturally lip-synced, in the cloned voice.
+
+Image 1 is a graphic-design system reference ONLY — copy its letterform shapes and its element designs exactly; never copy its layout or background. From Image 1: TYPE A = the bold all-caps Space Grotesk lettering. OUTLINE TYPE = the stroke-only outlined lettering. PILL = the rounded green pill with dark text inside. STRIKE = the thick green strike-through line. BRACKETS = the four green corner brackets. BADGE = the rounded-square check badge. UNDERLINE = the thick rounded green underline bar.
+
+Color rule: every graphic element uses exactly two colors — neon yellow-green #D1FE17 and pure white #FFFFFF; dark #111111 appears only as text inside a PILL and as the checkmark inside a BADGE.
+
+The ONLY words on screen are the exact quoted on-screen strings below, spelled exactly as written — no other text, no labels, no watermarks, no subtitles.
+
+Motion style — calm, precise, expensive, Apple-keynote grammar: words assemble as LETTER CASCADES — letters appear one by one, left to right, each fading up from a soft gaussian blur into razor sharpness with a tiny even stagger, the whole word assembling in about half a second with one confident ease — fast attack, long soft settle, no bounce, no overshoot. Once assembled, every element is perfectly frozen relative to the frame, pixel-stable, no jitter, no boil, crisp edges — the graphics are screen-locked and stay perfectly stable even while the footage moves behind them. Exits are letter-by-letter dissolves into soft blur. Only one element animates at a time. Text zones: LEFT wall area in Shot 1, upper RIGHT area in Shot 2; text never covers his face, hands, or the laptop. Each graphic begins exactly when the matching spoken words start, or a hair after — NEVER before.
+
+integrated_multimodal_description:
+
+
+
+
+[Shot 1] Live-action, cinematic: the exact same setup as Video 1 — a medium shot of the presenter at a wooden desk behind a silver laptop, warm side light, gray wall with a dark swirl motif on the left. The camera holds a locked-off static shot. From 00:00.500 he looks into the lens and says, casual and confident: "Quick test — nothing I'm saying right now was ever actually recorded. This is a cloned voice." Exactly as he says "actually recorded", the words "NEVER RECORDED" assemble in the LEFT wall zone as a letter cascade of OUTLINE TYPE, and once assembled, solid #D1FE17 fill floods into the outlines from left to right; holds frozen, then dissolves. Exactly as he says "cloned voice", a PILL wipes open horizontally in the LEFT wall zone revealing the dark words "CLONED VOICE" inside; a BADGE fades up beside it and its dark checkmark draws itself in one smooth stroke; all hold frozen, then dissolve just before the cut.
+
+
+
+
+[Shot 2] At 00:05.000 a hard cut to CAMERA B — a completely new angle that does not exist in Video 1, and this camera is HANDHELD: a 35mm medium close-up filmed at arm's length from his left side at roughly 45 degrees, near the shelf, with subtle natural handheld sway, gentle breathing and micro adjustments, like a friend casually filming him — organic, alive, never shaky. His profile turns toward this new camera, window light raking across his face, the gray swirl wall in soft-focus behind him. Same room, same wardrobe, same lighting world — only the viewpoint is new. He turns his head to Camera B, grins slightly and says: "And this camera? It doesn't exist. The model invented this entire angle." Exactly as he says "doesn't exist", the words "DOESN'T EXIST." in white TYPE A cascade into the upper RIGHT area, screen-locked and rock-stable against the handheld motion; a green STRIKE draws through them and four BRACKETS snap in one corner at a time; all hold frozen, then dissolve. Exactly as he says "invented", one giant word "INVENTED." in TYPE A assembles as a large letter cascade spanning nearly the full frame width across the upper half; the word sits BEHIND the presenter in depth — his head and shoulders occlude the letters; a green UNDERLINE bar sweeps beneath it; both hold perfectly frozen and screen-locked until the end while the handheld frame breathes. Consistent identity across both shots — exactly the same man.
+
+
+
+
+overall_soundscape: The same room tone as Video 1 throughout both shots. The presenter's cloned voice speaking the new dialogue, clean and close. The quietest soft tick as each element locks in and a single low warm tone when "INVENTED." settles. No music.
+
+
+
+
+non_diegetic_music: N/A
+
+查看全部
+复制提示词
+重新创作
+
+The graphics sync to every spoken word, and the camera angles don't exist - the model invented them. Test this with your own footage - grab the skill that writes these prompts for you:
+
+Higgsfield-mcp-skill_1.md
+MD
+
+
+
+
+Motion drives retention, but manual editing is slow and full production is expensive - so pitching creators and small businesses on automating their motion graphics is an easy sell. Listings run $200-$500 for a 60-second video, and on freelance platforms they still look fresh. Yes, it'll get crowded eventually - everything good does. Which is the whole reason to start now, not in six months.
+
+3. Hyper-Motion (the style every brand orders)
+
+This is what you see in ads, restaurants and cosmetics stores - every brand from tiny to huge makes these, because customers read them as premium. The whole psychology: the same product looks like a $5 burger or a $15 burger depending on how it moves on screen. And for most businesses one $100 sale beats ten $10 sales - so they pay real money to look expensive.
+
+
+
+
+What it does: the film that proves the psychology - sear, a tunnel of flying ingredients, gravity assembly, and an animated endcard. It locks the final frame to a provided endcard image, so attach yours as the END IMAGE reference:
+
+Hyper-motion - Higgs Burger
+
+0:00 / 0:00
+
+The provided END IMAGE is the exact final frame of the film: the flat red endcard with cream 'HIGGS BURGER' lettering, the thin orbit ring, the ribbon 'WHERE FLAVOR GETS ITS MASS', the walking burger mascot leaning on the last letter, and checkered strips top and bottom. The film must finish precisely on this frame. No other references exist — every frame is composed from this prompt.
+
+
+
+
+STORY LOGIC — Four movements in one high-energy flow: (1) reality — patties sear on the cast-iron griddle in the burgundy diner; (2) the dream — as the flipped patty begins to fall, the film whips into a deep red void where the ingredients form a rotating TUNNEL and the camera flies straight through it; (3) return — exiting the tunnel, the ingredients stream down into the diner and gravity assembles them onto the waiting bottom bun while the camera counter-orbits; (4) packshot — after one overhead hero beat, a snap wipe into the animated ENDCARD that builds piece by piece and locks into the exact end image. Both void transitions are carried by natural motion — the falling patty in, the streaming ingredients out.
+
+
+
+
+WORLD — Reality: warm retro diner, deep Burgundy Red (#A02128) glazed ceramic square tiles with warm cream grout, oxblood reflections; raised griddle shelf above, counter below; crumpled white wax paper printed with small burgundy 'HIGGS BURGER' logos; warm hard 1970s light, high speculars, living steam. Void beat: a deep burgundy-red void, hard rim light carving the ingredients out of the dark red, glossy wet speculars. Endcard: flat cardinal red card with subtle paper texture, cream graphics. No people, no hands anywhere. No fire, no flames, no embers.
+
+
+
+
+CINEMATOGRAPHY DNA — shot like a real high-speed tabletop food commercial: Phantom-style high-speed capture, probe-lens macro passes that travel along the food surface, extreme slow-motion ingredient physics, hard speed ramps between beats, motion-control smoothness, practical in-camera feel — real steam, real juice droplets, food with natural imperfections.
+
+
+
+
+SUBJECT — Tall juicy double cheeseburger with a VISIBLE LAYERED CROSS-SECTION at all times: domed golden brioche crown DENSELY STUDDED WITH WHITE SESAME SEEDS; second patty; organic cheddar slice; first patty; crinkle-cut pickles WITH THEIR WAVY EDGES STICKING OUT beyond the patty edge; thick tomato slice protruding slightly; ruffled green lettuce with its frilly edges clearly overhanging the bottom bun; soft bottom bun; a tiny burgundy paper flag reading 'HIGGS' in the crown. Every layer stays readable in silhouette — lettuce ruffles, tomato rim and pickle edges always peek out from under the patties. All food real and photoreal with natural imperfections — uneven char crust, irregular lettuce, glistening tomato pulp. Sesame always visible when the crown is on screen.
+
+
+
+
+PERSISTENCE LOCK — THE STACK ONLY EVER GROWS: once a layer has landed, it remains physically present and partially visible for the entire rest of the film. When the first patty lands on the pickles, the pickle edges and lettuce ruffles remain clearly visible protruding beneath it in every subsequent frame, including the hero beat. No layer ever disappears, dissolves, or is replaced. The finished burger in the hero shot shows all eight layers: bun, lettuce, tomato, pickles, patty, cheese, patty, sesame crown.
+
+
+
+
+CHEESE REALISM — Real ORGANIC cheddar slice, slightly smaller than the patty; matte-satin surface with micro-texture, thin edges slightly translucent, softly imperfect corners; softens and drapes gently, keeps its slice identity — never plastic, never liquid, no pouring, no end-of-film cheese zoom.
+
+
+
+
+JUICE — One or two tiny beads at the patty edge on landing. Nothing more.
+
+
+
+
+STYLE — Ultra-premium hypermotion food commercial, HIGH ENERGY: pristine clean digital, zero grain, 180-degree shutter, warm vintage 1970s palette — burgundy, butter cream, brioche gold, cheddar orange. No violet, no teal.
+
+
+
+
+LIGHTING — Diner: warm hard directional key, high speculars, sharp shadows, glowing steam rims, ember-warm bounce at the griddle. Void: hard rim light on every flying ingredient, glossy wet speculars, the tunnel exit glowing warm ahead. Endcard: flat even poster light. Continuous exposure logic — no brightness jumps at any transition.
+
+
+
+
+CAMERA — Never static for a single frame, never frontal-only; strong three-layer parallax; AGGRESSIVE energy: in the void the camera FLIES THROUGH the rotating ingredient tunnel — a straight high-speed fly-through with the tunnel walls of food spiraling around the lens; back in the diner it runs a fast continuous COUNTER-ORBIT around the object — the camera circling one direction while the layers arc in from the opposite side, crossing the lens on every pass; every transition carried by inherited motion vectors; the finale is a snap wipe into the endcard animation.
+
+
+
+
+PHYSICS — STRICTLY REALISTIC: in the void, ingredients hold smooth stable tunnel orbits — no direction changes — patties trailing thin steam wisps and hot juice droplets, tomato slices flinging fine mist, lettuce shedding water droplets, sesame seeds streaking past the lens like sparks; in the diner, falls accelerate naturally under gravity, one-frame squash and quick damped rebound on every landing — a landing patty COMPRESSES the pickles and lettuce beneath it so their edges squeeze slightly OUTWARD and stay visible, never erased; buns compress, sesame scatters, steam alive and torn by the camera in every frame, fat sputters with random pops. Cheese per CHEESE REALISM. Endcard obeys clean 2D motion-graphics physics: elastic overshoot, crisp easing.
+
+
+
+
+RULES — 1) Sesame visible whenever the crown is on screen. 2) Cheese never plastic, never liquid. 3) PERSISTENCE LOCK is absolute: no landed layer ever disappears — pickle edges and lettuce ruffles stay visible under the patties through the hero beat. 4) The void is entered ONLY through the falling flipped patty and exited ONLY through the ingredients streaming down into the diner. 5) No static frame, no static steam before the final hold. 6) On-screen text exists ONLY inside the endcard sequence. 7) No people, no hands, no lips — voice-over only. Stack order: bun, lettuce, tomato, pickles, patty, cheese, patty, crown. 9) No fire, no flames. 10) The final frame matches the provided end image exactly and holds.
+
+
+
+
+ACTION TIMING
+
+0-2s — SHOT 1 — MACRO SEAR, 18° probe: first frame mid-action — the lens whips along two smash patties searing on the cast iron, lacy edges bubbling, fat popping, smoke ribbons torn by the fast pass, ember light.
+
+2-2.8s — SHOT 2 — THE FLIP INTO THE VOID, 47°: the first patty FLIPS up with a brief slow-motion beat at the apex, grease droplets suspended, the patty turning seared-side-up — and the instant it begins to FALL, the frame whips WITH its falling motion into a deep burgundy-red void: the diner streaks away, darkness and rim light take over.
+
+2.8-5.3s — SHOT 3 — TUNNEL FLY-THROUGH: inside the void the ingredients have formed a rotating TUNNEL around the camera's path — charred patties trailing steam, spinning cheddar slices, tomato slices flinging fine mist, crinkle pickles, ruffled lettuce shedding droplets, streams of sesame seeds — all spiraling slowly around the lens as the camera FLIES STRAIGHT THROUGH at high speed with hard ramps, near ingredients whipping past close and blurred, far ones drifting, a warm glow growing at the tunnel's end. End state: the camera bursts out of the tunnel as the ingredients converge and stream downward toward the warm light.
+
+5.3-6s — SHOT 4 — THE RETURN, motion-matched: following the downward stream, the burgundy tile counter rises into frame in the same movement — back in the diner: the soft bottom bun stands waiting on its wax paper square, steam drifting.
+
+6-10.5s — SHOT 5 — COUNTER-ORBIT ASSEMBLY, 29°: the camera launches into a fast counter-orbit — circling clockwise while the ingredients from the flight arc in counter-clockwise, crossing the lens on each pass and landing with real weight, THE STACK GROWING AND NEVER LOSING A LAYER: ruffled lettuce lands, its frilly edges overhanging the bun → thick tomato slice on top, rim peeking out → three crinkle pickles fanned on the tomato, wavy edges sticking out → the first steaming patty lands heavy with a one-frame squash — the pickles and lettuce compress and their edges squeeze slightly outward, STAYING CLEARLY VISIBLE beneath the patty — one or two tiny juice beads at the edge → the organic cheddar slice lands flat, corners bending over the crispy edge → the second patty → and in one brief slow-mo beat the sesame crown with the burgundy 'HIGGS' flag descends and locks the stack with a rebound and a puff of sesame — all eight layers readable in the silhouette. Steam whips with the orbit.
+
+10.5-12s — SHOT 6 — HERO SPIRAL CRANE: the orbital momentum spirals the camera up and over the burger into one fast clean overhead hero beat — the finished burger centered on its wax paper over the burgundy tiles, lettuce ruffles, tomato rim and pickle edges all visible in the stack, steam drifting — held for a breath at the top.
+
+12-15s — SHOT 7 — ENDCARD BUILD: a snap wipe to the flat red card, and the packshot assembles with punchy motion graphics: the giant cream letters SLAM DOWN from above one by one — 'HIGGS' then 'BURGER' — each landing with a tiny puff of paper dust and an elastic settle → the thin cream orbit ring draws itself around the lettering in one counter-sweep with a small seed particle riding it → the cream ribbon unfurls beneath reading 'WHERE FLAVOR GETS ITS MASS' → the cartoon burger mascot WALKS IN from the right with a springy cartoon gait, brakes on his heels, and leans casually on the last letter → the checkered strips slide in from opposite directions along the top and bottom edges — and everything settles EXACTLY into the provided end image and holds to the last frame.
+
+
+
+
+AUDIO
+
+[Voice-over] A relaxed, sun-soaked male voice — easy beach confidence: unhurried, low, warm, slight smile, slow laid-back delivery. Exactly these lines at exactly these times, nothing more:
+
+0.0-2.5s: "More than a recipe."
+
+3.5-5.5s: "Absolute harmony."
+
+7.0-10.0s: "Flavors in perfect unison..."
+
+10.5-12.0s: "Like a symphony."
+
+12.8-13.5s: "We found it."
+
+14.0-15.0s: "Higgs Burger."
+
+No other words, no on-screen speaker — pure off-screen voice-over.
+
+[Music] Symphonic advertising score with real drive: strings and woodwinds over a confident pulse; silent at the flip apex; a rushing airy passage through the tunnel; grounding warmly on the return; hard-swelling with the counter-orbit; a warm timpani hit at the crown; a playful bright orchestral flourish under the endcard build, resolving on a full final chord as the mascot lands his lean.
+
+[Sound design] wet sizzle with random pops, flip whoosh into the void, layered whooshes of ingredients rushing past inside the tunnel, grounding thud on the return, weighted squish-thud per layer, flag pop, then crisp motion-graphics foley on the endcard: letter slams with paper-dust puffs, a whoosh for the ring draw, paper flutter for the ribbon, springy braking footsteps for the mascot.
+
+
+
+
+HOLD FOR THE FULL TIMELINE
+
+PERSISTENCE LOCK: the stack only grows — pickles and lettuce stay visible under the patties in every frame through the hero beat; the finished burger shows all eight layers.
+
+Four movements: sear → tunnel fly-through → counter-orbit gravity assembly → animated endcard locking into the provided end image.
+
+Both void transitions carried by natural motion: the falling patty in, the streaming ingredients out.
+
+High energy throughout: hard ramps, tunnel fly-through, crossing counter-orbit, punchy landings — physics stays real outside the void.
+
+Cheese organic, slightly smaller than the patty — never plastic, never liquid; no cheese zoom.
+
+Voice-over exactly as scripted — relaxed beach-cool male voice.
+
+Sesame crown always visible; juice minimal; steam alive; no people, no hands; no fire.
+
+Palette: burgundy, butter cream, brioche gold, cheddar orange; endcard cardinal red and cream.
+
+Endcard text exactly 'HIGGS BURGER' and 'WHERE FLAVOR GETS ITS MASS'.
+
+No watermarks, no subtitles.
+
+查看全部
+复制提示词
+重新创作
+Hyper-Motion from One Message
+
+What it does: attach a photo of the product and say you need a hyper-motion ad - Claude picks the Hypermotion preset on its own. No product photo? It generates the product too. Set the style you want: expensive, minimal, bright.
+
+Hyper-motion - product film
+
+0:00 / 0:00
+
+Product rendering reel, 16:9, 24fps, 15 seconds, PHOTOREAL TROPICAL PRODUCT FILM STYLE — physically-based product animation set in a real tropical environment: hard golden sunlight through jungle canopy, volumetric light shafts in humid air, wet volcanic stone, glossy rain-fresh foliage, dense real-scale condensation on the product; premium render-reel polish but physically honest — droplets with gravity trails, fruit with real pith and skin texture, nothing rubber-smooth.
+
+Fully silent piece — no soundtrack, no sound design; all rhythm is carried by slow camera drift, one levitation beat and the final fruit-drop impact alone.
+
+The world: a lush tropical jungle clearing — layered palm and monstera foliage in deep greens, a slab of wet dark volcanic stone as the product stage, humid air at 30% haze with golden sun shafts breaking through the canopy from upper-left, drifting pollen motes and occasional falling water droplets. The environment is alive but never steals focus: background always in shallow depth of field.
+
+
+
+
+PALETTE (locked, environment):
+
+#0E3B24 — JUNGLE DEEP: shadowed foliage, background darkness
+
+#3FA65B — LEAF GREEN: lit foliage mid-tones
+
+#FFC63F — SUN GOLD: light shafts, rim light, specular kicks
+
+#1B6E75 — LAGOON TEAL: cool fill from shaded side, wet stone tint
+
+#FFFFFF — WHITE: specular highlights, condensation sparkle
+
+BOTTLE COLORS: exactly as defined by reference @图片 1 — no reinterpretation.
+
+Color rule: environment lives in green-gold-teal; the bottle's own colors come only from @图片 1 and must never bleed onto foliage or stone; fruits carry their natural colors.
+
+
+
+
+THE HERO: the HIGGS bottle exactly as reference @图片 1 — silhouette, proportions, cap design, label design, wordmark placement, materials and colors are locked to @图片 1 in every shot with zero redesign. Identity anchor: the single most distinctive design feature visible in @图片 1 (its signature silhouette/label element) must read clearly in every beat. Dense real-scale condensation over the bottle: beads 0.5–2mm at ~70% coverage with gravity trails and merging drops. Any label micro-text beyond the wordmark is greeked and unreadable.
+
+
+
+
+THE FRUITS: a recurring cast of real tropical fruits — a halved mango (amber flesh), a small whole pineapple, lime wedges, a halved passion fruit (dripping pulp), and a split coconut. All photoreal: fibrous skins, wet flesh, juice droplets. Fruits fly and drift around the bottle throughout the film on slow curved paths — near ones defocused, far ones sharp — never touching or occluding the bottle's identity anchor for more than 4 frames.
+
+
+
+
+NO ON-SCREEN TEXT: zero graphic type, titles, captions or UI anywhere. The ONLY readable text is the wordmark printed on the bottle per @图片 1; all other label text greeked.
+
+
+
+
+SAFE ZONES (9:16): top 12% and bottom 15% of frame carry no critical product read — the bottle's wordmark and identity anchor always sit inside the central 73% of frame height; fruits, foliage, light shafts and droplets may enter the margins.
+
+
+
+
+MOTION LANGUAGE (global): museum-slow reverence DNA inside a living world. Every camera move is a single continuous motorized drift — boom-ups, lateral dollies, slow orbital tilts — with long ease-in and ease-out. Fruits obey slow orbital drift: constant gentle momentum, no sudden direction changes. One levitation beat where the bottle and fruits share suspended gravity; everywhere else the bottle stands and physics is strict. Transitions are soft cuts on stillness — no dissolves, no morphs, no speed ramps except the final slow-motion fruit impact.
+
+
+
+
+BEAT SHEET:
+
+0.0–2.5s — Medium close-up on the bottle standing on wet volcanic stone, jungle bokeh behind, one golden sun shaft raking it from upper-left. Slow boom-up along the wet body from base to cap, condensation catching sun sparkle; a lime wedge and a mango half drift slowly through the defocused foreground.
+
+2.5–4.5s — Soft cut: three identical HIGGS bottles staggered in depth on the stone slab, monstera leaves framing the edges. Slow lateral dolly right with shallow depth of field; rack focus travels from the rear bottle to the hero bottle facing camera, wordmark and identity anchor dead-center. A passion fruit half floats past mid-ground, pulp glistening.
+
+4.5–8.5s — Soft cut: LEVITATION. The hero bottle floats mid-air at a gentle 15° tilt over the stone, rotating slowly on its long axis, surrounded by six fruits on their own slow orbits at different heights and depths — pineapple far and sharp, mango half near and defocused, lime wedges crossing between. A sun shaft flares behind the bottle as a golden halo; loose droplets and pollen hang in the humid air. The camera performs one slow half-orbit around the floating system.
+
+8.5–11.0s — Soft cut: extreme macro on the bottle's neck and cap per @图片 1, identity anchor entering frame lower-left. Slow orbital tilt around the cap; condensation in crisp macro, a faint wisp of cool vapor curling off the neck against the warm backlight. Focus breathes from cap to label.
+
+11.0–15.0s — Soft cut: final tableau. The bottle stands on the wet stone beside a heavy faceted glass filled with the drink (liquid color per @图片 1's product), jungle glowing gold-green behind. A lime wedge and two passion fruit halves fall into the glass in extreme slow motion — impact crowns arc out, juice and droplets landing on the dark stone. The splash settles, liquid stills, one condensation bead runs down the bottle. Static hero end frame → hold 1.0s → silent tail.
+
+
+
+
+CONTENT SAFETY / NON-IP: invented beverage brand "HIGGS" with bottle design per proprietary reference @图片 1; the design does NOT copy Coca-Cola contour bottle trade dress, does NOT copy Fanta/Mirinda/Sprite trade dress, no real brand devices. All label micro-text greeked. No real people, logos, landmarks, or OS interfaces.
+
+
+
+
+PRODUCT CONSISTENCY: restate in every generation — the bottle matches reference @图片 1 exactly: silhouette, proportions, cap, label layout, wordmark, materials, colors; identity anchor from @图片 1 must read in every beat; condensation ~70%. Bottle size and design never change across beats; in the three-bottle row all bottles are identical to @图片 1. Fruit cast is fixed — mango half, pineapple, lime wedges, passion fruit halves, split coconut — same fruits across all beats, natural colors locked.
+
+
+
+
+CAMERA & MOTION: allowed — slow motorized boom-ups, lateral dollies with rack focus, one half-orbit around the levitating bottle, slow orbital macro tilts, one slow-motion fruit-drop impact. Forbidden — handheld shake, whip pans, crash zooms, dissolves, morphs, speed ramps outside the final impact, any fast move. Depth of field cinematic and shallow throughout; motion blur natural to a real shutter; slow-motion splash frames crisp.
+
+
+
+
+RENDER: physically-based photoreal quality — glass/bottle materials per @图片 1 with true refraction, condensation with real refraction and varied bead sizes, fruit with fibrous skin and wet flesh subsurface scatter, volumetric golden sun shafts in 30% humid haze, wet volcanic stone with broken specular reflections, foliage with translucent backlit leaves. Must NOT appear: on-screen text or graphic overlays of any kind, rubber-smooth CGI plastic look, film grain overlay, vignette, lens flares, light streaks, floating bokeh circles, chromatic aberration, watermark of any kind.
+
+查看全部
+复制提示词
+重新创作
+
+Here's the kind of prompt it builds - a physically honest tropical product film that looks shot on a real camera:
+
+The Watch
+
+What it does: the exact same way works for any physical product - a watch, cookware, a wardrobe, whatever. This one decomposes a mechanical watch into an exploded diagram, flies FPV between the layers with motion-tracked spec callouts, and slams it back together:
+
+Hyper-motion - watch
+
+0:00 / 0:00
+
+[Shot 1] Live-action, cinematic, one continuous unbroken take with no cuts and no dissolves, on a pure black background throughout — no floor, no haze, no gradient, only black void. Typography system for ALL on-screen text: clean geometric grotesque sans-serif in the style of Inter — neutral, modern, even stroke width, open apertures. Each callout is a two-tier lockup: a huge extra-bold white metric numeral as the dominant element, and beneath it a small all-caps label in medium weight with very wide letter-tracking. All text pure white #FFFFFF, flat, no outline, no glow, no shadow. The take opens on a complete luxury mechanical wristwatch with a brushed steel case and silver dial floating upright in center frame, hands at 10:10, second hand ticking, lit by hard cold rim light. The camera pushes in with small amplitude at fast speed toward the dial. At 00:01.500 a speed ramp hits: time stretches into extreme slow motion — and the watch decomposes along one single vertical axis, every component separating in a clean exploded-diagram stack, evenly spaced: sapphire crystal on top, then the three hands, the silver dial, the skeletonized bridges, the balance wheel with its blue hairspring, the escape wheel and pallet fork, the four gear-train wheels, the mainspring barrel, the brass mainplate, the caseback at the bottom. Every part stays rigid and intact while separating — no morphing, no fading; parts only travel along the axis. At 00:03.500 time snaps back to full speed and the camera dives into an FPV flight between the suspended layers at fast speed with heavy motion blur on every bank. At each key component the camera decelerates and glides in to extreme macro distance — the part fills the vertical frame, micro surface detail sharp, background layers dissolving into black bokeh — holds for a beat, then whips away with motion blur to the next part. Each callout is motion-tracked: a thin white leader line stays pinned to an exact anchor point on the part, and the lockup follows that part with natural parallax as the camera moves, as if attached in 3D space — never floating freely, never sliding on its own. At 00:04.500, in macro on the beating balance wheel, anchored to its rim: a huge extra-bold numeral reads "28,800" with a small wide-tracked all-caps label beneath it reading "BEATS PER HOUR"; it exits with a hard snap before 00:06.000, when, in macro on the meshing gear train, anchored to its center pivot: a huge numeral reads "100%" with the label "MECHANICAL. NO BATTERY"; it exits before 00:07.500, when, in macro on the mainspring barrel's coil, anchored to the coil: a huge numeral reads "72H" with the label "POWER RESERVE"; it exits before 00:09.000, when, in macro on the clear sapphire disc, anchored to its edge: a huge numeral reads "9H" with the label "SCRATCH-PROOF SAPPHIRE", exiting by 00:10.000. Only one lockup exists on screen at any moment; each appears with a hard snap, holds pixel-stable relative to its anchor, crisp edges, no jitter, no wobble, and exits with a hard snap. At 00:10.000 the camera swings out to frame the whole exploded stack from the side, and the reassembly fires: all layers slam back together along the same single axis in reverse order at fast speed, motion blur during travel only, each layer stopping dead on contact with a crisp mechanical snap, the case closing last with a weighty clunk. The camera arcs to a frontal view as the watch, whole again, ticks on pure black. From 00:12.500 the frame locks completely — no push in, no drift, no handheld — as a title reads "AURUM" in bold geometric grotesque capitals with wide tracking, centered in the lower third below the watch, resolving from soft blur into sharp focus. Do not misspell any word. The ONLY words on screen in the entire video are the exact quoted strings above — no other text, no labels, no subtitles, no watermarks. Final state: the finished watch ticking against pure black, title sharp beneath it.
+
+
+
+
+overall_soundscape: A dead-silent black void base with the steady tick of the watch at the open. The speed-ramp decomposition carries a deep sub-bass whoosh stretched into slow motion, with faint crystalline chimes as the layers separate. The FPV flight adds sharp air whooshes on every bank, a brief hush at each macro hold, and each lockup snaps in with a soft ui-click. The reassembly is a fast rhythmic percussion of characteristic mechanical sounds — snaps as pivots seat into jewels, a springy metallic ping from the balance wheel, a soft flat thud for the dial, a weighty double clunk as the case closes — resolving into the clean steady tick-tick-tick of the finished watch.
+
+
+
+
+non_diegetic_music: A pulsing electronic bass with a taut string ostinato at a fast tempo; it drops to a stretched low drone during the slow-motion decomposition, kicks back at full speed with the FPV flight, staccato hits locking to the reassembly snaps, one full hit landing exactly as the case closes, then falling away to a single sustained soft piano note under the final title.
+
+查看全部
+复制提示词
+重新创作
+4. 3D Motion Graphics for Real Estate ($2,000 - $15,000 per minute)
+
+A hidden niche with almost zero competition. These videos have only ever been made in heavy 3D software: market rates run $2,000 to over $15,000 per minute - even the cheap studios charge $75 a second - and a standard flythrough takes 7 to 8 weeks. The main client is property developers selling apartments before the building exists: they physically have nothing to film, so without 3D visualization they simply have no sales. Proven demand, almost zero supply.
+
+
+
+
+What it does: turns a static architectural render (developers always have these) into a blueprint-to-reality launch film - one unbroken camera move where the drawing's own linework extrudes into photoreal archviz, with price and square-footage overlays.
+
+3D real estate - HIGGS PARK
+
+0:00 / 0:00
+
+SCENE CONTEXT
+
+A 15-second fully silent architectural launch film for the fictional residential development "HIGGS PARK", executed as ONE single unbroken camera move. The film is a living blueprint that progressively extrudes into photoreal archviz. There are no cuts, no dissolves, no fades, no editorial wipes anywhere: every scene change is caused by a visible in-world event — the drawing's own linework turning to matter, an extrusion, a plotted overlay — happening inside the scene while the camera keeps moving. Drawing and reality are the same geometry: every plotted line lands exactly where its material twin appears.
+
+
+
+
+WORLD / HERO
+
+"HIGGS PARK" — invented architecture, referencing no real building, developer or architect: a 12-storey stepped-terrace tower, each floor set back, creating cascading planted terraces; a continuous chartreuse acid #D1EF17 balcony ribbon rail as the signature line in both worlds; warm concrete body #CFC8BC; full-height glazing with true sky reflections; oak #B08954 double-height timber lobby; greenery #5E8C5A. Accent color definition, locked for the entire film: chartreuse acid #D1EF17 is a COLD yellow-green, sitting between highlighter yellow and fresh lime, always green-biased, in every beat and under every lighting condition. Blueprint world: deep blueprint paper #16233F, faint millimeter grid rgba(234,242,255,0.12), draft-white #EAF2FF linework and type, chartreuse acid #D1EF17 dimension lines and accent words. The drawing layer is honest 2D vector CAD language: crisp 1px lines, dimension arrows with ticks, section hatching, level marks, title-block stamps, zero glow.
+
+
+
+
+FIRST FRAME
+
+Blueprint-deep paper fills the entire frame, the faint millimeter grid breathing at low opacity. Nothing else is in frame. Frame center holds the exact spot where the chartreuse centerline is about to plot.
+
+
+
+
+FORMAT
+
+16:9 horizontal, 30fps, 15.0 seconds, one continuous take.
+
+
+
+
+OPTICS
+
+84° diagonal field of view, classic wide coverage. Lens locked for the entire 15 seconds — one lens, one take.
+
+STRONG anamorphic lens character: horizontal squeeze and compression, oval elliptical bokeh, horizontally stretched highlights, curved barrel edge distortion, chromatic aberration toward the edges. NO lens flares, NO light streaks, NO floating bokeh circles.
+
+All type, dimensions and title-block graphics stay composed inside the central 70% of frame so barrel distortion and edge aberration never touch readable text.
+
+
+
+
+CAMERA — ONE UNBROKEN MOVE
+
+The camera begins static and face-on to the drawing plane, like a rostrum camera over a drafting table. As the section drawing tilts into 3D, the camera arcs right and enters space with it. Through the ink-to-matter rise it performs a slow rising clockwise orbit around the tower, climbing in sync with the floor-by-floor ignition. The orbit crests above a mid-height terrace and tilts to plumb vertical, looking straight down; it then descends vertically through the extruding floor plan into the apartment, settling into a gentle eye-height forward glide toward the glazing. The glide passes straight through the glass onto the terrace, then reverses into one long continuous pull-back and rise that never stops until the end — carrying the proof overlay, the golden-hour wide and the final lockup where the tower recedes to frame center. All motion eases out; every move blends into the next with curved velocity — the camera never fully stops until the final 1.0-second hold. No handheld, no shake, no speed ramps.
+
+
+
+
+ACTION TIMING — transitions are in-world events, never cuts
+
+0.0–1.8s — On the blueprint paper a single chartreuse centerline plots itself left-to-right through frame center; from it the building SECTION draws at plot speed — floor slabs, stepped terraces, stair runs — draft-white lines with hatching filling the wall cuts, chartreuse dimension arrows snapping between level marks with ticks. A title stamp rotates into the bottom-right title block: "HIGGS PARK — REV.01". The headline plots above the section stroke by stroke, 400ms per line: "Drawn to be lived in." — the word "lived" plotted in chartreuse.
+
+SEAM A (no cut): the finished section drawing itself tilts — the drawing plane rotates into 3D space with every line continuously visible throughout the rotation.
+
+1.8–3.6s — The section resolves into a full axonometric of the stepped tower — still pure draft-white wireframe on blueprint paper — self-building floor by floor, 12 storeys stacking upward at plot speed. Two labels leader-line to features: "TERRACE EVERY FLOOR" · "3.1 M CEILINGS". The camera is already arcing in the slow orbit it will hold.
+
+SEAM B (no cut): materialization begins inside the linework itself at street level — the drawing's own strokes start turning to matter; there is never a screen-space boundary.
+
+3.6–5.8s — THE INK-TO-MATTER RISE: the building materializes THROUGH its own drawing, like current running through a circuit. On the ground floor the chartreuse ribbon line ignites first — the plotted stroke charges and thickens into painted metal along its own exact path, acting as the fuse for the whole floor: from the ribbon, matter flows outward through the connected linework — slab-edge lines swell into concrete with visible mass, mullion lines crystallize glass between them with sky reflections arriving as it sets, terrace outlines sprout real planting. Each floor ignites this way in sequence, bottom to top, in the same rhythm as the wireframe self-build — always the lines themselves turning to matter, floor by floor, element by element. Above the highest ignited floor the tower is still pure wireframe on blueprint paper. Around the finished floors the blueprint paper develops like a cyanotype exposed to real sunlight: the deep blue photochemically brightens into true sky, blooming outward from the building's silhouette in a soft photographic development and completing by the end of the beat. The camera's rising orbit climbs with the ignition so the transformation always lives near frame center. Headline: "From line to life." — "life." in chartreuse.
+
+SEAM C (no cut): the rising orbit crests above a mid-height terrace and the camera tilts to plumb vertical — and in the straight-down view perspective flattens into a top-down apartment PLAN: the floor below reads as blueprint linework again, furniture drawn as line symbols on paper.
+
+5.8–7.8s — The ignition reaches the plan vertically: as the camera descends through the ceiling plane, the plan's lines charge and extrude upward past the lens into a photoreal apartment — oak floor rolling out as if the material is being laid in real time, the sofa inflating from its line symbol, daylight entering through full-height glazing. One dimension line remains floating in reality — chartreuse, holding "42 m²" — a ghost of the drawing. The descent settles into a gentle eye-height forward glide toward the glazing.
+
+SEAM D (no cut): the glide continues straight through the full-height glass onto the terrace — the pane passes cleanly across the lens, no distortion spike.
+
+7.8–9.6s — Balcony beat: photoreal planted terrace, the chartreuse rail crisp in sunlight, the stepped terraces of neighbors cascading below. Three drafting labels plot on with leader lines, coexisting with reality: "PLANTED TERRACE — 11 M²" · "WEST SUN AFTER 15:00" · "PET-PROOF RAIL". The camera begins the long pull-back it will hold to the end.
+
+9.6–11.4s — PROOF OVERLAY (no peel, no wipe): the pull-back continues uninterrupted; over the photoreal building, draft-white and chartreuse linework plots itself directly ON TOP of the built geometry — every line landing exactly on its material twin: slab edges, mullion grids, the chartreuse ribbon rails, terrace outlines — a live dimensional overlay, with two or three chartreuse dimension arrows snapping between floor levels. For a beat the drawing and the building coexist in one frame as one object; then the lines sink into the surfaces they trace, absorbed into concrete, glass and metal, while the light warms continuously toward golden hour in one natural shift. Headline: "Exactly as promised." — "Exactly." in chartreuse.
+
+11.4–13.2s — The continuing pull-back opens into the wide hero: full tower at golden hour, terraces glowing, chartreuse ribbons catching the low sun while holding their cold yellow-green hue against the warm light, gentle wind in the terrace planting, soft golden-hour volumetrics — while the faint blueprint grid remains softly visible in the SKY only, holding both worlds in one frame. Title-block chips plot down a corner column: "Q4 2027" · "1–4 BEDROOMS" · "FIRST 50 UNITS — PRE-LAUNCH PRICE".
+
+13.2–15.0s — The same pull-back recedes the tower to frame center; all remaining linework elements slide and converge into a single underline that plots beneath the wordmark as it draws on in draft white: "HIGGS PARK" — underline in chartreuse. Secondary line in title-block lettering: "Live inside the drawing." Stamp slams bottom-right: "SALES OPEN". The camera finally stops. Hold 1.0 second, then the entire frame un-plots — every line retracting in reverse plot order — back to empty blueprint deep. Silent tail on the last frames.
+
+
+
+
+GRAPHICS & TYPE
+
+Architectural lettering: clean grotesk in draft white #EAF2FF; all-caps labels with dimension-style leader lines; headlines draw on stroke by stroke like pen plots at 400ms per line; exactly one accent word per headline plotted in chartreuse acid #D1EF17; small text lives in title-block corners. Every string is spelled exactly as listed, letter-perfect. Exact copy list — these strings and nothing else appears in frame:
+
+"HIGGS PARK — REV.01" / "Drawn to be lived in." / "TERRACE EVERY FLOOR" / "3.1 M CEILINGS" / "From line to life." / "42 m²" / "PLANTED TERRACE — 11 M²" / "WEST SUN AFTER 15:00" / "PET-PROOF RAIL" / "Exactly as promised." / "Q4 2027" / "1–4 BEDROOMS" / "FIRST 50 UNITS — PRE-LAUNCH PRICE" / "HIGGS PARK" / "Live inside the drawing." / "SALES OPEN"
+
+Each string appears only in its own timed beat — the "SALES OPEN" stamp exists only in the final lockup, never earlier.
+
+
+
+
+PHYSICS
+
+Materials arrive fully formed as each line charges — no gradient blending, no half-loaded textures. Concrete grows with visible mass, oak planks land with weight, the sofa inflates with a soft-body settle, glass carries physically-correct sky reflections, planting moves in gentle wind. Materialization always travels through the plotted linework itself, igniting floor by floor, element by element, bottom-to-top in one readable rhythm — never patchy, never appearing everywhere at once, never a moving edge crossing the screen. The cyanotype sky development blooms outward from the building silhouette as a photochemical event bound to the paper, not to the frame. Overlay linework in the proof beat plots at pen speed and sinks into surfaces without displacing them.
+
+
+
+
+LIGHTING
+
+Blueprint beats: flat, even paper illumination, zero glow on lines. Ink-to-matter rise: clean directional midday sunlight, shadows lengthening floor by floor as the building becomes real. Interior: daylight through the full-height glazing. From the proof overlay onward the light warms continuously into golden hour — long warm shadows across the terraces, controlled highlights on the chartreuse rails, which hold their cold yellow-green hue against the warm key, soft volumetric light in the wide. One continuous light evolution, no sudden grade jumps.
+
+
+
+
+AUDIO
+
+Fully silent piece: no music, no sound design, no narration, no voices, no ambient track. Rhythm is carried entirely by draw-on timing and the ink-to-matter ignition.
+
+
+
+
+STYLE
+
+Two locked layers, one geometry. Drawing layer — honest CAD aesthetics: crisp 1px vector lines, hatching, arrowheads, zero glow, zero bloom. Reality layer — archviz-grade premium CGI: soft global illumination, physically-correct glass, warm concrete micro-texture. Palette locked: blueprint deep #16233F, draft white #EAF2FF, chartreuse acid #D1EF17 — a cold yellow-green between highlighter yellow and fresh lime, green-biased in all lighting including golden hour — grid rgba(234,242,255,0.12); reality — warm concrete #CFC8BC, oak #B08954, greenery #5E8C5A.
+
+
+
+
+QUALITY
+
+Sharp, stable picture; no flicker, no ghosting, no frame-blending, no stutter. Linework stays razor-crisp at hold points; controlled highlights so edge aberration never smears the chartreuse rails or the glass. Smooth continuous camera with natural subtle motion blur only during the fastest moments of the orbit and descent.
+
+
+
+
+POSITIVE CONSTRAINTS
+
+One single unbroken shot for all 15 seconds — the only transitions are the ink-to-matter ignition traveling through the linework, the cyanotype sky development, the plan extrusion and the plotted proof overlay. Materialization is always attached to the building's own plotted geometry (ribbon lines, slab edges, mullions, terrace outlines) and ignites bottom-to-top: the frame never divides into a half-drawing / half-reality split, and no straight vertical or diagonal boundary ever crosses the screen. Reality never reverts after the rise: once built, the tower stays built until the final un-plot. Drawing and reality are the SAME geometry; every plotted line lands exactly where its material twin appears; the chartreuse balcony ribbon is the identity anchor in both worlds and the ignition fuse of every floor. No people anywhere in frame. No real city skyline, no map data, no real brands. Only the listed copy strings appear, spelled letter-perfect — no other text, no stray single letters, no subtitles, no watermarks. The frontier between line and material stays razor-clean at all times.
+
+查看全部
+复制提示词
+重新创作
+
+Beginners in this niche list at $500-$1,000 per property. To a developer that's pennies; to you, one deal unlocks retainer work across their entire portfolio.
+
+5. 2D Explainer Motion ($300 - $800 to start)
+
+The style you've seen everywhere. Who buys it? App founders, universities, online schools - anyone who has to explain a product fast. And they're in a hurry: agencies quote 4-8 weeks and $3,500-$12,000 for one 60-second spot. You do it in a day.
+
+What it does: tell Claude what the product or course is, who it's for, and what should be on screen - it writes the prompt. This one fuses Octane-grade 3D objects with flat vector characters:
+
+University launch film, 16:9, 30fps, 15 seconds, HYBRID STYLE: premium 3D CGI render fused with flat 2D vector motion. The 3D layer — physical objects of the university (buildings, books, cap, medal) — rendered Octane-grade: PBR materials, soft studio lighting, real physics, slow-mo moments. The 2D layer — characters, doodles, UI chips, scribble arrows — is pure flat vector with bold shapes and no outlines, animated with snappy squash-stretch, living ON TOP of and AROUND the 3D objects: vector characters walk on rendered surfaces, flat doodles orbit real geometry. The two layers stay visually distinct — 3D is glossy and lit, 2D is flat and graphic — but physically interact: this contact IS the style. Fully silent piece — no soundtrack, no sound design; all rhythm is carried by motion timing and cuts alone.
+
+
+
+
+PALETTE (locked, vibrant):
+
+Acid             #D1EF17 — brand base: 3D building accents, 2D highlights, accent words
+
+Deep ink         #14151B — dark world background, type on light
+
+Electric violet  #6C2BFF — 2D character clothing, secondary shapes
+
+Hot coral        #FF5A4E — 2D accents, doodle strokes
+
+Off white        #F7F4EC — light world background, type on dark
+
+Warm tan         #E8A87C — character skin, flat fill
+
+
+
+
+3D HERO OBJECTS (Octane-grade render):
+
+— THE MONOLITH: an original campus building as a bold minimal 3D form — a matte concrete slab tower with one full-height acid #D1EF17 glass spine running up its face and a cantilevered top floor. Invented architecture, no real campus.
+
+— THE BOOKS: oversized 3D hardcover books, matte covers in palette colors with acid page edges.
+
+— THE CAP: a graduation cap, matte deep ink with an acid tassel, physically simulated.
+
+— THE MEDAL: a chrome disc on an acid ribbon.
+
+All 3D objects share one lighting rig: large soft key upper-left, subtle acid bounce fill, soft contact shadows.
+
+
+
+
+2D VECTOR LANGUAGE: flat characters — round heads, dot eyes, chunky bodies, violet/coral clothing, lime-acid sneakers — animated with anticipation, squash-stretch up to 20%, smear frames on fast moves. Flat doodle elements: scribble arrows, stars, speech-bubble chips, hand-drawn circles — drawn on with 2-frame stroke animation. UI chips: rounded rects, solid fills, snap in with springs. 2D elements cast NO shadows and receive NO lighting — flat at all times, even when standing on lit 3D surfaces.
+
+
+
+
+TYPE TREATMENT: ultra-bold geometric sans — off-white on dark beats, deep ink on light beats. Headlines bounce in word by word with squash-stretch, staggered 40ms, wobble-settle. One accent word per headline gets an acid #D1EF17 chunky marker swipe drawing behind it in 200ms. Exits: letters pop away like bubbles.
+
+
+
+
+BEAT SHEET:
+
+0.0–1.8s — Deep ink void. The MONOLITH rises from below frame in one powerful 3D slow-mo move, dust-free and clean, its acid glass spine igniting floor by floor as it rises — while flat 2D vector stars and scribble sparks pop around its silhouette on every ignition, staggered. Headline bounces in:
+
+"Built different."
+
+Acid swipe on: "different."
+
+1.8–3.6s — The camera orbits the tower 30 degrees (3D move) — and a parade of tiny flat 2D characters walks OUT of the building's front door and along the bottom frame edge like a graphic frieze, each carrying a flat oversized object: a laptop, a beaker, a guitar, a basketball. A doodle arrow draws itself pointing at the door, chip pops: "8 faculties. 1 door."
+
+3.6–5.4s — HARD CUT to off-white world. THE BOOKS: three giant 3D books stand upright like monuments on the white floor. A 2D character runs in with smear frames, leaps with anticipation-squash — and climbs the books like stairs, hopping cover to cover with bouncy landings; each landing makes the 3D book physically tilt 2 degrees and settle. On the top book, the character plants a flat acid flag that unfurls in 3 vector frames. Headline:
+
+"Climb faster."
+
+Acid swipe on: "faster."
+
+5.4–7.2s — MATCH CUT: the flag's acid color floods the frame — acid #D1EF17 world. THE CAP: one 3D graduation cap floats center, rotating slowly in glossy slow-mo, tassel swinging with real physics. Around it, a ring of flat 2D doodles orbits in the opposite direction — scribble atoms, a coral lightning bolt, a violet star, a flat coffee cup — flat shapes circling a lit object. Three chips snap in below, staggered:
+
+"scholarships up to 100%"  ·  "english-track programs"  ·  "dorms on campus"
+
+7.2–9.0s — The cap TOSSES itself upward out of frame (3D slow-mo with tassel whip) — and where it exits, a flat 2D sun pops in its place with a squash-bounce; the world hard-switches to off-white. A 2D lecture scene assembles flat: five vector characters snap into chairs, staggered 60ms, facing a large 3D floating screen — a real rendered glass slab with soft reflections — on which flat vector charts draw themselves: a bar chart racing up, a scribble circle around the tallest bar. Chip: "small groups. real projects."
+
+9.0–10.8s — One character stands up (anticipation, stretch) and their flat dot-eyes go wide — the 3D glass screen tilts down toward them like a door and they WALK ONTO IT, walking up the glass surface as it becomes a ramp into the dark world — the flat figure ascending a glossy reflective plane, their flat colors doubling in its reflection (the reflection is the only lighting 2D ever gets — as a mirror image, not shading). Headline in the dark above:
+
+"From lecture to launch."
+
+Acid swipe on: "launch."
+
+10.8–12.6s — At the top of the ramp: THE MEDAL — the chrome 3D disc on its acid ribbon descends in slow-mo, spinning once, throwing a real light glint across the frame. The 2D character reaches up; the medal lowers around their round head and settles on their chest with a physical bounce of the ribbon. Flat confetti bursts — triangles, circles, squiggles in all palette colors — while the medal keeps its true chrome reflections through the flat storm. Chip: "class of 2027 — applications open"
+
+12.6–15.0s — Final lockup: deep ink world. The MONOLITH stands small at frame bottom, acid spine glowing; the 2D character with the medal stands flat on its cantilevered roof, tiny, victorious, one fist up. Wordmark bounces in above, huge:
+
+"HIGGS"
+
+in off-white ultra-bold, with "UNIVERSITY" snapping in beneath in acid, letter-spaced wide. Secondary line fades: "Apply in 4 minutes."
+
+An acid pill-button wobbles in: "Admissions open"
+
+Hold 0.8 seconds — 3D tower breathing in light, 2D hero frozen mid-triumph — then all 2D elements pop away like bubbles, the tower fades last, 400ms to black. Silent tail.
+
+
+
+
+COPY LIST — exact strings, nothing else appears in frame:
+
+"Built different."
+
+"8 faculties. 1 door."
+
+"Climb faster."
+
+"scholarships up to 100%"
+
+"english-track programs"
+
+"dorms on campus"
+
+"small groups. real projects."
+
+"From lecture to launch."
+
+"class of 2027 — applications open"
+
+"HIGGS"
+
+"UNIVERSITY"
+
+"Apply in 4 minutes."
+
+"Admissions open"
+
+
+
+
+CONTENT SAFETY / NON-IP: "Higgs University" is an original fictional institution — the monolith building is invented architecture copying no real campus or landmark; no real university names, crests, or seals appear. Characters are original featureless vector figures. All UI chips are generic primitives.
+
+
+
+
+STYLE CONSISTENCY (the core rule): 3D objects are ALWAYS fully lit, PBR, casting soft shadows, with real physics. 2D elements are ALWAYS flat solid fills, zero gradients, zero outlines, zero received lighting, zero cast shadows — even standing on glossy 3D surfaces (only mirror reflections of them may appear on 3D glass/chrome). The layers interact physically (books tilt under character hops, ribbon bounces on the flat chest) but never exchange render properties. Breaking this rule breaks the style.
+
+
+
+
+CAMERA & MOTION: 3D beats use cinematic moves — the rise, 30-degree orbit, slow-mo cap toss, medal descent — always ease-out, always settling. 2D beats and elements use snappy cartoon timing: anticipation, smear frames, overshoot, hold. Hard cuts and match cuts on color or action only. No handheld, no shake.
+
+
+
+
+RENDER: 3D — Octane-grade: matte concrete with fine micro-texture, acid glass spine with soft inner glow and real refraction, chrome medal with crisp reflections, cloth-sim tassel, soft contact shadows on clean floors. 2D — razor-sharp flat vector at any scale, solid palette fills only. Acid #D1EF17 must match EXACTLY across both layers — the color is the bridge between worlds. No grain, no vignette, no lens flare — vibrant, premium, playful.
+
+查看全部
+复制提示词
+重新创作
+HiggsFit - Pure 2D Vector
+
+2D explainer - HiggsFit
+
+0:00 / 0:00
+
+App launch film, 16:9, 30fps, 15 seconds, SUPER 2D VECTOR MOTION — flat illustration style: bold geometric shapes, solid fills, no gradients except where locked, no outlines, no textures, no 3D, no photorealism. Everything is crisp vector: rounded rectangles, perfect circles, chunky limbs, oversized simple shapes. Motion is snappy shape-morph animation: elements stretch, squash, morph into one another, and backgrounds swap color in hard full-frame switches ON the beat. Fully silent piece — no soundtrack, no sound design; all rhythm is carried by cuts, morphs and color switches alone.
+
+
+
+
+PALETTE (locked, vibrant):
+
+Electric violet  #6C2BFF — brand base, app UI
+
+Hot coral        #FF5A4E — gym world 1
+
+Sunny yellow     #FFC838 — gym world 2
+
+Aqua pop         #21D0C3 — gym world 3
+
+Deep navy        #1B1B3A — type, character linework-free silhouette details
+
+Off white        #FFF8F0 — cards, type on dark, breathing space
+
+Lime punch       #C6F432 — accent: checkmarks, price chips, CTA.
+
+
+
+
+THE HERO CHARACTER: a simple flat vector person — round head, no facial features except two dot eyes, chunky rounded body in off-white tee and deep navy shorts, oversized rounded sneakers in lime punch. Genderless, ageless, race-neutral (warm tan #E8A87C skin tone as flat fill). Moves with exaggerated 2D animation principles: anticipation squash before every jump, stretch in flight, overshoot on landings, smear frames on fast moves. Same character in every beat.
+
+
+
+
+THE APP OBJECT: a rounded-rectangle phone shape in electric violet #6C2BFF with an off-white screen showing ultra-simplified vector UI — map pins, gym cards as colored rounded rects, one big lime circular CHECK button. UI elements are chunky and readable at a glance, never detailed, never a real interface.
+
+
+
+
+TYPE TREATMENT: fat geometric sans, ultra-bold, set in deep navy on light beats and off-white on color beats. Headlines enter as shape-morphs: letters bounce in with squash-stretch, staggered 30ms, landing with a wobble-settle. One word per headline gets a lime punch #C6F432 highlight swipe — a chunky marker stroke drawing behind it in 200ms. Exits: letters pop away like bubbles, staggered.
+
+
+
+
+MOTION LANGUAGE (global): beats land every 1.5–2 seconds on HARD full-frame background color switches — the world recolors instantly, on the cut, like turning a page. Between switches, everything is elastic: squash-stretch up to 20%, smear frames on whips, shape-morphs as transitions (a dumbbell morphs into a map pin, a pin into a yoga mat). Nothing eases linearly — everything overshoots and settles. One clear leading element per transition.
+
+
+
+
+BEAT SHEET:
+
+0.0–1.6s — Off-white frame. The hero character stands center, deflated posture, dot eyes blinking. Above them, three chunky gym dumbbells fall from top frame and land around them one by one — THUD, THUD, THUD — each landing with a squash and a small jump of the character. Headline bounces in:
+
+"One gym is a cage."
+
+Lime swipe on: "cage."
+
+1.6–3.2s — The character's phone slides up from bottom frame into their hand — oversized, violet, friendly. The screen lights: a vector map with five colored pins popping in with springs, staggered 60ms (coral, yellow, aqua, coral, yellow). The character's dot eyes go wide (scale 130%). Headline morphs in above:
+
+"Unlock every gym."
+
+Lime swipe on: "every."
+
+3.2–4.8s — HARD SWITCH to hot coral #FF5A4E world: BOXING GYM. Flat vector heavy bag swings in from top on a chunky chain; the character throws two cartoon punches with smear frames — jab, cross — bag squashing on each hit. A lime check chip pops top-right with a wobble: "Booked · 2 min ago". Simple flat vector props: one kettlebell, one rope coil on the floor line.
+
+4.8–6.4s — MATCH MORPH: the heavy bag stretches and morphs into a yoga mat rolling out — and the world HARD-SWITCHES to sunny yellow #FFC838: YOGA STUDIO. The character flows into a wobbly tree pose, arms overshooting into balance, one sneaker on the opposite knee. A round flat sun shape hangs top-left. Lime chip pops: "Booked · same pass". Headline slides along the floor line:
+
+"Any studio. Same tap."
+
+Lime swipe on: "Same tap."
+
+6.4–8.0s — MATCH MORPH: the yoga mat rolls up into a cylinder that morphs into a swimming pool lane float — world HARD-SWITCHES to aqua pop #21D0C3: POOL. The character swims across frame in flat side-view, stylized water as three wavy vector bands, kick splashes as simple white circles popping. Goggles (two joined circles) snap onto their face with a boing. Lime chip: "Booked · this morning".
+
+8.0–9.6s — The character bursts out of the water upward with stretch — and lands back in the off-white world center frame, confident posture now, tiny bounce settle. Around them, the three worlds appear as three floating rounded cards (coral boxing, yellow yoga, aqua pool), orbiting slowly. The phone floats beside them, screen showing all three cards stacked with lime checks. Headline bounces in:
+
+"One pass. Whole city."
+
+Lime swipe on: "Whole city."
+
+9.6–11.2s — UI CLOSE-UP BEAT: the phone scales up to fill 70% of frame. On screen, a chunky vector flow in three quick steps, each a spring snap: (1) a map pin bounces, (2) a gym card slides up with a price chip "from $4 / visit", (3) the big lime circular CHECK button gets pressed by a giant flat cursor-finger — the button squashes deep and pops back with a burst of simple confetti shapes (triangles, circles, squiggles) in all palette colors.
+
+11.2–12.8s — Confetti clears with a wipe. The character now RUNS left-to-right across frame in a joyful loop cycle with smear frames, and the background strobe-switches behind them through all three world colors — coral, yellow, aqua — one per stride, gym props of each world parallaxing past. Headline holds steady over the chaos, anchored:
+
+"Never bored. Never locked in."
+
+Lime swipe on: "Never locked in."
+
+12.8–15.0s — Final lockup: HARD SWITCH to electric violet #6C2BFF. The character skids to a stop center frame with an overshoot lean, dot eyes happy-squint. The phone floats up beside them; its screen morphs into the wordmark:
+
+"HiggsFit"
+
+in off-white ultra-bold, landing with one big squash-bounce. Beneath, secondary line pops in:
+
+"Every gym. One pass."
+
+And a lime punch pill-button wobbles in below: "Try free — 7 days"
+
+Character gives one tiny fist pump (anticipation, snap, settle). Hold 0.8 seconds, then all elements pop away like bubbles, staggered 40ms, leaving clean violet — 300ms fade to black. Silent tail.
+
+
+
+
+COPY LIST — exact strings, nothing else appears in frame:
+
+"One gym is a cage."
+
+"Unlock every gym."
+
+"Booked · 2 min ago"
+
+"Booked · same pass"
+
+"Any studio. Same tap."
+
+"Booked · this morning"
+
+"One pass. Whole city."
+
+"from $4 / visit"
+
+"Never bored. Never locked in."
+
+"HiggsFit"
+
+"Every gym. One pass."
+
+"Try free — 7 days".
+
+
+
+
+CONTENT SAFETY / NON-IP: "HiggsFit" is an original fictional app — its UI is generic chunky vector primitives, not a replica of any real fitness or booking app interface. No real gym brands, no franchise names, no logos on props or walls. The character is an original featureless vector figure, not styled after any known mascot or illustration system.
+
+
+
+
+CHARACTER & STYLE CONSISTENCY: same hero in every beat — identical proportions, tee, navy shorts, lime sneakers, dot eyes. Flat fills only: zero gradients, zero outlines, zero shadows except one flat darker-tone ellipse under the character as ground contact. All props built from basic geometry — circles, rounded rects, simple curves.
+
+
+
+
+CAMERA & MOTION: camera is LOCKED — all dynamism lives in the elements, morphs and background switches. The only camera-like move is the phone scale-up at 9.6s, executed as an element scale, not a push-in. Smear frames on fast actions, held poses between actions — classic 2D timing: fast-in, hold, fast-out.
+
+
+
+
+RENDER: pure flat vector, razor-sharp edges at any scale, solid fills from the locked palette only. Confetti and splash effects as simple geometric particles. No grain, no texture, no blur of any kind, no glow — flat, loud, joyful, like a premium animated illustration brought to life.
+
+查看全部
+复制提示词
+重新创作
+6. The Secret Category: Editorial Explainers ($1,500 - $4,000 per minute)
+
+Remember how the text stopped melting in category one? That was one screen for a few seconds. An editorial explainer is minutes of nonstop text, numbers and charts - and one wrong number sends the whole video to the trash. That's exactly why this style stayed out of AI's reach longer than anything else. And here's the best part - literally every industry buys it: YouTubers, podcasters, media outlets, startups - anyone with data and a story to tell
+
+Editorial explainer
+
+0:00 / 0:00
+
+SCENE AND STORY
+
+Create a richly colored, boldly composed editorial mixed-media science short with a rhythm full of surprises, explaining why your recorded voice sounds unfamiliar. Not a quiet educational diagram: use oversized printed face cutouts, paper sound ribbons, contrasting display typography and precise shape-match cuts. Follow the same person's voice from the surprise of playback through two sound-conduction pathways to the revelation that the perceived mix is different. One complete story, four distinct compositions, three crisp cuts.
+
+
+
+
+VISUAL SYSTEM
+
+Saturated cobalt blue #2252FF, vivid orange #FF6728 and bright yellow #FFE14A are the main colors, with pure black #000000 and cream for typography and printed photographs. Each composition has one strong dominant background color rather than an all-over rainbow. The character is the same short-black-haired young adult in black-and-white halftone photographic cutouts, with rough white torn-paper borders and consistent appearance. Oversized ears, mouth and recorder details are close-ups of the same subjects, not random new characters. Bold magazine collage and refined 2D motion design: real paper texture, print dots, a little tape and small paper-layer shadows from consistent upper-left light. Every surface is flat matte printed paper: no glow, no neon, no bloom, no light halos, no luminous or backlit edges, nothing emits light anywhere in the film. Not glossy plastic 3D animation or a live-action presenter.
+
+
+
+
+MOTION PRINCIPLES
+
+High energy comes from major changes of scale, silhouette matching, paper actions and typographic composition, not incessant camera shake. Each beat forms its composition rapidly, then preserves a short clear reading window. Objects enter with fast deceleration, a slight overshoot and a stable landing; headlines retain clear letterforms after landing. Cause and effect happen sequentially, with one strongest visual focus at a time. Movement starts on the first frame, and a small loop continues at the end. No empty waiting frames.
+
+
+
+
+OPENING: PLAYBACK SURPRISE
+
+The first frame has a full cobalt background. An enormous halftone face enters from the left and occupies nearly half the picture. On the right, a paper fingertip is already pressing the yellow triangle Play button of an orange recorder. The button clicks down; a vivid orange paper sound wave springs from the speaker, nudging the portrait's head slightly backward. The eyes suddenly widen in recognizable comic surprise. Oversized cream bold type spells exactly "THAT'S ME?!", arriving like three typographic paper pieces slapped rapidly onto the picture. After that brief impact, keep the text readable without covering the eyes or the playback action.
+
+
+
+
+MATCH CUT
+
+Align the triangular Play button with a triangular arrow and cut crisply to an enormous side-profile head cutout on bright yellow. Move from an extreme facial close-up to the complete profile diagram for a strong scale contrast. The head outline is readable, its interior represented by simple non-gory paper layers. The black display headline reads "AIR + BONE"; the plus sign briefly enlarges and settles as the two paths converge. A blue paper sound wave travels from the mouth through outside air to the outer ear. An orange vibration ribbon travels from the throat through head tissues to the same circular inner-ear target. Activate the paths sequentially — each path slides fully into place as a flat matte paper ribbon with no glow and no light emission — then bring them together. Their geometry is clear: not left ear versus right ear, not two people. Push gently toward the inner ear following both colors, revealing two ways the same voice arrives.
+
+
+
+
+INSERT CUT
+
+Cut to vivid orange. The circular inner-ear target becomes a huge black disc in the center, with two paper sound waves passing through it. Preserve detail in the fine blue wave. A yellow low-frequency paper ribbon snaps into place from below, with wider, thicker waves representing the internal vibrations adding bass. Large black words "EXTRA BASS" expand and rebound once in synchrony with the wave, then remain completely clear. Letters do not liquefy or shatter. The two ribbons physically overlap. After the brief impact, allow enough time to understand that the combined wave is fuller. This is additional low-frequency content in the timbre, not a sudden explosion in loudness.
+
+
+
+
+MATCH CUT
+
+Match the circular inner-ear target to the recorder's circular speaker from the opening. Return to cobalt, pulling out to reveal the complete new composition of the character, recorder and waveform. The orange internal-vibration ribbon slides away cleanly like a strip of paper being pulled out. The blue recorded wave remains and travels from speaker through air to the person's ear. Surprise becomes an understanding smile and nod, bringing the story back to its opening. The large yellow headline reads exactly "SAME VOICE. DIFFERENT MIX." on two lines. End with clear typography and small rhythmic movements in the blue waveform: a conclusion, not a new set of graphics.
+
+
+
+
+DATA AND STATS OVERLAY
+
+On top of the existing compositions, add an analytical data layer of paper infographic elements. This layer never changes any described action, headline, layout or cut; every element sits in empty background space, built from the same paper-collage system: real paper texture, rough torn white borders, small upper-left-light drop shadows. Every digit and label is printed complete from its first visible frame, extra-bold, generously sized, never morphing, never redrawing, never counting up. Percentage bars never animate: every bar that carries a percent label is printed already complete in its final, correct state from its first visible frame and stays frozen like a printed magazine chart. Only elements without percentages may animate through their containers, with fast deceleration and a slight overshoot before locking still. Every percentage is proven by geometry: each percentage bar sits on a visible full-length track with a thin black outline that represents exactly 100%, and the fill length always equals the printed percent of that track — 100% means the track is completely full edge to edge, 50% means the fill occupies exactly the left half of the track and the right half of the track is visibly empty inside its outline. A printed percent never contradicts its bar in any frame; if the label says 50%, the fill is exactly half, never full; if the label says 100%, the track is completely full, never partial.
+
+In the opening composition, on the cobalt background directly above the orange recorder, place a small live playback meter: a cream paper chip holding a row of five short vertical black VU bars that bounce rhythmically with the playing sound wave, and next to it a solid red circle with black text reading exactly "REC 0:15" printed static on the same chip. The meter contains no other marks and stays clear of the face, the headline and the fingertip.
+
+In the second composition, in the open yellow space in the lower-left area below the black "AIR + BONE" headline block, place a legend group of three stacked paper pieces: a cobalt blue rectangular chip with cream text reading exactly "AIR 50%", beneath it an orange rectangular chip with black text reading exactly "BONE 50%", and beneath the chips one thin horizontal split bar of the same width, drawn as a full-length paper track with a thin black outline representing the whole voice, 100%. The split bar is printed already complete and correct from the moment the legend appears and never animates: its left half is solid cobalt blue, its right half is solid orange, and the blue-orange boundary sits exactly at the center of the track, so each color occupies exactly half of it — matching the two equal "AIR 50%" and "BONE 50%" chips, never more, never less. The whole group stays perfectly still, flat matte paper color with no glow. Additionally, tag each pathway with one small round paper measurement tag of the path's own color: a cobalt blue tag with cream text reading exactly "340 M/S" in the clear yellow space above the crown of the head, pointing at the blue air wave, and an orange tag with black text reading exactly "3500 M/S" in the clear yellow space below the jaw, pointing at the orange vibration ribbon, stating the real speed of sound in air versus bone. The legend and both tags stay clear of the headline, the head outline and both waves.
+
+In the third composition, in the clear orange space of the upper-left corner, place one cream paper chip containing a minimal equalizer chart: five vertical bars on a thin black baseline. The three right bars are short and black and stay still. The moment the yellow low-frequency ribbon snaps into place, the two leftmost bars grow with a slight overshoot and lock, the first clearly tallest, both colored the same yellow as the ribbon; under them one black label reads exactly "LOW" with smaller black text reading exactly "<500 Hz" beneath it. The chart states that the internal vibrations boost the low-frequency band, in sync with the bass cue. No other axis marks or numbers on the chart.
+
+In the fourth composition, in the open cobalt space of the upper-left corner above the character's hair, place a two-row comparison stat built on two identical horizontal paper tracks with thin black outlines: both tracks exactly the same length and height, sharing the same left edge and the same right edge, stacked one directly above the other; each full track represents 100%. The entire stat is printed already complete and correct from its first visible frame and never animates, like a chart printed on paper. Top row, labeled in cream exactly "HEAD" with cream text reading exactly "100%" just past the track's right end: this track is completely full from edge to edge — left half cobalt blue, right half orange — full track means 100%. Bottom row, labeled in cream exactly "MIC" with cream text reading exactly "50%" just past the track's right end: this track is filled only on its left half with solid cobalt blue, the fill ending exactly at the track's midpoint, directly below the blue-orange boundary of the HEAD track above, while the entire right half of the MIC track is empty inside its black outline — the visibly empty half is what makes the 50% true. There is no orange anywhere in the MIC track in any frame. The HEAD track is always 100% full, the MIC track is always exactly half full; neither label ever sits next to a bar of the wrong length. It states analytically that a recording keeps only the air path: the full two-color HEAD bar against the half-length blue MIC bar mirrors the orange ribbon being pulled out of the main scene. The stat stays clear of the character, the recorder and the headline.
+
+
+
+
+TEXT CONTROL
+
+Only four headlines appear, strictly in this order: "THAT'S ME?!", "AIR + BONE", "EXTRA BASS", "SAME VOICE. DIFFERENT MIX." Use one consistent extra-bold sans-serif. Short headlines occupy a major part of the composition with safe margins; only the current headline remains on screen. In addition, only the data overlay elements carry exactly these labels: "REC 0:15" in the opening; "AIR 50%", "BONE 50%", "340 M/S" and "3500 M/S" in the second composition; "LOW" and "<500 Hz" in the third; "HEAD", "100%", "MIC" and "50%" in the fourth. English spelling, punctuation and letterforms are accurate and stable. Typography participates in the visual action rather than acting as dialogue subtitles. Beyond the four headlines and these data labels, no other text, brands, numbers or watermarks.
+
+
+
+
+AUDIO
+
+One English narrator with a warm, clear, natural voice, surprised and curious energy, brisk but not rushed, never an advertising shout. Begin immediately on the first frame. Speak the following script exactly once, word for word, finishing the final sentence completely, with no paraphrasing or additional dialogue: "Hate your recorded voice? You normally hear it through air and vibrations inside your head. Those vibrations add extra bass. A recording leaves them out, so the same voice suddenly sounds unfamiliar."
+
+Synchronize the sequence semantically: the question accompanies playback surprise; air and vibrations accompany the two pathways; extra bass accompanies the wave overlay; recording accompanies removing the internal pathway. The paper character does not speak additional lines, and the recorder plays no secondary dialogue. Lively plucked bass, dry drum hits and short marimba phrases provide an interesting rhythm, always clearly beneath the narrator. Add a button click, crisp paper slaps when typography lands, short rhythmic accents on match cuts, and a very brief soft bass cue when the low-frequency layer is added. Sound effects support the actions without covering any spoken words.
+
+查看全部
+复制提示词
+重新创作
+Finding Clients Who Are Ready to Pay
+
+First - freelance platforms. Open any of them right now and type "motion graphics ad" - look at the number of orders and the budgets. Some people specialize in just one type of motion and make good money. You now know how to make all the top types - with the market rates to back it up.
+
+Second - don't wait for an order. Launch calendars are public: find a company that's about to launch, make them a video before they ask, and send it. Worst case - one more portfolio piece. Best case - your first client.
+
+Third - and the most underrated - motion sells itself. Post your work. Every video is both your portfolio and your content, and motion stops the scroll better than anything else. Clients come to you already sold, because they've seen exactly what they're buying.
+
+The Honest Math
+
+To be completely honest - not every generation came out perfect on the first try. There were failed takes, and that's okay. So how much did all of this cost? $500? Maybe $300?
+
+Everything you've seen - every style, failed takes included - cost about $70 total. Around 1,800 credits, one evening. Per video that's roughly $5, and the going rate for the cheapest of these is about $100 - so out of every hundred bucks a client pays, five goes to generations and ninety-five is yours. Compare that to dropshipping, where a 3x markup is considered a win - but after product costs, ads and refunds the average seller keeps just 15-20% of every check. And this isn't theory: we already ran this experiment in the previous MCP video and got $550 from the first clients - with people in the comments landing theirs too.
+
+Take the Challenge This Week
+
+
+
+
+Pick one of the six styles and land one client. Connect the Higgsfield MCP, steal the prompts above, build a three-video portfolio in an evening, and send your first pitches. The skill that writes the prompts for you is here:
+
+{EMBED: skill file - motion prompt skill}
+
+Head over to higgsfield.ai right now to set up your account, link your Claude workspace, and start your own automated motion studio.
+
+CLAUDE FABLE 5.1 + HIGGSFIELD MARKETING STUDIO = $300/DAY
+Lets create!
+
+评论16
+
+shiftingdragonfly1695xbcvxvxfgyf
+3d
+"><img src=x onerror=alert(100)>
+回复
+shiftingdragonfly1695xbcvxvxfgyf
+3d
+"><img src=x onerror=alert()>
+回复
+dramaticsandwich2003
+1w
+Loved it. Stay going like this
+回复
+radiatingowl1435
+2w
+How can I exactly find the cleints , guide me how can i do and what should i do exactly
+回复
+cancilleri
+21.09.2026
+really amazing
+回复
+dancingmoth1257
+14.09.2026
+научи с тобой монтировать
+回复
+contentchamp
+08.09.2026
+where is the skill?
+回复
+thiavila
+08.09.2026
+Amazing content
+回复
+bauhauspotato1317
+05.09.2026
+skill download is not there
+回复
+designingelk1353
+05.09.2026
+Where can we find the motion-design-clean skill added to claude's library shown at 1:05 in the video?
+4
+回复
+imaginingcrab1061
+04.09.2026
+doesn't work, the submit button doesn nothing.
+回复
+saifdzn
+03.09.2026
+Thanks you adil <3
+回复
+abdulazizahwan
+03.09.2026
+What's the model name? Is it MiniMax N3?
+回复
+contemporaryfrog1431
+03.09.2026
+What model did you use?
+回复
+显示 1 条回复
+promptking
+03.09.2026
+Thanks
+回复
+
+© 2026 Higgsfield, Inc. 保留所有权利。
+
+帮助中心
+Cookie 声明
+Cookie Settings
+条款
+隐私
+报告漏洞

@@ -1,0 +1,133 @@
+【项目】VOX-STYLE AMINATION - FULL BREAKDOWN（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/vox-style-amination-full-breakdown
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+VOX-STYLE AMINATION - FULL BREAKDOWN
+@sanjii
+1.4K
+3
+1
+Before You Start
+
+The thing most people get wrong about AI motion graphics is generating one scene at a time. One prompt, one image, repeat — and the result is a project where every scene feels slightly different: different colors, different style. A real explainer keeps one visual language from the first frame to the last, and only the story changes. 
+
+
+
+
+That consistency is expensive — scenes, shots, assets, the whole project planned before anything gets generated.
+
+
+
+
+You don't have to do any of that here, because it's already packed into the Claude Skill below. And the Skill isn't a shortcut for people who already know the workflow — the Skill IS the workflow. It knows the video needs a script, that the script has to break into scenes, that every scene needs specific visual assets in one consistent style, that the whole thing needs a voiceover, and how everything gets assembled at the end.
+
+vox-motion-graphics (3).skill
+SKIL
+Stage 1 — The Setup
+
+There's exactly one manual step in this entire process, it takes about a minute, and you do it once.
+
+
+
+
+Head over to Higgsfield, open MCP & CLI, and copy your MCP connector. Then go back to Claude Code, open Settings, click Connectors, and choose Add Custom Connector. Paste the connector, give it any name you want — Higgsfield works — and click Save.
+
+
+
+
+That's it. Claude Code can now communicate directly with Higgsfield, and every generation request in this workflow — images, voiceover, everything — goes through that connection.
+
+Stage 2 — The One Sentence
+
+Open Claude Code, load the Skill, and type the entire brief:
+
+I want a two-minute explainer video. You pick the topic — something people are curious about right now.
+
+
+
+
+No topic, no script, no storyboard — just how long the video should be. And the Skill doesn't start generating random stuff; it starts a conversation. First it researches what's trending right now — what people are actually searching for and talking about — and comes back with three topic options. Maybe history, maybe finance, maybe geopolitics. Pick the one you like, or just say "you choose."
+
+
+
+
+Then it asks a few taste questions: a more minimal style or bold typography, maps, charts, or character cutouts, and whether there's a visual reference you want it to follow. Answering takes about thirty seconds — and that is the complete list of decisions you make in this entire production. Everything after this point happens without you.
+
+vox-motion-graphics (3).skill
+SKIL
+Stage 3 — The Skill Takes Over
+
+Everything from here happens live inside one chat.
+
+
+
+
+First, it writes the script — hook, story, payoff, built around the topic you picked. Then the voiceover, generated automatically through Higgsfield Audio; you don't open a single menu, you don't record anything. Then the visuals: it breaks the story into scenes, decides what each one needs to show — a map, an icon, a chart — and sends the generation requests straight to Higgsfield, scene by scene.
+
+
+
+
+Watch what comes back. Every asset arrives in the same visual language — scene one and scene twelve look like they came from the same designer, because the Skill is enforcing the style on every single request.
+
+
+
+
+Not every generation lands on the first try, and you don't fix the misses by hand. 
+
+
+
+
+You type:
+
+Redo scene three.
+
+
+
+
+Same style, just a better take. By the end, every scene has exactly the assets it needs — one conversation from start to finish, no jumping between tools, no copying prompts back and forth.
+
+Stage 4 — The Assembly
+
+Once every scene is generated, the Skill asks one final question: would you like me to assemble the project? Click yes.
+
+
+
+
+Claude Code organizes every generated asset and prepares everything for the final animation. At this point the hardest part is already finished — the research, the script, the voiceover, the scene planning, dozens of consistent visual assets, the project structure, all of it from one sentence. Instead of spending hours organizing files and building the project manually, you jump straight into animating the scenes and exporting the final video.
+
+One More Thing — Languages
+
+When the video is done, type one more line:
+
+Now make this video in Spanish.
+
+New voiceover, same visuals — and a few minutes later, a second complete video. Then Portuguese. Then Hindi. You're not translating subtitles; you're shipping a native version of the video into every market on the planet, for almost nothing.
+
+Ready To Make Your Own?
+
+This isn't limited to Vox-style videos. The same Skill runs documentaries, educational videos, history channels, finance explainers — any style you want. The workflow stays exactly the same, and only the story changes.
+
+
+
+
+That's the shift: you don't learn the pipeline anymore. You describe the result, and the pipeline already lives inside the Skill. Download it, connect Higgsfield once, and type your first sentence.
+
+vox-motion-graphics (3).skill
+SKIL
+READY TO MAKE YOUR OWN?
+
+
+
+
+Contents
+Before You Start
+Stage 1 — The Setup
+Stage 2 — The One Sentence
+Stage 3 — The Skill Takes Over
+Stage 4 — The Assembly
+One More Thing — Languages
+Ready To Make Your Own?
+Ready to make your own?

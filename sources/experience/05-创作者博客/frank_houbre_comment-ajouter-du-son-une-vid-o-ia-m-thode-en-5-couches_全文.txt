@@ -1,0 +1,147 @@
+【项目】COMMENT AJOUTER DU SON À UNE VIDÉO IA (MÉTHODE EN 5 COUCHES)（@frank_houbre · 创作者博客）
+【链接】https://higgsfield.ai/@frank_houbre/blogs/comment-ajouter-du-son-une-vid-o-ia-m-thode-en-5-couches
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+COMMENT AJOUTER DU SON À UNE VIDÉO IA (MÉTHODE EN 5 COUCHES)
+F
+@frank_houbre
+18
+0
+0
+
+Pour sonoriser une vidéo IA, posez le son en couches séparées au lieu d'un seul fichier : une ambiance continue qui tourne sous toute la scène, les bruits d'objets et de pas, les voix, la musique, puis un passage d'équilibrage. L'ordre compte autant que les fichiers choisis. Une scène montée en commençant par la musique reste presque toujours plate, parce que la musique occupe la place que l'ambiance aurait dû prendre.
+
+
+
+
+C'est la partie du travail dont on parle le moins quand on débute. On passe des heures sur un plan de cinq secondes, on obtient enfin l'image qu'on avait en tête, on pose une musique libre de droits par dessus et le résultat déçoit sans qu'on sache dire pourquoi.
+
+Pourquoi une vidéo IA sonne fausse même quand l'image tient
+
+Un plan généré arrive sans espace. Le modèle a produit une image qui bouge, mais aucune information sur le volume de la pièce, la distance des murs, la matière du sol. Certains modèles produisent maintenant un son natif en même temps que le plan, et c'est utile, sauf que ce son est calculé plan par plan : deux plans censés se dérouler au même endroit reviennent avec deux acoustiques différentes.
+
+
+
+
+L'oreille d'un spectateur repère un changement d'acoustique bien avant de repérer un défaut de texture. C'est pour cette raison qu'une séquence peut avoir des images très propres et sonner quand même comme un montage d'images sans rapport entre elles.
+
+
+
+
+Sur un tournage classique, ce problème est traité à la source. À la fin de chaque scène, l'équipe demande le silence complet et enregistre environ trente secondes de la pièce vide, ce qu'on appelle le son d'ambiance de lieu, ou room tone. Ce fond sert ensuite à masquer les raccords et à faire tenir ensemble des prises enregistrées à des moments différents. En vidéo IA, personne ne l'enregistre pour vous. Vous devez le fabriquer.
+
+Lost Garden, épisode 1. Sur un plan de cette échelle, c'est l'ambiance qui indique la taille du lieu au spectateur : un fond large avec une longue réverbération, sinon la forêt sonne comme un couloir.
+
+Par quoi commencer quand vos plans sortent muets
+
+Avant d'ouvrir quoi que ce soit, écoutez votre séquence en entier, sans son, et notez pour chaque plan une seule chose : où on est. Une taverne fermée, une forêt humide la nuit, un couloir de pierre. Vous obtenez une liste de lieux, pas une liste de plans, et c'est cette liste qui détermine vos ambiances.
+
+
+
+
+Cette étape prend cinq minutes et évite l'erreur la plus coûteuse du débutant, qui consiste à chercher un son par plan. Une scène de huit plans dans le même lieu demande une seule ambiance, étirée sous les huit plans, et non huit fichiers différents.
+
+
+
+
+Si vous travaillez déjà avec une shot list ou un storyboard, ajoutez-y une colonne pour le lieu sonore. Sur ScreenWeaver, c'est l'information que je note au moment du découpage, avant même de générer, parce qu'elle change parfois la façon dont j'écris le plan.
+
+Les cinq couches de son d'une scène, dans l'ordre où on les pose
+
+Étape 1. L'ambiance de lieu. Un fichier continu, discret, sans événement identifiable : un fond de forêt, une rumeur de rue, le bourdonnement d'une pièce close. Vous l'étirez sous toute la scène et vous le laissez tourner par dessus les coupes. Baissez-le jusqu'à ce que vous ayez l'impression de ne plus l'entendre, puis coupez-le une seconde pour vérifier que le silence, lui, s'entend.
+
+
+
+
+Étape 2. Les sons d'action. Les pas, une porte, une lame qu'on sort, une chaise qu'on tire. On appelle ça le bruitage, ou foley. Placez-les à l'image près, quitte à décaler de deux ou trois images pour que ça tombe juste. Un objet visible qui ne fait aucun bruit est ce qui trahit le plus vite une séquence.
+
+Le même épisode, un insert. Un objet tenu en gros plan appelle deux ou trois sons courts, le cuir du gant, le métal, la chaîne, posés à l'image près. C'est ce niveau de détail qui fait exister l'objet à l'écran.
+
+
+
+
+Étape 3. Les voix. Dialogue, voix off, respiration. Elles passent après les sons d'action parce que leur niveau se règle contre ce qui existe déjà, pas dans le vide.
+
+
+
+
+Étape 4. La musique. En dernier, et souvent moins que prévu. Si la musique doit démarrer dès la première image pour que la scène tienne, le problème vient en général des trois couches précédentes.
+
+
+
+
+Étape 5. L'équilibrage. Vous réécoutez au casque, puis sur un téléphone, et vous baissez tout ce qui attire l'attention sur lui-même. C'est le passage le plus rapide et celui qui fait le plus de différence.
+
+Où trouver les sons quand on n'a ni banque ni micro
+
+Trois voies, à cumuler selon les moyens.
+
+
+
+
+Les banques libres de droits couvrent la majorité des besoins d'une scène ordinaire, et Freesound reste le point de départ le plus utile pour les ambiances longues. Les générateurs de son fonctionnent bien pour un bruitage précis qu'on ne trouve nulle part : ElevenLabs propose depuis mars 2026 un outil qui analyse la vidéo et propose des effets calés sur ce qu'il y voit. Le résultat demande presque toujours un recalage à la main, mais il fait gagner la recherche.
+
+
+
+
+La troisième voie est celle qu'on oublie : votre téléphone. Une porte de placard, un froissement de tissu, des pas sur du gravier enregistrés chez vous sonneront plus juste que n'importe quel fichier générique, parce qu'ils portent une vraie acoustique. C'est aussi la seule façon d'obtenir un son que personne d'autre n'a.
+
+
+
+
+Pour la musique, j'utilise Suno sur Lost Garden, y compris pour le thème d'ouverture. Un modèle génératif donne une base honnête à condition de lui demander un morceau court et une intention claire, pas une bande originale complète.
+
+Comment faire tenir le son d'un plan à l'autre
+
+Le raccord sonore se joue sur un principe simple : le son traverse la coupe, l'image non. Votre ambiance continue par dessus les changements de plan, sans jamais s'arrêter ni redémarrer, même quand le point de vue change complètement.
+
+
+
+
+Quand vous changez de lieu, faites démarrer la nouvelle ambiance une demi-seconde avant la première image du nouveau plan. L'oreille arrive au nouvel endroit juste avant l'œil, et le passage devient invisible. C'est un vieux réflexe de montage, et il marche exactement pareil sur des plans générés.
+
+
+
+
+Deux exceptions valent la peine d'être connues. Une coupure de son totale, très courte, attire brutalement l'attention et sert quand vous la voulez. Et un son qui commence dans le plan précédent pour annoncer le suivant, une cloche ou un moteur, lie deux plans que rien ne relie visuellement. Sur Lost Garden, certains plans de cinq secondes m'ont demandé une vingtaine de versions avant d'être utilisables, et dans plusieurs cas ce qui a fini par sauver le raccord venait de la piste son, pas d'une génération de plus.
+
+Les erreurs les plus fréquentes quand on débute
+
+Poser la musique en premier, et se retrouver à monter l'image sur elle. Chercher un fichier par plan au lieu d'une ambiance par lieu. Laisser le son natif d'un modèle tel quel sur des plans consécutifs, ce qui donne une acoustique qui saute à chaque coupe. Mettre les voix trop fort pour compenser un mixage qu'on n'a pas fait. Et régler tout au casque, ce qui produit des basses qui disparaissent complètement sur un téléphone.
+
+
+
+
+Une dernière, plus discrète : sonoriser un plan raté en espérant le rattraper. Le son améliore un plan correct, il ne répare pas un plan qui ne tient pas.
+
+Questions fréquentes
+
+Faut-il un logiciel payant pour monter le son ? Non. DaVinci Resolve est gratuit dans sa version de base et contient une page audio complète. C'est celui que j'utilise pour le montage et l'étalonnage de Lost Garden.
+
+
+
+
+Le son généré par un modèle vidéo suffit-il ? Pour un plan isolé publié seul, souvent oui. Dès que vous enchaînez plusieurs plans du même lieu, il faut reprendre la main sur l'ambiance, sinon l'acoustique change à chaque coupe.
+
+
+
+
+Combien de temps prend la sonorisation d'une scène ? Comptez à peu près le temps du montage image pour une première passe correcte, sur une scène courte. Cela paraît beaucoup au début, et c'est le poste où une heure supplémentaire se voit le plus.
+
+
+
+
+Peut-on utiliser une musique du commerce sur YouTube ? Pas sans licence. Une musique générée ou libre de droits vous évite une revendication qui coupe la monétisation de la vidéo entière.
+
+
+
+
+Si vous voulez voir ce que donne cette méthode sur une série entière, l'épisode 1 de Lost Garden est en ligne, son compris.
+
+
+
+
+Et vous, sur votre dernière vidéo, vous avez posé la musique avant ou après les ambiances ?

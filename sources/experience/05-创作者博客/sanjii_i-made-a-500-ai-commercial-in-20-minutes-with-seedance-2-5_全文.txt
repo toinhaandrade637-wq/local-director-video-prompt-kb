@@ -1,0 +1,508 @@
+【项目】I MADE A $500 AI COMMERCIAL IN 20 MINUTES WITH SEEDANCE 2.5（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/zh/@sanjii/blogs/i-made-a-500-ai-commercial-in-20-minutes-with-seedance-2-5
+【提示词块】14
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+I MADE A $500 AI COMMERCIAL IN 20 MINUTES WITH SEEDANCE 2.5
+@sanjii
+4.1K
+18
+0
+Before You Start
+
+This is the full prompt library for a 30-second food commercial: a colossal industrial road roller drives over a cheeseburger, and what comes out the other side is a pizza. Sixteen shots, one Seedance 2.5 generation, built out of exactly seven reference images.
+
+
+
+
+Build the assets first. Two food scientists, the hangar, the burger, the pizza, the road roller and the client's logo all come back over and over across those sixteen shots — if each shot invents its own version of them, the commercial falls apart. Lock them once as images, then reuse them.
+
+
+
+
+The stills were made with GPT Image 2 (products), Higgsfield Soul character sheets (the scientists), Soul Cinema (the location) and Seedream 5.0 Pro (the machine). The commercial itself is Seedance 2.5 at 1080p.
+
+
+
+
+Everything is driven by a Claude Skill, and this is the part worth saying plainly: the Skill writes the video prompts for you. You describe the commercial in a couple of plain sentences, the Skill turns it into the full shooting script — references tagged to the right shots, camera, lenses, timing, physics, lighting, sound and the consistency locks at the bottom.
+
+
+
+
+commercial-pipeline.skill
+SKIL
+
+
+
+
+Three things that decided how this one turned out, before you start prompting:
+
+Design the before and after together. The burger sits in a small kraft box; the pizza sits in the same box opened flat. Keep the packaging identical and the transformation reads on its own.
+If something keeps breaking between shots, give it its own rule. Describing the box more carefully inside each shot never fixed it. A single hard lock — the carton never moves or turns — did.
+Every prompt has a complexity budget. More emotion, more camera variety and more elaborate food shots each sounded like an upgrade, and together they made the generations worse. When a version works, ship it.
+Stage 1 — The Assets
+The Burger
+
+What it does: Generates the hero cheeseburger sitting inside a small open kraft box, on a clean background, as the product reference for every burger shot.
+
+PRODUCT REFERENCE IMAGE on a pure white background, hero food photography, single burger, no people, no environment.
+
+
+
+
+BACKGROUND LOCK
+
+The entire background is seamless pure white: white behind the burger, white surface under the box, white to every edge of the frame. No room, no table, no kitchen, no walls, no props, no textures, no gradients, no color anywhere in the background — only the burger in its box on infinite clean white, like a catalog product cutout photo.
+
+
+
+
+SUBJECT
+
+A tall gourmet cheeseburger sitting inside an open plain unbranded cardboard takeaway box, the lid folded back. From bottom to top: a golden brioche bun base with a light toast line, a crisp green lettuce leaf with ruffled edges, a thick flame-grilled beef patty with a dark charred crust and juicy interior, a slice of melted cheddar draping over the patty edges with soft drips, two ripe tomato slices, thin red onion rings, three pickle slices peeking out, a drizzle of glossy burger sauce slowly running down one side, topped with a shiny sesame brioche crown bun. Faint steam rising from the patty, a light sauce smear and a few sesame seeds on the inside of the box for realism. The box is plain kraft cardboard, no logos, no text, no markings.
+
+
+
+
+LIGHTING
+
+This is not a studio photoshoot. No studio lights, no softboxes, no flash, no hard directional key, no dramatic highlights. Plain ordinary soft ambient daylight wrapping the food evenly from all sides, gentle and uniform, no visible light direction, no hotspots, no deep shadows. The only shadow in the image is a faint soft natural contact shadow directly under the box on the white surface. Colors stay true and natural, nothing overexposed, nothing dramatic.
+
+
+
+
+COMPOSITION
+
+Eye-level close shot, the burger in its open box centered and filling most of the frame, surrounded by clean white space on all sides.
+
+
+
+
+STYLE
+
+Photorealistic everyday food photography, natural true-to-life colors, real textures — soft brioche bun, charred beef crust, melted cheese, fresh crisp vegetables, matte kraft cardboard. Simple clean appetizing catalog-style shot on pure white, matte low-contrast rendering, no text, no packaging branding, no hands.
+
+查看全部
+复制提示词
+重新创作
+The Pizza
+
+What it does: Generates the cheesy, fluffy pizza inside the same kraft box, opened completely flat — the "after" half of the transformation.
+
+PRODUCT REFERENCE IMAGE, hero food photography, single pizza, no people.
+
+
+
+
+SUBJECT
+
+A whole round burger-pizza sitting inside an open plain unbranded cardboard pizza box, the lid folded back. Golden baked crust with natural blisters on the rim, bubbling melted cheddar with soft browned spots, pickle slices, seasoned beef crumbles, thin red onion rings, and a swirl of creamy burger sauce across the top. Faint steam rising from the surface, a light grease mark and a few cheese crumbs on the inside of the box for realism. The box is plain kraft cardboard, no logos, no text, no markings.
+
+
+
+
+LIGHTING
+
+This is not a studio photoshoot. No studio lights, no softboxes, no flash, no hard directional key, no dramatic highlights. The pizza is lit by plain ordinary ambient daylight, like sitting on a table in a bright room on an overcast day: soft even light wrapping the food from all sides, gentle and uniform, no visible light direction, no hotspots, no deep shadows — only a faint soft natural shadow inside the box and under its edge. Colors stay true and natural, nothing overexposed, nothing dramatic.
+
+
+
+
+COMPOSITION
+
+Eye-level slightly elevated angle so the full round pizza is clearly visible in its open box, centered and filling most of the frame, on a seamless clean white background with a soft white surface below, subtle soft shadow grounding the box.
+
+
+
+
+STYLE
+
+Photorealistic everyday food photography, natural true-to-life colors, real textures — blistered crust, melted cheese, crisp pickles, matte kraft cardboard. Simple clean appetizing shot on white, matte low-contrast rendering, no text, no packaging branding, no hands.
+
+查看全部
+复制提示词
+重新创作
+Food Scientist — Character Sheet 1
+
+What it does: Generates a multi-angle character sheet — front, back and close-up on one image — for the older male scientist in glasses and a lab coat. Keep the lighting on a character sheet soft, flat and neutral: it's a reference for identity, not a look, and baked-in cinematic lighting follows the character into scenes where it doesn't belong.
+
+Three-panel character sheet composition, panel one a full-body front view of the character standing upright in a neutral straight pose facing the camera, both feet flat on the ground, arms relaxed at the sides, full head-to-toe framing with the entire body and both feet visible, panel two a full-body back view of the same character in the same standing pose seen directly from behind, head-to-toe, panel three a tight face close-up portrait of the same character, identical original male character across all three panels, single subject only exactly one person per panel, plain flat grey seamless background, professional character sheet presentation, man in his mid-forties with fair slightly weathered skin, oblong face with a defined angular jawline, mature adult bone structure, prominent cheekbones, straight medium nose, thin lips with natural dry matte finish, grey-blue deep-set eyes behind retro round clear-lens safety goggles, naturally muted catchlights, no oversized specular glare in the iris, thick slightly unkempt greying eyebrows, short salt-and-pepper hair with a natural side part and matte unstyled finish, light grey stubble, visible fine skin texture with natural pores, fine forehead lines, subtle asymmetries, no digital smoothing, no beauty filter, no AI-airbrushed look, matte natural complexion free of artificial glare or highlight blooms, lean average build with slightly stooped shoulders, wearing a crisp white knee-length laboratory coat slightly wrinkled from wear over a pale blue collared shirt and dark navy tie, dark grey trousers, plain brown leather belt, worn black leather derby shoes, blue nitrile gloves, blank ID badge clipped to the coat lapel, no bag, natural anatomy, ordinary indoor room lighting only — flat ambient ceiling light like a plain office, soft even illumination with mild natural shadows, absolutely no studio lighting, no softboxes, no rim light, no dramatic key light, unretouched documentary photography style, cinematic realism, 4K quality, sharp focus on skin texture detail, no other people, no duplicate extra figures, no mannequin, no reflections, no props, no furniture, no background objects, front and back panels full-body head-to-toe not cropped not sitting, third panel tight face close-up only not full body, no text, no watermark, no logos, no frame borders, no babyface, no plastic skin, no glossy skin
+
+查看全部
+复制提示词
+重新创作
+Food Scientist — Character Sheet 2
+
+What it does: Same sheet for the female scientist, same flat neutral lighting, same multi-angle layout.
+
+Three-panel character sheet composition, panel one a full-body front view of the character standing upright in a neutral straight pose facing the camera, both feet flat on the ground, arms relaxed at the sides, full head-to-toe framing with the entire body and both feet visible, panel two a full-body back view of the same character in the same standing pose seen directly from behind, head-to-toe, panel three a tight face close-up portrait of the same character, identical original female character across all three panels, single subject only exactly one person per panel, plain flat grey seamless background, professional character sheet presentation, woman in her mid-thirties with light olive skin, oval face with a defined jawline and mature adult bone structure, high cheekbones, straight slender nose, medium lips with natural rosy-nude tint and soft matte finish, dark brown almond eyes behind modern square clear-plastic-frame safety goggles, naturally muted catchlights, no oversized specular glare in the iris, natural full dark eyebrows, dark brown hair pulled back in a practical low bun with a few loose strands, matte natural finish, visible fine skin texture with natural pores, subtle asymmetries, faint fine lines, minimal natural makeup with slightly uneven blending rather than flawless coverage, no digital smoothing, no beauty filter, no AI-airbrushed look, matte natural complexion free of artificial glare or highlight blooms, slim average build with balanced proportions, wearing a crisp white knee-length laboratory coat over a plain white collared blouse, dark straight-cut trousers, flat black leather loafers, blue nitrile gloves, blank ID badge clipped to the coat lapel, small plain stud earrings, no bag, natural anatomy, ordinary indoor room lighting only — flat ambient ceiling light like a plain office, soft even illumination with mild natural shadows, absolutely no studio lighting, no softboxes, no rim light, no dramatic key light, unretouched documentary photography style, cinematic realism, 4K quality, sharp focus on skin texture detail, no other people, no duplicate extra figures, no mannequin, no reflections, no props, no furniture, no background objects, front and back panels full-body head-to-toe not cropped not sitting, third panel tight face close-up only not full body, no text, no watermark, no logos, no frame borders, no babyface, no plastic skin, no glossy skinё
+
+查看全部
+复制提示词
+重新创作
+The Location — Industrial Food Hangar
+
+What it does: Generates the massive industrial food-testing hangar the whole commercial takes place in. Three things have to be right in the plate, and they matter more than how pretty it is: a wide open lane down the centre with the lab equipment pushed to the sides, cool industrial light inside against bright daylight through the open door, and a smooth polished concrete floor with nothing in the roller's path. Every stray cable or rock is one more object the video model has to simulate under a four-metre steel drum.
+
+Photorealistic high-end commercial production still, empty location shot, no people in frame.
+
+
+
+
+SETTING: A massive double-height industrial testing hangar inside a corporate food-science research compound. Walls of corrugated steel paneling painted muted charcoal grey, exposed dark-grey structural steel columns and beams. Expansive peaked roof supported by a grid of exposed steel trusses and rafters, with skylights running along the ridge letting natural daylight filter down. Smooth light-grey polished concrete floor with minor scuffs, subtle reflections and practical working-facility imperfections — clean but utilitarian, not a pristine white lab.
+
+
+
+
+LAYOUT: The wide central lane of the hangar is completely clear, wide enough for heavy machinery to pass through. Along the left and right walls, rows of stainless-steel laboratory workbenches are arranged as food-chemistry stations, receding deep into the background for strong depth layering (foreground / midground / background).
+
+
+
+
+PROPS: Lab benches with polished stainless-steel frames and tabletops, loaded with scientific glassware — beakers, Erlenmeyer flasks, test-tube racks, graduated cylinders filled with colorful liquids (yellow, green, red). Grow-light stands with trays of fresh green herbs, baskets of ripe red tomatoes, whole onions, jars of pickles. Digital microscopes, magnifying ring lights on adjustable arms, precision tweezers, digital scales. On the right side, a large open vertical roll-up bay door with bright overexposed daylight pouring in.
+
+
+
+
+LIGHTING: High-contrast cinematic lighting. Cool overhead industrial lights from the rafters, bright diffused white light flooding through the open bay door, and a warm golden tungsten back-light cutting through center-right of the hangar, casting long shadows and highlighting dust motes in the air. Localized cool-white ring lights and desk lamps glowing at individual lab stations.
+
+
+
+
+COLOR PALETTE: Cool industrial tones — slate grey, metallic steel, concrete blue — punctuated by pops of vibrant color: amber hazard lights, green lab plants, red tomatoes, colorful chemical liquids.
+
+
+
+
+CAMERA: Anamorphic lens look, shallow depth of field, eye-level wide shot down the central lane, sharp foreground with softly blurred busy background. Atmosphere: sterile, clinical, authoritative corporate test facility with dramatic cinematic mood. Absolutely no text, no logos, no signage anywhere in frame.
+
+"STYLE: Photorealistic cinematic location plate captured on a modern
+
+digital cinema camera. Clean high-dynamic-range large-format sensor
+
+image, crisp micro-contrast, true-to-life color — paired with a
+
+full-frame 2x anamorphic prime tuned for maximum optical character.
+
+Modern sensor, aggressive anamorphic glass: the lens character
+
+dominates the frame.
+
+
+
+
+CAMERA: Modern large-format digital cinema camera, full-frame 2x
+
+anamorphic prime at 40mm, shot wide open at T1.8. STRONG anamorphic
+
+geometry rendered directly in the frame: pronounced horizontal squeeze
+
+and compression across the entire image, heavy curved barrel distortion
+
+bowing straight lines near the left and right frame edges, oval
+
+elliptical bokeh on every out-of-focus highlight, specular highlights
+
+stretched horizontally into wide ellipses, cyan/magenta chromatic
+
+aberration fringing increasing toward the edges, field curvature
+
+softening the extreme corners while the center stays razor sharp,
+
+focus falloff and gentle smearing in the outer third of frame.
+
+
+
+
+NEGATIVE: NO lens flares, NO horizontal light streaks, NO floating
+
+bokeh circles overlaid on the image, no perfectly round bokeh, no
+
+rectilinear distortion-free geometry, no film grain, no vintage stock
+
+emulation, no faded retro color cast, NOT CGI, NOT 3D rendered, no
+
+real brands or logos, no readable trademarks, no people, no anime,
+
+no illustration.
+
+
+
+
+ASPECT RATIO: 2.39:1 (21:9 widescreen)"
+
+查看全部
+复制提示词
+重新创作
+The Road Roller
+
+What it does: Generates the machine reference — a clean, oversized tandem road roller on a seamless background. The same prompt was run across four image models and Seedream 5.0 Pro held the steel, hydraulics and mechanical detail best. Note that the asset doesn't need to look four metres tall: the reference controls identity, the video prompt controls scale.
+
+Photorealistic studio shot of a colossal, exaggerated industrial tandem road roller (asphalt compactor) on a seamless light gray background. The machine is deliberately oversized and menacing: the FRONT steel drum is enormous — roughly twice the diameter of the rear drum and taller than the operator cabin's floor line, a huge cylindrical wall of worn yellow-tan steel with scratches, ground-in dust and faint rust streaks. The rear drum is visibly smaller, making the front drum read as the dominant mass of the vehicle. Deep navy-blue painted steel body built thick and heavy: oversized bolted steel plates, chunky hinges, massive tow points, vents and access panels, subtle realistic wear and dust on the paint. Enclosed glass operator cabin on top looks small compared to the front drum, small orange beacon light above the cabin, side mirrors. Absolutely no logos, no branding, no text anywhere on the vehicle.
+
+
+
+
+Camera: dramatic low-angle three-quarter view from near ground level, positioned closer to the front drum so it looms large in the foreground while the body recedes — wide-angle 24mm perspective with mild foreshortening that exaggerates the front drum's scale, whole machine still fully in frame, everything in sharp focus.
+
+
+
+
+Lighting: soft diffused studio lighting with slightly stronger top light so the drum's curvature reads as heavy rolled steel; gentle gradient on the cylinder, soft but grounded contact shadow under both drums — the shadow pressed flat as if the floor carries real weight.
+
+
+
+
+Style: photorealistic, clean product-asset look, 8k detail, physically plausible materials — brushed worn steel drum, matte painted body, glass with faint reflections.
+
+查看全部
+复制提示词
+重新创作
+The Logo
+
+What it does: Nothing to generate — this one comes from the client. It's used in exactly two places across the whole commercial: the back of the scientists' clipboards and the endcard. The more often a video model has to redraw text, the more chances it has to get it wrong.
+
+Stage 2 — The Prompting Framework
+
+Install the Skill, then give it the element list. From that point on it writes the @tags into the shooting script itself — the burger reference gets called when the burger is on screen, the right character sheet when a scientist appears, the machine when the roller rolls. Across sixteen shots, that's the part you never want to be doing by hand.
+
+commercial-pipeline.skill
+SKIL
+@image_1 — the burger in the closed kraft box
+@image_2 — the pizza in the flat kraft box
+@image_3 — character sheet, older male food scientist
+@image_4 — character sheet, female food scientist
+@image_5 — the industrial food-testing hangar plate
+@image_6 — the road roller
+@image_7 — the client logo
+Stage 3 — The Scenes
+The Commercial — 16 Shots
+0:00 / 0:00
+
+Style header: the top of this prompt locks the look for all sixteen shots — photorealistic, real-time motion, no CGI feel, consistent lensing, and the lighting progression that runs cool before the experiment, amber during it and back to normal after the reveal. Audio is SFX only: no music, no voiceover, no subtitles.
+
+
+
+
+What it does: Generates the full 30-second commercial in one pass — the burger placed on the hangar floor, the roller crossing it, the pizza revealed in its place, the scientists logging the result, and the product shots that close it out. The carton has its own geometry lock so it never moves or turns between cuts, the roller stays slow no matter how fast the edit gets, and the transformation itself is never shown: the machine hides it.
+
+SCENE CONTEXT
+
+A deadpan "scientific experiment" for Cheezus Pizza: a scientist places a cheeseburger on the floor of a vast hangar, a colossal road roller creeps over it, and behind the machine the burger emerges transformed into a round cheeseburger pizza. Scientists document everything, analyze a pickle, and the film closes on a hero product shot with the brand logo.
+
+
+
+
+ACTIVE REFERENCES
+
+@图片 1: middle-aged male food scientist, thin build, round wire-rimmed glasses, neat side-parted hair, tweed waistcoat and tie under an open white lab coat, blue nitrile gloves, pen and clipboard. Deadpan-serious. 100% matches the reference.
+
+@图片 2: young female food scientist, dark hair in a low ponytail, oversized clear-frame safety glasses, small bar earring, white lab coat over a dark top, blue nitrile gloves, pen and clipboard. Focused, frowning. 100% matches the reference.
+
+@图片 3: vast industrial hangar location. 100% matches the reference.
+
+@图片 4: golden brioche-bun cheeseburger, melted cheddar folding over a beef patty, sitting in a small open kraft carton. 100% matches the reference.
+
+@图片 5: round cheeseburger pizza — bubbling mozzarella and cheddar, seared beef meatball chunks, pickle slices, white onion slivers, a spiral of pale burger sauce — lying in a completely flat, pressed-open kraft pizza box. 100% matches the reference.
+
+@图片 6: heavy industrial tandem road roller, dark navy body, weathered rust-brown steel drums, glass cab, round headlights on, small amber beacon on the roof. In this film the machine is COLOSSAL — the size of a two-story building, each drum over 4 meters tall, utterly dwarfing every person in the hangar, yet built from real steel with real weight, rivets, hydraulics and wear. 100% matches the reference.
+
+@图片 7: Cheezus Pizza logo — groovy cream lettering with a bitten cheese-wheel accent. Appears printed on the backs of the scientists' matte grey clipboards, and once more as the final endcard. Always crisp and undistorted. 100% matches the reference.
+
+
+
+
+LOCATION MAP
+
+Per @图片 3: a huge corrugated-steel hangar. Ribbed grey metal walls, exposed roof trusses, long skylights. A tall open sliding door in the deep background pours in warm low daylight. Along the left wall: stainless lab benches with glassware, beakers, potted herbs, crates of tomatoes, microscopes, ring lights, vertical white strip lights. The background is always alive: four to six scientists work at the benches and two or three more walk unhurried across the depth of the hall carrying trays and folders. The center of the hangar is an empty test area. The floor everywhere is smooth, clean, polished concrete with a faint sheen — no gravel, no rubble, no litter, no debris anywhere.
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+The first visible frame is a ground-level close-up: the scientist's polished shoes already entering from the LEFT edge of frame, warm backlight flaring across the clean concrete, blurred scientists moving in the background. No empty establishing frame.
+
+S1 geometry: he walks left-to-right, stops at frame-right; the carton lands at x 68%, y 75%, its open lid facing back toward him — the burger faces the scientist, open side screen-left. In later shots the roller travels screen-right-to-left in the crush shot and away from camera in the reveal. In every two-shot @图片 2 is screen-left, @图片 1 screen-right; the grey clipboard backs with the @图片 7 logo face camera.
+
+
+
+
+FORMAT MODE
+
+Controlled multi-shot sequence, fourteen scripted segments, HARD CUTS and one INSERT CUT, every cut hidden in motion or motivated by a look. No fades, no dissolves, no unscripted cuts.
+
+
+
+
+OPTICS
+
+LENS LOCK S1 = 47° standard normal at floor height, camera 0.6–1 m from the shoes, razor-thin focus on the hands and carton, background melting soft.
+
+LENS LOCK S2 = 84° classic wide, camera low, 1.5 m above the floor.
+
+LENS LOCK S3 = 47° standard normal, dolly-in from 5 m to 3 m.
+
+LENS LOCK S4 = 29° short telephoto through the cab glass.
+
+LENS LOCK S5 = 18° macro insert on the console button, razor-thin focus.
+
+LENS LOCK S6 = 107° wide rectilinear, camera 0.4 m above the floor; the drum looms like a moving cliff, straight lines stay rectilinear, no fisheye.
+
+LENS LOCK S7, S8 = 29° short telephoto HANDHELD close-ups, camera 2–3 m out, background compressed creamy.
+
+LENS LOCK S9 = 84° low behind the machine, then pushing to 47° framing on the pizza.
+
+LENS LOCK S10 = 107° wide rectilinear from the pizza's position looking straight up.
+
+LENS LOCK S11, S12, S14 = 29° macro food-detail character, camera 20–40 cm from the crust, razor-thin focus plane.
+
+LENS LOCK S13 = 29° close-up at bench height.
+
+No lens drift mid-segment.
+
+
+
+
+CAMERA
+
+Every shot moves from its first frame. All camera moves are mechanically smooth — EXCEPT S7 and S8, which are scripted TRUE HANDHELD: a real human operator, visible shake, breath sway, imperfect reframes. This handheld texture in S7–S8 is intentional and overrides the film's smooth-camera rule for those segments only.
+
+SPEED LOCK: the roller NEVER moves fast. In every shot @图片 6 creeps at a slow, heavy, inevitable walking pace — slower than a person strolls. No speed-up, no lurch, no fast pass.
+
+
+
+
+ACTION TIMING
+
+0.0s–4.0s — S1, ground-level close-up, legs only. The scientist's polished shoes enter from the LEFT edge of frame and take a couple of unhurried steps rightward across the clean concrete. At frame-right he lowers himself like a normal person — one knee bending forward into a shallow lunge, the other leg braced behind, torso leaning over — never a deep squat. His blue-gloved hands quickly and carefully set the open kraft carton with @图片 4 down at the right side of frame, lid open and facing back toward him, seat it with one precise touch, and withdraw as he rises. Faces never shown — only legs, hands, carton. In the soft background, blurred lab coats of other scientists cross the hall and work at benches. Camera slides low with his steps.
+
+4.0s HARD CUT.
+
+4.0s–7.5s — S2, wide establishing. The scientist walks away from the carton toward the lab side, and the frame reveals the scale: the COLOSSAL @图片 6 fills the midground like a two-story building of steel, drums over 4 meters tall, headlights on, amber beacon turning, engine cold and silent — the tiny burger carton alone on the floor before it. Background scientists keep walking and working along the benches. Camera pushes forward slowly at knee height.
+
+7.5s HARD CUT.
+
+7.5s–10.0s — S3, medium dolly-in. @图片 2 screen-left and @图片 1 screen-right stand side by side, frowning, pens ready over their matte grey clipboards, the @图片 7 logo printed on the clipboard backs facing camera. Behind them the benches buzz — pipetting, weighing tomatoes — and two scientists walk across the depth. Slow dolly-in toward the pair.
+
+10.0s HARD CUT.
+
+10.0s–11.5s — S4, the driver. Through the cab glass high above the floor: a stocky bearded operator in a blue hard hat, white coat and red work gloves settles into the seat and reaches for the console; the camera drifts in a slow subtle push toward the glass as reflections slide across it.
+
+11.5s INSERT CUT.
+
+11.5s–12.5s — S5, the button. Macro insert on the console: his red-gloved finger presses the big ignition button with one decisive push — a heavy click, needles jump on the gauges, the whole frame vibrates once as the colossal engine thunders awake and the machine begins to creep.
+
+12.5s HARD CUT.
+
+12.5s–16.0s — S6, low-angle wide. Camera almost on the clean floor: the COLOSSAL drum creeps slowly screen-right-to-left onto the burger — a moving cliff of steel filling the entire upper half of frame, grinding forward centimeter by centimeter, its shadow swallowing the carton until dark steel covers everything and the frame falls almost black. Slow. Massive. Inevitable.
+
+16.0s HARD CUT.
+
+16.0s–17.8s — S7, TRUE HANDHELD close-up on @图片 1. The frame breathes and shakes in a real operator's hands: @图片 1's eyes fixed off-screen on the machine, pen scratching rapid notes on the grey clipboard, jaw tight, waiting. Human, imperfect, alive. Off-screen the giant drum keeps grinding slowly.
+
+17.8s HARD CUT.
+
+17.8s–19.5s — S8, TRUE HANDHELD close-up on @图片 2. Same live handheld energy, the frame swaying with the operator's breath: warm backlight from the open door flares behind her head, edging her ponytail and glasses as she writes, glances up, and holds her breath.
+
+19.5s HARD CUT.
+
+19.5s–23.5s — S9, the reveal, wide from behind the machine. The COLOSSAL roller creeps slowly away from camera toward the bright doorway — and where the burger stood, the pressed-flat kraft box with @图片 5 lies on the clean concrete. The transformation is told with light, realistically: the machine's long shadow slides off the box, the warm doorway beam sweeps across the pizza, steam rises off the hot cheese through the light, a soft warm reflection blooms on the polished floor. No glow effects, no magic. The camera then pushes in low and steady on the pizza until it fills the lower half of frame.
+
+23.5s HARD CUT.
+
+23.5s–26.0s — S10, pizza's point of view. Camera on the floor looking straight up: the scientists hurry in from all sides — @图片 2 arriving first, @图片 1 right behind, a mustached scientist and a wild-haired elderly scientist in red rubber gloves crowding in — all leaning over, scribbling fast into their notebooks, eyes darting between the pizza and the page; the tilted grey clipboard backs with the @图片 7 logo frame the edges; roof trusses fan out behind their heads. Slight slow push upward.
+
+26.0s HARD CUT.
+
+26.0s–28.0s — S11, product macro. Slow lateral dolly across @图片 5: glistening seared beef chunks, ribbons of pale burger sauce, translucent onion slivers, bubbling cheese, steam rising; focus travels across the toppings.
+
+28.0s HARD CUT.
+
+28.0s–29.5s — S12, product macro. White onion slivers and pickle coins tumble down in real gravity onto molten stretched cheese, landing with soft bounces, one onion ring settling upright then folding.
+
+29.5s HARD CUT.
+
+29.5s–32.0s — S13, the pickle analysis. At a stainless bench, @图片 1 lifts a single glistening pickle coin with steel tweezers and raises it to eye level against a bench lamp, studying it through his round glasses like a rare specimen, light glowing through its translucent flesh; @图片 2 beside him notes the result on her clipboard. Background scientists keep working; one walks past behind the bench.
+
+32.0s HARD CUT.
+
+32.0s–35.5s — S14, final product shot with logo. Hero macro-to-medium: @图片 5 steaming in its flattened box in a warm pool of light on the clean concrete, a last slow push-in as a cheese bubble pops; at 33.5s the @图片 7 logo fades in centered over the frame as a clean, static endcard element — crisp cream lettering, correctly proportioned — and holds to the end.
+
+
+
+
+PHYSICS
+
+The roller has true colossal mass: the floor transmits a deep low rumble as it creeps, the machine moves with slow heavy inertia, hydraulics hiss, exhaust heat shimmers. The floor stays perfectly clean — the drums roll over smooth polished concrete, no gravel, no debris, no scattered stones. The kraft carton crushes flat under real pressure. Cheese melts, stretches and strings with real viscosity; sauce ribbons fold and slump; toppings fall in parabolic arcs, bounce once, settle; steam rises only from hot food; dust motes hang in the light shafts.
+
+
+
+
+LIGHTING
+
+Primary source: warm low daylight through the open hangar door — golden backlight, long floor reflections on the polished concrete. Interior fill: cool overhead daylight and white fluorescent strips — a natural teal-and-orange split. In S8 the warm door light flares behind @图片 2 — the one scripted flare of the film, soft and organic. The S9 reveal is the light event: shadow sliding off the box, the doorway beam sweeping across the pizza, steam glowing inside the beam — strictly realistic. Macros: one warm hard key raking the toppings, glints on melted cheese, background in dark soft bokeh.
+
+
+
+
+AUDIO
+
+SFX only: echoing footsteps in a huge hall; the carton set down with a papery tap; pen scratches on clipboards; a heavy ignition click, gauges ticking, a deep diesel awakening; slow hydraulic hiss and the heavy grind of steel drums over smooth concrete; a swallowing sub-bass roll as the drum covers the burger; near-silence with receding engine for the reveal; hurried footsteps converging in S10; wet sizzles and soft topping impacts for the macros; a low warm room tone under the endcard.
+
+
+
+
+POSITIVE LOCKS
+
+In S1 the scientist enters from frame-left, takes a couple of steps and places the burger at frame-right, carton open toward himself; legs and hands only, lowering on one bent knee — never squatting. The roller is COLOSSAL in every shot and always creeps slowly — never fast. The engine starts only at the S5 button press. The floor is always clean smooth polished concrete — no gravel, no rubble, no litter. The transformation happens hidden under the machine: burger before S6, pizza from S9 onward, never both in frame. The flattened box in S9–S14 is the same kraft board as the carton in S1–S6. @图片 1 and @图片 2 keep identical faces, glasses, coats and gloves in every appearance. Clipboards are matte grey with the @图片 7 logo on the back — no red clipboards. The @图片 7 logo appears nowhere else except the final endcard — no other logos or text in frame. S7 and S8 are the only handheld segments — real human shake on both. The background stays alive in every wide and medium lab shot: bench work plus walking scientists. The roller is the only vehicle.
+
+
+
+
+Photoreal. Cinematic. 16:9. SFX only, no music, no subtitles, no human voice. Spherical lenses, natural round bokeh — subject razor sharp, background melting one gentle step soft — clean glass, no streaks, no flares. Natural grain, organic color, soft contrast, filmic look. Camera: confident and alive — every shot moving from its first frame: whips, crash zooms, dollies, arcs — mechanically smooth, never shaky, never static. Real-time motion, speed ramps only at marked beats. Rule-of-thirds framing, subject never centered. Multi-shot film: cuts only as scripted, every cut hidden in motion or motivated by a look. NO CGI. NON-IP.
+
+查看全部
+复制提示词
+重新创作
+Assembling The Cut
+
+The final commercial isn't one lucky generation. Batch several runs of the same prompt, then pull the best individual shots out of different batches — the best crush from one, the best reveal from another, the best macro from a third — and cut those together.
+
+Ready To Make Your Own?
+
+Swap the burger for whatever your client sells and the workflow doesn't change: seven references, one shooting script, a few batches, and a cut assembled from the best shots.
+
+READY TO MAKE YOUR OWN?
+Go!
+目录
+Before You Start
+Stage 1 — The Assets
+The Burger
+The Pizza
+Food Scientist — Character Sheet 1
+Food Scientist — Character Sheet 2
+The Location — Industrial Food Hangar
+The Road Roller
+The Logo
+Stage 2 — The Prompting Framework
+Stage 3 — The Scenes
+The Commercial — 16 Shots
+Assembling The Cut
+Ready To Make Your Own?
+ready to make your own?
+
+评论
+
+还没有评论，来发表第一条评论！
+
+© 2026 Higgsfield, Inc. 保留所有权利。
+
+帮助中心
+Cookie 声明
+条款
+隐私
+报告漏洞

@@ -1,0 +1,528 @@
+【项目】CÓMO GENERAR MÚLTIPLES ÁNGULOS DE CÁMARA A PARTIR DE UN SOLO VIDEO.（@charlieandy · 创作者博客）
+【链接】https://higgsfield.ai/@charlieandy/blogs/c-mo-generar-m-ltiples-ngulos-de-c-mara-a-partir-de-un-solo-video
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+CÓMO GENERAR MÚLTIPLES ÁNGULOS DE CÁMARA A PARTIR DE UN SOLO VIDEO.
+@charlieandy
+237
+0
+1
+
+Puedes convertir una sola toma en una secuencia que parezca grabada con múltiples cámaras usando Genjutsu o Seedance 2.5.
+
+
+
+
+La idea es simple: subes tu video como @video1 y le indicas a la IA que conserve exactamente la actuación, movimientos, gestos, timing y lip sync, pero que cambie la posición y movimiento de cámara.
+
+Cómo hacerlo
+Sube tu video en Genjutsu o Seedance 2.5.
+Etiquétalo como @video1.
+Pega el siguiente prompt.
+Genera varias versiones y quédate con los mejores ángulos para tu edición.
+
+El prompt también intenta aprovechar los movimientos del sujeto para hacer cambios de cámara tipo match-on-action, haciendo que los cortes se sientan mucho más naturales.
+
+Prompt
+Use @video1 as the MASTER VIDEO and absolute motion reference for the entire generation.
+
+Preserve exactly the subject’s original performance from @video1:
+
+- body movement
+- hand gestures
+- facial expressions
+- speech timing
+- lip synchronization
+- posture
+- rhythm
+- eye direction
+- interaction with any objects
+- position within the scene
+
+Do not reinterpret, replace, simplify, exaggerate, or invent new actions.
+
+IMPORTANT:
+
+@video1 is the reference for MOTION, PERFORMANCE, TIMING, ACTIONS, AND CONTINUITY — NOT for camera position.
+
+The objective is to recreate the exact same performance as if it had been captured simultaneously by multiple professional cinema cameras positioned around the subject.
+
+Generate completely new cinematic camera coverage throughout the video.
+
+The VERY FIRST FRAME must already begin from a noticeably different camera angle than the original @video1 composition.
+
+Do not simply recreate the original camera with minor framing variations.
+
+The new coverage should feel intentionally directed, visually diverse, cinematic, and physically believable.
+
+ADAPT THE CAMERA SEQUENCE TO THE LENGTH OF @video1.
+
+Do not depend on fixed timestamps.
+
+Instead, divide the performance naturally into several cinematic shots based on:
+
+- body gestures
+- hand movements
+- changes in expression
+- dialogue rhythm
+- pauses
+- object interactions
+- shifts in posture
+- natural movement beats
+
+Use these moments to motivate camera changes.
+
+CAMERA VARIETY:
+
+Throughout the sequence, continuously vary:
+
+CAMERA POSITION
+CAMERA HEIGHT
+CAMERA DISTANCE
+CAMERA DIRECTION
+CAMERA MOVEMENT
+SUBJECT PLACEMENT WITHIN THE FRAME
+
+Use a cinematic combination of shots such as:
+
+- high-angle 3/4 shots
+- low-angle medium shots
+- wide side angles
+- profile shots
+- rear 3/4 perspectives
+- over-the-shoulder perspectives
+- diagonal frontal angles
+- asymmetric editorial compositions
+- facial close-ups
+- medium close-ups
+- medium shots
+- wide environmental shots
+- moving tracking shots
+- orbital camera moves
+- lateral camera slides
+- diagonal dolly movements
+- curved push-ins
+- controlled pull-backs
+- crane-up movements
+- crane-down movements
+- subtle handheld movement
+- foreground compositions
+- layered depth compositions
+
+Do not repeat the same camera angle or camera movement consecutively.
+
+Every new shot should feel clearly different from the previous one.
+
+Avoid simply alternating between a frontal shot and a side shot.
+
+The camera should explore the subject from different positions within three-dimensional space.
+
+Some shots may feel intimate.
+
+Others may feel wider and more observational.
+
+Others may feel editorial, architectural, dramatic, or energetic.
+
+The visual language should continuously evolve throughout the video.
+
+OPENING SHOT:
+
+The opening shot must immediately distinguish itself from @video1.
+
+Begin from a new perspective such as:
+
+- high 3/4 angle
+- low diagonal angle
+- strong side angle
+- rear 3/4 perspective
+- wide environmental angle
+- moving lateral perspective
+
+Do not begin by reproducing the original camera position.
+
+Introduce subtle cinematic movement immediately when appropriate.
+
+MID-SEQUENCE CAMERA COVERAGE:
+
+As the performance progresses, dynamically rotate between different shot scales and camera positions.
+
+Examples include:
+
+A wide lateral tracking shot revealing more of the environment.
+
+A low-angle medium shot with a subtle push-in.
+
+A rear 3/4 shot slowly sliding toward the subject’s profile.
+
+A facial close-up from a diagonal angle with subtle cinematic handheld movement.
+
+A medium-wide orbital movement around the subject.
+
+An asymmetric medium shot using negative space.
+
+A high side angle gradually lowering toward eye level.
+
+A curved tracking movement combining lateral motion and a gentle push-in.
+
+These are creative possibilities, not a mandatory fixed order.
+
+Choose the shot order dynamically according to the movements and structure of @video1.
+
+Do not always generate the same sequence when this prompt is used with different videos.
+
+CAMERA CHANGES:
+
+Use the existing movement of the subject to motivate transitions whenever possible.
+
+Prefer MATCH-ON-ACTION.
+
+When the subject:
+
+raises a hand,
+lowers a hand,
+turns their head,
+changes posture,
+moves an object,
+leans forward,
+leans backward,
+points,
+walks,
+turns,
+or performs another clear movement,
+
+use that action as an opportunity to change camera angle.
+
+The action must continue naturally across the cut.
+
+Example:
+
+If the subject begins raising their hand in one camera angle, the movement should continue seamlessly from the new angle after the cut.
+
+Do not reset the gesture.
+
+Do not change the timing of the gesture.
+
+Do not teleport the body.
+
+The edit should feel as if multiple real cameras captured the same performance simultaneously.
+
+SHOT DURATION:
+
+Do not change camera angles at arbitrary fixed intervals.
+
+Allow the rhythm of @video1 to determine shot duration.
+
+Some camera angles may remain longer when the performance is visually interesting.
+
+Other shots may be shorter during energetic movement.
+
+Avoid excessive cutting.
+
+Avoid keeping one angle for too long when there are natural opportunities for visual variation.
+
+The sequence should feel dynamic without becoming chaotic.
+
+CAMERA MOTION:
+
+All camera movements must feel physically achievable using professional cinema equipment.
+
+Use realistic movement inspired by:
+
+- dolly
+- slider
+- gimbal
+- handheld camera
+- Steadicam
+- jib
+- crane
+- circular dolly
+- orbital camera rigs
+
+Camera movement must have realistic:
+
+acceleration,
+deceleration,
+weight,
+inertia,
+perspective change,
+and parallax.
+
+Avoid impossible floating-camera movement.
+
+Avoid robotic camera motion.
+
+Avoid excessive digital stabilization.
+
+Avoid sudden unexplained acceleration.
+
+Avoid random zooming.
+
+Avoid excessive speed ramps.
+
+ORBITAL MOVEMENTS:
+
+Orbital movements should create real spatial parallax.
+
+The camera physically moves around the subject.
+
+The environment must react correctly to the changing perspective.
+
+Do not rotate the background artificially around a static subject.
+
+Use orbital movements selectively.
+
+Do not repeat the same orbit multiple times.
+
+FRAMING:
+
+Create intentional compositions.
+
+Use:
+
+foreground depth,
+background depth,
+negative space,
+leading lines,
+layered compositions,
+symmetry when appropriate,
+asymmetry when appropriate,
+and cinematic headroom.
+
+Do not center the subject in every shot.
+
+Do not crop the subject awkwardly.
+
+Maintain professional composition throughout the sequence.
+
+ENVIRONMENT:
+
+Preserve the original environment from @video1.
+
+When new camera positions reveal previously unseen areas, logically reconstruct and extend the existing location.
+
+Maintain consistent:
+
+architecture,
+wall placement,
+floor geometry,
+ceiling geometry,
+furniture,
+props,
+decoration,
+windows,
+doors,
+lighting fixtures,
+background objects,
+materials,
+colors,
+and spatial relationships.
+
+Do not redesign the location between shots.
+
+The environment should behave like a complete three-dimensional physical space.
+
+When the camera moves, generate accurate perspective and parallax.
+
+Do not stretch, warp, duplicate, or randomly reposition background elements.
+
+LIGHTING:
+
+Preserve the lighting logic of @video1.
+
+New camera angles must remain consistent with the established lighting setup.
+
+Maintain coherent:
+
+key light direction,
+fill light,
+rim light,
+shadow direction,
+shadow softness,
+exposure,
+color temperature,
+reflections,
+and environmental light.
+
+When viewing the subject from another side, lighting must change naturally according to the camera’s new relationship with the existing light sources.
+
+Do not make the subject appear independently lit from the environment.
+
+SUBJECT CONTINUITY:
+
+Maintain exactly the same person throughout the entire video.
+
+Preserve:
+
+identity,
+face,
+facial structure,
+facial proportions,
+hairstyle,
+skin texture,
+body proportions,
+clothing,
+accessories,
+hands,
+fingers,
+and physical characteristics.
+
+Do not alter appearance between camera angles.
+
+The subject must occupy a logically consistent physical position within the environment throughout the sequence.
+
+Do not teleport the subject.
+
+Do not rotate the subject independently of the original performance.
+
+Do not reset body position between shots.
+
+HAND CONTINUITY:
+
+Preserve the exact movement and position of both hands from @video1.
+
+Do not:
+
+duplicate fingers,
+remove fingers,
+change hand orientation,
+switch objects between hands,
+invent gestures,
+reset hand positions,
+or alter interaction timing.
+
+OBJECT CONTINUITY:
+
+If the subject is holding, touching, wearing, presenting, or interacting with any object in @video1, preserve that object consistently throughout the sequence.
+
+Maintain:
+
+shape,
+size,
+material,
+color,
+orientation,
+position,
+branding when visible,
+and interaction with the subject.
+
+The object should follow the exact motion dictated by @video1.
+
+Do not transform it into another object.
+
+Do not independently reposition it.
+
+Do not automatically create product close-ups unless they are visually justified by the original performance.
+
+PERFORMANCE:
+
+Preserve the exact performance from @video1.
+
+Perfect lip synchronization is mandatory whenever the subject is speaking.
+
+Do not modify facial expressions.
+
+Do not change eye direction unless naturally caused by the new camera perspective.
+
+Do not add new gestures.
+
+Do not remove existing gestures.
+
+Do not change dialogue timing.
+
+Do not change movement speed.
+
+Do not reorder actions.
+
+Do not introduce unnecessary slow motion.
+
+Do not speed up the original performance.
+
+The primary creative transformation should be the CAMERA COVERAGE.
+
+CONTINUITY BETWEEN SHOTS:
+
+Every camera cut must preserve spatial and temporal continuity.
+
+The subject should remain at exactly the correct point in their movement.
+
+The environment should maintain consistent geometry.
+
+Objects should remain in their correct positions.
+
+Lighting should remain spatially coherent.
+
+The result should feel like multiple cameras recorded the exact same moment simultaneously.
+
+FINAL SHOT:
+
+Finish using a camera composition that has not already been used earlier in the sequence.
+
+Whenever appropriate, create a visually strong finishing movement such as:
+
+- subtle push-in
+- curved tracking movement
+- slow lateral reveal
+- controlled pull-back
+- gentle crane movement
+- dynamic 3/4 tracking shot
+
+Do not automatically return to the original @video1 camera position.
+
+End with a visually intentional cinematic composition.
+
+FINAL VISUAL GOAL:
+
+The final result should feel like the original performance was captured on a professional multi-camera film set.
+
+A director and cinematographer should appear to have intentionally designed multiple perspectives around the same uninterrupted performance.
+
+The camera should constantly discover new ways of viewing the subject while maintaining perfect continuity.
+
+Dynamic but controlled.
+
+Cinematic but believable.
+
+Editorial but natural.
+
+Visually varied without becoming chaotic.
+
+The new camera coverage should add production value while preserving the original performance exactly.
+
+AVOID:
+
+repeating camera angles,
+repeating identical camera movements,
+using the same orbit repeatedly,
+minor variations of the original framing,
+random cuts,
+unmotivated camera changes,
+excessive close-ups,
+unnecessary object close-ups,
+subject teleportation,
+body position resets,
+incorrect hand continuity,
+duplicated fingers,
+warped hands,
+warped objects,
+floating objects,
+background geometry changes,
+environment redesigns,
+identity changes,
+facial changes,
+lip-sync errors,
+lighting inconsistencies,
+unnatural camera floating,
+robotic camera movements,
+excessive camera shake,
+random zooms,
+unmotivated speed changes,
+unnecessary slow motion,
+and artificial-looking perspective changes.
+
+
+
+
+Después solo genera varias versiones y utiliza en tu edición los ángulos que más te gusten.

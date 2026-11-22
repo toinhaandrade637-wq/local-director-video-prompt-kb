@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>06_知识库 · 流程图（知识树 v2 · 2026-11-05）</title>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<style>
+  body { font-family: "Microsoft YaHei", sans-serif; background: #f7f6f2; margin: 0; padding: 24px; color: #2b2b2b; }
+  h1 { font-size: 22px; border-bottom: 3px solid #3a6ea5; padding-bottom: 8px; }
+  h2 { font-size: 18px; margin-top: 36px; color: #3a6ea5; }
+  .card { background: #fff; border: 1px solid #ddd; border-radius: 10px; padding: 20px 24px; margin-bottom: 28px; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+  .note { background: #fff8e6; border-left: 4px solid #e0a800; padding: 10px 14px; border-radius: 6px; font-size: 14px; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; }
+  td, th { border: 1px solid #ccc; padding: 6px 10px; text-align: left; }
+  th { background: #eef3f8; }
+  .mermaid { background: #fff; }
+</style>
+</head>
+<body>
+
+<h1>06_知识库 · 流程图（知识树 v2）</h1>
+<div class="note">本页是知识树 v2 的可视化配套（2026-11-05 重绘，E237）。结构变更先改 知识库建设蓝图.md v2 节 / AGENTS.md / 维护/工作流程.md，再同步本页。</div>
+
+<h2>图 1 · 知识树 v2 全景（生长链五站）</h2>
+<div class="card">
+<div class="mermaid">
+flowchart TB
+  subgraph SRC["资料库（唯一事实源 · 原件只读）"]
+    S02["02区 项目包 615 目录<br/>all_prompts.jsonl + brief"]
+    S05["05区 官方 skill / 博客 / 教程"]
+    REF["用户范本库（只读）<br/>imagegen（S39）/ seedance25（S40）"]
+  end
+  subgraph READ["① 逐字铁令层"]
+    LED["逐字阅读台账_T3_33-40.jsonl<br/>1,496 行 · read=785（52.5%）"]
+  end
+  subgraph RES["② 研究记录（证据层 · 只增）"]
+    LOG["批量日志 T1/T2/T3<br/>310 条编号发现 · 46 全库首见"]
+    HIST["页面史_旧版_*（重写前全文存档）"]
+  end
+  subgraph CUR["③ 现行知识（重写制 · 唯一维护正文）"]
+    VID["视频/ 01⏳ 02⏳ 03-运镜与空间 04-动作与打戏<br/>05-多主体调度 06-VFX与合成 07-声音与音频"]
+    IMG["生图/ 01-生图提示词方法 02-质感与后期"]
+    GEN["通用/ 01-色彩与HEX"]
+  end
+  subgraph FRUIT["④ skills 果实层"]
+    SKV["skills/hf-video-prompt<br/>SKILL.md + references 03-07"]
+    SKI["skills/hf-image-prompt<br/>SKILL.md + references 01-03"]
+  end
+  subgraph PRAC["⑤ 实践记录（反馈回流）"]
+    PR["实践记录/任务索引"]
+  end
+  SRC -->|"逐字读完才准出结论"| LED
+  LED --> LOG
+  LOG -->|"收官：按 短摘录→好在哪→迁移法 重写"| CUR
+  CUR -->|"重写前全文存档"| HIST
+  CUR -->|"sync_skills.js（唯一源）"| SKV
+  CUR --> SKI
+  PR -->|"反馈触发修订"| CUR
+  MAINT["维护层：事件记录 E1-E237 / 来源登记 S1-S40<br/>check_kb.js + 全维度矩阵 23 项 / 全量审计"]
+  CUR -.-> MAINT
+</div>
+</div>
+
+<h2>图 2 · 单项目收割 SOP v2</h2>
+<div class="card">
+<div class="mermaid">
+flowchart LR
+  A["领取来源 Sxx"] --> B["逐字读完全部收录源<br/>（jsonl 每条/brief/skill/博客）"]
+  B --> C{"读满 100%？"}
+  C -- "否" --> B
+  C -- "是" --> D["台账销账 + 事件 E 追加"]
+  D --> E["批量日志：编号发现+首见"]
+  E --> F{"项目收官？"}
+  F -- "否" --> G["下一批继续读"]
+  F -- "是" --> H["S 行登记 + 域页重写（当前态蒸馏）"]
+  H --> I["旧全文 → 页面史_旧版_*"]
+  H --> J["sync_skills.js 重刷 references"]
+  H --> K["check_kb + 全维度矩阵 + 全量审计"]
+</div>
+</div>
+
+<h2>图 3 · 反馈回流</h2>
+<div class="card">
+<div class="mermaid">
+flowchart LR
+  U["用户出图/出片"] --> P["实践记录/任务索引 回写"]
+  P --> D{"页能容纳吗？"}
+  D -- "能" --> M["页内修订：补充/修正/合并/替换"]
+  D -- "不能" --> N["新建生长位页（⏳ 转正）"]
+  M --> S["sync_skills + 入口同步 + 事件 E"]
+  N --> S
+  S --> V["check_kb + 矩阵 + 审计"]
+</div>
+</div>
+
+<h2>现行方法页（8 页 · trial）与来源序号</h2>
+<div class="card">
+<table>
+  <tr><th>页</th><th>主题</th><th>状态</th></tr>
+  <tr><td>视频/03-运镜与空间</td><td>46 型运镜/相表/光锥/剪点</td><td>trial（已重写示范）</td></tr>
+  <tr><td>视频/04-动作与打戏</td><td>打戏编舞/重复动作谱</td><td>trial</td></tr>
+  <tr><td>视频/05-多主体调度</td><td>锚点/一致性/人数锁</td><td>trial</td></tr>
+  <tr><td>视频/06-VFX与合成</td><td>VFX/2D×实拍交互</td><td>trial</td></tr>
+  <tr><td>视频/07-声音与音频</td><td>静默立法/呼吸/音频参考</td><td>trial</td></tr>
+  <tr><td>生图/01-生图提示词方法</td><td>Plate Master/一棚多格/海报</td><td>trial</td></tr>
+  <tr><td>生图/02-质感与后期</td><td>质感通道/材质排除/光学豁免</td><td>trial（已重写示范）</td></tr>
+  <tr><td>通用/01-色彩与HEX</td><td>HEX/配比/隔离色/漂移锁</td><td>trial</td></tr>
+</table>
+<div class="note"><b>编号：</b>S1-S38 项目与官方来源｜S39/S40 两范本库｜<b>下一个项目来源=S41 顺延</b>。<b>生长位：</b>视频/01-提示词结构、02-参考分工、通用/模型手册、世界圣经块。<b>铁律：</b>资料库→知识库只读不写回；逐字读完才准出结论；活文档旧编号体系已整体退役。</div>
+</div>
+
+<script>mermaid.initialize({ start: true });</script>
+</body>
+</html>

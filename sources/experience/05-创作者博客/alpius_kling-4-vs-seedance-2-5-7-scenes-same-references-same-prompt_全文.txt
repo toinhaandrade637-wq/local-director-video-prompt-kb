@@ -1,0 +1,87 @@
+【项目】KLING 4 VS SEEDANCE 2.5: 7 SCENES, SAME REFERENCES, SAME PROMPT（@alpius · 创作者博客）
+【链接】https://higgsfield.ai/@alpius/blogs/kling-4-vs-seedance-2-5-7-scenes-same-references-same-prompt
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+KLING 4 VS SEEDANCE 2.5: 7 SCENES, SAME REFERENCES, SAME PROMPT
+A
+@alpius
+24
+1
+0
+
+Kling 4 landed on Higgsfield today. At 720p it costs 0.5 credits a second. Seedance 2.5 costs 7. That's 5 credits for a 10 second clip against 70. So the obvious question: is the new one good enough to switch?
+
+I didn't want to answer from a few cherry-picked clips, so I ran the same kind of test I did for Genjutsu Lite. Seven scenes, both models, the same reference images, the same prompt word for word, 720p, one take each. Then I measured what I could measure and watched every pair side by side with each model's sound.
+
+Short version: Seedance 2.5 won all seven. Kling 4 is fourteen times cheaper and renders in five minutes, which makes it a drafting tool, not a replacement. The rest of this post is the evidence.
+
+What Kling 4 is on Higgsfield
+
+Kling 4.0 sits in the Video panel next to Seedance. It has four modes: text to video, Frames (a start frame and an optional end frame), References (up to seven images or Kling elements) and Edit video. Clips run 3 to 30 seconds at 720p or 1080p, in 16:9, 9:16, 21:9 or 1:1.
+
+Two things to know before you start:
+
+There is no sound switch. Kling 4 always renders sound. In my test it came back on every clip, ambience, foley and dialogue included.
+The price is a launch price. The UI shows the regular price struck through. I was charged exactly 0.5 credits a second at 720p (4, 5 and 6 credits for 8, 10 and 12 second clips). Expect that to go up.
+How I tested
+
+The rule: same inputs, so the model is the only thing that changes.
+
+Seven scenes, each with its own cast, each built to stress one thing: acting, action, a car stunt, a superpower, a fight, a slow atmospheric shot and dialogue.
+For every scene I made one set of references on Nano Banana Pro: a face lock on flat grey, a full outfit sheet built from that face, and a location plate. The car scene got a car sheet instead of a person.
+References mode on both models, the images attached in the same order, and the identical prompt. Prompts were written with my Seedance rules: one paragraph, every beat timed, every sound listed.
+720p, 16:9, the same length per scene. Seedance had sound on. Kling has no switch, so both had sound.
+One take each, no rerolls. Both models were submitted within seconds of each other, so they shared the same queue.
+I watched every pair side by side at full size, once with Seedance's sound and once with Kling's, and made the call myself.
+
+A note on honesty: my first pass also gave both models a composed start frame as an extra reference. I threw that pass out and reran everything with only the face, outfit and location, because that's how most people will use References. The first pass is archived in the project if you want to compare.
+
+The seven scenes
+01 The Letter: Seedance wins
+
+A woman reads a letter at dawn. Her composure breaks, she cries, then a small laugh comes through the tears. Seedance gave me real grief: the chin goes, the tears come, the hand goes to her mouth, and the picture is richer all round. Kling did the slow push-in and landed on a smile, but the emotion reads as acted and the face never gets there. On acting, this wasn't close.
+
+02 Rooftop Run: Seedance wins
+
+Sprint, vault an AC unit, leap a 2 metre gap between two roofs, shoulder roll, run on. I redid this scene with a new runner, a new rooftop plate and a high wide camera after the first version looked bad. Seedance kept real speed and weight through the run, even if the landing is scrappy. Kling turned the jump into a slow-motion moment I never asked for, and it kills the run. Seedance wins.
+
+03 Dock 180: Seedance wins
+
+A muscle car charges the camera on a wet dock and handbrakes a 180. Kling's car is huge, oversized for the dock, and the spin looks staged. Seedance kept the car at a believable size against the containers and the turn looks like a real car losing grip on wet concrete. Everything about the Seedance version is more real.
+
+04 Hold: Seedance wins
+
+A slab falls from a cracking ceiling, she stops it in mid-air, then throws it into a pillar. Both put the slab right on her palm instead of two metres above her, so neither followed that part. Beyond that, Seedance was far better: the walking push-in, the strain in her face and arm, the dust when the slab hits the pillar. Kling's camera barely moved and her face stayed calm.
+
+05 Laundromat Fight: Seedance wins
+
+Two fighters, close quarters, every hit has to land. Seedance did the whole fight in order: he slams the washer, she ducks, two shots to the ribs, the shove into the table, the elbow, the leg sweep and the mount. Kling stayed wide and mostly static, skipped the washer punch and the sweep, and ended with her boot on his chest instead of kneeling. An easy win. It also took Seedance 34 minutes to render.
+
+06 The Keeper: Seedance wins, narrowly
+
+The slowest scene: a keeper walks along a wall in fog, lights a storm lantern, and the lighthouse comes on behind him. This is the closest Kling got. Both lit the lantern on cue and both look good, and Kling even swept the beam through the fog as written. But Seedance's keeper, light and texture look more like a real photograph. Seedance, narrowly.
+
+07 Night Counter: Seedance wins
+
+A diner cook delivers three lines to a customer off screen. Both models said all three lines word for word, so Kling 4's dialogue does work. That's where the good news ends: Kling's face and hands have issues and the delivery is wooden. Seedance's cook reads as a tired person at 2 a.m., with tighter lip sync and the small two-finger tap on the counter.
+
+What the numbers say
+Score. Seedance 7, Kling 0. The Keeper was the only close one.
+Speed. Kling finished every clip in 5 to 6 minutes. Seedance took 7 to 35 minutes in the same queue, and the fight and the parkour redo were the slowest.
+Format. Both returned 1280x720 at 24 fps with stereo sound, within a frame or two of the length I asked for.
+Sound. Kling always renders sound and mixes it about 5 to 8 dB louder. Both followed my sound lists closely; Seedance added a shout in 04 and Kling a counter slap in 07.
+Cost. All seven Kling clips cost 35 credits. All seven Seedance clips cost 490.
+Which model for which job
+
+My rule after today: publish on Seedance 2.5. Use Kling 4 for what it is good at right now: cheap, fast drafts. At 5 credits a clip it is a great way to test a prompt or a set of references before you spend 70 on the real render. For anything an audience will see, every scene in this test went to Seedance.
+
+Limits of this test
+
+One take per model per scene, so these are seven data points, not a law, and a reroll could change the close one (06). I tested 720p only, and Kling's price is a launch price. I also ran an AI reviewer over these pairs blind, and it scored several of them for Kling. Watching them myself at full size, I disagree: it missed the oversized car, the slow-motion jump and the acting. The verdicts here are mine.
+
+Try it yourself
+
+Every prompt and reference is open in the project, with both renders and a side by side for each scene: Kling 4 vs Seedance 2.5: 7 Scenes. Remix any scene and tell me what you get in the Discord.

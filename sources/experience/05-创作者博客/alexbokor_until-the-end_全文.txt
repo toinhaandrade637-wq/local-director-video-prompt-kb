@@ -1,0 +1,488 @@
+【项目】UNTIL THE END（@alexbokor · 创作者博客）
+【链接】https://higgsfield.ai/@alexbokor/blogs/until-the-end
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+UNTIL THE END
+Alex Bokor
+@alexbokor
+16
+1
+0
+
+Last time, the dog survived and I was the one who turned. This time I wanted to break your heart from the other side.
+
+
+
+
+Meet Bubu again. Same tiny chihuahua, same oversized jacket, a little more beaten up this time. And meet Dudu, the girl he loves. She has a pink bow, a pink hoodie and denim overalls with one strap always falling off her shoulder. She also has milky white eyes now, because the world ended and she didn't make it.
+
+
+
+
+The whole story is one choice. He has the rifle. She is coming. And instead of pulling the trigger, he drops it and opens his arms.
+
+
+
+
+Everything was made in Higgsfield: the characters and locations with its image models, the motion with Seedance 2.5. The film is two generations: one for the present, one for the memory. Below are both prompts, plus what I learned making them.
+
+
+
+
+How to use them: every prompt lists its references as @image1, @image2 and so on. Attach your images in exactly that order.
+
+
+
+
+Part 1 — The present (18s)
+
+This is the slow, heavy half. It opens on her face, and for a second she almost looks like herself: head tilted, bow crooked, sweet. Then her lip curls and she growls. That switch is the whole hook.
+
+
+
+
+Bubu gets the hardest acting in the film. He is hurt, shaking, crying, trying to aim a rifle that is almost as tall as he is. Then the wide shot, the one I borrowed from the original trend: a tiny figure between two dead towers, the rifle sliding out of his paws, and his arms slowly opening. A close-up of his eyes closing. She charges straight at the camera. Side view, she leaps.
+
+
+
+
+The trick is the match cut. The cut happens inside the same generation, at the exact frame her paws touch his chest, with the exact same framing on both sides. One frame it's a zombie attack. The next frame it's the same jump, years earlier, ending in his arms in a wheat field. Generating both sides of the cut together is what keeps the poses lined up.
+
+
+
+
+A lighting note from the first film: keep the sun to the side. Backlight looks epic, but you lose the faces, and here the faces are everything.
+
+
+
+
+@image1 — Dudu (zombie)
+@image2 — Bubu (soldier)
+@image3 — The rifle
+@image4 — The dead city
+@image5 — Dudu (before)
+@image6 — Bubu (before)
+@image7 — The wheat field
+
+SCENE CONTEXT
+
+In a dead, overgrown city at golden hour, a small wounded chihuahua soldier aims an old rifle at the girl he loves, who has turned into a zombie. He cannot shoot. He drops the rifle, opens his arms and closes his eyes as she charges and leaps at him. At the exact moment she reaches him, the image match-cuts into a golden wheat field in the past, where the same leap ends with her landing happily in his arms.
+
+
+
+
+AUDIO PRIORITY
+
+Absolutely no music. No score, no soundtrack, no melody, no humming, no musical stings. Only real diegetic sound. No dialogue, no words, no subtitles.
+
+
+
+
+ACTIVE REFERENCES
+
+@Image 1: small adult female chihuahua turned zombie, standing and moving upright on two legs like a little human, never on four legs. Milky white-blue cloudy eyes with no pupils, dull dusty greyish cream fur, faded pink satin bow on her head, faded pink hoodie with a small white heart, light denim overall shorts with one strap hanging loose, heart socks, dirty white sneakers with pink laces. No blood, no wounds. 100% matches the reference.
+
+@Image 2: small adult male chihuahua survivor, standing upright on two legs like a little human, never on four legs. Tan short coat, big wet dark brown eyes, ears lowered, small notch in the left ear, a small healing scabbed cut on top of his head, worn olive field jacket, rust sweater, faded red bandana, cracked goggles around his neck, small backpack with a grey blanket roll, bandaged right paw, tan cargo shorts, grey wool socks, muddy boots. Exhausted, hurt, heartbroken. 100% matches the reference.
+
+@Image 3: old bolt-action rifle with worn brown wooden stock, rusted barrel, olive cloth wrap at the grip, olive canvas sling. Long and heavy, almost as long as @Image 2 is tall. 100% matches the reference.
+
+@Image 4: the overgrown intersection between two dark ivy-covered glass towers, pale cracked asphalt with weeds and debris, the low sun between the towers. Used for geography, materials and light, not for camera angle.
+
+@Image 5: the same girl chihuahua before the end of the world, healthy and happy, clean cream fur, glossy brown eyes, fresh pink satin bow, clean pink hoodie with a white heart, denim overall shorts with one strap loose, heart socks, white sneakers with pink laces. 100% matches the reference.
+
+@Image 6: the same boy chihuahua before the end of the world, healthy and happy, clean fawn fur, upright ears, sky-blue cap with his ears through it, sky-blue hoodie with a white star, denim overall shorts, star socks, white sneakers with blue laces. 100% matches the reference.
+
+@Image 7: an endless golden wheat field at sunset with a soft line of trees on the horizon. Used for geography, materials and light, not for camera angle.
+
+
+
+
+LOCATION MAP
+
+Present, inside @Image 4: @Image 1 and @Image 2 stand 5 meters apart on the sunlit cracked asphalt of the intersection, facing each other on one straight line. The low sun comes from a side street perpendicular to that line, so both are lit from the side: half of each face warm gold, half in soft shadow. Faces always readable, never a black silhouette.
+
+Flashback, inside @Image 7: @Image 6 and @Image 5 are in the same positions and the same screen directions as in the present, standing in waist-high golden wheat, the sun low behind them.
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+The first visible frame is already a close-up of @Image 1's face. No empty establishing frame, no delayed reveal.
+
+In every shot only the two chihuahuas exist. No other people, no other animals, no duplicates. Both always stand and move upright on two legs.
+
+
+
+
+FORMAT MODE
+
+Controlled multi-shot sequence, seven shots, HARD CUTS, and one MATCH CUT at 0:15.8. Real-time motion. The present is slow, heavy and dramatic; the match cut lands exactly on the moment of contact. No fades, no dissolves, no other transition effects.
+
+
+
+
+OPTICS AND CAMERA
+
+
+
+
+SHOT A, 0:00 to 0:03 — 18° classic telephoto close-up.
+
+Camera 6 meters in front of @Image 1 at her eye height, about 40 cm above the asphalt. Her face fills the vertical frame from the bow to the chin, razor focus on her cloudy eyes, background compressed into a soft green-gold wash of ivy and haze. Camera almost still, faint handheld breath.
+
+
+
+
+SHOT B, 0:03 to 0:06.5 — 29° short telephoto portrait.
+
+Camera 4 meters in front of @Image 2 at his eye height, slightly off his aim line so the barrel points just past camera-left toward Dudu. Framed from the waist up in the center of the vertical frame, @Image 3 pressed into his small shoulder. Side sun on one half of his face catches the tears. Background soft and compressed.
+
+
+
+
+SHOT C, 0:06.5 to 0:10 — 84° classic wide, frontal, low.
+
+Camera 4 meters in front of @Image 2, low at 60 cm, looking slightly up. He is small and alone in the center of the vertical frame, full body, the two ivy-covered towers rising high on both sides to the top of the frame, dust floating in the side light. Deep edge-to-edge focus, straight lines stay straight. Camera static.
+
+
+
+
+SHOT D, 0:10 to 0:12 — 18° classic telephoto extreme close-up.
+
+Camera 6 meters away at his eye height, tight on his eyes and muzzle only, background fully dissolved into warm bokeh.
+
+
+
+
+SHOT E, 0:12 to 0:14 — 47° standard normal, frontal.
+
+Camera low at 50 cm, directly in front of @Image 1 on her running line, so she runs straight toward the lens. She starts full body in the midground and fills the frame as she arrives. Camera static, she comes to it.
+
+
+
+
+SHOT F, 0:14 to 0:15.8 — 84° classic wide, side profile.
+
+Camera at 60 cm height, 4 meters to the side, perpendicular to the line between them, sun behind them in the gap of the towers. @Image 2 stands on screen-right facing left with arms open; @Image 1 runs in from screen-left. Both full body in the vertical frame. Camera static.
+
+
+
+
+SHOT G, 0:15.8 to 0:18 — 84° classic wide, side profile, exactly the same framing as Shot F.
+
+Same camera height, distance and side, now inside @Image 7. @Image 6 on screen-right facing left with arms open; @Image 5 in mid-leap from screen-left, in the exact same pose, position and size as Dudu in the last frame of Shot F. Golden wheat fills the lower part of the vertical frame, sunset sky above. Camera static, then a slight handheld drift down as they fall.
+
+
+
+
+ACTION TIMING
+
+
+
+
+0:00 to 0:03 — SHOT A
+
+@Image 1 stands still and looks almost sweet: head tilted to one side, cloudy eyes soft, bow crooked, mouth closed. At 0:01.8 her expression turns: her upper lip curls back, she snarls with small bared teeth, nose wrinkling, a low growl, her head lowering.
+
+
+
+
+0:03 to 0:06.5 — SHOT B, HARD CUT
+
+@Image 2 holds @Image 3 aimed at her with both front paws, the long barrel wobbling from its weight and from his shaking. Tears roll down his dusty cheeks. Short broken breaths, lower lip trembling, lowered ears pressed back. He is visibly hurt and exhausted, barely standing. He blinks slowly and re-aims, struggling.
+
+
+
+
+0:06.5 to 0:10 — SHOT C, HARD CUT
+
+Still small between the towers, his paws give up. At 0:07.5 @Image 3 slips out of his grip and drops onto the asphalt at his boots with real weight, bouncing once. He sways, gives up, and at 0:08.5 slowly opens both arms wide to the sides, paws open, chest exposed, waiting for her.
+
+
+
+
+0:10 to 0:12 — SHOT D, HARD CUT
+
+His eyes slowly close. A single tear slides from the corner of one eye down through the dust on his fur. His breath stills.
+
+
+
+
+0:12 to 0:14 — SHOT E, HARD CUT
+
+@Image 1, aggressive, snarling, sprints straight at the camera on two legs, fast, ears back, bow bouncing, sneakers slapping the asphalt, getting bigger in frame with every stride.
+
+
+
+
+0:14 to 0:15.8 — SHOT F, HARD CUT
+
+Side view: @Image 2 stands with arms still open and eyes closed. @Image 1 runs in from screen-left and at 0:15.2 leaps at him, her front paws reaching toward his chest. At 0:15.8, the exact instant her paws touch his chest, MATCH CUT.
+
+
+
+
+0:15.8 to 0:18 — SHOT G, MATCH CUT
+
+The same leap continues in the past: @Image 5, healthy and laughing, lands in the open arms of @Image 6, who catches her against his chest. His eyes open and he smiles. The momentum carries them both backward and they fall together softly into the golden wheat, disappearing into the stalks, wheat swaying and golden pollen bursting up into the sunlight. Hold on the moving wheat until 0:18.
+
+
+
+
+PHYSICS
+
+The rifle is heavy for Bubu: the barrel sags, his arms strain, and it lands on the asphalt with real weight. Both chihuahuas move like small humans on two legs with real ground contact: Dudu's sprint has real stride and push-off, her leap real takeoff and airtime; Bubu absorbs the catch with real weight, staggering back. Clothing, ears, bow and backpack react with natural delay. In the wheat, stalks bend and spring back, seeds and pollen lift and drift in the light.
+
+
+
+
+LIGHTING
+
+Present: low golden sun from the side, perpendicular to the line between the two, hard contrast, deep teal-green shadows, warm orange highlights, long sideways shadows, glowing dust, soft horizontal flare when the sun is in frame. Faces always readable, no silhouette, no flat front light, no night.
+
+Flashback: warm golden sunset backlight, soft glowing rim on fur and wheat, everything bright and warm.
+
+
+
+
+LOOK
+
+Present: dramatic survival drama, large-format film texture, gritty fine grain, slightly lowered contrast, muted moss green, rust and concrete with gold highlights.
+
+Flashback: fairytale memory, dreamy soft halation and bloom on every highlight, hazy lifted blacks, soft focus toward the frame edges, clearly visible film noise and grain, gentle warm light leaks, pastel-warm golden colors.
+
+Real fur, real fabric, not CGI, not a game engine.
+
+
+
+
+AUDIO
+
+No music. Present: wind through the towers, rustling ivy, distant birds, Dudu's low growl and snarl, Bubu's shaky breaths and quiet whimpers, the heavy clatter of the rifle at 0:07.5, Dudu's fast running steps. At the match cut the sound changes instantly to the flashback: soft summer wind in the wheat, a happy little yip from Dudu, the rustle and soft thump as they fall into the wheat.
+
+
+
+
+POSITIVE CONSTRAINTS
+
+Both chihuahuas always upright on two legs, never on four legs. @Image 1 and @Image 2 match their references exactly in the present; @Image 5 and @Image 6 match their references exactly in the flashback. No bite, no blood, no gore, no wounds beyond the ones in the reference — the cut happens before any harm. Same screen direction across Shots F and G. Plain unbranded props, no text, no logos, no license plates. Stable picture, no ghosting, no flicker. No music.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+Part 2 — The memory (10s)
+
+My first version had them running and dancing through the wheat. It was cute and it felt like nothing. So I cut it down to ten seconds of stillness.
+
+
+
+
+They lie in the wheat after the fall. He looks up at her, she looks down at him, shy, then back. He touches her cheek like he's trying to memorize it, and she rests her forehead on his. Then the last shot: the two of them sitting in the sunset, her head on his shoulder.
+
+
+
+
+The most important line in this prompt isn't about the camera. It's the human performance lock. They have to move and act like a real couple, not like pets. And the audio note matters more than you'd think: no laughing, no little yips, no childlike sounds. Just wind and breathing. It makes them feel grown up, and it makes it hurt.
+
+
+
+
+For the look I went full memory: vintage anamorphic glass, heavy diffusion, milky blacks, visible grain and light leaks, everything glowing.
+
+
+
+
+@image1 — Bubu (before)
+@image2 — Dudu (before)
+@image3 — The wheat field
+
+SCENE CONTEXT
+
+A golden summer memory filmed like a romantic feature film. Two small chihuahuas who move, act and love exactly like a young human couple lie in a wheat field after falling into it and share a quiet, deeply tender moment, then sit together in the sunset, her head on his shoulder. Deeply in love, emotional, bittersweet.
+
+
+
+
+AUDIO PRIORITY
+
+Absolutely no music. No score, no soundtrack, no melody, no humming, no musical stings. Only real diegetic sound. No dialogue, no words, no subtitles.
+
+
+
+
+ACTIVE REFERENCES
+
+@Image 1: small adult male chihuahua with the body language of a young man in love. Clean fawn fur, big glossy dark brown eyes, upright ears, sky-blue cap worn slightly tilted with his ears through it, sky-blue hoodie with a white star, light denim overall shorts, white socks with blue stars, white sneakers with blue laces. 100% matches the reference.
+
+@Image 2: small adult female chihuahua with the body language of a young woman in love. Clean cream fur, big glossy dark brown eyes, pink satin bow on her head, pink hoodie with a small white heart, light denim overall shorts with one strap hanging loose, white socks with pink hearts, white sneakers with pink laces. 100% matches the reference.
+
+@Image 3: an endless golden wheat field at sunset with a soft line of trees on the horizon. Used for geography, materials and light, not for camera angle.
+
+
+
+
+HUMAN PERFORMANCE LOCK
+
+Both chihuahuas move exactly like real humans in every shot: human lying and sitting postures, human shoulders, human hand gestures with their front paws used as hands — touching a face, wrapping an arm around each other, resting foreheads together, leaning a head on a shoulder. They never walk on four legs, never act like pets, never sniff, never wag excitedly. Their faces carry real, subtle human acting: soft eyes, small smiles, glances, shy looks away and back, eyes closing into a touch. The love feels normal, quiet and real, like two people.
+
+
+
+
+LOCATION MAP
+
+Everything happens inside @Image 3, in waist-high ripe golden wheat. The low sun sits just above the horizon behind them, so they are backlit with glowing golden rims. The field is full and unbroken, no path, no road.
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+The first visible frame is already both of them lying in flattened wheat: @Image 1 on his back, @Image 2 lying on top of him, her forearms resting on his chest, faces close, both breathless, smiling softly. No empty frame, no delayed reveal.
+
+Only these two characters in every shot. No other people, no other animals, no duplicates.
+
+
+
+
+FORMAT MODE
+
+Controlled multi-shot sequence, five shots, slow tender HARD CUTS, the last shot held longer. Real-time motion with a slightly floating, dreamlike handheld feel; the final shot gently slows to half-speed. No fades, no dissolves, no transition effects.
+
+
+
+
+OPTICS AND CAMERA
+
+
+
+
+SHOT A, 0:00 to 0:01.5 — 47° standard normal, top-down.
+
+Camera directly above them at 1.5 meters, slow gentle clockwise drift. Both in the center of the vertical frame, a ring of out-of-focus golden wheat stalks in the foreground edges framing them.
+
+
+
+
+SHOT B, 0:01.5 to 0:02.8 — 29° short telephoto close-up over her shoulder.
+
+Camera behind and above @Image 2's shoulder, her soft out-of-focus ear and bow in the foreground edge, looking down at @Image 1's face, which is sharp in the center of the frame, wheat melting into creamy bokeh around his head.
+
+
+
+
+SHOT C, 0:02.8 to 0:04.1 — 29° short telephoto close-up over his shoulder.
+
+Reverse angle: camera low behind @Image 1's shoulder, looking up at @Image 2's face, sharp against the glowing sunset sky, the sun flaring softly behind her head, a blur of his cap in the foreground edge.
+
+
+
+
+SHOT D, 0:04.1 to 0:06.3 — 18° classic telephoto extreme close two-shot, side profile.
+
+Camera at ground level beside them, 6 meters away, their two faces in profile filling the vertical frame, Bubu lower, Dudu above, a few blurred wheat stalks crossing the foreground, background dissolved into golden light.
+
+
+
+
+SHOT E, 0:06.3 to 0:10 — 84° classic wide, backlit, static.
+
+Camera low in the wheat behind them, 4 meters away. Both sitting side by side in the wheat in the lower third of the vertical frame, seen from behind and slightly to the side, the huge golden sunset sky above them, the sun just touching the horizon line.
+
+
+
+
+ACTION TIMING
+
+
+
+
+0:00 to 0:01.5 — SHOT A
+
+They lie in the flattened wheat after the fall, catching their breath, chests rising and falling, the last of a silent smile on both faces. @Image 2 props herself up on her forearms on his chest; @Image 1 lies back with one arm loosely around her waist like a man holding his girlfriend. Golden pollen still drifts down around them.
+
+
+
+
+0:01.5 to 0:02.8 — SHOT B, HARD CUT
+
+@Image 1's smile softens into something deeper. He looks up at her the way someone looks at the person they love, eyes shining, a little in awe.
+
+
+
+
+0:02.8 to 0:04.1 — SHOT C, HARD CUT
+
+@Image 2 looks down at him, a little shy, glances away for a second, then back at him with a warm smile and glistening eyes, a loose strand of fur moving in the breeze.
+
+
+
+
+0:04.1 to 0:06.3 — SHOT D, HARD CUT
+
+@Image 1 slowly raises one paw like a hand and gently strokes her cheek with the back of his fingers, as if he wants to remember her face. She closes her eyes and leans her face into his paw, then slowly lowers her forehead until it rests against his. They stay like that, eyes closed, breathing together.
+
+
+
+
+0:06.3 to 0:10 — SHOT E, HARD CUT
+
+They sit side by side in the wheat like two people watching the sunset, knees pulled up. @Image 2 slowly leans her head onto @Image 1's shoulder; he puts his arm around her and rests his cheek on the top of her head next to her bow. She closes her eyes. From 0:08 the moment gently slows to half-speed. Hold, still, warm and a little sad, until 0:10.
+
+
+
+
+PHYSICS
+
+Wheat stalks bend and spring back with real weight, seeds and pollen drift slowly through the light. Human body mechanics on both: real weight when she rests on his chest, real weight when she leans on him, slow natural breathing. Fur, ears, bow, cap brim and hoodie fabric react to wind and motion with natural delay.
+
+
+
+
+LIGHTING
+
+Warm low golden sunset behind them, strong soft backlight, glowing golden rim on fur, ears, bow and wheat tips, gentle warm bounce from the wheat onto their faces so every expression stays readable, sun flares drifting through the frame, glowing pollen in the air. No night, no flat light.
+
+
+
+
+LOOK
+
+Dreamy romantic feature film, like a memory: vintage anamorphic lens character with oval bokeh, soft horizontal flares and gentle edge falloff, heavy soft diffusion so every highlight blooms into a warm halation, very shallow depth of field, hazy lifted milky blacks, clearly visible film noise and grain over the whole image, gentle warm orange light leaks drifting at the edges. Pastel-warm golden palette of honey, amber, peach, soft pink and sky blue. Floating, intimate, breathing handheld camera. Real fur, real fabric, not CGI.
+
+
+
+
+AUDIO
+
+No music. Only soft summer wind in the wheat, gently rustling stalks, very distant birds, quiet adult breathing and soft fabric rustle. No laughter, no giggles, no yips, no whimpers, no squeaks, no childlike or baby-like sounds, no voices of any kind. Calm and intimate.
+
+
+
+
+POSITIVE CONSTRAINTS
+
+Both chihuahuas move and act exactly like a human couple in every shot, always upright, never on four legs, never pet-like. @Image 1 and @Image 2 match their references exactly in every shot, same outfits in every shot. No other characters. Plain unbranded clothes and props, no text, no logos. Stable picture, no ghosting, no flicker. No music.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+That's it
+
+Two generations, one choice. If you make your own version, keep the open arms. That's the whole film.
+
+Contents
+Part 1 — The present (18s)
+Part 2 — The memory (10s)
+That's it

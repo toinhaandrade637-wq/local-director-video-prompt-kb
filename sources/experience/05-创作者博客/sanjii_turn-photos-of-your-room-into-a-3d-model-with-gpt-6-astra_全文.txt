@@ -1,0 +1,175 @@
+【项目】TURN PHOTOS OF YOUR ROOM INTO A 3D MODEL WITH GPT-6 ASTRA（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/turn-photos-of-your-room-into-a-3d-model-with-gpt-6-astra
+【提示词块】3
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+TURN PHOTOS OF YOUR ROOM INTO A 3D MODEL WITH GPT-6 ASTRA
+@sanjii
+51
+0
+0
+
+I uploaded a few photos of my studio, and GPT-6 Astra turned them into a detailed 3D model of the space. It worked out the layout from the photos and recreated the studio in Blender through Higgsfield MCP.
+
+
+
+
+See the studio reconstruction.
+
+
+
+
+Seeing a familiar room recreated in 3D immediately gives you ideas. What if the desk moved to the other wall? Would different furniture make the space feel more open? What would warmer lighting do to the room at night?
+
+That is where I would take this next: three different versions of the same space, each exploring a different direction.
+
+
+
+
+You could start with your bedroom, your office, or that room you have been meaning to redesign. The photos give you a starting point. Then you can work through the possibilities.
+
+Before You Start
+
+Choose one room and gather photos that show it from several angles. Include the corners, doors, windows, and major pieces of furniture. Overlapping views help establish where things sit in relation to each other.
+
+
+
+
+If you know the room dimensions or the size of a large object, include those measurements. Photos give visual context; measurements give the model a reliable scale. Ask Astra to flag anything it has to estimate, especially areas the photos do not show.
+
+
+
+
+Use Astra with Higgsfield MCP and access to its 3D tools. To work directly in an open desktop Blender scene, follow Higgsfield’s Blender Bridge setup guide.
+
+The prompts below are suggested starting points written for this guide. Adapt them to your photos and the changes you want to explore.
+
+Step 1 — Recreate the Room You Have
+
+Start with the current space. Getting the walls, openings, and main furniture in the right places gives every later version a useful baseline.
+
+Build the Base Model
+
+What it does: Asks Astra to use your photos as references for an editable Blender scene, while keeping visible details and estimated dimensions distinguishable.
+
+Use the attached photos to recreate this room as an editable 3D scene in Blender through the available Higgsfield MCP tools.
+
+
+
+
+First, identify the room layout, doors, windows, major furniture, visible materials, and light sources. Use any measurements I provide to establish scale. List uncertain dimensions and areas hidden from view; keep assumptions explicit.
+
+
+
+
+Build the room structure and place the main furniture before adding smaller details. Match the existing layout and proportions as closely as the references allow. Keep the room structure, furniture, and lighting organized as separate editable objects or collections.
+
+
+
+
+Create an overhead view and two interior views that help me compare the model with the photos. Save this version as Original Room, and summarize any assumptions I should check before we redesign it.
+
+See all
+Copy prompt
+Recreate
+
+Review the base model before moving on. If a window is misplaced or a desk looks too large, correct it here so the same mistake does not carry into every alternative.
+
+Step 2 — Try Three Different Versions
+
+Give each version a clear purpose. One can explore a better arrangement of what you already own. Another can introduce different furniture. A third can focus on the atmosphere created by lighting and materials.
+
+
+
+
+Keeping the room structure fixed makes the comparison more useful: you are exploring what could change inside your actual space.
+
+Create Three Design Directions
+
+What it does: Requests three separate alternatives built from the same base model, with consistent views for comparison.
+
+Starting from Original Room, create three separate design versions. Preserve the original model. Keep the room dimensions, walls, doors, and windows unchanged in all three versions.
+
+
+
+
+Version 1 — Rethink the Layout
+
+Use the existing furniture. Explore a different arrangement that improves movement through the room and makes better use of the available space.
+
+
+
+
+Version 2 — Try Different Furniture
+
+Explore a coordinated set of alternative furniture, including different shapes, sizes, and storage options. Keep everything proportionate to the room. Treat new pieces as design concepts unless I supply specific products and dimensions.
+
+
+
+
+Version 3 — Change the Atmosphere
+
+Keep the original furniture arrangement. Explore warmer evening lighting, layered light sources, and a different combination of colors and materials.
+
+
+
+
+Keep door openings and circulation paths clear in every version. Present each design from the same overhead view and the same two interior camera positions. Use consistent lighting for Versions 1 and 2 so the layout and furniture changes are easy to compare. Show the lighting changes intentionally in Version 3.
+
+
+
+
+Label each version and explain its main changes and tradeoffs.
+
+See all
+Copy prompt
+Recreate
+
+Look at how each version supports the way you use the room. In an office, that might mean a more comfortable desk position and accessible storage. In a bedroom, it might mean more space around the bed and softer evening light.
+
+Step 3 — Refine the Version You Prefer
+
+You may like the layout from one version and the lighting from another. Use those preferences to give Astra a more specific direction for the next pass.
+
+Combine Your Favorite Ideas
+
+What it does: Builds a new revision from selected features while preserving the earlier options.
+
+Create a new revision that combines the layout from Version 1 with the lighting and material direction from Version 3. Keep the earlier versions available for comparison.
+
+
+
+
+Preserve the room dimensions, doors, and windows. Check that furniture remains proportionate, does not overlap, and leaves usable circulation paths.
+
+
+
+
+Show the updated room from the same overhead and interior camera positions used previously. Include a daytime view and an evening view from one matching camera position.
+
+
+
+
+Summarize what changed. Flag any estimated furniture sizes or clearances that I should measure in the real room. Save the editable Blender scene and provide preview images if the connected tools support those outputs.
+
+See all
+Copy prompt
+Recreate
+
+Change the version numbers and preferences to match your choices. Specific feedback—“keep the desk here,” “reduce the size of the shelving,” or “make the evening light softer”—gives the next revision a clear target.
+
+Start With Your Own Space
+
+A few photos can be the beginning of a much more useful design conversation. Recreate the room, explore three directions, and keep refining the ideas that fit how you want to live or work in it.
+
+
+
+
+Before buying furniture, check the relevant dimensions in the real room. The model helps you explore; those measurements help you decide what will fit.
+
+
+
+
+Your bedroom, your office, that room you keep putting off. Pick one and see where you would take it.

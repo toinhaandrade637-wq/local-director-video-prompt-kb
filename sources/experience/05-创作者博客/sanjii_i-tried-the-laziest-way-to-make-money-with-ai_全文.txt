@@ -1,0 +1,389 @@
+【项目】I TRIED THE LAZIEST WAY TO MAKE MONEY WITH AI（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/i-tried-the-laziest-way-to-make-money-with-ai
+【提示词块】17
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+I TRIED THE LAZIEST WAY TO MAKE MONEY WITH AI
+@sanjii
+1.4K
+6
+1
+Before You Start
+
+This is the full prompt library from our 7-day AI influencer experiment. Build the assets first: a profile, a character sheet and a location for each influencer. They show up in every clip, so building them once keeps the face and the world consistent from post to post.
+
+
+
+
+Claude Opus 5.5 writes the profiles, scripts and the digital product. The prompts below use Nano Banana Pro for character sheets and locations, Seedance 2.5 for the clips, and Higgsfield's audio tool for the voices. The Claude Skills write the scripts and the video prompts for you, so all you bring is the idea.
+
+content-engine.skill
+SKIL
+Stage 1 — The Assets
+Leo — Profile
+
+What it does: Writes a full character profile for a health influencer: name, backstory, look and unique selling point.
+
+Create a character profile for a fictional AI influencer in the health niche. Give them a name, a backstory, a distinctive appearance, and a unique selling point.
+
+Copy prompt
+Recreate
+Leo — Character Sheet
+
+What it does: Generates Leo on a white background from four angles, with real aged skin instead of an airbrushed look. This sheet becomes the @LEO element.
+
+Character reference sheet of Leo, a 104-year-old man from rural America, on a plain white seamless background. Four views of the same man in one image, evenly spaced: full-body front view, full-body three-quarter view, full-body side profile, and a head-and-shoulders close-up.
+
+
+
+
+Appearance: very old but upright and wiry, clean-shaven head with age spots, a long white beard reaching mid-chest, bushy white eyebrows, deep-set pale blue eyes, deeply lined sun-weathered skin, loose skin on the neck, large work-worn hands with swollen knuckles.
+
+
+
+
+Wardrobe: faded blue chambray work shirt with the sleeves rolled to the elbow, brown canvas suspenders, worn khaki work trousers, scuffed brown leather boots.
+
+
+
+
+Photography: realistic studio photo, soft even lighting, 85mm lens look, sharp focus, true-to-life color. Real skin texture with pores, deep wrinkles and age spots. No retouching, no skin smoothing, no text or labels.
+
+See all
+Copy prompt
+Recreate
+Leo — Location
+
+Leo — Location
+
+What it does: Generates Leo's farmhouse kitchen as an empty plate, which becomes @LEO_KITCHEN. Swap the first sentence to build his porch, vegetable garden and yard in the same style.
+
+Empty farmhouse kitchen in rural America in the early morning, no people. A worn wooden table in the center with a ceramic bowl of brown eggs and a jar of honey, a cast-iron pan on an old white enamel stove, open shelves lined with mason jars of dried herbs and pickled vegetables, bundles of herbs hanging from a ceiling beam, and a window above a deep farmhouse sink looking out onto a vegetable garden.
+
+
+
+
+Warm, soft daylight through the window, a little dust in the air. Lived-in details: scuffed floorboards, chipped paint, a folded linen towel. Realistic photo, natural color. Vertical 9:16 composition with open space in the center for a person to stand. No text, no people.
+
+See all
+Copy prompt
+Recreate
+Grandma Martha — Profile
+
+What it does: The same profile request for the wealth niche.
+
+Create a character profile for a fictional AI influencer in the wealth niche. Give them a name, a backstory, a distinctive appearance, and a unique selling point.
+
+Copy prompt
+Recreate
+Grandma Martha — Character Sheet
+
+Grandma Martha — Character Sheet
+
+What it does: Generates Martha's full look from four angles, with the sunglasses pushed up in the close-up so her face stays readable. This sheet becomes the @MARTHA element.
+
+Character reference sheet of Martha, a 72-year-old self-made millionaire, on a plain white seamless background. Four views of the same woman in one image, evenly spaced: full-body front view, full-body three-quarter view, full-body side profile, and a head-and-shoulders close-up.
+
+
+
+
+Appearance: slim and poised, a sleek chin-length silver bob, sculpted brows, a confident closed-lip smile, fine lines around the eyes and mouth, natural age spots on her hands, manicured red nails.
+
+
+
+
+Wardrobe: an oversized cream faux-fur coat worn open over a black silk blouse and tailored black wide-leg trousers, oversized tortoiseshell sunglasses (pushed up on her head in the close-up so her eyes show), stacked gold bracelets, a chunky gold chain necklace, pearl earrings, pointed black leather heels.
+
+
+
+
+Photography: realistic fashion-editorial studio photo, soft even lighting, 85mm lens look, true-to-life color. Real skin texture with pores and wrinkles. No retouching, no skin smoothing, no text or labels.
+
+See all
+Copy prompt
+Recreate
+Grandma Martha — Location
+
+Grandma Martha — Location
+
+What it does: Generates Martha's afternoon-tea terrace as an empty plate, which becomes @MARTHA_TERRACE. Swap the first sentence for a private jet cabin, a sports car interior or a grand drawing room.
+
+Empty stone terrace of a grand country estate in the late afternoon, no people. A marble balustrade, and a small round table set for afternoon tea: fine white porcelain cups, a silver teapot, a three-tier stand with scones, clotted cream and strawberry jam, and a single pink rose in a bud vase. An upholstered garden chair waits beside the table.
+
+
+
+
+Manicured lawns and clipped hedges behind, soft golden light, long shadows. Realistic luxury lifestyle photo, true-to-life color. Vertical 9:16 composition with the chair in the lower center for a seated person. No text, no people.
+
+See all
+Copy prompt
+Recreate
+Kira — Profile
+
+What it does: The same profile request for the relationships niche.
+
+Create a character profile for a fictional AI influencer in the relationships niche. Give them a name, a backstory, a distinctive appearance, and a unique selling point.
+
+Copy prompt
+Recreate
+Kira — Character Sheet
+
+Kira — Character Sheet
+
+What it does: Generates Kira from four angles with natural, unfiltered skin, so she reads as a real person in the feed. This sheet becomes the @KIRA element.
+
+Character reference sheet of Kira, a 24-year-old woman, on a plain white seamless background. Four views of the same woman in one image, evenly spaced: full-body front view, full-body three-quarter view, full-body side profile, and a head-and-shoulders close-up.
+
+
+
+
+Appearance: long dark-brown hair with soft curtain bangs, warm olive skin with a few natural freckles across the nose, dark brown eyes, subtle everyday makeup with glossy lips, thin gold hoop earrings.
+
+
+
+
+Wardrobe: an oversized cream knit sweater half-tucked into high-waisted light-wash straight jeans, clean white leather sneakers, a thin gold necklace.
+
+
+
+
+Photography: realistic, like a real person photographed for a casting call. Soft even lighting, 50mm lens look, true-to-life color. Natural skin texture with pores and fine peach fuzz. No retouching, no beauty filter, no text or labels.
+
+See all
+Copy prompt
+Recreate
+Kira — Location
+
+Kira — Location
+
+What it does: Generates Kira's living room as an empty plate, which becomes @KIRA_APARTMENT. Swap the first sentence for a café window seat or a bathroom mirror.
+
+Empty living room of a small, stylish city apartment in the evening, no people. A cream bouclé sofa with a few throw pillows and a chunky knit blanket, a low wooden coffee table with an iced coffee, an open laptop and a phone lying face down, a warm table lamp, a strand of fairy lights along the window, a few plants and framed prints on the wall.
+
+
+
+
+A large window shows blurred city lights outside. Warm lamp light mixed with the cool blue of the window. Realistic photo of a real, slightly messy, lived-in apartment. Vertical 9:16 composition with the sofa across the lower half. No text, no people.
+
+See all
+Copy prompt
+Recreate
+The Voices
+
+What it does: Paste each description into Higgsfield's audio section together with the character's image and a short test line, such as "Hi, my name is Martha."
+
+Leo
+
+A very old American man from the rural Midwest, over a hundred years old. Low, gravelly, slightly breathy voice with gentle warmth. Speaks slowly, with unhurried pauses, as if every sentence has been tested for decades. Calm, kind and a little amused. Close mic, quiet room, no music.
+
+Martha
+
+A glamorous 72-year-old American woman. Smooth, low, polished voice with a hint of rasp. Crisp, deliberate delivery with a small pause before the punchline, like she has already decided the answer. Confident, dry and amused, never rushed. Close mic, dry room, no music.
+
+Kira
+
+A 24-year-old American woman. Bright, clear voice with light vocal fry at the ends of sentences. Fast, casual, conversational pace, like she is telling her best friend what happened last night. Playful, a little dramatic, very expressive. Close mic, quiet room, no music.
+Stage 2 — The Prompting Framework
+Connect Higgsfield to Claude. In Higgsfield, click MCP and copy the link. In Claude, open Customize, go to Connectors, choose Add, then Add Custom Connector. Paste the link and click Add.
+Install the skills. In Claude, open Customize, choose Add, then Upload a skill, and drop the files in.
+Call a skill. Type a forward slash in the chat and pick the skill you need: content-engine for post ideas and scripts, video-prompt to turn a simple idea into a detailed video prompt, and digital-product for the workbook.
+Create the Elements. Save each character sheet and location from Stage 1 as an Element, named exactly as below. Every video prompt calls them by name.
+@LEO — Leo's character sheet
+@LEO_KITCHEN — Leo's farmhouse kitchen
+@MARTHA — Martha's character sheet
+@MARTHA_TERRACE — Martha's afternoon-tea terrace
+@KIRA — Kira's character sheet
+@KIRA_APARTMENT — Kira's living room
+
+Keep everything in the same Claude chat where you created the characters, so Claude always knows who it is writing for.
+
+video-prompt.skill
+SKIL
+Stage 3 — The Scenes
+Content Ideas
+
+What it does: Run it with the content-engine skill in your character's chat. It returns a numbered list of post ideas; pick your favorites and ask for scripts for them.
+
+Generate content ideas for Kira.
+
+Copy prompt
+Recreate
+Scene 1 — Kira: The 1 A.M. Text
+
+Style header: The first paragraph locks the look for every scene: a vertical phone-style video with natural light, a real room and real skin. Reuse it word for word in every clip. There's no music in any prompt; add it in the edit.
+
+What it does: Animates a silent reaction shot of Kira on her sofa, with clean space at the top for a caption you add in the editor, such as "when he texts 'wyd' at 1am".
+
+Vertical 9:16 video. It looks like a real creator filmed it on a phone: natural light, a real lived-in space, slight handheld movement, true-to-life color, real skin texture with pores. No music, no on-screen text, no subtitles.
+
+
+
+
+@KIRA in @KIRA_APARTMENT at night, curled up on the sofa in her oversized cream sweater, lit by the table lamp and her phone screen.
+
+0–3 s: she scrolls, bored. The phone buzzes and she glances at the screen.
+
+3–6 s: she reads it, pauses, slowly lowers the phone and stares straight into the camera, flat and unimpressed, one eyebrow raised.
+
+6–10 s: she exhales through her nose, turns the phone face down on the cushion and pulls the blanket up to her chin, trying not to smile.
+
+
+
+
+Static camera at sofa height, medium shot. Room tone only: the phone buzz and the rustle of fabric. Keep the top third of the frame clean for a text caption.
+
+See all
+Copy prompt
+Recreate
+Scene 2 — Kira: The Podcast Take
+
+What it does: Kira delivers one hot take at a podcast mic, built to start arguments in the comments.
+
+Vertical 9:16 video. It looks like a real creator filmed it on a phone: natural light, a real lived-in space, slight handheld movement, true-to-life color, real skin texture with pores. No music, no on-screen text, no subtitles.
+
+
+
+
+@KIRA at a small home podcast desk: a black broadcast microphone on a boom arm in front of her, over-ear headphones around her neck, grey acoustic foam panels and a shelf of plants behind her, a warm desk lamp.
+
+0–2 s: she leans toward the mic with her eyebrows up, like she is about to say something controversial.
+
+2–10 s: she looks into the camera and says, in a bright, casual voice with a little vocal fry: "If he only texts you after 11 p.m., that's not a situationship. That's a subscription, and you're the free trial."
+
+
+
+
+Performance: deadpan delivery, a small shrug on "free trial", then a tiny smile. Medium close-up from slightly off to the side, like a second podcast camera, with a very slow push-in. Room tone only.
+
+See all
+Copy prompt
+Recreate
+Scene 3 — Leo: Before Coffee
+
+What it does: Leo shares his morning habit in his kitchen, at his own slow pace.
+
+Vertical 9:16 video. It looks like a real creator filmed it on a phone: natural light, a real lived-in space, slight handheld movement, true-to-life color, real skin texture with pores. No music, no on-screen text, no subtitles.
+
+
+
+
+@LEO in @LEO_KITCHEN in the early morning, standing at the wooden table, pouring warm water from an old kettle into a glass jar with a slice of lemon.
+
+0–3 s: he pours slowly, steam rising through the window light.
+
+3–10 s: he looks up at the camera and says, in a slow, low, gravelly voice: "Before coffee, before the news, I drink one glass of warm water and step outside. Been doing it for ninety years."
+
+
+
+
+Performance: calm, a gentle half-smile, unhurried pauses between phrases. Medium shot at chest height, soft morning window light. Room tone: the kettle, birds outside.
+
+See all
+Copy prompt
+Recreate
+Scene 4 — Leo: Hands in the Dirt
+
+What it does: Leo pulls a carrot in his vegetable garden and delivers one simple rule for a long life.
+
+Vertical 9:16 video. It looks like a real creator filmed it on a phone: natural light, a real lived-in space, slight handheld movement, true-to-life color, real skin texture with pores. No music, no on-screen text, no subtitles.
+
+
+
+
+@LEO kneeling in his vegetable garden on a sunny morning: rows of tomato plants, green beans climbing wooden poles, a weathered wooden fence and a red barn softly out of focus behind him.
+
+0–3 s: he grips the leaves and pulls a carrot out of the soil, then brushes the dirt off with his thumb.
+
+3–10 s: he holds it up, looks at the camera and says, in a slow, low, gravelly voice: "You want to live long? Get your hands dirty every single day. The garden doesn't care how old you are."
+
+
+
+
+Performance: a quiet chuckle before the last line, soil on his fingers. Low-angle handheld shot at his eye level, warm sunlight, a gentle breeze moving the leaves. Room tone: birds, leaves rustling.
+
+See all
+Copy prompt
+Recreate
+Scene 5 — Martha: Rule Number One
+
+What it does: Martha stirs her tea, lowers her sunglasses and gives one money rule with full grandma authority.
+
+Vertical 9:16 video. It looks like a real creator filmed it on a phone: natural light, a real lived-in space, slight handheld movement, true-to-life color, real skin texture with pores. No music, no on-screen text, no subtitles.
+
+
+
+
+@MARTHA at @MARTHA_TERRACE, seated at the tea table in her cream faux-fur coat and tortoiseshell sunglasses, stirring her tea with a silver spoon.
+
+0–3 s: she stirs, taps the spoon twice on the rim of the cup, then slowly lowers her sunglasses and looks over them into the camera.
+
+3–10 s: she says, in a low, polished voice with a hint of rasp: "Three husbands taught me one thing, darling. Never spend money to impress people who wouldn't lend you a dime."
+
+
+
+
+Performance: unbothered and amused, a single raised eyebrow at the end, then a slow sip of tea. Medium close-up, golden-hour light. Room tone: porcelain clinks, distant birds.
+
+See all
+Copy prompt
+Recreate
+Leo — Profile Picture
+
+Leo — Profile Picture
+
+What it does: Generates a warm square portrait of Leo with a lamb, framed for Instagram's round profile crop.
+
+Portrait of @LEO sitting on the wooden steps of his farmhouse porch, holding a small white lamb in his arms and smiling softly at the camera. Morning sunlight, a red barn and green fields softly out of focus behind him.
+
+
+
+
+Square 1:1 framing with his head and chest centered, so the image survives a round profile-picture crop. Realistic photo, natural color, real aged skin with wrinkles and age spots, no retouching. No text.
+
+See all
+Copy prompt
+Recreate
+The Digital Product
+
+What it does: Run it with the digital-product skill. It suggests three product ideas and explains why someone would pay for each; reply with the one you want, for example "Build number one."
+
+digital-product.skill
+SKIL
+
+Create a workbook as a digital product for Leo.
+
+Copy prompt
+Recreate
+Ready To Make Your Own?
+
+Pick a niche you know well, let Claude write the character, then keep the whole chain in one chat: profile, ideas, scripts, product. Launch more than one character at a time. In our test, the account we almost wrote off ended up growing the fastest.
+
+READY TO MAKE YOUR OWN?
+Go!
+Contents
+Before You Start
+Stage 1 — The Assets
+Leo — Profile
+Leo — Character Sheet
+Leo — Location
+Grandma Martha — Profile
+Grandma Martha — Character Sheet
+Grandma Martha — Location
+Kira — Profile
+Kira — Character Sheet
+Kira — Location
+The Voices
+Stage 2 — The Prompting Framework
+Stage 3 — The Scenes
+Content Ideas
+Scene 1 — Kira: The 1 A.M. Text
+Scene 2 — Kira: The Podcast Take
+Scene 3 — Leo: Before Coffee
+Scene 4 — Leo: Hands in the Dirt
+Scene 5 — Martha: Rule Number One
+Leo — Profile Picture
+The Digital Product
+Ready To Make Your Own?
+ready to make your own?

@@ -1,0 +1,441 @@
+【项目】THE 180° EFFECT: MASTER AI CAMERA MOVEMENT WITH BLENDER（@uixmax · 创作者博客）
+【链接】https://higgsfield.ai/@uixmax/blogs/the-180-effect-master-ai-camera-movement-with-blender
+【提示词块】3
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+THE 180° EFFECT: MASTER AI CAMERA MOVEMENT WITH BLENDER
+U
+Max
+@uixmax
+57
+1
+1
+
+Hi there! 👋 Thank you so much for your support! Here are your promised tutorial! Have fun creating and don’t forget to experiment and tag me in your works. Before you begin, please leave a like and follow my Higgsfield profile ❤️.
+
+The previz (Pre-visualization) the process of creating rough moving sequences that show how a scene will be shot and edited before any real filming or final generation happens. 
+
+
+
+
+
+
+
+Create your own cinematic sofa transformation video with a 180° camera arc. This is a hands-on assignment: design your own room, character and outfits, build a simple Blender camera previz with ChatGPT, then animate the result in Seedance 2.5.
+
+
+
+
+Your goal is to recreate the CAMERA TECHNIQUE, not the original video's room, sofa, face or wardrobe. Make the visual concept yours.
+
+
+
+
+Workflow: ChatGPT Astra 6 + Higgsfield Plugin → Blender previz 
+→ Reference images → Seedance 2.5.
+
+
+
+
+What you'll need
+ChatGPT desktop app with Astra 6 and the Higgsfield plugin/integration enabled.
+Blender installed on your computer.
+Higgsfield access to Seedance 2.5.
+An image generator, such as GPT Image, to prepare a consistent starting frame and outfit references.
+Alternative: Claude can be used for the Blender workflow if you have a compatible Blender connection.
+
+
+
+
+Step 1 — Design your own starting frame
+
+
+
+
+Pick a character (yourself or a fictional model), a distinctive couch, room, lighting and a first outfit. Avoid copying the reference video's exact set design.
+
+
+
+
+Tip: Keep generating and refining your image until you're completely happy with the result.
+
+
+
+
+How to Customize This Prompt
+
+Everything inside [square brackets] should be replaced with your own details, including your character's appearance, outfit, interior design, furniture, lighting, and color palette.
+
+You can easily customize the prompt using ChatGPT Astra 6:
+Copy the entire prompt and paste it into ChatGPT Astra 6.
+Describe your preferred interior, character, and outfit, and ask Astra 6 to adapt the prompt to your vision.
+You can also attach reference images of interiors, outfits, or characters to help Astra 6 create a more accurate and personalized prompt.
+
+Important: Keep the original 90-degree overhead camera angle, full-body framing, and centered sofa composition unchanged. These are essential for the next steps of the tutorial.
+
+
+
+
+Recommended for the most realistic result: Generate your starting image in Higgsfield SOUL 2.0, using your own Character ID to maintain character identity. Alternative: Use GPT Image 2.5 with the highest available image-quality settings.
+
+
+
+
+Copy and customize this image prompt:
+
+A perfectly vertical, overhead 90-degree flat lay photograph presents a stylish [age]-year-old [gender], with [skin tone], [hair description], and [facial hair or other defining facial details if needed]. The subject lies flat on their back along the exact centerline of a large rectangular [sofa color] [sofa material] sofa, with their whole body—head to toe, including both shoes—entirely visible inside the frame. Their head is positioned toward the top edge and their feet toward the bottom, with the sofa fully centered both horizontally and vertically in the 9:16 composition.
+
+
+
+
+The sofa surface shows realistic material texture and soft tactile detail. The subject is wearing [describe outfit in full: outerwear, top, trousers, shoes, headwear, accessories]. The styling should feel intentional, fashion-forward, and visually coherent, but unique to this character. The subject rests both arms naturally folded across their chest, with their hands relaxed and comfortably positioned. Their gaze is directed upward toward the ceiling camera, with a [describe expression: neutral / thoughtful / relaxed / confident] expression.
+
+
+
+
+The environment should depict a cozy, lived-in, visually rich [interior style] apartment or home interior. The sofa rests on [rug description or no rug], placed over [floor material]. Around the sofa, arrange carefully styled real-world decor elements that frame the composition without intruding onto the main sofa silhouette: [describe surrounding objects such as side tables, lamps, books, plants, artwork, shelves, textiles, vintage objects, speakers, magazines, ceramics, etc.]. These props should create a believable and curated atmosphere while leaving the sofa footprint clearly readable from above.
+
+
+
+
+Lighting should feel natural and cinematic, with [time of day] light entering the room and mixing with [practical light sources if any]. The image should have rich but realistic shadow detail, soft contrast, natural skin rendering, and a subtle underexposed cinematic grade. Emphasize a tasteful palette built around [main color palette], with realistic material separation and no artificial color cast. Preserve natural textures in skin, fabric, wood, metal, and floor surfaces.
+
+
+
+
+The entire image must be captured in deep focus, with both subject and environment sharp and clearly readable. Add subtle organic film grain and premium photographic realism. The final result should feel like an authentic editorial lifestyle image with a strict 90-degree top-down composition, precise spacing, believable decor, and an immersive lived-in mood.
+
+
+
+
+Critical composition rules: perfectly overhead 90-degree camera angle, no tilt, no diagonal perspective, no side angle, no partial body crop, no missing feet, no missing shoes, no cropped sofa edges, and no objects overlapping the subject’s body in a distracting way.
+
+See all
+Copy prompt
+Recreate
+
+Check before continuing: You can see the sofa, the subject's body and enough surroundings for the planned camera movement.
+
+
+
+
+Step 2 — Create four character outfit sheets
+
+
+
+
+Tip: Generate as many variations of each character sheet as needed until you're happy with all four results.
+
+
+
+
+
+
+
+Create four separate three-panel character sheets, one for each outfit in your 12-second video. Keep the same character identity across all four. Only change the outfit descriptions and styling details. Every sheet must show a front full-body view, a back full-body view and a close-up portrait.
+
+
+
+
+Recommended generator: Higgsfield SOUL 2 with your own Character ID for highly realistic character consistency. Alternatives: GPT Image 2.5 or Seedream 5.0 Pro, using their highest available quality settings. When available, attach the same identity reference to all four generations.
+
+How to customize the prompt template
+
+Replace everything in [square brackets] with your own character and outfit details. You can paste this entire prompt into ChatGPT Astra 6, describe your desired looks, and ask it to fill in the placeholders while preserving the three-panel layout. You can also attach selfie, character, or clothing reference images. Reuse the same character description and studio settings for all four sheets.
+
+Copy and customize this character sheet prompt:
+
+A photorealistic fashion editorial triptych with a fixed three-column layout in one landscape 16:9 image. Three vertical photographs are placed side by side in a single horizontal row.
+
+The left photograph occupies 32% of the image and shows the character from the front, head to toe.
+
+The center photograph occupies 32% of the image and shows the same character from behind, head to toe.
+
+The right photograph occupies 36% of the image and shows a close-up portrait of the same character, from the top of the head or headwear to the upper chest.
+
+Each photograph fills its assigned column. The same outfit, neutral studio background, and soft lighting are consistent across all three photographs.
+
+
+
+
+Model: [Describe your character's age, gender, build, skin tone, facial features, hairstyle, facial hair if any, eyewear if any, and expression. If using Character ID or a reference selfie, preserve that person's identity exactly.] Natural facial asymmetry, visible pores, realistic skin and hair texture.
+
+
+
+
+Outfit: [Describe the complete outfit for THIS sheet in detail: outerwear, top or shirt, pants or skirt, shoes, headwear, jewelry, accessories, material textures, garment fit, silhouette, colors, details and any distinctive graphics. Make this outfit different from the other three looks.] Realistic garment construction, proportions, fabric weight, seams and natural folds. Every part of the outfit must match precisely across all three panels.
+
+
+
+
+Panel 1 — front view: Full body visible from the top of the head or headwear to the shoes, with modest headroom and visible floor beneath the feet. The character faces the camera squarely, looking directly into the lens. [Describe a simple relaxed hand position if desired.] Natural stance with feet slightly apart, showcasing the full outfit and accessories.
+
+
+
+
+Panel 2 — rear view: The exact same character stands directly facing away from the camera, framed at the same scale as the front view. Show the rear construction of [describe outerwear and other important outfit details], the back of the trousers or other lower garment, and both shoes. Hair and headwear remain consistent. Arms rest naturally and do not obscure the outfit.
+
+
+
+
+Panel 3 — close-up portrait: A sharply detailed straight-on crop from just above the head or headwear to the upper chest, emphasizing the same face, hair, [eyewear and headwear if used], natural skin texture, and the upper portion of [describe outfit]. Direct eye contact, relaxed facial muscles, [desired expression].
+
+
+
+
+Studio and lighting: A matte [neutral studio background color] seamless backdrop curving into a matching studio floor. Soft, broad, diffused studio lighting from the upper front-left, gentle natural shadows, restrained highlights and soft contact shadows around the feet. A clean, distraction-free editorial studio atmosphere.
+
+
+
+
+Visual treatment: High-end contemporary fashion lookbook photography. [Describe desired styling direction and color palette.] Realistic garment weight and material texture, natural portrait perspective, crisp details, restrained contrast and no excessive retouching.
+
+
+
+
+Final composition: front full-body on the left, rear full-body in the center, close-up portrait on the right. One row, three columns, only two full-body figures total.
+
+
+
+
+Neutral white-balanced color grading, soft diffused even studio lighting, natural skin texture, clean sharp image. No noise, no film grain, no haze, no text overlays, no watermark, no additional people, no duplicate figures, no props, no panel borders.
+
+See all
+Copy prompt
+Recreate
+Generate all four outfits
+
+Character sheet
+
+	
+
+Video timing
+
+	
+
+What to change
+
+
+
+
+Sheet 1
+
+	
+
+0–3 s
+
+	
+
+Outfit 1
+
+
+
+
+Sheet 2
+
+	
+
+3–6 s
+
+	
+
+Outfit 2
+
+
+
+
+Sheet 3
+
+	
+
+6–9 s
+
+	
+
+Outfit 3
+
+
+
+
+Sheet 4
+
+	
+
+9–12 s
+
+	
+
+Outfit 4
+
+
+
+
+Before continuing: Save four individual 16:9 character-sheet images. Verify the same face, hairstyle and proportions across every sheet, and check that the outfit matches between its front, back and portrait panels. Keep your starting scene and Blender previz ready for the next step.
+
+
+
+
+Step3 — Connect ChatGPT to the Blender workflow
+Install the desktop ChatGPT app and Blender 5.x.
+In the ChatGPT desktop app, open Plugins and connect the Higgsfield plugin.
+Select Astra 6 and open a new chat.
+Ask the assistant to check whether it can access Blender through the connected integration. Do not assume the connection is active until a tool call succeeds.
+
+First message to ChatGPT:
+
+Use the connected Higgsfield plugin to check whether Blender is available. Tell me what you can control. Do not create or render anything yet. If the integration cannot access Blender, explain exactly what is missing.
+
+
+
+
+If direct Blender access is unavailable, ask ChatGPT to produce a Blender Python script instead, and run that script in Blender's Scripting workspace. Claude is another alternative with a compatible Blender bridge.
+
+
+
+
+Step 4 — Build the camera previz in Blender
+
+The previz is deliberately simple: gray furniture, a red human-shaped placeholder, a floor and an animated camera. Its purpose is movement and timing, not visual quality.
+
+Copy this Blender prompt:
+
+Create a minimal Blender camera previs for a 12-second vertical 9:16 video at 24 fps, with 288 frames total.
+
+
+
+
+SCENE
+Use only a grey floor, a sofa made from two simple grey rectangular blocks, and a reclining person represented by one red rectangular body block and a sphere for the head. Position the body on the sofa, with the head at one end. No walls, anatomical details, clothing, decorations, textures, or bevels. Keep all scene geometry stationary.
+
+
+
+
+CAMERA PATH
+Create four consecutive 3-second camera passes.
+
+For each pass:
+— Start at the foot end of the sofa, with the camera lens 5 cm above the floor.
+— Follow a 180-degree vertical semicircle over the person, along the sofa’s longitudinal axis.
+— End at the head end, again 5 cm above the floor.
+— Use a 4.2-metre radius, with the semicircle’s centre 5 cm above the floor.
+— Keep the camera aimed at a fixed point at the centre of the subject, 0.85 metres above the floor.
+— Maintain continuous pitch through the overhead position, allowing the image to become inverted during the descent. Do not automatically level the horizon.
+— Use a fixed 43 mm lens. No sideways drift or horizontal orbit.
+
+
+
+
+SPEED AND TRANSITIONS
+Repeat this rhythm in every pass:
+fast entrance → smooth deceleration near the overhead view → acceleration into the exit.
+
+Never stop the camera during the visible pass. The next pass must begin immediately at speed, without an additional slowdown or pause at the transition.
+
+
+
+
+
+Each pass occupies 72 frames:
+— 71 visible frames travelling along the complete 180-degree arc.
+— One black frame hiding the camera reset to the starting position.
+
+Use black frames at 72, 144, 216, and 288. The reset between passes is intentional and must remain hidden. Do not animate a visible return journey beneath the floor.
+
+The four passes are placeholders for four future outfits. Do not model clothing or change the character’s appearance in Blender. Add timeline markers for the four passes.
+
+DELIVERY
+Check camera positions, clearance from geometry, identical timing across all four passes, and the exact 12-second duration.
+
+Save an editable .blend file for camera-preview approval. Do not render until I approve. After approval, export a vertical H.264 MP4 using Workbench at 1080 × 1920 and 24 fps.
+
+
+
+
+Review: Inspect the camera from the front, from above and through the camera view. If it stops short of 180°, ask ChatGPT to correct the end angle without changing anything else.
+
+
+
+
+Step 5 — Generate video in Seedance 2.5
+
+Tip: Start your test generations in Seedance 2.5 — 480 Draft mode to save credits. Keep testing and refining until you're happy with the result. Once you have a generation you like, click “Generate in 1080p” on that result to render the same generation in higher quality while preserving its composition, motion and details.
+
+
+
+
+
+
+
+Use the omni-reference workflow where supported. Upload the Blender previz as @Video1, the primary scene as @Image1, and four character/outfit references as @Image2 through @Image5. Check the platform's actual reference numbering before submitting.
+
+Copy and customize this video prompt:
+
+SCENE CONTEXT
+
+12-second ultra-realistic cinematic fashion video, vertical 9:16, four three-second visual beats in one consistent interior. One person lies on the same sofa while outfit and subtle physical actions change between beats.
+
+
+
+
+
+
+
+
+ACTIVE REFERENCES AND ROLES
+
+@Video 1 controls camera path, speed, blocking and the timing of every place change only. It is a grey previz: render everything fully photorealistic, nothing copied from its grey look.
+
+@Image 1 controls room design, sofa, lighting, colors and environmental details.
+
+@Image 2 controls character identity and outfit for 0–3 seconds.
+
+@Image3 controls the same character and outfit for 3–6 seconds.
+
+@Image4 controls the same character and outfit for 6–9 seconds.
+
+@Image5 controls the same character and outfit for 9–12 seconds.
+
+Keep one consistent person and room. Do not inherit static camera angles from the images.
+
+
+
+CAMERA
+
+Follow @Video1 precisely. In each three-second beat the camera travels through a complete smooth 180-degree vertical arc from near floor level on one side of the sofa, up over the lying person, then down to near floor level on the opposite side. Keep the movement in one vertical plane, with the subject as the visual anchor. No sideways drift, partial arcs, abrupt cuts or unexplained zooms.
+
+
+
+BEAT TIMELINE
+
+0.0–3.0s: Character in @Image 2. [Describe subtle action 1.]
+
+3.0–6.0s: Character in @Image3. [Describe subtle action 2.]
+
+6.0–9.0s: Character in @Image4. [Describe subtle action 3.]
+
+9.0–12.0s: Character in @Image5. [Describe subtle action 4.]
+
+
+
+VISUAL REALISM
+
+Physically believable human movement, realistic fabric folds and hair, coherent light and shadows, natural skin textures, realistic motion blur, subtle film grain. Preserve the room and sofa geometry across all beats.
+
+
+
+AUDIO
+
+Natural environmental sound only. No background music, subtitles or on-screen text.
+
+See all
+Copy prompt
+Recreate
+
+A generated video may not follow every camera angle exactly on its first attempt. Compare it to the previz and revise only the incorrect movement or timing.
+
+
+
+
+Your result should feel like your own creative project, built with the same camera-control method.

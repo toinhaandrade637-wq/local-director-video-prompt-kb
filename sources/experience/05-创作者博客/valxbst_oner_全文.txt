@@ -1,0 +1,405 @@
+【项目】ONE TAKE, SIX LOCATIONS: THE FULL SEEDANCE 2.5 PROMPT FOR A 30-SECOND ONER（@valxbst · 创作者博客）
+【链接】https://higgsfield.ai/@valxbst/blogs/oner
+【提示词块】4
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+ONE TAKE, SIX LOCATIONS: THE FULL SEEDANCE 2.5 PROMPT FOR A 30-SECOND ONER
+V
+@valxbst
+30
+0
+0
+
+Everything used to make THE DOUBLE LIFE: 30 seconds, six locations, one unbroken camera move through a Tokyo salaryman's night. Blocked in Blender, generated in Seedance 2.5.
+
+One roll. 214 credits. Every prompt used is below.
+
+The tools
+
+Everything below runs in one place — Nano Banana Pro for the wardrobe plates, Seedream 5.0 Pro for the location plate, Seedance 2.5 for the shot itself:
+
+https://higgsfield.ai?fpr=valdir88
+
+That is an affiliate link — if you sign up through it I earn a commission, at no cost to you.
+
+
+
+
+Step 1. Two plates, one suit
+
+He has a day self and a night self, and the cheap way to build that is not two costumes. It is one costume in two states.
+
+Both plates are built on the same locked identity plate, and the second one opens its wardrobe paragraph by naming the first:
+
+He wears the same suit as his daytime look, stripped back and disordered.
+
+That sentence is the whole trick. Without it the model builds a second outfit, and then you have two men who happen to look alike. With it you get one man at two times of day, which is the entire idea of the film.
+
+Both plates share the same opening: a flat 18% neutral grey field, flat shadowless light, zero shadow and zero light bleed outside the silhouette. A wardrobe plate that carries lighting of its own will fight the lighting of every scene you drop it into. It should carry the garment and nothing else.
+
+The day state — Nano Banana Pro, 3:4, 4K:
+
+A flat character reference plate on a pure flat field. THE BACKGROUND IS A SINGLE FLAT 18% NEUTRAL GRAY COLOR FIELD — one uniform value at every pixel corner to corner, identical directly beside the figure and in the far corners. It is a flat colour field, NOT a photographed backdrop and NOT a studio seamless — no surface, no floor, no ground, no wall, no corner, no horizon, no vignette, no gradient, no hotspot, and no plane the figure stands on. He does not stand on anything. Absolutely zero shadow outside his silhouette — no cast shadow, no contact shadow beneath the shoes, no drop shadow, no ambient occlusion, no halo, no edge darkening. Absolutely zero light bleed outside his silhouette — no spill, no glow, no bounce, no reflected colour, no brightening behind him.
+
+
+
+
+Lighting is completely flat and shadowless — one enormous soft frontal source at camera position, matched equal fill from camera-left and camera-right at identical intensity, matched fill from above and below, so both sides of the face and body read at exactly the same brightness. No key-and-fill ratio, no modelling, no shadow side, no nose shadow, no under-chin shadow, no rim light, no hair light, no kicker, no specular hotspot. Extremely low contrast, even, milky, catalogue-flat. Form is described by fabric folds, garment structure and bone structure alone, never by light and shadow. His skin renders at its true natural tone, warm and natural against the neutral gray, never pale, never washed-out, never cool-shifted by the background.
+
+
+
+
+A full-body character reference of the same man as the attached character reference @Image 1, standing squared to camera with his weight even across both feet, shoulders level, arms relaxed at his sides, chin level, eyes to camera, a neutral controlled expression with the lips closed. Framed head to toe in a tall vertical frame with the full figure and the footwear entirely within the frame.
+
+
+
+
+He wears a charcoal-grey worsted wool two-piece suit that has been worn hard for years — the jacket single-breasted and fastened on the top button, the wool gone faintly shiny at both elbows and along the forearms where it has rubbed, the lapels slightly soft and losing their roll, the shoulder line a little collapsed, the hem and cuff edges very faintly frayed. A plain white cotton poplin shirt beneath, buttoned to the collar, the collar points slightly soft, the cuffs showing a centimetre below the jacket sleeves. A plain navy tie in matte woven silk, knotted up tight to the throat, the knot small and slightly off-centre. Matching charcoal worsted wool trousers, flat-fronted, the crease long gone, breaking softly over the shoes. Black leather oxford shoes, the toes scuffed matte and the heels worn down at the outer edge, laced neatly. A plain navy fabric neck lanyard hangs at his chest with a blank white plastic card holder at the end of it. In his right hand, held down at his side by the handle, is a black leather briefcase, soft-sided and slumped from years of use, the corners rubbed pale, the handle darkened and polished from his grip.
+
+
+
+
+Real worsted wool weave with visible fine twill texture and the faint sheen at the worn points, real cotton poplin, real matte silk on the tie, real scuffed leather grain on the shoes and the briefcase, real peach fuzz at the jaw and hairline, real soft fine even pore texture, subsurface scattering reading as semi-translucent biology, hair rendered strand by strand with fine flyaways — never plastic, never waxy, never glass-skin, no acne, no blemishes, no rough pores. Even sharpness edge to edge, no depth-of-field falloff, no bokeh, no background blur, no lens vignette, no flare, no bloom, no atmospheric haze. Photographed on a 50mm prime, soft natural film grain. Photographed not generated.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+The night state — same model, same settings, same identity plate:
+
+A flat character reference plate on a pure flat field. THE BACKGROUND IS A SINGLE FLAT 18% NEUTRAL GRAY COLOR FIELD — one uniform value at every pixel corner to corner, identical directly beside the figure and in the far corners. It is a flat colour field, NOT a photographed backdrop and NOT a studio seamless — no surface, no floor, no ground, no wall, no corner, no horizon, no vignette, no gradient, no hotspot, and no plane the figure stands on. He does not stand on anything. Absolutely zero shadow outside his silhouette — no cast shadow, no contact shadow beneath the shoes, no drop shadow, no ambient occlusion, no halo, no edge darkening. Absolutely zero light bleed outside his silhouette — no spill, no glow, no bounce, no reflected colour, no brightening behind him.
+
+
+
+
+His hair has had a full day happen to it — the same cut as his daytime look but no longer held: the fringe fallen forward and broken into separate pieces across the forehead, the side pushed out of shape by a hand run through it, a few strands standing up at the crown, the product long since given up. Not styled, not deliberate — simply undone.
+
+
+
+
+Lighting is completely flat and shadowless — one enormous soft frontal source at camera position, matched equal fill from camera-left and camera-right at identical intensity, matched fill from above and below, so both sides of the face and body read at exactly the same brightness. No key-and-fill ratio, no modelling, no shadow side, no nose shadow, no under-chin shadow, no rim light, no hair light, no kicker, no specular hotspot. Extremely low contrast, even, milky, catalogue-flat. Form is described by fabric folds, garment structure and bone structure alone, never by light and shadow. His skin renders at its true natural tone, warm and natural against the neutral gray, never pale, never washed-out, never cool-shifted by the background.
+
+
+
+
+@Image 1 A full-body character reference of the same man as the attached character reference, standing squared to camera with his weight even across both feet, shoulders level, arms relaxed at his sides, chin level, eyes to camera, a neutral controlled expression with the lips closed. Framed head to toe in a tall vertical frame with the full figure and the footwear entirely within the frame.
+
+
+
+
+He wears the same suit as his daytime look, stripped back and disordered. No jacket and no tie. The plain white cotton poplin shirt is worn alone, the top two buttons open at the throat with the collar spread and soft, the tail untucked at one side, the sleeves rolled roughly and unevenly up to just below the elbow with the fabric bunched and creased where it has been pushed, a faint grey smear of grease near one cuff. The same charcoal worsted wool trousers, flat-fronted, creased across the lap from sitting, the hems breaking loosely. On his feet, low flat-soled black suede driving shoes, scuffed pale across the toe and heavily worn at the ball of the foot, worn without socks showing. The plain navy fabric lanyard with the blank white plastic card holder is still hanging at his chest — he has not taken it off.
+
+
+
+
+Real cotton poplin with visible weave and creasing, real worsted wool twill in the trousers, real scuffed suede nap on the shoes, real peach fuzz at the jaw and hairline, real soft fine even pore texture, subsurface scattering reading as semi-translucent biology, hair rendered strand by strand with fine flyaways — never plastic, never waxy, never glass-skin, no acne, no blemishes, no rough pores. Even sharpness edge to edge, no depth-of-field falloff, no bokeh, no background blur, no lens vignette, no flare, no bloom, no atmospheric haze. Photographed on a 50mm prime, soft natural film grain. Photographed not generated.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+Note what is not in the night plate: no new garments. Shirt, trousers and lanyard are the same objects, described in a different condition — collar open, tail untucked, sleeves pushed up, a grease smear near one cuff, the crease across the lap from sitting. The only genuine swap is the shoes, and that swap is a beat in the film.
+
+Step 2. The office plate
+
+One location got a plate. The other five were left to the model deliberately — more on that below.
+
+Seedream 5.0 Pro, 9:16, 2K:
+
+A photographic night interior of a Japanese open-plan office, shot on large-format film — real halation around the light fittings, fine organic grain, high dynamic range, a frame from a film, NOT a 3D render, NOT an architectural visualisation.
+
+
+
+
+The room: rows of identical grey desks in facing pairs, running away from camera under a low suspended ceiling of fluorescent panels. Most panels are OFF for the night — only two rows still lit, pooling cool white light onto the nearest desks and letting the far end of the office fall into blue-grey dark. Dual monitors on every desk, all asleep and black except one — a single monitor still glowing pale blue at the nearest desk, beside a small warm desk lamp that is still on. That one desk is lived-in: an open laptop, a stack of papers too far to read, a mug, a hung suit jacket on the chair back gone soft with use.
+
+
+
+
+Materials and detail: carpet tile with worn traffic lanes, cable trays dropping to the desks, low felt partition screens between facing desks, a wall of steel document cabinets along one side, a whiteboard with illegible ghost marks, air-conditioning vents in the ceiling grid. Windows along the far wall show only darkness and the faint scattered lights of the city, with a weak reflection of the office interior floating in the glass.
+
+
+
+
+Light: the two live fluorescent rows are the key — cool white from above, soft-edged pools with real falloff. The desk lamp answers warm from below at the hero desk. The dead half of the room reads in near-black blues. No other sources, nothing lit from the camera's position.
+
+
+
+
+The office is completely EMPTY of people — no figures, no silhouettes, no reflections of anyone in the monitors or the window glass, in any part of the frame. Every chair is unoccupied. No readable text anywhere: papers, whiteboard, spines and screens all blur or face away. No logos, no signage, no characters.
+
+
+
+
+Camera: standing height, mild wide lens, looking down the rows at a slight three-quarter angle so the desk rows read in depth — nearest lit desk large in frame, far dark end small. Vertical composition with ceiling grid above and carpet in the lower frame. Deep focus, everything crisp, atmosphere-free clean air.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+Two things in there earn their word count. The room is lit by two live fluorescent rows and one desk lamp, and everything else falls to near-black — so the plate hands the film a lighting state, not just a set. And the emptiness clause names the reflections:
+
+no figures, no silhouettes, no reflections of anyone in the monitors or the window glass
+
+Ask for an empty office and you get an empty office with somebody standing in the window glass. Dark monitors and night windows are mirrors, and mirrors are where the extra person turns up.
+
+Step 3. The blocking pass
+
+The camera was built in Blender first — grey boxes, no materials, no lighting, 30 seconds at 24fps in 9:16, rendered straight out of the viewport. It answers one question: does the camera do the right thing at the right time. It costs nothing to get wrong.
+
+That render is then attached as @Video 1, and the prompt says at the top, in capitals, what it governs and what it does not:
+
+@Video 1 is a grey 3D previsualisation of this exact shot. It governs, second for second: the camera's full path, every orbit, every acceleration and linger, every dive through a surface, the three vertical rises, the rooftop brake, every arc-flight and dead stop, and the final freeze. It governs NOTHING about the look. THE RED BLOCK IN THE REFERENCE IS THE HERO: wherever the reference centres the red block, this film centres the man.
+
+
+
+
+The setup for the Blender side is in the previous post: https://higgsfield.ai/@valxbst/blogs/previz
+
+Step 4. The video prompt
+
+Seedance 2.5, 9:16, 30 seconds. This is the whole thing, unedited:
+
+1 CONTINUOUS SHOT. Total 30.0 seconds. No cuts, no dissolves, no fades, no editing of any kind. One unbroken camera move from first frame to last. The camera repeatedly passes THROUGH physical surfaces — a desk, floors, ceilings, a rooftop slab — and each time, the surface fills the frame completely for an instant and the camera emerges somewhere new on the far side. Real-time throughout, no slow motion, no ramping, no speed change.
+
+
+
+
+Style: 8K, photorealism, real organic film grain and halation, high dynamic range, shot on large-format film. NOT a 3D render, NOT a game engine, NOT a game-cutscene aesthetic, NOT a cartoon.
+
+
+
+
+Operating style: night-leaning urban realism, one drifting orbital camera with real mass, tactile textures, shallow depth of field on the face, photochemical look.
+
+
+
+
+Texture: matte lived-in surfaces, worn fabric and scuffed laminate, organic 65mm grain, no digital gloss, no plastic sheen.
+
+
+
+
+Skin: pore-level realism — visible pores, fine vellus hair, natural asymmetry, real fatigue under the eyes, no smoothing. Half the face often falls into shadow.
+
+
+
+
+Technical: 8K, real-time 24fps, true 180-degree shutter with a real 1/48 second exposure on every frame, genuine photographic motion blur, each frame blending smoothly into the next. Smooth stable motion, no flicker, no warping, no morphing, no frame interpolation, no ghosting, no high-shutter video crispness.
+
+
+
+
+NO ON-SCREEN TEXT — CRITICAL: no on-screen text of any kind anywhere in frame at any point. No captions, no subtitles, no titles, no watermarks, no logos, no timecode, no UI overlays, no Chinese characters, no Korean characters. The frame is clean of all overlay graphics from first frame to last.
+
+
+
+
+THE VIDEO REFERENCE IS BLOCKING ONLY — CRITICAL: @Video 1 is a grey 3D previsualisation of this exact shot. It governs, second for second: the camera's full path, every orbit, every acceleration and linger, every dive through a surface, the three vertical rises, the rooftop brake, every arc-flight and dead stop, and the final freeze. It governs NOTHING about the look — its grey boxes, flat shading and primitive rooms are replaced entirely by the photoreal world described below. THE RED BLOCK IN THE REFERENCE IS THE HERO: wherever the reference centres the red block, this film centres the man. The reference carries no audio.
+
+
+
+
+THE HERO IS ONE MAN — CRITICAL: the same man appears in every location — same face, same build, same suit. He is never duplicated, there is never a second copy of him, and no other person's face is ever readable in any location. His suit never changes garments; only its STATE changes, exactly as staged per segment below: buttoned and correct at the desk, loosened on the train, rumpled in the street, jacket-on through the aisle and the counter and the garage, and dismantling stage by stage on the roof.
+
+
+
+
+THE ROOFTOP TRANSFORMATION — CRITICAL: on the roof, the camera throws itself between five dead stops around the man, and AT EACH STOP HE IS ONE STAGE FURTHER into shedding the day: stop one — necktie pulled loose and dragged free; stop two — suit jacket off, hooked on one finger over his shoulder; stop three — shirt sleeves rolled to the elbow, forearms bare; stop four — crouched, swapping a dress shoe for a flat driving shoe, the dress shoe left lying on its side; final stop — fully in his night state, still, looking out over the city. Between stops, during the fast camera flights, his motion continues naturally. After each stop lands he turns his head toward the camera's new position with a half-second delay, never looking into the lens — always slightly past it.
+
+
+
+
+ASSETS
+
+@Video 1 = the previsualisation. Camera path, beat timing, blocking. Nothing else.
+
+@Image 1 = the man's face, head, hair and skin. Identity only. 178cm, lean and narrow-shouldered, warm fair skin rendering true and natural, never pale porcelain, never tanned, never cool-shifted. THIS SCENE: one long day and night of his double life — worn down at the desk, asleep-adjacent on the train, level and unafraid in the street, unhurried in the aisle, the counter, the garage, and quietly waking up to himself on the roof. His movement is economical to the point of stillness in every location. 100% match to the reference.
+
+@9cf7739a-b426-44a4-b77c-3009fbca3e9c = the suit as worn from the desk through the garage: worsted wool, shiny at the elbows, office lanyard around the neck. State per segment is described in the action, never contradicted.
+
+@1603c9ae-4a7b-4e49-a475-cb9cad856a41 = the suit's final rooftop state only: jacket off, tie gone, sleeves rolled, lanyard still on, flat driving shoes.
+
+@400101ed-b13d-4b35-93ea-3c52f4d4a341 = the first location: a Japanese open-plan office at night — rows of identical desks, dual monitors, fluorescent panels, cable trays, one desk lamp still on. Controls geography, materials, furniture and light for the first orbit only, not camera framing.
+
+@fd78e662-3194-452e-ac58-47e76d9ca7b2 = an aged pearl-white Japanese sports coupe, pop-up headlights DOWN and asleep, bronze multi-spoke wheels, a visibly cooler cleaner white right-front wing panel, a small circular team sticker low in the rear glass. Appears ONLY in the garage rise, parked.
+
+
+
+
+GEOMETRY MAP: every location holds the man as its single subject. Orbits circle him at a fixed height band; the rises pass him at their midpoint with him centred in frame; the rooftop stops surround him at varied heights and distances. The city, when visible, sits far below and beyond parapets. Depth planes: the man sharp, his room crisp, backgrounds falling soft.
+
+
+
+
+FIRST FRAME: already inside the office, already orbiting — the man mid-typing at his desk under fluorescent light. No empty establishing hold.
+
+
+
+
+CAMERA: one weightless-but-massive orbital rig — smooth continuous travel with real momentum, accelerating and decelerating like a machine with inertia, never handheld shake, never gimbal-float. It lingers where the reference lingers, dives where it dives, rises dead-vertical where it rises with no rotation, and on the roof it moves like a robot arm: violent acceleration, a perfectly damped hard stop, absolute zero drift while parked, then the next throw. Never a cut.
+
+
+
+
+LIGHT: each location lit only by what lives in it — fluorescent panels and a desk lamp in the office; carriage tubes and passing platform lights on the train; one sodium streetlamp, the circling car's headlight beams and its red tail-smear in the street; chiller cabinets and shelf strips in the aisle; a single hot lantern and steam-glow at the counter; one caged work lamp and the car's faint reflections in the garage; and on the roof, moonlight, distant neon haze from below, and a red aircraft beacon. Nothing lights him from the camera's position.
+
+
+
+
+COLOUR: ~70% deep blue-grey night neutrals — concrete, steel, worn wool; ~20% warm sodium and tungsten accents from lamps, lanterns and tail lights; ~10% cool fluorescent and chiller cyan as counter-notes. Blacks sit true black; bare sources bloom with natural halation.
+
+
+
+
+ATMOSPHERE: clean interior air in the office, train, aisle and garage — full clarity, no haze. Steam rises off the ramen pot only, dissipating within a metre. Thin cold night air in the street and on the roof, faint city haze softening distant lights only. No plumes, no fog-machine texture, no god rays.
+
+
+
+
+ACTION TIMING — one continuous camera move throughout:
+
+0.0–5.0s (ORBIT ONE — the office, @400101ed-b13d-4b35-93ea-3c52f4d4a341): the camera circles the man at his desk — suit buttoned, tie up, lanyard on — typing slowly, eyes dead on the monitor glow. It accelerates, slows and lingers on his lit face and the sticky notes, sweeps on, then DIVES through the desk surface; wood grain fills the frame —
+
+5.0–10.0s (ORBIT TWO — the last train home): — and the camera emerges falling into a near-empty night carriage, same orbit around him slumped in a corner seat, tie yanked loose, top button open, head against the window, city lights streaking past the glass. It lingers on his reflection in the dark window, sweeps on, and DIVES through the carriage floor —
+
+10.0–15.0s (ORBIT THREE — the street, the challenge): — emerging falling onto a wet midnight backstreet where the man stands dead centre, jacket rumpled, and a dark midnight-blue coupe DRIFTS a full circle around him, sideways, front wheels crossed up in opposite lock, headlights raking across his body, tyres roaring, tail lights smearing red. He does not move at all; only his eyes track it. The camera orbits counter to the car, lingers as the beams cross his face, then DIVES into the wet asphalt —
+
+15.0–17.0s (RISE ONE — the konbini aisle): — and flies straight up through a convenience store aisle at night, no rotation, chiller light, and at the midpoint it BRAKES: the man centred in frame, an armful of canned coffee against his chest, caught mid-reach. It accelerates up through the ceiling —
+
+17.0–19.0s (RISE TWO — the ramen counter): — straight up through a tiny late-night ramen counter, steam and one hot lantern, BRAKING at the midpoint on the man centred in frame, chopsticks paused halfway, jacket still on, and up through the ceiling —
+
+19.0–21.0s (RISE THREE — the garage): — straight up through a dim parking garage where the pearl-white coupe of @fd78e662-3194-452e-ac58-47e76d9ca7b2 sleeps with its lights down, BRAKING at the midpoint on the man centred in frame, one palm resting flat on the car's roof, head bowed — then up, punching through the concrete —
+
+21.0–21.8s (THE ROOF — arrival): — and out into open night air above a rooftop, braking HARD to a dead stop, the man standing centre-roof against the city glow.
+
+21.8–23.2s (STOP ONE): hold, zero drift. He pulls his tie loose and drags it free. His head turns toward the camera's position with a half-second delay.
+
+23.7–24.7s (STOP TWO, after a fast arc to a new side and height): jacket off, hooked on one finger over his shoulder. Delayed head turn.
+
+25.2–26.1s (STOP THREE): sleeves rolled to the elbow, forearms bare. Delayed head turn.
+
+26.6–27.4s (STOP FOUR, low): crouched, swapping the last dress shoe for a driving shoe, the dress shoe lying on its side beside him. Delayed head turn.
+
+27.9–28.6s (STOP FIVE): standing again, fully in his night state — @1603c9ae-4a7b-4e49-a475-cb9cad856a41 — wind moving his shirt.
+
+29.2–30.0s (FINAL FREEZE): the camera lands its last position and freezes completely. He looks out over the city, past the lens, still. The film ends on that frame.
+
+
+
+
+PHYSICS: real bodyweight in every location — the chair takes his weight, the train seat carries his slump and the carriage sway rocks him gently, the drifting car's tyres deform and smear water off the asphalt with real grip physics, the cans press into his sleeve, the steam obeys the air, the jacket swings with real cloth weight when it comes off, the dropped dress shoe falls and settles with real gravity. Contact shadows everywhere his body meets a surface. Nothing floats, nothing slides, nothing teleports.
+
+
+
+
+ACTING: natural eye blinking throughout, live brow micro-expression, no frozen mask-face. The arc runs from switched-off to switched-on: dull half-lidded eyes at the desk, exhausted stillness on the train, a level unblinking calm in the street as the car circles, small private ease in the aisle and at the counter, tenderness with the palm on the car, and on the roof a quiet building alertness — each delayed head-turn a little sharper than the last, the final gaze fully awake. He never looks into the lens.
+
+
+
+
+AUDIO: diegetic only, changing with each location and crossing the surface-transitions like doors: keyboard clicks and fluorescent hum; train rumble, rail joints, a muffled station chime; the street — idling turbo engine, tyres tearing wet asphalt as the car circles, Doppler as it passes; chiller hum; broth simmer and a lantern buzzing; garage drip and the tick of cooling metal; then wind, distant traffic wash and fabric noise on the roof. No speech anywhere. NO BGM — no background music of any kind. No score, no soundtrack, no instrumental, no underscore, no ambient pad, no drone, no tone bed, no swell, no sting, no humming, no singing, no lyrics. Diegetic sound only.
+
+
+
+
+LOCKS: one unbroken camera move matching @Video 1 second for second — orbit, dive, orbit, dive, orbit, dive, three vertical rises with mid-brakes on the man, the rooftop punch-out, five dead stops each one stage further into his night state, and the final freeze. One man, one face, one suit throughout, its state changing only as staged. The drifting coupe appears only in the street orbit; the pearl-white car only in the garage rise, asleep. Every stop on the roof is drift-free and every flight between them is fast and smooth. Light and colour temperature per location hold steady while the camera is inside it. Skin reads true cinematic matte — real pores, real fatigue, light absorbed like true subsurface scattering, never plastic, never doll-skin, no blemishes, fine flattering texture. No CGI look, no digital cleanliness, no AI smoothness, no stiffness, no frozen posing except the staged final freeze, no frame interpolation.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+The shape, if you want to reuse it: the CRITICALs sit at the top, because the model holds the top hardest. Then ASSETS — what each reference controls, and only that — then GEOMETRY MAP, FIRST FRAME, CAMERA, LIGHT, COLOUR, ATMOSPHERE, then ACTION TIMING as a clock, then PHYSICS, ACTING, AUDIO, and a LOCKS paragraph at the bottom that restates every non-negotiable in one place.
+
+Lighting lives in its own block above the timing rather than inside the beats. Word count is screen-time weighting whether you intend it or not, so anything that isn't an event stays out of the schedule.
+
+Why a double life is the right story for a oner
+
+This piece landed on the first roll. The one after it took four. The difference was not the prompt — it was the premise.
+
+A oner can cross space or time. Not both.
+
+Six locations here, all one city, all the same night, all walkable in an evening. The model holds a single lighting state for thirty seconds because there is a single state to hold. Ask an unbroken take to cross 500km and a sunset and you have asked for something physically impossible; the model will resolve that contradiction somewhere, and it will not ask you where.
+
+Two more things this premise gets for free.
+
+The locations are generic. A konbini aisle, a ramen counter, a parking garage. Enormous training data, interchangeable, and — the real point — nothing for a viewer to check them against. Drift doesn't read. Famous, specific places make every deviation visible.
+
+The ending is a physical event. A man pulling a tie loose, taking a jacket off, swapping a shoe. Physical events survive generation. Two small hand movements carrying emotional weight do not.
+
+And the form matches the idea: montage-as-oner is what a double life feels like. When the premise justifies the technique, the technique stops fighting you.
+
+The timing mistake
+
+The rooftop is the weakest part of the film. The camera is too fast and the man moves too fast, and it looks like the model is bad at physical acting.
+
+It isn't. It's arithmetic, and it's mine.
+
+Five transformation stages scheduled into nine seconds is 1.8 seconds per stage — including the camera flight between them. Taking a suit jacket off takes about four seconds. The beat was impossible as written, so the model did the only thing left: it sped the man up to fit the schedule, and the camera with him.
+
+Budget human action time before you write the beat. A costume change or any physical action needs 3–4 seconds of screen time minimum, plus its transition. Three stages in nine seconds, or five in fifteen. Count it — don't feel it.
+
+Three would have read better anyway.
+
+Cutting by measurement, not by eye
+
+The version that shipped is 25.5 seconds, not 30. The cut is the fix for the timing error: it removes the two fastest stages.
+
+The cut point was measured rather than eyeballed. Frame-to-frame difference across 23.0–26.0s shows the dead stop holding flat from 24.25 to 24.63 — then the next camera throw explodes at 24.667 and peaks at 25.0. So the cut goes at 24.64: the last calm frame of the hold, not the first frame of the move.
+
+Cutting mid-move looks like a mistake. Cutting on the last still frame of a deliberate stop looks like an ending.
+
+Then that frame is frozen for 0.85s to give the ending its beat back:
+
+ffmpeg -i 30s.mp4 -t 24.64 -c copy part1.mp4
+ffmpeg -i 30s.mp4 -ss 24.60 -frames:v 1 last.png
+ffmpeg -loop 1 -i last.png -t 0.85 -r 24 -pix_fmt yuv420p freeze.mp4
+printf "file 'part1.mp4'\nfile 'freeze.mp4'\n" > cc.txt
+ffmpeg -f concat -safe 0 -i cc.txt -c copy out.mp4
+
+It also loops cleanly back to the office orbit, which matters more on a vertical feed than anything else in this section.
+
+
+
+
+Three things worth knowing
+
+One garment, two states — never two costumes. Name the day look inside the night look's own wardrobe line and describe the difference as condition, not as clothing. Two separate wardrobe descriptions give you two separate men.
+
+"Empty" has to include the reflections. Dark monitors, night windows and wet asphalt are mirrors. If the emptiness clause only covers the room, the extra person appears in the glass.
+
+"No music" needs a vocabulary list. No BGM on its own does very little. What worked was naming the whole category: no score, no soundtrack, no instrumental, no underscore, no ambient pad, no drone, no tone bed, no swell, no sting, no humming, no singing, no lyrics — diegetic sound only. Even then, check the returned audio and strip it at assembly if a bed rode along. The generator reports success on the request regardless.
+
+What it cost
+Nano Banana Pro    x4    16     two wardrobe plates, two takes each
+Seedream 5.0 Pro   x1     3     the office plate
+Seedance 2.5       x1   195     one roll (30s, 720p, 9:16)
+                        ───
+                        214 credits
+
+The Blender previz cost nothing. Every camera move and every timing decision was made and approved before a credit was spent — which is also why one roll was enough.
+
+NIGHT SHIFT is on YouTube and Instagram at @valxbst.

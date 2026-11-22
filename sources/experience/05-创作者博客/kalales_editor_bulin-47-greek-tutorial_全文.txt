@@ -1,0 +1,109 @@
+【项目】BULIN 47 - GREEK TUTORIAL（@kalales_editor · 创作者博客）
+【链接】https://higgsfield.ai/@kalales_editor/blogs/bulin-47-greek-tutorial
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+BULIN 47 - GREEK TUTORIAL
+K
+@kalales_editor
+322
+0
+0
+
+Αν έχεις account και ξέρεις να χειρίζεσαι το Higgsfield, τότε κάνε skip τα βήματα και πήγαινε στο Βήμα 5. Αν όχι ακολούθησε τα βήματα αφού κάνεις πρώτα ένα λογαριασμό. 
+
+Βήμα 1 - Ανοίγεις το Higgsfield Genjutsu
+
+Πηγαίνεις στο Higgsfield Genjutsu
+
+Βήμα 2 - Κατεβάζεις το original video
+Βήμα 3 - Ανεβάζεις το original video 
+
+Καθώς είσαι στο Higgsfield Genjutsu ανεβάζεις το original video που κατέβασες στο Βήμα 2, εκεί που λέει "Reference Video"
+
+Βήμα 4 - Ανεβάζεις τον χαρακτήρα σου
+
+Ακριβώς από κάτω ανεβάζεις τον χαρακτήρα που θες να αντικαταστήσεις.
+
+Βήμα 5 - Γράφεις το prompt
+
+Στη συνέχεια γράφεις το prompt ακριβώς από κάτω:
+
+Use @Video 1 as the sole editing master. Preserve its full original duration, vertical framing, camera movement, shot order, performance timing, entrance environment, background crowd, red lighting, and audio. Completely replace exactly ONE specific person using the mapping below.
+
+All descriptions used to identify the target refer to the ORIGINAL, UNEDITED video. Keep the replacement permanently assigned to that same source person throughout the clip.
+
+ACTIVE REFERENCES
+
+@Image 1 — CHARACTER A: The clean-shaven man with long platinum/silver-blond hair, dark eyeliner, and a deep red/burgundy patterned jacket over a black top.
+
+Use this reference exclusively for the pink-shirt man's replacement identity, facial structure, skin texture, hairstyle, makeup, body proportions, and clothing.
+
+The photograph defines his appearance and wardrobe. Its background, lighting, static pose, and fixed expression must not enter the video. Preserve the reference face 100%, including its natural proportions, age, distinctive features, and skin texture.
+
+EDIT GOAL — MAIN PINK-SHIRT MAN
+
+Replace ONLY the original central man wearing the pink open mesh shirt, black sunglasses, and goatee with CHARACTER A from @Image 1 whenever that original man is visible.
+
+The original pink shirt, sunglasses, and goatee are identification cues ONLY. Remove them completely from the replacement.
+
+Preserve CHARACTER A's exact reference face, long platinum/silver-blond hair extending past his shoulders, center-parted hairstyle, and dark eyeliner. Maintain the reference hair length, color, volume, and texture across frontal views, profiles, rear views, and partial obstructions.
+
+His cheeks, upper lip, jaw, and chin must remain clean-shaven as shown in the reference. No goatee, beard, mustache, or source facial-hair remnants. Do not add sunglasses or eyeglasses.
+
+Dress him in the reference deep red/burgundy jacket with its black ornamental pattern, matching cut, lapels, and fabric appearance, over the reference black top. Complete unseen lower clothing conservatively in a coordinated dark style. Keep the outfit consistent throughout the clip.
+
+Replace the entire visible target person, including head, neck, torso, arms, and hands. Have CHARACTER A inherit the source man's walking, gestures, head turns, gaze, mouth movements, and reactions at their original moments. His expressions must follow the performance naturally rather than remain frozen in the photograph.
+
+EDIT SCOPE
+
+Edit only the pink-shirt man and the local shadows, reflections, and boundaries necessary to integrate his replacement.
+
+Preserve every bodyguard, woman, bystander, and background person exactly as they appear in the source. Keep their original faces, hairstyles, clothing, tattoos, body proportions, and movements.
+
+Exactly one source person receives CHARACTER A's identity. Never apply the reference face, silver-blond hair, or burgundy outfit to another person. No additional character replacements, clones, or duplicate identities.
+
+CONTENT TO PRESERVE
+
+Retain the entrance architecture, stairs, railings, doors, red illumination, foreground people, phones, objects, background crowd, and original audio.
+
+Preserve the source composition, subject placement, actions, expressions, and interactions. Only the assigned pink-shirt man's appearance comes from @Image 1.
+
+TIMELINE INHERITANCE
+
+Follow the source video frame by frame. Keep every gesture, reaction, head turn, contact, and pause at its original moment. Preserve the target's original entrances, exits, and visibility timing.
+
+Track the target by his continuous movement, never by a fixed screen position. Add no shots, dialogue, captions, choreography, or transitions.
+
+PHYSICS AND OCCLUSION
+
+Match the original lighting, perspective, shadows, skin illumination, clothing folds, and motion blur.
+
+Maintain natural anatomy, accurate holding contact, hand placement, body overlap, and depth order. Preserve the bodyguards' original hands and arms where they hold or touch the replacement.
+
+Let CHARACTER A's long hair and jacket move naturally with the inherited performance. Keep hair correctly behind or in front of surrounding people according to the source depth order.
+
+When the target is obscured, retain his assigned identity. When visible again, restore the same reference face, long silver-blond hair, eyeliner, and burgundy outfit. Never transfer his appearance to the person blocking him.
+
+No face blending, identity drift, duplicated heads, cloned bodies, merged people, or flickering appearances.
+
+POSITIVE LOCKS
+
+Original pink-shirt man = CHARACTER A from @Image 1: exact reference face, clean-shaven appearance, long platinum/silver-blond hair, dark eyeliner, reference burgundy patterned jacket, and black top.
+
+Every other person = their original source appearance, unchanged.
+
+One exclusive replacement. One consistent reference identity. No duplicates. Original performances, environment, camera movement, duration, and audio.
+
+See all
+Copy prompt
+Recreate
+
+και πατάς Generate.
+
+
+
+
+Σε 5 λεπτά περίπου το βίντεό σου είναι έτοιμο

@@ -1,0 +1,495 @@
+【项目】MYU'S PUSH-AND-PULL（@picassong · 创作者博客）
+【链接】https://higgsfield.ai/@picassong/blogs/mew-s-push-and-pull
+【提示词块】3
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+MYU'S PUSH-AND-PULL
+@picassong
+16
+1
+0
+Myu's Push-and-Pull
+
+Turn your own photo into a figurine, dress it for a cozy morning, and bring one very stubborn sneeze to life.
+
+
+
+
+Hello, I’m Picassong! In this episode, I share an adorable story about 'Myu,' a curly-haired kitten who loves to play hard-to-get! Why not create your own fun stories with your beloved cats, dogs, or other pets?
+
+
+
+
+I designed this workflow so you can start with your own photo and make your own version. The example below follows a model reference through a figurine sheet, a homewear change, and the finished video. The image prompts are reusable recreations for this tutorial; the final video prompt is the approved template from this episode.
+
+Make your version in three steps
+Upload your own photo and create a figurine reference sheet.
+Change the figurine into the Cloth, then prepare your pet and bedroom references.
+Copy the final video prompt, connect the references, replace the pet’s name, and generate and review your scenes.
+01 / Image prompt 1 - Change Character
+
+Start with a clear photo of yourself. A full-body image makes it easier to carry your outfit into the figurine, while a clearly visible face helps retain your recognizable features.
+
+[Insert image: Model Image.jpg]
+Starting reference — the model image.
+
+
+
+
+[Insert image: Character Sheet1.png]
+Figurine result — front full-body view, front face close-up and side profile.
+
+Upload only your own photo for this step. The prompt describes the figurine style and three-panel layout, so a separate doll-style image is not required.
+
+
+
+
+Create a three-panel character reference sheet transforming the person in the single attached photo into a handcrafted collectible art doll.
+
+Use the attached photo as the only reference for identity, hairstyle, clothing, colors, and accessories. The doll style and sheet layout are defined below; no additional reference image is required.
+
+
+
+
+SUBJECT IDENTITY
+
+Translate the photographed person into a recognizable doll version of themselves.
+
+Preserve their characteristic face shape, eye spacing, eye color, eyebrow shape, nose, lips, skin tone, and distinctive features while gently simplifying them into sculpted doll forms.
+
+Keep the original hair color, hairstyle, length, and parting.
+
+Preserve the subject’s gender presentation and recognizable character.
+
+Do not replace their face with an unrelated generic doll.
+
+
+
+
+HANDCRAFTED ART-DOLL STYLE
+
+Create a physical miniature art doll photographed in a studio.
+
+Use a gently oversized head, approximately one quarter of the doll’s total standing height, a petite slender body, delicate limbs, and small sculpted hands.
+
+Give the face softly rounded cheeks, a small dimensional nose, a delicate chin, and small softly shaped lips.
+
+Use clear inset glass eyes with natural iris detail, subtle depth, and small realistic catchlights.
+
+The eyes are gently enlarged but never huge or anime-like.
+
+Use softly defined eyelids, fine eyebrows, delicate eyelashes, and restrained hand-painted facial shading.
+
+Keep the expression calm and natural.
+
+
+
+
+MATERIALS
+
+The face and exposed body are finely finished matte resin with a subtle porcelain-like softness.
+
+Skin surfaces are smooth and evenly colored, with gentle continuous shading and a faint blush.
+
+No human skin pores, oily sheen, waxy skin, or glossy plastic.
+
+Use realistic premium doll-wig hair with fine individual strands, soft volume, and natural directional highlights.
+
+No molded hair or chunky hair clumps.
+
+Use seamless-looking limbs without visible ball joints, mechanical hinges, or deep joint gaps.
+
+
+
+
+CLOTHING
+
+Recreate the photographed outfit as real miniature clothing.
+
+Preserve the original silhouette, layers, colors, patterns, fabric types, accessories, and footwear wherever visible.
+
+Show believable miniature stitching, seams, fabric thickness, folds, and drape.
+
+Fit the clothes naturally to the doll proportions.
+
+If the photograph does not show the complete outfit, extend it conservatively with simple matching garments and shoes. Do not invent elaborate patterns or accessories.
+
+Do not add a different costume.
+
+
+
+
+SHEET FORMAT
+
+One landscape 16:9 image containing exactly three vertical panels in a single horizontal row.
+
+Use approximately equal panel widths and a continuous pure white (#FFFFFF) studio background.
+
+Separate the views through clean composition and subtle white gutters only.
+
+No borders, captions, labels, titles, color swatches, or decorative graphics.
+
+
+
+
+LEFT PANEL — FRONT FULL-BODY OUTFIT VIEW
+
+Show the complete doll from the top of the hair to the soles of the shoes.
+
+Face and torso point directly toward the camera.
+
+Use a relaxed upright standing pose with arms resting naturally and hands visible.
+
+Keep the outfit clearly readable and avoid covering important clothing details.
+
+Leave comfortable white space above the head and below the feet.
+
+Use an eye-level camera with minimal perspective distortion.
+
+Add a soft, restrained contact shadow beneath the shoes.
+
+
+
+
+CENTER PANEL — FRONT FACE CLOSE-UP
+
+Show an enlarged straight-on portrait of the exact same doll.
+
+Frame the full face from the top of the hair to just below the chin, with a little neck visible.
+
+Keep both eyes clearly visible, the face centered, and the gaze directed forward.
+
+Show the sculpted eyelids, glass eyes, small nose, lips, delicate painted blush, and fine hair strands in sharp detail.
+
+Do not crop the chin or distort the face with a wide-angle lens.
+
+
+
+
+RIGHT PANEL — SIDE FACE CLOSE-UP
+
+Show a true 90-degree side profile of the exact same doll, facing toward the left side of the sheet.
+
+Frame the head at the same scale as the center portrait.
+
+Clearly show the forehead, nose bridge, nose tip, lips, chin, and jaw silhouette.
+
+Use a true side view, not a three-quarter portrait.
+
+Keep the hairstyle consistent and arrange only a few strands as needed to reveal the facial silhouette.
+
+Infer unseen profile details naturally from the visible face without changing the identity.
+
+
+
+
+CROSS-PANEL CONSISTENCY
+
+All three panels show one identical physical doll photographed from different views.
+
+Lock the same facial sculpt, eye size and color, skin tone, makeup, hairline, hairstyle, clothing, and accessories across every panel.
+
+The close-ups must match the face of the full-body doll exactly.
+
+Maintain the same neutral expression, material finish, lighting direction, and color balance.
+
+Do not mix a doll body with a realistic human face.
+
+Every visible face and body part must remain unmistakably a handcrafted doll.
+
+
+
+
+LIGHTING AND CLEAN QUALITY
+
+Use soft diffused studio lighting, delicate shadows, neutral white balance, and crisp focus on the relevant subject in each panel.
+
+Keep the white background pure, smooth, and uniform.
+
+Remove blotchy color bleed, cloudy shading, patchy gradients, color banding, digital noise, coarse grain, and compression artifacts.
+
+Maintain smooth tonal transitions while preserving intentional fabric weave and individual hair strands.
+
+No muddy texture, artificial surface buildup, excessive blur, or oversharpening.
+
+
+
+
+AVOID
+
+Real human portraits, cartoon illustration, extreme chibi proportions,
+
+oversized anime eyes, heavy false lashes, inflated lips,
+
+glossy toy plastic, visible mechanical joints,
+
+inconsistent faces between panels, different outfits between panels,
+
+cropped feet in the full-body panel, three-quarter profile,
+
+extra panels, duplicated limbs, malformed hands,
+
+added props, display stands, packaging, text, and watermarks.
+
+
+
+
+OUTPUT
+
+One polished 16:9 three-panel art-doll character sheet:
+
+left = front full-body outfit view;
+
+center = front face close-up;
+
+right = true side face close-up.
+
+See all
+Copy prompt
+Recreate
+Character Sheet 1
+02 / Image prompt 2 - Change Cloth
+
+Next comes the powder-blue towel turban, striped pajamas, soft blanket and mint eye patches. Keep the same face and proportions so the character remains recognizable from the first sheet to the final scene.
+
+
+
+
+[Insert image: Character Sheet1_cloth change.png]
+Homewear result — the same figurine in its morning skincare outfit.
+
+Upload the figurine sheet you created in Step 1. This template changes the outfit and tucks the hair into a towel; glasses are removed for the skincare look.
+
+Using the single attached character image as the identity reference, create a three-panel character sheet of the exact same character wearing a sleepy morning skincare outfit.
+
+IDENTITY AND BODY LOCK
+
+Preserve the character’s recognizable face shape, eye shape and spacing, iris color, eyebrows, nose, lips, skin tone, head-to-body ratio, body shape, and limb proportions.
+
+Keep the original character’s visual medium and material identity.
+
+Do not replace the face with a generic doll or copy another character.
+
+Do not add articulated joints. If the character has a seamless body, keep it seamless.
+
+Apply the styling described below without redesigning the character.
+
+STYLE DIRECTION
+
+A cozy, slightly disheveled morning-at-home look with realistic miniature textiles and skincare accessories.
+
+Use a soft powder-blue and white palette, accented with red piping, mint eye patches, and teal sock details.
+
+The character should look freshly out of bed and in the middle of a quiet skincare routine.
+
+HEAD TOWEL AND HAIR
+
+Wrap a large plush powder-blue bath towel around the head as a twisted towel turban.
+
+Make the towel visibly wrapped and folded, with a thick twisted section tucked securely at the top.
+
+Use realistic fine terry-cloth fibers, soft compression, and believable fabric weight.
+
+Keep the character’s original hair color.
+
+Tuck most of the hair inside the towel, leaving a few tousled curling strands visible along the forehead and beside the cheeks.
+
+Do not change the hair color to pink unless it is already pink in the source.
+
+UNDER-EYE PATCHES
+
+Place one pale mint-green crescent-shaped hydrogel patch beneath each eye.
+
+Position the patches on the upper cheeks, following the lower-eye contours without covering the eyes.
+
+Give them smooth translucent gel surfaces, subtle thickness, and gentle moist reflections.
+
+Keep them distinct from blush and face paint.
+
+PAJAMA SET
+
+Dress the character in a matching powder-blue and white vertically striped pajama set:
+
+a loose short-sleeved button-front shirt and relaxed shorts ending at the upper-to-mid thigh.
+
+The shirt has a notched pajama collar, small white buttons, and one chest pocket.
+
+Add thin red piping along the collar, front opening, sleeve cuffs, chest-pocket edge, and shorts hems.
+
+Use soft woven cotton with realistic stitching, small folds, and a comfortable slightly oversized fit.
+
+Keep the vertical stripes clean and consistent across the garment construction.
+
+SHOULDER BLANKET
+
+Drape a thick soft blue blanket over both shoulders like a loose cape.
+
+Use broad powder-blue, medium-blue, navy, and cream geometric color blocks with a few dark linear accents.
+
+Keep the front open so the pajama buttons, pocket, and shorts remain visible.
+
+Let one side hang lower than the other with natural folds and believable weight.
+
+The blanket must be plain patterned fabric with no lettering, logos, or symbols.
+
+PILLOW
+
+In the full-body view, place a large soft rectangular pale-blue pillow in the character’s right hand, on the viewer’s left.
+
+The arm hangs down naturally, holding the pillow by its upper corner beside the thigh.
+
+Show slight fabric tension at the grip, soft creases, stitched edges, and a gently compressed stuffed form.
+
+Keep the hand anatomically correct and the pillow clear of the face and main outfit details.
+
+SOCKS
+
+Use slouchy rib-knit socks reaching the lower calves.
+
+The main sock color is muted blue-gray, with teal cuffs, heels, and toe caps.
+
+Show fine vertical knit ribs and slight bunching around the ankles.
+
+No shoes.
+
+EXPRESSION AND POSE
+
+Use a relaxed standing pose with low shoulders and a subtle head tilt.
+
+Keep the character’s original eye design; suggest sleepiness with gently lowered eyelids without changing the eye shape.
+
+Keep the mouth relaxed and close to the original lip shape.
+
+Avoid exaggerated yawning, crying, or added facial marks.
+
+THREE-PANEL CHARACTER SHEET
+
+Create one landscape 16:9 image with three vertical panels arranged horizontally.
+
+Use a continuous pure white (#FFFFFF) background and clean white spacing.
+
+No text, panel labels, borders, logos, or watermarks.
+
+LEFT — FRONT FULL-BODY VIEW
+
+Show the entire character from the top of the towel turban to the bottoms of the socks.
+
+Include the complete pajama outfit, shoulder blanket, pillow, and both feet.
+
+Use a mostly straight-on view with a relaxed upright stance.
+
+Leave enough margin to avoid cropping the towel, pillow, or feet.
+
+CENTER — FRONT FACE CLOSE-UP
+
+Show the exact same character directly from the front.
+
+Include the entire towel turban, visible hair strands, both eye patches, full face, and a small amount of the pajama collar.
+
+Keep the facial features sharply readable.
+
+Do not crop the towel or chin.
+
+RIGHT — TRUE SIDE FACE CLOSE-UP
+
+Show the exact same character in a true 90-degree profile facing left.
+
+Use the same head scale as the center portrait.
+
+Show the towel wrapping, loose hair strands, visible under-eye patch, nose, lips, chin, and a small amount of the collar.
+
+Preserve the character’s facial structure rather than inventing a different profile.
+
+CONSISTENCY
+
+All three panels depict the same character in the same outfit at the same moment.
+
+Match the facial sculpt, body materials, skin color, hairstyle, towel wrapping, patch placement, clothing details, and lighting across all views.
+
+The enlarged faces must match the full-body character exactly.
+
+MATERIALS AND CLEAN QUALITY
+
+Use realistic terry cloth, cotton pajamas, rib-knit socks, a soft woven blanket, and a stuffed cotton pillow.
+
+Keep the character’s original skin or body material unchanged.
+
+Use soft diffused studio lighting and restrained contact shadows.
+
+Keep whites pure white and all specified colors clean and stable.
+
+Remove blotchy color bleed, cloudy shading, patchy gradients, color banding, digital noise, coarse grain, and compression artifacts.
+
+Maintain smooth, even tonal transitions while preserving intentional textile fibers and individual hair strands.
+
+NEGATIVE CONSTRAINTS
+
+No identity changes, altered body proportions, added mechanical joints,
+
+generic replacement face, new makeup, extra accessories,
+
+shoes, slippers, bathrobe, missing pillow, missing eye patches,
+
+illegible lettering, brand marks, extra panels,
+
+inconsistent outfits, duplicate limbs, malformed hands, or cropped feet.
+
+OUTPUT
+
+One polished 16:9 three-panel character sheet:
+
+front full-body outfit view, front face close-up, and true side face close-up.
+
+See all
+Copy prompt
+Recreate
+@image1
+03 / Assets Image
+
+Myu’s soft curls and powder-blue accessories echo the homewear palette. Use this kitten as the episode reference, or upload a photo of your own furry companion for a personal version.
+
+
+
+
+[Insert image: Cat Myu.png] - @image2
+Pet reference — Myu, the curly-haired kitten.
+@image2
+
+@Cat-Myu
+
+Character
+
+04 / The Made Video - prompt
+
+
+
+Use @Image 3 as the exact woman’s appearance reference. Use @Cat-Myu only for MYU’s appearance, accessories and home atmosphere. Ignore all audio in the reference video. Replace its incorrect size relationship and incomplete storyline with the complete story described below. Preserve the woman’s exact reference face, eyes, nose, lips, skin tone, hairstyle, blue towel turban, green under-eye patches, striped pajama shirt and shorts, piping, buttons and colors. Maintain the sheet’s exact head-to-body ratio, shoulders, torso, limbs and hands. She is this specific stylized 3D character at adult woman scale, approximately 165 cm tall, never a miniature doll. Do not replace her reference anatomy with generic realistic human proportions. Keep her shoulder blanket physically continuous whenever visible. Remove socks, leg warmers and footwear: she remains barefoot throughout the home. MYU is an ordinary adult domestic cat, approximately 25–30 cm at the shoulder and 40–50 cm in body length excluding the tail. Preserve its face, grey-white curly fur, markings, ear ribbons and neck accessory from. When both stand on the same floor, MYU’s back stays below the woman’s knees. Furniture is adult-sized. Maintain this scale in every shot, including close-ups, the sofa and the bed. Neither subject changes size. Open with MYU sitting on a sofa cushion and the woman kneeling beside the sofa, naturally lowering her face to the normal-sized cat’s level. She looks at MYU affectionately and says, “ミュ〜、一緒に遊ぼ！” She places both hands behind her back, leans forward and puckers her lips for a kiss. MYU first shifts sideways to avoid her once. She follows with her face, and MYU then raises one front paw, places its paw pad against only her puckered lips and gently pushes her face away. Show the initial avoidance and the blocked kiss as separate, readable actions. Use a side or three-quarter view to reveal the contact without covering her eyes or merging their anatomy. MYU lowers its normally sized paw, turns its entire body away and walks along the sofa with its back facing her. Cut to the woman drawing back and puffing her cheeks. She says, “ふーん。もう知らない。” and deliberately turns away, pretending to be annoyed. Connect this reaction to a new shot of her working at an adult-sized desk. MYU stands on the desk beside her hand, gives an attention-seeking meow and rubs its cheek against her forearm. She notices but keeps looking at her work and moves her hand away. Clearly show both its affectionate request and her deliberate refusal to respond. Cut to the woman walking toward the bathroom. MYU flops onto its back on the floor in her path, exposes its belly and curls its paws invitingly. She looks down briefly, carefully steps around it with her bare feet and enters the bathroom. Show its complete belly-up gesture and her avoiding it, keeping MYU naturally cat-sized. Connect the next cut to the woman sitting on the sofa watching television. MYU approaches beside her, looks toward her face, meows and gently taps her forearm with one front paw to ask her to play. Its attention is directed at her, not the television. She shifts slightly away and continues watching. She laughs at the television and says, “あはは！” Show them together at the correct relative scale. Then cut clearly to the bedroom. Establish the adult-sized bed and show the woman lying on her back, her head on a pillow and her body supported by the mattress. Briefly reveal her bare feet. MYU climbs onto the bed and walks toward her torso. Establish that she is reclining in bed before moving closer. MYU stands comfortably over her pajama-covered upper abdomen and begins unmistakable kneading. Hold an uninterrupted close-up showing both front paws and the fabric beneath them. The left paw presses down and visibly compresses the pajama fabric, releases, and then the right paw presses and releases. Show at least two complete alternating left-right cycles, with gentle toe spreading and shoulder movement. The fabric visibly indents and relaxes with every press. This is rhythmic kneading on the reclining woman in bed, not walking, scratching, simultaneous tapping or kneading a sofa cushion. Keep its weight and contact gentle, with no intersecting anatomy. MYU purrs audibly. MYU stops kneading, looks at her and slowly blinks. She tilts her face toward it. MYU briefly touches its nose to hers, rubs its cheek beneath her chin and rests one front paw against her forearm as if asking her to stay. Show these affectionate gestures clearly while preserving their natural size difference. Her pretend annoyance melts. She says, “もう、むり〜！” with affectionate delight, then “はい、許しちゃう！” She gently strokes MYU beside her face. End in the bedroom with her still reclining on the bed and MYU nestled beside her, purring. Generate the voice independently without any audio reference or voice sample. Use one consistent Japanese-speaking adult woman in her twenties, with a medium pitch, relaxed conversational delivery and subtle playful warmth. Keep the voice clearly adult rather than childish, squeaky, baby-like or exaggerated anime speech. Maintain the same vocal identity across all five lines and synchronize her lips accurately. MYU produces only natural meows and purring. Generate fresh room ambience, footsteps, television sound and fabric movement beneath the dialogue. Connect the locations with clear hard cuts and preserve every story event in order: approaching, avoiding, blocking the kiss, turning away, sulking, ignoring MYU at the desk, stepping around its belly-up pose, ignoring its request beside the television, reclining in bed, visible alternating kneading, affectionate face contact and reconciliation. Do not omit locations or replace the middle scenes with additional sofa footage. Give the bed sequence enough screen time for every gesture to remain readable. Use clear shared-scale shots, a side view for the blocked kiss, readable desk and bathroom views, and a dedicated bed kneading close-up. Apply restrained early-2000s digital-camera color styling while preserving reference colors. Keep surfaces clean, lighting stable and fur clearly separated. Avoid color bleeding, cloudy shading, patchy gradients, banding, noise, coarse grain, compression marks, flicker, duplicate paws, fused anatomy and changing proportions. Use only the five specified spoken lines. Add no subtitles or on-screen text.
+
+See all
+Copy prompt
+Recreate
+
+Make it yours with your own photo and pet. 
+
+Share your version on Instagram with @picassong.art and #picassong_art 
+
+I’d love to see who ends up wearing the eye patches! 
+
+You can also find me on Higgsfield as @picassong. 
+
+Please use photos you own or have permission to use; sharing this workflow does not grant rights to third-party reference images or character designs.
+
+@PICASSONG
+Contents
+Myu's Push-and-Pull
+Make your version in three steps
+01 / Image prompt 1 - Change Character
+Character Sheet 1
+02 / Image prompt 2 - Change Cloth
+@image1
+03 / Assets Image
+@image2
+04 / The Made Video - prompt
+@picassong

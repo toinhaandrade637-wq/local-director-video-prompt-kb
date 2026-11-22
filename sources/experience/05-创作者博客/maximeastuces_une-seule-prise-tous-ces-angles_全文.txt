@@ -1,0 +1,189 @@
+【项目】UNE SEULE PRISE. TOUS CES ANGLES.（@maximeastuces · 创作者博客）
+【链接】https://higgsfield.ai/@maximeastuces/blogs/une-seule-prise-tous-ces-angles
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+UNE SEULE PRISE. TOUS CES ANGLES.
+
+Oct 3, 18:53 · 6 min
+
+UNE SEULE PRISE. TOUS CES ANGLES.
+@maximeastuces
+1.7K
+0
+0
+
+Cette vidéo a été filmée sur un trépied, sans jamais bouger la caméra. Tous les autres angles ont été recréés par l'IA, avec mes vrais gestes et ma vraie voix. Voici exactement comment j'ai fait, étape par étape, avec les prompts à copier.
+
+0:00 / 0:00
+
+
+
+
+━━━━━━━━━━━━━━━━━━
+
+CE QU'IL TE FAUT
+
+Un téléphone et un trépied
+3 selfies de toi (face, profil gauche, profil droit)
+Un compte Higgsfield avec des crédits (on utilise GPT Image et Seedance 2.5)
+L'app Claude ou ChatGPT, avec le connecteur Higgsfield 
+
+━━━━━━━━━━━━━━━━━━
+
+ÉTAPE 1 : FILME UNE SEULE PRISE SUR TRÉPIED
+
+30 secondes maximum, téléphone fixe, bonne lumière. Choisis ton format maintenant (horizontal ou vertical) : tu le garderas jusqu'au bout.
+
+Astuce clé : quand tu dis « j'ajoute une nouvelle caméra ici », tourne la tête et pointe un endroit précis. C'est là que l'IA placera la caméra, et on te verra regarder droit dans l'objectif.
+
+0:00 / 0:00
+
+
+
+
+━━━━━━━━━━━━━━━━━━
+
+ÉTAPE 2 : PRENDS 3 SELFIES
+
+Un de face, un de profil gauche, un de profil droit. Même tenue, mêmes accessoires, même coiffure que dans ta vidéo.
+
+━━━━━━━━━━━━━━━━━━
+
+ÉTAPE 3 : CONNECTE HIGGSFIELD À CLAUDE
+
+Dans l'app Claude, ajoute le connecteur Higgsfield et connecte ton compte. Claude peut alors lancer GPT Image et Seedance pour toi, directement dans la conversation.
+
+━━━━━━━━━━━━━━━━━━
+
+ÉTAPE 4 : CRÉE TON CHARACTER SHEET
+
+Envoie tes 3 selfies à Claude avec ce prompt :
+
+Create a photorealistic character sheet of this person in front of a grey studio background. Upper body portraits only. Front view, three quarter view left and right, and both side profiles. Same clothing, same accessories and same hairstyle as in the photos.
+
+Cette planche garde ton visage identique sous tous les angles.
+
+Create a photorealistic character sheet of this person in front of a grey studio background. Upper body portraits only. Front view, three quarter view left and right, and both side profiles. Same clothing, same accessories and same hairstyle as in the photos.
+
+Copy prompt
+Recreate
+
+
+
+
+━━━━━━━━━━━━━━━━━━
+
+ÉTAPE 5 : ENVOIE TA VIDÉO, TON SCRIPT ET CE PROMPT
+
+Dans la même conversation, envoie ta vidéo et colle ce message :
+
+Je veux que tu me crées une vidéo ultra réaliste avec Seedance en utilisant Higgsfield, avec plusieurs angles de caméra. Garde exactement le même format que ma vidéo d'origine. Laisse les 3 premières secondes sous l'angle original, puis change d'angle à chaque phrase, en suivant ce que je dis dans le script. Garde le son original de ma vidéo sur tout le montage.
+
+Voici mon script :
+"[COLLE TON SCRIPT ICI]"
+
+Utilise le character sheet qu'on a créé uniquement pour garder mon visage identique sous chaque angle.
+
+Voici le prompt à utiliser pour chaque angle :
+
+@video1, keep everything the same. Re-shoot this exact clip from one new camera viewpoint. Every movement comes from @video1 and matches it frame for frame: speech, expressions, gestures, body motion. Nothing is re-performed, only the camera is new. Same person, same clothing, same location, same light. Use the character sheet images only to hold the facial identity from the new viewpoint.
+
+SPOKEN WORDS
+In @video1 they say: "[LA PHRASE DE CE PLAN]". The mouth matches these exact words at their exact original timing.
+
+CAMERA
+[Describe only the camera. Shot size, angle, one movement.]
+
+POSITIVE LOCKS
+The motion mirrors @video1 exactly in timing. Same person, same clothing, same location. Lip sync matches the spoken words. No music. No subtitles. No on-screen text.
+
+Je veux que tu me crées une vidéo ultra réaliste avec Seedance en utilisant Higgsfield, avec plusieurs angles de caméra. Garde exactement le même format que ma vidéo d'origine. Laisse les 3 premières secondes sous l'angle original, puis change d'angle à chaque phrase, en suivant ce que je dis dans le script. Garde le son original de ma vidéo sur tout le montage.
+
+Voici mon script :
+
+"[COLLE TON SCRIPT ICI]"
+
+Utilise le character sheet qu'on a créé uniquement pour garder mon visage identique sous chaque angle.
+
+Voici le prompt à utiliser pour chaque angle :
+
+@video1, keep everything the same. Re-shoot this exact clip from one new camera viewpoint. Every movement comes from @video1 and matches it frame for frame: speech, expressions, gestures, body motion. Nothing is re-performed, only the camera is new. Same person, same clothing, same location, same light. Use the character sheet images only to hold the facial identity from the new viewpoint.
+
+SPOKEN WORDS
+
+In @video1 they say: "[LA PHRASE DE CE PLAN]". The mouth matches these exact words at their exact original timing.
+
+CAMERA
+
+[Describe only the camera. Shot size, angle, one movement.]
+
+POSITIVE LOCKS
+
+The motion mirrors @video1 exactly in timing. Same person, same clothing, same location. Lip sync matches the spoken words. No music. No subtitles. No on-screen text.
+
+See all
+Copy prompt
+Recreate
+
+Claude découpe ta vidéo phrase par phrase, choisit un angle par phrase, génère chaque angle avec Seedance 2.5, puis remonte le tout avec ton vrai son.
+
+━━━━━━━━━━━━━━━━━━
+
+ÉTAPE 6 : CORRIGE EN UN SEUL MESSAGE
+
+Regarde le premier montage et dis simplement ce qui ne va pas. Voici le retour exact que j'ai fait :
+
+C'est pas mal, mais quelques corrections :
+
+Le format doit être 16:9, comme l'original.
+Au début, quand je dis « tous ces différents angles », montre plusieurs angles rapides.
+À 13 secondes, la nouvelle caméra doit être de l'autre côté, exactement là où je pointe, pour qu'on me voie regarder droit dans l'objectif.
+
+━━━━━━━━━━━━━━━━━━
+
+LE RÉSULTAT, ANGLE PAR ANGLE
+
+
+
+
+━━━━━━━━━━━━━━━━━━
+
+
+
+
+LES LIGNES CAMERA À COPIER (une seule par plan)
+
+La caméra recule :
+Starts as a medium shot from the front at chest height, then one smooth continuous dolly-out straight backwards, ending on a wide full-body shot that reveals the whole location around him.
+
+La caméra se rapproche :
+Starts as a medium-wide shot from the front at eye level, then one smooth continuous dolly-in toward him, ending on a tight close-up of his face and shoulders looking into the lens.
+
+Nouvelle caméra là où tu pointes :
+The new camera stands exactly at the spot he points to in @video1, on a tripod, eye level, medium shot from the waist up. At the start he is seen in three-quarter view; when he turns his head and points, he looks straight into this new lens with direct eye contact and points at the viewer. Completely static, locked-off.
+
+Vue du ciel (drone) :
+Aerial drone shot from the sky, high above, looking down at a steep high angle onto him. One slow, smooth descending drone movement toward him.
+
+Contre-plongée :
+Low-angle medium shot from his front-left, camera at waist height tilted up, three-quarter view with the building and sky behind him. Static camera, no movement.
+
+Plongée (grue) :
+High-angle shot from a camera crane above and in front of him, looking down at about 45 degrees, medium-wide framing, his face clearly visible. Static.
+
+Gros plan de côté :
+Tight close-up on his face in near side profile, telephoto lens, shallow depth of field with the background blurred. Static.
+
+━━━━━━━━━━━━━━━━━━
+
+LES 6 RÈGLES POUR UN RENDU PARFAIT
+
+Garde ton format : une vidéo en 16:9 reste en 16:9 du début à la fin.
+Un angle par phrase : des morceaux de 4 à 6 secondes, coupés entre deux phrases.
+Un seul mouvement de caméra par plan : recule, avance ou reste fixe.
+Garde ton vrai son sur tout le montage, la synchro reste naturelle.
+Pour un regard caméra, place la nouvelle caméra exactement là où tu regardes.
+Finis sur du vrai : pour l'appel à l'action, un zoom dans ta prise 4K.

@@ -1,0 +1,61 @@
+# 本地导演助手 · 视频提示词知识库
+
+> 面向 AI 的精简入口。完整规则见 AGENTS.md；人看 README.md。
+
+## 这里有什么
+
+- 611 个 Higgsfield 影片项目，174,404 条去重提示词，按项目压缩为 prompts.jsonl.gz。
+- 977 条多模型提示词 / 运镜 / 器材 / 演技词典 / 教程。
+- 35 个方法页文件：Higgsfield 视频 8、生图 2、通用 4；Seedance 2.5 12 页 + 3 导航。
+- 1,139 份经验文本：官方教程、创作者博客、项目 brief、官方技能包、18 篇全流程方法论。
+- 8 个可加载技能 + 11 套官方技能文本。
+
+## 先读什么
+
+1. AGENTS.md —— 规则、路由、引用格式。
+2. docs/02-任务路由.md —— 按任务选阅读路线。
+3. catalog/README.md —— 索引文件说明。
+4. catalog/methods.json —— 方法页清单。
+5. catalog/skills.json —— 技能清单。
+
+## 怎么检索
+
+```bash
+python tools/kb.py search --keyword "关键词" --limit 10
+python tools/kb.py search --project DETOUR --cat scenes --type video --limit 10
+python tools/kb.py search --source vpl --zone 主库 --cat "动作·打斗" --limit 10
+python tools/kb.py get --id HFX-DETOUR-000123
+python tools/kb.py get --id VPL-sd2-240
+python tools/kb.py stats
+```
+
+索引文件：
+
+- catalog/higgsfield-prompts.index.jsonl —— 174,404 行，字段 id/project/cat/type/model/len/line/head。
+- catalog/video-prompt-library.index.jsonl —— 977 行，字段 id/zone/model/cat/sub/name/desc/tags/lang/length/line/head。
+
+## 关键路径
+
+- Higgsfield 语料：sources/higgsfield/prompts/<项目>/prompts.jsonl.gz
+- Higgsfield 项目文档：sources/higgsfield/projects/<项目>/
+- Higgsfield 方法：sources/higgsfield-knowledge-base/现行知识/{视频,生图,通用}/
+- Seedance 方法：sources/seedance25-knowledge-base/现行知识/
+- 技能：skills/
+- 经验文本：sources/experience/
+- 原始知识库：sources/higgsfield-knowledge-base/、sources/seedance25-knowledge-base/
+
+## 硬规则
+
+- 先索引后回读，不要整库加载。
+- 参考只迁移结构，事实必须换成当前项目的。
+- 引用用稳定 ID：HFX-<项目>-<六位行号>、VPL-<原id>、SD25-<页序号>、H-<轨道>-<页序号>。
+- 语料里没有的能力，不要凭记忆补。
+
+## 来源
+
+- https://github.com/YIJUEYIJUE/higgsfield-film-prompts
+- https://github.com/YIJUEYIJUE/video-prompt-library
+- https://github.com/toinhaandrade637-wq/higgsfield-knowledge-base
+- https://github.com/YIJUEYIJUE/skills
+- 本地工作区（611 项目全量数据包 + 经验内容）
+- Seedance 2.5 知识库（原私有库）

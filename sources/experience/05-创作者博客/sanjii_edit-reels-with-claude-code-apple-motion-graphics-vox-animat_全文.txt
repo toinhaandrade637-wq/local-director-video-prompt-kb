@@ -1,0 +1,196 @@
+【项目】EDIT REELS WITH CLAUDE CODE: APPLE MOTION GRAPHICS, VOX ANIMATION AND VIRAL CAPTIONS（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/edit-reels-with-claude-code-apple-motion-graphics-vox-animation-and-viral-captions
+【提示词块】13
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+EDIT REELS WITH CLAUDE CODE: APPLE MOTION GRAPHICS, VOX ANIMATION AND VIRAL CAPTIONS
+@sanjii
+108
+0
+0
+Before You Start
+
+This is the exact workflow behind the reel: raw talking-head clips edited end to end by Claude Code. The cuts, the Apple-style motion graphics, the Vox animation, the new color grade and the massive word-by-word captions all come from one sentence typed into Claude. Editing one minute of video used to take 12 hours in a timeline; this way it takes about 10 minutes.
+
+
+
+
+You need three things: Claude Code, your raw clips and one reference video in the style you want. The skill handles everything else. It carries the rules a good editor keeps in their head, reads your reference, and writes the whole edit for you: the cut list, the grade, the captions, the motion graphics and the final render.
+
+
+
+
+Under the hood it all runs on your machine: ffmpeg for the cuts, the grade and the sound, Whisper for word-level timing, and Remotion for the motion graphics and captions. Claude installs whatever is missing on the first run.
+
+SKILL.md
+MD
+Stage 1 — The Inputs
+Your Raw Clips
+
+Put everything in one folder and open Claude Code there:
+
+my-reel/
+  raw/            your clips, any number, any order
+  reference.mp4   one reel in the style you want
+  brand/          optional: font files, logo, colors
+  music/          optional: one track
+  sfx/            optional: whoosh, pop and click sounds
+Film vertical if you can. Horizontal clips work too: Claude crops around your face.
+Don't stop between takes. Flubbed a line? Pause and say it again. The skill keeps the last clean take and cuts every pause.
+Sound beats picture. A clip-on mic in a quiet room matters more than the camera.
+Leave room above your head. That's where the motion graphics go, and the captions sit below your face.
+The Reference Video
+
+One reel, 15–60 seconds long, that looks the way you want yours to look. Claude can't watch video, so it reads the reference frame by frame and measures it: how often it cuts, how big the captions are and where they sit, how warm and contrasty the color is, what kind of graphics show up and how often. That becomes a style card for your edit, and anything you say in the prompt overrides it.
+
+
+
+
+No reference? The skill falls back to a clean Apple look with bold captions, but you get far closer to what you want with one.
+
+Optional Extras
+Brand font files, colors (hex) and logo.
+A music track. Claude ducks it under your voice and masters the reel to streaming loudness.
+Sound effects. Claude only uses what's in the folder: no sfx folder, no sound effects.
+Missing a B-roll shot or an image for the Vox segment? With the Higgsfield MCP connected to Claude, the skill generates it in 9:16 and drops it into the edit.
+Stage 2 — The Prompting Framework
+
+Download the skill and unzip it into ~/.claude/skills/ (you'll get a reel-editor folder there), then start Claude Code in your project folder. Claude picks the skill up on its own whenever you ask it to edit footage. It needs Claude Code rather than the chat app, because it runs ffmpeg and renders the video on your computer.
+
+SKILL.md
+MD
+
+
+
+
+What's inside is everything an editor and a motion designer carry around in their heads:
+
+The cut. Every pause longer than about a third of a second goes. When you repeat a line, the last clean take stays. Cuts land between words, never inside one.
+The hook. The first two seconds get the biggest caption, a punch-in and a motion graphic. No logo, no intro.
+Pacing. Something changes on screen every 2–4 seconds: a punch-in, a graphic or a caption emphasis. Punch-ins also hide the jump cuts.
+Apple-style motion graphics. Frosted glass cards over your footage, clean type, one accent color, and motion that glides in and settles without a bounce.
+Vox-style animation. Paper textures, you as a photo print or a cut-out, a yellow highlighter, hand-drawn arrows and film grain, all moving on twos like stop-motion.
+Color. Six tested looks, from clean to cinematic, matched to your reference with skin tones protected. The new grade can sweep in behind a line of light.
+Captions. One to three words at a time, huge and bold, with the active word highlighted, landing on the exact frame you say it. They can even sit behind you.
+Tech specs. 1080 × 1920, safe zones that keep text clear of the Reels and TikTok buttons, and audio mastered to −14 LUFS.
+
+Two strict rules before you hit enter:
+
+Always give it a reference. Without one, Claude guesses the style. With one, it copies the pacing, captions and color you actually want.
+Stills before the render. The skill checks key frames first (the hook, every graphic, every transition), so mistakes get fixed before the full render instead of after it.
+Stage 3 — The Prompts
+
+Run everything in one Claude Code session, opened in your project folder. Prompt 1 is the whole edit. The four layers after it are what the reel shows step by step, and you can run any of them on its own. The rest are one-line fixes for the second pass.
+
+Prompt 1 — The Full Edit
+
+What it does: The exact sentence from the video. Claude reads the reference, cuts the raw clips, grades them, adds Apple and Vox motion graphics and captions, and renders the finished reel.
+
+Edit this footage with Apple and Vox animations, change the color grading, and add engaging captions. Match the style of reference.mp4.
+
+Copy prompt
+Recreate
+Layer 1 — Apple-Style Motion Graphics
+
+What it does: Adds frosted-glass cards and labels over your footage, with clean type and smooth blur-in reveals.
+
+Add Apple-style motion graphics: frosted glass cards for the key points, clean bold type and smooth blur-in reveals. Keep my face clear.
+
+Copy prompt
+Recreate
+Layer 2 — Vox Animation
+
+What it does: Turns one part of the reel into a Vox-style segment: a paper background, you as a taped-on photo print, highlighted key words and hand-drawn arrows.
+
+Turn the part where I explain how it works into a Vox-style segment: paper background, me as a photo print with tape, the key words highlighted and hand-drawn arrows.
+
+Copy prompt
+Recreate
+Layer 3 — Color Grading
+
+What it does: Swaps the look for a warm cinematic grade while keeping skin natural, and reveals it with a line of light sweeping across the screen.
+
+Change the color grading to a warm cinematic look and keep my skin natural. Reveal the new grade with a line that sweeps from the top-left corner to the bottom-right.
+
+Copy prompt
+Recreate
+Layer 4 — Viral Captions
+
+What it does: Burns in massive word-by-word captions that pop in on the exact frame you say each word, with the active word highlighted.
+
+Make massive viral captions: one to three words at a time, extra bold, the active word highlighted, popping in exactly on my voice.
+
+Copy prompt
+Recreate
+Fix 1 — Tighter Cut
+
+What it does: Removes the leftover pauses and repeated lines when the first pass still feels slow.
+
+Cut every pause longer than a third of a second and keep only the best take of each line.
+
+Copy prompt
+Recreate
+Fix 2 — Harder Hook
+
+What it does: Stacks the strongest moves on the first two seconds, where viewers decide whether to keep watching.
+
+Make the first two seconds hit harder: the biggest caption, a punch-in and a motion graphic on the first word.
+
+Copy prompt
+Recreate
+Fix 3 — Captions Behind You
+
+What it does: Separates you from the background for the hook, so you stand in front of the giant words.
+
+Put the hook captions behind me, so I'm standing in front of the words.
+
+Copy prompt
+Recreate
+Fix 4 — Match the Pacing
+
+What it does: Speeds the edit up to the cut rhythm of your reference.
+
+The edit is slower than the reference. Match its cut rhythm.
+
+Copy prompt
+Recreate
+Polish 1 — Another Look
+
+What it does: Regrades the same edit into a darker, warmer cinematic look with a vignette and film grain.
+
+Make it more cinematic: darker and warmer, with a light vignette and film grain.
+
+Copy prompt
+Recreate
+Polish 2 — Different Captions
+
+What it does: Changes the caption font, size and position without touching the rest of the edit.
+
+Change the captions to a condensed font, one word at a time, in the middle of the screen.
+
+Copy prompt
+Recreate
+Save the Style
+
+What it does: Keeps the style card and settings from a reel you like, so the next one skips the reference step.
+
+I like this one. Save the style as my-reels.
+
+Copy prompt
+Recreate
+Same Style, New Footage
+
+What it does: Edits the next reel in your saved style. This is how you use Claude for every single reel.
+
+Edit these new clips in the same style as last time.
+
+Copy prompt
+Recreate
+Ready To Make Your Own?
+
+The editing hours were never about taste. They went into cutting pauses, keyframing cards, timing captions word by word and grading clip by clip, and that's exactly the part Claude takes over. Grab the skill, drop in your raw clips and a reference, type one sentence, then polish with one-line fixes.
+
+READY TO MAKE YOUR OWN
+Go!

@@ -1,0 +1,606 @@
+【项目】BLACK MATTER VÍDEO（@lucassena · 创作者博客）
+【链接】https://higgsfield.ai/@lucassena/blogs/black-matter-v-deo
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+BLACK MATTER VÍDEO
+L
+@lucassena
+23
+0
+0
+
+Salve, valeu por comentar lá no Instagram. Aqui estão os prompts que eu prometi.
+
+Tem dois jeitos de usar:
+
+
+
+
+Atalho: sobe uma selfie sua e clica em "recreate". O vídeo é refeito com o seu rosto.
+Do zero: mais abaixo eu mostro o processo inteiro, com a foto de referência, o storyboard e o prompt de cada parte.
+
+Se fizer o seu, me marca que eu quero ver 🔥
+
+
+
+
+Vídeo referencia
+
+
+
+
+Prompt do vídeo
+
+É só subir sua selfie (substituir no prompt o @image 1 pelo seu character sheet) e clicar em recreate
+
+
+
+
+Dica: use uma selfie de frente, com luz boa e o rosto inteiro aparecendo. O resultado muda de uma geração pra outra, então vale gerar mais de uma vez.
+
+
+
+
+(Se você tem um caracter sheet seu vai ficar muito melhor, procura no meu feed que tem um prompt ensinando como fazer)
+
+
+
+
+FACE AND HAIR REPLACEMENT WITH THE ORIGINAL SHOT SEQUENCE PRESERVED.
+
+
+
+
+Replace only the lead character in @Video 1 with the person in @Image 1. Everything else must match the source video frame for frame.
+
+
+
+
+REFERENCE IMAGE
+
+Use @Image 1 only for the person's identity: face, facial features, skin tone, hair color and hairstyle. Ignore its clothing, background, lighting and pose.
+
+
+
+
+COSTUME (KEEP FROM SOURCE)
+
+The lead character wears the same costume in every shot of @Video 1: black rectangular glasses, cream crewneck sweatshirt with red varsity lettering, matching cream knit shorts with a red "ST" patch, white puffy snow boots and a dark green canvas backpack with brown leather straps. Keep this costume exactly as in each source frame. Do not transfer clothing or accessories from @Image 1.
+
+
+
+
+EXACT SOURCE TIMELINE
+
+Timestamps are seconds from the start of @Video 1. Each interval ends immediately before the next one. The descriptions identify EXISTING footage; they are not instructions to generate new scenes. Where a description is incomplete, preserve the source.
+
+
+
+
+00.00-01.83
+
+LOCATION: Dark industrial garage, directly in front of the large dark metal box and its open doorway.
+
+ACTION: Close-up. She leans into the lens and adjusts the camera; her hand passes blurred across the bottom of the frame. Keep the slight tilt and the intentional focus drift.
+
+FACE: Fully visible and large. Transfer the identity here with special care.
+
+
+
+
+01.83-03.04
+
+LOCATION: Same fixed view of the box and doorway.
+
+ACTION: Full body facing the camera. She steps back toward the doorway while pulling both backpack straps.
+
+
+
+
+03.04-06.58
+
+LOCATION: Same fixed view.
+
+ACTION: Rear view. She walks through the doorway into the dark interior, then a dark metal sliding door closes across the opening. End on the closed box.
+
+
+
+
+06.58-07.75
+
+LOCATION: Inside the box: an endless dark industrial corridor with closed metal doors, overhead beams and dim blue-green light.
+
+ACTION: Low frontal tracking shot. She runs toward the camera; hair and backpack bounce with each stride. Alert, strained expression.
+
+
+
+
+07.75-08.75
+
+LOCATION: Same corridor, elevated diagonal view.
+
+ACTION: She walks along the corridor toward a metal door on the left side of the frame.
+
+
+
+
+08.75-09.00
+
+LOCATION: Same elevated view.
+
+ACTION: Jump cut. She stands at the first door with her hand on its U-shaped pull handle.
+
+
+
+
+09.00-12.42
+
+LOCATION: Over-the-shoulder view from inside the corridor. The open door reveals the red world: storm clouds, lightning, a giant branching creature in the sky and a dark vine-covered structure.
+
+ACTION: She pulls the door open and looks out. Her face is mostly hidden; only her hair, cheek edge and sleeve catch the red light. Preserve the red world, lightning and creature movement exactly.
+
+
+
+
+12.42-15.29
+
+LOCATION: Corridor, tight frontal close-up, strong red light on her face.
+
+ACTION: She frowns with fear and doubt, then pulls the door shut. The door swings across the frame from the left until it covers her completely; the red light disappears and the shot ends on the closed door and its handle in cold teal light.
+
+FACE: Fully visible. Keep the source expression and the red lighting on the new face.
+
+
+
+
+15.29-16.88
+
+LOCATION: Corridor, side medium view along the dark metal wall.
+
+ACTION: In profile, she walks right toward a second door and grips its handle with her right hand.
+
+
+
+
+16.88-20.79
+
+LOCATION: Corridor, three-quarter rear wide view.
+
+ACTION: She pulls the second door open. A turquoise alpine lake and a large mountain appear through the doorway, daylight floods the corridor, and she steps toward the threshold holding the door.
+
+
+
+
+20.79-22.42
+
+LOCATION: Exterior. The large dark metal box stands on a rocky lakeshore with grass under a cloudy sky.
+
+ACTION: Wide frontal view. She walks out of the doorway toward the camera.
+
+
+
+
+22.42-29.96
+
+LOCATION: Rocky shore of the turquoise lake, mountain in the background, overcast daylight.
+
+ACTION: Three-quarter rear view. She looks at the mountain, takes off the backpack, sets it on the ground and sits on a rock facing the water. Her face appears only in profile.
+
+
+
+
+29.96-END
+
+Preserve the final black frame. Add no person or image.
+
+
+
+
+CUT RULES
+
+Keep every cut on its exact original frame. Do not add, remove, reorder, extend or blend shots. Preserve the performer's position, scale, pose, movement direction and action phase on both sides of each cut.
+
+
+
+
+IDENTITY EDIT
+
+Change only the face, skin tone and hair to match @Image 1. Keep the source body, hands, pose, movement, timing, expressions, gaze, head angles and glasses. Match the new face and hair to each shot's lighting (cold blue-green corridor, red spill, alpine daylight) and motion blur.
+
+
+
+
+When the face is turned away, hidden or very small, keep the source framing and do not invent a visible face; only adapt the visible hair.
+
+
+
+
+There is only one person in the video. Do not add anyone.
+
+
+
+
+Preserve the original audio, camera movement, frame order, duration, 9:16 aspect ratio and all effects: focus drift, sliding door, lightning, creature movement and smoke.
+
+
+
+
+FINAL PRIORITY
+
+For every output frame, everything except the lead character's face, skin tone and hair must match the corresponding frame of @Video 1.
+
+See all
+Copy prompt
+Recreate
+Como eu fiz do zero
+
+Fiz esse vídeo em etapas: criei a personagem, gerei a primeira parte, montei um storyboard pra segunda, gerei a segunda parte e, no final, fiz os cortes na pós-produção. Abaixo está cada etapa com o prompt que eu usei.
+
+1. A personagem
+
+A personagem do vídeo é a Bella. Eu criei ela a partir de um character sheet, que é uma folha com o rosto e o corpo dela em vários ângulos. Já mostrei como faço isso em outro vídeo:
+
+
+
+
+2. A foto da caixa
+
+
+
+
+Essa foto é a referência da caixa. Ela define o formato, o material e a porta, e entra no vídeo 1 e no storyboard.
+
+3. Vídeo 1: ela entrando na caixa
+
+Modelo: Seedance | 9:16 | 20s Referências: @avatar + a foto da caixa como @image_1
+
+A ideia aqui é que a câmera é a dela: ela ajusta o foco no tripé, arruma a mochila, respira fundo e entra na caixa.
+
+SEEDANCE: BELLA RECORDS HERSELF ENTERING THE BOX
+
+FORMAT
+20 seconds, vertical 9:16, one continuous uninterrupted take.
+
+ACTIVE REFERENCES
+@avatar defines the exact character identity, face, hair, body proportions, clothing and accessories. Preserve her reference appearance throughout. Add one practical dark backpack worn over both shoulders.
+@image_1 is the supplied photograph of the large dark metal box inside the empty industrial garage. It controls the box geometry, doorway position, metal surfaces, concrete floor, windows, ceiling and lighting. Use this photograph as the environment reference.
+
+SCENE AND CAMERA POSITION
+The entire video is the footage recorded by the camera Bella is adjusting. The viewer looks directly through its lens.
+
+The camera is already mounted on a tripod in front of the box, slightly to the right of its doorway, showing the front and right side of the structure as in the reference. Frame the doorway, the surrounding metal facade and enough floor to show Bella walking inside.
+
+The tripod and camera body remain outside their own field of view. Her hands can enter the edges of the frame as she adjusts the lens and tripod head.
+
+FIRST FRAME
+@avatar is already approaching the lens from the foreground-left, wearing her backpack. The box and open dark doorway are behind her. She leans toward the camera, concentrating on setting up her recording.
+
+ACTION TIMING
+
+0–6 seconds: Camera setup.
+Bella looks directly into the lens to check the framing. Her face comes close enough to show real skin texture and small natural expressions. One hand reaches beside the lens to turn the focus ring; the other adjusts the tripod head below frame.
+
+The recorded image tilts slightly, makes two small uneven corrections and settles. Focus slips noticeably: her face becomes soft, briefly sharp, then soft again before resolving clearly. Include subtle optical focus breathing, as if an older interchangeable camera lens is being adjusted by hand. These changes affect the recorded image itself.
+
+She releases the camera. A small mechanical vibration settles naturally.
+
+6–10 seconds: Backpack adjustment.
+Bella takes several steps backward toward the box, remaining visible from head to feet. She pulls both backpack straps, settles the weight against her back and adjusts one strap with a short, practical tug. The bag has believable weight; straps move against her clothes.
+
+Focus settles on her position near the entrance. The camera remains stationary after she finishes touching it.
+
+10–13 seconds: The breath.
+She stops just outside the doorway, standing slightly in profile so her face remains visible. She looks into the dark opening, pauses and takes one deliberate deep breath. Her chest and shoulders rise gently, then lower as she exhales. Her expression suggests quiet resolve and slight apprehension.
+
+13–17 seconds: Entering.
+Bella turns toward the opening, briefly touches the metal doorframe with one hand and steps across the threshold. She walks fully inside at a natural pace. Her body and backpack pass through the doorway with enough clearance. The dark interior gradually occludes her as she moves deeper.
+
+17–20 seconds: Closing.
+Only after Bella and her backpack have completely cleared the threshold, a heavy dark metal sliding door travels sideways from its concealed recess in the jamb. It closes steadily across the existing opening, seating firmly with a low metallic latch.
+
+Hold the final stationary view of the closed box for the remaining moment.
+
+REALISM AND CONTINUITY
+Exactly one Bella appears. Maintain her identity and outfit from @avatar, including during the opening close view.
+
+Preserve the garage and box from @image_1. The door moves within the existing doorway; the box remains rigid and stationary.
+
+The only camera movement comes from Bella physically adjusting the tripod at the beginning. After she releases it, the composition stays fixed while she walks away.
+
+Use believable hand contact, grounded footsteps, natural fabric tension, backpack inertia and continuous human movement. Early defocus is intentional optical behavior; the rest of the shot remains clearly readable.
+
+LIGHT AND TEXTURE
+Preserve the cool daylight entering through the high garage windows, muted concrete tones and uneven reflections on the dark metal. Natural skin detail, restrained grain, realistic shadows and gentle highlight roll-off. The older-camera feeling comes from the lens behavior and subtle texture.
+
+AUDIO
+Quiet garage room tone, small tripod clicks, faint focus-ring handling, clothing and backpack rustle, footsteps on concrete, her audible inhale and exhale, then the heavy sliding door and latch. Only environmental sounds and breathing.
+
+
+
+
+4. Storyboard da parte 2
+
+
+
+
+Antes de gerar a segunda parte, montei um storyboard com os 5 momentos principais: o corredor, a porta do mundo vermelho, a reação dela, a porta do lago e a saída da caixa. Gerei em 16:9 e subi uma imagem de referência pra cada lugar, dizendo no prompt onde cada uma tinha que aparecer.
+
+Modelo: Nano Banana Pro | 16:9 Referências: @avatar, @image_1 (mundo vermelho), @image_2 (lago e montanha), @image_3 (corredor) e @image_4 (foto da caixa)
+
+
+
+
+IMAGENS DE REF PARA STORYBOARD
+
+(Perceba que eu usei apenas 4 fotos e 1 delas o próprio prompt trouxe uma outra perspectiva na geração anterior)
+
+
+
+
+{
+  "prompt": "Create ONE photorealistic cinematic storyboard containing EXACTLY FIVE photographs within a single horizontal 16:9 image. Arrange scenes 1, 2 and 3 across the upper row, from left to right. Arrange scenes 4 and 5 across the lower row, from left to right, each occupying half the image width. Use thin, clean dividers. No additional panels, captions or text.",
+  "references": {
+    "@avatar": "Defines the woman's exact identity, facial features, hair, glasses, body proportions, clothing and backpack. Preserve everything consistently across all five scenes.",
+    "@image_3": "Defines the dark industrial corridor, heavy metal doors, repeating overhead beams, worn floor and dim blue-green lighting.",
+    "@image_1": "Defines the ominous landscape behind the first door. Match its visible environment, red atmosphere, stormy sky and distinctive silhouettes.",
+    "@image_2": "Defines the Swiss alpine landscape: pristine turquoise lake, magnificent mountain, rocky shore, grassy banks and sheep.",
+    "@image_4": "Defines the exact exterior of the large industrial metal box. Preserve its shape, proportions, construction and materials. Use only the box from this reference; its garage surroundings must not appear."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "position": "Top left",
+      "camera": "Low-angle frontal medium-wide photograph.",
+      "description": "@avatar runs toward the camera inside the seemingly infinite dark corridor. Capture a natural running stride, believable movement of her hair and backpack, and her recognizable face. Repeating CLOSED metal doors and overhead beams recede into darkness."
+    },
+    {
+      "scene": 2,
+      "position": "Top center",
+      "camera": "Over-the-shoulder photograph from inside the corridor.",
+      "description": "@avatar stands inside the corridor holding the first heavy metal door open, one hand on its handle. Through the doorway, clearly show the ominous world from @image_1. Keep the doorframe visible and the landscape readable beyond it. Red light from that world falls naturally on her hair, sleeve and the surrounding metal. She hesitates at the threshold."
+    },
+    {
+      "scene": 3,
+      "position": "Top right",
+      "camera": "Close three-quarter view of her face.",
+      "description": "@avatar looks confused and uncertain about where she is. Show subtly drawn eyebrows, relaxed lips and a searching gaze toward another door. Her hand remains on the first door's handle as she pulls it almost shut. Only a narrow trace of red light remains at the edge. Prioritize her exact facial identity, natural skin texture and believable expression."
+    },
+    {
+      "scene": 4,
+      "position": "Bottom left",
+      "camera": "Medium-wide three-quarter rear view, photographed from inside the corridor.",
+      "description": "@avatar has chosen a DIFFERENT door and holds it fully open. She remains inside the corridor, immediately before the threshold, with one hand on the handle. Through the doorway, clearly reveal the turquoise lake, immense mountain and several sheep from @image_2. Position her beside the opening so she does not block the landscape. The threshold leads onto the rocky lakeshore. Natural daylight enters the dark corridor, illuminating her profile, sleeve and the floor.",
+      "door_continuity": "This doorway is the entrance of the exact box from @image_4, viewed from inside. Match its thick rectangular metal entrance frame, proportions and raised base. The exterior of this same box will be visible in scene 5."
+    },
+    {
+      "scene": 5,
+      "position": "Bottom right",
+      "camera": "Wide three-quarter view from near the lakeshore, showing the woman, the entire box, the lake and the mountain together.",
+      "description": "@avatar has crossed the threshold and stands a few steps outside the exact box from @image_4, near the clean turquoise water. She looks toward the grandeur of the mountain across the lake. Place the box behind and slightly to one side of her, fully visible and standing firmly on a flat rocky area beside the shore. Its entrance remains open, revealing the dark corridor inside. Several sheep graze naturally on the nearby grassy bank. The enormous mountain dominates the background.",
+      "box_details": "Reproduce the massive industrial cuboid from @image_4, taller than the woman: dark weathered metal panels, vertical seams, broad projecting vertical sections, flat roof, thick rectangular entrance frame and low raised metal base. Preserve the reference's exact proportions, surface markings and construction. Adapt its reflections and shadows naturally to the outdoor daylight.",
+      "landscape_continuity": "Use EXACTLY the same lake, mountain, shoreline, weather and daylight visible through the doorway in scene 4."
+    }
+  ],
+  "continuity": [
+    "Exactly one instance of @avatar per photograph.",
+    "Preserve her exact facial identity, hairstyle, glasses, outfit and backpack throughout.",
+    "Keep the same corridor architecture in scenes 1 through 4.",
+    "The first and second doors are different doors in the same corridor.",
+    "All other corridor doors remain closed.",
+    "Scene 4 shows the box's exit from inside; scene 5 shows the same exit from outside.",
+    "The box in scene 5 must be the exact structure from @image_4, fully visible and consistently scaled to the woman."
+  ],
+  "photographic_style": "Live-action cinematic photography. Natural skin pores, individual hair strands, realistic fabric folds, detailed worn metal, believable hands, correct anatomy, coherent perspective and physically motivated lighting. Restrained cinematic color grading and subtle film grain. Use natural depth of field appropriate to each camera angle.",
+  "avoid": [
+    "Additional panels, captions or watermarks",
+    "Duplicate characters or mixed identities",
+    "Changes to clothing, glasses or backpack",
+    "Plastic skin, beauty smoothing or illustration",
+    "Distorted hands or extra limbs",
+    "Floating doors or isolated doorframes",
+    "Magical glowing portal borders",
+    "A small, redesigned, duplicated or cropped box",
+    "Garage walls, windows or concrete warehouse surroundings in scene 5",
+    "Different mountains or landscapes between scenes 4 and 5"
+  ]
+}
+5. Vídeo 2: o corredor e as duas portas
+
+Modelo: Seedance | 16:9 | 30s Referências: @avatar + o storyboard como @image_1
+
+
+
+
+O storyboard funciona como guia dos planos. O vídeo segue a ordem dos quadros, e cada cena ocupa a tela inteira.
+
+SEEDANCE: INSIDE THE BOX / TWO DOORS / ALPINE ESCAPE
+
+FORMAT
+30 seconds. Horizontal 16:9, full-frame cinematic video. Multiple shots with motivated cuts and distinct camera angles. Follow the action in chronological order.
+
+ACTIVE REFERENCES
+@avatar defines the exact woman: facial identity, blonde hair, black glasses, body proportions, cream sweatshirt, matching shorts, white boots and green backpack. Preserve her appearance throughout.
+
+@image_1 is the supplied five-panel storyboard. It defines the corridor, the first door's red world, the second door's alpine destination and the exterior metal box. Use its panels as scene references. The video fills the entire frame with one scene at a time.
+
+STORY AND SPATIAL CONTINUITY
+She is already INSIDE the box when the video begins. Its interior contains a seemingly infinite industrial corridor.
+
+Two different doors stand several meters apart along the same corridor wall. The first reveals the ominous Upside Down world from the storyboard. She stays inside, closes it and moves to the second door.
+
+The second opens directly onto the alpine lakeshore. Viewed from outside, this doorway belongs to the exact large metal box shown in the reference.
+
+Keep the same doorframes, handles, hinges and opening directions across cuts. Doors move on their hinges with believable resistance. The surrounding corridor doors stay closed.
+
+DOOR OPENING: PRECISE PHYSICAL CONTACT
+Both doors have an existing curved U-shaped metal pull handle attached to the moving door leaf.
+
+Her right hand reaches directly to the middle of the handle's vertical gripping bar. Her fingers curl around the metal bar and her thumb closes against the opposite side. Clearly establish this firm grip BEFORE the door moves.
+
+She pulls the handle toward her body, bending her elbow and shifting her weight slightly backward. Her hand, the handle and the door move together as the rigid door leaf rotates around its fixed hinges.
+
+Keep her fingers wrapped around the same handle throughout the opening. Maintain visible, physically connected hand-to-handle contact across the cut from approaching the door to opening it.
+
+CAMERA LANGUAGE
+Cinematic suspense with varied, purposeful coverage: low frontal tracking, elevated side view, over-the-shoulder reveal, tight facial reaction, side tracking, threshold crossing and an expansive final landscape.
+
+Use a human-operated handheld camera with restrained body sway, small grip corrections and natural footstep movement. Movement becomes calmer as she reaches the lake. Each shot has one clear camera movement and readable framing. Preserve travel direction and eyelines across cuts.
+
+SHOT 1: 00:00–00:03
+LOW FRONTAL TRACKING / RUNNING
+
+First frame: she is already running toward the camera in the corridor, backpack secured on both shoulders.
+
+Camera approximately waist height, several meters ahead of her, moving backward as she runs. Wide rectilinear perspective, approximately 84° diagonal field of view.
+
+Repeated metal beams and closed doors stretch deep behind her. Her boots strike the floor with weight; her hair and backpack react naturally to each stride. Her expression is alert and strained. Keep her face readable.
+
+SHOT 2: 00:03–00:05
+ELEVATED SIDE ANGLE / FINDING A DOOR
+
+Cut to an elevated camera beside the corridor wall, looking diagonally down across her path. Show her traveling left to right toward the first door.
+
+She slows with two grounded braking steps, turns toward the door and reaches directly for the existing U-shaped metal pull handle with her right hand.
+
+Her fingers visibly wrap around the middle of its vertical bar, with her thumb opposing them. The camera makes a short pan following her movement and settles on the established grip. The door remains closed until her hand has securely grasped the handle.
+
+SHOT 3: 00:05–00:09
+OVER-THE-SHOULDER / THE ANIMATED RED WORLD
+
+First frame: camera just behind her left shoulder, her right hand already firmly wrapped around the first door's actual metal pull handle, matching the previous shot.
+
+She pulls through the handle, bends her elbow and shifts her weight backward, drawing the heavy door inward into the corridor. Her hand stays connected to the handle as the door swings on its hinges.
+
+As the opening widens, reveal the red world from the storyboard: storm clouds, dark vine-covered structures and the enormous distant branching creature.
+
+The world is already moving when it becomes visible:
+
+Branching lightning bolts descend from the red storm clouds and strike the distant landscape. Brief flashes illuminate the clouds, ruined structures and creature, casting changing red-white highlights across her hair, cheek, sleeve and the corridor floor.
+
+The enormous creature visibly shifts its central body while its long branching limbs bend and sweep slowly through the sky. Its movement is heavy, deliberate and unmistakable. Preserve its reference silhouette, enormous scale and distant position.
+
+Thick black smoke rises from the ruined ground and rolls between the structures. Dense plumes curl, expand and drift sideways, partially veiling the landscape while keeping the creature's movement readable.
+
+Animate these elements independently: fast lightning flashes, slower creature motion and continuously billowing smoke. Maintain stable buildings and coherent landscape geometry.
+
+The reveal comes from the moving door uncovering this active environment. She remains on the corridor side of the threshold.
+
+The camera advances slightly behind her shoulder, allowing the danger to become clearly visible. A gust subtly moves her hair and sleeve. She sees the creature moving, takes a short startled breath and shifts her weight backward.
+
+SHOT 4: 00:09–00:12
+TIGHT THREE-QUARTER CLOSE-UP / DOUBT AND CLOSURE
+
+Cut to camera at eye height inside the corridor, facing her from the side of the doorway. Tight framing with approximately 47° diagonal field of view.
+
+Her eyes follow the moving creature, her eyebrows draw together and her jaw tightens. She briefly looks down the corridor toward the next door.
+
+The red world continues moving wherever it remains visible behind her: smoke billows, the creature's limbs shift and lightning changes the light across her face.
+
+Keeping her right hand on the same handle, she pushes the door closed with urgency. The moving door progressively obscures the landscape. Red light narrows and disappears as the door meets its frame. Thunder and the outside rumble become muffled.
+
+Finish with the audible metal latch and her face lit again by the corridor's cold light.
+
+SHOT 5: 00:12–00:15
+SIDE TRACKING / CHOOSING AGAIN
+
+First frame: the first door is fully closed behind her.
+
+Camera at chest height on the corridor's opposite side. Track laterally as she turns and moves several meters farther along the same wall toward a different door, maintaining left-to-right screen direction.
+
+She approaches cautiously, breathing quickly, then reaches directly for the second door's existing U-shaped metal pull handle. Her right fingers wrap around the middle of the vertical gripping bar and her thumb closes against its opposite side. Establish the grip while the door is still closed. Her backpack stays on both shoulders.
+
+SHOT 6: 00:15–00:19
+THREE-QUARTER REAR VIEW / THE LAKE REVEAL
+
+First frame: she stands at the second door with her right hand firmly gripping its actual metal pull handle, matching the previous shot. Camera inside the corridor behind and slightly to her left, wide enough to show her body and the doorway.
+
+She pulls the handle toward herself, bending her elbow and transferring her weight backward. The second door rotates inward on its hinges while her fingers remain wrapped around the handle.
+
+Through the widening opening, reveal the exact turquoise lake, enormous mountain, green bank and sheep from the storyboard.
+
+Soft alpine daylight enters the hallway and gradually illuminates her profile, cream clothing and the floor. Exposure adjusts naturally while retaining detail in the mountain and water.
+
+She pauses at the threshold. Her shoulders ease slightly as she realizes this place is peaceful. The camera makes a gentle forward movement, keeping her beside the opening and the mountain visible beyond it.
+
+SHOT 7: 00:19–00:22
+EXTERIOR THREE-QUARTER WIDE / LEAVING THE BOX
+
+Cut outside to a camera near the lakeshore, facing the box entrance obliquely. Begin with her visible just inside the open doorway.
+
+She steps over the raised threshold and walks onto the rocky ground. Show clear boot contact and a natural adjustment to the uneven surface.
+
+The exact metal box stands behind her on the right, its complete exterior readable. The open entrance reveals the dark corridor. The lake extends to the left, the mountain rises beyond it, and sheep graze on the grassy bank.
+
+The camera pans gently with her as she takes a few steps away from the entrance. The box remains stationary and firmly grounded.
+
+SHOT 8: 00:22–00:30
+RELIEF, BACKPACK AND REST / FINAL LANDSCAPE
+
+First frame: medium three-quarter view of her beside a low, broad shoreline rock, with the box behind her and the lake beyond.
+
+00:22–00:24:
+She stops and looks toward the mountain. She takes a deep breath and releases a long, audible exhale. Her shoulders drop and her expression softens into quiet relief.
+
+00:24–00:27:
+She slides the backpack straps off her shoulders, holds the bag by its top handle and lowers it onto the dry ground beside the rock. The bag lands with believable weight and remains there.
+
+00:27–00:30:
+She sits on the rock, briefly supporting herself with one hand, then relaxes and looks across the water.
+
+During this final shot, the camera slowly retreats and pans toward the lake, opening the composition from her resting figure to the immense landscape. End with her seated, the backpack beside her, the complete box behind her, turquoise water in the foreground and the mountain dominating the distance. Hold the peaceful final composition.
+
+LIGHTING AND ATMOSPHERE
+Corridor: dim blue-green industrial light, deep perspective and readable faces.
+First doorway: red atmospheric spill, active lightning flashes and moving black smoke outside.
+Second doorway: soft natural daylight entering the dark corridor.
+Lake: overcast alpine daylight, restrained colors, gentle water reflections and a light breeze.
+
+AUDIO
+Footsteps echo inside the corridor, close breathing, fabric movement, backpack creaks, metal handle movement and heavy door hinges.
+
+The first open door introduces thunder synchronized with the lightning, a low atmospheric rumble and wind from the dangerous world. Closing it muffles those sounds.
+
+The second doorway introduces wind, gentle lake water and distant sheep.
+
+End with her long exhale, the backpack touching the ground and peaceful outdoor ambience.
+No spoken dialogue, narration, music or subtitles.
+
+PHOTOGRAPHIC REALISM
+Live-action film appearance. Natural skin texture, stable facial identity, realistic hair, fabric and worn metal. Fast movement carries natural cinematic motion blur; faces remain readable when the camera settles.
+
+The red world has genuine environmental motion rather than a static image: lightning changes illumination, the creature articulates its limbs and black smoke continuously evolves.
+
+CONTINUITY PRIORITIES
+One woman throughout.
+Her glasses, clothing and boots remain consistent.
+The backpack stays on her shoulders until she removes it in the final shot.
+She grips the actual metal pull handle before opening either door.
+She never enters the first world.
+The second doorway and the exterior box are the same physical passage.
+Preserve the exact box design and the same alpine landscape across the reveal, exit and ending.
+6. Cortes na pós-produção
+
+As gerações saem com planos mais longos do que eu queria no vídeo final. Então, depois de gerar as duas partes, levei tudo pra edição e cortei pra deixar o ritmo mais rápido e dinâmico.
+
+
+
+
+Do vídeo 1 (20 segundos) usei só uns 6: ela ajustando a câmera, arrumando a mochila e entrando na caixa. No vídeo 2 encurtei os planos do corredor, alguns ficaram com pouco mais de 1 segundo, e deixei a parte do lago mais longa pra respirar no final.
+
+
+
+
+Esse post mostra um vídeo apenas os prompts que eu usei nele. Se você quer aprender a fazer vídeos assim, com mais detalhe em cada etapa (personagem, storyboard, prompt e edição), tem o meu treinamento, o AI Lab. O link está aqui embaixo.
+
+
+
+
+CONHECER AI LAB
+
+
+
+
+Se fizer a sua versão, me marca que eu quero ver 🔥

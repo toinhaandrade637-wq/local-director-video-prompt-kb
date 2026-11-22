@@ -1,0 +1,332 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-29T21:45:08+08:00",
+  "reviewer": "agent-text-review",
+  "scope": "本批集中审读12页方法与新增摘录，按用户纠正精简维护说明，原文短摘录核对来源。",
+  "pages": [
+    {
+      "id": "K01",
+      "body_sha256": "de693db9f7ee35dd2f6a05ab499a1a5096003e2aa825fb6be1ace859f6bbd8d8"
+    },
+    {
+      "id": "K02",
+      "body_sha256": "c6955520cb5bdc254629965e82b46918bb2c7942f576ba612cdbe4dc2b0e7a38"
+    },
+    {
+      "id": "K03",
+      "body_sha256": "21cf506e812e652e37394ccfa9a76abff7ba7e39968b5aa156599279ffd44b72"
+    },
+    {
+      "id": "K04",
+      "body_sha256": "cbf1ce1049a1145250b82da6276bb5299dce639acd8ff713da069ac070a56985"
+    },
+    {
+      "id": "K05",
+      "body_sha256": "63cc307958b6624a7845f70aa52cec2671dee9d896d313401109528fa28e61ce"
+    },
+    {
+      "id": "K06",
+      "body_sha256": "08266a8cdb7ae4e2c55c20e406b706f0c5abd3033ebde1d17992205d5dd2c0e1"
+    },
+    {
+      "id": "K07",
+      "body_sha256": "29153a417805f91adf472d52f6a2e3c8e48943460b5b4da130f7295c594c81ea"
+    },
+    {
+      "id": "K08",
+      "body_sha256": "eaa87ecccd7dc7e05cfed8a3616fabca13670de4d2d047349cce6eb899159cf7"
+    },
+    {
+      "id": "K09",
+      "body_sha256": "525c4063a7614c7f3b2bac9be29a4d2846856d9bd3a3140d6c8039197264e8fa"
+    },
+    {
+      "id": "K10",
+      "body_sha256": "769f5063a0c4e4319a08184649bbe4588c1c39f184d2b181dfdc9ffdd7e47169"
+    },
+    {
+      "id": "K11",
+      "body_sha256": "cd8efbd91914f91a25088e0814145d06166f0901172a9ff54de7a8d059c38ff0"
+    },
+    {
+      "id": "K12",
+      "body_sha256": "469b3aa026ed9ee09e5ee1a03b5aa6c857d1342752503d5421af39ae2309b167"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C001",
+      "key": "first_frame.match",
+      "scope": "all-tasks",
+      "page_id": "K01",
+      "source_ids": [
+        "U003"
+      ],
+      "value": "only-when-requested",
+      "state": "active"
+    },
+    {
+      "id": "C002",
+      "key": "first_frame.match",
+      "scope": "all-tasks",
+      "page_id": "K03",
+      "source_ids": [
+        "U003"
+      ],
+      "value": "only-when-requested",
+      "state": "active"
+    },
+    {
+      "id": "C003",
+      "key": "first_frame.match",
+      "scope": "all-tasks",
+      "page_id": "K11",
+      "source_ids": [
+        "U003"
+      ],
+      "value": "only-when-requested",
+      "state": "active"
+    },
+    {
+      "id": "C004",
+      "key": "music.default",
+      "scope": "all-tasks",
+      "page_id": "K01",
+      "source_ids": [
+        "U001"
+      ],
+      "value": "task-specific",
+      "state": "active"
+    },
+    {
+      "id": "C005",
+      "key": "music.default",
+      "scope": "all-tasks",
+      "page_id": "K09",
+      "source_ids": [
+        "U001"
+      ],
+      "value": "task-specific",
+      "state": "active"
+    },
+    {
+      "id": "C006",
+      "key": "music.default",
+      "scope": "all-tasks",
+      "page_id": "K11",
+      "source_ids": [
+        "U001"
+      ],
+      "value": "task-specific",
+      "state": "active"
+    },
+    {
+      "id": "C007",
+      "key": "paragraph.fields",
+      "scope": "all-tasks",
+      "page_id": "K01",
+      "source_ids": [
+        "U001",
+        "U002"
+      ],
+      "value": "selected-as-needed",
+      "state": "active"
+    },
+    {
+      "id": "C008",
+      "key": "paragraph.fields",
+      "scope": "all-tasks",
+      "page_id": "K02",
+      "source_ids": [
+        "U001",
+        "U002"
+      ],
+      "value": "selected-as-needed",
+      "state": "active"
+    },
+    {
+      "id": "C009",
+      "key": "paragraph.fields",
+      "scope": "all-tasks",
+      "page_id": "K10",
+      "source_ids": [
+        "U001",
+        "U002"
+      ],
+      "value": "selected-as-needed",
+      "state": "active"
+    },
+    {
+      "id": "C010",
+      "key": "dialogue.across-cut",
+      "scope": "same-utterance",
+      "page_id": "K05",
+      "source_ids": [
+        "P037",
+        "P038"
+      ],
+      "value": "continue-without-restart",
+      "state": "active"
+    },
+    {
+      "id": "C011",
+      "key": "dialogue.across-cut",
+      "scope": "same-utterance",
+      "page_id": "K09",
+      "source_ids": [
+        "P037",
+        "P038"
+      ],
+      "value": "continue-without-restart",
+      "state": "active"
+    },
+    {
+      "id": "C012",
+      "key": "first_frame.ratio-lock",
+      "scope": "reference_image-plus-text-declaration",
+      "page_id": "K12",
+      "source_ids": [
+        "O003"
+      ],
+      "value": "locks-first-frame-ratio",
+      "state": "disputed",
+      "issue_id": "Q03"
+    },
+    {
+      "id": "C013",
+      "key": "first_frame.ratio-lock",
+      "scope": "reference_image-plus-text-declaration",
+      "page_id": "K12",
+      "source_ids": [
+        "O004"
+      ],
+      "value": "does-not-lock-ratio",
+      "state": "disputed",
+      "issue_id": "Q03"
+    }
+  ],
+  "issues": [
+    {
+      "id": "Q01",
+      "status": "open",
+      "knowledge_ids": [
+        "K01",
+        "K11"
+      ],
+      "source_ids": [
+        "U003"
+      ],
+      "summary": "`强调！`是用户约定，标点提高命中率未独立比较",
+      "next_action": "同素材正文，只改变该写法并记录结果",
+      "resolution_evidence": []
+    },
+    {
+      "id": "Q02",
+      "status": "open",
+      "knowledge_ids": [
+        "K01"
+      ],
+      "source_ids": [
+        "U002"
+      ],
+      "summary": "提示词是当前主要控制手段；“权重最大”没有内部证据",
+      "next_action": "保留使用观察与条件，不包装成数值权重",
+      "resolution_evidence": []
+    },
+    {
+      "id": "Q03",
+      "status": "open",
+      "knowledge_ids": [
+        "K03",
+        "K12"
+      ],
+      "source_ids": [
+        "O003",
+        "O004"
+      ],
+      "summary": "O003/O004对文字声明与专用首尾帧入口的锁比例口径不同",
+      "next_action": "指定平台、输入角色和版本后核对并比较",
+      "resolution_evidence": []
+    },
+    {
+      "id": "Q04",
+      "status": "open",
+      "knowledge_ids": [
+        "K05",
+        "K06"
+      ],
+      "source_ids": [
+        "P037",
+        "P038"
+      ],
+      "summary": "时间码不证明动作、台词和留白能自然完成",
+      "next_action": "实读、预演或实际生成，记录超时与取舍",
+      "resolution_evidence": []
+    },
+    {
+      "id": "Q05",
+      "status": "open",
+      "knowledge_ids": [
+        "K07",
+        "K10"
+      ],
+      "source_ids": [
+        "P002",
+        "P003",
+        "P022",
+        "P031"
+      ],
+      "summary": "环绕与转场文字闭合不证明完整执行",
+      "next_action": "检查路线、遮挡边界、结束状态和不同速度",
+      "resolution_evidence": []
+    },
+    {
+      "id": "Q06",
+      "status": "open",
+      "knowledge_ids": [
+        "K05",
+        "K09"
+      ],
+      "source_ids": [
+        "P044",
+        "P045",
+        "P047"
+      ],
+      "summary": "方言、拼音、音色职责明确，实际发音仍需听辨",
+      "next_action": "母语或可靠语言评审对照，不凭拼写宣称准确",
+      "resolution_evidence": []
+    },
+    {
+      "id": "Q07",
+      "status": "open",
+      "knowledge_ids": [
+        "K06"
+      ],
+      "source_ids": [
+        "P030",
+        "P032",
+        "P035"
+      ],
+      "summary": "P030/P032/P035局部可取，整体逻辑／效果存在问题",
+      "next_action": "先修一个主要因果断点，再比较攻防与响应",
+      "resolution_evidence": []
+    },
+    {
+      "id": "Q08",
+      "status": "open",
+      "knowledge_ids": [
+        "K05",
+        "K07",
+        "K08"
+      ],
+      "source_ids": [
+        "P027",
+        "P039",
+        "P042"
+      ],
+      "summary": "微表情要在实际景别和曝光中可辨",
+      "next_action": "看实际画面，不能以AU或极细词语替代观察",
+      "resolution_evidence": []
+    }
+  ]
+}

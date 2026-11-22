@@ -1,0 +1,515 @@
+【项目】MARKETING STUDIO: 4 WAYS TO TURN A PRODUCT INTO AN AD（@jellyfortuna · 创作者博客）
+【链接】https://higgsfield.ai/@jellyfortuna/blogs/marketing-studio-4-ways-to-turn-a-product-into-an-ad
+【提示词块】4
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+MARKETING STUDIO: 4 WAYS TO TURN A PRODUCT INTO AN AD
+@jellyfortuna
+224
+4
+0
+
+Marketing Studio is designed around a product and a marketing objective rather than a blank prompt. It brings your product assets, a ready-made visual structure, the intended publishing format, and a generative model into one workflow. It does not define your marketing strategy for you; it accelerates creative production. The more clearly you define the objective, audience, primary product benefit, and publishing platform, the more useful the result will be.
+
+Choose Your Starting Point
+
+The best way to begin depends on what you already have: a clear idea, your own assets, an ad reference, or a template you’d like to adapt. Each starting point offers a different workflow and level of creative control. Let’s explore the four ways to get started and find the one that works best for your project.
+
+Method 1: Template
+
+
+A template already contains visual logic: composition, movement, shooting style, or ad structure. If the underlying structure does not fit your needs, choose another template or switch to the custom-prompt workflow.
+
+You can filter templates by category: Product shot, Motion, UGC, Ads, Posters, Marketplace.
+
+
+
+
+After opening a template, add your product and, if necessary, describe a small adjustment in What do you want to change?
+
+
+
+
+
+The Describe your edit field is optional, but it is worth using when preserving your product’s visual identity is important. When this field is left empty, the selected template may have a stronger influence on the result than the uploaded product reference. In my tests, this sometimes changed the packaging format, brand colors, logo, typography, product contents, materials, construction, or individual design elements. To improve consistency, you can add a short instruction specifying which elements of the uploaded product should remain unchanged.
+
+Comparison: using the description field. 1.Without description 2.With description 3.Product reference.
+
+For this test, I used the following instruction to preserve the packaging design and typography while adapting the selected template:
+
+Preserve the uploaded product packaging exactly as shown in the reference. Keep its original shape, proportions, colors, materials, logo, typography, text placement, label design and all visible brand elements unchanged. Keep the product front-facing, sharp and clearly readable.
+
+Copy prompt
+Recreate
+
+Next example shows how the same product reference was adapted using a video template. The original packaging remains the visual foundation, while the selected Motion settings introduce a new composition, pacing, and animation style.
+
+
+
+
+Once you have used templates to create a product poster and a visual ad, you can take the same product reference one step further and turn it into a UGC-style advertisement. Here is an example.
+
+
+
+
+So, if you already have a finished product image and want to quickly turn it into multiple promotional videos, this workflow is for you. Marketing Studio templates give you a ready-made visual concept, composition and animation, while the description helps keep your original packaging, logo and brand identity consistent. This allows you to create multiple ad variations without building every video from scratch.
+
+Method 2: Custom prompt
+
+
+
+
+Use this route when the template library does not offer a suitable scene, your product has an unusual shape, or your concept requires a precise sequence of actions, a particular composition, or a specific camera setup. It is also a better choice when you are developing a distinct visual language that should not depend on a preset template.
+
+
+
+
+With custom prompting, you define the objective, setting, subject, action, lighting, camera direction, and creative constraints yourself.
+
+For this example, I used custom prompting to create three UGC-style ads for a SaaS product. The goal was not simply to generate three different presenters, but to create believable target user personas—people who could realistically need and use the software in their daily work.
+
+
+
+
+The same advertising objective was adapted to three professional contexts: a construction contractor working on-site, an HVAC technician beside a service vehicle, and a solar installer at a residential property. While the core SaaS concept remained consistent, the character, clothing, environment, actions, and interaction with the software changed for each target audience..
+
+
+Example: Creating UGC Personas for a SaaS Product
+
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+
+Video 1: Construction contractor Video 2: HVAC technician  Video 3: Solar installer 
+
+Below, you can compare the prompts used for these videos and see how the same concept was adapted to each professional context.
+
+
+
+
+This prompt places the character directly on a construction site and integrates the software into a realistic on-site workflow.
+
+Vertical 9:16 selfie-style UGC video shot on iPhone front and back camera mix, natural daylight on an active residential construction site, authentic calm contractor-owner energy, realistic smartphone exposure, subtle handheld movement, natural skin texture, no cinematic grading, no influencer energy, no exaggerated reactions. Slight outdoor wind ambience.
+
+A partially built American suburban home under construction. Branded black contractor pickup truck parked beside the site. Dirt driveway, exposed framing, construction wrap, extension cords, scattered lumber and tools naturally visible in background. Warm afternoon daylight.
+
+The man is around 40 years old, owner of a residential construction company. Calm, practical, confident without trying to impress. Speaks like an experienced contractor talking to another contractor. No sales energy. Slightly tired but composed. Navy branded quarter-zip work shirt, realistic construction-site appearance, no hard hat.
+
+Action and dialogue sequence:
+
+He starts on the front camera standing near the truck with the construction site behind him. Slight squint from the daylight. Relaxed posture.
+
+“You know what used to slow us down the most?”
+
+Small pause.
+
+“Quotes.”
+
+He slightly turns the phone showing the house behind him for a second, then walks casually toward the truck.
+
+“Not the actual work. Not the installs.”
+
+Small shrug.
+
+“The paperwork.”
+
+He leans one arm lightly on the truck bed and switches the camera toward a laptop sitting inside the truck or on a portable work table nearby. The screen stays mostly static throughout the video.
+
+On screen:
+
+an Excel pricing sheet
+
+a CRM deal page
+
+a finalized clean quote inside ExtraflowDoc
+
+No scrolling. Only simple tab switching.
+
+“We used to build everything in spreadsheets…”
+
+He taps once to show the CRM page.
+
+“…then move it over here manually.”
+
+Tiny head shake.
+
+“Every project. Same process.”
+
+He switches to the finished quote view inside ExtraflowDoc. Clean structured proposal visible on screen.
+
+“Now we just pull the deal into ExtraflowDoc…”
+
+light tap near the quote
+
+“…and the proposal’s basically done.”
+
+Small pause while camera stays on the quote.
+
+“Pricing, scope, line items… all already there.”
+
+He slightly pulls the phone back showing both the laptop and construction site together in frame.
+
+“It saves us a lot of back-and-forth.”
+
+Another short pause.
+
+“And honestly…”
+
+small nod
+
+“…less stuff slips through the cracks.”
+
+He closes the laptop halfway and starts slowly walking again through the site while holding the phone front camera style.
+
+“When you’re running multiple jobs at once…”
+
+brief glance toward the house
+
+“…you stop wanting more software.”
+
+Small pause.
+
+“You just want fewer steps.”
+
+He looks back into the camera calmly.
+
+“That’s why we kept this.”
+
+Very slight smile.
+
+“ExtraflowDoc.”
+
+Natural ending. He lowers the phone slightly as if ending the recording himself.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+This version uses the technician’s uniform, equipment, and service vehicle to connect the SaaS product with a recognizable HVAC workflow.
+
+Vertical 9:16 selfie-style UGC video shot on iPhone front and back camera mix, natural daylight outside a suburban American home during an HVAC install or service visit, authentic calm HVAC business owner energy, subtle handheld movement, realistic smartphone exposure, natural skin texture, no cinematic grading, no influencer behavior, grounded real-world contractor atmosphere.
+
+A clean suburban home exterior with an outdoor HVAC condenser unit visible beside the wall. An HVAC service van parked in the driveway with subtle company branding. Warm afternoon daylight. Slight ambient neighborhood noise and distant construction sounds. The man is around 35–40 years old, owner of a local HVAC company, practical and experienced, wearing branded navy HVAC workwear with a quarter-zip and work pants. Calm confident presence, approachable, slightly tired from a long workday but composed.
+
+Action and dialogue sequence:
+
+He starts on the front camera standing beside the outdoor HVAC unit. One hand resting casually on top of the condenser.
+
+“You know what I got tired of?”
+
+Small pause.
+
+“Doing estimates after work.”
+
+He gives a small half-smile like he knows every contractor understands the feeling.
+
+“We’d finish installs…”
+
+brief glance toward the house
+
+“…and then I’d still have paperwork waiting at night.”
+
+He slowly walks toward the service van and opens the side door. A laptop is visible inside on a work surface. He switches the phone toward the laptop screen.
+
+Static laptop screen showing:
+
+a CRM deal page
+
+pricing information
+
+a clean finalized quote inside ExtraflowDoc
+
+No scrolling. Only simple tab switching.
+
+“We used to move everything manually.”
+
+He taps once between tabs.
+
+“Customer info. Equipment. Pricing.”
+
+Tiny head shake.
+
+“Same information over and over.”
+
+He opens the finalized quote view inside ExtraflowDoc. Clean proposal visible on screen.
+
+“Now we just pull the deal into ExtraflowDoc…”
+
+light tap near the quote
+
+“…and the estimate’s basically done.”
+
+Small pause while camera stays steady on the quote.
+
+“No rebuilding quotes.”
+
+“No double entry.”
+
+“And way less stuff getting missed.”
+
+He slightly pulls the phone back showing both the van and the house together in frame.
+
+“The faster we send estimates…”
+
+small nod
+
+“…the faster jobs get approved.”
+
+He closes the laptop halfway and switches back to the front camera while leaning lightly against the van.
+
+“I’m not trying to spend my evenings doing admin work.”
+
+Short pause.
+
+“I’d rather be done and home.”
+
+Very small smile.
+
+“That’s why we kept using this.”
+
+Small nod.
+
+“ExtraflowDoc.”
+
+Natural ending. He lowers the phone naturally like ending a real recording manually.
+
+
+
+
+See all
+Copy prompt
+Recreate
+This prompt places the character at a residential solar installation, adapting the environment and actions to professionals working in the solar industry.
+
+Vertical 9:16 selfie-style UGC video shot on iPhone front and back camera mix, natural daylight outside a modern American suburban home with rooftop solar panels installed, calm clean-energy business owner energy, subtle handheld smartphone movement, realistic skin texture, natural iPhone HDR, no cinematic grading, no influencer behavior, grounded professional atmosphere.
+
+A clean residential solar installation environment. Solar panel array visible on the roof behind him. Modern suburban driveway, inverter box mounted near the garage wall, electrical conduit and installation details naturally visible. White service van parked nearby without visible branding. Bright warm daylight with subtle outdoor ambience.
+
+The man is around 38–45 years old, owner of a residential solar installation company. Calm, intelligent, practical personality. More thoughtful and systems-oriented than a traditional contractor. Speaks clearly and confidently without sounding like a salesman. Earth-tone lightweight work jacket, neutral shirt, practical work pants. Relaxed posture and composed energy.
+
+Action and dialogue sequence:
+
+He starts on the front camera standing in the driveway with the solar panels visible behind him. Calm relaxed expression.
+
+“You know what nobody tells you about running a solar company?”
+
+Small pause.
+
+“The installs are actually the easy part.”
+
+He slowly turns the phone slightly toward the house and roof.
+
+“It’s everything around it.”
+
+He walks calmly toward the van and opens the side door. A laptop is visible inside on a small work surface.
+
+“We’ve got proposals…”
+
+small shrug
+
+“…equipment pricing…”
+
+light tap on laptop
+
+“…financing options…”
+
+Another small pause.
+
+“And every project moves a little differently.”
+
+He switches the phone toward the laptop screen.
+
+Static laptop screen showing:
+
+CRM deal information
+
+solar system pricing
+
+a clean finalized proposal inside ExtraflowDoc
+
+No scrolling. Only simple tab switching.
+
+“We used to build proposals manually.”
+
+He taps once between tabs.
+
+“And every time something changed…”
+
+small head shake
+
+“…somebody had to update everything again.”
+
+He opens the finalized proposal view inside ExtraflowDoc. Clean structured proposal visible on screen.
+
+“Now we just pull the deal into ExtraflowDoc…”
+
+light tap near the proposal
+
+“…and most of it’s already there.”
+
+Small pause while camera stays steady on the finished proposal.
+
+“System details.”
+
+“Pricing.”
+
+“Customer information.”
+
+Another short pause.
+
+“It’s just cleaner.”
+
+He slightly pulls the phone back showing both the laptop and solar installation behind him together in frame.
+
+“And when homeowners are waiting on numbers…”
+
+small nod
+
+“…speed matters.”
+
+He closes the laptop halfway and walks a few steps back toward the driveway.
+
+“I don’t really care about having more software.”
+
+Small pause.
+
+“I just want fewer moving parts.”
+
+He looks calmly into the lens.
+
+“That’s why this works for us.”
+
+Very slight smile.
+
+“ExtraflowDoc.”
+
+Natural ending. He lowers the phone slightly like ending a real recording manually.
+
+
+
+
+See all
+Copy prompt
+Recreate
+
+These examples show where custom prompting becomes especially useful. Instead of fitting your product into an existing template, you can build the entire ad around a specific buyer persona, industry, use case, and working environment.
+
+Method 3: Product Link
+
+
+
+
+Use this route when your product already has a public website, online store listing, or dedicated product page. Instead of uploading and describing every asset manually, you can give Marketing Studio the page URL and use the imported product information as the starting point for your content. Open Product Link, paste the URL of the product page, and select Continue. Marketing Studio reads the page and creates a reusable product profile using the available product name, description, and images.
+
+
+
+
+For this example, I created a dedicated landing page for the Higgsfield Trail GT, a fictional three-door luxury 4x4 designed specifically for this guide.
+
+Product page: Higgsfield Trail GT
+
+To import the product, I opened Product Link, pasted the landing-page URL, and selected Continue.
+
+
+
+
+The dedicated Higgsfield Trail GT product page used for the import.
+
+
+
+
+After the import, it is important to review the generated product profile before using it in a template. Check which images were selected, whether the product name and description were imported correctly, and whether any technical specifications or disclaimers need to be removed or edited.
+
+
+
+
+The product information and images extracted from the landing page.
+
+The imported profile can then be used to create several marketing assets from the same product source.
+
+Different advertising formats created from the same Higgsfield Trail GT product profile.
+
+This example shows why Product Link works best with a dedicated, well-structured product page. When the name, description, visuals, and specifications all refer to the same product, you spend less time preparing assets manually and can reuse one consistent profile across multiple generations.
+
+Method 4: Ad Reference
+
+Ad Reference uses an existing video as a structural guide for a new ad. It helps carry over the hook, sequence of actions, pacing, transitions, and overall visual logic while allowing the original subject to be replaced with your own product.
+
+To begin, open Ad Reference in Marketing Studio and upload the video whose advertising structure you want to recreate. Once the upload has been processed, a configuration window opens with an editable prompt describing the scene and the sequence of transformations detected in the reference.
+
+At this point, the generation has not started yet. You can review and adjust the generated prompt, add or replace the product, select an avatar if the format includes a visible presenter, and choose the output format.
+
+This is an important part of the workflow. Before selecting Generate, remove details that belong only to the original ad and clarify how your own product should appear, move, and interact with the scene. For this test, I used the following generated video as my Ad Reference:
+
+
+After the video was processed, Marketing Studio generated the following prompt:
+
+
+A faceted, crystal perfume bottle with a round, diamond-like body and a smaller faceted cap is centered in the frame. It sits on a dark, highly reflective surface. The background is a dark grey gradient with a soft, warm spotlight directly behind the bottle. The lighting is studio-quality with a key light from the front, creating bright highlights and defined shadows. The camera is static and at eye-level with the bottle. The crystal perfume bottle appears to melt in a reverse time-lapse effect. It collapses downwards into itself, transforming into a flat, clear, circular puddle on the reflective surface. The motion is smooth and fluid. The camera, lighting, and background remain unchanged. From the center of the clear puddle, a new form grows upward. It starts as a thin stem and then unfurls into a six-petaled, transparent, glass-like flower with a solid spherical center. The entire object is made of the same clear material. The camera remains static and centered on the object's transformation. Lighting and environment are consistent. The glass flower begins to morph again. The petals and stem contract and reshape themselves smoothly into a new, more angular and taller perfume bottle. This bottle has defined vertical facets on its body and a faceted, diamond-shaped cap. The camera is static, capturing the entire transformation in the center of the frame. The newly formed, angular crystal perfume bottle is held in a static, centered shot. It sits perfectly still on the dark reflective surface, catching the light from the studio setup. The background and lighting remain unchanged, presenting the final product clearly.
+
+
+
+
+The generated prompt already contained the complete visual structure of the reference: a centered product shot, a locked camera, a reflective surface, two consecutive transformations, and a final static product reveal.
+
+However, it was still describing the original faceted crystal bottle. If I had used the prompt without editing it, those design details could have influenced the shape and appearance of my final product. For the new version, I prepared the perfume and its packaging:
+
+HIGGSFIELD ROSE VEIL — Eau de Parfum
+
+The reference set included several views of the bottle as well as closed and open views of the packaging. This provided Marketing Studio with information about the bottle’s proportions, rose-pink glass, thick base, matte-black cap, lime accent, typography, and the deep burgundy rose artwork used on the box.
+
+I kept the visual architecture of the original ad but rewrote the objects and transformations around Rose Veil. Here is the rewritten prompt:
+
+A tall, rectangular Higgsfield Rose Veil perfume box with a matte-black finish, deep burgundy rose-petal artwork, white typography, and a thin lime accent is centered in the frame. It sits on a dark, highly reflective surface. The background is a dark grey gradient with a soft, warm spotlight directly behind the box. The lighting is studio-quality with a key light from the front, creating bright highlights and defined shadows. The camera is static and at eye level with the box.
+
+The Rose Veil perfume box appears to melt in a reverse time-lapse effect. It collapses downwards into itself, transforming into a flat, translucent rose-pink circular puddle on the reflective surface. The motion is smooth and fluid. The camera, lighting, and background remain unchanged.
+
+From the center of the rose-pink puddle, a new form grows upward. It starts as a thin transparent glass stem and then unfurls into a fully formed glass rose with multiple layered petals. The entire flower is made of transparent rose-tinted glass, with deep burgundy color concentrated inside the petals and sharp crystal highlights along their edges. The rose is completely inorganic and sculpted from glass, with no natural plant texture. The camera remains static and centered on the object’s transformation. Lighting and environment are consistent.
+
+The glass rose begins to crystallize. Fine crystalline facets spread from the spherical center through every petal and down the stem. The petals become rigid, contract inward, and merge into a single solid crystal form. Without breaking or scattering, the crystal smoothly reshapes itself into the exact Higgsfield Rose Veil perfume bottle shown in the product reference. The bottle has a rectangular transparent rose-pink glass body with strongly rounded corners, a thick glass base, and a wide matte-black rounded rectangular cap. It preserves the thin lime accent and the original white Higgsfield, ROSE VEIL, EAU DE PARFUM, and 50 ML typography. The camera is static, capturing the entire crystallization and transformation in the center of the frame.
+
+The newly formed Rose Veil perfume bottle is held in a static, centered shot. It sits perfectly still on the dark reflective surface, catching the light from the studio setup. The background and lighting remain unchanged, presenting the final product clearly.
+
+
+
+
+After replacing the product and adjusting the generated prompt, I received the following video:
+
+The final video followed the original reference very closely. The camera remained locked, the product stayed centered, and the transformation preserved the same pacing, composition, and visual rhythm.
+
+
+
+
+What changed was the product identity and the story told through the transformation. Instead of reproducing the original faceted bottle and generic glass flower, the new version began with the Rose Veil box, dissolved it into rose-colored perfume liquid, formed that liquid into a glass rose, and crystallized the flower into the final Rose Veil bottle.
+
+
+
+
+This example shows where Ad Reference becomes especially useful. It separates the structure of an advertisement from the identity of the product inside it. You can preserve the visual hook, timing, sequence of actions, and transition logic while rebuilding the materials, colors, packaging, and final reveal around your own product.
+
+
+
+
+The generated prompt should therefore be treated as a starting point rather than a finished instruction. Reviewing it before generation gives you the opportunity to decide which elements belong to the advertising structure and which details must be rewritten to protect the identity of your product.
+
+The clearer your product references and final-form description are, the easier it becomes to preserve consistency while adapting an existing advertising idea.
+
+Build a Workflow, Not a Single Generation
+
+These 4 starting points are not competing ways to use Marketing Studio. Each solves a different problem, and several methods can be combined within the same campaign. A template can establish the visual direction, a custom prompt can create scenes that are not available in the library, Product Link can bring product context into the generation, and Ad Reference can help adapt an existing advertising structure to a new product.
+
+
+
+
+
+Whichever route you choose, keep the product identity, target audience, primary benefit, and publishing format consistent. Generate several variations, compare the results, and develop the strongest direction. If a promising video only needs a specific change, you can continue working with it in Higgsfield Genjutsu instead of rebuilding the entire concept. If you want an additional check before publishing, you can also analyze the finished creative with Virality Predictor. It provides a virality score, peak hook timestamp, hold rate, and heatmap, which can help you decide whether the hook, pacing, or product presentation needs another iteration.
+
+
+
+
+The goal is not to produce one perfect result on the first attempt. It is to build a repeatable workflow that takes a product from the initial input to tested, ready-to-publish content.

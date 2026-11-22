@@ -1,0 +1,561 @@
+【项目】NIGHTS TUTORIAL（@sadiesfaction · 创作者博客）
+【链接】https://higgsfield.ai/@sadiesfaction/blogs/nights-tutorial
+【提示词块】7
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+NIGHTS TUTORIAL
+
+Aug 29, 05:33 · 2 min
+
+NIGHTS TUTORIAL
+S
+@sadiesfaction
+157
+2
+0
+hiiiiiiii!!!! thank you so much for supporting me!
+
+there are three steps:
+
+Soul ID → still → video.
+
+everything done on higgsfield.ai, prompts are below, just copy & paste ★
+
+1 CREATE YOUR SOUL ID ★
+go to → cinema studio ← on higgsfield.ai
+choose image, and choose SOUL 2.0
+tap "Characters"
+tap "Create character"
+tap "Upload images" → 25+ photos of yourself
+name it, model = Soul 2.0, tap "Create"
+
+photo tips: one person, clear face, multiple angles, a few full-body shots, good lighting. no filters, no sunglasses, no group shots.
+
+2 GENERATE THE STILL ★
+open → Soul 2.0 ← → select your character
+paste a still prompt from below
+generate ★
+3 ANIMATE IT ★
+open Seedance 2.5
+attach your still as the image input
+paste the matching animation prompt from below
+generate ★
+
+
+
+
+STILLS
+CHARACTER
+
+A full-body, straight-on snapshot shows a young Asian female, likely a teenager, wearing a formal gray uniform ensemble. She stands outdoors on a gently sloping grassy field dotted with small yellow flowers and sparse patches of bare earth, with a rounded hill rising behind her under an overcast white sky. The subject bends forward, hands resting on her bent knees, and stares into the camera, her straight, medium-length black hair partially obscuring her face. She wears a gray pleated skirt and matching buttoned jacket, with visible black knee-high socks. The light is flat and diffuse, casting soft, minimal shadows, likely due to cloud cover, but the use of strong flash creates a harsh, frontal illumination and causes shadow halos around the subject, contributing to a candid, slightly awkward and spontaneous atmosphere. The palette is natural and muted, dominated by green, gray, and yellow accents. The overall digital image exhibits sharp focus with moderate wide-angle lens distortion, typical of a compact camera, and little evidence of compression artifacts or film grain. The mood is earnest, with an awkward sense of immediacy.
+
+HEX VALUES: ["#fefefe", "#91a44b", "#a9ad61", "#c7b97c", "#63605d", "#585451", "#736e6b", "#798a39", "#878380", "#b49a6e", "#49453d", "#262221", "#aca8a4", "#e2cebc"]
+
+See all
+Copy prompt
+Recreate
+LOCATION
+
+A wide, eye-level photograph captures a narrow, compact Japanese high school hallway at midday with strong one-point perspective, the corridor tight enough that only three or four people could stand across it shoulder to shoulder. On the left side, tall window panels sit close to the walking lane, admitting bright, diffused daylight that streams across the polished pale linoleum floor in long, blurred reflective streaks. On the right side, traditional sliding classroom doors with wooden frames and frosted glass press in at regular, close intervals, punctuated by accent panels and chalkboard notice boards pinned with paper announcements — the doorways almost touching the walking path. The ceiling hangs low, with fluorescent fixtures mostly off, compressing the space vertically and letting the natural window light dominate with a soft overexposed bloom, while the visible depth of the corridor is short — it bends or ends within fifteen to twenty meters, closing into gentle shadow rather than stretching endlessly. Small touches — a tidy set of indoor slippers by a doorway, a lone cleaning bucket against the wall — reinforce the lived-in intimacy of the tight space. The color grade is cold and clinical but distinctly colored: the whole frame steeped in a cool palette of pale steel blues, icy cyans, muted teal-greens and soft slate greys — the daylight reading as cold morning blue-white, the linoleum floor reflecting icy cyan, the wooden door frames cooled into desaturated blue-browns, the notice boards a chilled muted teal, the frosted glass panes glowing pale arctic blue. All warmth is stripped out — no oranges, no creams, no golden light — every neutral pushed toward blue, whites layered on whites with a cold sterile bloom near the windows, blacks lifted into cool blue-grey haze, contrast low and compressed. The frame feels airy, cold, and antiseptic — a hallway seen through winter light. The camera shot demonstrates sharp foreground focus with shallow falloff toward the near background, full-frame sensor quality, subtle vignette, and faint film-like grain — clinical, dreamlike, and unsettling in its cleanliness.
+
+HEX VALUES: ["#e8eef2", "#d9e4ec", "#c7d6e2", "#b3c7d8", "#9fb8cc", "#8ba9bf", "#7a99b0", "#6b8aa1", "#5c7b91", "#8fa8a4", "#7d9995", "#a9bfc9", "#dce6ea", "#c2d1da"]
+
+See all
+Copy prompt
+Recreate
+ANIMATION
+INPUTS
+
+SCENE CONTEXT
+
+A single continuous 10-second shot inside a narrow, crowded Japanese high school corridor after lunch. A girl walks slowly straight toward the camera through a living crowd, shutting the world out through one unbroken chain: ears covered, gaze dropping to the floor, eyes closing, squeezing tight — and the handheld camera shakes more and more aggressively the deeper she retreats, hitting its most violent pitch at her squint — until she opens her eyes, the camera settles, and she looks around. Every transition flows into the next without a seam. Behind her, the corridor never stops living — students chatting, laughing, walking past — for every second of the shot. The framing is a medium close-up held for the entire shot.
+
+
+
+
+ACTIVE REFERENCES
+
+@Image 1 — teenage girl, straight dark shoulder-length hair with loose bangs and strands falling over her face, charcoal-grey fitted school uniform jacket with a row of small dark buttons and a chest pocket, white collared shirt underneath, matching grey pleated skirt, black knee-high socks. 100% matches the reference. Ignore the grassy hill background from the reference.
+
+@Image 2 — narrow, aged school corridor in cold light — a wall of white-framed frosted window panes along the left admitting pale blue daylight, worn off-white walls, white paneled sliding doors with frosted glass and muted green accent panels along the right, papers and notices pinned to the door panels, exposed fluorescent tube fixtures on the low ceiling, pale glossy linoleum floor with soft reflections, a pair of slippers by a doorway and a cleaning bucket against the wall, the corridor's short depth closing into a dark shadowed section with two dimly glowing frosted panes. Controls geometry, materials and light sources only.
+
+
+
+
+LOCATION MAP
+
+The corridor of @Image 2 is tight — barely three or four people wide — with a short visible depth closing at the dark shadowed end behind her. Twenty-five to thirty students in dark uniforms fill the narrow space in peak after-lunch density, split between standing and moving life: small clusters of two and three stand chatting and laughing along the paneled doors and pinned notices, pairs lean back against the window rail deep in conversation, while several singles and pairs walk through the corridor in both directions — some deeper toward the dark end, some toward the camera — threading between the standing groups, bodies breaking the pale window light on the floor. Only a tight center thread stays open for the girl's path; walkers skirt tightly around her without interacting with her.
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+First frame: medium close-up — @Image 1 is center frame, framed from just below the chest up, her head in the upper third of the frame, facing the camera mid-stride, gaze low and unfocused, arms relaxed at her sides. The narrow corridor presses the blurred crowd close around her: blurred heads and shoulders of standing talkers on both sides, a blurred walker mid-step clipping the right frame edge, the glowing frosted window wall in the upper left, white paneled doors with green accents in the upper right. None of the crowd faces the camera. Screen: girl at x ~50%, eyes at y ~30%.
+
+
+
+
+OPTICS
+
+Strong anamorphic lens character locked for the whole shot: visible horizontal squeeze and compression of the shallow background, oval elliptical bokeh on all out-of-focus students and the glowing window panes, horizontally stretched specular highlights on the reflective linoleum, gentle curved barrel distortion at the frame edges, subtle chromatic aberration increasing toward the edges. Clean glass rendering: the frame stays free of lens flares, light streaks and floating bokeh circles. Shallow depth of field around 50mm anamorphic equivalent at close distance; the focal plane holds only on her face and hands, the crowd dissolving into heavy oval bokeh close behind her.
+
+
+
+
+CAMERA
+
+Camera at the girl's upper-chest height, about 0.8–1 m in front of her, tracking smoothly backward at exactly her slow walking pace so the medium close-up framing never changes. The handheld shake is the emotional instrument of the shot and follows one continuous, accelerating crescendo — always growing, never plateauing, each stage visibly more aggressive than the last: dead calm in the opening; a first faint tremor as her gaze drops to the floor; the tremor swelling into clear unsteady sway as her eyes slide closed; the sway sharpening through the blind walk into agitated drift and quick nervous corrections; then, at the instant her lids squeeze into the squint, the shake surges to a whole new level of violence — hard jitter, lurching drifts, the frame fighting and failing and recovering around her face, an operator barely in control — held at that raw peak while she walks squeezed shut; then, the moment her eyes open, the violence drains out over one slow breath into glass-smooth tracking. Framing never widens or tightens; focus stays locked on her face throughout; blurred walkers wipe close through the foreground edges.
+
+
+
+
+ACTION TIMING
+
+0–1.5s: @Image 1 walks forward slowly — an unhurried, natural everyday pace, her gentle bobbing gait visible in the frame's soft rise and fall, gaze low and unfocused past the camera, face indifferent and quietly sad, arms at her sides. Around her the corridor lives — a pair chatting by the window rail, a walker passing on the right, laughter somewhere behind. Her right hand rises and presses flat over her right ear; a half-beat later her left follows, settling asymmetrically over her left ear, elbows loose and uneven. Camera dead calm.
+
+1.5–3s: hands sealed, she walks on and her gaze slides down to the floor just ahead of her feet, head bowing gently with it — the camera's first faint tremor creeps in, barely more than deepened breathing. Behind her, the standing clusters keep talking, a student crosses between groups.
+
+3–4.5s: her eyelids lower in one slow, continuous motion until her eyes are fully closed, the bow of her head deepening a touch — and the tremor swells into clear unsteady sway, visibly stronger than before. The blurred crowd keeps its rhythm — a laugh, a bag re-shouldered, walkers threading past.
+
+4.5–6.5s: the blind walk — eyes softly closed as she keeps walking, steps shortening and landing flatter with blind caution, a swallow — while the sway sharpens into agitated drift, corrections coming quicker and rougher, each second shakier than the last. Around her the hallway life continues unbroken — chatting pairs, a walker brushing past the foreground.
+
+6.5–8s: her closed lids squeeze into the squint — brows knitting, jaw setting, fingers pressing harder at her ears — and at that exact instant the camera erupts into its most aggressive shake, a clear step beyond everything before: hard jitter, lurching drifts, the frame barely holding her face, raw and violent, sustained while she walks squeezed shut through the noise. The blurred crowd carries on around the chaos, indifferent.
+
+8–10s: her lids release and her eyes open in one soft, unhurried motion — and the violence pours out of the camera over a single breath, back to glass-smooth tracking. Her head lifts from its bow and she looks around slowly, gaze drifting left, then across to the right, settled, steadier, still guarded but okay — the crowd still chatting and walking around her, unchanged. The shot ends on her open eyes mid-glance, hands still at her ears.
+
+
+
+
+PHYSICS
+
+Slow, natural weight transfer readable in her shoulders and the gentle rise-fall of her head — the head bow, the eye close, the squint and the release each move as smooth continuations of the previous posture, never snapping between poses; steps shorten fractionally through the blind stretch, balance corrections small but visible; hair strands hang forward with the bow, drift with a slight delay, and swing softly as her head lifts at the end; the grey jacket fabric creases at her raised elbows. The crowd lives in both modes for every second of the shot with no pause and no freeze: standing students chat with weight shifts, head turns to whoever is speaking, close-quarters gestures, laughter leans; walking students pass at different casual speeds in both directions, angling shoulders through gaps, bags swaying — no two people in sync, nobody frozen, nobody drifting aimlessly, the background life never looping, never stopping, and never reacting to her or to the camera's shake. Blurred window-light reflections on the linoleum glide with the camera's backward slide, broken by moving legs.
+
+
+
+
+LIGHTING
+
+Pale, cold diffused daylight floods through the frosted window wall on the left, washing the corridor in cool blue-white and laying soft reflections on the glossy linoleum; the exposed fluorescent tubes add thin, even fill, and the corridor's short depth falls into shadow behind her. Her face stays fully readable in soft cool light with gentle modeling from the window side at every head angle — bowed, closed, squinting — with no harsh key and no heavy eye shadows, and the cold window light catches her eyes cleanly when they finally open.
+
+
+
+
+AUDIO
+
+Dense, close hallway roar compressed by the narrow space — overlapping voices near the ear, laughter from the standing clusters, footsteps of passing walkers at different rhythms, a door sliding — dulling in two soft steps into a muffled low-pass murmur as each palm seals over an ear, but never falling silent: the crowd's muffled chatter and footsteps run beneath every second of the shot. Over that constant bed the tension rises in one accelerating arc mirroring the camera: the murmur thickening as her gaze drops, pressing closer as her eyes close, her breathing quickening and a faint heartbeat rising through the blind walk, everything surging hardest at the squint — then, the moment her eyes open, the pressure drains over one breath: the murmur settles back into its steady bed, her breathing slows, only her close breath and slow footsteps clear. No dialogue, no music, no narration.
+
+
+
+
+STYLE
+
+Naturalistic Japanese youth-drama realism in a cold palette — pale steel blues, icy whites of the frosted panes, worn off-whites and muted green door accents against her charcoal-grey uniform. Faint fine film grain, gentle contrast, slightly lifted blacks with a cool blue-grey cast.
+
+
+
+
+QUALITY
+
+Natural 180-degree shutter motion cadence: subtle motion blur on her hand movements and the moving crowd, strong directional blur at the violent peaks of the handheld shake, while her face remains sharp and readable at every hold point. Stable temporal cadence over the full 10 seconds, no ghosting, no duplicated limbs, no flicker, no looping background motion.
+
+
+
+
+POSITIVE CONSTRAINTS
+
+Exactly one character is in focus: @Image 1, held in medium close-up from just below the chest up for the entire 10 seconds — the framing never widens and never tightens, even at the most violent shake. The sequence follows one strict order with smooth continuous transitions and no jumps: walking → hands cover ears (right first, then left) → gaze drops and a faint tremor begins → eyes close and the shake grows stronger → blind walking with the shake building further → squint triggers the hardest, most aggressive shake of the shot → eyes open and the camera settles → she slowly looks around. The shake intensity only ever increases until her eyes open — it never pauses, resets, or softens early — and the squint peak must be clearly more violent than any moment before it. Her eyes never reopen between the close and the squint. Both hands stay on her ears from placement to the end. The camera shake is handheld instability only — the camera never changes position, height or distance. The crowd is visibly alive in the background for the entire duration — standing groups chatting and laughing, walkers passing in both directions — all anonymous, defocused, never looking into the camera, never interacting with her, and never pausing or reacting to her or the camera. The lens keeps its anamorphic character in every frame with a flare-free, streak-free image.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+ANIMATION 2
+get result of previous generation and input
+INPUTS
+
+SCENE CONTEXT
+
+A video-to-video edit pass on the source shot: a girl in a grey school uniform walks toward the camera through a crowded, cold-lit school corridor with her hands over her ears. The edit adds one animated hand-drawn X mark over the face of every background student. The girl herself is the only face left untouched.
+
+
+
+
+ACTIVE REFERENCES
+
+@Video 1 — the source shot. Controls everything: the girl, the crowd, the corridor, the camera movement, the handheld shake, the framing, the lighting, the color grade, and all timing. Nothing in the source footage is altered, regenerated, restyled or re-lit — the edit only adds the X overlays on top.
+
+@Image 1 — the X mark reference: a flat, hand-drawn pale blue-grey X with sketchy marker-style strokes, rough uneven edges and a soft grey drop shadow, animating with a constant hand-drawn boil — its outline wobbles and redraws slightly frame to frame, like a pencil animation drawn on ones. 100% matches the reference. Controls the look and animation of the X marks only.
+
+
+
+
+X MARK RULE
+
+Every background student in @Video 1 — foreground blur, midground, and deep background, standing or walking, facing any direction — carries exactly one @Image 1 floating flat over their face, sized to cover the face from forehead to chin and scaled proportionally to that person's head size in frame: large sketchy X marks on the near blurred heads, small ones on the distant figures. Each @Image 1 is locked rigidly to its owner's head like a tracked 2D sticker in 3D space: it follows every head turn, nod, laugh-lean and walking bob with zero lag and zero sliding, staying camera-facing and flat at all times — on heads seen in profile or from behind, the X still faces the camera, pinned to where the head is. The X marks inherit the shot's optics: near ones blur into the same soft oval bokeh as their owners, sharper ones sit on midground heads, all keeping the pale blue-grey color and drop shadow. Every @Image 1 boils constantly with the hand-drawn wobble from the reference — all marks boiling independently, never in sync with each other. The X marks are pure graphic overlays: unlit by the scene, casting no light and no shadow onto the world, unaffected by anything except focus blur and their owner's head motion. The girl in the grey uniform at center frame never receives an @Image 1 — her face stays completely clean and visible for the entire duration, including when the camera shakes at its peak.
+
+
+
+
+TRACKING THROUGH THE SHOT
+
+The X marks hold their face-lock through everything @Video 1 does: the backward tracking, the slow build of the handheld shake, and its most violent peak — during the hardest shake the X marks move rigidly with their owners' heads inside the shaking frame, never detaching, never jittering independently of the head they belong to. Students who enter the frame during the shot receive their @Image 1 the moment their head becomes visible; students who exit carry theirs out of frame. No X ever jumps between people, duplicates, fades, or disappears while its owner is visible.
+
+
+
+
+STYLE
+
+The naturalistic cold-palette realism of @Video 1 stays untouched — pale steel blues, icy frosted windows, grey uniforms, film grain, and grade all preserved exactly. The only added element is the flat hand-drawn X marks, reading as a 2D animated graphic layer sitting inside the photographic world — the contrast between sketchy animation and realistic footage is intentional and clean.
+
+
+
+
+QUALITY
+
+The X overlays hold stable temporal cadence with no flicker in and out, no ghost trails, no double marks, no marks drifting off faces; the boil is the only intentional instability. The underlying footage keeps its original sharpness, grain and motion blur with zero degradation from the edit.
+
+
+
+
+POSITIVE CONSTRAINTS
+
+Exactly one face in the entire shot has no @Image 1: the girl in the grey uniform at center frame. Every other visible head carries exactly one boiling, hand-drawn pale blue-grey @Image 1 locked to its face for every frame that head is visible. The X marks are flat camera-facing graphics that never rotate in 3D, never get re-lit by the scene, and never occlude the girl. The camera movement, shake, timing, crowd behavior, color grade and the girl's performance in @Video 1 remain 100% unchanged.
+
+See all
+Copy prompt
+Recreate
+ANIMATION 3
+INPUTS
+
+SCENE CONTEXT
+
+A two-shot sequence of the girl falling through an open sunrise sky above a sea of clouds. Shot A: a tight close-up on her face, eyes squeezed shut as she falls. Shot B: a hard cut to a vast wide shot — her small body tumbling alone through the enormous golden sky.
+
+
+
+
+ACTIVE REFERENCES
+
+@Image 1 — teenage girl, straight dark shoulder-length hair with loose bangs and strands falling over her face, charcoal-grey fitted school uniform jacket with a row of small dark buttons and a chest pocket, white collared shirt underneath, matching grey pleated skirt, black knee-high socks. 100% matches the reference. Ignore the original background from the reference.
+
+@Image 2 — the cloudscape reference: a vast sea of dense, towering cumulus clouds seen from above, rolling layered cloud tops stretching to the horizon under an open sky. Controls the cloud geometry, scale and texture only; the time of day is changed to sunrise — the clouds re-lit in warm golden-pink dawn light with soft amber highlights on the cloud tops and cool lavender-blue shadow in the valleys, a low sun sitting just above the cloud horizon.
+
+
+
+
+SHOT A — CLOSE-UP, 0–4s
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+First frame: tight close-up — @Image 1's face fills the frame, head centered, eyes already squeezed shut in a tense squint, brows knitted, jaw set, lips pressed. She is falling face-up toward the sky: behind and around her head there is only open dawn sky — soft golden-pink gradient with faint blurred cloud tops far below at the frame edges. Her dark hair streams and whips upward away from her face in the rushing air, strands crossing the frame.
+
+
+
+
+OPTICS
+
+Strong anamorphic lens character: oval elliptical bokeh on the soft clouds behind her, horizontally stretched highlights where the low sun grazes her hair, gentle curved barrel distortion at the edges, subtle chromatic aberration toward the edges, no lens flares, no light streaks. Shallow depth of field; focus locked on her face, the sky melting into warm gradient blur.
+
+
+
+
+CAMERA
+
+Camera falls with her, locked to her face at a constant close distance as if mounted to her fall — the framing holds while the world rushes. Constant subtle turbulence shakes the frame: fast, fine, wind-buffeted vibration, not handheld sway. The sky behind her head slowly rotates as her body drifts in the fall.
+
+
+
+
+ACTION
+
+She falls face-up, eyes squeezed shut the entire shot — the squint tense but not pained, holding on inside herself. Wind hammers her face: hair whipping upward in streams, cheeks and collar trembling faintly in the airflow, the grey jacket's shoulders fluttering at the frame's bottom edge. Her breathing is visible in her chest and parted-then-pressed lips. No scream, no panic — a contained, closed face inside a roaring fall.
+
+
+
+
+PHYSICS
+
+True freefall: hair and clothing stream upward against the fall direction with turbulent flutter, fabric snapping in micro-ripples, loose strands vibrating in the wind; her head makes small involuntary shifts against the buffeting; the cloud floor far below creeps closer almost imperceptibly.
+
+
+
+
+LIGHTING
+
+Low sunrise sun just above the cloud horizon at screen-right: warm amber key grazing her cheek and rim-lighting her whipping hair in gold, the shadow side of her face filled with soft pink-lavender sky bounce. Her squeezed eyes and face stay fully readable.
+
+
+
+
+AUDIO
+
+Roaring, buffeting wind — deep and full, whipping fabric and hair snap close to the ear, her tight breaths just audible inside it. No music, no voice.
+
+
+
+
+SHOT B — HARD CUT TO WIDE, 4–10s
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+Hard cut. First frame: an immense wide shot of the sunrise sky — the golden-pink cloud sea of @Image 2 filling the lower third, towering amber-lit cumulus columns rising at the sides, the low sun blazing softly just above the cloud horizon at screen-right, vast gradient sky above. The girl is a small dark figure at upper-center frame, tumbling slowly as she falls toward the cloud floor far below, her grey uniform and streaming hair reading as a tiny silhouette against the glowing sky.
+
+
+
+
+OPTICS
+
+Same anamorphic character: horizontal squeeze across the vast cloudscape, oval bokeh nowhere needed — deep focus edge to edge, gentle barrel curve at the frame edges, subtle chromatic aberration toward the corners, no lens flares, no light streaks despite the low sun.
+
+
+
+
+CAMERA
+
+Camera locked in the sky, static with only the faintest atmospheric drift — a huge, patient, observing frame. It does not follow her: she falls through the frame, shrinking gradually toward the cloud floor. The scale of the sky dwarfs her completely.
+
+
+
+
+ACTION
+
+Her small body tumbles slowly and loosely — a gentle rotation, arms and legs trailing, skirt and hair streaming — falling from upper-center toward the cloud sea below, drifting slightly screen-left as she descends. She grows smaller and smaller against the enormous clouds. The shot ends just before she reaches the cloud tops, a tiny dark speck above the glowing golden surface.
+
+
+
+
+PHYSICS
+
+Her tumble carries real mass and momentum — slow continuous rotation with trailing limbs, clothing and hair streaming against the fall, no flailing; the cloud sea below rolls with barely perceptible internal drift; thin wisps of high cloud slide slowly across the foreground for depth and scale.
+
+
+
+
+LIGHTING
+
+Full sunrise vista: warm amber highlights carving the cloud tops, deep pink-gold gradient sky, lavender-blue shadow pooling in the cloud valleys, the low sun soft and blinding-warm at screen-right, her silhouette edge-lit in gold as she falls.
+
+
+
+
+AUDIO
+
+The wind roar drops away with the cut into vast, distant quiet — a huge open-air stillness, thin high wind, the faint far rush of her fall barely audible in the silence. No music, no voice.
+
+
+
+
+STYLE
+
+Naturalistic photographic realism with a dreamlike scale, one film across both shots — warm sunrise palette of amber, pink-gold and lavender-blue, faint fine film grain, gentle contrast, slightly lifted blacks.
+
+
+
+
+QUALITY
+
+Natural 180-degree shutter motion cadence: strong wind-driven motion blur on whipping hair and fabric in Shot A, her face sharp at every hold; in Shot B her small tumbling figure stays clean and continuous with no ghosting, no duplicated limbs, no flicker, the cloudscape stable with no boiling or warping.
+
+
+
+
+POSITIVE CONSTRAINTS
+
+Exactly one person exists in both shots: @Image 1, identical across the cut — same grey uniform, same hair, same girl. In Shot A her eyes stay squeezed shut for the entire duration and never open. The cut at 4s is a single hard cut with no dissolve, no morph, no speed ramp. In Shot B the camera never follows her — she shrinks through the static frame and never reaches the clouds before the shot ends. The sunrise palette holds across both shots. The lens keeps its anamorphic character in every frame with a flare-free, streak-free image.
+
+See all
+Copy prompt
+Recreate
+
+SCENE CONTEXT
+
+A single continuous shot: a full-body wide of the girl plummeting at full speed through an open sunrise sky above a sea of clouds — close enough to read her whole figure from head to toe and see how completely calm she is inside the violent fall.
+
+
+
+
+ACTIVE REFERENCES
+
+@Image 1 — teenage girl, straight dark shoulder-length hair with loose bangs and strands falling over her face, charcoal-grey fitted school uniform jacket with a row of small dark buttons and a chest pocket, white collared shirt underneath, matching grey pleated skirt, black knee-high socks. 100% matches the reference. Ignore the original background from the reference.
+
+@Image 2 — the cloudscape reference: a vast sea of dense, towering cumulus clouds seen from above, rolling layered cloud tops stretching to the horizon. Controls the cloud geometry, scale and texture only; the time of day is changed to sunrise — warm golden-pink dawn light, amber highlights on the cloud tops, cool lavender-blue shadow in the valleys, a low sun just above the cloud horizon.
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+First frame: full-body wide — @Image 1 is centered in frame, her entire figure readable from head to toe at a moderate distance, falling face-up and feet-down-tilted through open dawn sky, her body filling roughly half the frame height. Around her: the golden-pink gradient sky, the sunrise cloud sea of @Image 2 glowing far below at the bottom of the frame, towering amber-lit cumulus columns soft in the distance behind her, the low sun just above the cloud horizon at screen-right. Blurred wisps of thin cloud streak upward past her to sell the speed.
+
+
+
+
+OPTICS
+
+Strong anamorphic lens character: visible horizontal squeeze on the distant cloudscape, oval elliptical bokeh on the far cloud columns, horizontally stretched highlights where the sun grazes her silhouette, gentle curved barrel distortion at the edges, subtle chromatic aberration toward the corners, no lens flares, no light streaks. Medium depth of field: her full figure sharp, the cloud sea and columns softly deep behind her.
+
+
+
+
+CAMERA
+
+Camera plummets alongside her at matched full speed, holding her centered at constant size — a fall-rig two meters off her, the framing steady while the world rushes upward past both of them. The frame carries fast fine wind-buffet vibration, and her body drifts through a slow, lazy quarter-rotation within the steady framing as they drop together.
+
+
+
+
+ACTION
+
+She falls at unmistakable full speed — hair and pleated skirt driven hard upward, jacket rippling in fast snaps, thin cloud wisps whipping past — but her whole body reads as surrendered calm from head to toe: arms loose and open at her sides, fingers relaxed, legs soft and trailing, spine unclenched, head easy, face open-eyed and peaceful, lips faintly parted, gaze drifting slowly across the sky. No flailing, no bracing, no spread-eagle skydiver pose — she falls the way someone lies back into water, completely at ease while the world roars past her. Her slow quarter-rotation lets the sunrise light travel across her figure through the shot.
+
+
+
+
+PHYSICS
+
+Terminal velocity on a relaxed body: clothing and hair blasted upward and snapping in turbulent ripples against the drop, skirt pleats streaming, socks and shoe laces fluttering; her loose limbs trail with real drag and inertia, swaying softly with the rotation rather than flailing; the cloud sea below creeps visibly closer through the shot; the buffeting nudges her frame in small involuntary shifts the whole time — calm posture, violent airflow, never floaty.
+
+
+
+
+LIGHTING
+
+Full sunrise on her figure: warm amber key from the low sun at screen-right raking across her body, rim-lighting her streaming hair and the edges of her grey uniform in gold, soft pink-lavender sky bounce filling her shadow side, the cloud sea glowing warm below her. Her face and body language stay fully readable.
+
+
+
+
+AUDIO
+
+Deep roaring wind with fabric snap and hair whip, slightly more open and distant than a close-up would be — the roar of a body cutting through sky — with one long, slow, easy exhale from her audible inside it. No music, no voice.
+
+
+
+
+STYLE
+
+Naturalistic photographic realism with a dreamlike scale — warm sunrise palette of amber, pink-gold and lavender-blue, faint fine film grain, gentle contrast, slightly lifted blacks.
+
+
+
+
+QUALITY
+
+Natural 180-degree shutter motion cadence: clean directional motion blur on the rushing cloud wisps, whipping hair and snapping fabric, her figure and face sharp and readable at every hold point. Stable temporal cadence, no ghosting, no duplicated limbs, no flicker, no warping of the cloudscape.
+
+
+
+
+POSITIVE CONSTRAINTS
+
+Exactly one person in the shot: @Image 1, her full body from head to toe visible and centered at constant size for the entire duration — the framing never tightens to a close-up and never widens until she becomes a distant speck. Her eyes are open and her entire body reads relaxed and surrendered from the first frame to the last — arms loose, never flailing, never spread-eagled. The fall reads at full violent speed throughout — streaming clothes, rushing wisps, buffeting — and never becomes floaty or slow-motion. The lens keeps its anamorphic character in every frame with a flare-free, streak-free image.
+
+See all
+Copy prompt
+Recreate
+
+SCENE CONTEXT
+
+6-second single continuous shot: high-altitude skydiving footage at dawn. @Image 1 is in freefall, dropping straight down fast and heavy like a stone, high above an endless sea of sunrise cumulus — a small sharp figure in a huge glowing sky. The frame is about scale and speed. Real documentary energy, shot on anamorphic cinema glass by a camera operator diving alongside.
+
+
+
+
+ACTIVE REFERENCES
+
+@Image 1 — the subject of the shot. Take appearance entirely from the reference. Ignore the reference background.
+
+Cloudscape: dense towering cumulus tops seen from above, layered ridges to the horizon. Time of day is first light — sun 2 degrees over the horizon, gold on the cloud crests, blue-violet in the cloud valleys, long raking shadows.
+
+
+
+
+FIRST FRAME AND BLOCKING
+
+Super wide frame, camera aimed horizontally across open sky. @Image 1 is dead center, in near-profile, back toward the cloud floor, face toward the sky, full body visible head to toe at about 12% of frame height. The cloud sea fills everything behind and below: sunlit ridges left, shadowed valleys low in frame, hazed pink-gold horizon far behind. The low sun at frame left burns a continuous warm rim around the figure's whole outline — one crisp backlit shape on bright cloud.
+
+
+
+
+OPTICS
+
+2x anamorphic, 84-degree horizontal field of view, subject distance about 25 meters. Level horizon, no fisheye bend, subject undistorted at center. Everything sharp except the hazy far horizon. Honest anamorphic character only: slight oval highlights, mild edge falloff. Lens locked all 6 seconds — no zoom, no drift.
+
+
+
+
+CAMERA
+
+The operator dives at the subject's exact speed, 25 meters to the side, holding the figure centered at constant size the whole shot. All speed shows in the world, not the framing: cloud towers race upward past the frame, the cloud floor below climbs visibly, the rig shakes with the hard fine vibration of real high-speed freefall. No push-in, no pull-back, no orbit, no cut.
+
+
+
+
+ACTION
+
+0:00–0:06, one action only: the figure drops. Back-first, arms relaxed and slightly opened off the body with clear sky showing between arms and torso, legs long and a little apart, head laid back, eyes open to the sky — a practiced jumper holding one steady position inside a hard slipstream. Hair stands straight up in fast whipping strands; loose clothing edges crack and flutter upward. Shaken by the air but holding the pose — no tumble, no spin, no curling. Around the figure the cloud towers stream up past the frame edges without pause, and by the last frame the cloud floor below is clearly closer, larger, more detailed — still safely beneath.
+
+
+
+
+PHYSICS
+
+Everything says maximum drop speed: fabric pinned upward and snapping, hair blasted vertical, limbs jostled by buffeting with real drag and follow-through, thin cloud wisps streaking up between subject and lens, the cloud floor rising with true perspective — swelling, sharpening, haze thinning. Nothing floats. Nothing is slow.
+
+
+
+
+LIGHTING
+
+One light source: the low dawn sun behind the subject at frame left. Gold rakes the cloud tops, violet-blue fills the valleys, and the same light draws an unbroken warm edge along the figure's full outline, head to toe. The camera-facing side sits in soft pink sky fill — dim, honest, readable. No glow, no HDR, no added rim.
+
+
+
+
+AUDIO
+
+Recorded from the diving rig: heavy wind roar across the whole spectrum, fabric cracks, buffeting thumps on the mic. No music, no voice.
+
+
+
+
+STYLE
+
+Real skydive documentary footage graded like film: true cloud volumetrics, honest fabric and hair behavior, fine organic grain, gentle contrast, amber / pink-gold / blue-violet dawn palette. No dreaminess, no CGI smoothness, no stylization.
+
+
+
+
+POSITIVE LOCKS
+
+One person only: @Image 1, full body in frame at constant 12% height for all 6 seconds, framing and camera height constant. The silhouette stays clean and human every frame: correct proportions, head, torso, two arms, two legs all separate with sky visible between them, the rim light keeping the outline distinct from the clouds — never blended into cloud shapes, never deformed. One held pose start to finish. The drop reads stone-fast the entire shot — clouds racing upward, floor rising, hard buffeting — never floaty, never glide, never slow motion. The figure stays above the cloud layer through the last frame. Real camera behavior only; the sole lens artifacts are the anamorphic oval highlights.
+
+Settings: 6s, 16:9, audio on.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+
+
+
+post yours and tag me! @sadiesfactionn i repost my favorites ★
+
+my instaaa:
+
+https://www.instagram.com/sadiesfactionn/

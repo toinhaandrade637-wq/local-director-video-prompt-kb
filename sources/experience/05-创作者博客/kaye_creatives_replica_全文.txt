@@ -1,0 +1,1522 @@
+【项目】REPLICA（@kaye_creatives · 创作者博客）
+【链接】https://higgsfield.ai/@kaye_creatives/blogs/replica
+【提示词块】18
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+REPLICA
+@kaye_creatives
+112
+1
+0
+
+Hi there! Thank you so much for your support! Here are your promised prompts!
+
+Have fun creating and don’t forget to experiment and tag me in your works ⭐️
+
+In this blogpost I will show you my workflow, exactly how it was from the first to the last step → so ✨let's get started✨
+
+Part 1. Generating the song with SUNO
+Step 1. Get the prompt from Claude
+
+This is my message to Claude ⤵️ but you can ask him whatever type of prompt you want
+
+Write a Suno prompt for high-energy K-pop girl-crush dance-rap track: solo female artist, mixed English-Korean verses and a catchy one-word English hook of your choice6 about 1:30 long. Pick the genre, style and theme based on current K-pop trends. 
+
+
+
+
+You can also iterate the prompt based on your own vision.
+
+For example, I didn't like the hook of the song → I changed it and here is what I've got
+
+Here’s the full Suno prompt rebuilt around REPLICA. The production is pushed toward a
+harder, more experimental sound to match the concept.
+
+LYRICS
+Paste into the Lyrics box (switch Create to Custom mode). Keep the [bracketed] tags; Suno
+reads them as song structure and performance directions.
+
+[Verse 1 - half-time feel, chopped jungle breaks]
+[stacked gang vocals, glitch stutter]
+Rep-rep-rep-replica
+Rep-rep-rep-replica
+Rep-rep-rep-replica
+[whispered, close-mic]
+Not me, not me, not me, not me
+[confident rap, on the beat]
+Same hair, same walk, same red on the lips
+Bought my whole look, but you can’t buy this
+거울 속에 너, 근데 그건 나야
+Copy-paste my moves, still a beat behind
+가짜 미소, 가짜 눈물, so tired
+Print it on a shirt, sell it on the street
+진짜는 하나, that’s me on the beat
+Look all you want, you can’t do it like me
+
+[Pre-Chorus - sung, airy, rising]
+Look closer, closer, can you tell?
+[robotic vocoder echo]
+(Can you tell?)
+[spoken]
+No? Thought so.
+[Silence - one beat]
+
+[Chorus - full-speed drum and bass, stacked shouted chant]
+Replica, replica, replica
+Look closer, baby, replica
+(Hey!)
+Replica, replica, replica
+Look closer, baby
+Replica
+
+[Verse 2 - half-time, faster flow, fierce Korean-heavy rap]
+가짜들 사이 진짜는 나
+필터 다 꺼도 난 빛나
+AI로 만든 내 얼굴, 내 목소리
+근데 심장은 못 따라 하지
+Deepfake dreams, 화질은 좋네
+근데 영혼이 없네, that’s the game
+Copy my flow? 박자 놓쳤어
+One of one, 나는 원본
+[Breakdown - slow, heavy half-time, sliding 808s]
+진짜와 가짜, 선은 분명해
+네 복사본은 벌써 유행 지났어
+Screenshot me, 그래도 흐릿해
+Zoom in close, 보이는 건 픽셀뿐
+[double-time rap, building intensity]
+가면 벗겨 봐, 뭐가 남았어?
+Trace my outline, 속은 텅 비었지
+같은 노래, 다른 느낌
+I’m the master tape, you’re the cheap remix
+[Silence - one beat]
+
+[Outro - full energy, stacked shouted chant, robotic vocoder echoes]
+Replica, replica, replica
+You’re a replica, replica
+(Hey!)
+Replica, replica, replica
+Can’t fake this
+Replica
+[whispered, close-mic, dry]
+(original, original)
+[End]
+
+STYLE OF MUSIC
+Paste into the Styles box.
+
+K-pop girl-crush dance-rap, warm mid-range female vocals in hushed close-mic delivery,
+with fierce rhythmic rap, sung pre-chorus, and stacked shouted chants; chopped rolling
+jungle breaks, snarling distorted neuro reese bass, deep sub, sharp snare rolls, dark synth
+stabs, and sliding half-time 808s; hard-silence chorus breaks, glitch stutters, vocoder
+echoes, loud saturated mix; 172 BPM drum and bass drive with half-time hip-hop verses and
+a slow heavy breakdown.
+
+EXCLUDE STYLES
+Paste into Exclude Styles, under More Options.
+
+-ballad, -acoustic, -piano, -chill, -lo-fi, -soft breathy lead vocal, -supersaw EDM drop, -heavy
+autotune, -male vocals, -choir, -rock guitar, -lush reverb, -slow build
+
+
+
+
+Step 2. SUNO
+
+
+
+
+Go to Suno → open Create page → and choose Advanced mode
+
+
+
+
+Then copy your prompt from Claude and paste it in Suno prompt box
+
+Don't forget to paste LYRICS and STYLE parts in different prompt boxes ⤵️
+
+
+
+
+Don’t forget to use the Excluded Styles Claude gave us → so the generated songs don’t vary too much in style or include genres and instruments we don’t want:
+
+In the More Options tab:
+
+select Gender just to be safe 
+set Custom Duration to 1:30
+Leave everything else as is, and enter a Title:
+
+and just tap ✨create✨
+
+
+
+
+Suno always generates two versions with similar seeds. Listen to both and pick the “winning generation.”
+
+Each song costs 5 credits, or 10 credits per pair. The standard Pro subscription ($10/month) includes 2,500 credits, which is around 500 songs per month.
+
+The Premier subscription ($30/month) includes 10,000 credits, which is around 2,000 songs per month.
+
+Part 2. Generating video
+Step 1. Pinterest inspiration
+
+After listening to it many times, I started looking for an overall visual style for the music video.
+Based on the sound, rhythm, and vibe, I felt that something like cyberpunk or neo-noir would suit the track.
+
+As usual, I decided to open Pinterest
+
+
+I started by looking for locations to establish the setting.
+
+Step 2. Core plot and idea vision
+
+Sooo, let's start making video itself!
+
+Here is my message to Claude about my vision and idea
+
+PROMPT FOR CLAUDE
+
+I have a big idea for a music video for the track REPLICA. Help me develop it into a detailed, scene-by-scene script.
+
+Overall concept: Singer Karima arrives at a club at night to perform. Everything starts like a typical evening for a star: a limousine, a red carpet, fans, camera flashes, autographs. But gradually, she begins to notice strange things, and the evening turns into a nightmare. Copies of her are walking around—clones with her face. The track is about originals and fakes, about who’s real, and the entire story revolves around that.
+
+Here’s how I picture it:
+
+Opening: Seoul at night, wet asphalt, a club on a street corner with purple neon, a crowd of fans holding phones. The camera is almost at ground level, with a puddle in the foreground and the title REPLICA overlaid on the image. A black limousine pulls up.
+
+Karima steps out of the car: first, silver boots on the red carpet, then the camera tilts up along her metallic jumpsuit. Security guards in black suits stand beside her. She smiles at the fans and signs autographs.
+
+The first strange moment: someone in the crowd suddenly yanks her hair. She turns around but can’t tell who did it. Standing in the crowd is a girl with blue hair and a baseball bat resting on her shoulder. She has Karima’s face. She smiles and disappears.
+
+In her dressing room, Karima tries to compose herself, rubbing her temple. She looks up at the mirror, but her reflection doesn’t follow her movements: it sits perfectly still and smiles. She screams and falls off her chair. The mirror cracks, and the clone climbs out of it and crawls toward her across the floor, like something out of a horror film.
+
+She runs down a backstage corridor. Another Karima steps out of a side door: wearing a men’s suit, with her hands wrapped like a boxer’s. A chase, a fight in the corridor, an overhead strike in slow motion.
+
+Karima escapes through the back exit into an alley, where two of them are already waiting for her: a cyborg Karima and the Karima in the suit. It’s pouring rain. She steels herself and takes them on. I want a brutal, realistic fight in the rain: wet hair, splashing water, a wall run, flips.
+
+She wins and stands exhausted over her opponents. Then someone prods her shoulder with a bat. It’s the blue-haired girl. Karima’s POV: the bat swings straight into the camera. Cut to black.
+
+Karima wakes up in her dressing room: it was all a dream. A knock at the door: “Karima, you’re on.”
+
+Ending: a security guard holds the door open for her, and she walks down the corridor toward the stage. The guard watches her leave, then peels off his face—it’s a mask. Underneath is another Karima. She smirks and steps into the dressing room.
+
+Between the story scenes, insert shots of Karima singing directly to the camera: onstage under a spotlight, in an elevator, in the corridor, and on the red carpet.
+
+Style: Korean cyberpunk, Seoul at night, neon, rain, cinematic realism. Lots of handheld camerawork and camera shake, low angles, POV shots, close-ups of eyes. Colors: purple neon, warm orange light, teal shadows. I want this to look like a big-budget film rather than a music video.
+
+
+
+
+And here is the whole plot, sequences that it gave me ⤵️
+
+REPLICA MV.md
+MD
+
+
+
+
+
+
+
+Step 3. Location references
+
+Here are location references and prompts that Claude gave me 
+The main idea was to have accent and neon colors in every location ⤵️
+
+Club - front view
+
+Create an ultra-realistic cinematic night exterior: a street corner in the old downtown of Seoul, in the dense printing-shop and alley district style of Euljiro and Jongno, a small underground club tucked into the ground floor of a rounded 1970s Korean corner building, a red carpet laid out at its entrance, framed on BOTH sides by brass stanchions. Raw, documentary-real, the corner lit in violet neon, the street lit by ordinary street lamps. The street is silent and empty.
+
+
+
+
+Camera: standing across the intersection at 1.4 m, low eye level, facing the rounded corner of the building, which sits just left of centre. Wide shot. 28 mm full-frame equivalent, about 65 degrees horizontal field of view, refined spherical lens, clean rectilinear rendering, distortion is off. The corner building fills the left two thirds of the frame and rises out of the top edge; the right third opens into a street receding diagonally to the right. Focus is sharp from the curb to the end of the street; beyond it, the far skyline falls gently out of focus.
+
+
+
+
+On frame left: the left facade of the corner building runs off the left edge. A typical old Seoul commercial building: the upper floors clad in small brown and beige ceramic facade tiles, stained and weathered, with wide aluminium-framed windows, a few of them covered by metal security grilles, and two outdoor air-conditioner units mounted on the wall with drip stains below them. A tall vertical sign with stacked hangul characters runs down the facade, its light switched off, the letters reading pale against the tiles. At street level, under the awning, plain grey steel roller shutters and bare wall with a few small scattered graffiti tags and one medium-sized muted blue piece on a single shutter; most of the surface stays bare. In front of it, a wide clean sidewalk of grey Korean paving blocks, about 5 m deep from the building to the curb, swept clean, a yellow tactile strip running along it, its surface catching the violet light.
+
+
+
+
+Across the centre: the rounded corner itself. At the very top of the corner, a rectangular rooftop sign with the building name in hangul, faded. Below it, two floors of curved aluminium-framed windows following the round of the corner, one showing a dim fluorescent light from a closed office, the others dark. At first-floor height, a deep curved awning wraps around the whole corner like a ring; its underside is lined with neon tubes in violet and lavender with a few thin cool white strips, throwing a soft glow down onto the shopfronts and the sidewalk. On top of the awning runs a band of old sign panels with faded hangul lettering. Under the awning, right at the corner, is the club entrance: a narrow doorway behind a half-open steel security gate, a warm glowing lightbox sign above it with hangul lettering, a small red neon sign in hangul in the window, and a dim interior glow inside a stairwell leading down. Beside the doorway, a small cluster of three or four pasted paper posters for club nights with hangul lettering, slightly torn at the corners, and a couple of small graffiti tags; the rest of the wall around the entrance is clean tiled surface.
+
+
+
+
+THE RED CARPET AND THE STANCHIONS: from the doorway, a straight deep red carpet runs out across the full width of the wide sidewalk to the edge of the curb, perfectly flat, its edges crisp, about as wide as the doorway itself. The carpet has two long edges, a left edge and a right edge, and BOTH edges are lined with stanchions, symmetrical like a cinema aisle.
+
+LEFT ROW: along the left edge of the carpet, exactly three polished brass stanchions stand in a straight line from the doorway to the curb, joined by red velvet ropes.
+
+RIGHT ROW: along the right edge of the carpet, a mirror copy: exactly three polished brass stanchions stand in a straight line from the doorway to the curb, joined by red velvet ropes.
+
+The two rows face each other across the carpet, each stanchion of the left row directly opposite its partner in the right row: three pairs, six stanchions in total. The carpet runs between the two rows like a corridor; the ropes on both sides sag in matching soft curves. Each stanchion is a waist-high polished brass pole with a round brass ball on top and a heavy round brass base with a dark rubber rim, standing on the paving just outside the carpet edge. Each rope is thick plush red velvet with brass end caps. The broad sidewalk curves around the corner outside both rows, clean, smooth and open.
+
+
+
+
+On frame right: the right facade continues down the street, with the awning and its violet neon running along it and plain roller shutters underneath. Above the street, heavy bundles of black power and telecom cables sag from pole to pole and cross to the buildings. In the foreground, at the corner of the curb, the first streetlight: an ordinary Seoul street lamp, a tall grey steel pole with a lamp head throwing warm white light down onto the corner, and a small blue street-name sign. Down the right sidewalk, which stays just as wide and clean, a row of identical street lamps continues along the curb, evenly spaced about 30 m apart: exactly four more poles after the first, each one smaller with distance, each throwing its own warm white pool onto the sidewalk and the road, with darker stretches between the pools. The road is empty dark asphalt with white lane markings, the curb lane empty. The sidewalk runs unbroken along a row of narrow three- to five-storey Korean buildings, tiled and plastered facades, small balconies with metal grilles, stacked vertical hangul signboards on their fronts, a few lit in soft white and one or two in soft green, most of them dark at this hour.
+
+
+
+
+In the far background, where the street ends: exactly two tall modern Seoul skyscrapers rise high above the low old buildings, far away. One is a slim supertall tower that tapers gently toward a pointed crown with a soft light at its tip; the other, a little shorter, is a sleek glass office tower with a flat top. Both carry faint grids of lit windows. They are soft and out of focus, veiled by a light night haze, their edges blurred and their window lights spread into small soft glows, clearly much farther away than the street, the old and the new city stacked in one view. They take up only a narrow vertical slice of the frame at the right of centre and reach toward the top third.
+
+
+
+
+Above: a deep black night sky in the upper right, clean, with a faint warm glow of city haze near the horizon behind the two towers.
+
+
+
+
+In the foreground, across the bottom of the frame: dark damp asphalt with a faded white lane marking, catching the violet and warm white light.
+
+
+
+
+Light and color: restrained and balanced, moderately saturated, never neon-loud. The violet awning neon is the key light around the corner: it lights the shopfronts, the club doorway, the red carpet, both rows of stanchions and the wide corner sidewalk. The polished brass on both sides of the carpet catches bright warm highlights from the lightbox and the corner street lamp, with long vertical reflections on each pole and a bright point on each ball top. The ordinary street lamps light the right street in a rhythm of warm white pools receding into depth. The few lit hangul signboards add soft white and green accents down the street. The red carpet and the red velvet ropes on both sides are the strong warm accent in the frame, a true deep red under the violet light, together with the lightbox and the small red neon at the door. The upper floors fall into dim shadow lit only by spill from below. The distant towers glow faintly cool through the haze. The materials keep their own colors inside the light: tiles stay brown and beige, concrete stays grey-tinted, brass stays gold, asphalt stays dark. Balanced exposure: the light pools hold detail, shadows are deep with detail, midtones carry the image, the sky is clean black.
+
+
+
+
+Materials: small weathered ceramic facade tiles with grime in the joints, aluminium window frames, rusted security grilles, corroded steel roller shutters with a few spray-paint marks, a handful of paper posters with torn corners, faded sign panels, Korean paving blocks, a plush red carpet, mirror-polished brass stanchions with faint fingerprints, soft crushed red velvet ropes, worn damp asphalt, sagging black cables, plain grey steel lamp poles.
+
+
+
+
+No people, silhouettes, faces, human figures, human-shaped reflections, mannequins, portraits that read as real occupants, or figures visible through windows, doors, mirrors, or screens.
+
+
+
+
+Before anything else this frame reads: an empty Seoul street corner at night, a red carpet running from the club door to the curb between TWO rows of brass stanchions with red velvet ropes, one row on each side of the carpet, three stanchions per side.
+
+See all
+Copy prompt
+Recreate
+Club - back view
+
+Create an ultra-realistic cinematic interior: a small private dressing room backstage at an old nightclub in Seoul, kept in its original theatrical style. Intimate, low-key and warm, lit only by the vanity bulbs. The room is empty, the chair waiting.
+
+
+
+
+Camera: standing at 1.3 m, slightly below eye level, at the front-left of the room, looking toward the inner corner where the curtain wall meets the mirror wall. The corner sits just right of centre. Wide shot showing both walls and the floor. 35 mm full-frame equivalent, about 54 degrees horizontal field of view, refined spherical lens, clean rectilinear rendering, distortion is off.
+
+
+
+
+On frame left: the whole left wall is a floor-to-ceiling deep red velvet theatre curtain, heavy vertical folds running from the top edge of the frame to the floor, the fabric pooling slightly on the ground. In the foreground, the curtain folds are large and fall into near darkness at the left edge. In the midground, a large framed poster hangs on the narrow strip of wall at the end of the curtain: a mustard-yellow background with a bold abstract black-and-grey brushstroke composition, in a thin black frame, slightly dusty. In the background, the curtain meets the corner.
+
+
+
+
+Across the centre: the corner of the room, then the start of the right wall. A chrome hydraulic barber chair with black leather seat and armrests stands in front of the counter, turned a quarter toward the camera, its round chrome base resting on the floor. The dark floor between the camera and the chair stays open and empty, a matte black stage floor with faint scuffs.
+
+
+
+
+On frame right: the right wall is clad in vertical dark walnut wood slats. Along it runs a long built-in makeup counter in dark brown lacquer with a row of shallow drawers below. On the counter: makeup brushes in a jar, small bottles, a tray of palettes, a tall candle in a holder, a small white vintage radio, a few closed boxes. Above the counter, a long rectangular mirror with a thin metal frame, and above the mirror a row of exactly five oval frosted vanity lamps glowing warm white. The mirror reflects the red curtain and the poster from the opposite wall. In the background, the wood wall and counter run off the right edge into darkness.
+
+
+
+
+Light: the five vanity lamps are the only light in the room. They throw a warm pool over the counter, the mirror, the chair and the near end of the curtain, and the light falls off softly across the floor into deep shadow toward the left and the foreground. The red velvet glows rich crimson where the light touches it and sinks into dark burgundy in its folds. The walnut slats catch soft warm highlights. The chrome of the chair carries small bright reflections of the lamps. Shadows are deep but keep their detail.
+
+
+
+
+Materials: heavy crushed velvet with dust in the folds, oiled walnut slats with fine grain, lacquered counter worn at the edges where hands rest, a mirror with faint smudges and slightly aged silvering, cracked black leather on the chair, scuffed matte floor.
+
+
+
+
+No people, silhouettes, faces, human figures, human-shaped reflections, mannequins, portraits that read as real occupants, or figures visible through windows, doors, mirrors, or screens.
+
+See all
+Copy prompt
+Recreate
+Dressing room
+
+Create an ultra-realistic cinematic interior: a small private dressing room backstage at an old nightclub in Seoul, kept in its original theatrical style. Intimate, low-key and warm, lit only by the vanity bulbs. The room is empty, the chair waiting.
+
+
+
+
+Camera: standing at 1.3 m, slightly below eye level, at the front-left of the room, looking toward the inner corner where the curtain wall meets the mirror wall. The corner sits just right of centre. Wide shot showing both walls and the floor. 35 mm full-frame equivalent, about 54 degrees horizontal field of view, refined spherical lens, clean rectilinear rendering, distortion is off.
+
+
+
+
+On frame left: the whole left wall is a floor-to-ceiling deep red velvet theatre curtain, heavy vertical folds running from the top edge of the frame to the floor, the fabric pooling slightly on the ground. In the foreground, the curtain folds are large and fall into near darkness at the left edge. In the midground, a large framed poster hangs on the narrow strip of wall at the end of the curtain: a mustard-yellow background with a bold abstract black-and-grey brushstroke composition, in a thin black frame, slightly dusty. In the background, the curtain meets the corner.
+
+
+
+
+Across the centre: the corner of the room, then the start of the right wall. A chrome hydraulic barber chair with black leather seat and armrests stands in front of the counter, turned a quarter toward the camera, its round chrome base resting on the floor. The dark floor between the camera and the chair stays open and empty, a matte black stage floor with faint scuffs.
+
+
+
+
+On frame right: the right wall is clad in vertical dark walnut wood slats. Along it runs a long built-in makeup counter in dark brown lacquer with a row of shallow drawers below. On the counter: makeup brushes in a jar, small bottles, a tray of palettes, a tall candle in a holder, a small white vintage radio, a few closed boxes. Above the counter, a long rectangular mirror with a thin metal frame, and above the mirror a row of exactly five oval frosted vanity lamps glowing warm white. The mirror reflects the red curtain and the poster from the opposite wall. In the background, the wood wall and counter run off the right edge into darkness.
+
+
+
+
+Light: the five vanity lamps are the only light in the room. They throw a warm pool over the counter, the mirror, the chair and the near end of the curtain, and the light falls off softly across the floor into deep shadow toward the left and the foreground. The red velvet glows rich crimson where the light touches it and sinks into dark burgundy in its folds. The walnut slats catch soft warm highlights. The chrome of the chair carries small bright reflections of the lamps. Shadows are deep but keep their detail.
+
+
+
+
+Materials: heavy crushed velvet with dust in the folds, oiled walnut slats with fine grain, lacquered counter worn at the edges where hands rest, a mirror with faint smudges and slightly aged silvering, cracked black leather on the chair, scuffed matte floor.
+
+
+
+
+No people, silhouettes, faces, human figures, human-shaped reflections, mannequins, portraits that read as real occupants, or figures visible through windows, doors, mirrors, or screens.
+
+See all
+Copy prompt
+Recreate
+Corridor - front view
+
+EDIT @Image 11 — ONE CHANGE ONLY: THE CURTAIN. Keep this exact corridor frame of @Image 11 as it is: the same viewpoint, framing, lens and perspective, the same 16:9 composition, every object, the same light, colour, grain and sharpness. Change only the red velvet curtain at the far end.
+
+
+
+
+INPUT:
+
+@Image 11 = THE BASE FRAME — the backstage corridor with the deep red velvet curtain at its far end. Keep everything of it except the two changes below.
+
+
+
+
+CHANGE 1 — THE CENTRE CLOSES: the two curtain panels in the centre now hang fully closed, overlapping each other, one unbroken wall of deep red velvet folds from the ceiling to the floor across the whole end of the corridor. The centre of the curtain is dark red velvet like the rest of it, its folds continuing straight across where the panels meet.
+
+
+
+
+CHANGE 2 — THE WAY OUT IS AT THE LEFT END: at the curtain's LEFT end, in the far LEFT corner of the corridor, where the edge of the velvet meets the LEFT wall, the edge hangs pulled a hand's width away from the wall, and a narrow vertical slit of warm amber light glows between the curtain's edge and the wall, from the floor up to the top of the curtain. That warm light spills a thin warm line across the floor in front of the corner.
+
+
+
+
+LIGHT: the rest of the light stays exactly as in @Image 11 — the teal-white fluorescent tubes, the hanging dome lamp, the blue wall screen; the curtain reads deep crimson red with soft highlights on the crests of its folds; the only warm amber light at the far end now comes from the slit at the LEFT end.
+
+
+
+
+REALISM: one real location photograph, seamless, the same grain, softness and exposure as @Image 11 ; real velvet with real weight. The corridor stands empty and still.
+
+
+
+
+OUTPUT: 16:9, the same resolution and framing as @Image 11 .
+
+See all
+Copy prompt
+Recreate
+Corridor - back view
+
+EDIT @Image 10 — THREE CHANGES ONLY. Keep this corridor of @Image 10 : the same viewpoint, lens and perspective, the same 16:9 composition, everything in the near half of the frame, the red doors with their portholes and the posters on the RIGHT, the flight case, the taped walkway line, the ceiling with its pipes, fluorescent tubes and hanging dome lamp, the green EXIT sign, the same light, colour, grain and sharpness. Change only the LEFT wall, the doorway at the far end and the length of the corridor.
+
+
+
+
+INPUT:
+
+@Image 10 = THE BASE FRAME — the reverse view of the backstage corridor. Keep everything of it except the three changes below.
+
+
+
+
+CHANGE 1 — A LONG CORRIDOR: the corridor is three times as long. Past the last red door it keeps going far into the distance: more red doors with round yellow-rimmed portholes along the RIGHT wall, the plain black LEFT wall running on, four more fluorescent tubes spaced along the middle of the ceiling, each one smaller and dimmer than the last, the taped walkway line running on and on down the middle of the floor to the vanishing point. The far end lies about forty metres away, small and deep in the frame, sinking into shadow. The near half of the frame — the white brick column, the nearest red door, the flight case, the first fluorescent tube, the dome lamp — stays as in @Image 10 .
+
+
+
+
+CHANGE 2 — THE LEFT SIDE IS A PLAIN WALL WITH AN OPENING: the LEFT side of the corridor becomes one plain, continuous black wall of worn painted concrete, running from the white brick column in the foreground all the way to the far end. The wall-mounted screen is gone from it — that part of the wall is bare black painted concrete with the same scuffs and peeling paint as the rest. The railings end at the white brick column. Deep down this LEFT wall, about two thirds of the way to the far end, there is a wide doorless opening — a plain rectangular hole in the wall, the height of a door, with no door and no frame — leading into another room: inside it, deep darkness, with only the faint dim outline of the room beyond, a dark floor and the edge of a far wall caught by a weak glow. The teal light of the corridor touches the edges of the opening.
+
+
+
+
+CHANGE 3 — AN INDUSTRIAL EXIT DOOR AT THE FAR END: at the far end, small in the distance, the end wall holds a heavy, closed industrial steel door, square to the viewpoint, under the green EXIT sign: dull grey-green painted steel, dented and scuffed, paint chipped at the edges, a long horizontal steel push bar across its middle, a small square window of wired safety glass at head height with darkness behind it, heavy steel hinges, a thick steel frame painted with worn yellow-and-black hazard stripes, a scraped steel kick plate at its foot. The green glow of the EXIT sign falls across the top of the door and shines on the push bar.
+
+
+
+
+TEXT RULE: the only readable word in the whole image is EXIT on the green sign. Every poster, note and label keeps its shape, size and colour, its lettering softened into unreadable faded marks.
+
+
+
+
+REALISM: one real location photograph, seamless, the same grain, softness and exposure as @Image 10 ; real worn concrete, real dented steel. The corridor stands empty and still.
+
+
+
+
+OUTPUT: 16:9, the same resolution and framing as @Image 10 .
+
+See all
+Copy prompt
+Recreate
+Back exit - front view
+
+I just downloaded this picture cause it already looks good
+
+
+
+
+Back exit - back view
+
+Create an ultra-realistic cinematic night photograph: a short dead-end back alley in an old district of Seoul, closed for the night, soaking wet after rain, empty and quiet, full of glowing signboards and warm light. Ultra-wide cinematic frame, about 2.35:1.
+
+
+
+
+CAMERA: standing in the middle of the alley at 1.2 m, looking straight down the alley at the dead-end wall, a symmetrical one-point perspective. 24 mm full-frame equivalent, about 74 degrees horizontal field of view, refined spherical lens, clean rectilinear rendering, distortion is off; every vertical line straight and vertical, the horizon level. Deep focus from the near asphalt to the back wall. The alley is about 7 metres wide and about 15 metres deep to the back wall.
+
+
+
+
+CENTRE — THE DEAD-END WALL: the alley ends at the tall back wall of a building facing the camera square on. Its upper part is bare grey concrete in large weathered panels, streaked with dark water stains, rising out of the top of the frame. Its lower part, up to about 5 metres, is clad in small square white ceramic tiles in a grid, grimy and stained, with a short tiled ledge running across. In the middle of the tiled wall: one plain grey steel door, closed, with a small red-and-white "EXIT" sticker on it at eye level and a small keypad lock beside it. Directly above the door, a small green glowing "EXIT" sign, and above that a bright round wall lamp glowing warm golden-orange: it throws a wide, strong cone of warm light down over the door, the tiles and the air-conditioner units, and a large bright warm pool onto the wet ground in front of the door, the brightest warm spot of the whole frame, with a soft glowing halo around the lamp. A second, smaller warm lamp under the tiled ledge adds warm light along the top of the door frame.
+
+To the LEFT of the door on the back wall: two outdoor air-conditioner units mounted one above the other on brackets, a white pipe curving down the wall, a tall thin vertical drainpipe, a black metal grille box, and a third air-conditioner unit standing on the ground against the wall.
+
+To the RIGHT of the door: grey electrical meter boxes and junction boxes with stickers, a tangle of thin copper-brown pipes and cables, a yellow gas pipe; on the ground, two stacks of plastic beer crates in yellow, red, green and blue, a brown plastic bucket and a grey wheelie bin with a lid. A wide silver flexible metal duct runs down the wall from high above and bends toward the right. Further right, in the shadowed corner, a dark recessed doorway with a small faded poster, and a round orange sign reading "비너스" on a bracket.
+
+High on the right side of the back wall hangs a tall black vertical signboard with white letters reading "비", "너", "스" stacked top to bottom and "Venus" and "B2" below them, its letters glowing white. High on the left side of the back wall, a second vertical lightbox sign glowing warm yellow with red hangul letters "노래방", and a small pink neon heart sign on the tiles to the left of the door.
+
+
+
+
+LEFT SIDE OF THE ALLEY (near to far): in the near foreground, the corner of an old building clad in small white-and-grey tiles, a small blue square parking sign with a white "P" on its wall. On it, a red LED sign glowing "CLOSED" with a line of small red text below it. Below, a closed roller shutter painted in faded pastel stripes of pink, cream, blue and yellow, and above it a cream lightbox signboard with red hangul letters "단란주점". On the pavement in front of the shutter stands a tall arched standing lightbox glowing pale mint and pink, with pink circles and small hangul text on its face. A tall grey street lamp pole rises past the frame top, its modern LED head glowing cool white high on the left; on the pole and the wall beside it, a small square neon sign glowing magenta-pink with a green outline, and a round metal street sign seen from behind. Higher up on the left buildings, more signs: a vertical white lightbox with blue hangul letters "호프", a small red neon "OPEN 24" sign glowing bright, and a horizontal lightbox glowing warm white with black hangul "치킨". Further in, a black scooter with a top box parked against the wall, a small black bucket and white trash bags at the base of the wall, a tiled building above with a metal balcony railing, old dusty signboards and sagging black cables.
+
+
+
+
+RIGHT SIDE OF THE ALLEY (near to far): in the near foreground, a tall wide corrugated roller shutter, rusty and painted in worn stripes, glowing warm orange in the light; above it on a bracket a large round green sign with white hangul "비너스", and at the right edge part of a second round orange-and-white sign. Behind it, a narrower shop front with a steel security grille, a white signboard lit from inside, a black vertical signboard with white glowing hangul "한밥식품", and a red-and-orange awning edge. Higher up on the right buildings, more signs: a vertical lightbox glowing teal with white hangul "당구장", a small round red neon sign, and a strip of warm yellow bulbs along the edge of the awning. On the ground along the right wall: a white air-conditioner unit with a coiled grey hose, a tall white utility cabinet, a small red box, a leaning board.
+
+
+
+
+GROUND: soaking wet dark asphalt across the whole alley, glossy like a mirror, with wide shallow puddles across the middle and along both walls and faint worn white road markings near the back wall. The wet surface mirrors everything: the bright warm pool and halo of the lamp over the door stretch toward the camera as a long golden reflection down the centre of the alley; the cool white street lamp, the red "CLOSED" sign, the green and magenta neon, the mint lightbox, the green and orange round signs and every glowing signboard lie in the puddles as long, sharp, colourful vertical reflections. Small drops still fall from the ledges and air-conditioner units into the puddles, making tiny rings. The middle of the alley, from the camera to the door, is open and empty.
+
+
+
+
+LIGHT AND COLOR: night, rich with light. The bright warm golden-orange lamp over the door is the key light and the heart of the frame, and the warm spill on the rusty shutters on the right carries it to the foreground; the cool white LED street lamp lights the left side and the tiles in a cooler tone; small strong accents: red from the "CLOSED" sign, magenta and green from the neon square, mint and pink from the standing lightbox, green from the "EXIT" sign and the round green sign. The shadows fall into deep teal and charcoal. Every signboard glows and lights the wall around it in its own colour. Crisp, clean, high-detail modern night photograph, rich saturation, a bright, well-lit alley with balanced exposure, detail in the shadows and in the highlights, soft glow around the lamps and signs, very fine grain.
+
+
+
+
+MATERIALS: wet asphalt, grimy small square tiles, weathered stained concrete, rusty painted corrugated steel, scratched grey steel door, plastic crates, white plastic air-conditioner casings, flexible aluminium duct, plastic signboards with glowing letters.
+
+
+
+
+No people, silhouettes, faces, human figures, human-shaped reflections, mannequins, portraits that read as real occupants, or figures visible through windows, doors, mirrors, or screens.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+Step 4. Character sheets
+Main character sheet
+Input your selfie
+Make sure you tagged your selfie with @ in the prompt where it is marked red
+and just tap ✨recreate✨
+
+Character sheet of @selfie in a futuristic Y2K space-pop stage costume of smooth glossy metallic vinyl, a real photograph of a real person, on a pure white seamless studio background, a clean empty canvas around the figure. Three panels side by side. LEFT panel: full-body front view; the top edge of the frame sits exactly at the base of her neck, so the panel shows her from the collarbones down to the boots. CENTER panel: full-body back view with the same crop at the base of the neck, collarbones down to the boots. RIGHT panel: three-quarter portrait, the only panel that shows her face, the near cheek slightly larger, a dreamy, cool pop-star look.
+
+
+
+
+FACE LIKENESS: her face is an exact likeness of the element: the same face shape, eyes, brows, nose, lips and skin tone, the same hair color, length and texture. Hyperrealistic natural skin with visible pores, soft even studio light, true photographic realism.
+
+
+
+
+HEIGHT AND PROPORTIONS: a woman of average height, about 168 centimetres, natural everyday proportions: legs about half of her total height, the waist at its natural level, a head-to-body ratio of about one to seven and a half, a slim figure, standing flat-footed.
+
+
+
+
+THE MATERIAL: everything in smooth, flat, high-gloss liquid metallic silver-blue vinyl with mirror-like reflections, thin and sleek like patent leather, lying flat against the body with crisp seams and clean sharp edges.
+
+
+
+
+FIRST LAYER, THE BODYSUIT: a long-sleeved bodysuit in the smooth glossy silver-blue vinyl with a high mock-neck collar closed at the base of the neck and a sleek shield-shaped panel outlined by topstitching across the chest, with a small chrome teardrop pendant at its centre; it covers her chest, stomach and waist completely and is tucked neatly into the high waistband of the trousers.
+
+
+
+
+SECOND LAYER, THE JACKET: over the bodysuit a sleek cropped jacket in the same smooth glossy silver-blue vinyl, ending at the waistband, with a sharp stand-up collar, a chrome zip worn half open over the bodysuit, structured sharp shoulders covering both shoulders, clean flat panels, and long straight sleeves ending at the mid-forearm in wide flat cuffs; a small flat silver star appliqué on the left chest.
+
+
+
+
+GLOVES AND HANDS: long smooth glossy silver-blue fingerless vinyl gloves from the elbow to the knuckles, disappearing under the flat sleeve cuffs, so her arms are fully covered; her fingers are natural, with short, neatly trimmed natural nails in a soft sheer nude tone.
+
+
+
+
+TROUSERS: high-waisted trousers in the same smooth glossy vinyl, relaxed and straight through the thighs, with flat matte grey oval patches stitched onto the hips and the knees and small flat silver star appliqués at the hips; below the knees they widen into big sleek flared bell-bottoms with crisp pressed creases, falling to the floor and resting on the boots.
+
+
+
+
+BOOTS: mirror-chrome silver patent leather platform ankle boots with a sleek pointed toe, a tall sculpted chrome platform sole and a chunky futuristic block heel, a vertical chrome zip on the inner side, their glossy pointed toes showing from under the flared hems.
+
+
+
+
+DETAILS: chrome liquid-drop earrings; a glossy icy-silver shimmer on her eyelids, a touch of silver highlight on the cheekbones and frosted glossy lips in the portrait.
+
+
+
+
+Both hands hang relaxed at her sides.
+
+
+
+
+LOCKS: exactly one person, three panels; both full-body panels cropped at the base of the neck; the face appears only in the right portrait panel, an exact likeness of the element, with the chrome drop earrings; the whole costume in smooth flat glossy metallic silver-blue vinyl with crisp seams; the bodysuit with a high mock neck covering the chest and stomach and tucked into the trousers; the sleek cropped jacket covering both shoulders and arms; fingerless gloves under the flat cuffs; short natural nude nails; the sleek flared trousers reaching the floor; mirror-chrome pointed platform ankle boots with block heels; a clean white background.
+
+See all
+Copy prompt
+Recreate
+Blue hair character sheet
+Input your selfie
+Make sure you tagged your selfie with @ in the prompt where it is marked red
+and just tap ✨recreate✨
+
+Character sheet of @selfieas an emo girl with a baseball bat, on a pure white seamless studio background, a clean empty canvas around the figure. Three panels side by side. LEFT panel: full-body front view; the top edge of the frame sits exactly at the base of her neck, so the panel shows her from the collarbones down to the shoes, the baseball bat in her right hand. CENTER panel: full-body back view with the same crop at the base of the neck, collarbones down to the shoes, the baseball bat in her right hand. RIGHT panel: three-quarter portrait, the only panel that shows her face, the near cheek slightly larger. Her face and body proportions match the element 100%. Hyperrealistic natural skin with visible pores, soft even studio light, photographic realism.
+
+
+
+
+HAIR: her own haircut, length and texture from the element, dyed vivid electric blue with one bright magenta streak at the front, slightly messy and piecey.
+
+
+
+
+MAKEUP: emo makeup on her own face: smudged dark charcoal eyeliner around both eyes with a soft smoky smear, a hint of navy shadow, slightly pale skin, and deep plum-berry lips; her real features stay recognisable.
+
+
+
+
+HEIGHT AND PROPORTIONS: a woman of average height, about 168 centimetres, natural everyday proportions: legs about half of her total height, the waist at its natural level, a head-to-body ratio of about one to seven and a half, a slim figure, standing flat-footed.
+
+
+
+
+FIRST LAYER, THE PLAID TURTLENECK: a thin stretchy jersey turtleneck printed all over with a blue-and-purple plaid pattern, its high rolled turtleneck collar covering her neck up to the jaw; a slim second-skin fit, and its long sleeves are skin-tight on BOTH arms, hugging each arm closely from the shoulder all the way down to the wrist, the plaid print stretched smoothly along the arm, with no loose fabric anywhere on either sleeve; the plaid turtleneck collar and both tight plaid sleeves visible in every panel.
+
+
+
+
+SECOND LAYER: over the turtleneck a loose white short-sleeve band-style T-shirt with a plain grey chest patch and a few small metal pins, reaching the hips and covering the stomach fully, its short sleeves ending at the upper arm so the tight plaid sleeves show below; a thick, chunky silver curb-link chain necklace worn over the T-shirt with a small silver padlock hanging at the centre of her chest.
+
+
+
+
+BOTTOM: very wide dark indigo denim jeans reaching the floor, cuffed over the boots, with a black studded belt; on both feet the same pair of plain white ribbed crew socks showing as a short white band above the boots; scuffed grey lace-up combat boots with red laces.
+
+
+
+
+THE BAT: in her right hand, in both full-body panels, she holds one worn wooden baseball bat with a taped black grip, her hand around the grip at hip height, the barrel resting on the floor beside her right foot; her left hand hangs relaxed and empty at her side.
+
+
+
+
+LOCKS: exactly one person, three panels; both full-body panels cropped at the base of the neck; the face appears only in the right portrait panel; her face and proportions from the element; electric-blue hair with a magenta streak and smudged emo makeup in the portrait; one plaid-print turtleneck as the base layer with skin-tight plaid sleeves on both arms from shoulder to wrist; the white T-shirt over it; the chunky silver chain with a padlock; matching white socks on both feet; one wooden baseball bat in her right hand in the front view and in the back view; neck, chest, stomach, waist and shoulders fully covered; jeans reaching the floor; a clean white background.
+
+See all
+Copy prompt
+Recreate
+Suit character sheet
+Input your selfie
+Make sure you tagged your selfie with @ in the prompt where it is marked red
+and just tap ✨recreate✨
+
+Character sheet of @selfie  on a pure white seamless studio background, a clean empty canvas around the figure. Three panels side by side. LEFT panel: full-body front view; the top edge of the frame sits exactly at the base of her neck, so the panel shows her from the collarbones down to the shoes. CENTER panel: full-body back view with the same crop at the base of the neck, collarbones down to the shoes. RIGHT panel: three-quarter portrait, the only panel that shows her face, the near cheek slightly larger. Her face and body proportions match the element 100%. Hyperrealistic natural skin with visible pores, soft even studio light, photographic realism.
+
+
+
+
+HAIR: her own natural hair color from the element, cut SHORT: a short, slightly tousled crop with soft textured layers, the hair ending above the ears and at the nape, a few strands falling across her forehead after the fight.
+
+
+
+
+HEIGHT AND PROPORTIONS: a woman of average height, about 168 centimetres, natural everyday proportions: legs about half of her total height, the waist at its natural level, a head-to-body ratio of about one to seven and a half, a slim athletic figure, standing flat-footed.
+
+
+
+
+CHARACTER: a fighter in a formal business suit, right after a fight: calm, tired, steady eyes, a faint scuff on one cheekbone, composed and dangerous.
+
+
+
+
+Outfit: a sharp, slightly oversized charcoal-grey wool business suit: a single-breasted jacket worn open, slightly rumpled, a smudge of dust on one lapel; a crisp white shirt buttoned to the collar with a slim black tie loosened and pulled a little to the side, the shirt cuffs pushed back; full-length straight charcoal suit trousers; black leather oxford shoes, scuffed at the toes.
+
+
+
+
+THE HAND WRAPS: both hands and wrists wrapped in old boxer's cotton hand wraps from the knuckles up to the middle of the forearm, the wraps disappearing under the pushed-back shirt cuffs; the cotton once white, now faded to a dirty off-white and grey, softened and stretched from long use, frayed loose threads along the edges, uneven overlapping layers wound tight across the knuckles and between the fingers, small worn holes at the knuckles, faded rust-brown stains on the knuckles, scuffs of grey dust, one loose end tucked and one hanging free at a wrist.
+
+
+
+
+Both hands hang relaxed at her sides, fists loosely half-closed.
+
+
+
+
+LOCKS: exactly one person, three panels; both full-body panels cropped at the base of the neck; the face appears only in the right portrait panel; her face and proportions from the element with a short tousled crop; worn dirty hand wraps on both hands and forearms in every panel where hands are visible; neck, chest, stomach and shoulders fully covered by the suit; a clean white background.
+
+See all
+Copy prompt
+Recreate
+Cyborg character sheet
+Input your selfie
+Make sure you tagged your selfie with @ in the prompt where it is marked red
+and just tap ✨recreate✨
+
+Character sheet of @selfie as a cyborg girl, in the outfit of , a real photograph of a real person with real mechanical parts, on a pure white seamless studio background, a clean empty canvas around the figure. Three panels side by side. LEFT panel: full-body front view; the top edge of the frame sits exactly at the base of her neck, so the panel shows her from the collarbones down to the boots. CENTER panel: full-body back view with the same crop at the base of the neck, collarbones down to the boots. RIGHT panel: a large three-quarter portrait of her face and neck, the only panel that shows her face, turned so the shaved side of her head and the cyberware lines on that cheek face the camera, a cool, intense stare.
+
+
+
+
+THE FACE: a living human face, an exact likeness of the element: her own real skin with visible pores, fine peach fuzz and natural tiny imperfections, her own real eyes, brows, nose and lips. True photographic realism, soft even studio light.
+
+
+
+
+CYBERWARE INDENTATIONS ON THE FACE: on the cheek of the shaved side, fine indented seam lines pressed into her skin like the panel edges of subdermal implant plates: a thin angular geometric outline starting just below the outer corner of the eye, running down across the cheekbone in straight segments and sharp corners and continuing back toward the ear, the grooves shallow and precise with a faint silver metallic glint inside them, the skin around them smooth and natural; two small round metal implant ports set into the skin along the jaw below that cheek; three small silver metal rings and studs implanted along the edge of that ear.
+
+
+
+
+HAIR: her own hair color and texture from the element, in an undercut: one side of her head buzzed very short to fine dark stubble from the temple to behind the ear, the rest of her long straight hair swept over the top of her head to the opposite side, falling long past her jaw on that side.
+
+
+
+
+THE ROBOTIC NECK: her entire neck, from just under the jaw down to the collar, is mechanical: a column of segmented dark graphite metal vertebrae with brushed steel plates, black pistons and bundles of thin black cables running down into the shirt collar, a few small orange accent lights between the segments; her living skin meets the metal in an organic, slightly irregular border along the underside of the jaw.
+
+
+
+
+THE ROBOT ARM, exactly as in : the left side of the shirt is neatly cut off at the shoulder seam, a clean finished edge around a round metal shoulder joint; her entire left arm is a real mechanical prosthetic from the shoulder to the fingertips: dark graphite metal plates with scuffs and small orange accents, exposed black pistons and joints at the elbow and wrist, thin cables, articulated metal fingers. Her right arm is human, in the shirt's right sleeve.
+
+
+
+
+HEIGHT AND PROPORTIONS: a woman of average height, about 168 centimetres, natural everyday proportions: legs about half of her total height, the waist at its natural level, a head-to-body ratio of about one to seven and a half, a slim figure, standing flat-footed.
+
+
+
+
+Outfit, with a modest closed neckline: an oversized off-white cotton shirt fastened all the way up, every button closed including the top collar button, the collar standing closed snugly around the base of her mechanical neck, the shirt front flat and fully closed so her chest and collarbones are completely covered; the shirt tucked in, the right sleeve rolled to the forearm; a black tactical harness crossing over the shoulders and back; wide olive-grey cargo trousers with flap pockets and a thigh strap, gathered at the ankles; a black webbing belt with holsters and a hanging burnt-orange leather strap; a black fingerless glove on her human right hand; black lace-up combat boots.
+
+
+
+
+Both hands hang relaxed at her sides.
+
+
+
+
+LOCKS: exactly one person, three panels; both full-body panels cropped at the base of the neck; her face appears only in the right portrait panel, a living human face and an exact likeness of the element; fine indented geometric cyberware seam lines with a silver glint on one cheek, small metal ports along the jaw and metal rings in that ear; an undercut with one side buzzed short and the long hair swept to the other side; her whole neck mechanical; the shirt buttoned to the top button with the chest fully covered; the shirt neatly cut at the left shoulder seam and the whole mechanical left arm visible; a clean white background.
+
+See all
+Copy prompt
+Recreate
+Bodyguard mask character sheet
+Input your selfie
+Make sure you tagged your selfie with @ in the prompt where it is marked red
+and just tap ✨recreate✨
+
+Character sheet of @selfie disguised as the bodyguard from @Image 27: she wears his full body like a disguise suit, so the body in every panel is exactly the huge body of @Image 27, and only the head is hers. A real photograph, on a pure white seamless studio background, a clean empty canvas around every element. Four panels side by side, each taking a quarter of the width.
+
+
+
+
+PANEL 1 (far left): full-body front view, an exact copy of the left panel of @Image 27: the same massive man's body, about 195 centimetres tall, with huge rounded shoulders, a barrel chest, a solid belly, thick arms and big heavy hands, in the same black suit, the same stance and framing; the top edge of the frame sits exactly at the base of the neck, so the panel shows the body from the collarbones down to the shoes.
+
+PANEL 2: full-body back view, an exact copy of the centre panel of @Image 27, the same massive body, suit, stance and crop at the base of the neck.
+
+PANEL 3: three-quarter portrait, the only panel that shows her face: her own head and face on top of the bodyguard's huge shoulders and thick neck in the black suit, white shirt and black tie, framed like the right panel of @Image 27, a cool, focused spy expression.
+
+PANEL 4 (far right): the silicone disguise mask of the man from @Image 27, displayed alone on a clear transparent acrylic head form: a hyperrealistic pull-over silicone mask that reproduces his face exactly — the smooth bald head with a few light freckles, the full ginger beard streaked with grey, the broad nose, the cheeks and brow of @Image 27; the eye openings are empty dark holes, the skin is slightly too smooth and waxy with a soft silicone sheen, the open neck edge at the bottom shows the thickness of the silicone and its pale inner side, and the transparent head form shows through the eye holes, so it clearly reads as an empty mask.
+
+
+
+
+FACE LIKENESS: her face is an exact likeness of the element: the same face shape, eyes, brows, nose, lips and skin tone, the same hair color, length and texture, her hair pulled back into a low ponytail. Hyperrealistic natural skin with visible pores, soft even studio light, true photographic realism.
+
+
+
+
+Outfit, exactly as in @Image 27: a classic black two-piece suit with the single-breasted jacket buttoned and pulled tight across the huge chest and shoulders; a crisp white shirt buttoned to the collar with a plain black tie; full-length black suit trousers; black polished leather oxford shoes; a plain steel wristwatch on the left wrist.
+
+
+
+
+Both big hands hang relaxed and empty at the sides.
+
+
+
+
+LOCKS: exactly one person and one mask, four panels; panels 1 and 2 show the exact huge body, suit, stance and framing of @Image 27, cropped at the base of the neck; her face appears only in panel 3, an exact likeness of the element with a low ponytail, sitting on the bodyguard's huge shoulders; panel 4 shows only the empty silicone mask of the bald ginger-bearded man from @Image 27 on a clear acrylic head form, with empty eye holes and a visible silicone edge at the neck; a clean white background.
+
+See all
+Copy prompt
+Recreate
+Bodyguard 1
+
+Character sheet of an original man, a huge bodyguard, a real photograph of a real person, on a pure white seamless studio background, a clean empty canvas around the figure. Three panels side by side. LEFT panel: full-body front view; the top edge of the frame sits exactly at the base of his neck, so the panel shows him from the collarbones down to the shoes. CENTER panel: full-body back view with the same crop at the base of the neck, collarbones down to the shoes. RIGHT panel: three-quarter portrait, the only panel that shows his face, wearing his sunglasses.
+
+
+
+
+FACE: a Korean man of about 38: black hair slicked straight back, a long face with a sharp angular jaw and high cheekbones, light skin with visible pores, clean-shaven, a cold, composed expression; slim black rectangular sunglasses with dark lenses. Hyperrealistic, unretouched, true photographic realism, soft even studio light.
+
+
+
+
+HEIGHT AND BUILD: about 192 centimetres, tall and powerfully built like a heavyweight judo fighter: wide shoulders, a thick chest, strong neck, big hands; natural real proportions, standing flat-footed, feet apart, steady.
+
+
+
+
+Outfit: a classic black two-piece suit, the jacket buttoned and pulled tight across his huge chest and shoulders; a crisp white shirt buttoned to the collar with a plain black tie; black polished leather oxford shoes; a plain steel wristwatch on his left wrist.
+
+
+
+
+Both big hands hang relaxed at his sides.
+
+
+
+
+LOCKS: exactly one man, three panels; both full-body panels cropped at the base of the neck; the face appears only in the right portrait panel, with the slim black sunglasses and slicked-back hair; the black suit, white shirt and black tie; a clean white background.
+
+See all
+Copy prompt
+Recreate
+Bodyguard 2
+
+Character sheet of a large, broad-shouldered male bodyguard, a real studio photograph of a real person, on a white seamless background. Wide horizontal canvas, approximately 16:9. Three photographic panels side by side, without borders, labels or visible dividing lines. LEFT panel occupies 33% of the canvas, CENTER panel 31%, RIGHT panel 36%. The same man, identical clothing and consistent proportions in all three panels.
+
+
+
+
+LEFT PANEL: straight-on standing front view, showing his body down to the soles of his shoes. His head extends beyond the top edge: only the bottom of his ginger beard, his chin and his neck remain visible at the very top. His eyes, nose and scalp are outside the frame. His entire suit, both hands, trouser legs and shoes are visible. He stands upright with his feet slightly apart, toes turned outward, arms hanging naturally at his sides, fingers loosely curved. A steel wristwatch is visible on his left wrist, on the viewer’s right. A small white margin below the shoes.
+
+
+
+
+CENTER PANEL: straight-on standing rear view of the same man at the same scale. The top edge crops through the back of his head, leaving the lower rear scalp, neck and white shirt collar visible. Broad shoulders, the full back of the black jacket, relaxed arms, both hands, straight trouser legs and the backs of both shoes. His feet are slightly apart. The shoes align approximately with those in the left panel. The jacket has a subtle vertical center seam and natural fabric folds.
+
+
+
+
+RIGHT PANEL: a large three-quarter portrait showing his entire bald head, neck, shoulders and upper torso. His body and face turn slightly toward the viewer’s right, while his eyes look toward the camera. His head sits near the top with a small white margin above the scalp. His shoulders and torso fill the panel and extend beyond the bottom edge. His expression is calm and approachable, with a faint, relaxed smile and slightly parted lips.
+
+
+
+
+FACE: a light-skinned man around 45–50 years old, completely bald, with a rounded scalp, a broad forehead, a substantial jaw and a strong neck. Fair pink-toned skin with numerous small freckles and visible pores across the scalp, forehead and cheeks. Subtle forehead lines and fine wrinkles around the eyes. Light green-hazel eyes, pale ginger eyebrows. A dense, neatly trimmed ginger beard and connected moustache, with lighter blond and gray hairs concentrated around the chin and lower beard. The beard follows the jaw and forms a softly rounded shape beneath the chin. Natural skin texture, individual beard hairs and slight facial asymmetry.
+
+
+
+
+HEIGHT AND BUILD: tall, broad and heavily built, with substantial shoulders, a thick torso, strong arms and large hands. Solid, realistic body proportions. His posture is steady and relaxed.
+
+
+
+
+OUTFIT: a matte black classic two-piece suit. Single-breasted jacket with notch lapels, two black front buttons, the upper button fastened and the lower button unfastened. A welt breast pocket and two horizontal flap pockets. Structured shoulders, a gently fitted waist and subtle natural creasing at the elbows and across the torso. Crisp white dress shirt with a pointed collar, buttoned to the neck. Plain black tie tied in a compact, symmetrical knot. Matching straight black trousers with a slight break over polished black leather lace-up Oxford shoes. A plain silver steel wristwatch on his left wrist.
+
+
+
+
+PHOTOGRAPHY: soft, broad, even studio lighting, gently brighter from the front and viewer’s left. White to very pale gray seamless studio background, with delicate contact shadows underneath the shoes. Neutral color balance, realistic skin tones, deep black fabric with visible weave and preserved shadow detail. Sharp facial detail and clear clothing texture. Natural portrait perspective without wide-angle distortion. Unretouched photographic realism.
+
+
+
+
+LOCKS: exactly three side-by-side views of the same bald, ginger-bearded man. Front view on the left, rear view in the center, enlarged three-quarter portrait on the right. Preserve the cropped heads in the first two panels; only the right panel shows the complete head and face. Both standing views include the shoes. Black suit, white shirt, black tie, black Oxford shoes, steel watch on the left wrist. Bare eyes, bare scalp. Clean white studio background. No text, labels, borders, logos, props or additional people.
+
+See all
+Copy prompt
+Recreate
+Fans crowd
+
+Create an ultra-realistic photograph: a crowd casting reference showing exactly fifty different real people together in one wide frame, full bodies visible from head to shoes, every face clearly visible and turned toward the camera.
+
+
+
+
+Setting: a very large seamless dark grey studio floor and backdrop. Soft, even, neutral light from a broad overhead source and wide side sources, so every face, every outfit and every color reads clearly.
+
+
+
+
+Arrangement: the fifty people stand scattered across the whole studio floor in five loose, uneven depths of about ten people each, from the front to the back. They are staggered like a natural crowd: different distances between them, some in pairs or small groups, some alone, turned at slightly different angles, never in straight rows and never in a grid. Each person in a back depth stands in a gap between the people in front, so no face is hidden behind another. Each stands in a natural relaxed pose of his own: weight on one leg, hands in pockets, holding a phone, arms crossed, a slight lean, a small wave.
+
+
+
+
+The fifty people, each appearing exactly once:
+
+1. a 16-year-old Korean girl with two high pigtails and a pastel pink hoodie, holding a glowing lightstick;
+
+2. a 22-year-old Korean man with bleached blond hair and a black bomber jacket, holding up a phone;
+
+3. a 35-year-old Korean woman with a short bob and a beige trench coat, holding a large camera with a flash;
+
+4. a 19-year-old Korean girl with long straight black hair and a cropped denim jacket, holding a hand-painted cardboard sign reading "KAREEMA";
+
+5. a 45-year-old Korean man with grey temples, glasses and a navy windbreaker, holding an open notebook and a marker;
+
+6. a 24-year-old Korean woman with curly hair, a red beanie and a white puffer jacket;
+
+7. a 17-year-old Korean boy with a buzz cut, a school blazer, a loose tie and a backpack;
+
+8. a 28-year-old Korean man, tall and broad, in a black hoodie and a backwards cap;
+
+9. a 52-year-old Korean woman with short permed hair and a purple quilted coat, holding a phone in both hands;
+
+10. a 21-year-old Korean woman with pink-dyed hair, a black leather jacket and a choker;
+
+11. a 30-year-old Korean man, slim, with round glasses, a beige cardigan and a canvas tote bag;
+
+12. an 18-year-old Korean girl with blunt bangs and an oversized green-and-white varsity jacket;
+
+13. a 38-year-old Korean man with a short beard, a plaid flannel shirt and a denim jacket;
+
+14. a 27-year-old Korean woman with a high ponytail, a black blazer and an office lanyard;
+
+15. a 20-year-old Korean man with long hair tied back, an oversized graphic tee and cargo pants;
+
+16. a 41-year-old Korean woman with wavy shoulder-length hair, a camel coat and a patterned scarf;
+
+17. a 15-year-old Korean boy, short, with a round face, glasses and a yellow windbreaker;
+
+18. a 23-year-old Black woman with long box braids and a silver puffer vest;
+
+19. a 60-year-old Korean man with white hair, a flat cap and a grey tweed jacket;
+
+20. a 25-year-old blonde European woman in an oversized cream knit sweater, holding a phone on a small hand grip;
+
+21. a 14-year-old Korean girl with braces, two hair clips and an oversized purple hoodie;
+
+22. a 33-year-old Korean man with a shaved head and a black turtleneck, holding a small film camera;
+
+23. a 47-year-old Korean woman with glasses on a chain and an olive raincoat, holding a closed transparent umbrella;
+
+24. a 19-year-old Korean man with a mullet haircut, a red track jacket and a silver chain;
+
+25. a 26-year-old Korean woman with long wavy brown hair, a black slip dress over a white tee and a denim jacket;
+
+26. a 55-year-old Korean man, balding, in a beige golf jacket, waving;
+
+27. a 21-year-old Korean girl with twin buns and a white fluffy fleece, making a finger heart;
+
+28. a 31-year-old Korean woman with a short pixie cut dyed blue and an oversized grey coat;
+
+29. a 24-year-old Korean man with a curly perm, tortoiseshell glasses and a brown corduroy jacket;
+
+30. a 16-year-old Korean boy, tall and skinny, in a black school uniform, holding a phone in both hands;
+
+31. a 37-year-old Korean woman with a low ponytail and a navy fleece jacket;
+
+32. a 29-year-old South Asian man with a short beard and a maroon hoodie;
+
+33. a 20-year-old Korean woman with a bob and a fringe and a bright yellow raincoat;
+
+34. a 43-year-old Korean man, tall, with a grey goatee and a black leather jacket;
+
+35. an 18-year-old Korean girl with long dyed silver hair, a black gothic dress and platform boots;
+
+36. a 23-year-old Korean man, muscular, in a white tank top under an open shirt, a small gold earring;
+
+37. a 50-year-old Korean woman with short curly grey hair and a red wool coat, holding a small paper banner of hearts;
+
+38. a 27-year-old Korean man with a neat side part, a navy suit and a loosened tie, holding a phone;
+
+39. a 22-year-old Korean woman with freckles, an orange beanie and a green bomber jacket;
+
+40. a 35-year-old European man with a red beard, a black rain shell and a big backpack;
+
+41. a 17-year-old Korean girl with a high ponytail tied with a ribbon, a school cardigan and a pleated skirt, holding a lightstick;
+
+42. a 64-year-old Korean woman with a silver bob and a lavender cardigan, holding a small bouquet;
+
+43. a 25-year-old Korean man in a bucket hat and a tie-dye hoodie, holding a phone high;
+
+44. a 30-year-old Korean woman with long black hair parted in the middle, a white trench coat and a small handbag;
+
+45. a 19-year-old Korean man with dyed red hair and a black denim jacket covered in pins;
+
+46. a 39-year-old Korean woman with glasses, short hair and a grey hoodie, holding a heart-shaped hand fan;
+
+47. a 21-year-old Korean man with a baby face and an oversized white shirt, holding a camera with a long lens;
+
+48. a 28-year-old Southeast Asian woman with braided hair crowned on her head and a mint green coat;
+
+49. a 16-year-old Korean girl with short black hair, a cat-ear headband and a pink puffer jacket;
+
+50. a 58-year-old Korean man, tall and thin, in a black cap and a denim jacket, holding up a phone with its flashlight on.
+
+
+
+
+Each person has a distinct face, height, build, hairstyle and outfit; the whole group reads as fifty unmistakably different individuals of different ages, from young teenagers to people in their sixties. Photographic realism: natural skin texture, real fabrics, real proportions. Camera: 28 mm full-frame equivalent at 1.8 m, slightly above the group, clean rectilinear rendering, distortion is off, deep focus so all fifty are sharp.
+
+See all
+Copy prompt
+Recreate
+Car sheet
+
+Create an ultra-realistic studio photograph of a long black stately luxury limousine, a single vehicle, shown in a side three-quarter front view from the passenger side, the whole car in frame on a seamless white studio background with a soft shadow under it.
+
+
+
+
+The car: an extended-wheelbase grand luxury saloon with a tall, upright, formal silhouette: a long flat hood, a massive upright rectangular chrome grille made of tall vertical polished slats at the front, slim rectangular headlights set high beside it, a high straight beltline, a long flat roofline with a gentle slope at the rear, three windows along each side, rear-hinged coach doors, thin chrome window surrounds and a single chrome line along the lower body. Large wheels with flat polished silver disc covers. Deep gloss black paint, flawless and mirror-like. Every window is fully tinted solid deep black glass with zero visibility inside, carrying soft studio reflections. Plain smooth body surfaces, no badges.
+
+
+
+
+Light: one large soft overhead source and long soft strips on the sides, drawing clean long reflections along the paint and the black glass, the body shape fully readable.
+
+
+
+
+Camera: 50 mm full-frame equivalent, eye level at 1.1 m, clean rectilinear rendering, distortion is off, sharp focus on the whole car.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+Step 5. Core generating receipt
+
+Now we can start creating the scenes.
+
+I’ll walk you through the first scene as an example, and then we’ll follow the same process for the rest.
+
+
+
+
+
+Here is my message to Claude ⤵️
+
+First scene / Kareema’s arrival
+
+Night, Seoul / overcast, the rain has just stopped / wet asphalt, puddles.
+
+A black limousine with fully tinted windows pulls up to the red carpet, right by the entrance / it stops with the rear passenger door precisely aligned with the edge of the carpet.
+
+A lively, cheering crowd surrounds the area / make the crowd larger, around 50 people in total, lining both sides of the carpet / everyone should look distinct.
+
+Some are filming on their phones, some are holding KAREEMA signs, some are reaching out with notebooks for autographs, and others are taking photos with flash / everyone moves naturally, each at their own pace, never in sync.
+
+A security guard opens the rear passenger door / Kareema must step OUT OF the car / first she places her hand on the door, then one foot onto the carpet, then steps out completely / calm and confident.
+
+Add two bodyguards to the first scene. They get out of the car and position themselves on either side of Kareema, one step behind her.
+
+Kareema walks along the red carpet toward the club, waving to the crowd.
+
+Camera: LOW ANGLE, almost at asphalt level / slowly and smoothly rises throughout the entire shot / stays aimed at the car, then follows Kareema.
+
+50 mm lens, shallow depth of field / Kareema and the car are in focus, with the crowd and neon lights in soft bokeh.
+
+No music / sound only: the crowd shouting Kareema’s name, camera shutters, the engine, tires rolling over wet asphalt, car doors.
+
+15 seconds, one continuous take with no cuts, ultra-realistic.
+
+References: location, Kareema, limousine, two bodyguards, crowd.
+
+
+
+
+And here is what I've got (don't forget to input assets and character sheet)
+
+SCENE CONTEXT: Seoul, an overcast night after rain, the asphalt wet. A black limousine pulls up along the curb in front of a small club in an old tiled corner building and stops with its rear door exactly at the end of a red carpet. A dense crowd of about fifty fans packs the sidewalk on both sides of the carpet. @main_character_sheet rides inside the limousine, hidden behind the black glass. A security guard opens the rear door and @main_character_sheet climbs OUT OF THE CAR onto the carpet, then starts walking up it toward the club door, while her two bodyguards, @Image 27 and @Image 26 , climb out of the other doors of the same car and take their places right beside her. Realistic live-action, cinematic, one continuous slow rising shot from a low angle.
+
+
+
+
+REFERENCES (six images, each with one job):
+
+@Image 13 = THE PLACE ONLY: the rounded corner building clad in small cream tiles, the glowing violet neon band around its upper floor, the curved row of windows, the red hangul neon sign over the entrance, the club door glowing with neon posters at the corner, the shuttered shopfronts with graffiti, the red carpet running diagonally from the club door down across the wide sidewalk to the curb, the long rows of brass stanchions with red velvet ropes on both sides of the carpet, the street lamps, the side street with its hangul signboards, the two lit skyscrapers in the distance, the crowd of fans on the sidewalk. @Image 13 supplies the place, the materials, the light and the crowd's positions. In THIS clip the asphalt and the paving are wet from rain and the limousine is arriving.
+
+@main_character_sheet = THE HEROINE ONLY, Kareema: her face, hair, body and outfit match the reference 100%. She exists exactly once in this video.
+
+@Image 29 = THE CAR ONLY: a long black stretch limousine, gloss black paint, every window fully tinted solid black. Its shape and finish match @Image 29 .
+
+@Image 27 = BODYGUARD ONE: his face, build and black suit match the reference. He rides inside the limousine and climbs out of its front passenger door.
+
+@Image 26 = BODYGUARD TWO: his face, build and black suit match the reference. He rides inside the limousine and climbs out of its street-side rear door.
+
+@Image 28 = THE FANS: the fifty people in @Image 28 form the crowd, each of them exactly once, with his own face, age and outfit.
+
+
+
+
+STAGING: the club door sits at the rounded corner of the building, left of centre. The red carpet runs from the door diagonally down and to the right across the wide sidewalk to the curb, lined on both sides by long rows of brass stanchions. The crowd packs the sidewalk on the LEFT of the carpet, back to the shuttered shopfronts, and on the RIGHT of the carpet, back toward the street lamp pole, several people deep, the front rows against the ropes. The carpet stays an open aisle. Exactly three security guards: two stand at the club door, one on each side of the carpet; the third waits at the curb end of the carpet. The limousine stops on the road along the curb, broadside, its long body running across the end of the carpet, its curb-side rear door exactly at the end of the carpet. The camera stands at the edge of the road, low, a few metres from the front end of the stopped car, looking diagonally past the car's nose and along its side toward the carpet and the club door at the corner.
+
+
+
+
+FIRST FRAME: the camera sits 40 cm above the wet asphalt at the edge of the road, low angle. In the right half of the frame, the limousine is already rolling in, slowing, its long glossy black side seen at a three-quarter angle, its front end near and large. In the centre and left of the frame, beyond the car: the red carpet climbing diagonally toward the glowing club door under the red neon sign and the violet neon band, the brass stanchions, the two guards at the door, and the crowd on both sides of the carpet, everyone already in motion. The end of the carpet at the curb is empty: Karima and her two bodyguards are still inside the car.
+
+
+
+
+CAMERA: a very slow, perfectly smooth vertical rise: the viewpoint lifts steadily from 40 cm above the asphalt to about 2.5 m over the 15 seconds, at one constant speed, one unbroken curve, with a gentle drift toward the car. The view stays aimed at the limousine and its rear door the whole time: at the start it looks slightly up at the car; by the end it looks slightly down over the car's roof onto the carpet, Karima and the club door. 50 mm view with shallow depth of field: the limousine and then Karima stay in razor focus; the crowd, the neon and the building soften into creamy bokeh, the camera flashes and phone screens become soft round glowing discs. Out-of-focus shoulders and raised phones of the nearest fans pass softly at the left edge of the frame. The camera moves smoothly every second of the shot at the same unhurried speed.
+
+
+
+
+ACTION:
+
+0-4 s: the limousine rolls in along the curb at walking pace, slowing, its tires hissing through the wet asphalt and pushing thin ripples through the puddles; its black paint and black glass mirror the violet neon, the red sign, the street lamps and the flashes. Karima and her two bodyguards sit inside, hidden behind the black glass. The crowd sees it: heads turn, phones go up, the noise rises.
+
+4-7 s: the limousine comes to a full, smooth stop broadside at the curb, its rear door exactly at the end of the carpet. It stays parked there to the last frame. The guard at the curb end steps to the rear door.
+
+7-11 s: the guard pulls the curb-side rear door open; the door swings wide and stays open to the last frame, revealing the dark interior of the car@main_character_sheet climbs out of the car, out of that open rear door: first her hand grips the top of the door frame, then one boot comes out of the car and lands on the carpet, her head and shoulders lean out from under the roof line, and she rises out of the car to her full height beside the open door, calm and confident. At the same time the front passenger door opens and @Image 27 climbs out of the car, and the street-side rear door opens and @Image 26 climbs out and walks around the back of the car. Both move quickly to her: @Image 27 takes his place at her left shoulder, @Image 26 at her right shoulder, a step behind her, scanning the crowd.
+
+11-15 s: @main_character_sheet starts walking up the red carpet toward the club door, @Image 27 at her left shoulder and @Image 26 at her right shoulder, one step behind her, walking at her pace, their arms half-raised toward the crowd, keeping the fans from pushing toward her. She turns her head toward the crowd on her left and lifts one hand in a small wave. Every fan follows her with eyes and phones.
+
+
+
+
+CROWD BEHAVIOR (natural and human): this is a real, dense crowd of excited fans, not a choreography. Most people stand, packed but each in his own small space, shifting weight from foot to foot, rising on tiptoes to see over others, leaning around heads. Phones are held up at different heights and angles; arms get tired and drop, then rise again. Reactions travel as a wave: the people nearest the car react first, the back rows half a second later, a few look the wrong way and turn late. Only a handful jump, small natural bounces, at the moment the door opens and when Karima waves. Individual actions: the girl with the "KAREEMA" sign lifts it higher and bobs it; the man with the notebook stretches it out over the rope, asking for an autograph; the woman with the big camera fires short bursts, the flash popping; two friends grab each other's arms and squeal; the older woman films steadily with both hands; a teenage boy waves wildly with his whole arm; others clap, cover their mouths, call her name. Everyone moves at his own pace and rhythm, never in unison; small gestures, natural pauses, real weight in every step. Each person keeps the same face, body and clothes from the first frame to the last; people pass behind and in front of each other and stay whole.
+
+
+
+
+GUARDS: the three security guards in black suits, white shirts, black ties, dark sunglasses and earpieces hold the line calmly: arms half-spread along the ropes, a palm on a fan's shoulder easing him back, heads turning to scan the crowd. Each has his own build, height and face.
+
+
+
+
+WEATHER: an overcast night just after rain. A low ceiling of heavy grey clouds hangs over the city, faintly lit violet-grey from the streets below; the two distant skyscrapers glow through a light haze. The air is still: hair, clothes and the velvet ropes hang naturally and move only with people's own motion. The asphalt of the road and the paving of the sidewalk are soaked and glossy, with shallow puddles along the curb and in the dips of the road; a few fans hold closed transparent umbrellas.
+
+
+
+
+LIGHT: the violet neon band of the building and the red neon sign light the club door, the carpet and the front of the crowd; the glowing door adds a colorful spill; the warm street lamps add warm pools on the sidewalk and the road; the wet asphalt mirrors every light as long vertical streaks and the puddles reflect the neon, the car and the crowd; camera flashes and phone screens add small hard white pops in the crowd. The limousine's black paint and black glass carry long sharp reflections of all of it. The red carpet keeps its true deep red; the brass stanchions glint.
+
+
+
+
+PHYSICS: the limousine has real mass: it decelerates smoothly, its body dips slightly forward as it stops, the tires sit firmly on the asphalt. The doors swing on their hinges with weight. Karima climbs out of the car with real effort and balance, and her steps carry real weight on the carpet.
+
+
+
+
+AUDIO: no music. The track contains exactly this and only this: the excited noise and screams of the crowd, overlapping shouts of "Kareema", camera shutter bursts, the low hum of the limousine engine, tires on wet asphalt, the car doors unlatching and swinging open, footsteps on the carpet.
+
+
+
+
+FINAL LOCKS: one continuous take; Karima starts the video inside the car and climbs out of its rear door; the camera rises slowly and smoothly from the low angle, always aimed at the car and then at Karima, who stay in sharp focus while everything else is soft bokeh; the limousine stops broadside at the curb with its rear door at the end of the carpet and stays there; exactly one Karima, three security guards, and two bodyguards, @Image 27 and @Image 26 , who climb out of the car and stay beside Karima to the last frame; the fifty fans of @Image 28 pack the sidewalk on both sides of the carpet, each once, moving naturally, each in his own rhythm; an overcast night, wet glossy asphalt.
+
+See all
+Copy prompt
+Recreate
+
+Basically, this is my one secret formula: just generate a good location and characters. Sometimes, you can simply find a reference that fits.
+
+Then follow the same structure: LOCATION - CHARACTERS - SCENE
+
+That's how I made rough cut with some gaps for b-rolls
+
+Step 6. Lipsync scenes
+
+Now, to fill in the gaps and keep it from looking like just a short video set to the track,
+we to add lip-sync scenes with singing in different locations.
+
+Here, we also generate the locations and choose the section of the song we need.
+Then we specify in the prompt that the lip movements, facial expressions, and gestures should all be in sync with the vocals.
+
+
+
+
+What I’m attaching:
+
+The full song: [filename.wav].
+The lyrics (below).
+The character sheet: [main character sheet], used to keep her face and look consistent.
+The locations for each scene: [location photos]. If any are missing, suggest a location and write a prompt to generate it.
+
+I ask Claude to cut out the section I need for lip-syncing and send it as a file. I also noticed that the lip-sync doesn’t always match every word, so I asked Claude to remove the beat from that section and leave only the vocals.
+
+Here is the prompt for each audio clip⤵️
+
+Audio = the attached file. The voice, words, and timing must come strictly from the attached clip, with the lips matching every syllable. When there are no vocals in the file, the mouth stays closed. Don’t add anything over it: no additional music, beats, or sound effects.
+
+
+
+
+Label every input by role (<<<image_1>>>, <<<image_2>>>, <<<audio_1>>>), specifying what to take from each and what to ignore. Use only the character sheet for her face and look. Don’t carry over its studio lighting or white background.
+
+
+
+
+The performance should feel natural and expressive, like a real artist: she sings to the camera, her gestures and movements land on the beat, and each line has its own action.
+
+
+
+
+Keep her face clearly visible. During lip-syncing, don’t switch to a rear view or an extreme wide shot where she looks tiny.
+
+
+
+
+Use only lighting motivated by the location. Aim for maximum realism, like an actual music video shoot.
+
+
+
+
+Match the video duration to the length of the audio clip.
+
+
+
+
+Here is the prompt Claude gave me⤵️
+
+RULE ZERO — THE SONG: <<<audio_1>>> is the song itself, the vocal and the beat. Kareema sings it. THE VOICE IS THE VOICE IN THE FILE. THE WORDS ARE THE WORDS IN THE FILE. THE TIMING IS THE TIMING IN THE FILE: her lips form every syllable exactly when it is heard in <<<audio_1>>> . WHERE THE FILE HAS NO VOICE, HER MOUTH IS CLOSED. The sound of this video is <<<audio_1>>> exactly as it is — nothing is added over it: no extra score, no extra beat, no sound effects.
+
+11 SECONDS. ONE SHOT, ONE CAMERA, NO CUTS.
+
+SCENE CONTEXT: In the backstage corridor of <<<image_3>>> , a tilted hand-held close-up of Kareema's head <<<image_1>>> as she raps the bridge straight into the lens. Behind her, down the long corridor and out of focus, the boxer clone <<<image_2>>> runs at her with all her strength from the EXIT door end, her fist drawn back. All the attention is on Kareema. The whole shot is one continuous dolly zoom: Kareema stays the same size in the frame while the corridor behind her stretches farther and farther away — so the clone runs harder and harder toward her, yet the corridor keeps sliding away under her and she keeps getting smaller and farther, never able to reach her.
+
+ACTIVE REFERENCES:
+<<<image_1>>> = KAREEMA — the only source of her face, hair and outfit: her face exactly as in the close-up portrait panel of <<<image_1>>> with her long straight black hair in a centre part, silver eyeshadow, light freckles and silver drop earrings; the metallic steel-blue cropped jacket with the high stand-up collar and the small silver star, the metallic steel-blue jumpsuit with its flared legs, grey round knee patches and small silver stars at the hips, the long fingerless metallic gloves, the silver heeled ankle boots. Take nothing of the white backdrop or the studio light of <<<image_1>>> .
+<<<image_2>>> = THE BOXER CLONE — the only source of her face, hair and outfit: short messy black hair, the dark charcoal wool suit jacket dusted with pale chalk, sleeves pushed up, white shirt cuffs rolled over them, the white shirt with a loosened black tie, the dark charcoal trousers, the black leather shoes, both fists in frayed grey-white cloth hand wraps. Take nothing of the white backdrop or the studio light of <<<image_2>>> .
+<<<image_3>>> = THE LOCATION — the corridor and the direction of this shot: the long dark backstage corridor seen toward its exit end — the black painted concrete walls, the red doors with round yellow-rimmed portholes and the posters, the white brick column, the dark doorless opening, the taped walkway line with blue edges and yellow hazard stripes down the middle of the floor, the fluorescent tubes and the hanging dome lamp on the ceiling, the heavy grey-green steel door at the far end.
+<<<audio_1>>> = THE SONG — the vocal she raps.
+
+EXACTLY TWO PEOPLE, EACH ONCE: KAREEMA in the foreground, rapping — the subject of the shot, the only thing in focus; THE BOXER CLONE in the corridor behind her, a soft, out-of-focus figure in the background. Nobody else.
+
+THE FRAME — HER HEAD, A DUTCH ANGLE FROM THE FIRST FRAME: a frontal close-up straight down the length of the corridor, the horizon tilted hard, about twenty degrees, from the very first frame to the last. Kareema's head fills most of the frame — her face, her hair, the top of her shoulders and the high stand-up collar of her jacket; her face large, sharp and readable, a little off-centre. Behind her head, filling the rest of the frame, the tilted corridor runs away toward the EXIT door at the far end.
+
+THE DOLLY ZOOM — FOR THE WHOLE VIDEO, ONE CONTINUOUS MOVE: from the first frame to the last the camera slowly and steadily pushes in toward Kareema's face while the lens zooms out at exactly the same rate. Her head stays exactly the same size and in the same place in the frame the whole time, while everything behind her stretches away: the corridor grows longer and deeper, the walls and the red doors fan out wider at the edges of the frame, the ceiling and the floor open up, the EXIT door shrinks smaller and smaller and farther and farther away. The field of view widens from 35 degrees at the first frame to an ultra-wide 110 degrees at the last frame, while the camera moves from about a metre and a half from her face to about a forearm's length from it, keeping her head the same size. One even, unbroken move that never stops — and it is HAND-HELD: a small, living handheld shake and breathing in every frame on top of the move, small late corrections, the tilted horizon rocking a degree or two and back. By the end the background is SUPER WIDE: the whole stretched corridor, both walls, the floor and the ceiling fanning out around her head.
+
+THE BOXER CLONE — IN THE BACKGROUND, RUNNING HARD, NEVER ARRIVING: behind Kareema's head, soft and out of focus the whole time, the boxer clone runs down the walkway from the EXIT door end toward Kareema's back with all her strength — sprinting flat out, leaning forward, arms pumping, her right fist drawn back for a punch, straining every step. She is a soft background figure — never sharp, never lit more than the corridor around her, never pulling the eye from Kareema's face — but her effort reads clearly in her body. She runs harder and harder the whole time, yet because the corridor behind Kareema keeps stretching and sliding away, she keeps getting smaller and farther away in the frame, like someone running on a floor that moves backward under her feet, never able to reach her.
+
+KAREEMA — RAPPING, UNTOUCHED: she raps the bridge straight into the lens like a hip-hop artist, cocky and calm, as if the clone behind her did not exist — clear, real mouth shapes for every syllable, her breath between lines, her head bobbing on the beat, a small tilt of her head on the accents, a smirk between lines, her eyebrows lifting on the strongest words. Now and then her gloved hand rises into the edge of the frame on the beat — on "I sweat" two fingers drag across her brow and flick away; on "너는 못 해" (you can't) her thumb jabs back over her shoulder at the running clone without her looking, and her finger wags. Her long hair moves with her head. Her eyes stay on the lens.
+
+LIGHT — ONLY THE CEILING LIGHTS: every lumen comes from the lights on the ceiling of the corridor and nothing else: the row of teal-white fluorescent tubes and the hanging dome lamp, throwing hard pools of light down onto the floor, exactly as in <<<image_3>>> . No light comes from anywhere else. Kareema stands under a tube: its light falls on her from above — on her hair, her forehead, her cheekbones and the collar of her jacket — and her face stays readable in that overhead light alone. Between the pools of light the corridor falls into deep shadow. The shadows stay deep and true.
+
+OPTICS — FULL FOCUS ON KAREEMA: the focus is locked on Kareema for the whole shot; she is the only sharp thing in the frame. Behind her the corridor and the running clone are soft and out of focus; every line of the corridor straight, fanning wider as the lens widens.
+
+FIRST FRAME: a tilted close-up of Kareema's head, already rapping into the lens, mid-word, the horizon already tilted; behind her, soft and out of focus, the boxer clone already sprinting at her; the corridor behind them at 35 degrees; the hand-held dolly zoom already moving.
+
+REALISM — ULTRA-REAL: a real live-action music video shot with one real hand-held cinema camera with a real zoom lens in a real corridor: living skin with pores and freckles, moist lips, real catchlights in her eyes; a real person running with real weight in the soft background — anatomy intact, real wool, real cloth wraps, real metallic fabric — one image, one light, one lens, one grain.
+
+POSITIVE LOCKS:
+— The sound is <<<audio_1>>> exactly as it is; Kareema raps it with her lips in exact time with the vocal; where the file has no voice her mouth is closed.
+— EXACTLY TWO people: Kareema's head in a tilted close-up, rapping into the lens, the only thing in focus; the boxer clone a soft, out-of-focus figure sprinting at her with all her strength from the far end behind her.
+— The only light comes from the ceiling: the fluorescent tubes and the hanging dome lamp; nothing else lights the scene.
+— ONE continuous hand-held dolly zoom for the whole video, with a small living shake and a hard Dutch tilt from the first frame: her head the same size and in the same place in the frame; the corridor stretching away behind her from 35 to 110 degrees; the clone running harder and harder toward her yet getting smaller and farther away, never reaching her.
+— ONE SHOT, ONE CAMERA, NO CUTS; the background ends SUPER WIDE.
+
+
+
+
+Step 7. Fighting scenes
+
+I made the skill especially for fighting scenes - use it before you start this step ⤵️
+
+JKD-FIGHT-ENGINE-2.12.0-portable-v2 (1).zip
+ZIP
+
+
+
+
+Here is my message to Claude ⤵️
+
+This will be a fight scene / I’m making it in Genjutsu / I’ve attached the source video.
+
+The movements must be identical to the source / every strike, block, roll, throw, the timing, and the camerawork must match 1:1 / we’re changing only the people and the location.
+
+Look at the source video:
+The woman in the gray T-shirt is Kareema OG.
+The man in black is Cyborg Kareema.
+The man in the gray T-shirt and green shorts is the Kareema clone in a suit.
+Everyone has Kareema’s face, and both clones have female bodies.
+
+Completely remove the gym from the source / replace it with a dead-end alley with an EXIT door, Seoul at night.
+
+I have two views of the same location / facing the door / and facing the street / I need a tag for the door and a tag for the alley.
+
+At the beginning, Kareema stands by the steel door as if she has just stepped out of it. The clones stand in front of her, blocking her path.
+
+When the camera turns around, we see the opposite view of the alley, looking toward the street.
+
+Add rain / a heavy downpour, everyone’s hair is wet and their clothes are soaked / water splashes from the puddles with every step and strike.
+
+Raindrops run down her face, and her hair is wet.
+
+Their facial expressions are clearly visible: they squint, tense up, clench their teeth, and exhale with each strike.
+
+Lighting: a warm lamp above the door behind them, neon signs, wet asphalt reflecting all the light.
+
+No music / only the downpour, impacts, splashes, and breathing.
+
+
+
+
+I also used fighting reference videos and generated my own scenes in Genjutsu
+
+Fight 1
+Input your character sheets
+Make sure you tagged your character sheets with @ in the prompt where it is marked red
+
+MOTION TRANSFER. Keep the source @Video 2's motion exactly: every movement, every strike, block, kick, duck, grab, fall and throw, the timing of every beat, the positions of the three fighters in the frame, and every move of the camera stay IDENTICAL to the source video, frame by frame. Change only WHO the three fighters are and WHERE the fight happens: the three people become three versions of Kareema, and the training hall becomes the dead-end back alley of @Image 20 in Seoul at night, in a heavy downpour. 11.7 seconds, the full length of the source. No speech. No music.
+
+
+
+
+CHARACTER MAPPING — LOCKED FOR THE WHOLE VIDEO (each person in the source becomes exactly one character and stays that character in every frame):
+
+1. THE WOMAN IN THE GREY T-SHIRT, black cropped leggings and hair in a bun (centre-back at the start, the main fighter of the whole video) → @main_character_sheet , THE REAL KAREEMA: her face, hair and outfit exactly as in @main_character_sheet : long straight black hair in a centre part, silver drop earrings, the metallic steel-blue cropped jacket with the high stand-up collar and the small silver star, the metallic steel-blue jumpsuit with flared legs, silver ankle boots.
+
+2. THE MAN IN ALL BLACK, black long-sleeve top and black trousers (on the RIGHT at the start) → @cyborg_character_sheet , THE CYBORG KAREEMA: Kareema's face; her half-mechanical body, metal parts and outfit exactly as in @cyborg_character_sheet . She is a woman with Kareema's face and a woman's body; she performs every movement of the man in black exactly.
+
+3. THE MAN IN THE GREY T-SHIRT AND GREEN SHORTS over black leggings (on the LEFT at the start) → @suit_character_sheet , THE KAREEMA IN THE SUIT: Kareema's face; her suit exactly as in @suit_character_sheet . She is a woman with Kareema's face and a woman's body; she performs every movement of the man in green shorts exactly.
+
+Exactly three figures with Kareema's face exist in this video, each exactly once. The faces stay locked to their references from the first frame to the last, through every turn, blur and impact. Clothes, hair and metal parts follow the bodies with real weight.
+
+
+
+
+FIRST FRAME — AT THE BACK DOOR: the opening wide shot of the source, the three fighters in their exact source positions, set in @Image 20 : behind @main_character_sheet , in the centre of the background, the dead-end wall with its grey steel door, the green "EXIT" sign and the bright warm lamp above it. @main_character_sheet stands a step in front of that closed door, as if she has just come out of it, the warm light of the lamp falling on her from behind. @suit_character_sheet on the LEFT and @cyborg_character_sheet on the RIGHT stand in front of her, between her and the camera, facing her, blocking her way.
+
+
+
+
+THE CHOREOGRAPHY, BEAT BY BEAT (identical to the source; listed only to lock who does what):
+
+0.0–1.5s — wide shot: @suit_character_sheet on the left, @main_character_sheet in the centre-back in front of the steel door, @cyborg_character_sheet on the right, in a triangle. @cyborg_character_sheet throws a high kick at @main_character_sheet ; @main_character_sheet blocks; @suit_character_sheet throws a kick at her from the left; @main_character_sheet lifts her knee and checks it.
+
+1.5–3.0s — @main_character_sheet ducks low under a kick from @cyborg_character_sheet ; the camera pushes in; @cyborg_character_sheet and @main_character_sheet trade close strikes; she blocks her punches and strikes back.
+
+3.0–4.5s — the camera swings left: @cyborg_character_sheet is driven into @suit_character_sheet and they tangle; @cyborg_character_sheet drops and rolls on the flooded asphalt; @main_character_sheet comes in from the right and strikes at @suit_character_sheet .
+
+4.5–6.0s — @main_character_sheet 's kick lands on @suit_character_sheet , who doubles over; @cyborg_character_sheet gets up from the ground and runs back in at @main_character_sheet ; she raises her guard.
+
+6.0–7.5s — close exchange between @cyborg_character_sheet and @main_character_sheet : @cyborg_character_sheet punches, @main_character_sheet blocks with her forearms; @cyborg_character_sheet ducks under her hook; she blocks and counters.
+
+7.5–9.0s — @main_character_sheet strikes @cyborg_character_sheet , who goes down behind her; @main_character_sheet spins around; @suit_character_sheet comes in and throws a punch; @main_character_sheet catches her arm and controls it.
+
+9.0–10.5s — holding @suit_character_sheet 's arm, @main_character_sheet strikes her face and grabs her neck; @cyborg_character_sheet lies on the ground at the lower right; the camera drops to a low angle, wide.
+
+10.5–11.7s — @main_character_sheet throws @suit_character_sheet : @suit_character_sheet flips over in the air and crashes down into the flooded asphalt; @main_character_sheet finishes in a deep low lunge.
+
+
+
+
+FACES — EVERY FIGHTER'S FACE IS ALIVE AND READABLE IN EVERY SHOT: through the rain, each face shows real, physical effort and the strain of the fight:
+
+- @main_character_sheet : eyes narrowed into a hard squint against the rain and the blows, brows pulled down and together, jaw clenched, teeth gritted and bared on every strike, nostrils flaring, sharp breaths blown out through the lips on every punch and kick, a grimace of effort on every block and throw, a flash of pain when she takes a hit, rainwater running over her face as she fights.
+
+- @cyborg_character_sheet : cold and focused, eyes narrowed and locked on @main_character_sheet , jaw set hard, lips pressed into a thin line, a tight snarl on each attack, a grunt of effort as she gets up from the ground; the human half of her face strains while the metal half stays rigid.
+
+- @suit_character_sheet : aggressive and hungry, eyes squinting and fixed on her target, teeth bared on every punch, cheeks tight with effort, a twist of pain when she doubles over from the kick, wide eyes and an open mouth in the air during the throw.
+
+Every face shows the strain of each beat: the squint against the rain, the clenched jaw, the tensed neck and shoulders, the short hard exhale on impact. The faces are lit and clearly visible; the rain runs over them and never hides them.
+
+
+
+
+THE DOWNPOUR AND WET HAIR: a heavy downpour falls through the whole video: dense sheets of thick rain, lit into bright silver and golden streaks by the lamps and signboards, splashing hard off every surface. All three fighters are soaked to the skin from the first frame: their hair is completely wet, heavy and dark, clinging to their foreheads, cheeks and necks in wet strands; with every turn, duck and spin the wet hair whips around heavily and throws arcs of water drops; water streams down their faces, drips from their chins, noses and earrings. Their clothes are drenched and dark, clinging to their bodies; @main_character_sheet 's metallic jacket and jumpsuit run with water; @suit_character_sheet 's suit is soaked and heavy; @cyborg_character_sheet 's metal parts stream with water and spray drops off every joint. Every punch and block throws a burst of spray off sleeves and fists; every hit sends a spray of water flying off hair and clothes; every footstep and kick splashes water up off the flooded asphalt; when @cyborg_character_sheet rolls on the ground and when @suit_character_sheet crashes down at the end, water explodes out of the puddles in a big splash. The rain adds to the movements and changes none of them.
+
+
+
+
+THE LOCATION — REPLACE THE WHOLE HALL WITH @Image 20 : the training hall of the source disappears completely: its white walls, high windows, ceiling trusses, grey mats, red crash mat, wooden boxes and wall bars are all gone. In their place is the dead-end back alley of @Image 20 , empty except for the three fighters, exactly as in @Image 20 :
+
+- the floor of the hall becomes flooded black asphalt: wide puddles and a thin moving sheet of water over the whole ground, rain hammering into it, mirroring every light in long trembling reflections;
+
+- where the source shows the far wall with its windows behind the woman (the background of the opening and of most of the video), we see the dead-end wall of @Image 20 : the grey concrete upper wall with water streaming down it, the white tiled lower wall, the one grey steel door with the green "EXIT" sign and the bright warm lamp above it, the air-conditioner units, the drainpipes overflowing with water, the stacked plastic crates and the bin, the tall black vertical "Venus B2" signboard;
+
+- where the camera turns to the left side of the space, we see the left side of the alley of @Image 20 : the tiled building, the red "CLOSED" sign, the pastel-striped shutter, the mint-and-pink standing lightbox, the street lamp pole with its cool white light, the magenta neon square, the parked scooter;
+
+- where the camera turns to the right side of the space, we see the right side of the alley of @Image 20 : the rusty corrugated roller shutters glowing warm orange, the large round green "비너스" sign, the vertical hangul signboards, the air-conditioner units and cabinets along the wall;
+
+- where the low-angle shot at the end shows the hall's ceiling, we see the tall concrete walls rising to a black night sky, black cables crossing overhead, the glowing vertical signboards seen from below, and the downpour falling straight toward the lens.
+
+The alley's objects stand along the walls; the middle of the alley stays open for the fight, exactly where the fighters move in the source.
+
+
+
+
+CAMERA: identical to the source: the same handheld camera, the same positions, distances, angles, push-ins, whip pans, shake and motion blur at the same moments, the same low-angle wide view at the end. Only the world in front of it changes. Raindrops occasionally hit the lens and streak across it.
+
+
+
+
+LIGHTING (cinematic night, the palette of @Image 20 ): the bright warm golden-orange lamp over the steel door is the key light behind the fight, backlighting the fighters and turning the falling rain behind them into glowing golden streaks; the cool white street lamp on the left and the warm spill off the rusty shutters on the right light the faces from the sides, so every expression reads; red, magenta, green and mint accents from the signboards fall across wet skin and wet clothes; the shadows deep teal and charcoal; the flooded asphalt mirrors every light; the cyborg's wet metal catches hard glints. Wet skin shines, every drop on the faces catches the light. Rich contrast, deep blacks with detail, fine film grain.
+
+
+
+
+AUDIO — NO MUSIC. The track contains exactly this and only this: the roar of the heavy downpour on the asphalt, the shutters and the air-conditioner units, water gushing from the drainpipes, the wet impacts of every punch, kick and block, splashing footsteps, hard breathing, sharp exhales and short grunts of effort, the whirr of the cyborg's joints, the heavy splash of the final fall.
+
+
+
+
+LOCKS:
+
+— Every movement, every beat and every camera move is identical to the source video.
+
+— The woman in the grey T-shirt is @main_character_sheet ; the man in black is @cyborg_character_sheet ; the man in the green shorts is @suit_character_sheet ; each mapping holds in every frame.
+
+— Exactly three figures with Kareema's face; no other people.
+
+— The fight starts in front of the steel EXIT door of @Image 20 , @main_character_sheet a step in front of it, the two clones in front of her.
+
+— The location is entirely the dead-end alley of @Image 20 ; no part of the training hall remains.
+
+— A heavy downpour through the whole video; all three are soaked, with wet hair clinging to their faces and flying with every move.
+
+— Every fighter's face is visible and alive: squinting, clenched jaws, gritted teeth, strain and effort on every beat. No music.
+
+See all
+Copy prompt
+Recreate
+Fight 2
+Input your character sheets
+Make sure you tagged your character sheets with @ in the prompt where it is marked red
+
+MOTION TRANSFER . Keep the source @Video 3's motion exactly: every movement, every punch, grab, clinch, push, step up the wall, flip, fall, kick and landing, the timing of every beat, the positions of the two fighters in the frame, every move of the camera and every cut stay IDENTICAL to the source video, frame by frame. Change only WHO the two fighters are and WHERE the fight happens: the two men become two versions of Kareema, and the training hall becomes the dead-end back alley of @Image 20 and @Image 19 in Seoul at night, in a heavy downpour. 7.2 seconds, the full length of the source. No speech. No music.
+
+
+
+
+CHARACTER MAPPING — LOCKED FOR THE WHOLE VIDEO (each person in the source becomes exactly one character and stays that character in every frame):
+
+1. THE MAN IN THE WHITE TANK TOP and black track pants (pinned against the wall at the start, the one who runs up the wall, flips, and wins) → @main_character_sheet , THE REAL KAREEMA: her face and outfit exactly as in @main_character_sheet : silver drop earrings, the metallic steel-blue cropped jacket with the high stand-up collar and the small silver star, the metallic steel-blue jumpsuit with flared legs, silver ankle boots. Her hair is the long straight black hair of @main_character_sheet with its centre part, SOAKED WITH RAIN: dark, heavy and glossy with water, flattened to her head, wet strands stuck to her forehead, cheeks and neck. She is a woman with a woman's body; she performs every movement of the man in the white tank top exactly.
+
+2. THE MAN IN THE GREY HOODIE and black trousers (the attacker who pins the other against the wall, gets thrown and knocked out) → @suit_character_sheet , THE KAREEMA IN THE SUIT: Kareema's face; her suit exactly as in @suit_character_sheet ; her hair soaked with rain in the same way. She is a woman with Kareema's face and a woman's body; she performs every movement of the man in the grey hoodie exactly.
+
+Exactly two figures with Kareema's face exist in this video, each exactly once. The faces stay locked to their references from the first frame to the last, through every turn, blur and impact. Clothes and hair follow the bodies with real weight.
+
+
+
+
+THE WALL: the wooden wall of the source, the one they fight against and the one @main_character_sheet runs up, is the dead-end wall of @Image 20 : a clear stretch of the white tiled lower wall just to the right of the one grey steel door, rain water running down the tiles, nothing standing at its foot. Where the source shows the blue steel pillar on the left, we see the edge of the grey steel door and its frame, with the green "EXIT" sign and the bright warm lamp above it near the top-left; where the source shows the white brick column on the right, we see the grey electrical meter boxes, pipes and cables on the tiles; above the tiles, the grey concrete upper wall with water streaming down it. The floor of the hall is flooded black asphalt everywhere: wide puddles and a thin moving sheet of water, rain hammering into it, mirroring the lights.
+
+
+
+
+THE SHOTS AND THE CHOREOGRAPHY (identical to the source; listed only to lock who does what and what is behind them):
+
+SHOT 1 — 0.0–1.3s — medium-wide, low camera, facing the tiled wall square on. @suit_character_sheet has @main_character_sheet pinned against the tiled wall beside the steel door, @suit_character_sheet with her back three-quarters to the camera. @suit_character_sheet throws hooks at her head; @main_character_sheet covers up, forearms tight around her head, her back pressed to the wet tiles, taking the blows; @suit_character_sheet grabs her and holds her against the wall. At the end of the shot @main_character_sheet pushes off the wall and they spin around in a clinch: @main_character_sheet now on the left, @suit_character_sheet on the right.
+
+SHOT 2 — 1.3–3.5s — a cut to a close handheld camera at chest height beside the two of them, looking past them out of the dead end and down the alley toward the street, exactly as in @Image 19 ; the edge of the tiled wall at the right edge of the frame. Tight clinch: @suit_character_sheet in the foreground on the right, side and back to the camera; @main_character_sheet on the left, her face over @suit_character_sheet 's shoulder. They wrestle, shove and drive into each other, heads together, the camera swaying with them; @main_character_sheet fights her way up over @suit_character_sheet, gripping her head and neck. At 3.2s the camera whips right toward the wall as @main_character_sheet swings one leg up and plants her boot high on the wet tiles.
+
+SHOT 3 — 3.5–5.6s — a cut to a wide, low, almost still camera facing the tiled wall of @Image 20 square on, the steel door at the left, the two of them small in the frame in front of the wall. @main_character_sheet on the left and @suit_character_sheet on the right, locked together. @main_character_sheet runs up the wall: two fast steps up the wet tiles; she flips backward off the wall, her grip locked on @suit_character_sheet 's head, and drags @suit_character_sheet over with her: both turn upside down in the air; @main_character_sheet lands on one hand and her knees, @suit_character_sheet crashes flat on her back into the flooded asphalt. @main_character_sheet lands on top of her on her knees, shoves her down and pushes herself up; she gets to her feet and steps back to the left, breathing hard. @suit_character_sheet lies on her back, then lifts her head and props herself half up on one elbow, the other fist raised.
+
+SHOT 4 — 5.6–7.2s — a cut to a tighter, lower camera close to the ground, facing the wall. @main_character_sheet runs in from the left, jumps and drives a hard kick into @suit_character_sheet as she half-sits up; @suit_character_sheet is slammed back flat into the water, her legs flying up and falling. @main_character_sheet lands and stands over her on the left of the frame, framed from the waist down, her silver boots planted in the water beside @suit_character_sheet 's head, her fists clenched at her sides. @suit_character_sheet lies flat on her back in the flooded asphalt, arms spread, out cold, still.
+
+
+
+
+FACES — EVERY FIGHTER'S FACE IS ALIVE AND READABLE WHENEVER IT IS IN FRAME:
+
+- @main_character_sheet : pinned against the wall, eyes squeezed into a hard squint behind her forearms, teeth gritted, a grimace on every blow; in the clinch, brows down, jaw clenched, teeth bared, nostrils flaring, hard breaths through her teeth; on the wall run and the flip, a short open-mouthed cry of effort; standing over @suit_character_sheet at the end, breathing hard, her face cold and set.
+
+-@suit_character_sheet : pinning @main_character_sheet, eyes narrowed and hungry, a cruel half-smile, teeth bared on every hook; in the clinch, a tight snarl of strain, cheeks tense; in the air, wide eyes and an open mouth; on the ground, a wince of pain, then a defiant glare as she props herself up with her fist raised; after the kick, her eyes closed, her mouth slack, out cold.
+
+The faces are lit and clearly visible; the rain runs over them and never hides them.
+
+
+
+
+RAIN ON THEIR FACES, WET HAIR — IN EVERY SHOT:
+
+- @main_character_sheet 's face runs with rain the whole time: thin streams of rainwater run from her hairline down her forehead, over her brows and down her cheeks, drip off her chin, her nose and her silver earrings; drops bead on her eyelashes. Her hair is soaked through, dark, glossy and heavy, flattened to her head, wet strands stuck across her forehead, cheeks and neck; the long wet ends whip around on the spin and the flip and throw arcs of water, then slap back against her skin.
+
+- @suit_character_sheet 's face streams with rain in the same way; her wet hair is stuck to her forehead and temples and flies off drops when she is thrown and kicked.
+
+- In the close shot 2 the rain on both faces is clearly visible: the streams on their cheeks, the drops on their lashes and lips, the wet strands across their faces, water spraying off their hair on every shove.
+
+
+
+
+THE DOWNPOUR: a heavy downpour falls through the whole video: dense sheets of thick rain, lit into bright silver and golden streaks by the lamp over the door and the signboards. Both fighters are soaked to the skin from the first frame:@main_character_sheet 's metallic jacket and jumpsuit run with water; @suit_character_sheet 's suit is soaked, dark and heavy. Every hook throws spray off the sleeves; when @main_character_sheet 's back hits the wall, water bursts off the tiles; her boots splash off the wet tiles as she runs up the wall; when they crash down after the flip, water explodes out of the puddles; the kick sends a burst of spray off @suit_character_sheet 's body; she falls flat into the water with a big splash and lies in the moving sheet of water, rain drumming on her. The rain adds to the movements and changes none of them.
+
+
+
+
+THE LOCATION, SHOT BY SHOT: the training hall of the source disappears completely: its wooden wall, blue pillars, white brick column, white curtains, ceiling beams and lights, grey floor with blue lines and all its equipment are gone. Shots 1, 3 and 4 face the tiled dead-end wall of @Image 20 beside the steel EXIT door, exactly as described in THE WALL. Shot 2 looks out of the dead end down the alley toward the street, exactly as in @Image 19 : the rusty corrugated roller shutters glowing warm orange, the round green and orange signs, the vertical hangul signboards lit white and amber, the tiled building with the red "CLOSED" sign, the mint-and-pink standing lightbox, the cool white street lamp, and at the far end the web of black power cables with a warm orange street lamp on a pole, all soft behind the fighters. The alley is empty except for the two fighters.
+
+
+
+
+CAMERA: identical to the source: the same cuts at the same moments, the same positions, distances and angles, the same handheld sway and whip in shot 2, the same wide low view in shot 3, the same low punch-in in shot 4, the same motion blur on every fast move. Only the world in front of it changes. Raindrops occasionally hit the lens and streak across it.
+
+
+
+
+LIGHTING (cinematic night, the palette of @Image 20 and @Image 19 ): facing the wall, the bright warm golden-orange lamp above the steel door lights the tiles and the fighters from high on the left, makes the wet tiles glow and turns the rain in front of the wall into golden streaks; in shot 2, facing the street, that warm lamp is behind the camera and lights the fighters' faces from the front while the warm orange street lamp at the far end backlights the rain and rims their wet hair. Red, magenta, green and mint accents from the signboards fall across wet skin and wet clothes; the shadows deep teal and charcoal; the flooded asphalt mirrors every light. Wet skin shines, every drop on the faces catches the light. Rich contrast, deep blacks with detail, fine film grain.
+
+
+
+
+AUDIO — NO MUSIC. The track contains exactly this and only this: the roar of the heavy downpour on the asphalt and the tiles, water gushing from the drainpipes, the wet thuds of the hooks on her forearms, the slap of her back against the wet tiles, the scuff and splash of the clinch, her boots striking the tiles on the wall run, a short cry of effort, the heavy double splash of the fall, the hard wet impact of the kick, the splash of the final fall into the water, hard breathing.
+
+
+
+
+LOCKS:
+
+— Every movement, every beat, every camera move and every cut is identical to the source video.
+
+— The man in the white tank top is @main_character_sheet ; the man in the grey hoodie is @suit_character_sheet ; each mapping holds in every frame.
+
+— Exactly two figures with Kareema's face; no other people.
+
+— The wall of the fight is the tiled dead-end wall beside the steel EXIT door of @Image 20 ; shot 2 looks down the alley toward the street as in @Image 19 ; no part of the training hall remains.
+
+— A heavy downpour through the whole video; both are soaked, their faces running with rain, their wet hair stuck to their faces and flying with every move.
+
+— Every face in frame is visible and alive: squinting, clenched jaws, gritted teeth, strain and effort on every beat. No music.
+
+See all
+Copy prompt
+Recreate
+Bonus tip
+
+To save time and get exactly the shot you want, it’s best to show Claude a sketch.
+That way, it can understand the composition and how tight or wide the shot should be. ⤵️
+And if drawing isn’t your strong suit, you can just find a suitable reference.
+
+Sketch and result 1
+Sketch and result 2
+Sketch and result 3
+0:00 / 0:00

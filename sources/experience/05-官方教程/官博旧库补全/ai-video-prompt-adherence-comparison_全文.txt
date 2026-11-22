@@ -1,0 +1,310 @@
+【项目】Which AI Video Tools Are Best at Following Your Prompt?（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/ai-video-prompt-adherence-comparison
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Which AI Video Tools Are Best at Following Your Prompt?
+Higgsfield
+Aug 31, 2026
+10 min
+
+The same prompt produces four different results depending on the tool. In our test, Cinema Studio 4.0 retained the most requested constraints, Seedance 2.5 handled changing angles and object detail, Veo 3.1 delivered the strongest physics and realism, and Gemini Omni Flash 1.1 worked best for stylized elements. No single tool won every category, here's where those differences showed up.
+
+What Is Prompt Adherence?
+
+Prompt adherence is how accurately a generated video matches the specific details in the prompt that produced it. That includes the objects in frame, their colors, camera movement, any on-screen text, and the order in which events happen. A model can produce a visually impressive clip and still fail on adherence.
+
+This matters most on prompts with more than one or two details to track. A single-object, single-action prompt is relatively easy for most models to get right. Adherence differences show up once a prompt asks for three or more objects, a specific camera path, on-screen text, and a particular sequence all at once, that's where models start to diverge.
+
+What Makes AI Video Follow Your Prompt
+
+Most of what separates a prompt that holds together from one that doesn't comes down to specificity: a setting, a reference, an order. These seven habits make the biggest difference.
+
+What Makes AI Video Follow Your Prompt
+
+What to Do
+
+	
+
+Why It Helps
+
+
+
+
+Use reference images for anything that has to look exact
+
+	
+
+Text alone gets reinterpreted a little differently each time. A reference keeps a character, product, or location the same across generations
+
+
+
+
+Name the camera movement
+
+	
+
+"Cinematic camera movement" doesn't tell the model what to do. A slow push in, a pan left, a static wide shot does
+
+
+
+
+Specify genre or physics context when motion matters
+
+	
+
+A fight scene and a slow drama move completely differently. Without a genre, the model has to pick one on its own
+
+
+
+
+Lay out events in order
+
+	
+
+Five things happening at once tends to blur together. Naming what happens first, second, and third keeps the sequence straight
+
+
+
+
+Limit competing details per shot
+
+	
+
+One frame with an object, a color, a camera move, and on-screen text all at once is a lot to track. Splitting it across two shots usually works better
+
+
+
+
+Name the light source directly
+
+	
+
+"Moody lighting" could mean a dozen different setups. Naming where the light comes from and how strong it is settles that
+
+
+
+
+Call out text and colors by name
+
+	
+
+These are the two details that drop out most often. Saying them plainly
+
+The Prompt in Practice: Four Tools Tested
+
+We built one prompt deliberately packed with constraints. Three specific objects, a named camera movement, a defined lighting setup, and on-screen text in a specific color. That same prompt went through four models, Seedance 2.5, Cinema Studio 4.0, Google Veo 3.1, and Gemini Omni Flash 1.1, to see how each one handled the same load of detail.
+
+Global. ARRI Alexa 35, 4K, 24fps, 180° shutter, Kodak Vision3 250D film emulation, fine grain,
+subtle anamorphic flares. Light: bright afternoon, hard sun at 40° from behind-right, 5600K key,
+cool 7000K sky fill, bounce off facades and asphalt, deep blue sky one stop hot; green-pink
+bounce entering the shadows in the second half, cold steel speculars in the finale. Every cut
+lands on a motion match — the camera always moves in the same screen direction across the
+edit, so nothing snaps.
+IMPORTANT — CLEAN PLATE RULE (every single shot): absolutely no logos, no brand marks,
+no emblems, no badges, no hood ornaments, no manufacturer names, no license plates, no
+stickers, no decals and no text of any kind on any vehicle — all cars and taxis are plain, generic,
+unbranded shapes with smooth bare bodywork and blank grilles. Equally, no logos, no brand
+marks and no text on any footwear — all shoes and boots are plain unbranded, no side stripes,
+no swooshes, no heel tabs, no printed soles, no visible tags. No readable text anywhere else in
+frame either — no shop signs, no street-sign lettering, no billboards, no banner text, no graffiti.
+Every surface that would normally carry writing is blank.
+IMPORTANT — STAGING RULE: from 06.3 onward the three friends stand in front of her, facing
+her, squared up shoulder to shoulder in the middle of the roadway; she is straight ahead of them
+down the avenue and they never turn away. The main confrontation coverage is a wide shot
+from behind their backs — their three small silhouettes in the foreground, her enormous figure
+filling the avenue ahead of them. The camera works around this axis but never crosses it.
+Guy 1 (<<<image_1>>>): Asian man, grey knit beanie, dark fringe, brick-orange zip-up track
+sweatshirt with racing patches, wide light blue jeans, plain black sneakers with no branding.
+Guy 2 (<<<image_2>>>): white man, dark green cap, knitted rugby polo in green-yellow-cream
+stripes with white collar, olive wide shorts, white socks with green stripes, plain black loafers
+with no branding.
+Guy 3 (<<<image_3>>>): Asian man, messy dark hair, burgundy mesh tee over grey hoodie,
+camo cargo pants, plain tan boots with no branding, lime green backpack on one shoulder.
+Location (<<<image_4>>>): wide sunlit New York avenue, brick and stone high-rises, plain
+unbranded yellow taxis and generic cars with completely blank bodywork, no plates and no
+markings, traffic lights, street lamps, wide sidewalks with pedestrians, street receding toward
+distant skyscrapers.
+Creature (<<<image_5>>>): a 45-meter plant goddess, taller than the buildings — her crown
+level with the 20th floor. Extremely slender, narrow-hipped, elongated build: thin stem-like limbs,
+no wide hips, straight willowy silhouette. Smooth sage-green sculptural skin with soft gradients,
+serene closed-lidded face, small pink star mark by one eye, dark green leaf-plate bodice and
+layered leaf skirt, leaf pauldrons at the shoulders. Crown of tall crimson-pink bud petals standing
+upright like flames, with white and pink blossoms nested among them. Pink petals constantly
+drifting from her body. Movement slow, weightless, almost floating. Style: hand-painted stylized
+3D, soft shading, deliberately illustrated against the live-action city.
+00.0–02.2 | Sidewalk. The three friends walk along the sidewalk, talking, glancing around, Guy 2
+pointing up at a building, Guy 1 laughing, pedestrians passing. Cam: 35mm T2.8, chest height,
+Steadicam reverse tracking front-three-quarter, matched to their pace, medium three-shot. Light:
+hard rim sun on shoulders and beanie, faces in soft facade bounce.
+Cut on the camera's leftward drift.
+02.2–03.4 | Onto the road. Profile side view as they step off the curb into the middle of the
+roadway — all three stop dead, a deep rolling boom of enormous footsteps rolling down the
+avenue, heads turning to look straight up the street. Cam: 40mm T2.8, side tracking with them,
+decelerating to a stop as they freeze, one micro-jolt in the lens. Light: shadows starting to
+tremble.
+Cut on the jolt.
+
+03.4–04.2 | Windows. Glass rattling in the high-rise frames, sky reflections rippling, dust shaking
+off the sills. Cam: 85mm T2.0, low angle up the facade, slow rise, vibration in the mount, shallow
+DOF. Light: sun snapping off the shaking glass in short specular flashes.
+Cut on the rise — next shot continues descending.
+04.2–05.0 | Cars. Plain unbranded taxis and generic cars rocking on their suspension, hazards
+blinking, mirrors trembling, sun skating across smooth bare hoods — blank grilles, no emblems,
+no plates, no text anywhere. Cam: 24mm T4, curb level low on the wheels and suspension, slow
+descent to the ground, handheld shake. Light: hard specular on paint, deep cool shadow under
+the chassis.
+Cut on the descent — next shot is already at ground level.
+05.0–06.3 | The sprout. Guy 3 crouches slightly, looking down; the asphalt cracks and a small
+green flower pushes through, unfolding pink petals. Cam: 100mm macro T2.0, at ground level,
+slow orbit around the flower plus a gentle push-in, razor-thin DOF, his plain unbranded boots
+and the street soft behind. Light: raking backlight translucent through the petal, green
+subsurface glow.
+Cut on the orbit — next shot continues the same rotational direction.
+06.3–07.4 | Squaring up. The three of them stand shoulder to shoulder in the middle of the road,
+facing straight down the avenue at her, heads tilting back, pupils dilating, lips parting. Cam:
+50mm T2.0, profile medium shot at eye level, arc continuing around them while tilting up on their
+eyeline, handheld breathing. Light: the sun goes behind her crown — key drops two stops, faces
+falling into cool shadow.
+Cut on the tilt — next shot continues upward.
+07.4–09.4 | The standoff — wide from behind their backs. Wide shot from directly behind the
+three of them: their small dark silhouettes stand together in the middle of the roadway in the
+lower foreground, backs to camera, heads tilted up — and ahead of them, filling the avenue
+between the high-rises, the slender goddess walks toward them, taller than the buildings, thin
+stem legs passing between the towers, crimson bud crown eclipsing the sun, pink petals drifting
+down the street toward the three men. Cam: 18mm T5.6, low behind-the-back position on the
+confrontation axis, continuous slow push in toward her past their shoulders with a gentle tilt up,
+strong converging verticals, handheld breathing. Light: full backlit eclipse, petals glowing
+translucent, god rays fanning between them, her long shadow stretching down the avenue over
+the three of them, dust and pollen in the air.
+Cut on the push — next shot continues forward, now high above her.
+09.4–11.2 | High behind her shoulder. High angle from above and behind the goddess, close
+over her shoulder and crown: her upright crimson bud petals fill the foreground, her narrow back
+and leaf pauldrons below, and far down the avenue between her thin shoulders the three tiny
+figures stand in the middle of the road, facing up at her. Petals drift up past the lens. Cam:
+40mm T4, elevated behind-the-shoulder position, slow forward creep along her walking direction
+with a gentle downward tilt, light handheld shake, her crown occasionally clipping the frame
+edge. Then crash zoom in: snap the lens rapidly down the avenue past her shoulder onto the
+three figures, very fast and punchy, keeping them readable through the sudden scale change,
+landing on a bold tight composition of the three of them from her point of view. Light: raking sun
+rimming her crown, flare across the frame, hard anamorphic streak on the zoom, focus lost and
+regained.
+Cut on the zoom's landing — next shot starts tight at ground level and pulls out.
+11.2–12.4 | Grass at their feet. Tight on their plain unbranded shoes planted on the asphalt:
+grass and small pink flowers pushing up between the cracks, spreading fast around their soles.
+The camera pulls back and rises to their faces as they glance down, then at each other — none
+of them breaks the line, they stay turned toward her. Cam: 35mm T2.8, low, fast pull-back and
+crane up, handheld. Light: strong green bounce filling the shadows, warm sun patches breaking
+through her crown.
+
+Cut on the crane — next shot continues rising.
+12.4–15.0 | The armor. Back to the wide shot from behind their backs, now closer: the three of
+them exchange a nod and drop into fighting stances shoulder to shoulder, still facing her,
+holding the middle of the road, her enormous figure towering ahead of them down the avenue.
+Dark grey matte steel armor materializes over them in a single fast upward sweep —
+segmented boots, shin and thigh plates, articulated gauntlets sliding over the fingers, back and
+shoulder plates snapping into place with a metallic ripple, closed full-face helmets sealing last.
+Their street clothes vanish beneath the plating; each suit carries a thin painted trim in its owner's
+color — brick-orange, dark green, burgundy. Pink petals fall around them throughout. Final
+frame: three dark grey armored figures braced in a row from behind, facing her, her silhouette
+filling the sky ahead. Cam: 32mm T2.8, low behind-the-back position, continuous rise into a slow
+push-in, handheld breathing settling to almost steady on the last beat, slight roll. Light: cold hard
+speculars racing across the fresh steel as each plate forms, backlit sun through her crown
+haloing the three armored silhouettes, god rays between the petals.
+Negative: drone flyby, aerial fly-through, smooth cinematic drone, car logos, car emblems, car
+badges, brand marks, hood ornaments, manufacturer names, license plates, number plates,
+stickers, decals, taxi markings, shoe logos, sneaker branding, side stripes on shoes, printed
+soles, heel tabs, shop signs, street sign text, billboards, banner text, graffiti, any readable text,
+watermark, characters facing away from the creature, running away, photorealistic flower, wide
+hips, curvy hourglass figure, morphing faces, extra limbs, duplicate characters, distorted
+architecture, oversaturated, warped hands, plastic skin, static camera, human-scale creature,
+sexualized design, glowing neon sci-fi armor,
+Copy
+Recreate
+The Prompt in Practice: Four Tools Tested
+
+Tool
+
+	
+
+Strongest Result in Our Test
+
+	
+
+Where It Missed Details
+
+
+
+
+Seedance 2.5
+
+	
+
+Multi-angle coverage, held object detail across camera positions
+
+	
+
+Softened some named on-screen text
+
+
+
+
+Cinema Studio 4.0
+
+	
+
+Retained the most requested constraints overall
+
+	
+
+Physics read slightly less accurate than Veo
+
+
+
+
+Google Veo 3.1
+
+	
+
+Strongest physics and material realism
+
+	
+
+Missed the on-screen text, softened some named colors
+
+
+
+
+Gemini Omni Flash
+
+	
+
+Strongest stylized, VFX-style output
+
+	
+
+More variance on literal object and color details
+
+Seedance 2.5: performed best on commercial and multi-angle work in our test, maintaining product and object details across changing camera positions within the same generation.  
+Cinema Studio 4.0: retained the most constraints in this specific test. Direct camera and lens controls helped preserve more of the intended shot while reducing how much the system had to interpret from text alone.  
+Google Veo 3.1: produced the most convincing physics and material behavior in our test, although some specifically named details were softened or omitted in favor of that realism.  
+Gemini Omni Flash 1.1: performed especially well on VFX-style transformations and stylized elements in our test, though it showed more variation when following exact object and color instructions. 
+
+This is not a pure model-to-model benchmark, since some tools give you more direct control than others. Cinema Studio, for example, lets you define parts of the shot through dedicated camera and lens settings, while other tools rely more heavily on text interpretation. The goal here is therefore not to rank the underlying models in isolation, but to see which setup gets closest to the intended result under the same creative brief.
+
+Which Other Models Are Worth Knowing?
+
+We only tested four tools for this comparison. Higgsfield also includes other video models such as Kling 3.0, Hailuo 2.3, FLUX 3 Video, and WAN 3.0 for workflows that need different types of generation or control.
+
+Marketing Studio for template-led commercial content, product shots and ads without building a scene from scratch.
+Kling 3.0 for multi-shot generation, subject consistency, native audio, and scenes that need structured movement across multiple camera angles.
+Hailuo 2.3 for stylized and character-driven generation.
+Flux 3 for video continuation, synchronized audio, and generations where typography or readable text needs to stay integrated with the motion.
+WAN 3.0 for restyling existing footage.
+
+For a comparison of platforms where some of these models are available, see our guide to AI video generators.
+
+WHICH AI VIDEO TOOLS ARE BEST AT FOLLOWING YOUR PROMPT?
+Try Cinema Studio

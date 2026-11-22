@@ -1,0 +1,94 @@
+【项目】HOW TO CREATE REALISTIC CINEMATIC AI VIDEOS WITH SEEDREAM AND SEEDANCE（@isaiahross · 创作者博客）
+【链接】https://higgsfield.ai/zh/@isaiahross/blogs/how-to-create-realistic-cinematic-ai-videos-with-seedream-and-seedance
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW TO CREATE REALISTIC CINEMATIC AI VIDEOS WITH SEEDREAM AND SEEDANCE
+@isaiahross
+3.3K
+2
+1
+
+CREATE YOUR FIRST FRAME →
+
+Build a short cinematic sequence with believable characters, lighting, and movement. Use Seedream for the images, Seedance for the motion, and your video editor for the final cut.
+
+1. Plan three shots before generating
+
+Start with one location, one simple event, and a small cast. For example: a traveler waits on a rainy platform, notices someone arriving, then turns toward the train. Plan a wide establishing shot, a medium action shot, and a close-up reaction.
+
+Choose 16:9 for a cinematic landscape sequence or 9:16 for a vertical post. Keep that ratio throughout. Write down each character’s face, hair, outfit, and position, plus the time of day and light direction.
+
+The wide establishing shot: an actual Seedream 5.0 Pro output showing the traveler and the rainy platform. Follow the same character into the medium-shot reference in Step 2 and the animated close-up in Step 4. Keep the coat, bag, location, and night lighting consistent.
+
+
+
+
+2. Create a believable frame in Seedream
+
+Open Higgsfield Image and select Seedream 5.0 Pro. Set Aspect ratio and start at 2K under Resolution. Add character or location images through References if you have them. Replace the brackets:
+
+A live-action cinematic still of [character] at [location], about to [simple action]. [Shot size], eye-level camera, natural perspective. Lit by [specific visible light source], with consistent shadows and restrained highlights. Natural skin texture, individual hair strands, believable fabric folds, and subtle environmental wear. [Weather and time of day]. Restrained color grading, realistic depth of field. Preserve the identity and wardrobe in the attached references. No text or beauty retouching.
+
+Describe physical details instead of stacking “ultra-realistic” keywords. Generate a few options and choose the frame with convincing anatomy, lighting, and composition.
+
+Actual Seedream 5.0 Pro output, 2K: the medium shot used as the reference for the other angles. Notice how the overhead fluorescent light shapes the face, the coat falls into shadow, and the wet platform reflects the visible lights.
+
+
+
+
+3. Fix details and create matching angles
+
+Inspect eyes, teeth, hands, object edges, reflections, and background geometry. Upload the chosen frame through References and request one correction at a time:
+
+Correct [specific defect] in the attached image. Preserve the character’s identity, clothing, pose, framing, lighting, and all unaffected details.
+
+Then use the approved image as a reference for the other shots. Specify the new framing while keeping the cast, wardrobe, location, weather, and light direction unchanged. Save each shot as a separate image; do not animate a collage. Compare all three frames before continuing.
+
+A real correction from this sequence: the first wide shot had an awkward crossed-leg stance. The next image shows the Seedream revision with a more stable standing pose. Compare the feet and weight distribution while checking that the coat, bag, and station still match.
+
+BEFORE → AFTER · One targeted pose correction in Seedream
+
+
+
+
+4. Animate one shot at a time in Seedance
+
+Open Seedance 2.5. In References, use Add media to upload the approved shot. Start with a 5-second duration, the same ratio, and 720p for a motion test. Reference the uploaded image in your prompt:
+
+Use the attached image as the visual reference for this single continuous shot. [Character] performs [one simple action] with natural timing, subtle breathing, and believable weight shifts. The camera [one slow movement, or stays locked]. Preserve the face, clothing, scene layout, and light direction. [One environmental movement]. No cuts, sudden zooms, new objects, or exaggerated expressions. Audio: [quiet ambience and one matching sound], no dialogue or music.
+
+Start with restrained movement. Keep spoken dialogue out of the first test so you can judge physical realism separately.
+
+Actual Seedance 2.5 motion test: 5 seconds at 720p, using the matching Seedream close-up as the starting image. The traveler slowly turns toward an off-camera train while the camera stays locked. Watch the face, hairline, coat collar, and station lights for continuity.
+
+
+
+
+5. Review motion before increasing resolution
+
+Watch at normal speed, then inspect suspicious frames. Look for sliding feet, changing faces, bending objects, flickering textures, and shadows that move independently. If a shot fails, simplify the action or camera move and regenerate it. Fix visible defects in the source image before trying again.
+
+Once the direction works, generate at 1080p and review the new result too. Higher resolution does not repair identity drift or broken motion.
+
+6. Cut the sequence and finish the sound
+
+Download the approved clips and assemble wide → medium → close-up in your video editor. Trim unstable beginnings or endings. Match exposure and color between shots, keep screen direction consistent, and use one continuous ambience bed with well-timed footsteps or other scene sounds.
+
+Export an MP4 in your chosen ratio. Watch the entire export once more for face changes, unnatural motion, abrupt sound cuts, and compression artifacts. Repeat this workflow for each new scene, using its own approved references.
+
+
+
+
+TURN YOUR FRAME INTO A SCENE
+OPEN SEEDANCE
+Contents
+1. Plan three shots before generating
+2. Create a believable frame in Seedream
+3. Fix details and create matching angles
+4. Animate one shot at a time in Seedance
+5. Review motion before increasing resolution
+6. Cut the sequence and finish the sound
+TURN YOUR FRAME INTO A SCENE

@@ -1,0 +1,191 @@
+【项目】HUMANIZE AI TEXT WITH CLAUDE: BUILD A /HUMAN SKILL FROM WIKIPEDIA'S SIGNS OF AI WRITING（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/humanize-ai-text-with-claude-build-a-human-skill-from-wikipedia-s-signs-of-ai-writing
+【提示词块】14
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HUMANIZE AI TEXT WITH CLAUDE: BUILD A /HUMAN SKILL FROM WIKIPEDIA'S SIGNS OF AI WRITING
+@sanjii
+312
+0
+0
+Before You Start
+
+This is the exact setup from the video. You get Claude to learn every habit that gives AI writing away and ban all of them. Then you pack the rules into a skill you call with /human. I ran the output through AI checkers and every single one came back 0% AI.
+
+
+
+
+The rules don't come from guesswork. Wikipedia editors keep a page called "Signs of AI writing", a field guide to the patterns that expose AI text, built from real cases they caught on the site. It changes as the models change. Detectors look for the same habits, so once they're gone there's very little left to catch.
+
+
+
+
+What you need: Claude (the free plan works), with "Create and edit files" switched on in Settings > Capabilities and the Skill Creator switched on in Customize > Skills. Turn on web search too, for Prompt 2.
+
+
+
+
+Don't feel like building it? The finished skill is right here. It writes and rewrites for you with every rule in place, and it checks its own draft before you see it.
+
+Download the Claude Skill
+
+Stage 1: The Red Flags
+
+Open a new chat in Claude and send these three prompts in order. Keep it all in the same conversation, because Stage 2 builds on it.
+
+Prompt 1: Set the Goal
+
+What it does: Tells Claude what the whole chat is for, so every rule it finds next goes straight into your writing.
+
+From now on, I need you to rewrite all my text so it reads like a real person wrote it, not an AI.
+
+Copy prompt
+Recreate
+Prompt 2: Pull the Red Flags
+
+What it does: Sends Claude to Wikipedia's "Signs of AI writing" page to list every pattern editors use to catch AI text: the overused words, the inflated phrasing, the formatting habits and the punctuation.
+
+Search Wikipedia for the "Signs of AI writing" page and pull out a complete list of every red flag that exposes AI-written content.
+
+Copy prompt
+Recreate
+Prompt 3: Ban Them All
+
+What it does: Turns that list into hard rules for everything Claude writes in this chat.
+
+Permanently ban every single one of those habits from your writing.
+
+Copy prompt
+Recreate
+
+You'll see the difference in the next answer. The em dashes go first, and Claude needed that more than most: a July 2026 study cited on the same Wikipedia page found it's the only current model that uses em dashes more often than professional writers do. The stock transitions go next ("Additionally", "Moreover"), and so do words like "delve" and "testament" and every "it's not just X, it's Y" line. The last thing to break is that stiff rhythm where every sentence runs the same length.
+
+Stage 2: The Prompting Framework
+
+Right now the rules only live in this one chat. Start a new one and Claude goes straight back to its old habits. The Skill Creator fixes that.
+
+Prompt 4: Package It as a Skill
+
+What it does: Turns everything from Stage 1 into a skill you install once and use in every chat after that.
+
+Without leaving the chat, type / and pick Skill Creator from the menu (if it isn't there, switch it on in Customize > Skills). Then send:
+
+Take everything we just uncovered and turn it into a custom humanizer skill called "human", so I don't have to repeat these rules ever again.
+
+Copy prompt
+Recreate
+
+Calling it "human" is what gives you the /human shortcut. Claude packages the skill right there in the chat. Hit the button under it to add it to your skills and you're done: from now on, put /human in front of any prompt and every rule is on.
+
+The Ready-Made Skill
+
+Rather skip the build? Here's a finished version, built from the same Wikipedia list and tested. In Claude, go to Customize > Skills, click +, choose Create skill, then Upload a skill, and pick the zip. Working in Claude Code? Unzip it into ~/.claude/skills/ instead.
+
+Download the Claude Skill
+
+Here's what's inside:
+
+Every red flag on Wikipedia's page as of October 2026, including the newest ones that older humanizer prompts miss: the 2026 batch of model words like "quietly" and "leverage", and hedges like "should be seen as X rather than Y".
+The em dash ban, plus a fix for what comes after it. Models that are blocked from em dashes fall back on commas and full stops alone, and Wikipedia now lists that flat punctuation as a sign of its own. The skill keeps colons, parentheses, questions and the odd semicolon in the mix.
+Rhythm rules. The newest models tend to hold every sentence to 8 to 20 words, so the skill mixes three-word sentences with long ones, the way people actually write.
+Plain words over stiff ones: "use" instead of "utilize", "tried" instead of "attempted", "has" instead of "boasts", "is" instead of "serves as".
+A voice mode. Paste a few things you wrote and it copies your sentence length, your words, your punctuation and how formal you are, instead of some generic "human" voice.
+A check mode: /human check lists every AI tell in a text without rewriting it.
+A self-audit. Before you see anything, Claude runs the draft through a checklist and a small script that flags em dashes, banned words, same-length sentences and flat punctuation.
+Hard limits. It never touches your facts, names, numbers or links, and it never pulls tricks like fake typos or hidden characters.
+
+Two strict rules before you hit enter:
+
+Give it your voice once. Without samples, /human writes like a careful stranger. With two or three things you actually wrote, it writes like you.
+Refresh the rules every few months. The Wikipedia page keeps moving as new models come out (it now dates em dash overuse as a 2022 to September 2026 sign). The last prompt below pulls in anything new.
+Stage 3: The Prompts
+
+Every prompt starts with /human. The first five cover most of what you'll write. The fixes after them are for when one line still feels off.
+
+Rewrite Anything
+
+What it does: Rewrites text you already have so it reads like a person wrote it, without changing what it says.
+
+/human Rewrite this so it sounds like I wrote it: [paste your text]
+
+Copy prompt
+Recreate
+Write From Scratch
+
+What it does: Writes a new piece with every rule on from the first word.
+
+/human Write a LinkedIn post about [topic]. First person, under 150 words, built around one real example from my work: [example]
+
+Copy prompt
+Recreate
+Reply to an Email
+
+What it does: Drafts a reply that sounds like you typed it between two meetings.
+
+/human Reply to this email in four sentences or fewer. My answer is [yes / no / not yet]: [paste the email]
+
+Copy prompt
+Recreate
+Teach It Your Voice
+
+What it does: Gives the skill samples of your writing, so it copies your style instead of a generic one. Put the samples in a Claude Project and every chat inside it starts with your voice.
+
+/human Here are three things I wrote. Learn my voice from them (sentence length, word choice, punctuation, how formal I am) and use it for everything you write after this: [paste your samples]
+
+Copy prompt
+Recreate
+Find the Tells
+
+What it does: Audits any text, yours or someone else's, and lists every AI giveaway with the exact phrase. Nothing gets rewritten.
+
+/human check [paste the text]
+
+Copy prompt
+Recreate
+Fix 1: One Line Still Sounds Like AI
+
+What it does: Rewrites a single line and leaves the rest of the text alone.
+
+This line still sounds like AI: "[paste the line]". Rewrite just that line and keep everything else.
+
+Copy prompt
+Recreate
+Fix 2: Break the Rhythm
+
+What it does: Fixes text where every sentence is about the same length, the tell that sticks around after the words are clean.
+
+The sentences are all about the same length. Mix in a few very short ones and one or two long ones, and don't change what it says.
+
+Copy prompt
+Recreate
+Fix 3: Less Polished
+
+What it does: Loosens text that's clean but stiff, so it sounds spoken.
+
+Too polished. Make it sound like me talking. Use contractions and cut anything I wouldn't say out loud.
+
+Copy prompt
+Recreate
+Your Own Banned Words
+
+What it does: Adds the words you personally can't stand to the skill, so they never come back.
+
+Update my human skill: add "synergy" and "circle back" to the banned words.
+
+Copy prompt
+Recreate
+Keep the Rules Fresh
+
+What it does: Checks Wikipedia's page for anything added since you built the skill and folds the new red flags in.
+
+Check Wikipedia's "Signs of AI writing" page for anything added since you built my human skill, and update the skill with the new red flags.
+
+Copy prompt
+Recreate
+Ready To Make Your Own?
+
+Editors and detectors catch AI writing by its habits: the same handful of words and the same em dashes, in sentences that all run the same length. Wikipedia's editors already wrote those habits down. Claude only has to read the list and stop. Grab the skill, type /human, and paste in the last thing you wrote with AI.
+
+READY TO MAKE YOUR OWN?

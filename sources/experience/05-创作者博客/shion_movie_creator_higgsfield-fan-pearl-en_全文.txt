@@ -1,0 +1,588 @@
+【项目】HOW TO MAKE A CEILING-FAN WARDROBE-CHANGE VIDEO WITH HIGGSFIELD GENJUTSU（@shion_movie_creator · 创作者博客）
+【链接】https://higgsfield.ai/@shion_movie_creator/blogs/higgsfield-fan-pearl-en
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW TO MAKE A CEILING-FAN WARDROBE-CHANGE VIDEO WITH HIGGSFIELD GENJUTSU
+@shion_movie_creator
+76
+1
+0
+
+I made this with Higgsfield Genjutsu. The Girl with a Pearl Earring is lying on the floor, and every time a ceiling fan blade sweeps across her, she's wearing something new. Here's the whole build.
+
+
+
+
+Make original video with Higgsfield Genjutsu ／ 
+
+
+
+
+How to Use Higgsfield Genjutsu / Higgsfield Genjutsu（幻術）
+
+Higgsfield Genjutsu lets you create a new video by preserving the motion, camera work, and timing of a reference video while replacing its characters, locations, clothing, and props with your own visual references.
+
+
+
+
+This guide explains the Motion transfer workflow shown in the accompanying screen recordings.
+
+About the interface / 画面について
+
+
+These screenshots were captured on September 25, 2026. Button names, placement, and credit costs may change as the service is updated.
+
+
+キャプチャは2026年9月25日時点のものです。サービスの更新により、ボタン名や配置、必要クレジットが変わる場合があります。
+What You Need / 事前に用意するもの
+A reference video whose motion you want to copy (the interface specifies 4–30 seconds)
+Reference images for the characters
+Reference images for the background or location
+Reference images for clothing and props, if needed
+A prompt describing the intended result
+
+
+
+
+You can add up to 30 reference images. However, too many images can make their relationships difficult to manage. For your first attempt, focus on the main characters, locations, and essential props.
+
+Workflow / 操作手順
+Step 1. Open Genjutsu / Genjutsuを開く
+
+Open Genjutsu from the top menu, select Create Video in the upper-left corner, and then choose Motion transfer.
+
+
+
+
+
+
+
+Use Motion transfer when you want to rebuild the performance or movement of a reference video with different characters or a different world. If you only need to replace a specific object, Objects swap may be the better option.
+
+Step 2. Add the Reference Video / 動きの元になる参照動画を追加する
+
+Click Add a reference video to extract motion and select the source video whose movement you want to reproduce.
+
+
+
+
+
+
+
+A clear reference works best: keep the main subject inside the frame, use readable motion, avoid long periods where the face or hands are hidden, and limit unnecessary cuts.
+
+Step 3. Add Character, Location, and Prop Images / 人物・背景・小物の参照画像を追加する
+
+Click the Add your characters, products, or clothes area and select the images you want to use. Previously uploaded assets can be selected together. Make sure every required image has a green check mark.
+
+
+
+
+
+
+
+
+
+
+The assets will later appear as Image 1, Image 2, and so on. Check their order after adding them.
+
+Step 4. Enable Prompt and Enter Your Instructions / Promptをオンにして指示文を入力する
+
+Turn on the Prompt switch, then type or paste your instructions.
+
+
+
+
+
+
+
+
+
+
+For a clearer prompt, separate what should be preserved from the reference video, what should be replaced, the role of each reference image, what must not change, and the required frame-to-frame consistency.
+
+Step 5. Assign Each @ Mention to a Reference / @タグと参照素材を対応づける
+
+Click an @ mention in the prompt and assign it to the appropriate Video 1, Image 1, Image 2, or another item from the menu.
+
+
+
+
+
+
+
+
+
+
+For example, you might use Video 1 for motion, camera work, timing, and cuts; Image 1 and Image 2 for locations; Image 3 for a prop; and Image 4 and Image 5 for characters.
+
+The numbering depends on the order in which you added the assets. Do not rely on the number alone—check each thumbnail before assigning it.
+
+Step 6. Select Higgsfield Genjutsu as the Model / モデルをHiggsfield Genjutsuに設定する
+
+Open Model and select Higgsfield Genjutsu.
+
+
+
+
+
+
+
+If it is already selected, you can leave the setting unchanged.
+
+すでに選択済みの場合は、そのままで構いません。
+
+Step 7. Choose the Output Quality / 出力品質を選ぶ
+
+Open Quality and choose 480p, 720p, or 1080p based on your intended use.
+
+
+
+
+
+
+
+Use 480p for test generations, 720p for social-media previews, and 1080p for final output. Higher quality may require more credits, so it is usually best to validate the composition and replacements at a lower resolution first.
+
+Step 8. Start the Generation / Generateで生成を開始する
+
+After checking the reference video, images, prompt, model, and quality, click Generate.
+
+
+
+
+
+
+
+The button displays the number of credits required for the current settings. Always check the amount before starting the generation.
+
+Step 9. Review the Result in History / Historyで結果を確認する
+
+When the generation is complete, open History and play the finished video. Use the icons beside each result to download it or access additional actions.
+
+Step 1. Pick the trend video you'll build on
+Point
+
+
+
+
+The source is a locked overhead shot. A ceiling fan turns in the foreground, and wherever a blade has already passed, the costume has changed. The blade is doing the work of a wipe.
+
+This format suits Genjutsu well. The camera never moves, there are no cuts, and the person barely moves. The only thing that needs replacing is how everything looks.
+
+Once you've picked a video, measure four things before you generate anything. Skip this and you'll rebuild the whole thing later.
+
+How many costumes there are, and how many changes
+For each change: the second the blade reaches her head, and the second it clears her feet
+How long one full rotation of the fan takes
+What happens in the opening
+
+For the measuring, I had Claude Code read the video. Save the file locally, hand it to an agent and ask it what happens at each second — that's the easy route. If you're doing it by eye, export frames every 0.2 seconds and go through them one at a time. Counting while the video plays will always drift.
+
+If that's not available to you, use mine as a reference. Here's what the source came out to.
+
+
+
+
+	
+
+Measured
+
+
+
+
+Length / ratio
+
+	
+
+16.18 s, vertical 9:16, one continuous shot
+
+
+
+
+Costumes
+
+	
+
+4 costumes, 3 changes
+
+
+
+
+Wipe A
+
+	
+
+Blade reaches her head at 5.3 s, clears her feet at 6.9 s
+
+
+
+
+Wipe B
+
+	
+
+8.5 s → 10.6 s
+
+
+
+
+Wipe C
+
+	
+
+12.2 s → 14.5 s
+
+
+
+
+Fan speed
+
+	
+
+About 8.6 s per revolution. A blade crosses her body once every 2.9 s
+
+
+
+
+Opening
+
+	
+
+The fan is still for the first 3.3 s. She picks up a remote off the floor, points it at the ceiling, and the blades start turning
+
+There's a reason the wipe rows have two seconds in them. If you only write "it changes at 5.3 s", the model swaps everything in a single frame. Write the start and the end and you get the in-between state — the top half already in the new costume while the legs are still in the old one. That's the whole appeal of this format.
+
+The first 3.3 seconds matter too. The fan is off, and she turns it on herself. Leave it out and the model will have the blades spinning from frame one.
+
+Step 2. Build the costume sheets
+Point
+
+Four costumes means four sheets: the original painting's clothes, Japan, Korea and China.
+
+Each sheet has four panels, and Panel 1 is the top-down view of her lying down. That panel is almost exactly what you'll see in the video, so it's the one that matters. The standing panel is there so the construction of the garment is readable.
+
+Put the accessories in Panel 4. Drawing the fans and the hand fan here pays off in Step 5, when you replace the props — you won't need to generate anything new.
+
+Write one template and swap what's inside the [ ] for each country. The face comes from an existing character sheet; the lying pose comes from a sheet you've already made for another country.
+
+The prompt I used (shared template)
+
+
+
+
+SCENE CONTEXT
+Costume reference sheet for a photoreal live-action video: [CHARACTER NAME] wearing [COUNTRY] traditional dress, in four panels, for identity, wardrobe, headdress and prop lock. Horizontal 16:9.
+
+ACTIVE REFERENCES — two images, each with a separate job
+1. cha_pearl_girl-v2.png — IDENTITY only: controls the face, skin tone, facial proportions and apparent age in every panel. The face matches this reference 100%. The wardrobe in that reference is NOT used — it is entirely replaced by the costume described below.
+2. ref_pose_main.png — POSE AND FRAMING only, for Panel 1: controls how the figure lies, the overhead camera angle, and how much of the panel the body fills. Its clothing, its face, its carpet, its room and the fan blade are all ignored — take nothing from it but the pose and the framing.
+
+COSTUME
+[garment, cut, fabric, colours, how it falls on the floor]
+
+HEADDRESS AND HAIR
+[headwear, hair, ornaments — how they read from directly above]
+
+ACCESSORIES / PROPS
+[jewellery, hand props, objects that lie beside her]
+
+★ POSE LOCK — from ref_pose_main.png
+Panel 1 reproduces the pose and framing of ref_pose_main.png exactly: the woman lies flat on her back, seen from directly overhead with the camera perfectly perpendicular to the floor; her head is near the top of the panel with her hair fanned out above it; her body runs straight down the centre of the panel; her arms are relaxed and straight down at her sides, held a little away from the body so both hands are fully visible near her hips; her legs are straight and together, feet near the bottom of the panel; her face is turned up to the camera with a calm, neutral expression. Her body occupies the same proportion of the panel as in the reference. Do not change the pose, the angle or the framing — only the costume changes.
+
+SHEET LAYOUT
+Single reference sheet, four panels on a neutral seamless light-grey studio background, identical soft even lighting across all panels.
+Panel 1 — ★ TOP-DOWN VIEW: the whole figure lying flat on her back on a plain light-grey floor, in the pose locked above, with the costume settled and spread naturally on the floor around her exactly as real fabric would fall under its own weight. This is the primary panel.
+Panel 2 — full body, standing front view, so the construction of the garment is readable.
+Panel 3 — close-up of the head seen from directly above, showing the headdress, hair and ornaments as they read from the ceiling.
+Panel 4 — the accessories and props laid out flat side by side on the grey surface.
+
+LIGHTING
+Soft even studio lighting, low contrast, neutral daylight white balance (~5600K), true colour, no strong directional shadow.
+
+REALISM LOCK
+Real skin with pores and fine down; real woven fabric with genuine weight, drape and creasing; real metal with tarnish and tool marks; real embroidery with visible thread. Photoreal live-action — no painterly rendering, no illustration, no cel shading, no CG sheen, no plastic skin, no perfectly symmetrical geometry.
+
+POSITIVE CONSTRAINTS
+Same face, same costume, same headdress, same accessories across all four panels. Historically grounded traditional dress, respectfully and accurately represented — not a costume-shop imitation.
+
+BANS
+No visible text, no logos, no watermarks, no picture frame. No heraldic crests, clan badges, coats of arms or national flags — any emblem must be plain and non-specific. No modern objects. No sexualised posing.
+What I swapped in (Japan)
+COSTUME
+A Japanese furisode kimono in deep indigo-blue silk, patterned with white cranes and stylised waves in resist-dyed (shibori and yuzen) technique. The long swinging sleeves reach nearly to the floor and lie spread open on either side of her body. A wide mustard-yellow brocade obi is tied at the back, so from directly above it reads as a broad yellow band crossing her waist, with a narrow vermilion obijime cord over it. A white under-collar shows at the neck.
+
+HEADDRESS AND HAIR
+Dark hair gathered up in a simple low chignon. A yellow silk hana-kanzashi with small hanging petals is set at one side, and a plain pale wooden comb at the crown.
+
+ACCESSORIES / PROPS
+Beside her: a folded paper fan with a plain indigo wave pattern (no text, no characters), a pair of black-thonged zōri sandals, and white tabi socks.
+
+COLOUR NOTE
+Indigo, mustard yellow and white — the Vermeer palette rendered in Japanese dyes.
+
+Decide a palette per country and the four sheets hold together when you line them up. I took Vermeer's indigo, mustard and white as the spine: indigo for the Japanese furisode, ultramarine for the Korean chima, blue-and-white porcelain for the Chinese qipao.
+
+Step 3. Build the floor plate
+Point
+
+The background is just a floor. You're looking straight down, so all you see is the floor and the odd chair leg at the edge of the frame.
+
+No people, no animals on the plate. Put a person in and the video will pull toward that pose.
+
+The plate does have lighting in it, but the video won't use it. Step 6 explains why.
+
+The prompt I used
+Photorealistic live-action plate, vertical 9:16, REAL PHOTOGRAPH on a full-frame cinema camera looking straight down at the floor of a well-to-do house in Delft, about 1665. No people, no animals.
+
+★ COMPOSITION LOCK — MANDATORY
+The camera is directly overhead, perfectly perpendicular to the floor, so the floor fills the whole frame with no perspective tilt. The floor is a black-and-white marble checkerboard set on the diagonal, the white squares dulled and slightly scratched, the black ones veined grey. Laid across the centre of the frame is a "Turkey carpet" of the kind Dutch households put on floors and tables: a deep indigo-blue ground with ochre and brick-red geometric medallions, its pile worn and its fringe uneven. At the top edge of the frame: the foot of a plain oak chair and the lower hem of a heavy butter-yellow wool curtain falling onto the marble. Along the left edge: a row of small blue-and-white Delft tiles set into the skirting, each with a plain figure-less motif.
+
+LIGHTING — in-world sources only
+Cool silver daylight enters from an unseen leaded window at the upper left and falls across the upper third of the frame as a soft diagonal band, the rest in even shade. No candles, no hard shadow of any object.
+
+REALISM LOCK
+Real polished marble with chips, dull patches and grit in the joints; real hand-knotted wool with flattened pile; real oiled oak; real tin-glazed tiles with small glaze pops. Natural muted colour response, true photographic dynamic range, fine natural grain. No painterly strokes, no illustration, no CG sheen, no perfectly clean geometry, no video-game look.
+
+BANS
+No people, no animals, no ceiling fan, no modern objects, no legible text, no picture frame, no heraldic emblems, no oversaturated colour.
+Step 4. Leave the animals exactly as they are in the source
+Point
+
+There are four animals in the source: a small white fluffy thing by her feet, a puppy, a kitten, and a cluster of chicks. My plan was to replace all of them with different breeds.
+
+Short version: leaving them exactly as they are in the source is by far the most reliable.
+
+I ran it three times on the same source, with the same timings, changing only the instruction about the animals.
+
+What I asked for
+
+	
+
+What happened
+
+
+
+
+① No animals at all ("IN THIS VIDEO THAT DOG DOES NOT EXIST", "no object put there in its place")
+
+	
+
+The dog didn't go away. On top of that, a maroon cushion — which was a prop replacement from a different window — wandered over and settled where the dog had been
+
+
+
+
+② Replace them with other breeds of dog and cat
+
+	
+
+The orientation fell apart. Seen from overhead, the cat ended up on its back, looking up into the lens and twisting its body
+
+
+
+
+③ Leave them as they are in the source
+
+	
+
+All four animals, correct and on time
+
+Genjutsu wants to fill the slots that exist in the source. Empty one out and something nearby will move in to fill it.
+
+Swapping creatures works sometimes and not others. Here's how it split for me.
+
+What worked
+
+Creatures with no clear orientation. A curled-up ball of fur can become a different animal without breaking
+A group rather than a single animal. Turning the cluster of chicks into one Shiba Inu went through fine
+Replacements at roughly the same size and in the same posture as the original
+
+What didn't
+
+Removing a creature that's in the source. Row ① above. Writing the removal explicitly doesn't remove it
+Replacing a creature whose orientation is hard to read. A dog or cat seen from directly overhead seems hard to resolve. Replacements came out lying on their backs, looking into the lens, bodies twisting
+Adding a creature where there isn't one. Asking for a dog on an empty patch of floor gets you nothing
+
+Once you've decided to keep them, here's how to write it. Number them, close off each one's time window, and say that one takes over from the last.
+
+KEEP EVERY ANIMAL FROM THE SOURCE EXACTLY AS IT IS — the same animals as in the reference video, not redrawn as other animals. There are exactly four, each in its own time window, never two at once, never swapped with each other:
+1. the small white fluffy animal lying on the carpet at frame-right near her feet. ONLY from 0.0 s until the blade of WIPE A passes over it (about 6.6 s). It never appears at any other time.
+2. the small brown-and-white puppy at frame-right beside her knees. ONLY from about 6.6 s until the blade of WIPE B passes over it (about 9.9 s). It replaces the white fluffy animal in that moment; the white fluffy animal is gone.
+3. the small orange kitten at frame-right beside her body. ONLY from about 9.9 s until the blade of WIPE C passes over it (about 13.6 s). It replaces the puppy; the puppy is gone.
+4. the small group of fluffy yellow chicks at frame-right beside her knees. ONLY from about 13.6 s to the end. They replace the kitten; the kitten is gone.
+Each one keeps the source's look, colour, size, position, pose, movement and timing, and appears and disappears under the passing blades exactly as in the source.
+
+Three things are doing the work here.
+
+Numbering the animals 1, 2, 3, 4
+Writing "ONLY from A s to B s" so each one's time on screen is fenced at both ends
+Writing that when animal 2 arrives, animal 1 is gone
+
+The third one matters most. Without it, the previous animal stays put while the next one arrives, and you get two on screen at once. Spell out the handover and that stops.
+
+Step 5. Props can be replaced
+Point
+
+Props that exist in the source can be swapped for something else.
+
+The trick is to pick the replacement from the accessory panel of the costume sheet you built in Step 2. Describe a brand-new object in words and the model drags the old object's shape along with it. When I asked for the black handbag to become a book, I got a handbag in a different colour.
+
+Point at the fan or hand fan already drawn in Panel 4 and it goes through. No new image needed.
+
+- the flat envelope-like clutch at frame-left, level with her thighs, during about 6.8–10.0 s → a folded hand fan painted with a great wave, exactly as in the accessory panel of @cos_pearl_japan, lying on the carpet in the clutch's place, about the same size
+- the black handbag at frame-left, level with her knees, from about 14.2 s → a round silk hand fan painted with blue plum blossoms, exactly as in the accessory panel of @cos_pearl_china, lying on the carpet in the handbag's place, about the same size. No bag of any kind remains
+
+Three things are doing the work.
+
+Name the replacement as "@tag + which panel of that sheet it's on"
+Pin the position and the size: "in the handbag's place, about the same size"
+Negate the original by category — "No bag of any kind remains". Without this you get the same object in a new colour
+
+I deliberately left the remote control and the smartphone as they are.
+
+Step 6. Light and the sense of contact
+Point
+
+My first generation had her looking pasted onto the floor like a cardboard cut-out.
+
+It was the light. The source has warm sunlight coming in at an angle through a window. That disappeared in the output and left a flat, dark image. With no shadows, she floats above the floor.
+
+Pin the light, the shadows and the exposure to the source in a block of their own.
+
+★ LIGHT — KEEP THE SOURCE'S SUNLIGHT, SHADOWS AND EXPOSURE. ABSOLUTE
+Keep the source video's lighting exactly: the warm late-afternoon sunlight streaming in from the upper right of the frame, broken into bright parallel diagonal stripes by the window blinds, falling across the floor, the person and the clothes in the same places and with the same direction, warmth and softness as in the source.
+Keep the source's exposure and brightness: a bright, warm, sunlit image with glowing highlights — never darker, never greyer, never flatter, never desaturated compared with the source.
+Everything on the floor is lit by that same sunlight and casts real shadows from it: the person, every costume, every animal and every prop casts a soft shadow on the carpet away from the window, and the sunlit stripes fall across the costumes exactly as they fall across the source's clothes.
+
+Then take the lighting authority away from the floor plate. If the plate describes light, that description wins and the source's light disappears.
+
+@loc_delft_floor controls ONLY the floor, the carpet, the furniture at the edges, their colours and their materials. It has NO authority over the light — the lighting comes from the source video (see LIGHT).
+
+I also tried adding contact cues like "the fabric settles on the floor under its own weight". That backfired — the costume reads as laid out flat on the floor. Leave the fabric to the source's motion and let light and shadow do the grounding.
+
+Step 7. The video prompt (full)
+Point
+
+Everything above goes into one prompt. What you upload: the source video, the four costume sheets, and the floor plate. No animal images.
+
+It's long, but the shape is simple. Reference priority first, then what must not change, then the instructions in time order.
+
+The prompt I used
+Use the uploaded reference video as the immutable source for all camera work, motion, timing and duration: 16.18 seconds, vertical 9:16, ONE continuous shot from a camera mounted on the ceiling looking straight down at a person lying on the floor, with the blades of a ceiling fan very close to the lens in the foreground. There are no cuts anywhere in this video — do not add one.
+
+REFERENCE HIERARCHY — read first
+Priority 1: the reference video — the overhead camera, the single unbroken take, the person's movements, the fan blades' position, size, stillness, start-up and rotation, and the exact second of every change. Nothing below may alter any of it.
+Priority 2: the four costume sheets (@cos_pearl_original, @cos_pearl_japan, @cos_pearl_korea, @cos_pearl_china) — identity, costume, headdress and worn props of the single person on the floor, one sheet per time window.
+Priority 3: the animals are NOT replaced — the four animals of the reference video stay exactly as they are, each only in its own time window.
+Priority 4: @loc_delft_floor — environment only: the floor, the carpet, the furniture at the frame edges, their colours and their materials. The lighting is NOT taken from it — it comes from the reference video. It has NO authority over the person, the animals, their poses, their scale or the timing, and the video must never snap to it as a still frame.
+Every costume sheet has four panels. Panel 1 — the top-down lying view — is the authority for how that costume looks in this video. The other panels are construction references only. Ignore the pose of every sheet: the person performs the source person's movements.
+
+NON-NEGOTIABLE SOURCE LOCK
+Keep exactly: the overhead camera position and angle, the framing, the single continuous take, the 16.18-second duration, the person's position, scale and every movement, the three fan blades — their size, their hub at the left edge of the frame, their stillness, their start-up and their rotation speed — and the second at which each change begins and ends.
+There is one person on the floor at all times — never two, never none.
+Do not add cuts. Do not zoom, crop, pan, tilt or rotate. Do not change the aspect ratio.
+Only replace: the person's identity and costume, two of the props, the floor and room, and the surface of the fan blades. The animals, the remote control and the smartphone stay as they are.
+
+★ THE FAN IS OFF UNTIL SHE TURNS IT ON. ABSOLUTE
+0.0–3.3 s: the fan is NOT running. All three blades hang completely still in the source's resting position — one reaching up to the upper right from the hub at the left edge, one reaching down to the lower right. Nothing on her body changes while the fan is still.
+0.0–0.8 s: she lies turned onto her side, facing frame-left, not yet looking at the camera, then slowly rolls onto her back and turns her face up.
+0.8–1.4 s: without hurrying, she reaches to the floor at frame-right and picks up the small object lying there.
+1.4–3.4 s: she stretches that arm up and out toward the upper right, toward the fan, and holds the object there, aiming it at the fan as if pressing a button.
+3.3 s: the fan starts. The blades begin to turn slowly from a standstill, clockwise on screen.
+3.4–5.3 s: the blades speed up gradually, reaching their steady speed at about 5.0 s. She lowers her arm, lays the object on her body, and stretches out her legs. Still nothing about her clothing changes.
+Do not have the blades turning before 3.3 s. Do not start them at full speed. Do not change anything before 5.3 s.
+
+★ FAN SPEED — SLOW. ABSOLUTE
+From about 5.0 s to the end the fan turns slowly and evenly, clockwise on screen, at about 42 degrees per second — one full revolution takes about 8.6 seconds, so a blade crosses her body only once every 2.9 seconds or so. It is a lazy ceiling fan on a hot afternoon, never a fast spin. Do not speed it up at any point.
+
+★ THE BLADE IS THE WIPE — how every change happens
+There are exactly three changes, and each one is carried by one blade crossing her body. Because the hub is at the left edge of the frame and the fan turns clockwise, each blade crosses her from the head down to the feet.
+The change happens hidden under the blade: everything the blade has already swept past is NEW, everything it has not yet reached is still OLD. The boundary between old and new always lies underneath the blade — it is never visible in the open, never a soft blend across the body.
+WIPE A: the blade reaches her head at 5.3 s and clears her feet at 6.9 s (about 1.6 s).
+WIPE B: head at 8.5 s, feet at 10.6 s (about 2.1 s).
+WIPE C: head at 12.2 s, feet at 14.5 s (about 2.3 s).
+During each wipe the half-changed state — new costume above the blade, old costume below it — must be clearly visible. That is the whole trick of this video. Hold it for the full duration; do not rush it.
+Between the wipes nothing about the costume shifts, morphs, flickers or drifts. Blades that sweep past without crossing her body change nothing.
+
+★ WARDROBE SCHEDULE — absolute
+0.0 s until WIPE A → @cos_pearl_original
+after WIPE A until WIPE B → @cos_pearl_japan
+after WIPE B until WIPE C → @cos_pearl_korea
+after WIPE C until 16.18 s → @cos_pearl_china
+Four costumes, three changes. Do not add a fourth change. Do not skip one. Do not reorder them.
+
+★ IDENTITY LOCK
+There is one and the same person on the floor for the entire 16.18 seconds: the young woman of Vermeer's "Girl with a Pearl Earring", with the face of @cos_pearl_original. Her face, her build and her apparent age never change at any second — only her clothes change, under the three passing blades.
+No morphing, no merging, no duplication, no substitution. She is never replaced by anyone else, and no other person ever appears in the frame.
+
+★ MOOD
+The whole video is chill and unhurried — a slow afternoon at home. The person on the floor is relaxed and a little bored, not posing and not performing. Their movements are small and soft; their expression is calm. Nothing is urgent, even while the costumes change.
+
+★ LIGHT — KEEP THE SOURCE'S SUNLIGHT, SHADOWS AND EXPOSURE. ABSOLUTE
+Keep the source video's lighting exactly: the warm late-afternoon sunlight streaming in from the upper right of the frame, broken into bright parallel diagonal stripes by the window blinds, falling across the floor, the person and the clothes in the same places and with the same direction, warmth and softness as in the source.
+Keep the source's exposure and brightness: a bright, warm, sunlit image with glowing highlights — never darker, never greyer, never flatter, never desaturated compared with the source.
+Everything on the floor is lit by that same sunlight and casts real shadows from it: the person, every costume, every animal and every prop casts a soft shadow on the carpet away from the window, and the sunlit stripes fall across the costumes exactly as they fall across the source's clothes. The blades' out-of-focus shadows pass over the floor as in the source.
+
+★ CREATURES
+KEEP EVERY ANIMAL FROM THE SOURCE EXACTLY AS IT IS — the same animals as in the reference video, not redrawn as other animals. There are exactly four, each in its own time window, never two at once, never swapped with each other:
+1. the small white fluffy animal lying on the carpet at frame-right near her feet. ONLY from 0.0 s until the blade of WIPE A passes over it (about 6.6 s). It never appears at any other time.
+2. the small brown-and-white puppy at frame-right beside her knees. ONLY from about 6.6 s until the blade of WIPE B passes over it (about 9.9 s). It replaces the white fluffy animal in that moment; the white fluffy animal is gone.
+3. the small orange kitten at frame-right beside her body. ONLY from about 9.9 s until the blade of WIPE C passes over it (about 13.6 s). It replaces the puppy; the puppy is gone.
+4. the small group of fluffy yellow chicks at frame-right beside her knees. ONLY from about 13.6 s to the end. They replace the kitten; the kitten is gone.
+Each one keeps the source's look, colour, size, position, pose, movement and timing, and appears and disappears under the passing blades exactly as in the source.
+
+PROPS
+Two props stay exactly as they are in the source — the same object, the same look, the same size, the same position and the same timing. Do not restyle, replace or remove them:
+- the black ceiling-fan remote control she picks up at 0.8–1.4 s, aims at the fan at 1.4–3.4 s and lays on her body afterwards
+- the black smartphone on the floor at frame-left beside her hand from about 14.0 s, which the person on the floor picks up at about 15.6 s
+The source's other two props are replaced by accessories taken from the costume sheets, matching each one's position and timing:
+- the flat envelope-like clutch at frame-left, level with her thighs, during about 6.8–10.0 s → a folded hand fan painted with a great wave, exactly as in the accessory panel of @cos_pearl_japan, lying on the carpet in the clutch's place, about the same size
+- the black handbag at frame-left, level with her knees, from about 14.2 s → a round silk hand fan painted with blue plum blossoms, exactly as in the accessory panel of @cos_pearl_china, lying on the carpet in the handbag's place, about the same size. No bag of any kind remains
+No other object is added to the floor.
+
+ENVIRONMENT — @loc_delft_floor
+Replace the source's rug, wooden floor, sofa and window light with the floor of @loc_delft_floor: a black-and-white marble checkerboard set on the diagonal, a "Turkey carpet" with a deep indigo ground and ochre and brick-red medallions laid across the centre of the frame, the foot of a plain oak chair and the lower hem of a heavy butter-yellow wool curtain at the top edge of the frame, and a row of small blue-and-white Delft tiles in the skirting at the left edge..
+@loc_delft_floor controls ONLY the floor, the carpet, the furniture at the edges, their colours and their materials. It has NO authority over the light — the lighting comes from the source video (see LIGHT). The room is built underneath the existing camera and lit by the source's light: keep the source's camera height and framing exactly, and the person lies at the same place in the frame and at the same scale as in the source.
+No electric light fixtures, no legible text, no picture frame, no heraldic emblems.
+
+FAN BLADES
+The three blades keep the source's exact size, shape, hub position at the left edge of the frame, closeness to the lens, strong out-of-focus blur, stillness until 3.3 s, start-up and slow rotation. They are the clock of this video and must not change in any way. Only their surface changes.
+They become the sails of a Dutch windmill: dark tarred oak frames with heavy weathered canvas stretched over the ENTIRE surface of each sail, so every sail is completely solid and opaque — no gaps, no lattice holes, nothing visible through it. They must stay as dark and as solid as the source's wooden blades, because they hide the change underneath them. Weathered and hand-made, never machined or painted.
+The central hub and its metal fittings become turned wood and blackened hand-forged iron.
+
+CAMERA AND FRAMING
+The camera is fixed overhead, perfectly perpendicular to the floor, and does not move for the entire 16.18 seconds. Keep the source's focal length, perspective, depth of field, framing and shot scale. One continuous take. No cut, no dissolve, no flash frame, no hidden transition, no camera reset.
+
+TEMPORAL CONSISTENCY
+Strong frame-to-frame consistency. Within each window the face, the costume, the props and the animal stay identical. No flickering, no drifting patterns, no morphing embroidery, no disappearing limbs, no duplicated people or animals, no warped hands. Motion blur on the blades only.
+
+REALISM
+Photorealistic live action, as if shot on a full-frame cinema camera on a built set: real skin with pores, real woven silk, wool, linen and velvet with weight and creasing, real metal with tarnish, real animal fur with individual hairs, real worn stone and knotted wool underfoot. No painterly rendering, no illustration, no CG sheen, no plastic skin.
+
+FINAL REQUIREMENT
+Follow the reference video's camera, single take, movements, fan stillness, start-up and slow rotation, the timing of the three wipes and the 16.18-second duration as closely as possible, changing only: the identity and costume of the one person on the floor according to the WARDROBE SCHEDULE, two of the props, the floor and room, and the surface of the blades. The animals, the remote control and the smartphone stay exactly as in the source.
+Wrap-up
+
+Three things I took away from this one.
+
+First. Measure the source before you generate. How many costumes, the seconds of each change, the fan speed. Eyeball those and you'll be rebuilding everything later.
+
+Second. Leaving the animals as they are in the source is the reliable path. Unless changing the species is the point of the piece, design it that way from the start. You can't remove them.
+
+Third. Take the light from the source. Hand the lighting to a background plate and you get a flat image with a figure floating on top of it.
+
+
+
+
+Thanks for reading! If anything's unclear, let me know in the comments.
+
+
+
+
+Make original video with Higgsfield Genjutsu 
+
+https://higgsfield.ai?fpr=shion-337760

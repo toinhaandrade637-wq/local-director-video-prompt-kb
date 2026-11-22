@@ -1,0 +1,151 @@
+{
+  "knowledge_base": "higgsfield-canvas-kb",
+  "version": "0.3.0",
+  "updated": "2026-11-13",
+  "tree": "知识树 v2：语义命名+重写制+skills 果实层；旧编号体系已退役（对照存事件记录）",
+  "navigation": {
+    "index": "现行知识/索引.md",
+    "by_task": "现行知识/按任务查.md",
+    "by_problem": "现行知识/按问题查.md",
+    "skills": [
+      "skills/hf-video-prompt/SKILL.md",
+      "skills/hf-image-prompt/SKILL.md"
+    ],
+    "workflow": "维护/工作流程.md",
+    "source_registry": "维护/来源登记.md",
+    "pending_validation": "维护/待验证问题.md",
+    "validation_report": "维护/验证报告.md",
+    "practice_log": "实践记录/任务索引.md"
+  },
+  "knowledge_pages": [
+    {
+      "id": "视频/03",
+      "title": "运镜与空间",
+      "path": "现行知识/视频/03-运镜与空间.md",
+      "status": "trial",
+      "updated": "2026-11-13",
+      "rewritten": true
+    },
+    {
+      "id": "视频/04",
+      "title": "动作与打戏",
+      "path": "现行知识/视频/04-动作与打戏.md",
+      "status": "trial",
+      "updated": "2026-11-13",
+      "rewritten": true
+    },
+    {
+      "id": "视频/05",
+      "title": "多主体调度",
+      "path": "现行知识/视频/05-多主体调度.md",
+      "status": "trial",
+      "updated": "2026-11-13",
+      "rewritten": true
+    },
+    {
+      "id": "视频/06",
+      "title": "VFX与合成",
+      "path": "现行知识/视频/06-VFX与合成.md",
+      "status": "trial",
+      "updated": "2026-11-13",
+      "rewritten": true
+    },
+    {
+      "id": "视频/07",
+      "title": "声音与音频",
+      "path": "现行知识/视频/07-声音与音频.md",
+      "status": "trial",
+      "updated": "2026-11-13",
+      "rewritten": true
+    },
+    {
+      "id": "生图/01",
+      "title": "生图提示词方法",
+      "path": "现行知识/生图/01-生图提示词方法.md",
+      "status": "trial",
+      "updated": "2026-11-13",
+      "rewritten": true
+    },
+    {
+      "id": "生图/02",
+      "title": "质感与后期",
+      "path": "现行知识/生图/02-质感与后期.md",
+      "status": "trial",
+      "updated": "2026-11-13",
+      "rewritten": true
+    },
+    {
+      "id": "通用/01",
+      "title": "色彩与HEX",
+      "path": "现行知识/通用/01-色彩与HEX.md",
+      "status": "trial",
+      "updated": "2026-11-13",
+      "rewritten": true
+    },
+    {
+      "path": "现行知识/视频/01-提示词结构.md",
+      "track": "视频",
+      "rewritten": true,
+      "updated": "2026-11-13"
+    },
+    {
+      "path": "现行知识/视频/02-参考分工.md",
+      "track": "视频",
+      "rewritten": true,
+      "updated": "2026-11-13"
+    },
+    {
+      "path": "现行知识/通用/02-模型手册.md",
+      "track": "视频",
+      "rewritten": true,
+      "updated": "2026-11-13"
+    },
+    {
+      "path": "现行知识/通用/03-术语表.md",
+      "track": "视频",
+      "rewritten": true,
+      "updated": "2026-11-13"
+    },
+    {
+      "id": "视频/08",
+      "title": "叙事与系列方法论",
+      "path": "现行知识/视频/08-叙事与系列方法论.md",
+      "status": "trial",
+      "updated": "2026-11-13",
+      "rewritten": true
+    },
+    {
+      "id": "通用/04",
+      "title": "运营与变现方法论",
+      "path": "现行知识/通用/04-运营与变现方法论.md",
+      "status": "trial",
+      "updated": "2026-11-13",
+      "rewritten": true
+    }
+  ],
+  "growing_candidates": [
+    {
+      "id": "视频/01",
+      "title": "提示词结构总纲",
+      "素材": "ANERNEQ/VENGEANCE/SEED_AUDIO 块语法（从原文重长）"
+    },
+    {
+      "id": "视频/02",
+      "title": "参考分工",
+      "素材": "绑定表/引用五代谱（深读蒸馏重长）"
+    },
+    {
+      "id": "通用/模型手册",
+      "title": "模型矩阵",
+      "素材": "官方面板+实测脚本（Q08 videotape-alpha）"
+    },
+    {
+      "id": "通用/世界圣经",
+      "title": "世界圣经块",
+      "素材": "ANERNEQ THE WORLD/SCALE AND TRUTH"
+    }
+  ],
+  "event_log": "维护/事件记录.md",
+  "check_script": "维护/check_kb.js",
+  "corpus_pointer": "资料库指针.md"
+}

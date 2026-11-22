@@ -1,0 +1,215 @@
+请生成一条30秒的一镜到底视频，脚本：6 位模特依次接力入画，整段运镜穿梭到底，配乐卡点切换造型。@图片1 戴着 @图片2 在 @图片3 的场景中，音效参考 @音效1。@图片3 穿着 @图片4，戴着 @图片五 的帽子，戴上了 @图片6 墨镜，端着咖啡走出来，背景是 @图片7 摆放着 @图片8，音效参考 @音效2。@图片9 在 @图片10 的场景中，穿着 @图片11 和 @图片12 摆 pose。@图片13 拎着 @图片14，穿着 @图片15 在 @图片16 中走，音效参考 @音效3。@图片17 头戴 @图片18，拎着 @图片19，在 @图片20 走来，音效参考 @音效4。@图片21 戴着 @图片22 在 @图片23 走秀，音效参考 @音效5。
+
+ |
+[媒体占位：按用户要求不观看]
+ |
+
+
+### 商品使用指导视频 // 30s 直出+参考
+
+Prompt |
+参考素材 |
+Seedance 2.5 生成结果 |
+
+产品是@图片1,安装使用说明是@图,2,创作一段蒸烤一体机的首次使用全流程视频。
+
+ |
+[媒体占位：按用户要求不观看][媒体占位：按用户要求不观看] |
+[媒体占位：按用户要求不观看]
+ |
+
+
+### 爆款视频复用 // 全模态参考
+
+Prompt |
+参考素材 |
+Seedance 2.5 生成结果 |
+
+参考 @视频1 的运镜方式与剪辑节奏，生成一条耳机@图片的广告短片。适配符合产品调性的场景，强调现代、简洁、科技感。产品特写与场景全景的切换点与原片一致，保持同样的运动速度与转场方式。
+
+ |
+[媒体占位：按用户要求不观看]
+[媒体占位：按用户要求不观看] |
+[媒体占位：按用户要求不观看]
+ |
+
+
+### 电商 SKU 批量复用   // 参考+视频编辑
+
+> 同一镜头内批量替换商品款式 / 颜色，一次拍摄覆盖整条 SKU。
+
+Prompt |
+Seedance 2.5 生成结果 |
+
+汽水饮品图是@图片1,场景图@图片2，通过特写、近景、中景、远景镜头对汽水饮品进行展示,镜头衔接连贯,主体保持一致。
+
+把@视频1中的汽水饮料瓶替换成@图片3粉色饮料瓶
+
+把@视频2中的汽水饮料瓶替换成@图片4紫色饮料瓶
+
+把@视频3中的汽水饮料瓶替换成@图片5绿色饮料瓶
+
+ |
+[媒体占位：按用户要求不观看]
+ |
+
+
+### 出海广告本地化适配   // 多语种+视频编辑
+
+> 镜头与节奏不变，快速更换人种 / 商品 / 文案产出多地区版本。
+
+Prompt |
+参考素材 |
+Seedance 2.5 生成结果 |
+
+@图片 1 是产品图，@图片 2是主播和场景图。主播在说台词的同时，双手和台词进行同样的挥动讲解。表情真实自然。
+0-2 秒：@图片 2 固定镜头，主角对着镜头说中文，台词是「清晨第一杯咖啡，等不了。」。
+(2–5s)按下开关，固定镜头，台词是「按一下，3 秒出杯。」
+(5–9s)继续看着镜头说，台词是「办公室、出差、深夜赶稿——现磨咖啡随身就有。」
+(9–12s)看着镜头说，台词是「打工人续命神器，限时直降。」
+
+将视频中的人物换成美国女性，将文案旁白改成英语。
+将视频中的人物换成西班牙男性，将文案旁白改成西班牙语。
+将视频中的人物换成印度尼西亚女性，将文案旁白改成印度尼西亚语。
+将视频中的人物换成马来西亚男性，将文案旁白改成马来西亚语。
+
+ |
+[媒体占位：按用户要求不观看][媒体占位：按用户要求不观看] |
+[媒体占位：按用户要求不观看]
+ |
+
+
+### 家居装修方案演示 //参考+视频编辑
+
+> 仅凭一句简单提示词，模型即可在同一空间基础上重新演绎全新装修风格：墙面材质、家具形制、软装配色、灯光氛围整体切换，同时保持房型结构与镜头调度不变，让设计师能在客户沟通现场快速试装、比对多套方案。
+
+Prompt |
+Seedance 2.5 生成结果 |
+
+Use the input video as the exact source and preserve the original camera movement, timing, composition, room layout, lighting, shadows, furniture positions, and all objects.
+Only edit two materials in the living room:
+1. Replace the light fabric sofa on the right side of the room with a rich brown leather sofa. Keep the exact same sofa shape, size, position, cushion layout, armrests, backrest, and perspective. The new sofa should look like realistic brown leather, with natural leather grain, subtle wrinkles, stitching, soft glossy highlights, and physically believable reflections from the window light.
+
+2. Replace the visible warm wooden floor with polished white marble flooring. Keep the exact same floor plane, perspective, scale, and room geometry. The marble should be white to light gray with natural subtle veins, realistic seams, and controlled polished reflections. The marble reflections should respond to the window light, furniture legs, plants, sofa base, and room shadows.
+
+Everything else must remain unchanged: the window, curtains, walls, wall art, TV, TV console, plants, rug, coffee table, books, radiator, shelves, doorframe, lighting, shadows, camera motion, and overall warm interior atmosphere. The rug and coffee table stay exactly where they are, on top of the new marble floor. The edit should look like a realistic interior renovation, not a new generated room.
+
+Maintain temporal consistency across the full video. The sofa and floor materials must remain stable from frame to frame with no flickering, warping, melting, or object changes. Preserve the original video’s natural daylight, warm tone, soft shadows, lens behavior, and smooth camera movement.
+Negative Prompt
+Do not change the room layout. Do not move furniture. Do not add or remove objects. Do not change the rug, coffee table, TV, plants, curtains, window, wall art, shelves, radiator, or doorframe. Do not change the camera movement. Do not change the sofa shape or size. Do not make the leather look plastic. Do not make the marble overly reflective like a mirror. Do not create broken or chaotic marble veins. Do not replace the rug with marble. Do not alter the walls or ceiling. No people, no text, no logo, no UI, no selection mask, no fantasy effect, no melting transition, no flickering.
+
+ |
+[媒体占位：按用户要求不观看]
+ |
+
+
+## 4.3 ｜知识科普 📚
+
+### 货币的演变 // 30秒直出
+
+> 用木质桌面上的微缩世界，把从以物易物、贝币铜钱、宋代交子、现金卡片一路讲到今天移动支付的五千年货币史，串成一个连续镜头，可用作科普短视频或课堂开场素材。
+
+Prompt |
+Seedance 2.5 生成结果 |
+
+一段30秒的定格动画微缩视频，用英文讲解。在一张温暖的木桌上，五个微型世界从左到右依次排开——以物换物、贝壳与铜钱、宋代纸币、现代现金与银行卡、当今移动支付。镜头缓缓横移，扫过这条手工打造的货币时间线，画面中有黏土小人、移轴镜头，配以平静的英文旁白。五千年货币史，在一个连续长镜头中娓娓道来——从握在手心的重量，到放在口袋里的轻盈。
+
+ |
+[媒体占位：按用户要求不观看]
+ |
+
+
+### 天文知识可视化   // 30秒直出
+
+> 将抽象原理转化为连续可视化视频
+
+Prompt |
+Seedance 2.5 生成结果 |
+
+生成一条科普视频，在讲月球是如何诞生的。画面质感要有电影感，视觉效果要强，在爆炸/汇聚的过程中要有视觉的张力。要符合事实情况，遵循科学依据。
+
+0-2s：太空远景，画面下方是地球弧面与蓝色大气层，上方远处有一颗暗红色小天体悬在黑色宇宙中，镜头基本静止，缓慢呈现地球与天体的距离关系
+2-3s：切到近景，一颗表面布满橙红熔岩裂缝的巨大天体靠近地球边缘，地球大气层在右下方形成蓝色弧线，镜头静止，天体压迫感增强
+台词：45亿年前，地球被一颗火星大小的天体撞击
+3-5s：熔岩天体撞击地球边缘，强烈白橙色爆光从接触点喷发，大量炽热碎片和火焰沿地球表面向外飞散，镜头跟随爆炸冲击连续推进
+5-8s：撞击后的炽热物质在太空中汇聚成发光的橙红熔融球体，周围有碎片和尘埃盘旋，背景可见地球一侧，镜头由近到远缓慢拉开
+8-10s：地球旁边出现发光的环状熔融物质与碎片带，橙红色物质围绕地球轨道分布，黑色太空背景，镜头保持远景观察
+台词：撞击让两者部分熔化，物质被甩入地球轨道
+10-12s：切到月面近景，灰色坑洼地表上布满橙红色熔融裂缝，碎石和尘埃散落，画面从灼热裂缝逐渐过渡到冷却的灰色表面
+12-14s：灰色月面继续成形，坑洼地貌更稳定，画面右侧出现月球边缘和暗面，镜头缓慢拉远，表现月球从碎片中聚合完成
+台词：碎片在几千万年内，聚成了月球，你头顶的月亮，就是这次撞击的产物
+14-21s：地球与月球同框，镜头拉远，月球在远离地球的方向上运动。地球和月球中间出现标尺，标尺上有数字的不停生长
+台词：它至今仍以每年3.8厘米的速度远离地球
+
+ |
+[媒体占位：按用户要求不观看]
+ |
+
+
+### 儿童科普动画   // 30 秒直出
+
+> 国风插画长卷配合旁白逐句讲解，画面随讲述连续展开。
+
+Prompt |
+Seedance 2.5 生成结果 |
+
+儿童向丝路文化科普动画短片，敦煌壁画与丝路长卷风格，岩彩平面动画，矿物颜料质感，赭石、绢白、石青、石绿、黛青、朱砂、金线点缀，平面分层，长卷式流动构图，不要真实摄影，不要 3D 写实，不要幼稚卡通。重点突出石榴的由来与传播，不强调现代饮用方式，现代部分控制在 7 秒以内。
+00:00-00:04，一幅丝路长卷缓缓展开，枝头出现一颗轻轻晃动的石榴。口播：“你知道吗？我们今天常见的石榴，其实很早很早以前，就来自中国西边很远的地方 —— 西域。”
+00:04-00:08，一只手轻轻摘下石榴，把它捧起，远山、纹样和道路展开。口播：“一开始，它生长在阳光充足的土地上。后来，人们把它带上旅途，准备去更远的地方。”
+00:08-00:15，驼队带着石榴穿过沙漠、绿洲和城门。口播：“石榴跟着驼队慢慢往前走。一路上，它要穿过沙漠，经过绿洲，还要走过高高的城门。这条很长很长的路，就是古代有名的丝绸之路。”
+00:15-00:20，石榴随着商旅进入更多城镇与生活场景。口播：“丝绸之路运送的，不只有丝绸。很多远方的水果、香料和种子，也会沿着这条路来到新的地方。石榴就是这样，慢慢被更多人认识了。”
+00:20-00:23，石榴被切开，露出像红宝石一样的果粒。口播：“后来，人们发现，石榴不仅好看，里面还藏着许多像红宝石一样的小果粒。”
+00:23-00:27，长卷中的古代场景慢慢过渡到今天，石榴出现在现代桌面，一群小朋友围坐在一起吃石榴。口播：“就这样，经过很长很长的传播，石榴从西域出发，最后走进了今天的生活。”
+00:27-00:30，枝头石榴、驼队、沙漠、绿洲、城门和今天桌上的石榴在长卷中汇合。口播：“所以，一颗小小的石榴，也藏着一段跨越土地和时间的旅行。”
+
+ |
+[媒体占位：按用户要求不观看]
+ |
+
+
+### 真人口播知识讲解   // 30 秒直出
+
+> 真人全程口播配合实物道具自然演示，口型与节奏连贯。
+
+Prompt |
+Seedance 2.5 生成结果 |
+
+扎羊角辫的6岁小女孩坐在沙发上，面前摆着各朝代瓷器小模型，举着模型一一介绍： ①举粗陶小罐：「最早的瓷器是从陶器变来的哦，商朝就有原始瓷啦」，背景淡入商朝原始瓷文物画面； ②举青釉小碗：「唐朝越窑的青瓷、邢窑的白瓷最有名，还有花花的唐三彩」，背景淡入唐三彩文物画面； ③举天青色小碟子：「宋朝的瓷器最好看，汝窑的天青色要等雨过天晴才能烧出来哦」，背景淡入汝窑文物画面； ④举青花瓷小瓶：「明清的时候青花瓷、珐琅彩就都有啦，还卖到全世界呢」，背景淡入青花瓷文物画面。 最后小女孩举着自己画的青花瓷画对着镜头笑，配轻快儿童BGM。
+
+ |
+[媒体占位：按用户要求不观看]
+ |
+
+
+### 结构拆解与原理还原   // 全模态参考
+
+> 参考视频运镜与节奏，还原参考图背后的结构与逻辑。
+
+Prompt |
+参考素材 |
+Seedance 2.5 生成结果 |
+
+参考@视频1的创意生成视频，要求 还原@图片1 @图片2 @图片3 @图片4 房子组装全过程。
+
+ |
+[媒体占位：按用户要求不观看]
+[媒体占位：按用户要求不观看]
+
+[媒体占位：按用户要求不观看]
+[媒体占位：按用户要求不观看]
+[媒体占位：按用户要求不观看]
+
+
+ |
+[媒体占位：按用户要求不观看]
+ |
+
+
+### 航海纪念馆多语言讲解 // 多语言
+
+> 同一位讲解员穿行于航海纪念馆不同展区，面对不同文物自然切换 **英语 → 新加坡口音中文 → 马来语 → 日语**，人物形象、口型、语速与情绪全程一致。
+
+Prompt |
+Seedance 2.5 生成结果 |
+
+30s multilingual Southeast Asian heritage museum documentary. One guide leads through four connected galleries about trade, migration, craft, and Singapore's regional history. Warm, authentic museum realism, not tourism advertising.

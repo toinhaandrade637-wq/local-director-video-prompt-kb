@@ -1,0 +1,360 @@
+How to Make an Anime Series with AI on Higgsfield
+Higgsfield Explore
+Image
+Video
+Audio
+MCP
+API
+
+Genjutsu New
+Content Factory New
+Playable New
+AI Influencer
+Academy New
+Katana
+ChatGPT Plugin
+Ads Studio
+Effects
+Cinema Studio
+Contests Contests
+Marketing Studio
+Supercomputer
+Edit
+Community
+Plugins
+Canvas
+Originals
+
+Creator Hub
+
+Creator Hub Help center Blog Changelog Customer Stories Search Creator Hub
+On this page
+
+What Goes into Making an Anime Series with AI?
+Plan the Story, Characters, and Visual Style
+How to Create Anime Scenes on Higgsfield: Two Workflows
+What Are Soul 2.0, Cinema Studio 4.0, and Genjutsu?
+Workflow 1: Create Anime References and Animate Them
+Workflow 2: Restyle Existing Footage into Anime with Genjutsu
+Keep Characters and Visuals Consistent Across Episodes
+Assemble the Shots into an Episode
+Fix Common AI Anime Problems
+
+Blog
+/
+Guides
+/
+AI Anime Series
+
+Back
+How to Make an Anime Series with AI on Higgsfield
+
+Higgsfield Oct 31, 2026 10 min
+
+To make an anime series with AI on Higgsfield , create anime reference images with Soul 2.0 and animate them in Cinema Studio 4.0 , or restyle existing footage into anime with Genjutsu . An AI anime series combines a story, recurring characters, a recognizable visual style, and an edit that connects individual shots. The script establishes what happens in each scene, while character and location references guide its appearance. Dialogue, music, and sound effects complete the episode.
+What Goes into Making an Anime Series with AI?
+An AI anime series rests on six things that have to stay aligned from the first episode to the last: story, characters, visual style, shots, sound, and edit. The story has a beginning, a turn, and an ending, split into scenes. Recurring characters keep recognizable faces and proportions. One visual style sets the line work, color, and lighting. Short shots each hold one action. Sound means dialogue, music, and effects. The edit sets the order, the cuts, and the pacing.
+Plan the Story, Characters, and Visual Style
+Story: Outline the pilot’s main character, conflict, and ending. Break each scene into shots with a location, action, and approximate duration.
+Characters: Define consistent facial features, proportions, outfits, and distinguishing details.
+Locations: Establish a small set of recurring settings with reusable descriptions and references.
+Visual style: Fix the line work, palette, and level of detail. Reuse a style description such as “soft cel shading, clean outlines, pastel colors.”
+Runtime: Estimate the shot count from the episode length. Five minutes requires roughly 30 finished shots averaging 10 seconds each.
+How to Create Anime Scenes on Higgsfield: Two Workflows
+The workflows below use three Higgsfield tools. Soul 2.0 creates anime reference images, Cinema Studio 4.0 develops those images into moving shots, and Genjutsu applies a new visual treatment to existing footage.
+What Are Soul 2.0, Cinema Studio 4.0, and Genjutsu?
+Soul 2.0 is Higgsfield's image model for character images. It is the starting point of the first workflow, where it produces the anime reference for each shot, and the characters it creates can be saved for reuse across a series.
+Cinema Studio 4.0 is the filmmaking workspace used to turn the selected reference image into a moving shot. The image establishes the character, setting, and composition; the motion prompt describes the action. Camera and generation settings then shape how the scene develops on screen.
+What Are Soul 2.0, Cinema Studio 4.0, and Genjutsu? Setting
+What It Controls
+Use for Anime
+
+Genre
+Light, blocking, and pacing: General, Action, Epic, Drama, Comedy, Horror, Noir
+Action for fights, Drama for quiet scenes
+
+Tempo
+How fast the edit cuts: Auto, Chaotic, Dynamic, Calm, Single Shot
+Dynamic for chases, Calm for dialogue
+
+Camera movement
+30+ presets, including POV, Robot Arm, Pan Left, Dolly In, and Helicopter Shot
+One simple movement per shot
+
+Color Palette
+50+ templates
+A palette that matches the series style
+
+Lighting
+Presets such as Window, Contre-jour, and Soft Cross, or manual control
+Warm or backlit light for sunset scenes
+
+Emotion Wheel
+Eight emotions tagged to a character
+Facial expression and body language
+
+References
+Up to 50 per generation
+The approved Soul 2.0 image of each character
+
+Higgsfield Genjutsu is a video-to-video tool for changing a clip that already exists, whether it is real footage or generated video. It accepts a source video of 4 to 30 seconds and up to 30 reference images, and it outputs 480p, 720p, or 1080p.
+How to Make an Anime Series with AI on Higgsfield Mode
+What It Does
+
+Motion transfer
+Takes the movement from the source video and builds a new scene around it. Its Style block redraws the whole clip in a chosen look, such as an anime style.
+
+Object swap
+Replaces a chosen person, product, outfit, or text while the rest of the shot stays as filmed
+
+Genjutsu Lite is a faster, lower-cost version that works without a mode choice and accepts up to 10 reference images.
+Workflow 1: Create Anime References and Animate Them
+This workflow starts with an original image. Soul 2.0 establishes the character, setting, and anime style, while Cinema Studio develops the selected reference into a moving shot. Each scene is built from individual shots that can later be assembled into an episode.
+Step 1: Generate an Anime Reference in Soul 2.0. Create an image that clearly establishes the character and the scene. The prompt should describe the character’s appearance, the environment, the composition, and the intended anime style.
+Step 2: Select the Reference Image. Compare the generated images for composition, facial features, proportions, and clothing details. The selected frame should match the planned shot and make the character easy to recognize. Save the approved image as the reference for this shot. For later scenes, keep a consistent description of the character’s appearance and compare new images with the approved design.
+Step 3: Upload the Reference to Cinema Studio. Open Cinema Studio and upload the selected image as the visual starting point for the video. The reference establishes the scene’s appearance, while the motion prompt describes what happens next.
+Check that the composition leaves enough space for the intended action. A character turning toward the camera needs different framing from one walking across the rooftop.
+Step 4: Configure the Shot. Open Camera → Movement and choose a camera move. The rooftop example uses Dolly in, a slow forward move that gradually brings attention to the character’s face.
+Set the duration (4 to 30 seconds), the resolution (480p, 720p, or 1080p), and the aspect ratio for the intended output. A short test clip makes it easier to assess the movement before developing the rest of the scene.
+Step 5: Describe the Movement and Generate. The video prompt should focus on the action and camera movement, while remaining consistent with the uploaded image.
+Generate the clip, then review the face, clothing, motion, and background. If the result changes important character details or introduces distracting movement, refine the prompt or reference before generating another version.
+Step 6: Prepare the Next Shot. Create or select a reference for the next composition using the approved character design and visual style. The next shot might show a closer expression, a wider view of the rooftop, or another character’s reaction.
+Framing and camera movement can change with the story. Character features, clothing continuity, and the overall visual treatment should remain consistent across the sequence.
+Workflow 2: Restyle Existing Footage into Anime with Genjutsu
+This workflow starts with footage that already contains the action. Genjutsu uses the source video as a motion reference, while the selected style and optional image references guide its new appearance. It suits scenes where a performance or camera movement has already been filmed or generated.
+Step 1: Upload the Source Video. Open Genjutsu, select Motion transfer, and upload a source video between 4 and 30 seconds long. The source can be filmed footage or a previously generated clip. If the footage shows real people, use only footage you own or have permission to use. Choose footage with a clear subject and readable movement. Longer scenes should be divided into shorter clips before processing.
+
+Your browser does not support the video.
+
+Step 2: Choose and Apply an Anime Style. Open the style selector and choose an anime treatment. For this example, select Cel-Shaded CG Anime and apply it to the generation. Use the same selected style across related clips to establish a shared visual direction. Different source footage may still produce variations that need to be reviewed.
+Step 3: Add Character References if Needed. Add reference images when the result needs a particular character appearance. Genjutsu supports up to 30 reference images, but the selection should focus on the characters and details relevant to the shot.
+For a series, use images from the approved character reference set. Clear views of the face, clothing, and proportions provide a stronger visual guide than unrelated images.
+Step 4: Generate the Anime Version. Review the source video, applied style, and any uploaded references. If a written description is needed, enable Prompt and describe the intended result in terms that agree with the selected style and references.
+Start the generation. The source clip provides the motion, while Genjutsu creates a new visual interpretation of the scene.
+Step 5: Review the Result Against the Source. Compare the generated clip with the original footage and the approved character design. Check the main action, facial features, clothing, camera movement, and any props or background details important to the story.
+A clip should also fit the shots around it. Differences in color, character appearance, or movement may require another version before the result is added to the episode.
+
+Your browser does not support the video.
+
+Keep Characters and Visuals Consistent Across Episodes
+Each character needs an approved reference set: a main design, several views, and key expressions with matching facial features and proportions. References should suit the planned shot, and new angles should be checked against the original design.
+A consistent style description helps preserve line work and color across image generations, while the same Genjutsu style provides a shared direction for restyled footage. Clothing should remain consistent within a scene, and recurring locations should follow approved references. Every result still needs a visual check before entering the edit.
+Assemble the Shots into an Episode
+Arrange the approved shots in an editor according to the scene list. Trim each clip around the action and check that cuts preserve the characters’ positions and direction of movement. Shorter cuts can build momentum, while longer takes leave room for dialogue and quieter moments.
+Dialogue, music, and sound effects complete the scene. Recurring characters need consistent voices, and visible speech requires a check of mouth movement and audio timing. Background audio should support the dialogue without overpowering it.
+Fix Common AI Anime Problems
+Changing faces or outfits: Return to the approved reference and clarify the relevant character details before regenerating the affected shot.
+Flickering accessories or props: Simplify small details where possible. A targeted edit or corrected reference may help, but the revised clip still needs a full check.
+Unnatural movement: Simplify the action and camera movement, or divide a complex sequence into shorter shots.
+Mismatched styles: Compare the clip with the series references and align the palette, line work, and selected style.
+Extra people or text: Specify the intended subjects and background, then check the result for unwanted additions.
+
+Retries are part of production, so the budget should allow for additional versions of important shots.
+
+How to Make an Anime Series with AI on Higgsfield
+Try Cinema Studio
+
+Got any questions left?
+What is the difference between the two workflows? The Soul 2.0 and Cinema Studio 4.0 workflow creates new shots: Soul 2.0 makes anime reference images, and Cinema Studio 4.0 animates them with camera, lens, and lighting controls. The Genjutsu workflow starts from footage that already exists and restyles it into anime while keeping its movement. Use Soul 2.0 and Cinema Studio 4.0 for a story told from scratch, and Genjutsu for footage that is already shot or generated.
+
+What are the requirements for the source video in Genjutsu? A source video of 4 to 30 seconds, either real footage or generated video, with up to 30 reference images for characters. Longer footage is split into several clips.
+
+How can characters stay consistent across shots and episodes? An approved reference set, a stable character description, and a shared visual style help reduce variation. Each generated shot is compared with the established design before it enters the edit.
+
+How long should each shot be? Plan for about 10 seconds per shot on average, so a five-minute episode needs roughly 30 shots. The exact length depends on the action, dialogue, and pacing of the scene. Cinema Studio 4.0 generates clips of up to 30 seconds, and Genjutsu accepts source clips of 4 to 30 seconds.
+
+How are dialogue, music, and sound effects added? Cinema Studio generates native audio with the video, and Lipsync Studio animates a character image to a script or an audio track. Recorded or generated dialogue can be combined with music and sound effects in an editor, and the final review checks voice consistency, speech timing, and the balance between dialogue and background audio.
+
+How should an episode be prepared for publishing? The shots are assembled and trimmed in an editor, the sound is balanced, and the final file is exported in the format of the channel, 16:9 for horizontal video and 9:16 for vertical. Higgsfield's Reframe tool changes the aspect ratio of a finished video, and the result is checked so faces, actions, and subtitles stay visible.
+
+by Higgsfield
+
+8 Best AI Image Upscalers in 2026 (Free and Paid) 7 Best AI UGC Video Tools for Marketing Agencies in 2026
+
+Discover more
+View all
+
+Guides Higgsfield Cinema Studio 4.0: Complete Guide
+10 min · Oct 27, 2026
+
+Guides How to Make an AI Animated Short Film in 2026
+10 min · Sep 26, 2026
+
+Guides How to Keep Characters and Art Style Consistent Across an AI Animated Series
+10 min · Oct 5, 2026
+
+Guides How to Master AI Filmmaking (Full Guide)
+7 min · Oct 23, 2026
+
+Guides How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)
+7 min · Oct 27, 2026
+
+Guides How to Edit Videos with AI (Full Guide)
+10 min · Oct 24, 2026
+
+AI-native creative suite
+Create
+AI Video
+AI Video Effects
+AI Image
+Edit Image
+Inpaint
+Upscale
+Sora 2 Upscale
+Mixed Media
+AI Face Swap
+AI Influencer
+Apps
+
+Video Models
+Seedance 2.5
+Seedance 2.0
+Kling 3.0
+Sora 2 Introduction
+Veo 3.1 Introduction
+WAN 2.6
+Grok Imagine 1.5
+Gemini Omni Flash
+
+Image Models
+Nano Banana
+Flux 2
+Seedream 5
+GPT Image 2
+Ideogram 4.5
+
+Studios
+Cinema Studio
+Marketing Studio
+Lipsync Studio
+Higgsfield Popcorn
+Higgsfield Canvas
+
+Soul
+Soul 2.0
+Soul ID Character
+Soul Cinema
+
+Platform
+Supercomputer
+AI Motion Designer
+MCP/CLI
+API
+Collab
+Games
+Reference Extension
+
+Resources
+Blog
+Help Center
+Academy
+Prompt Guide
+
+Company
+About
+Trust
+Report a vulnerability
+Enterprise
+Team
+Pricing
+Careers
+Contact
+
+Community
+Community
+Contests
+Creative Partners
+
+X / Twitter
+Youtube
+LinkedIn
+Tiktok
+Discord
+
+Create
+AI Video
+AI Video Effects
+AI Image
+Edit Image
+Inpaint
+Upscale
+Sora 2 Upscale
+Mixed Media
+AI Face Swap
+AI Influencer
+Apps
+
+Video Models
+Seedance 2.5
+Seedance 2.0
+Kling 3.0
+Sora 2 Introduction
+Veo 3.1 Introduction
+WAN 2.6
+Grok Imagine 1.5
+Gemini Omni Flash
+
+Image Models
+Nano Banana
+Flux 2
+Seedream 5
+GPT Image 2
+Ideogram 4.5
+
+Studios
+Cinema Studio
+Marketing Studio
+Lipsync Studio
+Higgsfield Popcorn
+Higgsfield Canvas
+
+Soul
+Soul 2.0
+Soul ID Character
+Soul Cinema
+
+Platform
+Supercomputer
+AI Motion Designer
+MCP/CLI
+API
+Collab
+Games
+Reference Extension
+
+Resources
+Blog
+Help Center
+Academy
+Prompt Guide
+
+Company
+About
+Trust
+Report a vulnerability
+Enterprise
+Team
+Pricing
+Careers
+Contact
+
+Community
+Community
+Contests
+Creative Partners
+
+535 Mission St, 14th floor, San Francisco, CA, 94105
+
+X / Twitter
+Youtube
+LinkedIn
+Tiktok
+Discord
+
+© 2026 Higgsfield, Inc. All rights reserved.
+
+Help center
+Cookie Notice
+Terms
+Privacy
+Report a vulnerability

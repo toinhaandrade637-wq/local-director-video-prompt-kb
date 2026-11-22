@@ -1,0 +1,83 @@
+{"project":"THE_END_TO_THE_BEGINNING","idx":1,"sha8":"decaa590","len":13,"nTasks":1,"models":"null","read":true,"findings":"keep the same 极简微指令（高频群 6 现）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":2,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":3,"sha8":"decaa590","len":13,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":4,"sha8":"c7bb85db","len":31,"nTasks":1,"models":"null","read":true,"findings":"movie 片名行"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":5,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":6,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":7,"sha8":"e248c2a6","len":34,"nTasks":1,"models":"null","read":true,"findings":"clean up 微指令群（clean this picture up. keep the picture the same——高频 10+ 现）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":8,"sha8":"afa6203d","len":4197,"nTasks":1,"models":"default","read":true,"findings":"超长动作叙事 prompt：Start exactly from the first provided image+角色锁定（Do not change Pedro's facial features）+对白行内嵌（Patrick: \"Pedro! Pedro!\"）+假血三限（restrained, theatrical fake blood — no graphic anatomical detail）+轰炸段落+巨型否定栈+No music 声音清单"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":9,"sha8":"e248c2a6","len":34,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":10,"sha8":"0f0a2699","len":48,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":11,"sha8":"803134cd","len":22,"nTasks":1,"models":"null","read":true,"findings":"take the Monster away——移除微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":12,"sha8":"0f0a2699","len":48,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":13,"sha8":"5d6cad66","len":5587,"nTasks":1,"models":"default","read":true,"findings":"对话残留注（Absolutely — I'll add…）+慢动作区间立法（Use dramatic slow motion only during…return to realistic normal speed）+枪无效→扔枪换刀叙事+假肢假血（tearing away a limb — clearly fictional）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":14,"sha8":"0f0a2699","len":48,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":15,"sha8":"72a35880","len":2861,"nTasks":1,"models":"null","read":true,"findings":"跳跃恶魔设计长 prompt：解剖学三段+完全原创声明+巨型否定栈（no wings, no hooves, no quadruped）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":16,"sha8":"3cb5278d","len":46,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":17,"sha8":"c2b9b0de","len":16,"nTasks":1,"models":"null","read":true,"findings":"white backgorund（拼写错误原样）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":18,"sha8":"0f0a2699","len":48,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":19,"sha8":"19c14d46","len":8474,"nTasks":1,"models":"default","read":true,"findings":"地形七连否定首现（no hill, hillside, slope, ridge, cliff, valley, elevated terrain）+海拔锁定论（same ground plane — There is absolutely no hill）+群体多样性立法（Every villager must look different…Do not duplicate people）+神秘光四不像（must not resemble spotlight/flashlight/fire/explosion/neon）+非英雄令（Do not make them act like superheroes）+NEVER 三连机位（Never place the camera above, never look down, never elevated overlook）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":20,"sha8":"474e2d73","len":40,"nTasks":1,"models":"null","read":true,"findings":"i want him faceing me. white background——白底定妆微指令（高频 6 现）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":21,"sha8":"fb1eed5e","len":3014,"nTasks":1,"models":"default","read":true,"findings":"呼号无线电对白（Echo two four, six eight. We're coming in hot.——重复句）+radio 只闻其声（Do not show the person speaking）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":22,"sha8":"474e2d73","len":40,"nTasks":1,"models":"null","read":true,"findings":"白底/面向我"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":23,"sha8":"474e2d73","len":40,"nTasks":1,"models":"null","read":true,"findings":"白底/面向我"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":24,"sha8":"474e2d73","len":40,"nTasks":1,"models":"null","read":true,"findings":"白底/面向我"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":25,"sha8":"474e2d73","len":40,"nTasks":1,"models":"null","read":true,"findings":"白底/面向我"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":26,"sha8":"5bb64679","len":5056,"nTasks":1,"models":"null","read":true,"findings":"长臂背刺恶魔设计：exactly two arms 两臂声明+背刺 living anatomy（not armor）+运动段（slow, heavy, deliberate）+巨型否定栈"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":27,"sha8":"fb2d0f77","len":6121,"nTasks":1,"models":"null","read":true,"findings":"雌性恶魔设计：同构+Ancient entity beneath the earth for centuries"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":28,"sha8":"ba19b694","len":50,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":29,"sha8":"9edc1777","len":41,"nTasks":1,"models":"null","read":true,"findings":"Make me a commander closed up——极简取景"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":30,"sha8":"c84dc9df","len":50,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":31,"sha8":"68f6c99b","len":5330,"nTasks":1,"models":"default","read":true,"findings":"对话残留注+八位数字念白（58371426——Make it obvious she is actually dialing）+不拍屏令（do not show the phone screen, no insert shot）+群多样立法（NO cloned pedestrians…NO synchronized walking）+建筑物理崩塌（realistic structural failure — Do NOT make the building explode）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":32,"sha8":"e12a3a09","len":51,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":33,"sha8":"e2e13666","len":4992,"nTasks":1,"models":"default","read":true,"findings":"七段结构化立法全量首现：CAMERA:/LIGHTING:/WEATHER:/AUDIO:/DIALOGUE ORDER — DO NOT CHANGE:/IMPORTANT:/NEGATIVE REQUIREMENTS: 七段标签结构+CUT TO THE WOMAN 行内分镜+慢对白令（DIALOGUE MUST BE SLOW AND NATURAL — NO OVERLAPPING DIALOGUE）+It sounded demonic 台词"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":34,"sha8":"a51df5d5","len":23,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":35,"sha8":"fe8f4845","len":6828,"nTasks":1,"models":"default","read":true,"findings":"指挥官分屏法+胸挂相机原创三段（must not resemble any specific commercial design）+no-logo 适用域声明首见（This no-logo requirement applies to every foreground and background element）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":36,"sha8":"e12a3a09","len":51,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":37,"sha8":"5272b88c","len":16,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":38,"sha8":"5272b88c","len":16,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":39,"sha8":"decaa590","len":13,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":40,"sha8":"decaa590","len":13,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":41,"sha8":"0f0a2699","len":48,"nTasks":1,"models":"null","read":true,"findings":"对话残留注（Yes — I'll add that action…）+跳跃力学（legs compress powerfully before takeoff, then it explodes upward）+肢体撕裂限定（tearing away a limb — clearly fictional…torn costume material）+violence 速切限"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":42,"sha8":"26b52c04","len":5764,"nTasks":1,"models":"default","read":true,"findings":"实拍声明+无音乐+慢动作段+假血三限+恶魔生物+no-logo 栈+对话残留"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":43,"sha8":"0f0a2699","len":48,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":44,"sha8":"9b9f812a","len":75,"nTasks":1,"models":"null","read":true,"findings":"Giant hole in the background——补景微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":45,"sha8":"9b9f812a","len":75,"nTasks":1,"models":"null","read":true,"findings":"Giant hole in the background of this image that ha"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":46,"sha8":"0f0a2699","len":48,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":47,"sha8":"3cb5278d","len":46,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":48,"sha8":"e1d4bb7c","len":8282,"nTasks":1,"models":"default","read":true,"findings":"level ground 全文再现（#19 同文本二现——海拔锁定重复迭代）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":49,"sha8":"4d93b563","len":3439,"nTasks":1,"models":"default","read":true,"findings":"对话残留注（Sure — since you want…upload it）+武器投掷慢动作+attachment film（becomes lodged in his upper back）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":50,"sha8":"0f0a2699","len":48,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":51,"sha8":"fb2d0f77","len":6121,"nTasks":1,"models":"null","read":true,"findings":"实拍声明+恶魔生物+no-logo 栈+对话残留"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":52,"sha8":"fb2d0f77","len":6121,"nTasks":1,"models":"null","read":true,"findings":"实拍声明+恶魔生物+no-logo 栈+对话残留"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":53,"sha8":"28ed701e","len":4147,"nTasks":1,"models":"default","read":true,"findings":"对话残留注（I can keep the action intense…clearly theatrical）+断肢双段（detached limb briefly falling out of frame）+武器入体不剖（weapon visibly lodged — avoid graphic anatomical detail）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":54,"sha8":"f47f5d29","len":3502,"nTasks":1,"models":"null","read":true,"findings":"神秘人形设计：unique biological features that have never been seen before——原创生物特征声明"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":55,"sha8":"474e2d73","len":40,"nTasks":1,"models":"null","read":true,"findings":"白底/面向我"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":56,"sha8":"5310c2cc","len":101,"nTasks":1,"models":"null","read":true,"findings":"精确移除复合：remove the run and the man. Keep the bullet points——多元素分离移除"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":57,"sha8":"a6d3186e","len":4046,"nTasks":1,"models":"default","read":true,"findings":"对话残留注（Of course — here's the entire revised prompt in one piece）+开舱门力学（twist-and-open mechanism）+跳伞对白（In and out, quick and clean）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":58,"sha8":"50c22625","len":4978,"nTasks":1,"models":"null","read":true,"findings":"骨剑手臂设计：must NOT resemble a claw, talon, hook, finger, tentacle, branch——形态排除群+sword-like blade entirely biological and permanently fused——生物融合声明"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":59,"sha8":"13758bcb","len":3987,"nTasks":1,"models":"default","read":true,"findings":"对话残留注（Absolutely — that emotional motivation…）+NOOOOO 长嚎+战术翻滚（controlled tactical roll…to absorb his momentum）+慢动作返回点（Return from slow motion to normal speed immediately after）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":60,"sha8":"b191034d","len":78,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":61,"sha8":"d5731c5e","len":4606,"nTasks":1,"models":"default","read":true,"findings":"单场景锁定论首见（must remain there from beginning to end）+五屏禁令（NO split-screen at any point, NO picture-in-picture, NO cuts to the soldiers, NO shots of the soldiers, NO visual footage）+待机屏立法（monitors remain on realistic neutral standby）+唯一发言人（The Commander is the ONLY person who speaks）+口型同步令（mouth movement precisely synchronized）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":62,"sha8":"b929929a","len":5232,"nTasks":1,"models":"default","read":true,"findings":"生物人形声明（exactly two arms, exactly two legs…never like animals, insects, quadrupeds）+骨刃前臂（biological extensions of their own anatomy）+violence 速切限再现"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":63,"sha8":"13758bcb","len":3987,"nTasks":1,"models":"default","read":true,"findings":"#59 同文再现（迭代重生成对）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":64,"sha8":"dd92e568","len":31,"nTasks":1,"models":"null","read":true,"findings":"白底/面向我"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":65,"sha8":"5556ce51","len":99,"nTasks":1,"models":"null","read":true,"findings":"服装拆离法首现（Remove the body from the clothes, take the clothes, white background. I want the clothes presented.）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":66,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":67,"sha8":"e12a3a09","len":51,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":68,"sha8":"0d797036","len":10947,"nTasks":1,"models":"default","read":true,"findings":"对话残留注（You're right. You asked for…）+数字位数校验（Make sure the number is exactly eight digits）+puddle ripple 前兆（Puddles begin rippling…rumbling slowly builds）+建筑崩塌物理（realistic structural failure — Do NOT make the building explode instantly）+结尾黑场（then cut to black）+全大写巨型否定栈（NO CGI-LOOKING CHARACTERS…整段大写）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":69,"sha8":"745d1ac4","len":7182,"nTasks":1,"models":"default","read":true,"findings":"对话残留注+装备辨析令（This is NOT a standard protective vest — must unmistakably look like parachute equipment）+EXACTLY THREE MEN TOTAL 计数锁+DIALOGUE ORDER 逐行列表+IMPORTANT 段"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":70,"sha8":"e3b0c442","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":71,"sha8":"e12a3a09","len":51,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":72,"sha8":"a778f883","len":6750,"nTasks":1,"models":"default","read":true,"findings":"慢动作单点法（briefly transition into cinematic slow motion for the elbow strike ONLY——仅肘击一瞬）+假血微量（A small amount of realistic fake blood — subtle and non-graphic）+卸弹动作（removes the ammunition…throws the unloaded weapon）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":73,"sha8":"2c5a9b7c","len":5596,"nTasks":1,"models":"default","read":true,"findings":"保持微指令+实拍声明+无音乐+no-logo 栈+对话残留"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":74,"sha8":"074c02a1","len":40,"nTasks":1,"models":"null","read":true,"findings":"Only face and neck. Remove the clothing."}
+{"project":"THE_END_TO_THE_BEGINNING","idx":75,"sha8":"a7b6b025","len":49,"nTasks":1,"models":"null","read":true,"findings":"保持微指令"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":76,"sha8":"4bdd9bf5","len":3701,"nTasks":1,"models":"default","read":true,"findings":"INSTANT MEMORY FLASH 记忆闪回转场+EXACTLY THREE MEN 计数+不答刻画（Patrick does not speak——沉默反应立法）+CLOSE-UP OF SHAKING HANDS（手抖特写）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":77,"sha8":"b0e7d5ac","len":1754,"nTasks":1,"models":"null","read":true,"findings":"白底定妆照长 prompt（BACKGROUND: PURE SOLID WHITE. NOTHING ELSE）+无纹身声明（completely free of tattoos, markings, scars）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":78,"sha8":"1338963e","len":1915,"nTasks":1,"models":"null","read":true,"findings":"白底定妆照（Puerto Rican 角色）+面部纹身设计（original geometric flowing abstract shapes following the natural contours）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":79,"sha8":"1b44d9cb","len":2320,"nTasks":1,"models":"default","read":true,"findings":"耳机听歌不生成音乐（listening to music through his headphones, but do not generate or add any music——听歌不配乐论首现！）+INSTANT FLASHBACK 转场+时距声明（several years earlier）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":80,"sha8":"e46cc474","len":38,"nTasks":1,"models":"null","read":true,"findings":"i need a boby picture（拼写错误原样）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":81,"sha8":"f68460d2","len":23,"nTasks":1,"models":"null","read":true,"findings":"Put the clothes on him."}
+{"project":"THE_END_TO_THE_BEGINNING","idx":82,"sha8":"9721e6ee","len":747,"nTasks":1,"models":"null","read":true,"findings":"服装平铺法（completely unfolded and fully visible…laid completely flat——三件套平铺）"}
+{"project":"THE_END_TO_THE_BEGINNING","idx":83,"sha8":"289deaa5","len":58,"nTasks":1,"models":"null","read":true,"findings":"白底特写微指令"}

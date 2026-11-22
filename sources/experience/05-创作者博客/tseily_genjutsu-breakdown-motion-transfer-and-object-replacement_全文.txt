@@ -1,0 +1,88 @@
+【项目】GENJUTSU BREAKDOWN: MOTION TRANSFER AND OBJECT REPLACEMENT（@tseily · 创作者博客）
+【链接】https://higgsfield.ai/@tseily/blogs/genjutsu-breakdown-motion-transfer-and-object-replacement
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+GENJUTSU BREAKDOWN: MOTION TRANSFER AND OBJECT REPLACEMENT
+Tseily
+@tseily
+142
+0
+0
+
+Two abilities, one idea. Feed an existing video plus your reference images into Higgsfield, and either transfer its motion onto your character or swap a single object inside it, while the camera stays locked.
+
+Motion transfer (hf_mult_motion_control). Transfer motion onto your character. The motion, poses and camera movement come from the source video; the character and scene come from your reference images. Use it when you love a move in one clip and want your character to perform it exactly.
+Object replacement (hf_mult_replace_object). Swap one element inside a finished clip. The entire source video is kept (motion, camera, background, timing) and only the element you target (a product, garment or character) is replaced from a reference image. Everything else stays untouched.
+
+Resolution: 480p / 720p / 1080p.
+
+Step 1: The tagging system
+
+The tool identifies every media by its order in the tray. Tagging is by position, never by filename.
+
+Inside the prompt you point to each media with a tag. The video is @Video1, and the images are @Image1, @Image2 and so on, in the order they sit in the tray. First image is Image1, second is Image2, whatever the file is called.
+
+@Video1: the source video, first and only clip in the video tray. Drives the motion, or is the clip being edited.
+@Image1: first image in the tray (e.g. the character / the background).
+@Image2: second image (e.g. a face closeup for identity accuracy).
+@Image3: third image (e.g. an outfit / look).
+Golden rule:
+ arrange your images in the tray in a fixed order (character, face, outfit...) before writing the prompt, then match the tags to it. Reorder them and you have to update the tags.
+Step 2: How to use it
+
+The same five moves work for both models. Pick what stays and what changes, then let the prompt do the rest.
+
+Pick a mode. Motion transfer (motion_control) or object replacement (replace_object), by what you keep vs. change.
+Upload the source video. One video = @Video1. It drives the motion, or it is the clip being edited.
+Upload reference images. Character, garment, object. Mind the order: it becomes @Image1, @Image2...
+Write the prompt from a template. Lock what stays (identity, motion, camera) and state exactly what changes, with the right tags.
+Choose resolution and run. 480p to test fast, 720p default, 1080p for the final.
+Step 3: Prompt templates
+
+Copy, and replace the placeholder parts with your own details.
+
+Motion transfer
+
+Motion and camera come from @Video1; the character comes from the images.
+
+TASK - MOTION TRANSFER:
+Transfer the exact motion, body movement, pose changes and camera motion from @Video1 onto the subject from the reference images. Keep the timing, rhythm and camera path identical to @Video1.
+
+SUBJECT / IDENTITY: use the woman from @Image1 - same face, hair, body and identity. Match her face precisely to @Image2 (closeup for identity). Dress her in outfit from @Image3.
+
+SCENE: place her in describe environment / or keep from @Image1. Relight her to match the scene, keep skin tone natural.
+
+Keep her identity consistent in every frame. Do NOT change the motion or the camera path - those come only from @Video1. Cinematic look, same aspect ratio.
+
+
+
+
+Object replacement
+
+Everything in @Video1 stays; only the target you name is replaced from the image.
+
+TASK - OBJECT REPLACEMENT:
+Keep everything in @Video1 exactly the same: the person, all movements and performance, the camera motion and framing, composition, background, lighting, pacing, timing and every cut, and any on-screen text or captions.
+
+Change ONLY the target - e.g. the handbag / the dress / the bottle: replace it with the new item from @Image1, matching its shape, color, material and details across every frame. Keep it correctly attached and lit as part of the scene.
+
+Do not alter anything else. Everything except the replaced target stays identical to @Video1.
+
+Object replacement: only the outfit is swapped from the reference image. Her face, every move, cut and camera angle stay from the source clip.
+
+
+
+
+Step 4: Rules of thumb
+
+Small habits that save failed renders and keep the edit faithful to the source.
+
+"Keep everything identical." The more you spell out what NOT to change (face, motion, camera, timing, on-screen text), the more faithful the result. That is the secret to a clean edit.
+Face closeup for accuracy. In motion transfer, adding a separate face closeup as an @Image gives far more accurate identity than a full-body shot alone.
+Resolution in stages. Test at 480p (fast and cheap). Once motion and identity are perfect, run the final 1080p with the exact same prompt.
+Moderation (NSFW). If a render starts then fails, it is usually the filter on frame content (revealing wardrobe at some angles) or profanity in the audio. Cover the look, or clean the audio.
+
+@TSEILY · Genjutsu breakdown for Higgsfield.

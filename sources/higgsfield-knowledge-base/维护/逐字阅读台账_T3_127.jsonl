@@ -1,0 +1,485 @@
+{"project":"VORTEX","idx":1,"sha8":"ad815284","len":337,"nTasks":1,"models":"null","read":true,"findings":"337c **toma reversa 反转镜头首例**：**Haz una toma reversa de esta imagen**（la niña debe aparecer en el foreground）…**Misma escena, misma coloración, mismo hospital, toma reversa**——反转镜头+三同声明（西语）"}
+{"project":"VORTEX","idx":2,"sha8":"cd746cd8","len":1231,"nTasks":1,"models":"null","read":true,"findings":"1,231c **Upres 提清段头首例**：**Upres.** Make this photo feel as **it was taken today, with modern color cameras. Reconstruct the image with uncompromising biological realism, amplifying authentic micro-structure without altering composition**…**Accurately simulate real-world material behavior. No digital softening.**——提分辨率段头+生物学现实主义+禁数字柔化"}
+{"project":"VORTEX","idx":3,"sha8":"59f16cbd","len":1229,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":4,"sha8":"eb4b2f7c","len":168,"nTasks":1,"models":"null","read":true,"findings":"168c 西语超短修正（34-46c 极短族）：**Haz una toma reversa de esta imagen. En cuclillas, esta el padre** de la niña dormida——蹲姿反转"}
+{"project":"VORTEX","idx":5,"sha8":"d07389be","len":159,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":6,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":7,"sha8":"bae26d08","len":182,"nTasks":1,"models":"null","read":true,"findings":"182c **F/1.2 光圈声明**：Haz un plano con cámara en **F/1.2, close portrait**. La niña en una cama de hospital, dormida, pálida…**Paleta de color fría**——光圈数值+冷色板（西语）"}
+{"project":"VORTEX","idx":8,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":9,"sha8":"9f2583fa","len":65,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":10,"sha8":"79307588","len":97,"nTasks":1,"models":"null","read":true,"findings":"97c **关窗帘迭代 ×3**：**Cierra las cortinas completamente. Mantén la luz que se ve desde dentro.**（行 11 简版/行 12 只 34c：**Cierra las cortinas completamente.**）——窗帘关+光保持迭代"}
+{"project":"VORTEX","idx":11,"sha8":"7a00fce4","len":71,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":12,"sha8":"bd5e3f7a","len":34,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":13,"sha8":"b0e3e99b","len":225,"nTasks":1,"models":"video_edit","read":true,"findings":"225c **VR 椅移除+西语台词保留**：eliminate the virtual reality chair and equipment behind the characters…**He touches the man's heart when he says \"El suyo sí\"**——VR 设备移除+西语台词（El suyo sí）"}
+{"project":"VORTEX","idx":14,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":15,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":16,"sha8":"953e4d48","len":157,"nTasks":1,"models":"null","read":true,"findings":"157c **外景 establishing 反推**：Imagina esta pieza desde afuera, desde la ventana para una **establishing shot que da a la pieza. El edificio desde afuera es este**——内景→外景反推"}
+{"project":"VORTEX","idx":17,"sha8":"9c86c449","len":280,"nTasks":1,"models":"default","read":true,"findings":"280c **机械心浮动跳动脉光**：Slow dolly zoom in as **the mechanic floating heart beats. When it does, it emits a subtle light from inside.** People in the city passing by, **al dressed in white as the reference**…the ribs of the dome——机械心跳动发光+白衣人群+穹顶肋骨"}
+{"project":"VORTEX","idx":18,"sha8":"71b42bb7","len":173,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":19,"sha8":"b1ac8427","len":80,"nTasks":1,"models":"null","read":true,"findings":"80c 屏幕文字修正：Preserva todo el texto pero **que se vea correcto**——文字保留修正确"}
+{"project":"VORTEX","idx":20,"sha8":"b1ac8427","len":80,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":21,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":22,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":23,"sha8":"6b10d372","len":112,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":24,"sha8":"55ae7ed3","len":203,"nTasks":1,"models":"null","read":true,"findings":"203c **液面高度三态首例**：**el liquido amarillo baja hasta la mitad**…con la misma máscara de respiración（行 31 hasta la mitad/行 32 **casi sin liquido amarillo**）——黄液半满/近空（胶囊液面状态修正）"}
+{"project":"VORTEX","idx":25,"sha8":"f18a7527","len":180,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":26,"sha8":"436079da","len":405,"nTasks":1,"models":"video_edit","read":true,"findings":"405c **蒸汽连续性+画框修正**：When shot changes in 00:02, **add some steam behind the character speaking, giving continuity to the steam that comes from the room out of frame in shot 1. The steam should fade in 00:03**…eliminate the paintings…**replace them by the intercom**——蒸汽跨镜连续+秒级淡入+画框替换对讲机"}
+{"project":"VORTEX","idx":27,"sha8":"313c4595","len":202,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":28,"sha8":"436079da","len":405,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":29,"sha8":"cd746cd8","len":1231,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":30,"sha8":"1ffedea9","len":227,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":31,"sha8":"2b978fd1","len":94,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":32,"sha8":"52a85110","len":81,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":33,"sha8":"436079da","len":405,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":34,"sha8":"cd2b6a70","len":46,"nTasks":1,"models":"null","read":true,"findings":"46c 露齿笑：**Haz que el hombre sonría mostrando los dientes**——露齿（西语超短）"}
+{"project":"VORTEX","idx":35,"sha8":"3520967f","len":292,"nTasks":1,"models":"null","read":true,"findings":"292c **握腕→握手情感修正首例**：**Haz que las manos se estén tomando, no que el hombre aprete la muñeca de la niña. Debe ser un agarre gentil.** Además, el hombre está débil…**que se exprese afecto con una toma de manos**——握腕→温柔握手+情感表达（×2 迭代现 56）"}
+{"project":"VORTEX","idx":36,"sha8":"601c07dc","len":70,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":37,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":38,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":39,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":40,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":41,"sha8":"ad815284","len":337,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":42,"sha8":"c57c4b2a","len":365,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":43,"sha8":"e057a849","len":138,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":44,"sha8":"ad815284","len":337,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":45,"sha8":"ad815284","len":337,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":46,"sha8":"ad815284","len":337,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":47,"sha8":"e233af37","len":479,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":48,"sha8":"ef155e25","len":493,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":49,"sha8":"120c42d3","len":34,"nTasks":1,"models":"null","read":true,"findings":"34c 光圈极短修正：**Add an f/1.2 lens, low focal depth**——34c 极短"}
+{"project":"VORTEX","idx":50,"sha8":"64ac3c25","len":112,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":51,"sha8":"64ac3c25","len":112,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":52,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":53,"sha8":"74ba2f59","len":1259,"nTasks":1,"models":"null","read":true,"findings":"1,259c Upres+移除人物：Upres…**Remove the woman in the door**——提清+移除"}
+{"project":"VORTEX","idx":54,"sha8":"50443057","len":104,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":55,"sha8":"fe249922","len":117,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":56,"sha8":"248f8539","len":372,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":57,"sha8":"8f45c3e5","len":109,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":58,"sha8":"e7137a85","len":1357,"nTasks":1,"models":"null","read":true,"findings":"1,357c **角色表保持清单**：Edit character sheet…**Preserve the composition, framing, aspect ratio, camera angle, pose, facial proportions, facial features, expression, lighting, background, depth of field, color grading, skin texture, and the overall cinematic, photorealistic studio quality**——十二项保持清单"}
+{"project":"VORTEX","idx":59,"sha8":"08abc995","len":5406,"nTasks":1,"models":"default","read":true,"findings":"5,406c **COLOUR KEY 颜色键映射+greybox previz 首例**：— REFERENCE DEFINITIONS —…<<<video_1>>>: **greybox previz, camera-lock export**, 23s, THREE SHOTS. **SOLE authority for camera position, tilt, roll, focal length and framing at every frame. Colours are labels only — take no material, colour or light from it.** **COLOUR KEY: RED on the LEFT table = RUDOLF → <<<image_2>>> · BLUE** (on the RIGHT…)——灰盒预演机锁导出+唯一相机权威+颜色仅标签+**颜色键=角色映射**"}
+{"project":"VORTEX","idx":60,"sha8":"434c1fdc","len":233,"nTasks":1,"models":"null","read":true,"findings":"233c **纯听镜头**：Give me three shots with **totally blurred background, F/1.2**, of him listening to someone. **Sad, almost about to cry, Hand held. The background is pure blur. Just listening**——纯听+纯虚化+手持"}
+{"project":"VORTEX","idx":61,"sha8":"c133ec26","len":244,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":62,"sha8":"011b827d","len":5804,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":63,"sha8":"e8fb0e18","len":2836,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":64,"sha8":"a6828aca","len":5472,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":65,"sha8":"cc413e4b","len":5977,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":66,"sha8":"92b7c741","len":219,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":67,"sha8":"cbda88c0","len":1150,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":68,"sha8":"8129d3ca","len":5617,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":69,"sha8":"b7692087","len":5007,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":70,"sha8":"8e7e9475","len":319,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":71,"sha8":"d72b6a53","len":5600,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":72,"sha8":"ab808cff","len":150,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":73,"sha8":"2c519f11","len":219,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":74,"sha8":"d4038591","len":4016,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":75,"sha8":"de78c1c9","len":1669,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":76,"sha8":"57b5c7c8","len":4184,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":77,"sha8":"ea830d4b","len":234,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":78,"sha8":"17997355","len":235,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":79,"sha8":"0b30dd2c","len":197,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":80,"sha8":"e4eeb913","len":5210,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":81,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":82,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":83,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":84,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":85,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":86,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":87,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":88,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":89,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":90,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":91,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":92,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":93,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":94,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":95,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":96,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":97,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":98,"sha8":"a24f653d","len":95,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":99,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":100,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":101,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":102,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":103,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":104,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":105,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":106,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":107,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":108,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":109,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":110,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":111,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":112,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":113,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":114,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":115,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":116,"sha8":"8084a7ec","len":4428,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":117,"sha8":"c4e90a18","len":124,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":118,"sha8":"f990d17a","len":524,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":119,"sha8":"7a00fce4","len":71,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":120,"sha8":"cb52028d","len":489,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":121,"sha8":"04725aa8","len":484,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":122,"sha8":"a143f2bb","len":315,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":123,"sha8":"953e4d48","len":157,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":124,"sha8":"2ac34c8e","len":4918,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":125,"sha8":"6b10d372","len":112,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":126,"sha8":"3675f063","len":1528,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":127,"sha8":"55ae7ed3","len":203,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":128,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":129,"sha8":"cf536e16","len":148,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":130,"sha8":"3675f063","len":1528,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":131,"sha8":"59f16cbd","len":1229,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":132,"sha8":"3c891ff1","len":41,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":133,"sha8":"9e5e7663","len":129,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":134,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":135,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":136,"sha8":"ff604c5c","len":68,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":137,"sha8":"5433f7d0","len":97,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":138,"sha8":"3160bb60","len":3259,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":139,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":140,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":141,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":142,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":143,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":144,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":145,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":146,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":147,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":148,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":149,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":150,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":151,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":152,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":153,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":154,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":155,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":156,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":157,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":158,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":159,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":160,"sha8":"64b54f0b","len":271,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":161,"sha8":"601c07dc","len":70,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":162,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":163,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":164,"sha8":"eae2e713","len":154,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":165,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":166,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":167,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":168,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":169,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":170,"sha8":"a006b68c","len":4784,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":171,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":172,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":173,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":174,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":175,"sha8":"de590ecd","len":4798,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":176,"sha8":"e4923ddd","len":41,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":177,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":178,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":179,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":180,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":181,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":182,"sha8":"c212690c","len":4175,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":183,"sha8":"4e9bc590","len":119,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":184,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":185,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":186,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":187,"sha8":"84867a0d","len":91,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":188,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":189,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":190,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":191,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":192,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":193,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":194,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":195,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":196,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":197,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":198,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":199,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":200,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":201,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":202,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":203,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":204,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":205,"sha8":"ee6c8a66","len":4403,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":206,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":207,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":208,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":209,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":210,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":211,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":212,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":213,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":214,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":215,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":216,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":217,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":218,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":219,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":220,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":221,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":222,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":223,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":224,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":225,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":226,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":227,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":228,"sha8":"b8b53ba2","len":4754,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":229,"sha8":"c97d087d","len":28,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":230,"sha8":"b2ee22a0","len":230,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":231,"sha8":"bd6ad1e8","len":3311,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":232,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":233,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":234,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":235,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":236,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":237,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":238,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":239,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":240,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":241,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":242,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":243,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":244,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":245,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":246,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":247,"sha8":"77e760d6","len":5291,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":248,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":249,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":250,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":251,"sha8":"43221159","len":153,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":252,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":253,"sha8":"cd6cf91f","len":5002,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":254,"sha8":"6bfc6a2d","len":5471,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":255,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":256,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":257,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":258,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":259,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":260,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":261,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":262,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":263,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":264,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":265,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":266,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":267,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":268,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":269,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":270,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":271,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":272,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":273,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":274,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":275,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":276,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":277,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":278,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":279,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":280,"sha8":"589cd777","len":4430,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":281,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":282,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":283,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":284,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":285,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":286,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":287,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":288,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":289,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":290,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":291,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":292,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":293,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":294,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":295,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":296,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":297,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":298,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":299,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":300,"sha8":"9c946d1b","len":90,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":301,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":302,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":303,"sha8":"b2ee22a0","len":230,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":304,"sha8":"f4138a2d","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":305,"sha8":"431edbf7","len":170,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":306,"sha8":"27453dc2","len":63,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":307,"sha8":"f4138a2d","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":308,"sha8":"c1186696","len":180,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":309,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":310,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":311,"sha8":"c1207b57","len":147,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":312,"sha8":"2b01766b","len":491,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":313,"sha8":"7ad6036d","len":2152,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":314,"sha8":"f5980e5a","len":1805,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":315,"sha8":"41cf5147","len":1887,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":316,"sha8":"252dec15","len":1849,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":317,"sha8":"252dec15","len":1849,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":318,"sha8":"7e95e32c","len":279,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":319,"sha8":"253baea4","len":211,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":320,"sha8":"7e95e32c","len":279,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":321,"sha8":"7e95e32c","len":279,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":322,"sha8":"253baea4","len":211,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":323,"sha8":"b06ecfde","len":181,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":324,"sha8":"9ba8707b","len":280,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":325,"sha8":"59e6b86b","len":200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":326,"sha8":"5618d6f0","len":207,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":327,"sha8":"3a717c54","len":135,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":328,"sha8":"3d9fda51","len":188,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":329,"sha8":"d7372834","len":10504,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":330,"sha8":"0af9abc3","len":10520,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":331,"sha8":"0af9abc3","len":10520,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":332,"sha8":"41cf5147","len":1887,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":333,"sha8":"32bb0e36","len":223,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":334,"sha8":"252dec15","len":1849,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":335,"sha8":"146cb08c","len":1913,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":336,"sha8":"cd865f9d","len":450,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":337,"sha8":"76d5a73b","len":133,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":338,"sha8":"a3f49d45","len":200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":339,"sha8":"0f2607df","len":1662,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":340,"sha8":"d1c5006e","len":207,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":341,"sha8":"41f31fe7","len":1825,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":342,"sha8":"4b81e04f","len":1201,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":343,"sha8":"33d3b978","len":1852,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":344,"sha8":"61653cdc","len":1195,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":345,"sha8":"4f133785","len":9659,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":346,"sha8":"2d069dad","len":105,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":347,"sha8":"9859ffe5","len":1741,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":348,"sha8":"cbda88c0","len":1150,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":349,"sha8":"3f212eed","len":6333,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":350,"sha8":"b02a1c12","len":2511,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":351,"sha8":"a008f01e","len":536,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":352,"sha8":"147e806b","len":64,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":353,"sha8":"6ff1117b","len":520,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":354,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":355,"sha8":"360e0e42","len":125,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":356,"sha8":"3db28404","len":943,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":357,"sha8":"b83f5a98","len":1015,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":358,"sha8":"192feace","len":209,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":359,"sha8":"816b5200","len":6939,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":360,"sha8":"9cdcd3de","len":1052,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":361,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":362,"sha8":"1e163b2e","len":2524,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":363,"sha8":"9f741338","len":1992,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":364,"sha8":"cf81893c","len":1151,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":365,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":366,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":367,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":368,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":369,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":370,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":371,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":372,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":373,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":374,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":375,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":376,"sha8":"44c141b1","len":107,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":377,"sha8":"44c141b1","len":107,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":378,"sha8":"431edbf7","len":170,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":379,"sha8":"51efdf5a","len":4450,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":380,"sha8":"aee937a2","len":92,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":381,"sha8":"431edbf7","len":170,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":382,"sha8":"2b65cba8","len":3238,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":383,"sha8":"e7b0ff53","len":292,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":384,"sha8":"da691128","len":205,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":385,"sha8":"49ea6ff6","len":182,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":386,"sha8":"7528f915","len":5789,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":387,"sha8":"0c5bfe49","len":3474,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":388,"sha8":"808da37a","len":3947,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":389,"sha8":"fecb4e61","len":191,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":390,"sha8":"253baea4","len":211,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":391,"sha8":"a160a1cf","len":1977,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":392,"sha8":"451da030","len":127,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":393,"sha8":"5618d6f0","len":207,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":394,"sha8":"30704a74","len":218,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":395,"sha8":"0af9abc3","len":10520,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":396,"sha8":"d7372834","len":10504,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":397,"sha8":"d7372834","len":10504,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":398,"sha8":"d7372834","len":10504,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":399,"sha8":"33d4006f","len":1909,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":400,"sha8":"9d3da6a4","len":10394,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":401,"sha8":"05e2760d","len":197,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":402,"sha8":"05e2760d","len":197,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":403,"sha8":"7194835e","len":1795,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":404,"sha8":"27c45254","len":1809,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":405,"sha8":"4600441a","len":1862,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":406,"sha8":"96c1dc7c","len":342,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":407,"sha8":"ed82a102","len":1785,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":408,"sha8":"bffda164","len":1988,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":409,"sha8":"9587c2d0","len":1881,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":410,"sha8":"32bb0e36","len":223,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":411,"sha8":"54b642e5","len":1864,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":412,"sha8":"0360539a","len":106,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":413,"sha8":"cf81893c","len":1151,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":414,"sha8":"61653cdc","len":1195,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":415,"sha8":"bd44804e","len":1988,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":416,"sha8":"c04864b1","len":797,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":417,"sha8":"bee96642","len":1223,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":418,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":419,"sha8":"d695f87e","len":454,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":420,"sha8":"b443fb74","len":8208,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":421,"sha8":"bed11218","len":770,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":422,"sha8":"913bad6a","len":7173,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":423,"sha8":"d4b1d338","len":5900,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":424,"sha8":"1f05a5f1","len":5967,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":425,"sha8":"1f25e75d","len":34,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":426,"sha8":"147e806b","len":64,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":427,"sha8":"35c421cb","len":242,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":428,"sha8":"688f1a4f","len":6198,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":429,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":430,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":431,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":432,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":433,"sha8":"0b890f5e","len":9133,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":434,"sha8":"5c0a677b","len":9275,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":435,"sha8":"c2b13175","len":6682,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":436,"sha8":"f4138a2d","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":437,"sha8":"27dba28c","len":60,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":438,"sha8":"f245cf57","len":3133,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":439,"sha8":"da691128","len":205,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":440,"sha8":"601e7cc6","len":20,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":441,"sha8":"374bff91","len":145,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":442,"sha8":"d894968a","len":91,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":443,"sha8":"db475541","len":4382,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":444,"sha8":"47e8beda","len":330,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":445,"sha8":"7e95e32c","len":279,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":446,"sha8":"7e95e32c","len":279,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":447,"sha8":"fecb4e61","len":191,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":448,"sha8":"7e95e32c","len":279,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":449,"sha8":"253baea4","len":211,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":450,"sha8":"5618d6f0","len":207,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":451,"sha8":"ccacf1b7","len":144,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":452,"sha8":"224cc5b7","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":453,"sha8":"5618d6f0","len":207,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":454,"sha8":"ce71cb43","len":3693,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":455,"sha8":"a160a1cf","len":1977,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":456,"sha8":"b1f5af5a","len":4658,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":457,"sha8":"6ca95300","len":4400,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":458,"sha8":"ca80aea0","len":10575,"nTasks":1,"models":"video_extension","read":true,"findings":"10,575c 全项目最长"}
+{"project":"VORTEX","idx":459,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":460,"sha8":"252dec15","len":1849,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":461,"sha8":"bff471f1","len":10379,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":462,"sha8":"540de622","len":213,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":463,"sha8":"146cb08c","len":1913,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":464,"sha8":"dba063b0","len":213,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":465,"sha8":"a7022975","len":267,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":466,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":467,"sha8":"d6e5b9a4","len":190,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":468,"sha8":"60237e61","len":189,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":469,"sha8":"2fcfd654","len":148,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":470,"sha8":"cbda88c0","len":1150,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":471,"sha8":"61653cdc","len":1195,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":472,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":473,"sha8":"cf81893c","len":1151,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":474,"sha8":"f2832715","len":778,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":475,"sha8":"324015c4","len":165,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":476,"sha8":"16f714da","len":34,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":477,"sha8":"9cdcd3de","len":1052,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":478,"sha8":"c1e9574e","len":2326,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":479,"sha8":"5fda4c71","len":8756,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":480,"sha8":"fe90c947","len":3718,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":481,"sha8":"32e7cd09","len":5197,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":482,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"VORTEX","idx":483,"sha8":"2fd70295","len":125,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":484,"sha8":"de1bd73e","len":351,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"VORTEX","idx":485,"sha8":"6077a9d5","len":3576,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}

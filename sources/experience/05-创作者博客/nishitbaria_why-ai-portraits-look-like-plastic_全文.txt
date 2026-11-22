@@ -1,0 +1,516 @@
+【项目】WHY YOUR AI PORTRAITS LOOK LIKE PLASTIC AND HOW I FIXED IT（@nishitbaria · 创作者博客）
+【链接】https://higgsfield.ai/@nishitbaria/blogs/why-ai-portraits-look-like-plastic
+【提示词块】4
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+WHY YOUR AI PORTRAITS LOOK LIKE PLASTIC AND HOW I FIXED IT
+N
+Nishit Bariya
+@nishitbaria
+20
+0
+0
+Why AI skin goes plastic
+
+Short version: the models learned from the internet, and the internet's portraits are mostly retouched.
+
+
+
+
+Beauty shots, filtered selfies, polished ads. To a model, smooth skin looks like the "correct" answer. Pores, tiny blemishes and uneven tone look a lot like image noise, and models are trained to remove noise. So they remove your skin texture too.
+
+
+
+
+A few other things make it worse:
+
+
+
+
+Prompt words that ask for polish. "Flawless", "perfect skin", "porcelain".
+Flat lighting. Real skin has tiny bumps that catch light unevenly. Light the face flat and that texture disappears.
+Default styling and high guidance. Many models add their own beautifying layer unless you turn it down. Midjourney, for example, documents its Raw mode as switching off that automatic styling.
+Upscalers and "enhance" passes. Many of them are really denoise and smooth, sanding off whatever texture survived.
+
+Real skin needs three things the model tends to skip: micro-texture (pores, fine lines, peach fuzz), color variation (rosier cheeks and nose, different undertones across the face), and light that wraps and softens slightly as it passes into the skin. Your prompt has to put those back.
+
+The 6 mistakes
+Mistake 1: Using "flawless" words
+
+(This is the pair at the top of the post.)
+
+
+
+
+"Flawless skin." "Perfect complexion." "Porcelain glow." These feel like quality words, but they're instructions. They tell the model to smooth everything.
+
+
+
+
+One "flawless" can cancel out every texture word you added. Audit the whole prompt, not just the skin line.
+
+
+
+
+Fix: Replace "flawless beauty portrait" with "natural, realistic portrait." Ask for believable, not perfect.
+
+Mistake 2: Stacking every texture word you know
+
+Left: 15+ stacked texture words. Right: 3 to 5 specific cues plus one small flaw. Both generated with Nano Banana 2.1 on Higgsfield, same reference face.
+
+
+
+
+Once you learn that "visible pores" helps, it's tempting to throw in twenty skin words. That backfires. You get an overcooked, crunchy, hyper-real look that's fake in a different way. Even Kling's own realism guide warns that excessive pores or wrinkles make a face feel unnatural.
+
+
+
+
+Fix: Pick a few specific, local details and include at least one small imperfection. "Visible pores along the nose and cheeks, faint peach fuzz, subtle freckles" does more than a paragraph of adjectives.
+
+Mistake 3: Faking detail with aging
+
+Left: wrinkles added "for detail". Right: same young adult, micro-texture only. Both generated with Nano Banana 2.1 on Higgsfield, same reference face.
+
+
+
+
+This one is sneaky. When a young face looks too smooth, the model (or you) reaches for wrinkles, deep lines and heavy pigmentation to make it look "detailed." Now your young character looks decades older.
+
+
+
+
+Detail and age are not the same thing. A young adult has pores, peach fuzz, freckles and fine under-eye texture. She doesn't have deep wrinkles or loose skin.
+
+
+
+
+Fix: State the age and protect it. In my prompts I write it out every time: no elderly wrinkles, no deep age lines, no artificial aging.
+
+Mistake 4: Flat light or harsh flash
+
+Left: flat frontal light. Right: large soft daylight from the front-left. Both generated with Nano Banana 2.1 on Higgsfield, same reference face.
+
+
+
+
+Lighting decides whether texture shows up at all. Even, frontal, shadowless light flattens the skin into one smooth surface. Harsh flash and dramatic dark shadows go the other way: crunchy, glossy, overdone.
+
+
+
+
+Fix: Use one large, soft, natural light source coming from the side-front. It should reveal texture without making it harsh. Think window daylight from the front-left.
+
+Mistake 5: Asking for macro detail in a generic frame
+
+Left: generic close-up. Right: 100mm macro framing. Both generated with Nano Banana 2.1 on Higgsfield, same reference face.
+
+
+
+
+You can't ask for "iris fibers and individual eyelashes" in a half-body shot and expect it to work. The model has nowhere to put that detail, so you get a muddy, oversharpened mess.
+
+
+
+
+Fix: Match the lens to the job. Portraits get portrait framing. Detail shots get a real macro setup: very close focus, extremely shallow depth of field, one feature critically sharp.
+
+Mistake 6: Upscaling a waxy base (and losing the face)
+
+No image pair for this one, because the problem is usually invisible until it's too late.
+
+
+
+
+An upscaler can invent pore-like texture, but if the base is waxy it just paints texture on top of wax. It reads like a skin filter, not skin. Every extra enhancement pass also adds the AI's own interpretation, and those changes compound.
+
+
+
+
+The second half of this mistake is identity drift. Push a creative upscaler or face-enhance setting too hard and the eyes, nose or jaw quietly change. Same vibe, different person.
+
+
+
+
+Fix: Get the texture right at generation. Use upscaling only to enlarge a face that already has real structure, and keep the settings conservative.
+
+My workflow: one reference, 8 shots
+
+Here's the system I built for an 8-image realistic beauty series of one character. I ran it on Nano Banana 2.1 on Higgsfield.
+
+
+
+
+It rests on one idea: a single approved reference image controls identity. Everything else (camera angle, framing, crop, pose) can change between shots. The person can't.
+
+The 8-shot plan
+
+#
+
+	
+
+Shot
+
+	
+
+Lens
+
+
+
+
+01
+
+	
+
+Front beauty portrait
+
+	
+
+85mm
+
+
+
+
+02
+
+	
+
+Eye, extreme macro
+
+	
+
+100mm macro
+
+
+
+
+03
+
+	
+
+Nose + lips, extreme macro
+
+	
+
+100mm macro
+
+
+
+
+04
+
+	
+
+Three-quarter beauty portrait
+
+	
+
+85mm
+
+
+
+
+05
+
+	
+
+Ear + hair detail
+
+	
+
+100mm macro
+
+
+
+
+06
+
+	
+
+Hair down + hands portrait
+
+	
+
+85mm
+
+
+
+
+07
+
+	
+
+Side profile, eye + cheek detail
+
+	
+
+100mm macro
+
+
+
+
+08
+
+	
+
+Neck + collarbone detail
+
+	
+
+85–100mm close-up
+
+
+
+
+Every shot is vertical 4:5.
+
+Step 1: Open every prompt with an identity lock
+
+Each prompt starts with the same instruction, so the model never gets a chance to "reinterpret" her:
+
+Use the uploaded blonde female character reference as the ONLY identity reference. Preserve her exact facial identity, face shape, forehead, eyebrows, grey-green eyes, nose, lips, jawline, chin, skin tone, natural freckles, hairline, blonde hair color, hair texture, age and recognizable facial characteristics.
+
+Copy prompt
+Recreate
+
+If I'm also using a second image for composition, I say so explicitly: use it ONLY for camera angle, framing, crop, pose, lighting and composition. A composition reference should never overwrite the character's identity.
+
+Step 2: The Realistic Skin System
+
+Realism comes from keeping small imperfections, not removing them. Every close-up includes some of these:
+
+
+
+
+Visible natural pores
+Fine peach fuzz
+Subtle freckles
+Tiny pigmentation variations
+Natural under-eye texture
+Realistic eyelid folds
+Individual eyebrow hairs
+Individual eyelashes
+Natural lip lines
+Realistic skin highlights
+Tiny imperfections
+Fine hair strands
+Natural facial asymmetry
+
+Two guardrails sit on top of that list. No excessive sharpening or artificial skin damage. And no fake aging: she's a young adult, so no deep wrinkles, loose skin or elderly features just to look "detailed."
+
+
+
+
+I don't paste all thirteen into every prompt. I pick the ones that matter for that crop. The eye macro needs eyelashes and eyelid folds. The lips macro needs lip lines.
+
+Step 3: Split the lens by job
+
+Portrait shots (01, 04, 06): 85mm portrait lens, eye-level camera, f/1.8–f/2.8 look, shallow depth of field, natural lens compression, professional full-frame look.
+
+
+
+
+Macro shots (eye, lips, ear/hair, side profile): 100mm macro lens, very close focusing distance, extremely shallow depth of field, critical focus on the target feature, RAW micro-detail.
+
+
+
+
+This split is how I avoid Mistake 5. Each shot asks for only the detail its framing can actually show.
+
+Step 4: Same light, same world
+
+Consistency across a carousel matters as much as realism in a single frame.
+
+
+
+
+Lighting: a large, soft, natural or diffused source from the front-left or side-front. It should reveal skin texture without making it harsh. I want soft forehead highlights, natural eye catchlights, gentle nose highlights, subtle cheekbone definition, realistic lip reflections, soft jaw shadows and visible skin texture.
+
+
+
+
+No harsh flash, no dramatic dark shadows, no neon, no glossy skin.
+
+
+
+
+Background: a warm off-white / cream minimal indoor wall, softly blurred. Macro shots barely show any background, but whatever does show keeps the same warm neutral tone.
+
+
+
+
+Styling: a simple black sleeveless tank top, and bare ears in every shot. No earrings, studs, hoops or piercings. Small rules like this are what stop a series from drifting.
+
+The full eye-macro prompt
+
+Here's shot 02 exactly as I run it:
+
+Use the uploaded blonde female character reference as the ONLY identity source. Preserve the exact same woman, especially her exact grey-green eye color, eyebrow shape, eyelid anatomy, eyelashes, natural freckles and skin tone. Keep her exact young adult age and identity unchanged.
+
+Create an extreme macro photograph of one eye matching the target composition. The eye occupies the central area of the vertical frame, with the eyebrow visible across the upper section and the under-eye area and upper cheek filling the lower section.
+
+Preserve her exact eye shape and grey-green iris. Show highly realistic iris fibers, natural pupil, wet corneal reflection, subtle catchlight, individual eyelashes, tiny scleral blood vessels and natural eyelid folds.
+
+Show realistic skin microtexture around the eye: visible pores, subtle freckles, fine peach fuzz, tiny imperfections and natural under-eye lines.
+
+Keep makeup extremely subtle and natural with a soft muted mauve-brown eyelid tone. Do not dramatically change her makeup or eyelashes.
+
+Lighting: soft natural window daylight creating a realistic catchlight in the eye.
+
+Background is almost completely excluded because of the extreme crop. Any tiny visible background area should remain the same warm off-white softly blurred indoor wall.
+
+100mm macro lens, extremely shallow depth of field, iris and eyelashes critically sharp, dermatological-level skin realism, professional macro photography, 8K photorealism, vertical 4:5 composition.
+
+No aging, no artificial wrinkles, no beauty filter, no fake eye, no stylization, no text, no logo, no watermark.
+
+
+
+
+See all
+Copy prompt
+Recreate
+
+Notice what it doesn't say: no "flawless," no "perfect," no wall of adjectives. It names specific things the camera would actually see.
+
+The master negative prompt
+
+Different person, changed identity, changed face shape, changed eye color, changed nose, changed lips, changed jawline, age change, elderly appearance, deep artificial wrinkles, beauty filter, airbrushed skin, waxy skin, plastic skin, excessive skin smoothing, fake freckles, CGI face, 3D render, cartoon style, unrealistic eyes, fake eyelashes, excessive makeup, distorted anatomy, deformed hands, extra fingers, incorrect hair color, fake hair texture, earrings, ear jewelry, piercings, harsh shadows, dark theme, oversaturated colors, blurry details, low resolution, duplicated features, AI artifacts, text, logo, watermark.
+
+See all
+Copy prompt
+Recreate
+
+One honest note: negatives don't work the same everywhere. Some models have a real negative field. Others read it as plain-language instructions. Some ignore it entirely at default settings. If your model has no negative field, keep the "no ..." lines at the end of the main prompt, like the eye macro above.
+
+The consistency command
+
+This goes at the end of every single prompt in the series:
+
+CRITICAL CONSISTENCY: The uploaded blonde female image is the ONLY identity reference. Generate the exact same woman in every image. Camera angle, framing, crop and pose may change, but her face, facial anatomy, age, grey-green eyes, skin tone, freckles, blonde hair color, hairline and recognizable identity must never change. Maintain authentic natural human skin microtexture. Absolutely no earrings or ear jewelry. No beautification, no age modification, no plastic skin, no CGI appearance, no text, no logo and no watermark.
+
+See all
+Copy prompt
+Recreate
+
+The identity lock opens the prompt and the consistency command closes it. Everything in between is about the shot.
+
+
+
+
+[bracket: before/after or result notes from the 8-shot run, e.g. which shots needed rerolls and why]
+
+The same rules for UGC and character frames
+
+The beauty series is the strictest version of this system. For UGC-style ads and character frames, the rules stay the same but the framing changes:
+
+
+
+
+Snapshot framing. Describe the photo as something a real person took: a casual phone snapshot, eye level, slightly imperfect composition. A "candid" or "documentary" framing gives the model permission to be less polished. OpenAI's image prompting guide also suggests phrases like "real photograph" or "iPhone photo" for photoreal output.
+Mixed indoor light. Real UGC is shot under a window plus a ceiling light, or a lamp plus a laptop screen. One clean studio key light is a giveaway in that context.
+Slightly louder flaws. A phone photo shows a bit more: a little shine on the forehead and nose, a stray hair, a small blemish, slightly softer detail than a pro camera. Turn the imperfections up a notch, but stay specific. One or two named flaws, not a list.
+
+The identity lock and consistency command carry over unchanged. They matter even more in UGC, because one character often has to hold up across a whole set of ad frames.
+
+
+
+
+[bracket: an example UGC/character prompt or frame from Nishit's own work, if you want one here]
+
+The Higgsfield finishing pass
+
+Once the generation is right, I do a light finishing pass in Higgsfield.
+
+Skin Enhancer
+
+Higgsfield's Skin Enhancer guide lists the tool under Edit and gives three enhancement strengths:
+
+
+
+
+Soft Skin: described as made for natural looks, preserving texture.
+Realistic Skin: balances smoothing, detail restoration and color correction.
+Imperfect Skin: the third option. Higgsfield's guide doesn't say much more about it, and at least one reviewer found it added too many blemishes.
+
+There are also optional filters for skin softness, texture definition, lighting, color balance, eye clarity and highlight/shadow detail.
+
+
+
+
+My rule: test Soft and Realistic on the same image and pick the one that looks less "processed." Only reach for Imperfect if the shot really needs it, and zoom in to check it hasn't turned the skin crunchy. [bracket: Nishit's own take on Imperfect Skin, if he tested it]
+
+
+
+
+What I used for this series: [bracket: Nishit's actual Skin Enhancer mode and credit cost]
+
+Upscaling
+
+Higgsfield's Image Upscaler offers Topaz (with sharpening, denoise and face enhancement) and ByteDance Upscale (2K/4K). The safe choices for portraits are a standard, non-generative mode and light settings. Higgsfield's own FAQ says generative Topaz modes like Redefine add more creative change and recommends Standard modes for the closest match. That extra change is exactly where identity drift creeps in.
+
+
+
+
+What I used: [bracket: Nishit's actual upscale engine, mode and settings]
+
+
+
+
+A few rules I stick to:
+
+
+
+
+Fix texture at generation, not at upscale. The finishing pass refines. It doesn't rescue.
+Go easy on sharpness and face enhancement. Krea's enhancer docs warn that high sharpness and clarity can add visible pores and fine lines to skin that was originally clean.
+Don't stack passes blindly. Each enhancement adds its own interpretation. If you go big, two smaller steps beat one giant jump.
+Compare against the original at the same zoom. If the eyes, nose or jaw changed, back off.
+
+[bracket: whether you ran Skin Enhancer before or after upscaling, and why]
+
+Quality checklist
+
+Before I approve any image:
+
+
+
+
+Identity: Is it clearly the exact same person? Same proportions, same eyes?
+Skin: Are pores and freckles realistic, not exaggerated?
+Age: Still the same young adult? No fake wrinkles?
+Hair: Color, roots and texture consistent?
+Details: Bare ears (no jewelry), correct hands and nails where visible?
+Focus: On macro shots, is the target feature critically sharp?
+Light: Soft, natural and consistent with the rest of the set?
+Background: Warm, minimal, softly blurred?
+Artifacts: No distorted anatomy, duplicated features or AI glitches?
+Output: Vertical 4:5.
+
+If a frame fails one of these, I reroll or fix that one thing. I don't hide it with an upscale.
+
+Takeaway
+
+Plastic skin isn't a model problem you wait for someone else to solve. It comes from what you ask for, how you light it, and what you do afterwards.
+
+
+
+
+Drop the "flawless" words. Name a few real details. Protect the age. Light from the side. Match the lens to the shot. Lock the identity at both ends of the prompt. Then finish lightly.
+
+Realism lives in the imperfections.
+
+See the full series here: [published Higgsfield project link]
+
+References and further reading
+Higgsfield: The Skin Enhancer guide: where the tool lives and its Soft, Realistic and Imperfect Skin options.
+Higgsfield: AI Image Upscaler: Topaz and ByteDance upscale options, face enhancement, and why Standard modes stay closest to the original.
+Krea: Enhancer documentation: what each upscale setting does, the over-texturing warning, and why stepped upscales stay more controlled.
+Magnific: Skin Enhancer API docs: Creative, Faithful and Flexible modes, with skin detail and grain controls.
+Magnific: How to fix "plastic skin": plain-language causes of plastic skin and natural retouching habits.
+OpenAI: GPT image models prompting guide: photoreal phrasing, how literally camera specs are read, and quality settings for close-up portraits.
+Midjourney: Raw mode docs: how Raw turns off default styling for more photographic results.
+Kling: How to make AI pictures look real: realism prompts, skin edit examples, and a warning against over-adding texture.
+Nano Banana Pro and Nano Banana 2 prompt guide (The Ad Pharm): prose prompts, camera and film-stock cues, and natural-language negatives.
+Plastic skin is a guidance problem (Versely): why high guidance smooths skin, and the specific texture words that actually help.

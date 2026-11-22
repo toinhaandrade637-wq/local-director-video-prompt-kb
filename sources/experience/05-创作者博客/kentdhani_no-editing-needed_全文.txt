@@ -1,0 +1,42 @@
+【项目】NO EDITING NEEDED!（@kentdhani · 创作者博客）
+【链接】https://higgsfield.ai/@kentdhani/blogs/no-editing-needed
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+NO EDITING NEEDED!
+Kent Dhani
+@kentdhani
+56
+0
+0
+
+Thanks for commenting KATANA! Here's the setup.
+
+
+
+
+HOW TO SETUP HIGGSFIELD TO CLAUDE
+
+Claude → Customize → Connectors → Add → Add custom connector
+
+Name: Higgsfield
+URL: https://mcp.higgsfield.ai/mcp
+
+Click Add → Connect → Allow. Done.
+
+
+
+
+In a new chat, type Use Higgsfield AI /katana
+
+- Drop your edited videos dan your video reference
+
+The Prompt
+
+I'm attaching two videos: the first is the REFERENCE, a finished edit that is the target result, and the second is MY FOOTAGE, the content to use. Recreate the reference edit with my footage so the final result looks and feels the same, whatever style the reference is. First, watch the reference more than once every cut and its timing, shot order, transitions, speed ramps, freeze frames, rewinds, zooms, camera moves, effects, color grade, on-screen text, framing, aspect ratio, length, and how each change syncs to the music. Then match every reference moment to the best moment in my footage, adapting it if my footage is shorter, longer or has fewer shots so the structure and rhythm stay the same, and generate any missing shot in the same look using only the people and objects from my footage. Rebuild the edit with the same pacing, transitions, effects, color, text style, aspect ratio and length, keep my face, body, outfit and original motion, rewrite any on-screen text to fit my content, never copy the reference footage, and sync to the reference music unless I attach my own track. Finally, compare the export side by side with the reference with sound, fix every difference in timing, effects, color or framing until it matches, then send me the final MP4.
+
+Enjoy the prompt! Try it now here! 👇🏻
+
+https://higgsfield.ai/s/higgsfield-katana-in-claude-genai-ig-kentdhani-PPaqjP

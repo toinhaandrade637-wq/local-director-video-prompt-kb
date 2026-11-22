@@ -1,0 +1,235 @@
+【项目】How to Generate AI Videos Inside ChatGPT in 2026 (Full Guide)（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/generate-ai-videos-chatgpt-2026
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+How to Generate AI Videos Inside ChatGPT in 2026 (Full Guide)
+Higgsfield
+Oct 6, 2026
+10 min
+
+ChatGPT can't render video itself, so you connect it to a platform that can. Add that platform's plugin from the Plugins Directory, sign in, and describe the shot in chat. ChatGPT can pick a model, run the generation, and return the clip. Generations run through your connected video platform. With the Higgsfield plugin, each generation uses your Higgsfield credits at the standard rate.
+
+What Do You Need to Generate AI Videos in ChatGPT?
+
+ChatGPT does not currently include native video generation. OpenAI discontinued the Sora web and app experiences on April 26, 2026, followed by the Sora API on September 24, 2026. This guide uses the Higgsfield plugin to run video generation from a ChatGPT conversation.
+
+You need three things:
+
+A ChatGPT account with access to the Plugins Directory and the Higgsfield plugin.
+An active Higgsfield subscription.
+The Higgsfield plugin installed and authorized.
+How to Do It on Higgsfield
+
+Higgsfield is an AI-native creative suite with 35+ models and tools, including Cinema Studio 4.0, Seedance 2.5, Kling 3.0, Nano Banana Pro, and Soul 2.0.
+
+Connecting Higgsfield takes a few steps:
+
+Open the Plugins Directory in ChatGPT.
+Find Higgsfield.
+Click Add.
+Sign in with your Higgsfield account to authorize.
+
+Once it's connected, just ask ChatGPT to generate. You can also start from higgsfield.ai/mcp and select Add Higgsfield plugin. If the connection drops or throws an authorization error, reconnect from Settings → Plugins → Higgsfield.
+
+How to Generate Your First Video
+
+Step 1: Connect Higgsfield to ChatGPT. Open Plugins in ChatGPT, find Higgsfield, and follow the installation prompts. Connect your Higgsfield account when asked.
+
+Step 2: Describe the video in plain language. Open a new chat and either type Higgsfield into your request or pick it from the list of available tools. Then write the brief as if you were handing it to a production team, covering the subject, the setting, the mood, and how long the clip should run.
+
+If you want to animate a photo, attach it with the paperclip beside the message box. You can also ask ChatGPT to show the credit cost and hold off until you approve it, which is handy when you're comparing models or running several steps in a row. 
+
+Step 3: Let ChatGPT pick the model and generate. ChatGPT turns your brief into a complete prompt, selects a suitable Higgsfield model if you haven't named one, sets the parameters, and starts the generation. To use a specific model, name it in your request. It must be available through the plugin and support your chosen inputs and settings.
+
+Step 4: Review the result in the chat. The finished clip shows up in the same conversation, ready to download or revise. Higgsfield also saves it to Assets, alongside the generations you've made on the web.
+
+Step 5: Ask for changes directly. Reply in the same conversation with what you want changed. Where supported, ChatGPT can build on the previous generation, using it as context or input, and then run whichever generation or editing workflow suits that change.
+
+How Higgsfield Credits Work in ChatGPT
+
+Every generation through the Higgsfield ChatGPT plugin uses your existing Higgsfield credit balance at standard generation rates. The exact cost depends on the model, duration, resolution, and other settings. Unlimited access and free generations available on higgsfield.ai do not apply when generating through the ChatGPT plugin. You can ask ChatGPT to show the credit cost before it generates and wait for your approval.
+
+How to Write a Video Prompt That Gets the Shot You Want
+
+A good video prompt covers six things. Each one removes a guess the model would otherwise make for you.
+
+How to Write a Video Prompt That Gets the Shot You Want
+
+Element
+
+	
+
+What to Specify
+
+	
+
+Example
+
+
+
+
+Subject
+
+	
+
+Who or what is on screen
+
+	
+
+A baker in a flour-dusted apron
+
+
+
+
+Action
+
+	
+
+What happens during the clip
+
+	
+
+She pulls a tray of croissants from a stone oven
+
+
+
+
+Setting
+
+	
+
+Where and when
+
+	
+
+A small bakery at dawn
+
+
+
+
+Camera
+
+	
+
+Shot size and movement
+
+	
+
+Starts on a close-up of the tray, then slowly pulls back
+
+
+
+
+Light
+
+	
+
+Direction, color, and quality
+
+	
+
+Warm window light from the left, soft shadows
+
+
+
+
+Mood
+
+	
+
+The feeling the scene should carry
+
+	
+
+Calm and cozy
+
+Here is a template you can copy and fill in:
+
+“Generate a [length]-second [vertical or horizontal] video of [subject] [action] in [setting]. Camera: [shot size and movement]. Light: [direction and quality]. Mood: [feeling]. Before generating, show me the credit cost and wait for my confirmation.”
+
+From vague to specific. A vague request leaves every choice to the model:
+
+“Make a video of a bakery.”
+
+A more specific prompt gives the model clearer direction:
+
+“Generate a 10-second vertical video of a baker pulling a tray of golden croissants from a stone oven, steam rising, flour dusting the counter. The camera starts on a close-up of the tray and slowly pulls back to reveal a small bakery at dawn. Warm window light from the left, soft shadows. Calm, cozy mood. Before generating, show me the credit cost and wait for my confirmation.”
+
+To pick the model yourself, add its name to the request, for example "Use Seedance 2.5."
+
+How to Refine Your Video After the First Generation
+
+Treat the first generation as a draft and compare it with your brief in three areas:
+
+Motion: Does the action read correctly, and does it run at the right speed?
+Composition: Are the framing, the subject's position, and the background what you described?
+Pace: How fast does the camera move, and how does the clip build across its length?
+
+Also look at the details that tend to slip, such as hands, text, and logos.
+
+Say the first generation of the bakery prompt came back with the camera pulling back too fast and the croissants looking pale. The next message can name both fixes and what to keep:
+
+“Keep the same scene and light. Slow the pull-back so it takes the full ten seconds, and make the croissants a deeper golden brown. Keep the steam rising.”
+
+Here are examples of follow-up instructions you can give:
+
+How to Refine Your Video After the First Generation
+
+What to Change
+
+	
+
+Example Follow-Up
+
+
+
+
+Pacing
+
+	
+
+"Slow the camera pull-back to the full ten seconds"
+
+
+
+
+Composition
+
+	
+
+"Frame the baker on the left third with the oven behind her"
+
+
+
+
+Motion
+
+	
+
+"Have her lift the tray slowly with both hands"
+
+
+
+
+Color or light
+
+	
+
+"Make the light warmer"
+
+
+
+
+One object or the background
+
+	
+
+"Replace the tray with a basket of rolls"
+
+Each new generation uses credits, so state what should stay the same before generating another version.
+
+HOW TO GENERATE AI VIDEOS INSIDE CHATGPT IN 2026 (FULL GUIDE)
+Connect Higgsfield to ChatGPT

@@ -1,0 +1,562 @@
+【项目】CELL PHONE THEFT CASE（@picassong · 创作者博客）
+【链接】https://higgsfield.ai/@picassong/blogs/cell-phone-theft-case
+【提示词块】3
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+CELL PHONE THEFT CASE
+P
+@picassong
+37
+1
+0
+Find My Phone
+
+Turn your own photo into a figurine, dress it for a cozy morning, and bring one very stubborn sneeze to life.
+
+
+
+
+Hi, I’m Picassong! Have any of you ever had this happen? Anyone who’s ever held their phone in their hand, thought it was gone, and spent ages looking for it—even just once!!!  In this episode, I’ll show you how to turn those little everyday moments into something fun.
+
+
+
+
+I designed this workflow so you can start with your own photo and make your own version. The example below follows a model reference through a figurine sheet, a homewear change, and the finished video. The image prompts are reusable recreations for this tutorial; the final video prompt is the approved template from this episode.
+
+Make your version in three steps
+Upload your own photo and create a figurine reference sheet.
+Change the figure’s “outfit,” then prepare reference images of your phone and bedroom.
+Copy the final video prompt, connect the references, replace the pet’s name, and generate and review your scenes.
+01 / Image prompt 1 - Change Character
+
+Start with a clear photo of yourself. A full-body image makes it easier to carry your outfit into the figurine, while a clearly visible face helps retain your recognizable features.
+
+[Insert image: Model Image.jpg]
+Starting reference — the model image.
+
+
+
+
+[Insert image: Character Sheet1.png]
+Figurine result — front full-body view, front face close-up and side profile.
+
+Upload only your own photo for this step. The prompt describes the figurine style and three-panel layout, so a separate doll-style image is not required.
+
+
+
+
+Using ONE attached image, create one refined 3D fashion-doll character sheet. No second reference is required.
+
+
+
+
+IDENTITY
+
+Preserve the subject’s recognizable face contour, eye shape and spacing, iris color, eyebrows, nose profile, lip shape, and permanent facial details.
+
+Keep the original skin tone and undertone.
+
+Translate the person into a doll without replacing their identity with a generic pretty face.
+
+
+
+
+CONSISTENT DOLL STYLE
+
+Use a subtly enlarged anatomical head, narrow shoulders, a slender torso, small delicate hands, and relatively long, fine limbs.
+
+Maintain an elegant fashion-doll silhouette with balanced proportions.
+
+Do not force a five-head ratio, shorten the legs, or create a chibi body.
+
+
+
+
+Use a softly sculpted face with natural vertical length, gently defined cheeks, a softly tapered jaw, a readable nose bridge, and naturally shaped lips.
+
+Moderately enlarge the eyes while preserving their original shape and defined upper eyelids.
+
+No huge round eyes, oversized irises, inflated cheeks, shortened midface, tiny button nose, or exaggerated pout.
+
+For an existing doll reference, preserve its facial geometry and body proportions rather than restylizing it.
+
+
+
+
+SOURCE STYLING
+
+Match the attached image’s hair color, length, parting, texture, hairstyle, makeup, eyewear, clothing, footwear, and accessories.
+
+Do not automatically add waves, a half-up hairstyle, makeup, or glasses.
+
+Preserve outfit colors, patterns, layering, seams, closures, and distinctive details.
+
+Fit the clothing naturally to the doll body.
+
+Complete unseen areas conservatively without adding elaborate new details.
+
+
+
+
+MATERIALS
+
+Softly matte resin-like skin with restrained translucency.
+
+Seamless body without visible joints.
+
+Realistic miniature textiles, leather, metal, and clean individual hair strands.
+
+No pronounced human pores, waxy shine, or excessive gloss.
+
+
+
+
+LAYOUT
+
+One horizontal 16:9 image with three equal vertical panels and narrow white gutters.
+
+LEFT: complete front-facing full-body view, entire hairstyle and shoes visible with small margins.
+
+CENTER: large straight-on face close-up with upper shoulders.
+
+RIGHT: large left-facing side-profile close-up with upper shoulders.
+
+Maintain exactly the same facial geometry, proportions, colors, and styling across all views.
+
+Adjust framing rather than stretching the body.
+
+
+
+
+QUALITY
+
+Pure-white background, #FFFFFF, soft neutral studio lighting, sharp details.
+
+Smooth, even colors and continuous shading.
+
+No blotchy color bleed, cloudy shading, patchy gradients, banding, digital noise, coarse grain, compression artifacts, distorted anatomy, extra fingers, duplicate accessories, captions, or watermarks.
+
+See all
+Copy prompt
+Recreate
+@image2
+02 / Image prompt 2 - Change Cloth
+
+Next comes the powder-blue towel turban, striped pajamas, soft blanket and mint eye patches. Keep the same face and proportions so the character remains recognizable from the first sheet to the final scene.
+
+
+
+
+[Insert image: Character Sheet1_cloth change.png]
+Homewear result — the same figurine in its morning skincare outfit.
+
+Upload the figurine sheet you created in Step 1. This template changes the outfit and tucks the hair into a towel; glasses are removed for the skincare look.
+
+Create ONE horizontal 16:9 three-panel 3D doll character sheet using the attached photograph as the reference for facial identity, natural skin tone, iris color, and hair color.
+
+REFERENCE PRIORITY
+
+Extract the subject’s recognizable face contour, eye shape and spacing, iris color, eyebrow shape, nose, lips, and distinctive permanent facial features.
+
+Preserve the source person’s natural skin tone and hair color, interpreted under neutral lighting.
+
+Do not copy the source clothing, accessories, hairstyle, body proportions, pose, background, lighting, or makeup.
+
+If the photograph shows multiple views of the same person, treat them as one identity.
+
+The source determines the facial identity, skin tone, iris color, eyebrow color, and hair color.
+
+All body proportions, clothing, accessory colors, pose, and presentation are fixed below.
+
+FIXED DOLL PROPORTIONS — HIGHEST PRIORITY
+
+Use approximately FIVE HEADS in anatomical height.
+
+One head unit is measured from the anatomical crown to the chin.
+
+Total height from anatomical crown to bare soles is approximately five head units, excluding towel volume.
+
+Use a visibly enlarged head, narrow shoulders, a short delicate neck, compact torso, small hands, and proportionately short, slender limbs.
+
+Maintain an elegant collectible fashion-doll silhouette.
+
+Enlarge the entire skull and face, not merely the hair or towel.
+
+Do not inherit the photographed person’s body proportions.
+
+Do not generate realistic 7–8-head fashion-model anatomy.
+
+Do not lengthen the legs or shrink the head to fill the panel.
+
+Avoid extreme chibi proportions and toddler anatomy.
+
+Use a smooth seamless satin-finish resin body.
+
+No visible ball joints, hinges, or mechanical seams.
+
+FACIAL IDENTITY AND SKIN TONE
+
+Translate the source face into softly sculpted doll anatomy while preserving recognizable facial relationships.
+
+Use enlarged glass-like doll eyes that retain the source eye shape, spacing, and iris color.
+
+Preserve the characteristic nose profile, lip shape, face contour, and eyebrow shape.
+
+Maintain identical facial geometry across all three panels.
+
+Preserve the source person’s natural skin tone and undertone.
+
+Do not lighten, whiten, darken, or recolor the skin to a preset beige.
+
+Remove makeup coloration and environmental color casts while retaining the underlying complexion.
+
+Apply the same skin tone consistently to the face, ears, neck, arms, hands, and legs.
+
+Keep the original identity’s apparent age within the doll stylization.
+
+COMPLETELY MAKEUP-FREE FACE
+
+Show the character after all makeup has been thoroughly removed.
+
+This is a bare face, not a natural-makeup look.
+
+Remove eyeshadow, pearl shimmer, glitter, eyeliner, mascara, false lashes, blush, contour, highlighter, foundation, lipstick, lip tint, and lip gloss.
+
+EYELIDS:
+
+Natural skin color with no cosmetic tint, shimmer, black lash band, eyeliner wing, or highlighted inner corners.
+
+Preserve eyelid shape and eye size.
+
+EYELASHES:
+
+Only short, fine, sparse natural lashes.
+
+No thick curled lashes, extensions, mascara, or dramatic lash styling.
+
+Do not change eye anatomy when removing false lashes.
+
+EYEBROWS:
+
+Preserve the source shape and natural color.
+
+Use individual soft brow hairs without cosmetic fill or sharply penciled edges.
+
+CHEEKS AND NOSE:
+
+Remove applied blush and contour.
+
+Preserve natural complexion variation without adding artificial pink patches or making the skin gray.
+
+LIPS:
+
+Preserve the source lip shape and volume.
+
+Use a subdued natural lip color appropriate to the person’s complexion.
+
+Do not impose a fixed pink or beige lip color on every subject.
+
+Use a soft satin-matte finish without gloss, lipstick edges, or bright tint.
+
+Keep the resin skin smooth without adding realistic human pores.
+
+No glasses, under-eye patches, masks, skincare stickers, smears, or makeup residue.
+
+HAIR COLOR AND TOWEL
+
+Preserve the source hair color, including clearly visible natural color variation.
+
+Do not automatically change the hair to brown or black.
+
+Do not copy the source hairstyle.
+
+Tuck the hair inside a large pale-lavender bath towel turban.
+
+Leave a few loose, slightly damp strands around the forehead, temples, and ears in the source hair color.
+
+The towel has thick overlapping wrapped folds and a twisted end tucked securely at the top.
+
+Use realistic miniature terry-cloth fibers.
+
+Keep the towel construction identical across views.
+
+FIXED CLOTHING AND PROP PALETTE
+
+These colors apply only to clothing and props, not skin or hair:
+
+Pale lavender: #C9B6E4
+
+White: #FFFFFF
+
+Cream white: #F3EEE5
+
+Dark navy: #29334F
+
+Deep-red piping: #9B3444
+
+Dark-teal sock accents: #24545A
+
+Use the same pale lavender for the towel, pajama stripes, blanket checks, sock bodies, and pillow.
+
+Preserve these base colors under neutral lighting.
+
+Do not inherit clothing colors or color casts from the source photograph.
+
+FIXED PAJAMA SET
+
+A matching short-sleeved button-up shirt and relaxed shorts.
+
+Fine vertical pale-lavender and white stripes in soft, lightweight miniature cotton.
+
+The shirt has a notched collar, one chest patch pocket, small white buttons, and thin deep-red piping along the collar, front opening, sleeve hems, and pocket edge.
+
+Fasten every front button below the natural collar opening.
+
+Keep the front placket aligned and fully closed, with no gaps.
+
+Keep the shirt untucked.
+
+The shorts have matching stripes and thin deep-red piping near both hems.
+
+Keep garment length, stripe scale, and fit consistent across subjects.
+
+Fit the outfit to the fixed doll proportions.
+
+FIXED BLANKET
+
+Drape a thick soft fleece blanket over both shoulders.
+
+Use large checks in pale lavender, cream white, and dark navy.
+
+Let the blanket hang loosely along both sides to approximately ankle height.
+
+Leave the center front open so the pajamas remain visible.
+
+Allow both arms to emerge naturally.
+
+FIXED SOCKS
+
+Slouchy knitted mid-calf socks.
+
+Pale-lavender bodies with dark-teal cuffs, toes, and heels.
+
+Soft gathered folds around the ankles.
+
+No shoes.
+
+FIXED PILLOW AND POSE
+
+One plain pale-lavender square cotton pillow.
+
+Its side length is approximately 1.3 anatomical head lengths.
+
+Include stitched edges and natural compression at the grip.
+
+The full-body doll faces forward with an upright head and a relaxed neutral expression.
+
+Legs straight, feet parallel and slightly apart.
+
+The doll’s left hand, on the viewer’s right, holds the pillow by its upper corner beside the leg.
+
+The opposite arm rests naturally at the side.
+
+No handbag, jewelry, or extra props.
+
+FIXED THREE-PANEL LAYOUT
+
+One horizontal 16:9 image with three equal vertical panels and narrow white gutters.
+
+LEFT:
+
+Complete straight-on full-body view.
+
+Show the entire towel and both sock soles with small margins.
+
+Clearly display the enlarged head and compact five-head proportions.
+
+CENTER:
+
+Large straight-on face close-up with upper shoulders.
+
+Both eyes visible, face centered.
+
+Clearly show the bare eyelids, sparse lashes, and natural matte lips.
+
+RIGHT:
+
+True left-facing side-profile close-up with upper shoulders.
+
+Show the forehead, nose, lips, chin, ear, and wrapped towel.
+
+Match the center panel’s facial geometry exactly.
+
+Use the same identity, skin tone, hair color, outfit, and materials in every panel.
+
+Do not copy the source pose or composition.
+
+LIGHTING AND MATERIALS
+
+Pure-white background, #FFFFFF.
+
+Soft neutral studio lighting with gentle shadows and controlled highlights.
+
+No warm color grading, colored rim lights, dramatic contrast, or scenery.
+
+Smooth satin-finish resin character.
+
+Realistic miniature textile detail on the towel, pajamas, blanket, socks, and pillow.
+
+Clean individual hair strands.
+
+No added human pores.
+
+CLEAN QUALITY
+
+Smooth, uniform colors and continuous tonal transitions.
+
+No blotchy color bleed, cloudy shading, patchy gradients, color banding, digital noise, coarse grain, compression artifacts, or artificial texture buildup.
+
+Preserve fine textile detail without adding image grain.
+
+No distorted anatomy, extra fingers, duplicate objects, visible joints, text, logos, panel labels, or watermarks.
+
+FINAL CONSISTENCY RULE
+
+Between different source photographs, vary only the facial identity, natural skin tone, iris color, eyebrow color, and hair color.
+
+Keep doll proportions, makeup-free styling, towel construction, clothing, prop colors, pose, layout, and lighting fixed.
+
+See all
+Copy prompt
+Recreate
+@image1
+03 / Assets Image
+
+Please have a picture of a sparkly flip phone or your own cell phone ready. Upload the photo to create your own personalized version.
+
+
+
+
+[Insert image: cell phone.png] - @image3
+
+Cell phone reference material
+
+
+
+
+[Insert image: pink Room.png] - @image4
+
+Bedroom reference material — A cream-colored texture with a pink theme and blue accents.
+
+@image3
+@image4
+04 / The Made Video
+
+It’s hilarious to see someone holding a cell phone and searching for it everywhere, only to look embarrassed when they finally find it in their own hand.
+
+
+
+
+If the model you’ve chosen requires a shorter clip or separate audio, combine the footage and sound to match the timeline.
+
+
+
+
+Find My Phone — Completed Episode.
+
+[When creating the video]
+
+please upload: a character in casual clothes - @Image1,
+
+a character in outdoor clothes - @Image2,
+
+and a cell phone - @Image3.
+
+Background - @Image4
+
+
+
+
+No audio reference file is required. The prompt asks for a creative voice that suits the character.
+
+video prompt
+
+Create a 30-second horizontal 16:9 cinematic comedy, 720p, with Japanese dialogue.
+
+
+
+Use @Image 1 for the protagonist's exact home appearance and @Image 2 for the same protagonist's finished appearance. Preserve identity, face, eyes, skin tone, proportions and original visual medium. A doll stays a doll with seamless body; a photographed person stays photorealistic. Match reference clothing, hair, makeup and accessories. Use @Image 3 for the ONLY phone, matching its design, color and controls at a constant palm-fitting size. Use @Image 4 for the setting, lighting and fixed furniture layout. Reference sheets define appearance, not a multi-panel video.
+
+
+
+Generate an original Japanese voice suited to the protagonist: light, slightly breathy, expressive and subtly aloof, with sleepy drawn-out vowels. Keep it consistent through dialogue, cries and sighs. Give the unseen friend one distinct, slightly lower, dry female voice for both incoming messages.
+
+
+
+Begin lounging on the bed or seating present in @Image 4, wearing the complete @Image 1 look. Push close as the protagonist lazily whines, "あ〜、出かけたくな〜い！" Suddenly spring up. Use lightning-fast whip-pan match cuts and detail shots to reach the exact @Image 2 appearance: adjust clothes, fasten an existing accessory, groom the reference hairstyle, and show mascara or lip-color details only if appropriate. Do not invent absent styling. Snap to the face, chin lifted: "準備オッケー！"
+
+
+
+While looking toward the mirror and adjusting hair or clothing with LEFT hand, RIGHT casually scoops up the phone from a nearby surface as an automatic background gesture. The protagonist never looks at it, pauses, checks the screen or acknowledges picking it up. Keep the camera focused on the face and preparation; the pickup occurs low at the edge of an ordinary medium shot. No phone insert, zoom, focus pull, sparkle, sound accent or deliberate presentation. The phone is genuinely acquired here but the action should not call attention to itself. RIGHT then holds it naturally at the side until the ending.
+
+
+
+LEFT checks a real pocket, or a nearby bag if no pocket exists. Face close-up: "あれ、ケータイどこ？" Frantically dart between three different search spots. LEFT lifts existing cushions, bedding or tabletop objects. Quick jump cuts and whip pans suggest absurd speed without literal teleportation or duplicates. Punctuate the search with facial close-ups: "どこ！どこ！どこなの〜〜〜！" Stretch the final cry into a desperate comic wail. RIGHT continues holding the phone casually without displaying or examining it.
+
+
+
+Crouch for ONE low search using the SAME phone's fictional built-in white light, activated absentmindedly. LEFT supports the body. Search a real furniture gap or beside furniture if no gap exists. Never invent an opening beneath a solid base. No realization yet.
+
+
+
+A short bright two-note message chime interrupts. Sit beside the furniture and stay there until the end. For a flip phone, LEFT opens the lid to about 150 degrees while RIGHT supports the lower half. Clearly expose the upper INTERNAL screen and lower PHYSICAL keypad before typing. Screen: "もう出た？" The friend reads the incoming message; protagonist stays silent.
+
+
+
+First reply: stable over-shoulder close-up of the ENTIRE OPEN phone, showing screen, hinge and lower keypad together. RIGHT holds steady. LEFT fingertips hammer the physical numeric keys at comically extreme speed, like a tiny machine gun. Use rapid alternating taps and localized fingertip motion trails with a dense, fast keypad rattle. Fingers remain aligned with the exposed lower keys; phone, hinge and text stay sharp. The reply fills the screen almost instantly: "ちょい待って、今ケータイ探してる！" Protagonist reads it briskly. Emphasize "ケータイ探してる！" inside screen. Press the physical send key. Keep the lid OPEN.
+
+
+
+The SAME chime sounds once as the friend's second message appears: "…今、手に持ってるじゃん。" The SAME friend voice reads it. Protagonist never speaks this line. Music stops. Eyes track from the message toward the gripping RIGHT fingers. Freeze mid-breath, then slowly lift the SAME OPEN phone beside the cheek. NOW deliberately frame face, phone, wrist and fingers sharply together for the first unmistakable realization.
+
+
+
+RIGHT eyebrow shoots extremely high; LEFT brow drops and left eyelid narrows. Preserve eyeball size and identity. Lips part, then snap shut with one dry comic tick. Look phone → camera. LEFT index slowly points at the phone. This is the ONLY realization; never resume searching.
+
+
+
+Cheeks and ear tips flush. Disguise pointing by adjusting an existing collar, accessory or hair strand. Swallow and clamp lips. RIGHT keeps phone OPEN beside the cheek.
+
+
+
+Second reply: continuously follow the ALREADY-OPEN phone as RIGHT lowers it to chest height. Settle over shoulder, keeping internal screen, hinge and exposed lower keypad visible. LEFT fingertips again type at absurdly high speed with localized motion trails and rapid-fire key clicks. Display "今出るとこ〜" almost instantly. Protagonist says with a tiny hesitation, then false casual confidence, "え？ うん、今出るとこ〜。" Press send. Never close or fold the phone.
+
+
+
+End on a silent face close-up, open phone visible in RIGHT hand. Chin lifted, try to look composed. ONE mouth corner twitches twice, tiny and uneven. Immediately dart eyes sideways toward camera without turning the head. Press lips tighter; flushed ears betray embarrassment. Hold the sheepish glance beneath forced composure. No grin, teeth, wink or laughter. Hard cut to black.
+
+
+
+PHONE PRIORITY: If @Image 3 is closed, use it for appearance only; open its hinge before typing. Keep it OPEN at the SAME angle through both replies and ending. Never type on the lid, outer shell or external display. No hidden keypad, hinge collapse, duplicates, resizing, hand swaps or setting down. RIGHT holds; LEFT types. For a touchscreen reference, preserve that type and type rapidly on its actual on-screen keyboard.
+
+
+
+Use motivated angles between actions, stable face close-ups during speech and clear phone shots during texting. Playful music, swishes, sighs and fast key clicks. Incoming chimes play once before friend's speech. No extra dialogue, outside-screen subtitles, narration, repeated discovery, doorway or exit. Clean reference textures; no blotchy shading, banding, grain, noise or extra fingers.
+
+See all
+Copy prompt
+Recreate
+
+Make it yours with your own photo and pet. 
+
+Share your version on Instagram with @picassong.art and #picassong_art 
+
+I’d love to see who ends up wearing the eye patches! 
+
+You can also find me on Higgsfield as @picassong. 
+
+Please use photos you own or have permission to use; sharing this workflow does not grant rights to third-party reference images or character designs.
+
+@PICASSONG

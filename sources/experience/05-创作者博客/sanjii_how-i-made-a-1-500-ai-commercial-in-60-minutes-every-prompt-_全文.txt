@@ -1,0 +1,743 @@
+【项目】HOW I MADE A $1,500 AI COMMERCIAL IN 60 MINUTES: EVERY PROMPT + THE CLAUDE SKILL（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/how-i-made-a-1-500-ai-commercial-in-60-minutes-every-prompt-the-claude-skill
+【提示词块】19
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I MADE A $1,500 AI COMMERCIAL IN 60 MINUTES: EVERY PROMPT + THE CLAUDE SKILL
+@sanjii
+803
+4
+0
+Before You Start
+
+This is the full prompt library behind a story-driven smart TV commercial: one family, one remote, six scenes. A grandma freezes a speeding van, an office worker pauses his boss, a grandpa rewinds to age four, a commuter rewinds a train, a schoolboy multiplies a lollipop, and the whole family ends up together in front of the TV. Six scenes, seventeen Seedance 2.5 generations, built from sixteen reference images.
+
+
+
+
+Build the assets first. The family, the remote and the locations come back across every scene and again on the couch. If each generation invents its own version of them, the commercial falls apart. Lock them once as images, then reuse them.
+
+
+
+
+The stills were made with Soul Cinema (character sheets, locations and the lollipop) and Seedream 5.0 Pro (the remote). Every scene is Seedance 2.5: one generation per scene, with its own cuts inside.
+
+
+
+
+Everything is driven by a Claude Skill running on Claude Opus 5.5, and this is the part worth saying plainly: the Skill writes the video prompts for you. You describe a scene in a couple of plain sentences and attach the references, and the Skill turns it into a full shooting script: references tagged to the right shots, a lens and camera for every shot, timing, physics, lighting, sound and the locks at the bottom. The prompts below are shortened versions of what it wrote for this commercial.
+
+
+
+
+commercial-pipeline.skill
+SKIL
+
+
+
+
+Three things that decided how this one turned out, before you start prompting:
+
+Build the trick into the prop. Every trick uses a real button on the approved remote: OK freezes time, the left arrow rewinds, plus multiplies. The first office version asked for PAUSE and PLAY buttons the remote doesn't have, and it had to be redone.
+Describe what doesn't change. Tell a video model to freeze time and it adds grey filters, glow and ripples. The freeze lock lists everything that stays exactly the same, so the magic happens in a normal-looking world.
+Anchor every transformation. The four-year-old appears on grandpa's exact spot at the fence, holding the same remote, so the viewer connects them without a morph. The change itself is hidden in a cut.
+Stage 1 — The Assets
+
+Every character sheet is lit like an ordinary room, not a studio, so the people blend into real streets and rooms later. The locations are generated without the action, with no riders on the carousel and no train at the platform, because anything that moves should come from the video prompt. Four of them share one camera-and-lens style block, so they look like they were shot for the same commercial.
+
+Grandmother — Character Sheet
+
+What it does: Generates grandma's three-view sheet (full body front, three-quarter back, head-and-shoulders portrait) from a face photo you attach, in ordinary room light. The back view matters: she walks away from the camera at the crosswalk.
+
+Character sheet, three views on one landscape canvas, pure white background: full-body front (arms at sides, feet visible), full-body 3/4 rear view (back of outfit, hair), head-and-shoulders portrait. Same person and wardrobe in all views. Use the attached photo as identity reference — match the face exactly.
+
+Woman mid-70s, fair wrinkled skin, chin-length auburn-brown bob with straight fringe, brown eyes, gold stud earrings, thin gold chain. Heather-blue chunky knit crewneck, navy straight trousers, flat black shoes. Soft build, gentle smile.
+
+Ordinary room light: window daylight + warm ceiling lamp, slightly uneven, soft shadows on floor and under chin, real skin texture. No softboxes, rim light, backdrop gradient, text or labels.
+
+See all
+Copy prompt
+Recreate
+Grandfather — Character Sheet
+
+What it does: The same three-view sheet for grandpa, built from an attached face photo, so his glasses, watch and royal-blue sweater stay identical from the carousel to the couch.
+
+Character sheet, three views on one landscape canvas, pure white background: full-body front (arms at sides, feet visible), full-body 3/4 rear view (back of outfit, hair), head-and-shoulders portrait. Same person and wardrobe in all views. Use the attached photo as identity reference — match the face exactly.
+
+Man early 80s, thick tousled white hair swept back, weathered fair skin, thin gold wire glasses, light blue-grey eyes, gold watch left wrist. Royal-blue crewneck over a white polo collar, navy trousers, dark brown loafers. Slightly stooped, warm half-smile.
+
+Ordinary room light: window daylight + warm ceiling lamp, slightly uneven, soft shadows on floor, under chin, real skin. No softboxes, rim light, backdrop gradient, text or labels.
+
+See all
+Copy prompt
+Recreate
+Office Worker — Character Sheet
+
+What it does: A three-panel sheet of the man in image_1 against a real white wall, lit by window and office light instead of studio strobes.
+
+Character sheet of the man in image_1 — face, hair, beard, wardrobe 100% from reference. Landscape, three equal panels on one plain white wall: full-body front (hand in trouser pocket, feet visible, neutral look); full-body 3/4 back view (curly hair from behind); head-and-shoulders facing camera.
+
+Man early 30s, short dark-brown curly hair, short dark beard and moustache, olive skin, dark brown eyes. Light-blue button-down, small dark monogram left chest, sleeves rolled, top button open, tucked into navy trousers, brown belt and dress shoes. Same outfit in all panels.
+
+Ordinary room light: daylight through blinds + overhead office light, slightly uneven. No softboxes or rim light. Real white wall, soft shadows. Phone-photo realism, no text.
+
+See all
+Copy prompt
+Recreate
+Boss — Character Sheet
+
+What it does: The same sheet for the boss, so the pinstripe suit, red polka-dot tie and slicked hair survive all nine cuts of the office scene.
+
+Character sheet of the man in image_1 — face, hair, wardrobe 100% from reference. Landscape, three equal panels on one plain white wall: full-body front (confident, jacket buttoned, adjusting cuff, feet visible, smirk); full-body 3/4 back view; head-and-shoulders, half-smile, one eyebrow slightly raised.
+
+Man mid-30s, dark brown hair slicked back, side part, clean-shaven, light skin, blue-grey eyes. Navy chalk-stripe suit, peaked lapels, blue-white striped shirt, white collar, red white-dot tie, gold watch left wrist, gold ring right hand, black oxfords. Same outfit in all panels.
+
+Ordinary room light: window daylight + warm table lamp, slightly uneven. No softboxes or rim light. Real white wall, soft shadows. Phone-photo realism, no text.
+
+See all
+Copy prompt
+Recreate
+Schoolboys A and B — Character Sheets
+
+What it does: One prompt, run twice with a different face photo as image_1, gives both boys matching sheets in the same uniform. Sheet B, with the chest pocket, is the lollipop owner.
+
+Character sheet of the teenage boy in image_1 — face, hair, age, uniform 100% from reference. Landscape, three equal panels on one plain white wall: full-body front (weight on one leg, blazer in right hand, backpack on both shoulders, feet visible, squint, half-smile); full-body 3/4 back view (backpack, blazer in hand); head-and-shoulders, relaxed.
+
+Boy 13–14, messy brown hair with fringe, fair skin. White short-sleeve shirt untucked at front, loose navy-and-grey diagonal-striped tie, grey trousers, black school shoes, black backpack, charcoal-grey blazer. Same outfit in all panels.
+
+Ordinary room light: window daylight + ceiling light, slightly uneven. No softboxes or rim light. Real white wall, soft shadows. Phone-photo realism, no text.
+
+See all
+Copy prompt
+Recreate
+Manhattan Crosswalk — Location
+
+What it does: The Midtown avenue and zebra crosswalk. The grandma prompt uses it for geography, materials and light, not for framing.
+
+Wide vertical photo of a Midtown Manhattan avenue, overcast summer midday, from the middle of a crosswalk looking straight down the avenue to the vanishing point. Foreground: weathered zebra stripes, cracked tar-seamed asphalt, faded red bus lane, white arrows and road text, red curb strip at bottom. Left: pale limestone pre-war office block, glass storefronts, beige stone facade with curved glass canopy. Right: brown brick 1920s tower with terracotta cornices, dark glass high-rise reflecting grey sky. Distance: Art Deco tower with tiered white crown and a gold-topped skyscraper in haze. Black lamp posts with flower baskets, cantilever traffic lights, green street signs, yellow banners, orange barrel, shrub planters. Waiting at the light: black SUV, two dark sedans with headlights on, red double-decker tour bus; a couple of distant pedestrians on the far sidewalk. Flat shadowless light, cool grey-blue cast. Casual phone-camera look, 24mm, no text overlays or watermark. 3:4 vertical.
+
+See all
+Copy prompt
+Recreate
+Corner Office — Location
+
+What it does: The empty corner office with the Empire State Building centered in the window, finished with the shared style block.
+
+Corner executive office high in a Manhattan skyscraper, low 3/4 angle from beside the desk toward floor-to-ceiling windows with slim dark mullions: late-afternoon Midtown view, Empire State Building centered, stone towers below, river and harbor fading left. Massive mirror-gloss burl walnut desk, amber grain, brass-inlaid stepped edge, carved base; on it a black Bakelite rotary phone, leather blotter, gilt-edged folder, brass letter opener, small brass lamp, leather cigar box, antique brass-mounted globe. Behind: floor-to-ceiling mahogany bookcase of green and burgundy leather legal volumes with gold spines. Tufted emerald velvet high-back chair with brass studs facing the window, emerald carpet, burl-paneled columns.
+
+STYLE: photorealistic cinema plate, full-frame 2x anamorphic 40mm T1.8: horizontal squeeze, oval bokeh, barrel distortion and edge fringing, sharp center.
+
+NEGATIVE: no lens flares, no film grain, not CGI, no brands or logos, no people.
+
+See all
+Copy prompt
+Recreate
+Fairground Carousel — Location
+
+What it does: The vintage carousel with no riders. The kids and grandpa come from the video prompt.
+
+Vintage carousel at a summer fair, slightly low front angle, whole ride filling the frame against bright blue sky. Heavily blurred foreground at the edges, not covering it: red-white striped cotton-candy stall with pink cones left, blue barrier rail along the bottom, red, yellow and teal balloons right. Carousel sharp: cream and candy-red canopy, gilded rococo frames with painted pastoral panels, yellow-glass medallions, striped cupola, warm bulbs on every edge. Brass poles, honey plank deck, cream-and-red column. White galloping horses, black-white manes, red/teal/green/gold saddles with tassels. Glossy red bulb-lit rim. Striped tents, bunting, green trees, puffy clouds, midday sun, saturated color. Empty ride, sparse blurred crowd, shallow focus.
+
+STYLE: photorealistic cinema plate, full-frame 2x anamorphic 40mm T1.8: horizontal squeeze, oval bokeh, barrel distortion and edge fringing, sharp center.
+
+NEGATIVE: no lens flares, no film grain, not CGI, no brands or logos, no people.
+
+See all
+Copy prompt
+Recreate
+Metro Station — Location
+
+What it does: The empty platform with no train on the tracks, so the video prompt alone controls when the train leaves and rewinds back in.
+
+Soviet-era underground metro platform, low angle down the completely empty hall, no train anywhere. Long barrel vault in white and pale grey plaster, ribbed bays with bas-relief cartouches, laurel garlands and stucco medallions, slightly yellowed. Bronze three-arm chandeliers with milky glass bowls hang on chains, receding in rhythm. Worn grey-brown granite floor, darker edge strip, lamp reflections. Right: empty track pit — two steel rails, dark gravel, tiled far wall with dim service lights, rails vanishing into the shadowed tunnel mouth. Far end: small red LED clock. Cool grey-green plaster, warm tungsten light, red accents. Static, slight vignetting, no readable text.
+
+STYLE: photorealistic cinema plate, full-frame 2x anamorphic 40mm T1.8: horizontal squeeze, oval bokeh, barrel distortion and edge fringing, sharp center.
+
+NEGATIVE: NO train, NO carriage, NO vehicle of any kind on the tracks; no lens flares, no film grain, not CGI, no brands or logos, no people.
+
+See all
+Copy prompt
+Recreate
+School Hallway — Location
+
+What it does: The empty high school hallway with burgundy lockers where the lollipop trick happens.
+
+Long empty American public high school hallway, low standing position on the right side, wide lens down the full length to a dark doorway at the vanishing point. Right: row of tall glossy burgundy lockers with vents, silver handles and combination locks, reflecting lights as warm streaks; tan brick above to a maroon soffit with prismatic fluorescent fixtures receding in rhythm. Left: shorter burgundy lockers under brick piers, cream-and-gold signage band with small blue signs, brick column in foreground, green-white striped awning over a door. Worn matte checkerboard floor of cream and dark green tiles with maroon lines and a long green strip. Drop ceiling, dome camera, red exit sign. Upper left: mezzanine with green chevron railings, maroon fascia, lit classroom windows with small posters. Flat cool fluorescent light, no daylight. After hours, completely empty, nothing on the floor. Casual phone-camera look, 24mm, no readable text. 3:4 vertical.
+
+See all
+Copy prompt
+Recreate
+Mountain Lodge — Location
+
+What it does: The empty lodge living room for the ending (timber beams, stone wall, staircase, TV wall and sectional), finished with the shared style block.
+
+Double-height living room of a modern rustic mountain lodge, wide shot from the sofa corner toward the media wall and staircase. Reclaimed timber beams with saw marks and iron bolts; mezzanine with black iron Craftsman railing and a mounted antler trophy. Left: oak staircase with black balusters along a white shiplap wall, warm recessed spots. Right: dry-stacked tan, cream and rust sandstone wall; in front, barnwood media wall with open shelves of books and ceramics, black TV, low cabinet. Pale white-oak floor, red geometric kilim rug. Cream linen sectional and armchair, red velvet and cream-orange ikat pillows, chunky pine coffee table with books and a succulent, glowing ceramic lamp. Window daylight plus warm recessed lights, bright, no text.
+
+STYLE: photorealistic cinema plate, full-frame 2x anamorphic 40mm T1.8: horizontal squeeze, oval bokeh, barrel distortion and edge fringing, sharp center.
+
+NEGATIVE: no lens flares, no film grain, not CGI, no brands or logos, no people.
+
+See all
+Copy prompt
+Recreate
+The Remote — Prop
+
+What it does: A clean product shot of the remote on white with every button spelled out, because every trick uses one of them. Get the client's approval before you build scenes around it.
+
+Product photo: generic minimalist TV remote, upright, centered on pure white, front view, ~5° top-down tilt. Slim rounded rectangle ~16 x 4 cm, matte black soft-touch plastic, no shine. Matte black rubber buttons, top to bottom: round red power button (white power symbol) left, round black mute button (crossed-out speaker) right; three small round icon buttons: input, screen mirroring, cursor mode; large nav ring with four white chevrons around a raised "OK" button; three small buttons: back, menu, home; wide pill-shaped volume rocker with white minus and plus. Lower half blank. Crisp white icons. Soft neutral light from above-front, no warm tint, soft grey shadow below right, no glossy highlights. Sharp edge to edge, no logos, no text except OK, no hand, no other objects.
+
+See all
+Copy prompt
+Recreate
+The Lollipop — Prop
+
+What it does: A product shot on white of the wrapped lollipop. One lollipop turns into dozens in the school scene, so every copy has to match it.
+
+Product photo of a generic wrapped lollipop on pure white background, floating at a 35° diagonal, candy head upper right, stick to lower left, no shadow. Round ~3 cm ball in a glossy printed plastic wrapper: chocolate-brown base, wide golden-yellow twisted swirl, small scattered yellow bananas dipped in chocolate, one thin dark stripe around the lower half, plain round cream circle on the front — no text, logo or lettering anywhere. Wrapper taut, fine crinkled folds gathering into a small twisted neck with clear plastic showing. Frosted-white translucent stick ~9 cm with a soft highlight. Soft neutral light from front-left, darker rolloff lower right, crisp highlights on folds. Clean e-commerce look, sharp edge to edge, vivid print colors, seamless white, no hand, no other objects.
+
+See all
+Copy prompt
+Recreate
+Stage 2 — The Prompting Framework
+
+Install the Skill, attach the references a scene needs and tell Claude what each image is: this is grandma, this is the crosswalk, this is the remote. From there it tags them in every shot itself. The scene prompts call references by number (@Image 1, @Image 2 and so on), so attach them in the order listed above each prompt.
+
+
+
+
+commercial-pipeline.skill
+SKIL
+
+
+
+
+@GRANDMOTHER — grandma's character sheet (crosswalk, couch)
+@GRANDFATHER — grandpa's character sheet (carousel, couch)
+@OFFICE_WORKER — the employee's character sheet (office, couch)
+@BOSS — the boss's character sheet (office)
+@SCHOOLBOY_A — the shy friend's character sheet (school, couch)
+@SCHOOLBOY_B — the lollipop owner's character sheet (school)
+@MANHATTAN_CROSSWALK — the avenue and zebra crosswalk (grandma)
+@CORNER_OFFICE — the empty corner office (office)
+@FAIRGROUND_CAROUSEL — the carousel with no riders (grandpa)
+@METRO_STATION — the empty platform, no train (metro)
+@SCHOOL_HALLWAY — the empty hallway with lockers (school)
+@LODGE_LIVING_ROOM — the empty lodge living room (couch)
+@LOLLIPOP — the wrapped lollipop on white (school)
+@TV_REMOTE — the remote on white (every scene)
+
+
+
+
+The metro scene and the ending also use a character sheet of the young woman, and the carousel uses a reference of grandpa at age four. Build both the same way before you generate those scenes.
+
+Stage 3 — The Scenes
+
+All seventeen generations are Seedance 2.5. Generate a few takes of each scene and attach the references in the same order every time. Seedance 2.5's Draft mode renders at 480p for a quarter of the price, so you can test takes cheaply and bring only the keepers up to 1080p.
+
+Scene 1 — The Crosswalk
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+
+Style header: each scene prompt locks its look up front: real-time motion, a lens and camera position for every shot, and light that stays the same before and after the trick. No soundtrack goes into the generations, only sound that belongs in the scene (the carousel's quiet fairground organ is part of the fair). Music, titles and the logo go in during the edit.
+
+What it does: Generates a 10-second, five-shot scene on one street: a 600mm long-lens opening, the bystanders' reaction, the click on OK at 5.2s, and a frozen world that only grandma keeps walking through.
+
+References, in order: @Image 1 = @GRANDMOTHER · @Image 2 = @MANHATTAN_CROSSWALK · @Image 3 = @TV_REMOTE
+
+SCENE CONTEXT
+
+A frail old woman with a cane inches across a busy avenue as a white van races at her; bystanders behind her react in horror. Without turning, she clicks a remote: the whole world freezes in one frame and she keeps walking.
+
+
+
+
+ACTIVE REFERENCES
+
+@Image 1: woman in her 70s, short auburn bob, denim-blue chunky knit sweater, navy trousers, flat black shoes; 100% match. Frail, trembling, very slow. Cane in left hand, remote in right hand from frame one.
+
+@Image 2: location - Manhattan avenue, zebra crosswalk, green lamp posts with flower baskets, overcast sky. Geography, materials and lighting only, not framing.
+
+@Image 3: matte black remote, red power button, round OK ring, bottom volume bar; 100% match.
+
+
+
+
+LOCATION MAP
+
+Avenue runs north-south. She crosses from the east curb westward, mid-lanes at start. A logo-free white box van drives northbound, fast, at her from the south. East curb behind her: man in grey suit with lidded coffee cup, young woman with headphones, delivery cyclist. Taxis, cars, pigeons.
+
+
+
+
+FREEZE LOCK
+
+At the CLICK (5.2s) everything except @Image 1 freezes in one frame and stays pixel-identical to the end. Colors and light unchanged, no tint or effect. People stay living humans held mid-pose: no blinks, eye shifts or breathing, eyes on the road, never stone or mannequins. The van stops between two frames: no braking, skid, nose dip or settle.
+
+
+
+
+SHOTS - four HARD CUTs, real time, no slow motion
+
+0.0-2.5s: 600mm super-telephoto from 70m north, waist-up, long-lens operator follow with faint lens tremor. First frame: she is center frame in profile walking screen-right; van behind her compressed against her back. She inches forward, cane trembling; van grows fast, horn blaring. Blurred car roofs sweep the lower frame.
+
+2.5-4.0s: 29 deg static three-shot of the bystanders. Heads snap to the road, man grips the cup (upright, no spill), woman covers her mouth, cyclist drops bike and lunges. Man shouts "HEY!" at 3.0s.
+
+4.0-5.0s: 29 deg static close-up, front three-quarter. She never turns toward the van; headlight glare from screen-right. Her right hand raises @Image 3, trembling thumb onto OK.
+
+5.0-8.5s: 47 deg static from the west end of the crosswalk. She walks toward camera; van roars in from screen-right 4m away, driver shouting; taxi, pigeons in air, bystanders small behind. 5.2s CLICK: next frame the van is frozen, nose 1.5m from her; pigeons, taxi, people freeze too. She walks on past its nose, not looking.
+
+8.5-10.0s: 47 deg static behind the frozen bystanders, their backs in foreground. She walks away along the zebra, back to camera, past the frozen van, getting smaller. Only she moves.
+
+
+
+
+AUDIO
+
+Shaky breath, cane taps, engine roar, horn, traffic. "HEY!" at 3.0s. CLICK at 5.2s, then all sound cuts to a low hum; only her breath and cane taps after. No music, no subtitles.
+
+
+
+
+POSITIVE LOCKS
+
+After 5.2s only @Image 1 moves. Exactly one van. Remote in right hand, cane in left, always. Bystanders identical across segments 2, 4, 5. Flat overcast cool light, same before and after the click. No smoke, steam or dust. No extra elderly women.
+
+
+
+
+OUTPUT
+
+10 seconds, 16:9.
+
+See all
+Copy prompt
+Recreate
+Scene 2 — The Office
+0:00 / 0:00
+0:00 / 0:00
+
+What it does: Generates a 15-second, nine-shot comedy beat: the employee stops time with OK under the desk, draws a moustache on his frozen boss, sits back down and presses OK again.
+
+The fix: The first version used PAUSE and PLAY buttons the approved remote doesn't have. This version gives the remote its own reference and uses the same OK button to stop time and then start it again.
+
+References, in order: @Image 1 = @OFFICE_WORKER · @Image 2 = @BOSS · @Image 3 = @CORNER_OFFICE · @Image 4 = @TV_REMOTE
+
+SCENE CONTEXT
+
+15s photoreal office comedy, 16:9 full frame, nine shots, exact cuts below. Real-time, restrained acting. Scene overrides style sources.
+
+
+
+
+STYLE
+
+35mm 2x anamorphic wide open: oval bokeh, heavy background blur, edge distortion and fringing; natural grain, organic color, soft contrast. No flares or streaks. Ignore sources' no-people, no-cuts, chase and 21:9 notes. Faces and buttons readable.
+
+
+
+
+ACTIVE REFERENCES
+
+@Image 1 = employee: ~30, dark curly hair, short beard, light-blue rolled-sleeve shirt, navy trousers.
+
+@Image 2 = boss: ~40, slicked-back brown hair, clean-shaven, navy pinstripe suit, red dotted tie.
+
+Each character sheet is ONE person. Exactly two people.
+
+@Image 3 = office layout, skyline, light (not camera angle): glossy desk, green tufted chair, bookcases, panoramic windows. Add one visitor chair.
+
+@Image 4 = remote only: matte-black, ring around central OK button. Transfer the remote without its white background, handheld size, no added buttons. OK press 1 pauses time, press 2 resumes.
+
+
+
+
+LOCATION MAP
+
+Boss behind desk in green chair; employee in visitor chair opposite. Side views: boss screen-left, employee screen-right; 180-degree rule. Clear route around desk's near end. Remote starts in his right pocket, marker in left; right hand uses each. Warm window light.
+
+
+
+
+SHOTS/ACTION TIMING
+
+0.0-2.0 Medium on boss, slight push-in, employee shoulder in foreground. Boss rises, palm on desk, points: "What kind of work is this?!"
+
+2.0-2.8 Reverse close on seated employee: flinch, then a discreet idea. Silent.
+
+2.8-3.7 Side wide: boss leans across desk pointing: "I demand..." Employee lowers right hand under desk.
+
+3.7-4.7 Low knee-height insert at desk end: remote by thigh, boss beyond desk edge. At 4.2s thumb presses OK: boss freezes mid-speech, mouth open, arm raised.
+
+4.7-5.7 Medium on employee: rises, pockets remote, steps toward desk end; boss rigid behind.
+
+5.7-8.7 Ellipsis cut, close on frozen boss: employee beside him draws two curly moustache strokes above his lip with a black marker; ink only behind the tip.
+
+8.7-10.5 Ellipsis reverse, medium close: employee reseated, marker away, remote by thigh, suppressed smirk. At 10.2s presses OK, time resumes: offscreen boss "...results!" over the cut.
+
+10.5-12.5 Medium on boss finishing his point, lips synced to "...results!", moustache visible, unaware, still scolding.
+
+12.5-15.0 Side wide, locked camera: boss: "Are you listening?!" Employee sits quietly, restrained smile, remote low by thigh. Hold to final frame.
+
+
+
+
+FREEZE LOCK
+
+While paused only the employee, camera and items he handles move; boss perfectly fixed, never reacts. No teleporting within a shot.
+
+
+
+
+AUDIO
+
+Only the quoted English lines, remote clicks, chair, footsteps, soft marker sound. During pause boss and ambience silent. Employee never speaks. No music, narration or subtitles.
+
+
+
+
+POSITIVE LOCKS
+
+Exact faces from @Image 1 and @Image 2; same remote every shot; boss left, employee right; moustache persists; only these cuts.
+
+
+
+
+OUTPUT
+
+15s, 16:9, nine shots.
+
+See all
+Copy prompt
+Recreate
+Scene 3 — The Carousel
+0:00 / 0:00
+
+What it does: Generates a 10-second, seven-shot scene: grandpa holds the rewind arrow, and the cut puts his four-year-old self in the exact same spot at the fence before he climbs onto a carousel horse.
+
+The fix: The first version cut straight to the kid already on a horse. This version first puts the boy in grandpa's exact spot at the fence so the viewer connects the two, keeps his face large and clear, and removes a camera-direction contradiction.
+
+References, in order: @Image 1 = @GRANDFATHER · @Image 2 = grandpa at age four · @Image 3 = @FAIRGROUND_CAROUSEL · @Image 4 = @TV_REMOTE
+
+SCENE CONTEXT
+
+An old man at a summer fair grows wistful at a carousel fence and presses rewind on a black remote; his four-year-old self then stands on that spot with the remote and rides a white horse, laughing.
+
+
+
+
+ACTIVE REFERENCES
+
+@Image 1: man in his 80s, white swept-back hair, gold glasses, royal-blue crewneck, black trousers, gold watch. 100% match.
+
+@Image 2: boy about 4, auburn-brown fringe, navy crewneck, jeans, white sneakers; the man's four-year-old self. 100% match.
+
+@Image 3: location: vintage carousel, cream-and-red canopy, white horses, blue barrier fence, striped stalls. Geography and light, not framing.
+
+@Image 4: matte black remote, red power button, four-arrow ring. 100% match.
+
+
+
+
+GEOGRAPHY LOCK
+
+Carousel fixed at center, turning clockwise; stalls run SOUTH. The man stands at the SOUTH fence facing NORTH; later the boy on the same spot. The carousel stays in front of the face or at frame edge in the eyeline, never behind the head.
+
+
+
+
+SHOTS (7 shots, 6 HARD CUTs, real time; transformation never shown)
+
+S1 0.0-1.2s: 700mm f/2.8 from 70 m on the midway. From the first frame @Image 1 walks toward camera, hands behind back, content; stalls melt into huge warm oval bokeh.
+
+S2 1.2-2.5s: 47° normal, static, 4 m east along the fence. Both hands on the rail, profile facing the carousel screen-right; a girl waves, he lifts two fingers back, small smile.
+
+S3 2.5-3.8s: 700mm from 40 m, north side, through the carousel; soft horses sweep the foreground, his face sharp between them. Smile fades, slow blink, quiet exhale, eyes lower. Wistful, not dramatic.
+
+S4 3.8-4.6s: 29° short tele, 3 m east, side medium close-up. Left hand stays on the rail; right hand lifts @Image 4 from his pocket, held like a TV remote, thumb on top, buttons up, top end pointing screen-right at the carousel; thumb presses the LEFT arrow.
+
+S5 4.6-6.2s: 700mm, 40 m east along the fence, eye level. @Image 2 on the same spot, both hands gripping the rail at his eye level, remote in right fist, face large and sharp toward the carousel, wonder; grins at 5.0s; at 6.0s ducks under the rail, mid-duck at the cut.
+
+S6 6.2-8.2s: 47° normal, eye level outside the fence, slow pan right. He rides a white horse toward camera and past, hands on the brass pole, remote in right fist, legs dangling, laughing.
+
+S7 8.2-10.0s: 700mm from 50 m, north side. His horse sweeps in from screen-left, face centered, razor-sharp, squinting laugh, creamy oval-bokeh background. At 9.2s he raises the remote beside his head. Hold on the laugh.
+
+
+
+
+LIGHTING
+
+Bright midday sun from high screen-left, crisp shadows, saturated paint.
+
+
+
+
+AUDIO
+
+Quiet fairground organ, children laughing, carousel mechanism. Soft click 4.1s, rising reversed whoosh 4.1-4.6s across the cut, ambience back at 4.6s with the boy's gasp. His laugh at 6.4s. No dialogue, no subtitles.
+
+
+
+
+POSITIVE LOCKS
+
+@Image 1 only in S1-S4, @Image 2 only in S5-S7, never in one frame; no morph. @Image 4 in the man's right hand in S4, the boy's right fist in S5-S7. In S5-S7 the boy fills at least half the frame height, face sharp, nothing crossing in front. Other riders stay background. Long-lens shots keep extreme compression and shallow focus.
+
+
+
+
+OUTPUT
+
+10 seconds, 16:9.
+
+See all
+Copy prompt
+Recreate
+Scene 4 — The Metro
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+
+What it does: Generates a 10-second, four-shot scene: she misses the train, presses the left arrow, and the train and everyone around her run backward until the doors open in front of her.
+
+References, in order: @Image 1 = the young woman's character sheet · @Image 2 = @METRO_STATION · @Image 3 = @TV_REMOTE
+
+SCENE CONTEXT
+
+Live action, four shots, hard cuts at 3.5s, 4.5s, 7.5s. She misses the departing metro, presses the remote, everything rewinds, she boards. Real-time speed; the rewind is not slow motion.
+
+STYLE: photoreal 2x anamorphic, heavy blur, stretched oval bokeh, edge fringing, natural grain, organic color, soft contrast. No flares or streaks, no CGI, no logos. Overrides the sources' no-people, no-cuts, 21:9 rules.
+
+ACTIVE REFERENCES
+
+@Image 1: the woman only. Copper-auburn hair, freckles, green eyes, black T-shirt, blue jeans, white sneakers, gold pendant. The sheet is ONE woman, not extra people.
+
+@Image 2: station and train look, not camera angles. Cream coffered vault, brass candelabra lamps, silver train with red stripe, side-facing seats inside.
+
+@Image 3: the remote only: matte black, ring around central OK, red power top left, ~16 cm. Transfer it without its white background.
+
+LOCATION MAP
+
+Platform runs north-south, tunnel at the south end, train departs south. She boards mid-platform facing the track east. Commuters: bench man 6 m north reading a newspaper, tote-bag woman lifting her phone, messenger-bag man walking north; in the train a grey-jacket man by the door, an older woman, a teen with headphones. Nobody blocks the door.
+
+EMOTION RULE: understated. Running = focused frown. Sadness = stop, slow blink, sigh, shoulders drop. Relief = shoulders lower, small suppressed smile.
+
+REMOTE GRIP: right hand, fingers under, thumb on top, buttons tilted toward her eyes. Rewind = thumb slides from OK to the LEFT arrow and presses; no extra button.
+
+REWIND RULE: she and the camera stay in forward time; everything else runs backward: train out of the tunnel to its spot, bag man walks backward, phone lowers, page flips back. Station fixed. Ends when the doors finish opening, then all resume forward.
+
+SHOTS
+
+0.0-3.5s: 700mm f/2.8 from the tunnel end, 70 m south, looking north; razor-thin focus on her face. She runs toward camera, center-left, train outpacing her in the right third; 2.2s last carriage exits right; she slows, stops, sad beat.
+
+3.5-4.5s: 35mm chest-up, high three-quarter from front-right, remote lower right, buttons readable. 4.1s thumb presses LEFT, click; eyes lift.
+
+4.5-7.5s: 35mm medium wide from behind her, looking east; tunnel screen-right, bench screen-left. Train backs out sliding screen-left, stops; doors open in front of her. Shoulders lower.
+
+7.5-10.0s: 35mm interior at seated eye level toward the door screen-left, grey-jacket shoulder blurred foreground right. She steps in, sits beside him, exhales; head back, eyes close, small smile. Doors close, train moves. Hold.
+
+AUDIO
+
+SFX only: footfalls, breathing, train rumble, sigh, one click, reversed swell during rewind, doors, carriage ambience. No music, dialogue, narration, subtitles.
+
+POSITIVE LOCKS
+
+Same face, clothes, passengers throughout. Face, buttons and doorway readable. Warm brass lamps, consistent color. Five fingers.
+
+OUTPUT
+
+10s, 16:9 full frame, no letterboxing, only these cuts.
+
+See all
+Copy prompt
+Recreate
+Scene 5 — The School Hallway
+0:00 / 0:00
+0:00 / 0:00
+
+What it does: Generates a 10-second, five-shot scene: one boy taps plus on the remote, lollipops pour out of his palm onto the floor, and the whole hallway stops to stare.
+
+References, in order: @Image 1 = @SCHOOLBOY_B · @Image 2 = @SCHOOLBOY_A · @Image 3 = @SCHOOL_HALLWAY · @Image 4 = @LOLLIPOP · @Image 5 = @TV_REMOTE
+
+SCENE CONTEXT
+
+Two schoolboys walk a busy locker-lined hallway. One has a wrapped lollipop; the other is too shy to ask for it. The first taps plus on a remote aimed at it until lollipops multiply and pour onto the floor; every student and the janitor stops, surprised.
+
+
+
+
+ACTIVE REFERENCES (boys and props match 100%)
+
+@Image 1: boy ~13, messy brown hair with fringe, white short-sleeve shirt with chest pocket, loose navy-grey striped tie, grey trousers, black backpack. Owns lollipop and remote.
+
+@Image 2: boy ~13, brown hair, white short-sleeve shirt, navy-grey striped tie, dark grey trousers, black backpack. Shy, then delighted.
+
+@Image 3: hallway: burgundy lockers right, tan brick left, green-railed mezzanine, glossy geometric tile. Geography and light, not framing.
+
+@Image 4: wrapped lollipop, ~3 cm head, glossy brown wrapper, orange-yellow stripes, cream circle, white stick.
+
+@Image 5: matte black remote, red power button, OK ring, volume bar with minus and plus.
+
+
+
+
+LOCATION MAP
+
+Camera looks down the corridor, lockers screen-right. Boys walk toward camera along the lockers, stop 10 m away; @Image 1 screen-left, @Image 2 nearest the lockers. Janitor (grey uniform, yellow bucket) mops midground left, 3 m beyond them. Students pass; a girl with books at a locker; an earbud boy behind. All in frame one.
+
+
+
+
+LENS LOCK
+
+12° FOV, 200mm-equivalent in every shot: heavy compression, razor-thin focus, soft bokeh. Only distance changes.
+
+
+
+
+SHOTS (5 shots, HARD CUTs at 2.5, 4.5, 7.5, 8.7s; real-time)
+
+0.0-2.5s: 12 m, waist-up two-shot, long-lens follow. Boys walk toward camera. @Image 1 holds @Image 4 upright and still at chest height in left hand, stripes to camera, sharp, no twirling; @Image 2 keeps glancing at it. They stop at 2.5s.
+
+2.5-4.5s: 10 m, static, chest-up two-shot. @Image 2 opens his mouth, no sound, closes it, looks at his shoes, rubs his neck, looks away. @Image 1 glances at him, then the lollipop, smirks.
+
+4.5-7.5s: 6 m, static insert, palm fills 60%. Left palm flat, lollipop across it; right hand brings @Image 5 in from screen-right, aims, taps plus three times by 5.5s. Then it doubles 1-2-4-8; heap fills the palm by 6.5s, overflows by 7.0s, clattering to the tile. He keeps tapping.
+
+7.5-8.7s: 10 m, static, bystanders past the boys' soft shoulders, one beat: janitor freezes mid-stroke, mouth open; girl drops her books; earbud boy pulls one out, stares; a foreground student stops and turns. Eyes screen-down-left.
+
+8.7-10.0s: 12 m, static, tilt down, waist-up two-shot, floor visible. Lollipops stream off @Image 1's hand around their shoes. @Image 2 gapes, laughs, grabs a handful. @Image 1 grins, still tapping. Bystanders stare.
+
+
+
+
+PHYSICS / LIGHT
+
+Lollipops tumble head-first, bounce once, roll, sticks tangle. Cool overhead fluorescents, glossy reflections, slight grain.
+
+
+
+
+AUDIO
+
+Hallway ambience. Three clicks 5.0-5.5s; crackles from 5.5s, clattering rain by 7.0s; books slap 8.0s, hush; @Image 2 laughs 9.0s. No dialogue, no music, no subtitles.
+
+
+
+
+POSITIVE LOCKS
+
+Exactly two main boys; bystanders never approach or touch the lollipops. Remote in @Image 1's right hand, pile grows from his left palm. Every lollipop matches @Image 4. No wide-angle drift.
+
+See all
+Copy prompt
+Recreate
+Scene 6 — The Couch
+0:00 / 0:00
+
+What it does: Generates the 10-second ending: the TV opens the scene, the family talks, laughs and passes the popcorn, and a locked high-angle wide holds all five of them, the room and the TV.
+
+The fix: It took three versions. The camera now pulls away from the TV instead of pushing in, the old "drift or push" rule is gone, and the family interacts instead of sitting in silence.
+
+References, in order: @Image 1 = @GRANDMOTHER · @Image 2 = @GRANDFATHER · @Image 3 = @OFFICE_WORKER · @Image 4 = the young woman's character sheet · @Image 5 = @SCHOOLBOY_A · @Image 6 = @LODGE_LIVING_ROOM · @Image 7 = @TV_REMOTE
+
+SCENE CONTEXT
+
+Dusk, mountain lodge living room. A young woman clicks a remote, the TV changes, she sets it down; long-lens portraits catch the others stealing popcorn; a static high wide shows all five laughing together.
+
+
+
+
+ACTIVE REFERENCES (each 100% matches its reference)
+
+@Image 1: woman 70s, auburn bob, denim-blue knit sweater. Calm.
+
+@Image 2: man 80s, white hair, gold glasses, royal-blue crewneck, gold watch. Sneaky.
+
+@Image 3: man 30s, curly hair, beard, light-blue shirt. Slouched.
+
+@Image 4: woman 20s, chestnut hair, freckles, black tee, gold pendant; white popcorn bowl on lap.
+
+@Image 5: boy ~13, white school shirt, loose striped tie; own bowl.
+
+@Image 6: location, timber lodge, stone wall with staircase, tall windows, barnwood TV wall, red rug, white L-sectional, armchair, coffee table. Geography and light, not framing.
+
+@Image 7: matte-black remote, red power button, OK ring, volume bar, no branding.
+
+
+
+
+REMOTE GRIP
+
+@Image 4: lengthwise in right palm, thumb on buttons, top toward TV. Five fingers.
+
+
+
+
+LOCATION MAP
+
+Sectional faces the TV wall, coffee table between, armchair at its right end. Shots 2-4: group faces camera, TV off-frame behind camera; @Image 4 center, @Image 1 left of her, @Image 2 right, @Image 3 armchair far right, @Image 5 on rug before the table.
+
+
+
+
+SHOTS (4 HARD CUTs, each on an action in progress; shots 1-4 slow drift)
+
+0-1.5s: 29° lens, dolly BACKWARD from TV 1.2m to 2.5m, never toward it. First frame: screen ~80% of frame, dim no-signal green, no image, no people; shrinks to 50% as shelves and spotlights appear. 1.3s off-frame sound of a hand shifting on a bowl.
+
+1.5-3.0s: 29°, high front-right, close on @Image 7 in @Image 4's right hand, buttons readable, shallow focus, face soft. Thumb on OK 1.8s, CLICK 2.2s. From 2.6s hand lowers out of frame.
+
+3.0-5.0s: 200mm f/2.8 from 9-10m, @Image 4 chest-up, slow push. Remote taps table off-frame 3.1s; popcorn to mouth 3.6s, eyes on TV, oval bokeh. 4.6s @Image 2's hand reaches in lower-right.
+
+5.0-6.8s: long lens, @Image 2 + @Image 1 chest-up, remote soft on table below, drift right. He reaches for the remote; 5.5s she swats his hand without looking; he dips into the girl's bowl. Deadpan. 6.5s he turns to @Image 4.
+
+6.8-10s: 84° wide, 6m behind and 3.5m above the sectional, tilted down, deep focus, fully static. From behind, sectional left to right: @Image 1, @Image 4, @Image 2; @Image 3 armchair right, @Image 5 rug left; TV shows a dim nature program. @Image 2 says something, @Image 4 laughs, nudges him; @Image 1 takes popcorn. 7.8s @Image 5 turns, gets a laugh; @Image 3 leans in, points at TV. 8.8s bowl passed to @Image 2. 9.5s all settle back. Hold.
+
+
+
+
+LIGHTING
+
+Blue windows, amber spotlights, soft TV glow; no green light on anyone. Slight grain, same grade across cuts.
+
+
+
+
+AUDIO
+
+TV hum, chewing; CLICK 2.2s, then quiet nature-program murmur to the end; remote tap 3.1s; slap 5.5s; from 6.8s indistinct group murmur, laughs 7.3s, 8.2s. Room tone unbroken. No dialogue, music or subtitles.
+
+
+
+
+POSITIVE LOCKS
+
+Exactly five people in fixed seats, nobody stands. TV visible only 0-1.5s and 6.8-10s. @Image 7 in her hand 1.5-3.0s, on the table from 3.1s, never picked up again.
+
+
+
+
+OUTPUT
+
+10 seconds, 16:9.
+
+See all
+Copy prompt
+Recreate
+Assembling The Cut
+
+The cuts already live inside each generation, so the edit is mostly ordering: the crosswalk, the office, the carousel, the metro, the school, then the couch. The TV in the lodge plays the scenes you just watched, so the whole ad folds back into one living room.
+
+
+
+
+Every scene is a complete problem, click and payoff on its own, so the three alternate openings are just three different first scenes: grandma and the van, the office, or grandpa at the carousel. The vertical version is a Reframe to 9:16 in Higgsfield; check that faces, hands, the remote and the TV stay readable on a phone-shaped frame. Music, the line "Your screen. Your rules." and the client's logo go in last.
+
+Ready To Make Your Own?
+
+Swap the TV for whatever your client sells and the workflow doesn't change: build the cast, the empty locations and the hero prop, give every trick a real button, and let the Skill write each scene as a shooting script.
+
+READY TO MAKE YOUR OWN?
+Go!

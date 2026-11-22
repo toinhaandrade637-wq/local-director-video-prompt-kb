@@ -1,0 +1,228 @@
+【项目】Meet Flux 3 on Higgsfield: How It Works and What You Get（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/flux-3-higgsfield
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Meet Flux 3 on Higgsfield: How It Works and What You Get
+Higgsfield
+Aug 17, 2026
+8 min
+
+Flux 3, Black Forest Labs' first video model, is now available on Higgsfield. Announced July 23, 2026, and still in early access. It generates clips of 5 to 20 seconds with optional synchronized audio, from text, an image, or an existing clip. This guide covers what Flux 3 can do, what changed from Flux 2, and how to access it.
+
+What Is Flux 3
+
+Flux 3 is broader than a video model. It's Black Forest Labs' new multimodal foundation model, trained jointly across images, video, and audio. Flux 3 Video is the part currently available on Higgsfield, in early access since the July 23, 2026 announcement, while Image, Action, and Dev are part of the wider rollout.
+
+On Higgsfield, Flux 3 Video generates video and synchronized audio together in the same pass, when audio is turned on. Flux 1 and Flux 2 were built for image generation only. Flux 3 Video is the first part of the line built for video.
+
+The model covers three input modes: text-to-video, image-to-video for animating a still frame, and video continuation, which extends an existing clip forward from its final seconds of picture and sound, keeping motion, camera, and audio consistent across the seam. It also handles multilingual dialogue with lip sync, and holds up on typography specifically, text stays readable even while it's moving in the frame.
+
+Style range runs wide too, camcorder-style footage, animation, and full cinematic looks are all covered by the same model, described directly in the prompt instead of chosen as a separate setting.
+
+Flux 3 vs Flux 2
+
+Flux 2 never generated video, so the comparison is less about incremental change and more about what's genuinely new in the line.
+
+Flux 3 vs Flux 2
+
+Setting
+
+	
+
+Flux 2
+
+	
+
+Flux 3
+
+
+
+
+Video generation
+
+	
+
+Not available
+
+	
+
+Up to 20 seconds
+
+
+
+
+Audio
+
+	
+
+Not available
+
+	
+
+Optional, synchronized speech, effects, and ambience in the same pass
+
+
+
+
+Input modes
+
+	
+
+Image generation only
+
+	
+
+Text-to-video, image-to-video, video continuation
+
+
+
+
+Dialogue
+
+	
+
+Not available
+
+	
+
+Multilingual, with lip sync
+
+
+
+
+Typography in motion
+
+	
+
+Not applicable
+
+	
+
+Text stays readable while moving
+
+
+
+
+Resolution
+
+	
+
+Not specified
+
+	
+
+720p / 1080p
+
+How to Access Flux 3
+
+Flux 3 Video runs on Higgsfield alongside the rest of the platform's model roster, no separate sign-up required. Select FLUX.3 Video directly from the model list to start a generation. Reference images, video, and audio all work with the model for consistency, up to 10 reference frames in a single generation, along with Start Frame and End Frame for locking where a shot begins or ends. Selecting Flux 3 for a generation is a model choice, not a different account or plan.
+
+Full Workflow: Step by Step
+
+Step 1: Open Higgsfield and select Flux 3 from the model list.
+
+Step 2: Choose the input mode. Text-to-video for a scene built entirely from a written prompt, image-to-video to animate a still frame, or video continuation to extend an existing clip forward from its final seconds of picture and sound.
+
+Step 3: Add references if the mode calls for them. A still frame for image-to-video, or a source clip for video continuation, up to 10 reference frames in a single generation. You can also set a Start Frame or End Frame when you need more control over where the shot begins or finishes.
+
+Step 4: Write the prompt. Cover the scene, the dialogue if the clip includes speech, any on-screen text that needs to stay legible while it moves, and the style, camcorder-style footage, animation, or full cinematic. Flux 3 does not use Cinema Studio's genre, lens, or lighting controls, so creative direction such as camera style, lighting, and visual look should be described in the prompt.
+
+single continuous shot, one take no cuts, cinematic oner, cinematic lighting, photorealistic, 35mm film quality, professional color grading, sharp focus, high detail texture, film grain, depth of field mastery, smooth slow dolly
+
+A young woman plays violin inside a white circular rotunda — long wavy brown hair half-tied with a scarlet-red ribbon bow, its tails hanging down her back, a flowing soft pink dress with draped sleeves. She stands on a round white platform encircled by a ring of deep mirror-blue water, smooth white curved walls with arched niches around her, a vast circular opening overhead revealing vivid blue sky with soft white clouds. The violin is natural honey-brown wood. She plays with genuine musical focus and feeling throughout, eyes closed.
+
+SUBJECT LOCK: she remains facing the camera the entire shot — her body never turns, never rotates, never spins; feet planted in the same spot on the platform from first frame to last; only her bow arm, fingers, breathing and a gentle sway of her head move with the music; the dress hem and ribbon tails move only from her subtle motion, nothing else.
+
+ENVIRONMENT LOCK: the architecture is rigid and static — walls, arches, platform, water ring and oculus keep exactly the same geometry, position and proportions throughout the shot; no new rooms, no morphing walls, no shifting arches; the water stays calm with only faint ripples.
+
+Color grade locked throughout: clean white architecture with pale icy-blue shading, deep saturated blue only in the water ring, vivid blue sky with white clouds in the oculus, soft pink only on the dress, red only in the hair ribbon, warm natural wood only on the violin, soft natural skylight from above, no harsh highlights, no blown-out whites, restrained contrast, no color shift first frame to last.
+
+Single continuous shot 5s: Opening on her in medium shot — violin under chin, bow drawing across strings in natural playing motion, eyes closed. Camera performs ONE simple move only: a slow, straight dolly back along the ground, no pan, no orbit, no crane — the frame gradually widening from medium shot to medium-wide, revealing more of the platform, the water ring and the lower arches; the oculus edge just entering the top of frame by the end. The camera keeps her perfectly centered and frontal the whole way. She stays absorbed, eyes closed, playing continuously as the camera settles.
+
+Total: 7s / 1 shot / 16:9
+Copy
+Recreate
+
+Step 5: Turn audio on if the shot needs it. Synchronized speech, sound effects, and ambience are optional, toggle audio generation on or off depending on whether the clip needs sound.
+
+Step 6: Generate. When audio is on, it generates in the same pass as the video, no separate step required afterward.
+
+When to Use Flux 3 on Higgsfield
+
+Flux 3 is useful when you want a short video with optional synchronized audio, reference-driven generation, Start/End Frame control, or video continuation from an existing clip. For shots that need deeper camera, lens, genre, or filmmaking controls, Cinema Studio provides a different workflow, with its own set of director-level settings that Flux 3 doesn't expose.
+
+Pricing
+
+Credit-to-dollar value varies by plan, so the equivalents below are approximate.
+
+Pricing
+
+Length
+
+	
+
+Resolution
+
+	
+
+Cost
+
+
+
+
+5 sec
+
+	
+
+720p
+
+	
+
+27.5 credits ($1.35)
+
+
+
+
+5 sec
+
+	
+
+1080p
+
+	
+
+45 credits ($2.25)
+
+
+
+
+20 sec
+
+	
+
+720p
+
+	
+
+110 credits ($5.50)
+
+
+
+
+20 sec
+
+	
+
+1080p
+
+	
+
+180 credits ($9.00)
+
+Length and resolution both scale the cost, so the cheapest way to test a shot is running it short and at 720p first, then generating the full 20-second, 1080p version once the prompt and references are dialed in. Turning audio off during those early tests keeps the cost of iterating down before committing to a finished clip with sound.
+
+MEET FLUX 3 ON HIGGSFIELD: HOW IT WORKS AND WHAT YOU GET
+Try Flux 3

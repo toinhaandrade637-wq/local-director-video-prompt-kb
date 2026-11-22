@@ -1,0 +1,740 @@
+【项目】UNTIL MONA LISA LAUGHED — REBUILDING A TREND VIDEO INSIDE A MASTERPIECE WITH HIGGSFIELD GENJUTSUモナ・リザが笑うまで — 幻術でトレンド動画を名画の世界に置き換える（@shion_movie_creator · 创作者博客）
+【链接】https://higgsfield.ai/@shion_movie_creator/blogs/until-mona-lisa-laughed-rebuilding-a-trend-video-inside-a-masterpiece-with-higgsfield-genjutsu
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+UNTIL MONA LISA LAUGHED — REBUILDING A TREND VIDEO INSIDE A MASTERPIECE WITH HIGGSFIELD GENJUTSUモナ・リザが笑うまで — 幻術でトレンド動画を名画の世界に置き換える
+@shion_movie_creator
+167
+0
+0
+updated: 2026-09-22
+
+You've probably seen the trend: someone walks through a cafeteria with a tray, slips, and the whole tray goes flying. I moved that entire video into Leonardo da Vinci's workshop — the person sitting and watching became Mona Lisa, and the one who slips became Leonardo himself.
+
+The tool is Higgsfield's Genjutsu. It keeps the source video's motion and every cut, and swaps only the people and the background. This post has every prompt I used, from character sheets to the video prompt — plus the "identity swap" accident that happened on the first run, and how I fixed it.
+
+
+
+
+「食堂でトレイを持った人が滑って転ぶ」あのトレンド動画、見たことあると思います。
+あれをレオナルド・ダ・ヴィンチの工房に丸ごと引っ越しさせて、座って見ている主役をモナ・リザに、転ぶ人をレオナルド本人にしました。
+
+使ったのは Higgsfield の 幻術（Genjutsu）。元動画の動きとカット割りはそのままに、人物と背景だけを差し替える機能です。この記事では、キャラクターシートから動画プロンプト、そして一回目に起きた「入れ替わり事故」とその直し方まで、使ったプロンプトを全部載せます。
+
+
+
+
+
+
+
+Make original video with Higgsfield Genjutsu ／ Higgsfield 幻術でバズ動画をつくる
+
+Intro：How to Use Higgsfield Genjutsu / Higgsfield Genjutsu（幻術）
+
+Higgsfield Genjutsu lets you create a new video by preserving the motion, camera work, and timing of a reference video while replacing its characters, locations, clothing, and props with your own visual references.
+
+
+
+
+Higgsfield Genjutsuは、参照動画の動き・カメラワーク・タイミングを利用しながら、人物、場所、衣装、小物などを別の素材に置き換えて、新しい動画を作る機能です。
+
+This guide explains the Motion transfer workflow shown in the accompanying screen recordings.
+
+この記事では、動画内で実際に行っていた操作をもとに、Motion transfer を使う手順を解説します。
+
+About the interface / 画面について
+
+
+These screenshots were captured on September 25, 2026. Button names, placement, and credit costs may change as the service is updated.
+
+
+キャプチャは2026年9月25日時点のものです。サービスの更新により、ボタン名や配置、必要クレジットが変わる場合があります。
+What You Need / 事前に用意するもの
+A reference video whose motion you want to copy (the interface specifies 4–30 seconds)
+Reference images for the characters
+Reference images for the background or location
+Reference images for clothing and props, if needed
+A prompt describing the intended result
+動きをコピーしたい参照動画（画面上の案内では4〜30秒）
+登場人物の参照画像
+背景・場所の参照画像
+衣装や小物の参照画像（必要な場合）
+生成内容を説明するプロンプト
+
+
+
+
+You can add up to 30 reference images. However, too many images can make their relationships difficult to manage. For your first attempt, focus on the main characters, locations, and essential props.
+
+参照画像は最大30枚まで追加できます。ただし、枚数を増やしすぎると対応関係が複雑になるため、最初は人物・背景・主要小物に絞るのがおすすめです。
+
+Workflow / 操作手順
+
+
+
+
+
+
+
+Step 1. Open Genjutsu / Genjutsuを開く
+
+Open Genjutsu from the top menu, select Create Video in the upper-left corner, and then choose Motion transfer.
+
+上部メニューから Genjutsu を開き、左上の Create Video を選択します。次に Motion transfer を選びます。
+
+
+
+
+
+
+
+Use Motion transfer when you want to rebuild the performance or movement of a reference video with different characters or a different world. If you only need to replace a specific object, Objects swap may be the better option.
+
+Motion transfer は、参照動画の動きや演技を別の人物・世界観で再構成したいときに使います。特定の物だけを置き換えたい場合は、隣の Objects swap が候補になります。
+
+Step 2. Add the Reference Video / 動きの元になる参照動画を追加する
+
+Click Add a reference video to extract motion and select the source video whose movement you want to reproduce.
+
+Add a reference video to extract motion をクリックし、元になる動画を選択します。
+
+
+
+
+
+
+
+A clear reference works best: keep the main subject inside the frame, use readable motion, avoid long periods where the face or hands are hidden, and limit unnecessary cuts.
+
+参照動画は、主役が見切れず、動きがはっきりしていて、手や顔が長時間隠れていないものが扱いやすいです。カット数も必要以上に多くない方が安定します。
+
+Step 3. Add Character, Location, and Prop Images / 人物・背景・小物の参照画像を追加する
+
+Click the Add your characters, products, or clothes area and select the images you want to use. Previously uploaded assets can be selected together. Make sure every required image has a green check mark.
+
+Add your characters, products, or clothes のエリアをクリックし、使用する画像を選びます。アップロード済みの素材は一覧から複数選択できます。必要な素材に緑色のチェックが付いていることを確認してください。
+
+
+
+
+
+
+
+
+
+
+The assets will later appear as Image 1, Image 2, and so on. Check their order after adding them.
+
+素材は、後で Image 1、Image 2 のように番号で扱われます。追加後の並び順を確認しておきましょう。
+
+Step 4. Enable Prompt and Enter Your Instructions / Promptをオンにして指示文を入力する
+
+Turn on the Prompt switch, then type or paste your instructions.
+
+Prompt のスイッチをオンにし、生成したい内容を入力または貼り付けます。
+
+
+
+
+
+
+
+
+
+
+For a clearer prompt, separate what should be preserved from the reference video, what should be replaced, the role of each reference image, what must not change, and the required frame-to-frame consistency.
+
+プロンプトでは、「参照動画から維持するもの」「変更する人物・背景・小物」「各参照画像の役割」「変えてはいけないもの」「フレーム間の一貫性」を分けて書くと整理しやすくなります。
+
+Step 5. Assign Each @ Mention to a Reference / @タグと参照素材を対応づける
+
+Click an @ mention in the prompt and assign it to the appropriate Video 1, Image 1, Image 2, or another item from the menu.
+
+プロンプト内の @タグ をクリックし、表示された一覧から対応する Video 1 または Image 1、Image 2 などを指定します。
+
+
+
+
+
+
+
+
+
+
+For example, you might use Video 1 for motion, camera work, timing, and cuts; Image 1 and Image 2 for locations; Image 3 for a prop; and Image 4 and Image 5 for characters.
+
+たとえば、Video 1 は動き・カメラワーク・タイミング・カット構成、Image 1 と Image 2 は背景、Image 3 は小物、Image 4 と Image 5 は人物というように役割を決めます。
+
+The numbering depends on the order in which you added the assets. Do not rely on the number alone—check each thumbnail before assigning it.
+
+番号は追加した素材の順番によって変わります。見た目だけで判断せず、サムネイルを確認して割り当てることが重要です。
+
+Step 6. Select Higgsfield Genjutsu as the Model / モデルをHiggsfield Genjutsuに設定する
+
+Open Model and select Higgsfield Genjutsu.
+
+Model を開き、Higgsfield Genjutsu を選択します。
+
+
+
+
+
+
+
+
+
+
+If it is already selected, you can leave the setting unchanged.
+
+すでに選択済みの場合は、そのままで構いません。
+
+Step 7. Choose the Output Quality / 出力品質を選ぶ
+
+Open Quality and choose 480p, 720p, or 1080p based on your intended use.
+
+Quality を開き、用途に合わせて 480p、720p、1080p から選びます。
+
+
+
+
+
+
+
+Use 480p for test generations, 720p for social-media previews, and 1080p for final output. Higher quality may require more credits, so it is usually best to validate the composition and replacements at a lower resolution first.
+
+480p はテスト生成、720p はSNS投稿前の確認、1080p は最終出力に向いています。高品質にするほど必要クレジットが増える可能性があるため、最初は低い解像度で構図と置換内容を確認するのがおすすめです。
+
+Step 8. Start the Generation / Generateで生成を開始する
+
+After checking the reference video, images, prompt, model, and quality, click Generate.
+
+参照動画、画像、プロンプト、モデル、品質を確認したら、Generate をクリックします。
+
+
+
+
+
+
+
+The button displays the number of credits required for the current settings. Always check the amount before starting the generation.
+
+ボタン上には、その設定で必要なクレジット数が表示されます。クリックする前に必ず確認してください。
+
+Step 9. Review the Result in History / Historyで結果を確認する
+
+When the generation is complete, open History and play the finished video. Use the icons beside each result to download it or access additional actions.
+
+生成後は History を開き、完成した動画を再生して確認します。各動画の右側に表示されるアイコンから、ダウンロードや追加操作を行えます。
+
+
+
+
+Step 0. Choosing the trend video ／ 元にするトレンド動画を選ぶ
+
+
+
+
+
+
+
+Point ／ ポイント
+
+Everything is built on top of the video you pick, so this is the decision that matters most. Here's what I've found so far, from my own runs.
+
+
+
+
+全部は選んだ元動画の上に乗るので、ここが一番効く判断です。私が試した範囲で分かったことを先に書きます。
+
+
+
+
+Reproduced for free
+
+Sound. The source's audio comes through, BGM and SFX included.
+People and backgrounds. Swapping who the people are and where they are is the core of the tool.
+
+Changeable
+
+Person count, placement and motion. Inside the same duration you can change what people and animals do.
+
+Better left alone
+
+The cuts and the length. Keep the source's edit and its duration as they are. That's the part that holds the whole thing together.
+
+Unstable
+
+Adding a person or a creature that isn't in the source. This is the one that breaks.
+Casting that reverses the genders of the source pair. In shots where both people appear, the identities can swap — see Step 2.
+
+
+そのまま再現されるもの
+
+音声。 元動画の音は、BGMもSFXも含めて再現されます。
+人物と背景。 誰がいるか、どこにいるかを差し替えるのは、この機能の本業です。
+
+変えられるもの
+
+人数・配置・動き。 同じ尺の中であれば、人物や生物の動きは変えられます。
+
+変えない方がいいもの
+
+カット割りと秒数。 元動画のままにしておく。ここが全体を保たせている部分です。
+
+不安定なこと
+
+元動画にいない人物や生物を追加すること。 崩れるのはここです。
+元動画の2人と性別が逆になる配役。 2人が同時に映るショットで同一性が入れ替わることがあります（Step 2）。
+
+
+
+
+
+
+
+So what you're looking for is a video whose shape already fits the idea: the cuts and the length you'd want anyway, and a cast close enough to yours that you're arranging rather than inventing. Arrange freely inside it — just don't drift far from what the source already contains.
+
+
+
+
+つまり探すのは、構造が企画にもう合っている動画です。そのまま使いたいカット割りと尺で、配役も自分のアイデアに近い——ゼロから作るのではなく、乗せ替えで済む動画。その中でのアレンジは自由にやって大丈夫です。元動画が持っているものから大きく外さない、それだけ。
+
+
+
+
+
+
+
+0.0–0.8 s: the seated lead glances sideways
+0.8–4.8 s: someone crosses the room with a tray
+5.9–6.4 s: an extreme close-up of the lead, eyes wide
+6.4 s: a cut to spilled orange liquid on the floor — the setup
+6.8 s: a shoe steps in it and slips
+7.5–8.1 s: three things on the tray go airborne
+8.1–8.7 s: the walker falls toward the seated lead
+9.6–10.8 s: the lead catches the tray one-handed — the hero moment
+10.8–14.2 s: the two sit side by side and laugh
+14.2–23.0 s: about seven montage cuts of the lead alone
+
+
+
+
+0.0–0.8秒：座った主役が横目で画面外を見る
+0.8–4.8秒：誰かがトレイを持って部屋を横切る
+5.9–6.4秒：主役の超クローズ、目を見開く
+6.4秒：床にこぼれたオレンジ色の液体のカット——ここが伏線
+6.8秒：靴が踏んで滑る
+7.5–8.1秒：トレイの中身3品が宙に舞う
+8.1–8.7秒：歩いていた側が主役の方へ倒れ込む
+9.6–10.8秒：主役が片手でトレイを受け止める——この動画のヒーローの瞬間
+10.8–14.2秒：2人で並んで笑う
+14.2–23.0秒：主役ひとりのモンタージュ、約7カット
+
+
+
+
+I didn't need to change any of it. The structure is already the joke, so the planning was just deciding who goes on it: the girl watches from her chair, and the painter is the one who slips.
+
+
+
+
+どこも変える必要がありませんでした。この構造そのものがオチになっているので、企画は「ここに誰を乗せるか」を決めるだけ。少女は椅子から見ているだけで、滑るのは画家のほうです。
+
+Step 1. Bringing Mona Lisa and Leonardo to life ／ モナ・リザとレオナルドを実写化する
+Point ／ ポイント
+
+Each character is one sheet with four panels — front, profile, back, close-up. More panels means the face drifts, so four is the rule.
+For Mona Lisa I locked in "almost no eyebrows" and "closed-mouth half-smile" at the sheet stage. For Leonardo I used the rose-pink tunic he's recorded as wearing, added a paint-stained leather apron, and put the tray in his hands from the start — if he'll carry it in the video, it's more stable to have him carry it on the sheet.
+Images were generated with GPT.
+
+
+
+
+キャラクターは「正面・側面・背面・顔クローズ」の4パネルを1枚のシートにします。パネルを増やすと顔がブレるので、4枚固定。
+モナ・リザは「眉がほとんどない」「口を閉じた半笑い」をシートの段階で固定。レオナルドは、記録に残っている「ローズピンクのチュニック」に絵の具まみれの革エプロンを足して、最初からトレイを持たせています（動画で持たせるので、シートから持たせておくと安定します）。
+画像はGPTで生成しました。
+
+Prompt ／ 使ったプロンプト（@cha_monalisa）
+
+
+
+
+SCENE CONTEXT
+Character reference turnaround sheet of Lisa del Giocondo — the woman of Leonardo's "Mona Lisa" — reimagined as a photoreal live-action person, in three full-body views (front, profile, back) plus one close frontal portrait, for identity, wardrobe and material lock.
+
+CHARACTER ANCHORS
+Woman in her mid-20s, softly rounded oval face, high smooth forehead, very faint almost invisible eyebrows, calm dark-brown eyes with heavy upper lids, straight nose, small closed mouth held in a faint, ambiguous half-smile — the corners barely lifted. Pale olive skin with natural texture. Medium build, relaxed upright posture.
+
+HAIR SPECIFICATION
+Dark brown hair, centre-parted, falling in loose waves past the shoulders, covered by a very fine transparent black gauze veil that sits flat on the crown and drapes to the shoulders.
+
+WARDROBE REFERENCE
+Dark forest-green to near-black silk dress with a low square neckline, the bodice finely pleated and gathered below the collarbone with an embroidered knotwork band. Sleeves of dull golden-ochre gathered silk under a dark overgown. Long plain skirt to the floor. Simple dark leather shoes. No jewellery.
+
+ATTRIBUTES / PROPS
+None. Her hands are her attribute: right hand resting over the left, fingers relaxed.
+
+BODY AND PRESENTATION LOCK
+Seated-portrait stillness even when standing: hands folded, shoulders turned slightly to screen-left, face turned to the viewer, eyes meeting the camera, the half-smile held. Same face, same smile, same height and build in every panel.
+
+SHEET LAYOUT
+Single reference sheet, four panels on a neutral seamless light-grey studio background, identical flat lighting across all panels.
+Panel 1 — full body, front view, hands folded at the waist, the half-smile.
+Panel 2 — full body, profile view (screen-left facing), veil drape visible.
+Panel 3 — full body, back view, veil and hair over the back.
+Panel 4 — close portrait, shoulders-up, direct gaze, the half-smile clearly readable, veil edge visible at the hairline.
+
+LIGHTING
+Soft even front-key studio lighting, low contrast, neutral daylight white balance (~5600K).
+
+REALISM LOCK
+Real skin with pores and faint down, real silk with genuine weight and creasing, real gauze with visible weave. No painterly rendering, no sfumato blur, no CG-clean geometry, no plastic skin.
+
+POSITIVE CONSTRAINTS
+Same face, same hair, same veil, same dress across all four panels. No visible text, no picture frame, no painting in the image.
+Prompt ／ 使ったプロンプト（@cha_leonardo）
+
+
+
+
+SCENE CONTEXT
+Character reference turnaround sheet of Leonardo da Vinci in his early 50s, reimagined as a photoreal live-action person, in three full-body views (front, profile, back) plus one close frontal portrait, for identity, wardrobe and material lock.
+
+CHARACTER ANCHORS
+Man in his early 50s, tall and lean, long straight nose, deep-set observant grey-blue eyes under heavy brows, high forehead, weathered but handsome face. Upright, unhurried bearing.
+
+HAIR SPECIFICATION
+Long wavy hair, grey shot with remaining brown, falling past the shoulders; full long beard of the same grey-brown, reaching the chest, neatly kept.
+
+WARDROBE REFERENCE
+Knee-length rose-pink wool tunic (a colour Leonardo was recorded as favouring), belted at the waist, over dark hose and soft brown leather ankle shoes. Over the tunic, a heavy leather work apron streaked and spotted with dried oil paint — ultramarine, vermilion, lead white, ochre — the stains matte and cracked. A rolled sheet of paper tucked into the belt.
+
+ATTRIBUTES / PROPS
+Carries a flat wooden tray at chest height with both hands, like a waiter: on it a small clay pot of vermilion pigment, a stoppered glass flask of pale linseed oil, a bundle of five brushes tied with string, and one red apple.
+
+BODY AND PRESENTATION LOCK
+Dignified, slightly absent-minded — the bearing of a man thinking about something else while carrying a tray. Same height, build, beard length and apron stains in every panel.
+
+SHEET LAYOUT
+Single reference sheet, four panels on a neutral seamless light-grey studio background, identical flat lighting across all panels.
+Panel 1 — full body, front view, tray held at chest height with both hands, gaze forward.
+Panel 2 — full body, profile view (screen-left facing), tray held forward, mid-stride.
+Panel 3 — full body, back view, apron ties and hair over the back visible.
+Panel 4 — close portrait, shoulders-up, direct gaze, beard and paint-stained apron collar visible.
+
+LIGHTING
+Soft even front-key studio lighting, low contrast, neutral daylight white balance (~5600K).
+
+REALISM LOCK
+Real aged skin with lines and pores, real coarse grey hair and beard, real wool with nap and creasing, real leather apron with cracked dried paint. No painterly rendering, no CG-clean geometry, no plastic skin.
+
+POSITIVE CONSTRAINTS
+Same face, same beard, same tunic colour, same apron stains, same tray contents across all four panels. No visible text, no wings, no machines, no extra props.
+Step 2. Leonardo's workshop and Florence ／ レオナルドの工房とフィレンツェ
+Point ／ ポイント
+
+Background plates are made with no people — people live on the character sheets and get composited in the video.
+I painted the spilled vermilion paint onto the workshop floor in the plate itself, so the source's 6.4-second setup cut becomes paint automatically. The source liquid was orange, so I kept the colour close; the closer the colour, the more stable the swap.
+The panel on the easel is at underdrawing stage with no face. Put Mona Lisa's face on it and it will bleed into the lead's face in the video.
+
+For the montage, one plate of a loggia with the Mona Lisa landscape behind it, and one of a cypress garden.
+
+背景プレートは「人物なし」で作ります。人物はシートで管理して、動画側で合成するため。
+工房のプレートには、床に朱色の絵の具がこぼれている状態まで描き込んでおきました。元動画の6.4秒の伏線カットがそのまま「絵の具」に置き換わるようにするためです。元動画の液体がオレンジ色だったので、色を近づけた朱色にしています。色が近いほど置換が安定します。
+画架のパネルは「下描き段階・顔なし」にしています。ここにモナ・リザの顔を描くと、動画の中で主役の顔と混ざるので。
+
+後半のモンタージュ用に、モナ・リザの背景の風景が見えるロッジアと、糸杉の庭園も1枚ずつ。
+
+Prompt ／ 使ったプロンプト（@loc_leonardo_studio）
+
+
+
+
+Photorealistic live-action recreation of Leonardo da Vinci's painting workshop in Florence, early 1500s, horizontal 16:9 — rendered as a REAL PHOTOGRAPH: captured on a full-frame cinema camera with a fast prime lens on a built practical set, true optics, true atmospherics, documentary-grade material fidelity. No people are present in this plate.
+
+REALISM LOCK — read first
+Indistinguishable from a still frame of a high-end historical feature film shot on a real built set. Real worn terracotta floor tiles with chips and dust in the joints; real rough lime-plastered walls with water stains; real oak tables scarred by knives and pigment; real glass with bubbles and imperfections; real dust in the light. Natural muted colour response — no candy saturation. True photographic dynamic range, fine natural grain. BANS: no painterly strokes, no illustration, no CG sheen, no perfectly clean or symmetrical geometry, no video-game look.
+
+★ COMPOSITION LOCK — MANDATORY
+A long, high-ceilinged workshop seen from a seated eye level. Tall north-facing leaded windows on the left pour soft diffuse daylight across the room. Along both sides, several long oak work tables at cafeteria spacing, each holding mortars and pestles, small clay pots of pigment, glass flasks of oil, rags, and sheets of drawings — the tables leave a clear central aisle down the middle of the room. A large easel stands near the windows holding a poplar panel at the underdrawing stage — faint brown lines only, no recognisable face. Against the far wall: shelves of jars, a hanging lantern, pinned sheets of anatomical and mechanical sketches (lines only, no legible text). In the foreground on the terracotta floor, slightly off-centre, a fresh spill of vermilion-red oil paint about 40 cm across, glossy and wet.
+
+LIGHTING — in-world sources only
+Soft north daylight from the left windows, gentle fill bouncing from the pale plaster walls, warm accents from one lit lantern. No hard directional shaft.
+
+BANS
+No people, no modern objects, no legible text, no picture frame, no finished paintings with faces, no oversaturated colour.
+Prompt ／ 使ったプロンプト（@loc_florence_loggia）
+
+
+
+
+Photorealistic live-action plate, horizontal 16:9, REAL PHOTOGRAPH on a full-frame cinema camera: an open stone loggia in Florence, early 1500s, seen from inside looking out between two slender sandstone columns. Beyond the parapet, the exact landscape of the "Mona Lisa" background: a winding pale road descending to the left, a stone bridge over a river to the right, hazy blue-green hills and jagged distant peaks dissolving into warm haze. A wooden chair with a red cushion stands at the parapet. Late-afternoon golden light from the right, long soft shadows. Real weathered sandstone, real terracotta floor, atmospheric perspective in the distance. No people, no modern objects, no legible text, no picture frame. No painterly rendering — the landscape is real terrain, not a painting.
+Prompt ／ 使ったプロンプト（@loc_florence_garden）
+
+
+
+
+Photorealistic live-action plate, horizontal 16:9, REAL PHOTOGRAPH on a full-frame cinema camera: a walled Florentine garden, early 1500s. A gravel path between clipped box hedges leads to a small stone fountain; tall dark cypresses and a lemon tree in a terracotta pot; a rough stone wall with climbing roses. Soft overcast daylight, no hard shadows, real gravel, real weathered stone with lichen, real foliage with natural imperfection. No people, no modern objects, no legible text, no picture frame, no painterly rendering.
+Step 3. The prop: tray and contents ／ 小道具：トレイと中身
+Point ／ ポイント
+
+Three things fly through the air in the source: an apple, a milk carton, a sandwich. I replaced them with an apple, a glass flask of linseed oil, and a bundle of brushes — matching shape and size to the originals (apple→apple, carton→bottle, long thing→brushes).
+The sheet has four items, but the video prompt limits it to three. Change the count and the airborne shot falls apart.
+
+元動画で宙に舞うのは「リンゴ・牛乳パック・サンドイッチ」の3つ。これを「リンゴ・亜麻仁油のフラスコ・筆の束」に置き換えました。形とサイズを元に揃えるのがコツです（リンゴ→リンゴ、パック→瓶、細長い物→筆の束）。
+シートには4品入れましたが、動画では3品に限定しています。品数を変えると「宙に舞う」カットが崩れます。
+
+Prompt ／ 使ったプロンプト（@prop_tray_leonardo）
+
+
+
+
+SCENE CONTEXT
+Prop reference sheet of one serving tray and its contents, photoreal, horizontal 16:9, four panels on a neutral seamless light-grey studio background, identical flat lighting across all panels, for object identity and scale lock. No people, no hands.
+
+THE TRAY
+A rectangular plain wooden serving tray about 45 × 30 cm with a low rim, paint-stained at the edges.
+
+CONTENTS (exactly these, nothing else)
+1. one red apple, about 8 cm
+2. a stoppered clear glass flask about 15 cm tall, half full of pale yellow linseed oil
+3. a bundle of five paintbrushes tied with string, about 25 cm long
+4. a small clay pot about 7 cm wide, filled with vermilion-red pigment
+
+SHEET LAYOUT
+Panel 1 — the loaded tray seen from directly above, all items in place.
+Panel 2 — the loaded tray from a three-quarter angle at table height, showing item heights.
+Panel 3 — the four items laid out side by side on the grey surface, tray removed, with a plain 30 cm wooden ruler beside them for scale (no legible markings).
+Panel 4 — close-up of the glass flask of linseed oil, the item that spills, showing its material and the liquid inside.
+
+LIGHTING
+Soft even studio lighting, low contrast, neutral daylight white balance (~5600K), true colour.
+
+REALISM LOCK
+Real materials with wear: scratched wood, chipped glaze, real fruit skin with pores, real bread crust, real liquid with meniscus. No CG sheen, no illustration, no plastic look.
+
+POSITIVE CONSTRAINTS
+Same four items, same sizes, same colours in every panel. No visible text, no logos, no extra objects.
+
+
+Step 4. The Genjutsu video prompt ／ 幻術の動画プロンプト
+Point ／ ポイント
+
+The most important thing in a Genjutsu prompt is writing what must NOT change first. With several reference images, start with a priority list (REFERENCE HIERARCHY) saying which image controls what. State explicitly that background plates have no authority over people or positions — without that, the video can snap to the plate as a still frame partway through.
+
+The other piece is the punchline. Mona Lisa keeps her closed-mouth half-smile until 10.8 seconds, acting only with her eyes, and laughs for the first time at 10.8 — locked to the second in its own block.
+
+Below are the three key blocks. The full prompt is long; there's a link at the end.
+
+
+
+
+幻術のプロンプトで一番大事なのは、「何を変えないか」を先に書くこと。参照画像が複数あるときは、どの画像が何を担当するかの優先順位（REFERENCE HIERARCHY）を最初に書きます。背景プレートには「人物や位置には権限がない」と明記。これがないと、動画が途中で背景の静止画にスナップすることがあります。
+
+もう一つはオチの設計。モナ・リザは10.8秒まで口を閉じた半笑いのまま、目だけで演技させて、10.8秒で初めて笑う——ここを独立ブロックにして秒数で固定しました。
+
+以下は要点の3ブロック。
+
+Prompt ／ 使ったプロンプト（抜粋・REFERENCE HIERARCHY）
+Use the uploaded reference video as the immutable source for all motion, choreography, timing, camera movement, framing, shot scale, every cut, edit rhythm, and duration (23.04 seconds, square 1:1, multi-shot). Reproduce every cut of the source exactly — do not add cuts, do not remove cuts, do not merge shots.
+
+REFERENCE HIERARCHY — read first
+Priority 1: the reference video — motion, choreography, camera, every cut, timing, person count, placement. Nothing below may alter it.
+Priority 2: @cha_monalisa — identity, hair, veil and wardrobe of the seated lead only.
+Priority 3: @cha_leonardo — identity, hair, beard and wardrobe of the walking character only.
+Priority 4: @prop_tray_leonardo — the tray and its contents only.
+Priority 5: @loc_leonardo_studio, @loc_florence_loggia, @loc_florence_garden — environment only (architecture, floor, walls, furniture, colour, materials, light quality). These plates have NO authority over any person, pose, position, count, or timing, and the video must never snap to any plate as a still frame.
+Character sheets show identity and wardrobe only. Ignore the poses in the sheets. Every person performs exactly the source's motion.
+
+NON-NEGOTIABLE SOURCE LOCK
+Keep every person that exists in the source: the same count in every shot, the same placement, the same seated/standing states, the same walking path, the same fall, the same catch, the same choreography and timing.
+Do not add people. Do not remove people. Do not move anyone.
+Only replace: identity, wardrobe, prop appearance, background, and lighting colour.
+The source's seated lead is a man and the walking character is a woman; in this video the seated lead becomes a woman (@cha_monalisa) and the walking character becomes a man (@cha_leonardo). The actions stay exactly as in the source — only the identities swap.
+
+SEATED LEAD (@cha_monalisa)
+Replace the source's seated lead (blond man in a green sweater) with @cha_monalisa: same face as the sheet, centre-parted dark brown hair under a fine transparent black gauze veil, dark forest-green silk dress with a low square neckline and finely pleated bodice, dull golden-ochre gathered sleeves ending at the wrist so both hands stay fully visible. Nothing of the source's sweater, shirt or tie remains.
+She sits exactly where the source lead sits and performs exactly the source lead's movements, including the one-handed catch at 9.6 s.
+
+⚠️ CRITICAL — THE SMILE (0.0–10.8 s)
+From 0.0 to 10.8 s her mouth stays closed in the faint, ambiguous half-smile of the painting — lips together, corners barely lifted. Her eyes do the acting: the side glance at 0.0–0.8 s, the lowered eyes at 4.8–5.9 s, the wide-open eyes in the extreme close-up at 5.9–6.4 s, the turn at 8.7–9.1 s, the catch at 9.6–10.8 s — all with the same closed-mouth half-smile. She does not open her mouth before 10.8 s.
+From 10.8 s onward she laughs openly, mouth open, exactly with the source's timing.
+
+WALKING CHARACTER (@cha_leonardo)
+Replace the source's walking woman with @cha_leonardo: man in his early 50s, long grey-brown wavy hair past the shoulders, long full beard, rose-pink knee-length wool tunic, heavy leather apron stained with dried paint, dark hose, brown leather ankle shoes. Nothing of the source's sweater remains.
+He walks the source's exact path carrying the tray, slips at 6.8 s, falls toward the seated lead at 8.1–8.7 s, and ends up seated beside her from 10.8 s, exactly as the source's walking character does. Do not add any touch, embrace or gesture that the source does not contain.
+From 9.6 s onward, splashes of vermilion-red oil paint are on his beard, cheek and apron (the paint from the floor), and stay for the rest of the two-shot.
+
+⚠️ CRITICAL — TWO-PERSON SHOTS ROLE LOCK (8.1–14.2 s) — ABSOLUTE
+Identity is bound to the source's ROLE and screen position, never to gender, hair length or face similarity. In every shot where both people are visible (the fall at 8.1–8.7 s, the catch at 9.6–10.8 s, the two-shot at 10.8–14.2 s):
+— The person who has been SEATED since 0.0 s, who turns at 8.7 s, who CATCHES the tray with one hand at 9.6 s, and who sits on screen-LEFT in the two-shot = @cha_monalisa. She is a woman replacing the source's short-haired blond man. The veil and the green silk dress are on HER, the catcher.
+— The person who WALKED in with the tray, SLIPPED at 6.8 s, FELL at 8.1 s, and sits on screen-RIGHT in the two-shot = @cha_leonardo. He is a man replacing the source's long-haired woman. The beard, the leather apron and the red paint on the face are on HIM, the fallen one.
+Do NOT assign @cha_leonardo to the seated/catching slot because the source's seated person is male. Do NOT assign @cha_monalisa to the fallen slot because the source's fallen person is female. The source's man becomes the woman; the source's woman becomes the man. If the two identities ever appear swapped, that is an error.
+
+TRAY AND CONTENTS (@prop_tray_leonardo)
+The tray is the plain wooden tray of @prop_tray_leonardo. On it exactly three items, replacing the source's three: the source's apple → one red apple; the source's milk carton → the stoppered glass flask of pale linseed oil; the source's sandwich → the bundle of five brushes tied with string. Do not include the pigment pot. Do not add a fourth object.
+At 7.5–8.1 s and 9.1–9.6 s these three items fly through the air exactly along the source's object paths, one item per source object, same count, same timing. At 9.6–10.8 s the tray lands in the seated lead's hand and the three items settle onto it exactly as in the source.
+
+FLOOR SPILL
+The source's orange liquid on the floor at 6.4–6.8 s is a spill of glossy vermilion-red oil paint of the same size, shape and position on terracotta floor tiles. The shoe that steps into it at 6.8 s is @cha_leonardo's brown leather shoe with dark hose above. Same slip, same timing.
+
+UNNAMED CROWD
+All other people in every shot become workshop apprentices of early-1500s Florence, of varied ages: plain linen shirts, wool tunics in muted ochre, brown, grey and olive, some with paint-stained aprons, natural hair, no two neighbours identical. They sit and work at the tables exactly where the source's students sit, with the same head turns and reactions. No school uniforms, sweaters, ties or modern clothing remain on anyone. Each person keeps one consistent appearance.
+
+ENVIRONMENT — main scene (0.0–14.2 s): @loc_leonardo_studio
+Replace the school cafeteria with the interior of @loc_leonardo_studio: tall north-facing leaded windows on the left, oak work tables with mortars, pigment pots and drawings, an easel with an underdrawn panel (no face on it), lime-plastered walls with pinned sketches (no legible text), terracotta tile floor. The cafeteria tables become the oak work tables at the same positions; the modern ceiling and lights become the workshop's timber ceiling.
+@loc_leonardo_studio controls ONLY architecture, floor, walls, furniture, colour, materials and light quality. Keep the source's camera position, lens, framing and every cut exactly; the workshop is built around the existing shots. Soft diffuse north daylight consistent with the plate; no hard shaft; no change of light direction within a shot.
+No brick, no modern objects, no legible text, no fluorescent lights.
+
+ENVIRONMENT — montage (14.2–23.0 s)
+The source's montage cuts keep their order, duration, framing and the lead's motion. Assign backgrounds in this order, one plate per cut, never changing the background inside a cut:
+cut 1 → @loc_florence_loggia; cut 2 → @loc_florence_garden; cut 3 → the window side of @loc_leonardo_studio; cut 4 → @loc_florence_loggia; cut 5 → @loc_florence_garden; cut 6 → @loc_leonardo_studio; cut 7 (if present) → @loc_florence_loggia.
+In every montage cut the lead is @cha_monalisa in the same dress and veil, performing the source lead's movements; any object the source lead holds (mug, glass) becomes a plain terracotta cup. No modern objects.
+
+IDENTITY LOCK
+@cha_monalisa's face stays identical from the first frame to the last, in every shot size including the extreme close-up at 5.9–6.4 s. No morphing, merging, distorting, duplicating or swapping. She is never replaced by a crowd member; no crowd member becomes her. The same holds for @cha_leonardo.
+
+MOTION LOCK
+Strictly preserve the source's body movements, directions, the slip, the fall, the catch, the head turns, pacing and timing.
+
+CAMERA, CUTS AND FRAMING
+Keep the source's camera angle, movement, position, focal length, framing, composition and shot scale in every shot. Reproduce every cut at its exact time. No new cuts, no removed cuts, no re-framing, no crop, no zoom, no change of aspect ratio (stay 1:1).
+
+TEMPORAL CONSISTENCY
+Strong frame-to-frame consistency within every shot and across cuts. No flickering. No face changes. No wardrobe changes. No disappearing people. No duplicated people. No warped hands or limbs. Natural motion blur during the fall and the flying objects.
+
+REALISM
+Photorealistic live-action: real skin texture, real silk, wool and linen with weight and creasing, real terracotta and marble, real wet paint with gloss, natural shadows. No painterly rendering, no CG sheen, no plastic skin.
+
+FINAL REQUIREMENT
+Follow the reference video's motion, choreography, timing, every cut, person count, placement and duration as closely as possible, changing only: the seated lead's identity (@cha_monalisa), the walking character's identity (@cha_leonardo), the tray and its three items (@prop_tray_leonardo), the floor spill colour, the unnamed crowd's appearance, and the environments (@loc_leonardo_studio for 0.0–14.2 s; the montage plates as assigned).
+Prompt ／ 使ったプロンプト（抜粋・THE SMILE）
+⚠️ CRITICAL — THE SMILE (0.0–10.8 s)
+From 0.0 to 10.8 s her mouth stays closed in the faint, ambiguous half-smile of the painting — lips together, corners barely lifted. Her eyes do the acting: the side glance at 0.0–0.8 s, the lowered eyes at 4.8–5.9 s, the wide-open eyes in the extreme close-up at 5.9–6.4 s, the turn at 8.7–9.1 s, the catch at 9.6–10.8 s — all with the same closed-mouth half-smile. She does not open her mouth before 10.8 s.
+From 10.8 s onward she laughs openly, mouth open, exactly with the source's timing.
+Step 5. The failure: they swapped at the catch ／ 失敗談：キャッチの瞬間に2人が入れ替わった
+
+
+
+
+Point ／ ポイント
+
+The first generation was perfect up to 8.3 seconds. Mona Lisa's smile, the wide-eyed extreme close-up, Leonardo walking, the red floor, three items in the air.
+Then at 8.6 seconds, the two-shot right after Leonardo falls in — Leonardo is the one seated and catching the tray, and Mona Lisa is the one who fell. The funny part: the red paint splash was on Leonardo's face, exactly as written. "Who gets what" was understood. Only "who sits where" got swapped.
+
+Here's what I think happened. In the source, the seated person is a man and the one who falls is a woman. My casting is the reverse. In shots with one person, the text assignment holds. The moment two people share a frame, Genjutsu assigns identities by resemblance to the source person — gender included. And both people in the source wear the same green sweater, so there's no wardrobe cue to tell the roles apart.
+
+
+
+
+一回目の生成、8.3秒までは完璧でした。モナ・リザの微笑み、超クローズの見開いた目、レオナルドの歩き、朱色の床、宙に舞う3品。
+ところが8.6秒、レオナルドが倒れ込んだ直後の2人ショットで——座ってトレイをキャッチしているのがレオナルド、倒れ込んだ側がモナ・リザになっていました。面白いのは、顔の朱色の絵の具はちゃんとレオナルドに付いていたこと。「誰に何が付くか」は理解されていて、「誰がどの席か」だけが入れ替わった。
+
+原因はこうだと思っています。元動画は「座る＝男、転ぶ＝女」。今回の配役は「座る＝女、転ぶ＝男」で性別が逆。1人ずつしか映らないカットではテキストどおりに置換されるのに、2人が同じフレームに入った瞬間、幻術は「元動画の人物の見た目（性別）に近い参照」で割り当ててしまう。しかも元動画の2人は同じ緑のセーターで、衣装で役を区別する手がかりがない。
+
+It worked on Girl with a Pearl Earring ／ 真珠の耳飾りの少女編では成功した
+
+
+
+
+Same source video, same gender reversal, second episode: "Girl with a Pearl Earring × Vermeer". I changed exactly one thing in the prompt: a role-lock block just for the section where both people are on screen (8.1–14.2 s). It says: don't assign by gender or hair; the person who has been seated since 0 s and catches at 9.6 s is the girl; the person who walked in, slipped and fell is Vermeer — named by what they did and where they sit on screen.
+
+Result: from 8.6 s on, the girl sits on the left and catches the tray, Vermeer sits on the right covered in blue paint. Every cut came out right.
+
+Honestly, I only ran it once, so luck is still in play. But looking at an animal-vs-animal remake of the same source that didn't swap, it does seem that the more visually different the two references are, the less they get confused. The girl (blue turban, pearl) and Vermeer (black hat, smock) had that going for them too.
+
+同じ元動画・同じ性別逆転で、2本目の「真珠の耳飾りの少女 × フェルメール」を作りました。変えたのはプロンプト1箇所だけ。2人が映る区間（8.1–14.2秒）専用の「役割固定」ブロックを足しました。「性別や髪で割り当てるな。0秒から座っていて9.6秒にキャッチする人＝少女、歩いて来て滑って倒れた人＝フェルメール」と、経緯と画面内の位置で名指しします。
+
+結果、8.6秒以降も少女が左に座ってトレイを受け止め、青い絵の具まみれのフェルメールが右。全カット正しく出ました。
+
+正直に言うと、1回しか試していないので運の要素は残っています。ただ、同じ元動画の「動物同士」のリメイクが入れ替わっていないのを見ると、2つの参照が見た目で大きく違うほど混同しにくいのは確かそうです。少女（青いターバン・真珠）とフェルメール（黒い帽子・スモック）は、その点でも有利でした。
+
+Prompt ／ 使ったプロンプト（真珠編・追加したブロック）
+Use the uploaded reference video as the immutable source for all motion, choreography, timing, camera movement, framing, shot scale, every cut, edit rhythm, and duration (23.04 seconds, square 1:1, multi-shot). Reproduce every cut of the source exactly — do not add cuts, do not remove cuts, do not merge shots.
+
+REFERENCE HIERARCHY — read first
+Priority 1: the reference video — motion, choreography, camera, every cut, timing, person count, placement. Nothing below may alter it.
+Priority 2: @cha_pearl_girl — identity, turban, pearl earring and wardrobe of the seated lead only.
+Priority 3: @cha_vermeer — identity, hair, hat and wardrobe of the walking character only.
+Priority 4: @prop_tray_vermeer — the tray and its contents only.
+Priority 5: @loc_vermeer_room, @loc_delft_canal, @loc_delft_courtyard — environment only (architecture, floor, walls, furniture, colour, materials, light quality). These plates have NO authority over any person, pose, position, count, or timing, and the video must never snap to any plate as a still frame.
+Character sheets show identity and wardrobe only. Ignore the poses in the sheets. Every person performs exactly the source's motion.
+Assignment rule for the whole video: each reference is bound to a ROLE in the source (seated catcher / walking faller), never to the gender or hair of the source person. See TWO-PERSON SHOTS ROLE LOCK.
+
+NON-NEGOTIABLE SOURCE LOCK
+Keep every person that exists in the source: the same count in every shot, the same placement, the same seated/standing states, the same walking path, the same fall, the same catch, the same choreography and timing.
+Do not add people. Do not remove people. Do not move anyone.
+Only replace: identity, wardrobe, prop appearance, background, and lighting colour.
+The source's seated lead is a man and the walking character is a woman; in this video the seated lead becomes a woman (@cha_pearl_girl) and the walking character becomes a man (@cha_vermeer). The actions stay exactly as in the source — only the identities swap.
+
+SEATED LEAD (@cha_pearl_girl)
+Replace the source's seated lead (blond man in a green sweater) with @cha_pearl_girl: same face as the sheet, an adult woman around 20, ultramarine-blue linen turban wrapped close to the head with a pale yellow-ochre tail falling behind the left shoulder, no hair visible, one large teardrop pearl earring on the left ear, ochre-brown wool jacket with a wide flat white linen collar, sleeves ending at the wrist so both hands stay fully visible. Nothing of the source's sweater, shirt or tie remains.
+She sits exactly where the source lead sits and performs exactly the source lead's movements, including the one-handed catch at 9.6 s.
+
+⚠️ CRITICAL — THE GLANCE (0.0–10.8 s)
+From 0.0 to 10.8 s her expression stays within the painting's: lips slightly parted, calm, the famous over-the-shoulder glance. Her eyes do the acting: the side glance at 0.0–0.8 s, the lowered eyes at 4.8–5.9 s, the wide-open eyes in the extreme close-up at 5.9–6.4 s (the pearl earring in frame), the turn at 8.7–9.1 s, the catch at 9.6–10.8 s — all with the same parted-lip calm. She does not laugh before 10.8 s.
+From 10.8 s onward she laughs openly, exactly with the source's timing.
+
+⚠️ CRITICAL — TURBAN AND PEARL LOCK
+The blue turban, its yellow tail and the single pearl earring stay identical in every shot, every shot size and every montage cut. No hair appears. No second earring. The pearl never changes size or position.
+
+WALKING CHARACTER (@cha_vermeer)
+Replace the source's walking woman with @cha_vermeer: man in his early 30s, shoulder-length dark brown hair, clean-shaven or faint stubble, black wool doublet with a wide flat white linen collar, an open canvas painter's smock stained with dried paint, black breeches, dark stockings, black leather shoes, a black wide-brimmed hat that stays on until the fall at 8.1 s and may come off in the fall. Nothing of the source's sweater remains.
+He walks the source's exact path carrying the tray, slips at 6.8 s, falls toward the seated lead at 8.1–8.7 s, and ends up seated beside her from 10.8 s, exactly as the source's walking character does. Do not add any touch, embrace or gesture that the source does not contain.
+From 9.6 s onward, splashes of intense ultramarine-blue oil paint are on his cheek, collar and smock (the paint from the floor), and stay for the rest of the two-shot.
+
+⚠️ CRITICAL — TWO-PERSON SHOTS ROLE LOCK (8.1–14.2 s) — ABSOLUTE
+Identity is bound to the source's ROLE and screen position, never to gender, hair length or face similarity. In every shot where both people are visible (the fall at 8.1–8.7 s, the catch at 9.6–10.8 s, the two-shot at 10.8–14.2 s):
+— The person who has been SEATED since 0.0 s, who turns at 8.7 s, who CATCHES the tray with one hand at 9.6 s, and who sits on screen-LEFT in the two-shot = @cha_pearl_girl. She is a woman replacing the source's short-haired blond man. The blue turban, the yellow tail and the pearl earring are on HER, the catcher.
+— The person who WALKED in with the tray, SLIPPED at 6.8 s, FELL at 8.1 s, and sits on screen-RIGHT in the two-shot = @cha_vermeer. He is a man replacing the source's long-haired woman. The hat, the paint-stained smock and the blue paint on the face are on HIM, the fallen one.
+Do NOT assign @cha_vermeer to the seated/catching slot because the source's seated person is male. Do NOT assign @cha_pearl_girl to the fallen slot because the source's fallen person is female. The source's man becomes the woman; the source's woman becomes the man. If the two identities ever appear swapped, that is an error.
+
+TRAY AND CONTENTS (@prop_tray_vermeer)
+The tray is the plain wooden tray of @prop_tray_vermeer. On it exactly three items, replacing the source's three: the source's apple → one lemon; the source's milk carton → the white-and-blue Delft stoneware milk jug; the source's sandwich → the round bread roll. Do not include the pigment pot. Do not add a fourth object.
+At 7.5–8.1 s and 9.1–9.6 s these three items fly through the air exactly along the source's object paths, one item per source object, same count, same timing. At 9.6–10.8 s the tray lands in the seated lead's hand and the three items settle onto it exactly as in the source.
+
+FLOOR SPILL
+The source's orange liquid on the floor at 6.4–6.8 s is a spill of glossy, intense ultramarine-blue oil paint of the same size, shape and position, on black-and-white marble floor tiles. At the edge of the spill lie a small tipped-over stone mortar and four or five rough lumps of raw lapis lazuli (deep blue stone flecked with gold) — small still objects only, they do not move and do not enter the shoe's path. The shoe that steps into it at 6.8 s is @cha_vermeer's black leather shoe with dark stockings above. Same slip, same timing.
+
+UNNAMED CROWD
+All other people in every shot become the household of a 1660s Delft painter — children of varied ages from about six to sixteen and two adult maids: plain linen caps and collars, wool bodices and jackets in muted brown, grey, mustard and dark green, aprons, natural hair, no two neighbours identical. They sit at the tables reading, writing on slates and sewing, exactly where the source's students sit, with the same head turns and reactions. No school uniforms, sweaters, ties or modern clothing remain on anyone. Each person keeps one consistent appearance.
+
+ENVIRONMENT — main scene (0.0–14.2 s): @loc_vermeer_room
+Replace the school cafeteria with the interior of @loc_vermeer_room: tall leaded windows on the left with the lower shutters half closed, cool silver daylight, plain wooden tables with books, slates and sewing baskets, a yellow wool curtain, a chair with a blue cushion, a large map on the far white wall (no legible text), an easel with an underdrawn canvas (no face on it), black-and-white marble checkerboard floor. The cafeteria tables become the wooden tables at the same positions; the modern ceiling and lights become dark timber beams.
+@loc_vermeer_room controls ONLY architecture, floor, walls, furniture, colour, materials and light quality. Keep the source's camera position, lens, framing and every cut exactly; the room is built around the existing shots. Cool diffuse north daylight from the left consistent with the plate; no hard shaft; no candles; no change of light direction within a shot.
+No brick, no modern objects, no legible text, no fluorescent lights.
+
+ENVIRONMENT — montage (14.2–23.0 s)
+The source's montage cuts keep their order, duration, framing and the lead's motion. Assign backgrounds in this order, one plate per cut, never changing the background inside a cut:
+cut 1 → @loc_delft_canal; cut 2 → @loc_delft_courtyard; cut 3 → the window side of @loc_vermeer_room; cut 4 → @loc_delft_canal; cut 5 → @loc_delft_courtyard; cut 6 → @loc_vermeer_room; cut 7 (if present) → @loc_delft_canal.
+In every montage cut the lead is @cha_pearl_girl in the same jacket, turban and pearl, performing the source lead's movements; any object the source lead holds (mug, glass) becomes a plain Delft stoneware cup. No modern objects.
+
+IDENTITY LOCK
+@cha_pearl_girl's face stays identical from the first frame to the last, in every shot size including the extreme close-up at 5.9–6.4 s. No morphing, merging, distorting, duplicating or swapping. She is never replaced by a crowd member; no crowd member becomes her. The same holds for @cha_vermeer.
+
+MOTION LOCK
+Strictly preserve the source's body movements, directions, the slip, the fall, the catch, the head turns, pacing and timing.
+
+CAMERA, CUTS AND FRAMING
+Keep the source's camera angle, movement, position, focal length, framing, composition and shot scale in every shot. Reproduce every cut at its exact time. No new cuts, no removed cuts, no re-framing, no crop, no zoom, no change of aspect ratio (stay 1:1).
+
+TEMPORAL CONSISTENCY
+Strong frame-to-frame consistency within every shot and across cuts. No flickering. No face changes. No wardrobe changes. No disappearing people. No duplicated people. No warped hands or limbs. Natural motion blur during the fall and the flying objects.
+
+REALISM
+Photorealistic live-action: real skin texture, real silk, wool and linen with weight and creasing, real marble and stoneware, real wet paint with gloss, a real pearl with nacre, natural shadows. No painterly rendering, no CG sheen, no plastic skin.
+
+FINAL REQUIREMENT
+Follow the reference video's motion, choreography, timing, every cut, person count, placement and duration as closely as possible, changing only: the seated lead's identity (@cha_pearl_girl), the walking character's identity (@cha_vermeer), the tray and its three items (@prop_tray_vermeer), the floor spill colour and the small still objects at its edge, the unnamed crowd's appearance, and the environments (@loc_vermeer_room for 0.0–14.2 s; the montage plates as assigned).
+Prompt ／ 使ったプロンプト（真珠編・THE GLANCE）
+⚠️ CRITICAL — THE GLANCE (0.0–10.8 s)
+From 0.0 to 10.8 s her expression stays within the painting's: lips slightly parted, calm, the famous over-the-shoulder glance. Her eyes do the acting: the side glance at 0.0–0.8 s, the lowered eyes at 4.8–5.9 s, the wide-open eyes in the extreme close-up at 5.9–6.4 s (the pearl earring in frame), the turn at 8.7–9.1 s, the catch at 9.6–10.8 s — all with the same parted-lip calm. She does not laugh before 10.8 s.
+From 10.8 s onward she laughs openly, exactly with the source's timing.
+
+The same block is now in the Mona Lisa prompt for the next run.
+同じブロックをモナ・リザ編にも入れて、次に回すときはこれで行きます。
+
+Make original video with Higgsfield Genjutsu ／ Higgsfield 幻術でバズ動画をつくる

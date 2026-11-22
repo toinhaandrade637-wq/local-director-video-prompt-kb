@@ -1,0 +1,1423 @@
+【项目】Kling-3.0-is-on-Higgsfield-User-Guide-AI-Video-Generation（官方博客 · Title-Case 重抓 2026-11-04）
+【链接】https://higgsfield.ai/blog/Kling-3.0-is-on-Higgsfield-User-Guide-AI-Video-Generation
+【提示词块】11（2026-11-05 原始大小写 curl 复核；11 块已存 官博提示词块全集_63篇402块.jsonl 附录）
+【捕获】2026-11-04（Title-Case 重抓·替换旧 404 墓碑）
+
+──────────────────────────────────────
+
+Kling 4.0 and 3.0 Prompt Guide: 10 Prompts and Settings That Work (2026)
+
+Higgsfield
+
+Explore
+
+Image
+
+Video
+
+Audio
+
+MCP
+
+API
+
+Genjutsu
+New
+
+Content Factory
+New
+
+Playable
+New
+
+Mangaka
+New
+
+AI Influencer
+
+Academy
+New
+
+Katana
+
+ChatGPT Plugin
+
+Ads Studio
+
+Effects
+
+Cinema Studio
+
+Contests
+
+Marketing Studio
+
+Supercomputer
+
+Edit
+
+Community
+
+Plugins
+
+Canvas
+
+Originals
+
+Creator Hub
+
+Creator Hub
+
+Help center
+
+Blog
+
+Changelog
+
+Customer Stories
+
+Search Creator Hub
+
+On this page
+
+Kling 4.0 or Kling 3.0: Which One Should You Use?
+
+How Do You Write a Prompt for Kling?
+
+Which Settings Work Best?
+
+10 Kling Prompts That Work
+
+Kling 4.0
+
+Kling 3.0
+
+How Much Does Kling Cost on Higgsfield?
+
+What Are the Most Common Kling Prompt Mistakes?
+
+Blog
+
+/
+
+Guides
+
+/
+
+Kling 4.0 and 3.0 Prompt Guide
+
+Back
+
+Kling 4.0 and 3.0 Prompt Guide: 10 Prompts and Settings That Work (2026)
+
+Higgsfield
+
+Oct 25, 2026
+
+6 min
+
+Kling 4.0 and Kling 3.0 are both available on Higgsfield, and they suit different tasks. Kling 4.0 generates videos up to 30 seconds in a single generation, with up to 10 keyframes, automatic multi-shot and video editing. Kling 3.0 is built for clips up to 15 seconds, with up to 5 shots, Elements for consistent characters and native audio. This guide shows how to write prompts for both models, which settings to choose, and 10 prompts with results you can copy.
+
+TL;DR
+
+Use Kling 4.0 for scenes longer than 15 seconds, for exact moments set with keyframes, and for changes in a finished clip. Use Kling 3.0 for multi-shot clips up to 15 seconds with native audio.
+
+Start with the subject, action and camera. For complex scenes, add timing, references, lighting, audio and locks.
+
+For Kling 4.0, test at 720p before the final version. For Kling 3.0, use Turbo for faster drafts.
+
+Kling 4.0 or Kling 3.0: Which One Should You Use?
+
+Kling 4.0 is the newer model: longer clips, keyframes and video editing. Kling 3.0 is still a good choice for short multi-shot clips with sound.
+
+Kling 4.0 or Kling 3.0: Which One Should You Use?
+
+Criteria
+
+Kling 3.0
+
+Kling 4.0
+
+Duration
+
+3 to 15 seconds
+
+3 to 30 seconds
+
+Frames
+
+Start frame, end frame, or both
+
+Up to 10 keyframes
+
+Multi-shot
+
+Up to 5 shots, Auto or Custom
+
+Automatic, guided by the prompt
+
+References
+
+Elements with @ tags
+
+Up to 15 in total: up to 10 images, up to 5 videos, Elements and voice references
+
+Edit a finished clip
+
+In a separate model, Kling 3.0 Omni Edit
+
+In the Edit video tab
+
+Resolution
+
+720p, 1080p, 4K
+
+720p, 1080p
+
+Aspect ratio
+
+16:9, 9:16, 1:1
+
+From 21:9 to 9:16
+
+Audio
+
+Native audio, on or off
+
+Stereo audio, voice in 9 languages
+
+Fast version for drafts
+
+Kling 3.0 Turbo
+
+—
+
+In References mode, you tag added assets with @ in the prompt. In Frames mode, you upload keyframe images at points on the timeline instead.
+
+For a full overview of Kling 4.0 features, see 
+Kling 4.0 on Higgsfield: Features, Settings, and Pricing
+.
+
+How Do You Write a Prompt for Kling?
+
+Start by describing the subject, action and camera movement. For more complex scenes, add timing, references, lighting, audio and what should stay consistent. You don’t need every block for a simple shot.
+
+How Do You Write a Prompt for Kling?
+
+Block
+
+What to write
+
+Scene
+
+What happens and how long the clip is, in one or two sentences
+
+References
+
+Who or what comes from a reference, tagged with @, and what must match it
+
+Camera
+
+Lens, distance, one camera move per shot
+
+Action timing
+
+What happens at each second, for example 0–2s, 2–4.5s
+
+Physics
+
+How bodies, cloth, hair and objects should move
+
+Lighting
+
+Light source, direction and palette
+
+Audio
+
+What we should hear, or “No music, no dialogue”
+
+Locks
+
+What must not happen: no logos, no text, no extra people
+
+For Kling 3.0:
+
+Keep each shot focused on one main action and camera move. If you need three events, split them into shots in Custom mode.
+
+Tag the same element in every shot where it appears, and describe only its action: its look comes from the element.
+
+With an end frame, describe motion that can arrive at that frame.
+
+For Kling 4.0:
+
+Choose the Kling 4.0 mode based on what you want to control:
+
+Frames:
+ keyframe images set specific moments in the video.
+
+References:
+ images, videos, Elements and voice references guide characters, movement and style.
+
+Edit video:
+ upload an existing clip and describe what should change.
+
+Then:
+
+With keyframes, let the keyframes set the key moments, and use the prompt to describe the action and the camera between them.
+
+If something doesn’t look right, change one thing at a time: the prompt, a reference or the duration.
+
+In Edit video, describe what should change and say what should stay the same, such as the character, background, movement or lighting.
+
+Which Settings Work Best?
+
+Choose the model and the mode by the task.
+
+Which Settings Work Best?
+
+Task
+
+Model and mode
+
+Settings
+
+Test a camera move or framing
+
+Kling 4.0 at 720p, or Kling 3.0 Turbo for Kling 3.0
+
+Short duration
+
+A short social clip with sound
+
+Kling 3.0
+
+Up to 15 seconds, audio on
+
+A short story with several shots and one character
+
+Kling 3.0, Multi-shot with Elements
+
+Up to 5 shots within 15 seconds
+
+Longer scenes or multi-shot sequences
+
+Kling 4.0
+
+Up to 30 seconds per generation
+
+Exact poses or product angles at set moments
+
+Kling 4.0, Frames
+
+Up to 10 keyframes
+
+A new character, product, background or angle in a finished clip
+
+Kling 4.0, Edit video
+
+Upload the clip and describe the change
+
+Recreate the pacing or camera movement of an existing video
+
+Kling 4.0, References
+
+Add a video reference and say what to keep and what to replace
+
+Dialogue in another language
+
+Kling 4.0
+
+Voice in 9 languages
+
+10 Kling Prompts That Work
+
+Each prompt below was used on Higgsfield. Copy it, change the subject and the setting, and keep the structure.
+
+Prompts 1 to 5 show Kling 4.0: dialogue in two languages, references, a 30-second generation, keyframes and video editing. Prompts 6 to 10 show Kling 3.0: a start frame with a camera orbit, multi-shot with Elements, a start-frame continuation, a one-take shot with references and a macro shot with audio.
+
+In the prompts below, 
+<<<image_1>>>
+, 
+<<<image_2>>>
+ and so on mark the references. When you paste a prompt into Kling 4.0, they turn into @ tags for the references you added.
+
+Kling 4.0
+
+1. Dialogue in two languages: a French and English street scene
+
+Twelve seconds and five shots, with three references and two characters who speak different languages.
+
+SCENE CONTEXT
+
+A 12-second cinematic short-form drama on a quiet city sidewalk at night, in front of a small corner shop whose storefront glows under a red fascia: the girl walks in tense and guarded to face a curly-haired guy waiting by the planters — a confrontation across a language gap: she speaks French, he speaks English, and neither really speaks the other&#x27;s language. They get by on a few shared words, gestures and tone — until he opens his hand and reveals her lost vintage wristwatch, which needs no translation. Anger cracks into disbelief, then into fragile warmth; the ending holds the two of them small against the glowing storefront on the empty street. Sparse natural dialogue, real voices, no speeches. Filmic, intimate, handheld.
+
+ACTIVE REFERENCES
+
+<<<image_1>>> (the guy): late-teens man, loose brown curls, fair skin with a few small blemishes, soft friendly features now held tense. Identity AND wardrobe inherited from the reference as-is: a washed-red duck-canvas work jacket open over a navy hoodie with the hood lying flat inside the collar, medium-blue straight jeans, chunky cream sneakers — all unbranded, no lettering anywhere on the clothes. Face 100% matches the reference, ALIVE every frame — blinks, swallows, held breath, guilt-to-hope micro-expressions. VOICE: a real young American male voice, speaking English only — light, unpolished, a little tight in the throat at first, loosening at the end; natural pacing with hesitations, slowing down and simplifying his words when he sees she doesn&#x27;t follow, never announcer-smooth. He does not understand French.
+
+<<<image_2>>> (the girl): late-teens/early-20s European girl, long straight light-brown hair loose under a brown houndstooth-check baseball cap, chunky grey translucent rectangular glasses, soft features set hard. Identity AND wardrobe inherited from the reference as-is: silver wired earbuds hanging OFF her ears around her neck, cable running to her right front jeans pocket; oversized boxy white tee with its faded navy abstract emblem print and small red circular stamp (stamp lettering unreadable), plaid burgundy boxer waistband over a brown croc-texture belt, baggy faded dirty-wash jeans, grey suede sneakers, silver rings. Her LEFT wrist is BARE — the vintage rectangular watch from her reference is the story prop in HIS hand. Face 100% matches the reference, ALIVE every frame — blinks, jaw tension, welling micro-emotions. VOICE: a real young French female voice, speaking French with natural native pronunciation — low, clipped and guarded at first, cracking slightly on the turn, warm and quiet at the end; her two English words are spoken with a clear French accent. She understands only a few simple English words.
+
+The watch (story prop, from her reference): a small vintage rectangular watch — silver case, cream rectangular dial, slim dark-brown leather strap; unbranded, dial text unreadable.
+
+<<<image_3>>> (location): the night storefront street — inherited exactly AS IS: a pale vertical-siding building with dark upper windows; a long glossy red fascia band with a plain white ring emblem; under it a lit storefront of steel-framed glass — a glass double door showing a counter with red stools inside, a window of shelves on the left, wide frosted glass panes glowing on the right; two wooden planter boxes of green shrubs and small pink flowers on the sidewalk in front of the door; grey brick-paved sidewalk; a dark two-lane road with white lane lines in the foreground; to the right a darker apartment building with balconies, a black fence and a light-blue street lamp with a cool white head. ALL posters, signs and any writing in the windows render as unreadable shapes — no readable text anywhere. The shop interior is empty.
+
+Exactly two people in the location; nobody else, no cars passing.
+
+LOCATION MAP
+
+Per the reference geography: the storefront runs across the frame along the sidewalk, red fascia above, the glass door and planters at the center-left, the frosted windows center-right, the apartment building, fence and blue street lamp at the far right, the empty road in the foreground. The GUY waits standing on the sidewalk just right of the planters, in front of the frosted windows, one hand closed at his side, facing frame-right toward the street lamp side. The GIRL enters along the sidewalk from frame-right, from under the street lamp, and crosses to face him at one meter. AXIS LOCK: their eyeline runs along the sidewalk, planters-to-lamp; in every two-shot and over-shoulder the guy holds frame-left, the girl frame-right; screen direction never flips.
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+First frame (Segment 1): a slow-burn handheld wide from chest height on the road edge, facing the storefront — the storefront glowing under the red fascia, the guy standing beside the planters at x 38%, y 52%, weight uneasy, closed fist at his side, the frosted windows lighting him from behind; the girl entering along the sidewalk at the frame&#x27;s right edge at x 78%, mid-step under the cool street lamp, cap low, arms crossing as she walks. Both visible from frame one.
+
+FORMAT MODE
+
+Controlled five-segment sequence with HARD CUTS at 2.5s / 5.0s / 7.5s / 9.5s. Real-time speed inside every segment — no slow motion. Continuity is continuous action and continuous sound: each segment resumes the exact state of the previous cut.
+
+OPTICS
+
+One physical lens character per segment, honest filmic depth. LENS LOCK SEGMENT 1 = 47° wide two-shot. SEGMENT 2 = 29° over her shoulder onto him. SEGMENT 3 = 29° reverse, over his shoulder onto her, the opening hand large in the near frame. SEGMENT 4 = 29° lateral tight two-faces profile. SEGMENT 5 = 47° pulled-back low wide. No zooms anywhere.
+
+CAMERA
+
+TRUE HANDHELD in every segment — quiet documentary weight: breathing pulse, micro-shake, small human corrections, one soft settle after each cut as the operator finds the frame; no gimbal float, no whips, no crash zooms:
+
+S1 — chest height on the road edge, side-on to their meeting line, watching her cross to him.
+
+S2 — over her right shoulder ON the axis, his face carrying the frame, the planters and lit door soft behind him.
+
+S3 — reverse over his left shoulder ON the axis, her face carrying the frame, his hand in the near foreground, the street lamp and dark apartment block soft behind her.
+
+S4 — lateral tight profile two-shot from the road side, both faces a meter apart, the frosted windows glowing behind them.
+
+S5 — pulled back low-wide from across the road: the pair small mid-frame on the sidewalk against the whole glowing storefront and red fascia, the dark empty road in the foreground.
+
+ACTION TIMING
+
+SEGMENT 1, 0.0s–2.5s (47° wide): the approach — she walks along the sidewalk in hard clipped steps, arms crossed, cap brim low; he straightens up beside the planters, swallowing, fist tightening. At 1.2s she stops one meter from him and says flat, guarded, in French: « Bon. Pourquoi tu m&#x27;as fait venir ? » His brow knots, his head tilts a few degrees — he didn&#x27;t catch it. Blinks: her 0.8s, him 1.7s — CUT
+
+SEGMENT 2, 2.5s–5.0s (29° on him): the guilt and the gap — his eyes drop to his fist, back up to her; a hard swallow; at 3.0s he starts in English, slow and simplified, voice tight: "Sorry, I don&#x27;t— okay. I... found something." He taps his own chest on "I", and his closed hand rises slowly between them into the lower frame. At 4.4s she answers off-screen, dry, catching just the one word and mixing it into French: « Found... quoi ? » His face eases a fraction — she got that part. Blinks: him 3.3s and 4.6s — CUT
+
+SEGMENT 3, 5.0s–7.5s (29° on her, the reveal): his hand OPENS in the near foreground — the vintage watch on his palm, strap curled, dial catching the storefront light. No words needed; her face detonates in micro-emotion: eyes flying wide behind the glasses, lips parting, a sharp inhale; at 6.2s, barely voiced, cracking in the middle, in French: « C&#x27;est pas vrai... Où est-ce que— » and the sentence just stops. Blinks: her 5.6s and 7.0s, each visibly resetting her face softer — CUT
+
+SEGMENT 4, 7.5s–9.5s (29° profile two-faces): the thaw — she takes the watch with both hands, thumb brushing the dial, and looks up at him with a questioning lift of the chin; he reads the question from her face, not her words. At 8.1s he says quietly, half-smiling, slow and simple, in English: "Park. By the... courts." — and mimes a small one-handed basketball shot with his free hand. She gets it: a shaky exhale turns into the smallest laugh, a tiny nod. Blinks: her 7.9s, him 9.0s — CUT
+
+SEGMENT 5, 9.5s–12.0s (47° wide, the ending): the breath — pulled back and low from across the road: the two of them small and warm mid-frame on the sidewalk, the storefront glowing behind them under the red fascia, the blue street lamp at the right, the dark road empty in front; she fastens the watch onto her bare left wrist, shakes her head in soft disbelief, and at 10.2s says quiet, warm, almost to herself, in French: « T&#x27;es vraiment un idiot. » He clearly doesn&#x27;t understand the words but gets the tone, and shrugs with a crooked smile. At 11.2s she adds in English with a strong French accent: "Thank you." — and bumps her fist lightly against his jacket shoulder; he rocks with it, grinning at the pavement, one breathy laugh. Blinks: her 10.0s, him 11.6s. END on the held wide — quiet, warm, resolved in faces.
+
+PHYSICS
+
+Real intimate mechanics: her clipped walk carries true weight on the brick paving, sneaker soles scuffing; arms cross and uncross with honest joint motion; his chest tap and the small basketball mime are loose and natural, not theatrical; his fist opens finger by finger, the watch&#x27;s slim strap uncurling with real leather stiffness, the case rocking a millimeter on his palm; the take is two-handed and careful, the strap fastening with a tiny believable buckle fumble; the fist-bump lands soft with canvas compression. MATERIAL TRUTH — the pair belongs to the street&#x27;s light but never to its surfaces: washed duck canvas, heavy cotton hoodie, denim, suede and jersey knit all read with their own distinct weave, nap and wear against the street&#x27;s frosted glass, brushed steel window frames, glossy red fascia, rough wooden planters, grey paving bricks and dark asphalt — fabric folds softly where the street&#x27;s materials stay rigid; nothing about the clothes mimics or melts into the set. Lips sync exactly to the scripted lines in their own language and stay STILL when not speaking — no idle mouth movement. FACE PRIORITY: both faces carry continuous living micro-motion — mandatory visible blinks at every timecoded beat AND naturally between (never more than ~1.5s without a blink on the face carrying the frame), swallows, breath, welling eyes, trembling lip corners, the small frowns and eased brows of half-understanding, the full anger-to-warmth arc in micro-expressions — zero frozen or waxwork frames; critical. Skin matte and pore-real on both, no beauty smoothing.
+
+LIGHTING
+
+Per the reference, night, and it UNIFIES the pair with the street: the storefront is the key — the warm-white light strip under the red fascia and the glowing frosted windows wrap both of them in soft light from the shop side, faces fully readable; the red fascia adds a faint red glow on the tops of their heads, her cap and his shoulders; the light-blue street lamp at the right lays a cool white rim on their far edges and catches the lenses of her glasses; the sidewalk bricks hold a pool of storefront light that falls off to darkness at the road. One continuous light world, characters and street lit as a single whole while every material keeps its own honest texture response: matte cotton drinking the light the glass reflects, denim holding shadow where steel frames spark. Clean catchlights in both pairs of eyes so every blink reads; filmic contrast, true night shadows, the road and upper building dark but not crushed, no vignette, no stylized grade, no glow effects.
+
+AUDIO
+
+One continuous diegetic bed across all cuts: quiet night street tone — the soft electrical hum of the storefront lights, a refrigerator compressor faintly through the glass, distant traffic far off, a faint train passing somewhere at 6.8s, leaves stirring in the planters — her clipped steps on the paving, his swallow close in S2, the leather creak of the uncurling strap, her sharp inhale at the reveal, the shaky exhale-laugh, the buckle&#x27;s soft click, the canvas thump of the fist-bump, his breathy laugh. DIALOGUE: only the seven scripted lines, timed as written — hers in natural native French except "Found" and "Thank you", which she says in English with a French accent; his in natural American English, slowed and simplified. Real voices, conversational volume, imperfect and human, open-air outdoor acoustics with a slight reflection off the shop glass, ambient dipping gently under each line; no extra words, no ad-libs, no translation, no narration, no music, no subtitles.
+
+POSITIVE LOCKS
+
+Exactly five segments with hard cuts at the stated timecodes — real-time inside each, straight cuts only. Axis lock holds the entire edit: the guy frame-left, the girl frame-right in every two-shot; screen direction never flips. Both stay on the sidewalk in front of the storefront for the whole scene; the road stays empty; the shop interior stays empty. Exactly two people in every frame possible, faces 100% matching their references. The girl speaks French and the guy speaks English for the whole scene; they understand each other only partly — through a few shared words, gestures, the watch and tone — and their faces show it: his confused head tilt in S1, his relief at her "Found" in S2, her reading his mime in S4, his shrug at her French in S5. Only the seven scripted lines are spoken, exactly as written and in the stated language, lips synced, mouths still otherwise. The watch is the only story prop: unbranded, dial unreadable, absent from her wrist until she fastens it in the final segment; all clothing unbranded with no lettering. The fascia carries only the plain white ring emblem; all posters, signs and window writing unreadable — no readable text or subtitles anywhere. CRITICAL FACE LOCK: both faces continuously alive with visible blinks at the timecoded beats and naturally throughout, full micro-expression arcs — no frozen faces, no mannequin stillness, not for one frame.
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+2. Six references in one static shot: a busy Tokyo crossing
+
+Ten seconds with a locked-off camera, a crowd, and characters and creatures from six references.
+
+SCENE CONTEXT
+
+A vivid, magical-realism moment at a big Tokyo crossing on a sunny afternoon, filmed as one static wide shot. The pedestrian light is green and a colourful crowd of all kinds of people — and a few bright, friendly creatures — streams across the zebra crossing in both directions. A blue-haired guy walks with his pink pet axolotl, a mint fox spirit trots through the foreground, a rider in a fox-eared helmet waits on her scooter, and above the street a colossal tangerine koi swims slowly through the air beneath the elevated expressway with a courier sitting on its back. Everyone treats it all as perfectly normal. Photorealistic, cheerful, full of life.
+
+ACTIVE REFERENCES
+
+<<<image_1>>>: THE CROSSING — the bright Tokyo intersection: the wide zebra crossing with the red-painted band in the foreground, the massive elevated expressway sweeping across the upper right on grey pillars, the orange bus and the red-and-cream bus stopped under it, the rounded glass building with the turquoise LED screen, the abstract billboard and the striped shop awning on the left, the traffic lights, the towers and the blue sky with white clouds. 100% matches the reference.
+
+<<<image_2>>>: THE GIANT KOI — the colossal flying koi carp, about fifteen metres long: tangerine-orange and pearl-white scales with cobalt-blue patches, long translucent silky fins and a huge flowing tail, long barbels, calm golden-amber eyes. 100% matches the reference.
+
+<<<image_3>>>: THE PINK AXOLOTL — the dog-sized hot-pink pet axolotl walking on four short legs, with frilly magenta gills, a gentle smile and black bead eyes. 100% matches the reference.
+
+<<<image_4>>>: THE MINT FOX SPIRIT — the large mint-teal fox with a cream chest, three bushy tails with coral-pink tips, coral-lined ears and amber eyes. 100% matches the reference.
+
+<<<image_5>>>: THE BLUE-HAIRED GUY — the young Japanese man with spiky cobalt-blue hair, an oversized white t-shirt with red sleeves, very baggy charcoal cargo trousers, a silver chain and chunky white-and-grey sneakers. 100% matches the reference.
+
+<<<image_6>>>: THE RIDER — the young Japanese woman with cherry-red hair in a glossy white full-face helmet with two fox-ear shapes and an amber visor, an olive-green bomber jacket with a round white patch, black cargo trousers, black boots and riding gloves. 100% matches the reference.
+
+FIRST FRAME AND BLOCKING
+
+The exact <<<image_1>>> view, with the scene already in motion:
+
+- FOREGROUND LEFT (x 28%, y 70%): the blue-haired guy (<<<image_5>>>) walks across the zebra crossing from left to right in 3/4 view, the pink axolotl (<<<image_3>>>) waddling right beside him at his knee.
+- FOREGROUND BOTTOM CENTRE (x 45%, y 88%): the mint fox spirit (<<<image_4>>>) trots across the bottom of the frame from right to left, close to the camera, its three tails swaying.
+- FOREGROUND RIGHT (x 72%, y 72%): the rider (<<<image_6>>>) sits astride a white retro scooter with a blue top box behind the stop line, seen from behind at a 3/4 angle, one foot on the ground, waiting at the light.
+- MIDGROUND, UNDER THE EXPRESSWAY (x 50%, y 35%): the giant koi (<<<image_2>>>) swims slowly through the air from right to left between the pillars, about six metres above the road, below the deck of the expressway. A courier in a dark blue jacket and a cap sits on its back with a big hot-pink delivery backpack.
+- MIDGROUND ROAD: a motorcyclist in a bright yellow helmet and a lilac jacket on a blue retro motorbike rides slowly from left to right along the road behind the crossing.
+- THE CROWD: about twenty other pedestrians cross the zebra in both directions at different distances and speeds:
+
+- an office worker in a navy suit with a briefcase;
+
+- two high-school girls in navy uniforms sharing earphones;
+
+- a grandmother in a lavender cardigan walking a huge fluffy white cat on a leash;
+
+- a skateboarder in a yellow hoodie carrying his board;
+
+- a tourist couple with a paper map;
+
+- a delivery cyclist walking his bike;
+
+- a young man in a bright orange puffer jacket;
+
+- a woman in a green trench coat with a clear umbrella as a sunshade;
+
+- a little boy holding his dad&#x27;s hand, pointing up at the koi;
+
+- and several more ordinary people in colourful street clothes.
+
+Everyone has their own clear path and nobody walks through anyone else.
+
+FORMAT MODE
+
+Duration 10 seconds, 16:9, ONE continuous static shot — no cuts, no transitions. Real speed. No text, no titles.
+
+OPTICS AND CAMERA
+
+A 24mm lens at eye level on the corner of the crossing, exactly the <<<image_1>>> framing, deep focus. The camera is LOCKED OFF — no movement at all: no pan, no tilt, no zoom, no push-in, no shake. Only the scene moves.
+
+ACTION TIMING
+
+0.0s to 3.0s — THE FLOW: the crowd streams across the zebra in both directions. The blue-haired guy walks at an easy pace with his axolotl, which looks up at him. The mint fox trots through the foreground. The koi glides slowly into the gap under the expressway, its fins rippling, its shadow sliding across the road. The yellow-helmet motorcyclist rolls along the road behind the crossing.
+
+3.0s to 6.5s — THE KOI PASSES: the koi swims slowly across the middle of the frame with one lazy, powerful flick of its huge tail. The courier on its back adjusts the pink backpack and looks down at the street. The little boy points up at it and tugs his dad&#x27;s hand. The rider on the scooter turns her head to watch it pass. The guy glances up, nods, and keeps walking. The fluffy cat stops for a second to stare up at the koi, then follows the grandmother again.
+
+6.5s to 10.0s — LIFE GOES ON: the koi drifts on toward the left edge of the frame, its tail still in view at the end. The crowd keeps flowing. The guy and the axolotl reach the right half of the crossing. The fox&#x27;s tails disappear past the bottom left of the frame. The traffic light countdown keeps ticking. The rider revs her scooter lightly, ready to go. The shot ends mid-flow.
+
+PERFORMANCE
+
+Natural, everyday city behaviour — relaxed walking, small glances and small reactions. Nobody panics; the koi and the creatures are simply part of everyday Tokyo. The creatures are friendly and curious. No dialogue.
+
+PHYSICS
+
+- Real walking with real weight, and clothes and hair moving naturally.
+- The koi swims through the air exactly like a real fish in water: a slow body undulation, rippling translucent fins, a flowing tail and drifting barbels. Its soft shadow passes over the road and the buses.
+- The axolotl waddles with a little side-to-side sway and its gills flutter. The fox&#x27;s three tails swing independently.
+- The scooter and the buses are stationary with their engines idling. A few green leaves drift down across the frame.
+
+IMAGE STABILITY — HARD RULES
+
+- One static shot — no camera movement, no cuts.
+- Every hero keeps exactly the look of their reference in every frame: the koi, the axolotl, the fox, the guy and the rider. The koi always has one head, one tail and the same scale pattern, and never morphs into a dragon or a snake.
+- The crowd stays stable — no people merging, splitting, duplicating or appearing out of nowhere — and nobody walks through the buses or the pillars.
+- The location stays locked to <<<image_1>>>.
+- No readable text, no real brands, no logos on any screen, sign, bus or clothing, no watermarks, no flicker.
+
+LIGHTING & COLOR GRADE
+
+The bright, warm afternoon sun of <<<image_1>>> from the left: crisp shadows of the expressway across the road, cool blue shade under the overpass, warm sunlight on the crowd, the koi&#x27;s scales flashing orange and pearl as it moves between shade and light, and glossy reflections on the buses and the glass. A vivid, saturated, cheerful cinematic grade with real skin tones, natural contrast and fine film grain.
+
+AUDIO
+
+A lively Tokyo crossing ambience: the chirping pedestrian-signal melody, many footsteps, a soft crowd murmur, idling bus engines, the scooter idling and revving lightly, the motorbike passing, distant traffic on the expressway above, and a soft, deep whoosh as the koi&#x27;s tail sweeps through the air. No dialogue. No music — music is added in post.
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+3. 30 seconds in one generation: a herder in a blizzard
+
+Eight shots from a text prompt only, with no references.
+
+SCENE CONTEXT
+
+A 30-second cinematic short in a frozen steppe during a blizzard. An old herder finds a newborn lamb half-frozen, carries it into his yurt and warms it by the stove, pulls his bone snow goggles down at the doorway, tucks the lamb inside his fur coat, mounts his horse and rides out into the white storm. The film ends on the lamb, alive and warm, peeking out of his coat as they ride. Quiet, tender, no dialogue. Eight shots, hard cuts.
+
+ACTIVE REFERENCES
+
+No image references. Described subjects, identical in every shot they appear in:
+
+THE HERDER: man in his 70s, Central Asian features, deeply weathered bronze skin, deep lines, white handlebar moustache and a long white goatee, white hair at the temples; dark leather cap; long dark-brown fur coat with a thick shaggy fur-ruff hood and snow-leopard-pattern fur cuffs and panels; dark fur boots. Snow goggles: carved bone-white slit goggles with two thin horizontal slits, on a dark leather strap. Calm, gentle, silent.
+
+THE LAMB: newborn lamb, cream curly wool, a dark grey patch around one eye, pink nose and pink inner ears, small and weak.
+
+THE HORSE: short, stocky bay horse with black mane, black lower legs and a dark tail; black leather bridle with silver rings; red saddle cloth and a small saddle.
+
+Exactly one person, one lamb, one horse.
+
+LOCATION MAP
+
+Flat, endless snow steppe under a low white-grey sky in a ground blizzard: snow streaming low across the surface, small drifts, no trees, no hills, horizon lost in haze. A half-buried empty wooden livestock corral of weathered dark poles stands alone on the plain. Near it, a single round white felt yurt with dark binding bands, an orange-painted wooden door and a black stovepipe trailing faint smoke; a weathered wooden hitching post stands a few meters left of the yurt. Yurt interior: dark wooden lattice walls, red patterned felt rugs, a small iron stove with an open fire glowing behind its door, a thick white sheepskin on the floor in front of it.
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+The first frame is an extreme close-up of the lamb&#x27;s face; no establishing frame.
+
+Frame map at 0.0s (shot 1): the lamb lies on its side on fleece, face in profile toward screen-left, pink nose at x 15%, y 55%, closed eye at x 38%, y 30%, the dark patch around the eye, frost crystals and tiny snowflakes caught in the wool and melting into droplets; a soft bright cool light source blooms out of focus at the top of frame at x 18%, y 0-10%; everything behind is a soft blur.
+
+FORMAT MODE
+
+CONTROLLED MULTI-SHOT SEQUENCE, 30.0s, 16:9. Eight shots joined by seven HARD CUTS at 3.5s, 7.5s, 12.0s, 15.5s, 18.5s, 24.0s and 26.5s. Real-time speed, no slow motion, no dissolves, no speed ramps.
+
+OPTICS
+
+Shot 1: 29° short telephoto, macro distance about 25 centimeters, razor-thin focus on the eyelashes and frost, background fully melted. Shot 2: 47° standard, deep focus on the plain. Shot 3: 47° at low height, focus on the lamb, fire and lattice soft behind. Shot 4: 29° portrait, focus on face and goggles, the bright doorway blown soft behind. Shot 5: 29° portrait, shallow focus on his face and the lamb. Shot 6: 47° standard, deep focus. Shot 7: 29° tracking close-up, focus on the horse&#x27;s eye. Shot 8: 29° close-up, focus on the lamb, snowy plain blurred behind. No zooms, lens locked per shot. Fine film grain.
+
+CAMERA
+
+Shot 1: near-static macro, a very slow drift toward the eye.
+
+Shot 2: locked low wide with an almost imperceptible push toward the corral.
+
+Shot 3: low on the floor beside the sheepskin, a slow gentle push in.
+
+Shot 4: in front of the herder inside the yurt doorway, slightly below eye line, a slow tilt down as the goggles come down.
+
+Shot 5: close beside him inside the yurt, a slow drift in.
+
+Shot 6: on the snow about 15 meters from the yurt, side-on; holds while he mounts, then pans left with the galloping horse and keeps it in frame as it curves away from camera into the white distance.
+
+Shot 7: tracking alongside the galloping horse at head height, matching speed, light bounce from the ride.
+
+Shot 8: tight handheld on the lamb inside the coat, rising and falling with the horse&#x27;s gait.
+
+ACTION TIMING
+
+0.0s to 3.5s — SHOT 1: macro on the lamb&#x27;s face. It lies still, eyes closed, frost on its lashes and muzzle; its nostrils flare with three slow weak breaths at 0.2s, 1.4s and 2.6s; a flake melts into a droplet near the eye at 3.0s.
+
+3.5s to 7.5s — SHOT 2: the empty wooden corral half-buried on the open plain, blizzard snow streaming low across the ground from right to left, gusts thickening and thinning the haze, the horizon lost in white. Nothing living in frame.
+
+7.5s to 12.0s — SHOT 3: inside the yurt. The lamb lies curled on the white sheepskin in front of the glowing stove, head toward screen-left; the herder&#x27;s weathered hand, in a snow-leopard-pattern fur cuff, enters from screen-right at 8.0s and slowly strokes its back twice, then rests on its side. The lamb&#x27;s ear twitches and its head lifts slightly at 10.2s; the fire flickers behind.
+
+12.0s to 15.5s — SHOT 4: the herder stands in the open doorway, bright snowy daylight behind him. Goggles on his forehead, he looks out at the storm for a beat, then takes them with his right hand and pulls them down over his eyes; by 14.6s the bone-white slit goggles cover his eyes and his hand drops away. His face stays calm and set.
+
+15.5s to 18.5s — SHOT 5: inside the yurt in warm firelight, hood up with the fur ruff around his face, goggles pushed up on his forehead, he holds the lamb against his chest and tucks it into the front of his coat, lowering his chin over its head, eyes down on it, a slow breath out at 17.4s.
+
+18.5s to 24.0s — SHOT 6: outside. The horse stands tied to the hitching post at screen-left, the yurt at screen-right. The herder, hooded, steps to the horse&#x27;s side, unhooks the rope, swings up into the saddle by 20.0s; the horse breaks into a gallop toward screen-left, the camera panning with it, then the horse curves away from camera across the open plain, kicking snow; by 22.5s horse and rider are a small figure, by 24.0s a tiny dark shape in the white haze, a trail of hoof prints leading to it.
+
+24.0s to 26.5s — SHOT 7: tracking close-up of the horse&#x27;s head in profile facing screen-left at full gallop, black bridle and silver rings bouncing, snow crusted on its face and forelock, breath steaming from its nostrils, snowflakes streaking past the lens.
+
+26.5s to 30.0s — SHOT 8: the lamb&#x27;s head peeks out from the front of the herder&#x27;s fur coat, held in by his gloved hand, snow-leopard cuff at the bottom of frame, snowflakes landing on its wool; eyes closed at first, then at 28.2s its eyes open, it lifts its head and gives a short bleat at 28.7s, then settles, eyes open, warm, until 30.0s. End.
+
+PHYSICS
+
+Real weight and texture: the lamb&#x27;s breath barely moves its body, frost melts on contact with warmth; wool and fur are dense and individual-haired; the hand strokes with real pressure, wool parting under fingers. The goggles slide down on their strap with real friction. Mounting has real weight transfer, the saddle shifting, the horse stepping once under the load. The gallop is real: hooves punching into snow and throwing powder, mane and tail streaming, the rider&#x27;s coat and hood ruff whipping in the wind. Blizzard snow travels low and fast with the wind, drifting and streaming, never floating. The stove fire flickers with real flame motion.
+
+LIGHTING
+
+Interiors: warm amber firelight from the stove as the only key, deep warm shadows in the lattice, skin and wool glowing gold, strong warm-cold contrast with the cool daylight seen through the doorway in shot 4 and the cool bloom above the lamb in shot 1. Exteriors: flat cold blue-grey overcast blizzard light, no sun, no shadows, white haze swallowing the horizon, low contrast, desaturated blues and whites with the red saddle cloth and orange door as the only warm accents. Natural, filmic, photoreal, fine grain, no glow effects.
+
+AUDIO
+
+No dialogue, no voice-over, no subtitles, no music. Shot 1: near silence with three faint weak lamb breaths. Shot 2: a strong continuous blizzard wind roar, swelling with the gusts. Shot 3: the stove fire crackling, soft wool rustle under the hand, a tiny weak lamb sound at 10.2s. Shot 4: muffled wind through the open doorway, the soft slide of the goggle strap. Shot 5: fire crackle, fur rustle, his slow exhale at 17.4s. Shot 6: loud wind, the creak of the saddle, the horse&#x27;s snort, hooves thudding into snow and fading into the storm. Shot 7: loud close gallop, breath snorts, wind rush. Shot 8: muffled hoofbeats and wind, the lamb&#x27;s short bleat at 28.7s.
+
+POSITIVE LOCKS
+
+Eight shots with hard cuts only at 3.5s, 7.5s, 12.0s, 15.5s, 18.5s, 24.0s and 26.5s. One herder, one lamb, one horse; no other people or animals. The herder, the lamb and the horse look identical in every shot. The yurt, corral and hitching post stand alone on an empty snow plain. The corral in shot 2 is empty. The herder pulls the goggles down in shot 4 and wears them pushed up on his forehead under the hood in shot 5. The horse leaves screen-left and away from camera in shot 6 and gallops toward screen-left in shot 7. The lamb is alive and opens its eyes at the end. Warm firelight indoors, cold blue blizzard light outdoors. No readable text or logos anywhere.
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+Kling 4.0 and Kling 3.0 are both available on Higgsfield, and they suit different tasks: 4.0 for scenes up to 30 seconds, keyframes and video edits, 3.0 for multi-shot clips up to 15 seconds with native audio. This guide shows how to structure a Kling prompt and which model, mode and settings fit each task. It includes 10 tested prompts you can copy, from bilingual dialogue to a macro shot with sound. It also covers costs and the most common prompt mistakes.
+
+4. Keyframes: a woman who grows wings on a city street
+
+Ten seconds and six keyframes, one keyframe for each shot.
+
+SCENE CONTEXT
+
+A 10-second keyframe-driven sequence on a wide city sidewalk. A young woman walks toward the camera and bites an apple. The taste is wrong and her body starts changing — she panics and hurls the apple away. Wings she has never had force their way out through her shirt against her will, and she is torn straight up off the ground. The camera stays on the sidewalk and watches her go. Six keyframes anchor the six shots; the motion between them follows the timing below.
+
+ACTIVE REFERENCES
+
+<<<image_1>>>: young woman, early twenties, East Asian features, very long straight black hair worn loose past the waist, fair skin, soft natural makeup with warm blush. Wardrobe exactly per reference and unchanged: grey faux-fur trapper hat with ear flaps down and a loose black cord, fitted light blue short-sleeve tee with a brown flame graphic, cream studded belt, baggy faded blue jeans, cream chunky boots. 100% matches the reference. She has no wings and no marks on her back before 5.2s.
+
+<<<image_2>>>: city street location reference, controlling the geography exactly: wide pale stone sidewalk, tall classical stone building with arched windows down the left, ornate black cast-iron lamp posts, low rectangular planters with clipped shrubs, bare-branched trees along the kerb, multi-lane road with moving traffic on the right, dense skyscrapers and the tall spired tower closing the avenue, bright blue sky with white clouds. The reference camera angle and framing are not inherited.
+
+LOCATION MAP
+
+Exterior, plain daytime. The sidewalk runs as a straight open lane about thirty meters between the stone building wall on the left and the line of planters, lamp posts and trees on the right, beyond which is the kerb and traffic. The avenue and skyline close the background down the lane. A few distant pedestrians far down the block. The camera works within this lane and, in shot 5, from behind the planters on the kerb side.
+
+FORMAT MODE
+
+Keyframe sequence, 10.0s, 16:9. Six shots joined by five HARD CUTS at 2.4s, 3.2s, 5.2s, 7.0s and 8.2s. Real-time motion, no slow motion, no speed ramps, no dissolves, no morphing between keyframes across a cut.
+
+KEYFRAMES
+
+KF1 — 0.0s, shot 1, 47°: eye height about 1.6 meters, camera retreating in front of her. She walks straight at the lens framed from the knees up, face at x 50%, y 34%, mid-stride, relaxed, eyes glancing into the lens. Apple in her right hand at x 58%, y 56%. Building wall down the left edge from x 0% to 24%, lamp posts and planters down the right from x 76% to 100%, skyline closing the center background.
+
+KF2 — 2.4s, shot 2, 84°: worm&#x27;s-eye, lens 30 centimeters off the pavement below her right side, angled steeply up. Her jaw and the apple at x 46%, y 26%, the apple raised to her open mouth, teeth just touching the skin; body foreshortened above the lens; stone facade and blue sky rising behind her. Expression still calm.
+
+KF3 — 4.6s, shot 3, 47°: the rush-in has landed, camera about 40 centimeters from her face. Her face fills the frame, eyes at y 38%, chin at y 68%: eyes wide, brow pulled tight, lips parted in shallow fast breath, one hand at her throat, head starting to twist back over her shoulder; background dissolved into soft stone and sky.
+
+KF4 — 5.2s, shot 4, 84°: low on the ground behind her, lens 40 centimeters up, tilted up her spine. Her back and shoulder blades fill the upper center from x 30% to 70%, y 20% to 60%, the light blue tee still intact and smooth, her spine just beginning to arch; the sidewalk runs away beneath her toward the skyline.
+
+KF5 — 7.0s, shot 5, 29°: side profile from behind the planters 6 meters away across the sidewalk, clipped shrubs blurring across the lower frame from y 78% down. Her full body in profile at x 42%, hunched, knees bent, the tee torn open in ragged splits along both shoulder blades, the first white feathered wing joints just breaking out through the tears; the stone facade compressed behind her.
+
+KF6 — 9.2s, shot 6, 84°: extreme low angle, camera lying on the sidewalk looking almost straight up. She is small and high at x 52%, y 18%, white wings spread mid-beat, legs dangling, arms flung out, body twisted to look down; building tops converging around her, sky filling the frame.
+
+MOTION BETWEEN KEYFRAMES
+
+0.0s to 2.4s (KF1 → cut): she walks straight at the lens, boots landing flat on stone, jeans swinging, hair and fur ear flaps moving; she glances into the lens, then down at the apple. A lamp post sweeps through the near foreground at 1.6s. HARD CUT at 2.4s.
+
+2.4s to 3.2s (KF2 → cut): she takes a real bite, teeth breaking the skin against the sky, a piece coming away; she chews once and stops dead, jaw frozen. HARD CUT at 3.2s.
+
+3.2s to 5.2s (shot 3, landing on KF3 at 4.6s): opens on her left side in profile at chest height; she spits the bite out hard, hand going to her throat. The camera swings to her front and rushes forward about two and a half meters into her face, overshooting once and correcting, landing on KF3. Her shoulders jerk as something pulls behind them, she twists to look back over her shoulder, frightened; then stares at the apple in horror and hurls it away to screen-left, her free hand clawing back over her shoulder. HARD CUT at 5.2s.
+
+5.2s to 7.0s (KF4 → cut): her spine arches hard, shoulders hunching; two ridges push up under the tee from the shoulder blades, the flame graphic distorting as the cotton stretches; the tee tears open along both shoulder blades; her knees buckle once. The camera slowly rises to a half-crouch. HARD CUT at 7.0s.
+
+7.0s to 8.2s (KF5 → cut): the two large white feathered wings force their way out through the tears and unfold fast and heavy to full span, joints extending, feathers ruffling and settling, her body lurching with each stage, hair and hat cord blown back by the displaced air. One lateral camera drift and correction as the wings open past the frame edges. HARD CUT at 8.2s.
+
+8.2s to 10.0s (shot 6, passing through KF6 at 9.2s): from the pavement looking up, the wings beat once, hard, and she is torn straight up off the sidewalk, legs dangling and kicking, arms flung out, body twisting to look down. She climbs fast between the buildings with two more beats, shrinking against the blue sky; the camera tilts back from the buildings to the open sky, briefly losing her at 9.0s and finding her again. The clip ends with her high, small, and still rising.
+
+OPTICS
+
+Lens locked per shot: shot 1 47°, shot 2 84°, shot 3 47°, shot 4 84°, shot 5 29°, shot 6 84°; no drift mid-shot, no zoom. 47° natural proportions; 84° rectilinear with no fisheye curve, exaggerated verticals on low angles; 29° compressed background with her profile and wings cleanly separated from the facade. In shot 3 the framing tightens only by the camera physically closing distance, ending at shallow depth of field, with one autofocus hunt at 4.0s. Clean lens, no flare, no starbursts, no glints.
+
+CAMERA
+
+Fully handheld in every shot: breathing sway, footfall bounce, framing that drifts and corrects a beat late, a horizon that never sits level, slight rolling-shutter wobble on the fastest moves. No gimbal, no dolly, no drone. The camera never leaves the ground.
+
+PHYSICS
+
+Grounded walking with heel-to-toe contact and real weight transfer; hair and fur flaps lag. The bite compresses the skin before it breaks and a fragment separates. The throw comes from the shoulder with follow-through on a real ballistic arc. The wings have mass and structure: they tent and strain the shirt from underneath, the cotton tears along the fiber, and they unfold with real joint articulation. Her body treats them as foreign weight — she staggers and her knees give once. The launch has no crouch: the wingbeat takes her and her legs trail behind unready. She shrinks at a rate consistent with real climbing speed. Traffic keeps moving normally.
+
+LIGHTING
+
+Plain natural daylight, soft and even, no harsh sun on the face, no shafts, no hotspots. Cool bright stone, deep blue sky with white clouds. Her face keeps readable skin texture and soft catchlights at every angle and distance. The wings take the same ordinary daylight, white feathers with soft grey shadow between layers; no glow, no halo, no light burst at any point. Palette blue, cool grey stone, white and denim, no added yellow or neon. Neutral documentary grade, fine real grain, photoreal.
+
+AUDIO
+
+Natural sound only, no speech: boots on stone, the crisp snap of the bite, a spit and a sharp panicked breath, fast shallow breathing, fabric strain and two ripping tears, city traffic and distant horns, the apple hitting the ground off-frame, a heavy feather-and-fabric rush as the wings force out, a strained gasp, a deep air-displacing whoomp on each beat receding as she climbs. No music, no voice-over, no subtitles.
+
+POSITIVE LOCKS
+
+Six keyframes hit at 0.0s, 2.4s, 4.6s, 5.2s, 7.0s and 9.2s exactly as described. Exactly six shots and five hard cuts at 2.4s, 3.2s, 5.2s, 7.0s and 8.2s; nothing morphs across a cut. Every shot uses a different camera position and angle. Exactly one main person, <<<image_1>>>, identical face, hair, hat and wardrobe throughout; only distant pedestrians and normal traffic in the background. She has no wings and an intact tee before 5.2s; the wings exist only after they emerge through the torn shirt. Her reaction from the bite onward is alarm and distress, never delight, never a smile or pose. The launch is involuntary. The camera stays on the ground for the whole clip. The wings stay physical feathered wings and never glow, dissolve or transform. Light stays plain and even with a clean lens. No readable text or logos.
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+5. Edit video: a wardrobe that opens onto a meadow
+
+The original clip and an edit prompt that changes only what is inside the wardrobe.
+
+Original prompt:
+
+SCENE CONTEXT
+
+A 10-second single continuous handheld shot in a cozy plant-filled bedroom. A stylish young man sits at the desk writing in a notebook, unhurried. He caps the pen, rises, crosses the room to a tall wooden wardrobe, and swings BOTH doors open with quiet ceremony — and inside is... just a wardrobe: a rail of hanging clothes, folded knits on a shelf, a pair of shoes. A beat of stillness. He gives the most ordinary closet in the world a slow accepting nod, takes a hanging scarf, and drapes it around his neck. Deadpan domestic comedy. No words are spoken.
+
+ACTIVE REFERENCES
+
+<<<image_1>>>: THE MAN. Mid-twenties, East Asian, sharp cheekbones, composed face, dark collar-length hair swept back with loose ends, slim tortoiseshell round sunglasses. Wardrobe exactly per the reference: a long oversized double-breasted patchwork coat in color-blocked blues — navy, cobalt, sky, slate — worn open over a navy pinstripe double-breasted suit, a cream shirt with a cream printed tie, wide pinstripe trousers, dark brown leather shoes. His face, hair, sunglasses and full outfit stay identical for the whole shot. 100% matches the reference.
+
+<<<image_2>>>: THE LOCATION. Reference controls the room exactly: the cozy bedroom with a striped yellow-and-white bed under a shaggy brown-and-blue throw, the wooden cube bookshelf, the corner armchair, potted plants everywhere, the long window full of green trees, the wooden desk along the right wall with its chair on the green striped rug, warm carpet, posters and small frames (all artwork unreadable). ONE ADDITION to the reference room: a tall two-door wooden WARDROBE standing against the far wall beyond the bed corner, matching the room&#x27;s warm mid-century wood — closed at the start. The reference image&#x27;s own camera angle is not inherited. All text anywhere stays unreadable.
+
+LOCATION MAP
+
+Per <<<image_2>>> plus the wardrobe: the desk with its chair sits along the right wall on the green striped rug; the bed occupies the left; THE WARDROBE stands against the far wall, its two doors closed, brass handles catching the window light. His path: from the desk chair, a few unhurried steps across the carpet, past the foot of the bed, to the wardrobe. The camera works from the room&#x27;s center, handheld, keeping him and his destinations in frame.
+
+INSIDE THE WARDROBE (after opening): a perfectly ordinary closet interior — a wooden rail with a handful of garments on hangers in muted tones (a beige coat, two shirts, a knit cardigan, a striped scarf), one shelf above with folded sweaters, a pair of leather shoes on the floor panel, a plain wooden back wall. Domestic, tidy, completely unremarkable.
+
+FORMAT MODE
+
+ONE SINGLE UNBROKEN SHOT for the entire 10.0 seconds, horizontal 16:9. One continuous handheld take with absolutely no cuts, no edits, no transitions, no dissolves, no wipes and no flash frames. The wardrobe opens and its contents are revealed within the running shot. Real time throughout; no speed ramps, no slow motion.
+
+OPTICS
+
+47° diagonal field of view held for the entire shot, standard normal lens character, natural proportions, no distortion. Focus rides him — his hands at the notebook, his walk, his face at the reveal — with a brief pull to the hanging clothes and back to his deadpan. Exposure stays warm and interior the whole shot, steady, never a flicker.
+
+CAMERA
+
+Fully handheld in two hands for all 10 seconds — never a tripod, dolly, gimbal or crane, never locked off. Visible instability every second: breathing sway, small drifts and late corrections. It starts on a relaxed three-quarter hold at the desk, drifts with him as he rises and crosses the room — a walking follow a couple of meters behind his shoulder — then holds just behind him at the open doors, giving one tiny anticipatory push-in right before they open and a small deflating settle after. It never pans away from him, never zooms, never cuts. The operator is never visible.
+
+ACTION TIMING
+
+0.0s to 3.6s — THE DESK. Three-quarter side hold: he sits at the desk in the long coat, writing in a small notebook — pen moving in relaxed strokes, his other hand flat on the page; the notebook faces away from the lens and its pages are never readable. He pauses, taps the pen twice against his lip, writes one more line.
+
+3.6s to 5.0s — THE RISE AND THE OPEN. He caps the pen, closes the notebook, and stands — the coat falling into place — crosses the room past the foot of the bed in a few unhurried steps, takes one brass handle in each hand, and at 5.0s SWINGS BOTH DOORS WIDE in one clean motion.
+
+5.0s to 6.8s — THE REVEAL. Inside: clothes. A rail of hangers, folded knits, a pair of shoes. Nothing else. He stands motionless, hands still on the handles, head perfectly level — the long deadpan beat stretching as a hanger swings gently from the door&#x27;s draft and stills.
+
+6.8s to 10.0s — THE ACCEPTANCE. He tilts his head one degree, gives the closet a slow, gracious nod — as if it passed inspection — reaches in, lifts the striped scarf off its hanger, drapes it around his neck over the coat with two practiced flips, squares the ends, and turns his head slightly toward the lens with the faintest self-satisfied press of the lips. End on the held frame: the man, the scarf, the extremely normal wardrobe.
+
+PHYSICS
+
+Grounded domestic realism throughout: pen strokes with real hand weight, the chair easing back as he stands, the heavy coat settling, unhurried footfalls on carpet. The doors swing on real hinges with wooden momentum and stop naturally; the draft of their swing rocks one empty hanger, which settles. The scarf lifts off the hanger with real fabric drape, the hanger bouncing once; the drape around his neck has true cloth weight and friction over the coat&#x27;s collar. Nothing floats, nothing teleports, nothing magical happens anywhere.
+
+LIGHTING
+
+The room per the reference for the entire shot: soft green-filtered daylight from the tree-filled window, warm interior tones, gentle contrast; the wardrobe interior sits a touch dimmer than the room, the clothes reading in muted natural tones. No light change, no glow, no reveal lighting — the flatness is the joke. His face stays readable throughout — the writing calm, the deadpan, the gracious nod, the tiny smug press of the lips. Photoreal capture, natural filmic grade, fine real grain, no stylized filter.
+
+AUDIO
+
+Diegetic only: the quiet room tone — birds outside the window, a pen scratching paper, the notebook closing, the chair&#x27;s soft creak, footsteps on carpet; the double clunk of the handles, the wooden swing of both doors — then near-silence: the tiny squeak of the rocking hanger, a distant bird, his slow unimpressed exhale; the soft slide of the scarf off the hanger, the fabric settling around his neck, one small satisfied breath. He never speaks. No music, no score, no subtitles.
+
+POSITIVE LOCKS
+
+He is the only person in the entire clip.
+
+He matches <<<image_1>>> in every frame — same face, hair, tortoiseshell sunglasses, patchwork blue coat, pinstripe suit, cream shirt and tie, wide trousers and dark brown shoes — with zero drift; the sunglasses and coat stay on throughout.
+
+The room matches <<<image_2>>> throughout, with the single addition of the tall two-door wooden wardrobe against the far wall; nothing else in the room changes, and the reference&#x27;s own camera angle is never reproduced.
+
+The notebook&#x27;s pages face away from the camera at all times and no writing, letters or symbols are ever readable anywhere in the clip.
+
+The first five seconds are fixed: he sits writing at the desk, rises, crosses the room, and swings BOTH wardrobe doors open in one motion landing exactly at 5.0s; the reveal and everything after belong strictly to the second half.
+
+Inside the open wardrobe is ONLY an ordinary closet: a rail of hanging clothes, one shelf of folded knits, one pair of shoes, a plain wooden back wall — no world, no light, no magic, no portal, nothing unusual whatsoever, and it stays ordinary to the last frame.
+
+Exactly one item leaves the wardrobe: the striped scarf he drapes around his neck; everything else stays in place.
+
+The comedy is deadpan and underplayed: the long still beat, the small nod, the scarf, the faint lip press — never broad, never mugging, and he never laughs.
+
+The entire clip is ONE SINGLE CONTINUOUS HANDHELD SHOT: no cuts, no transitions, no dissolves, no flash frames anywhere; the camera never pans away, never zooms, and the operator is never visible.
+
+No speed ramps, no slow motion, no freeze frames; all motion is real time.
+
+No signage, logos, wordmarks or readable text appear anywhere.
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+Edit prompt:
+
+Video-to-video edit, horizontal 16:9, ~10 seconds. PRESERVE THE SOURCE VIDEO ONE-TO-ONE until the wardrobe opens: keep the exact same man with his dark hair and glasses, wearing the same blue patchwork color-block coat over a pinstripe suit and striped tie; BEAT 1 — the desk scene identical frame-for-frame: he sits at the wooden desk by the window finishing a note in his notebook, closes it and rises, same room with the bookshelf, green plants, the bed with the striped woven blanket, soft overcast daylight; BEAT 2 — the same camera move picking him up as he walks across the room, same pacing and framing from behind; BEAT 3 — he reaches the tall wooden wardrobe and swings both doors open with the exact same timing and hand movements as the source. CHANGE ONLY WHAT IS INSIDE THE WARDROBE: instead of shelves, hanging jackets and shoes, the open doors reveal a portal into a vast open world — an endless rolling green meadow stretching to the horizon, lush spring grass moving in a light breeze, scattered wildflowers in white and soft pink, a few gentle hills, one large lone oak tree in the middle distance, and a beautiful deep blue sky with bright white cumulus clouds; the perspective inside the wardrobe reads as truly deep and continuous, sunlight from that world spilling out through the doorway onto him and the room&#x27;s floor as a warm natural glow, a soft breeze catching his coat and hair; the wooden door frames stay exactly as they are, acting as the edges of the portal. After the doors open he does not reach for anything — he freezes and stands looking into the meadow for the remaining beat, his posture easing into quiet awe, camera holding the same position behind him. Keep the room, his figure and all camera work completely unchanged; the grade inside the portal slightly brighter and airier than the room so the reveal feels magical but photographic. Clean sharp digital image, no film grain, no vignette, no lens flare; no fantasy particles, fireflies or magic dust at the threshold — the portal is seamless and matter-of-fact; no text, no logos; no people or animals in the meadow; do not alter his face, hair, glasses, coat, the desk beat, his walk, the room, camera moves, cuts, pacing or timing in any way.
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+Kling 3.0
+
+6. One camera orbit with a pixel effect
+
+A start frame and one continuous 180-degree move while the image breaks into pixel blocks and resolves back.
+
+Camera performs a continuous 180 degree orbit around her, left to right, rising as it travels so it ends higher and angled slightly down at her, one unbroken smooth move, she holds eye contact with the lens the entire time. The pixel transformation begins on the very first frame as an immediate hook: the whole image, her face, her hair, her sweater, the chocolate bar, the wall art, the brick, the desk lamp, all of it together, starts converting into large hard-edged colorful pixel blocks, resolution stepping down progressively as the camera moves, saturated magenta, cyan, lime, orange and electric blue squares replacing the natural colors, edges jagged and aliased, the picture reading like a low-resolution mosaic of the scene. The pixelation deepens until the frame is almost fully abstract blocks at the peak of the camera rise, then reverses and resolves back down through finer and finer blocks into the sharp photographic image, her exact original face and pose intact, calm expression, still holding the chocolate bar, still looking at camera. Geometry and composition stay locked throughout, nothing warps or melts, only the resolution and color quantization change. Cinematic moody bedroom lighting, film grain, 24fps, no text or watermark.
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+7. Multi-shot with an element: a rodeo scene
+
+Eight timed beats in 15 seconds with one tagged character.
+
+Cinematic live-action rodeo film, 15 seconds, golden-hour sunlight, starring @character, the blonde cowgirl from the reference: long voluminous honey-blonde waves, cream felt cowboy hat, white crop top, baggy blue jeans with brown belt, brown embroidered western boots. 100% matches the reference in every frame.
+
+0-1.5s: inside a wooden bucking chute, backlit by low sun, @character sits astride a massive black rodeo bull, right hand pressing her hat down; a handler&#x27;s arm pulls the gate rope; dust hangs in the warm rim light. At 1.5s the gate swings open.
+ 1.5-3s: side profile tracking shot: the bull lunges out of the chute into the arena, she rides one-handed with her hat hand raised, hair and fringed chaps whipping; sun flares through the dust, packed grandstand behind.
+ 3-4s: HARD CUT to a tight backlit close-up of her face under the hat brim, calm confident eyes, golden edge light in flying hair; a whip-pan through white fabric transitions out.
+ 4-8s: wide arena coverage shot from behind silhouetted spectators, their hats and raised hands framing the foreground: the bull bucks and spins in the center of a sun-hazed dirt arena, dust clouds blooming with each kick; she stays balanced, torso countering every buck, one hand high. Rodeo safety clowns in green shirts circle at a distance.
+ 8-10s: frontal shot: the bull charges toward camera through the dust, she rides tall, hand on her hat, crowd roaring in the stands.
+ 10-11.5s: she leaps off mid-buck, a dynamic tumbling dismount, dust exploding on landing.
+ 11.5-13s: low ground-level shot from behind her legs: brown boots with spurs planted in the dirt in sharp foreground, the bull walks away into the haze screen-right, a clown waves it off screen-left.
+ 13-15s: she runs toward camera laughing with motion blur, then stops in a medium hero frame: wide smile, one hand touching the hat brim, golden backlight, cheering grandstand behind, the exact reference face.
+
+Physics: real bull mass and gait, dirt kicked in arcs, hair and cloth follow momentum, dust lingers in the air. Lighting: low warm sun, strong backlight and lens flares, faces lifted by bounce off the dirt. Style: anamorphic western cinema, warm Kodak tones, natural film grain, handheld energy on wide shots, crowd ambience and hoof impacts, no subtitles, no on-screen text.
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+8. Start frame: a car scene with a brass band
+
+The prompt continues from an attached start frame, one 8-second handheld shot.
+
+Continue seamlessly from the provided start frame: the same young man with brown fringe, pink linen overshirt over a white tee, dark jeans, gold bracelet, sitting sideways in the driver&#x27;s seat of the same steel-gray sedan, left arm draped over the steering wheel, right hand on his knee, looking left past the fully open driver&#x27;s door; same white mansion and tall hedges behind the car, same bright daylight. 16:9, 8 seconds, one continuous handheld shot, real-time: no slow motion, no speed ramps.
+
+0.0-1.5s: Following his glance, he lifts his arm off the wheel, swings his legs out and stands up beside the open door, squinting into the light.
+ 1.5-3.0s: A man in a rumpled band uniform sprints up the driveway out of breath and PRESSES a battered brass trumpet into his hands, gesturing toward the lawn; a dozen more musicians hurry in with tubas, trombones and a bass drum, forming a ragged semicircle around the car, watching him expectantly.
+ 3.0-6.0s: He looks at the trumpet, at them, then lifts it, sets the mouthpiece, cheeks filling, and BLOWS a huge bright opening note, shoulders rising with the breath, fingers dropping onto the valves. On his second phrase the whole band CRASHES in behind him, drum kicking, tubas thumping, the group stepping into rhythm.
+ 6.0-8.0s: He walks two steps forward still playing, the band falling in around him, faces appearing at the mansion windows; the frame holds him mid-phrase, eyes closed, fully committed, as the shot ends.
+
+CAMERA: starts exactly at the start-frame position: outside the car, three-quarter front at chest height, framing him through the open door, loose handheld, drifting slightly right as the band assembles, then holding on him. No cut.
+ PHYSICS: real trumpet technique: correct embouchure, visible breath support, valves moving with the notes; brass has real mass and swings on straps; the drum head flexes on each hit; the door swings naturally as he stands.
+ LOOK: continuous with the start frame: bright clear daylight, balanced exposure, detail kept in the white facade, no blown-out highlights, neutral white balance, matte skin, the pink shirt and steel-gray car keep their exact start-frame colors, 35mm film grain, no CGI smoothness. No logos, no readable text.
+ AUDIO: quiet neighborhood ambience, birdsong, hurried footsteps, one breathless shout, the single bright trumpet note, then the full brass band swelling in: live and slightly rough.
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+9. One take with references: a locker room
+
+Six seconds, one camera move, a character and a location from references.
+
+SCENE CONTEXT Six-second one-take: a red-haired girl in a navy tracksuit on the floor of a deep-red locker room: jacket-fix, room-scan, then a level stare into the lens as the handheld camera pushes in to a close portrait.
+
+ACTIVE REFERENCES @GIRL: 100% per reference: copper-red hair pulled back, loose strands; steel-blue eyes; navy track jacket, white chest panel, navy pants, dark-red sneakers. Seated, one knee up. Contained defiance: fix as armor-adjustment, scan as a fighter reading exits, the stare a statement. @LOC: per reference: deep-RED locker room: crimson panels, red lockers with chrome latches, white tile, one cool overhead pool into red gloom.
+
+FORMAT / CAMERA ONE UNBROKEN TAKE, 6.0s, zero cuts. First frame = reference composition, already alive: hands on the hem, eyes down, no empty start. 47 degrees natural, rectilinear, focus locked on her face. MAXIMUM HANDHELD: breath-sway, micro-corrections, framing by feet, never zoom, never stabilized. ONE continuous move: slow walking push 2.5m to 1.2m, waist-up to close portrait, at its closest exactly as her eyes land on the lens.
+
+ACTION TIMING 0-2.5s, THE FIX. Head down. Both hands tug the hem, squaring the white panel; collar flick, a copper strand falls across her temple; she leaves it. The zipper stays untouched, fingers never near it. Camera breathes, then advances on the collar flick. 2.5-4.5s, THE SCAN. Hands settle on the knee. Eyes sweep LEFT into the red depth, hold, track RIGHT along the chrome latches: reading the room, not the lens. Camera closing. 4.5-6.0s, THE LOOK. Eyes come off the lockers, land level on the lens. Chin lifts a degree. One slow blink, then stillness, breath in the shoulders. Camera settles into close portrait, holds. Ends MID-STARE.
+
+PHYSICS / LIGHT / AUDIO Real breath, true blink timing, nylon rustle, the strand staying. One cool overhead key carves cheekbones and the white panel; red gloom, red bounce, chrome speculars; her face takes more key as the camera nears. Ventilation hum, fabric rustle, one nose-exhale. No music, no dialogue.
+
+POSITIVE LOCKS Order locked: fix (zipper untouched), scan left-right, eyes land on the lens and HOLD. Eyes meet the lens exactly ONCE, at the end. ONE camera move. ONE person; 100% per reference. 8K photoreal, 180 degree shutter, pore-level skin, true fabric/hair physics; no 3D render, no plastic skin. NO IP / NO BRANDS / NO LOGO
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+10. Macro with audio: a vintage watch
+
+A single macro push-in with close-mic ticking.
+
+SCENE CONTEXT A single continuous extreme macro push-in on a scratched vintage military field watch held in a man&#x27;s fingers, from a full view of the dial into an extreme close-up of the aged hands at its center.
+
+FIRST FRAME AND BLOCKING Frame one shows the full watch filling 80% of frame width, dial at x 55%, y 50%, tilted slightly toward camera against a near-black void with faint warm falloff. Weathered fingers grip the case at frame left and lower right, out of focus. Crown points screen-right. Time reads 7:37, second hand near 6.
+
+Watch: unbranded 1970s military field watch. Matte black dial speckled with dust and micro-scratches under a domed crystal. Cream aged-lume Arabic numerals 1-12, railroad minute track, small broad-arrow mark below center. Cathedral hour hand with two rounded lume lobes, pencil minute hand, thin steel second hand. Brushed steel case, worn chipped bezel, knurled crown.
+
+FORMAT Single continuous take, no cuts, no speed ramps.
+
+OPTICS Macro probe-lens character, 18 degree field of view narrowing into true macro. Camera starts 25 cm from the dial, ends 3 cm from the hands. Razor-thin focus tracks forward, keeping the hands sharp while numerals and case melt into warm bokeh; the final frame resolves lume grain and dust fibers.
+
+CAMERA Slow hypnotic dolly-in along the lens axis toward dial center, constant velocity, no drift, no reframing; precision-slider smoothness, not handheld. The hands&#x27; crossing point settles just right of center, flanked by the 8 numeral and the broad arrow.
+
+ACTION TIMING 0.0-2.0s: full dial in frame, fingers gripping; second hand ticks; push-in begins. 2.0-4.5s: fingers exit frame edges as magnification grows; numerals slide past; focus tracks the hands. 4.5-6.0s: extreme macro on the layered hands over the black dial; dust and scratches fully resolved; second hand keeps moving to the last frame.
+
+PHYSICS Second hand advances with real mechanical cadence. Faint micro-tremor from the holding hand early on. Dust motes drift through the light near the crystal. No morphing of numerals or hands.
+
+LIGHTING Warm tungsten-amber key from upper left, raking low so every scratch and embossed numeral casts a tiny shadow. Deep low-key: background crushed near-black, highlights only on case rim, hand edges and lume. Golden patina palette, no flat front light.
+
+AUDIO Soft close-mic ticking, faint room tone. No music.
+
+LOCKS No logos or readable text besides numerals and minute track. Photoreal macro, fine film grain.
+
+Copy
+
+Recreate
+
+Your browser does not support the video.
+
+How Much Does Kling Cost on Higgsfield?
+
+The cost depends on the model, the resolution and the length. The exact cost shows on the Generate button before you start.
+
+How Much Does Kling Cost on Higgsfield?
+
+Model
+
+Resolution
+
+Duration
+
+Credits
+
+≈ Cost
+
+Kling 4.0
+
+720p
+
+5 sec
+
+13.75
+
+$0.67
+
+Kling 4.0
+
+1080p
+
+5 sec
+
+20
+
+$0.98
+
+Kling 4.0
+
+720p
+
+30 sec
+
+82.5
+
+$4.04
+
+Kling 4.0
+
+1080p
+
+30 sec
+
+120
+
+$5.88
+
+Kling 3.0
+
+720p
+
+5 sec
+
+10
+
+$0.49
+
+Kling 3.0
+
+1080p
+
+5 sec
+
+12.5
+
+$0.61
+
+Kling 3.0
+
+4K
+
+5 sec
+
+30
+
+$1.47
+
+Approximate costs use the rate of $49 for 1,000 credits, or $0.049 per credit.
+
+Prices verified October 2026.
+
+What Are the Most Common Kling Prompt Mistakes?
+
+Too much in one shot.
+ Too many actions or camera changes in a short shot make the result harder to control. Keep each shot focused, or split a complex sequence into several shots.
+
+A prompt that fights the frames.
+ If the prompt describes motion that can’t reach the end frame or the next keyframe, the result drifts. Keep the prompt in line with the frames.
+
+Too many shots for the duration.
+ Five shots in a short clip leave each one a couple of seconds, too little for a readable action.
+
+Expecting motion transfer from the base model.
+ To copy movement from a reference video onto a character, use Kling 3.0 Motion Control.
+
+Testing at the final resolution.
+ For Kling 4.0, test at 720p before the final version. For Kling 3.0, use Turbo for faster drafts, then render the final.
+
+Kling 4.0 and 3.0 Prompt Guide: 10 Prompts and Settings That Work (2026)
+
+Try Kling 4.0
+
+Got any questions left?
+
+Which is better, Kling 4.0 or Kling 3.0?
+
+It depends on the task. Kling 4.0 suits scenes up to 30 seconds, keyframes and edits in a finished clip. Kling 3.0 suits multi-shot clips up to 15 seconds with native audio.
+
+How long can a Kling video be?
+
+Kling 4.0 generates 3 to 30 seconds in a single generation. Kling 3.0 generates 3 to 15 seconds.
+
+How do I keep a character the same across shots?
+
+In Kling 3.0, tag the character as an element with @ in every shot. In Kling 4.0, add the character as a reference.
+
+Can Kling 4.0 change something in a finished video?
+
+Yes. In Edit video, you can change a character, product, background, camera angle or visual style.
+
+Can Kling 3.0 edit a finished video?
+
+Not in the base model. Use Kling 3.0 Omni Edit for clips of 3 to 10 seconds at up to 1080p, or the Edit video tab in Kling 4.0.
+
+Can I use keyframes and video references together in Kling 4.0?
+
+Not in the same generation. Use Frames to control specific moments, or References to guide the result with images, videos, Elements and voice references.
+
+by Higgsfield
+
+Higgsfield Academy: AI Video Lessons, Homework & Certificate
+
+Higgsfield Pricing Explained: Plans, Credits, and What’s Included
+
+Discover more
+
+View all
+
+Editorials
+
+Kling 4.0 on Higgsfield: Features, Settings, and Pricing
+
+10 min
+
+·
+
+Oct 20, 2026
+
+Comparisons
+
+5 Best AI Video Generators for Long Videos
+
+11 min
+
+·
+
+Oct 20, 2026
+
+Comparisons
+
+5 Best Platforms to Access Kling 4.0 in 2026
+
+6 min
+
+·
+
+Oct 27, 2026
+
+Comparisons
+
+Higgsfield AI vs Kling 2026: Plans and Pricing Compared
+
+10 min
+
+·
+
+Oct 19, 2026
+
+Comparisons
+
+11 Best AI Video Ad Generators
+
+14 min
+
+·
+
+Oct 20, 2026
+
+Comparisons
+
+The 10 Best AI Video Models in 2026, Tested and Compared
+
+10 minutes
+
+·
+
+Oct 20, 2026
+
+AI-native creative suite
+
+Create
+
+AI Video
+
+AI Video Effects
+
+AI Image
+
+Edit Image
+
+Inpaint
+
+Upscale
+
+AI Video Upscaler
+
+Mixed Media
+
+AI Face Swap
+
+AI Influencer
+
+Apps
+
+Video Models
+
+Seedance 2.5
+
+Seedance 2.0
+
+Kling 3.0
+
+Sora 2 Introduction
+
+Veo 3.1 Introduction
+
+WAN 2.6
+
+Grok Imagine 1.5
+
+Gemini Omni Flash
+
+Image Models
+
+Nano Banana
+
+Flux 2
+
+Seedream 5
+
+GPT Image 2
+
+Ideogram 4.5
+
+Studios
+
+Cinema Studio
+
+Marketing Studio
+
+Lipsync Studio
+
+Higgsfield Popcorn
+
+Higgsfield Canvas
+
+Higgsfield Mangaka
+
+Soul
+
+Soul 2.0
+
+Soul ID Character
+
+Soul Cinema
+
+Platform
+
+Supercomputer
+
+AI Motion Designer
+
+MCP/CLI
+
+API
+
+Collab
+
+Games
+
+Reference Extension
+
+Resources
+
+Blog
+
+Help Center
+
+Academy
+
+Prompt Guide
+
+Company
+
+About
+
+Trust
+
+Report a vulnerability
+
+Enterprise
+
+Team
+
+Pricing
+
+Careers
+
+Contact
+
+Community
+
+Community
+
+Contests
+
+Creative Partners
+
+X / Twitter
+
+Youtube
+
+LinkedIn
+
+Tiktok
+
+Discord
+
+Create
+
+AI Video
+
+AI Video Effects
+
+AI Image
+
+Edit Image
+
+Inpaint
+
+Upscale
+
+AI Video Upscaler
+
+Mixed Media
+
+AI Face Swap
+
+AI Influencer
+
+Apps
+
+Video Models
+
+Seedance 2.5
+
+Seedance 2.0
+
+Kling 3.0
+
+Sora 2 Introduction
+
+Veo 3.1 Introduction
+
+WAN 2.6
+
+Grok Imagine 1.5
+
+Gemini Omni Flash
+
+Image Models
+
+Nano Banana
+
+Flux 2
+
+Seedream 5
+
+GPT Image 2
+
+Ideogram 4.5
+
+Studios
+
+Cinema Studio
+
+Marketing Studio
+
+Lipsync Studio
+
+Higgsfield Popcorn
+
+Higgsfield Canvas
+
+Higgsfield Mangaka
+
+Soul
+
+Soul 2.0
+
+Soul ID Character
+
+Soul Cinema
+
+Platform
+
+Supercomputer
+
+AI Motion Designer
+
+MCP/CLI
+
+API
+
+Collab
+
+Games
+
+Reference Extension
+
+Resources
+
+Blog
+
+Help Center
+
+Academy
+
+Prompt Guide
+
+Company
+
+About
+
+Trust
+
+Report a vulnerability
+
+Enterprise
+
+Team
+
+Pricing
+
+Careers
+
+Contact
+
+Community
+
+Community
+
+Contests
+
+Creative Partners
+
+535 Mission St, 14th floor, San Francisco, CA, 94105
+
+X / Twitter
+
+Youtube
+
+LinkedIn
+
+Tiktok
+
+Discord
+
+© 
+2026
+ Higgsfield, Inc.
+
+ 
+All rights reserved.
+
+Help center
+
+Cookie Notice
+
+Terms
+
+Privacy
+
+Report a vulnerability

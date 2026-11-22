@@ -1,0 +1,500 @@
+{"idx":1,"len":13278,"model":"default","sha8":"51ed0e5c","findings":"default 11s 家走廊记忆开场——哭泣 Matt+复生女（reanimated woman）——记忆嵌套结构开场"}
+{"idx":2,"len":17302,"model":"default","sha8":"4bb708cc","findings":"default 24s SCENE CONTEXT 段头——Chris 转述 Alice 的话+mock offence 家庭戏——SCENE CONTEXT 开场制"}
+{"idx":3,"len":19304,"model":"default","sha8":"e6cba6ac","findings":"26s @image_1 true first frame——dream of Alice 后接续——**@image_1 记法+true first frame 声明**"}
+{"idx":4,"len":12303,"model":"default","sha8":"49cfdabb","findings":"11s kitchen exactly-three 计数开场（only one Matt, only one Alice and only one Chris）"}
+{"idx":5,"len":12909,"model":"default","sha8":"9340a040","findings":"10s 牙刷返回走廊（SCENE CONTEXT+cheerful）"}
+{"idx":6,"len":69,"model":"sunburst","sha8":"a0c32e8b","findings":"69c sunburst 意语铅笔断尖修正（punta spezzata per 1 cm e assente）——超短修正族"}
+{"idx":7,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":8,"len":17484,"model":"default","sha8":"5f0f4bef","findings":"17,484c Nerd Shop SPACE DOG 书抱胸（both wet eyes）——SPACE DOG 核心道具首场"}
+{"idx":9,"len":15764,"model":"default","sha8":"7bcebeca","findings":"15,764c BioMed 简报室 Dr. Emily Haneda 闪回（laboratory's established findings）——闪回简报场"}
+{"idx":10,"len":13722,"model":"default","sha8":"d4eb34bf","findings":"13,722c SPACE DOG 书变体"}
+{"idx":11,"len":1784,"model":"null","sha8":"3f45cb1a","findings":"组首 1,784c BASE sheet+INFECTED eye look 参考改板 ×2（11/64）——双参考分工（base+仅眼部）"}
+{"idx":12,"len":114,"model":"sunburst","sha8":"d8a87c82","findings":"114c 意语右颊疤痕修正（va messa in ogni parte in cui la guancia destra è visibile）——**多视图同步修正制**"}
+{"idx":13,"len":19663,"model":"default","sha8":"99e6471e","findings":"19,663c Nerd Shop staff-side 30s"}
+{"idx":14,"len":14234,"model":"default","sha8":"857a9f7a","findings":"14,234c 简报室变体"}
+{"idx":15,"len":4016,"model":"null","sha8":"65e6a525","findings":"4,016c staff-passage continuity reference——走廊连续性参考图"}
+{"idx":16,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":17,"len":12847,"model":"default","sha8":"fc3ca622","findings":"12,847c Nerd Shop 濒死 Matt 10s（exhausted, desperate and sad）"}
+{"idx":18,"len":14197,"model":"default","sha8":"d76ea330","findings":"14,197c SPACE DOG 书发现（low bookcase beneath the film posters）"}
+{"idx":19,"len":1135,"model":"null","sha8":"90b81112","findings":"组首 1,135c base outfit sheet modify ×2（19/79）"}
+{"idx":20,"len":747,"model":"sunburst","sha8":"2073eb08","findings":"747c sunburst tactical vest coyote tan 换色"}
+{"idx":21,"len":733,"model":"sunburst","sha8":"4f442c41","findings":"733c 同款换色变体——**源内缺 <<<image_1>>> 标签实录**（Use as the base image）"}
+{"idx":22,"len":2876,"model":"sunburst","sha8":"afc7e238","findings":"2,876c sunburst 男性 char sheet（example character-sheet layout 参考例示）"}
+{"idx":23,"len":1163,"model":"null","sha8":"694ab43e","findings":"1,163c 木铅笔 prop sheet（approximately 10 cm+naturally used）"}
+{"idx":24,"len":1370,"model":"null","sha8":"9affd251","findings":"1,370c 战术半自动手枪 prop sheet（grounded contemporary）"}
+{"idx":25,"len":3665,"model":"sunburst","sha8":"b1d0aaf8","findings":"3,665c sunburst char sheet 变体（layout and presentation style only）"}
+{"idx":26,"len":1399,"model":"null","sha8":"8cb58abe","findings":"1,399c 大口径左轮 prop sheet"}
+{"idx":27,"len":1350,"model":"null","sha8":"58207b5d","findings":"1,350c AK 步枪 prop sheet（older AK-st...）"}
+{"idx":28,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":29,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":30,"len":4268,"model":"default","sha8":"ee5aaf48","findings":"4,268c Nerd Shop 已死 Matt 7s（completely motionless seated）"}
+{"idx":31,"len":11836,"model":"default","sha8":"2df32e0c","findings":"11,836c Matt 坐地背靠 checkout counter 16s"}
+{"idx":32,"len":9074,"model":"default","sha8":"f294ec58","findings":"9,074c 街头 Shen+Dante 对 Matt（overturned car+body face-down）——Shen/Dante 角色首场"}
+{"idx":33,"len":8320,"model":"default","sha8":"944c44dc","findings":"8,320c Chris only 4s（one continuous Chris and no duplicate）——单人计数制"}
+{"idx":34,"len":9576,"model":"default","sha8":"133986ab","findings":"9,576c 首日上班早晨准备（quietly energized）"}
+{"idx":35,"len":19742,"model":"default","sha8":"1aa7d840","findings":"19,742c 车内三人 POV 30s——**embodied first-person viewpoint 制**（Matt is the embodied first-person viewpoint）"}
+{"idx":36,"len":15429,"model":"default","sha8":"3c9612f2","findings":"15,429c storage-room assault replacement opening——**失败段重生成-接缝吸收制**（first second absorbs the boundary from the preceding successful clip）"}
+{"idx":37,"len":19449,"model":"default","sha8":"2c6c9bc2","findings":"19,449c 无 start frame 七镜 26s（No start frame. Exactly one person）"}
+{"idx":38,"len":19471,"model":"default","sha8":"e22ad537","findings":"19,471c kitchen 30s（exactly one distant pedestrian 车窗外单人计数）"}
+{"idx":39,"len":11250,"model":"default","sha8":"7c680f99","findings":"11,250c Walkman 视频续接 6s——Walkman 道具线"}
+{"idx":40,"len":22728,"model":"default","sha8":"300d6386","findings":"22,728c 家走廊深处背对镜头 25s——**本项目最长行**（memory 走廊深处的 Matt）"}
+{"idx":41,"len":13032,"model":"default","sha8":"0be1147c","findings":"13,032c kitchen 11s 三人"}
+{"idx":42,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":43,"len":7106,"model":"default","sha8":"fcd10d63","findings":"7,106c Walkman 续 6s 变体"}
+{"idx":44,"len":6054,"model":"default","sha8":"27d49c96","findings":"6,054c Walkman 续 6s 变体"}
+{"idx":45,"len":5913,"model":"default","sha8":"954b705e","findings":"5,913c Walkman 续 6s 变体"}
+{"idx":46,"len":8297,"model":"default","sha8":"99f35e24","findings":"8,297c 夜 NYC 崩塌初持枪跑（two unidentified attackers）"}
+{"idx":47,"len":14425,"model":"default","sha8":"42f07927","findings":"14,425c Nerd Shop 12s"}
+{"idx":48,"len":1776,"model":"null","sha8":"fa0b3c6a","findings":"组首 1,776c 车 exterior edit+image_2 仅作窗外参考 ×3（48/144/196）——双图分工（edit+参考）"}
+{"idx":49,"len":92,"model":"null","sha8":"862e10bc","findings":"92c 意语驾驶座 POV→乘客座（imposta la camera dal punto di vista del guidatore）——**车内 POV 互换对 A**"}
+{"idx":50,"len":58,"model":"null","sha8":"f6de83bf","findings":"58c 意语 steccato→siepe 篱笆替换——58c 超短修正族"}
+{"idx":51,"len":12454,"model":"default","sha8":"0296690b","findings":"12,454c Matt 唯一活人+employee badge 13s"}
+{"idx":52,"len":16943,"model":"default","sha8":"e895919f","findings":"16,943c Emily 玻璃办公室首日 30s"}
+{"idx":53,"len":10615,"model":"default","sha8":"c4d5f8a9","findings":"10,615c Nerd Shop customer-side 20s"}
+{"idx":54,"len":202,"model":"default","sha8":"e20ffeec","findings":"202c default 30s **video_1 角色替换指令**（sostituisci esclusivamente il ragazzo con la maglia gialla）——视频级角色替换+default 模型意语指令首例"}
+{"idx":55,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":56,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":57,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":58,"len":3660,"model":"null","sha8":"bebcd4a4","findings":"3,660c 女性 char sheet（uniform dark neutral gray 板）"}
+{"idx":59,"len":3701,"model":"null","sha8":"81e3d087","findings":"3,701c 女性 char sheet 变体"}
+{"idx":60,"len":2274,"model":"null","sha8":"d30f0891","findings":"2,274c 三参考改板（IDENTITY+INFECTED STYLE+LAYOUT/COMPOSITION）"}
+{"idx":61,"len":3643,"model":"null","sha8":"8fb23d18","findings":"3,643c 男性 char sheet"}
+{"idx":62,"len":3698,"model":"null","sha8":"678c934f","findings":"3,698c 男性 char sheet 变体"}
+{"idx":63,"len":19344,"model":"default","sha8":"4bdf9199","findings":"19,344c Nerd Shop staff-side 30s 变体"}
+{"idx":64,"len":1784,"model":"null","sha8":"3f45cb1a","findings":"同文重生成（首现行11）"}
+{"idx":65,"len":1612,"model":"sunburst","sha8":"2afd05ae","findings":"1,612c sunburst 房间改板（chairs/lighting/atmosphere exactly the same）"}
+{"idx":66,"len":39,"model":"sunburst","sha8":"8a4ea013","findings":"39c 意语 sedie più verso la camera——**39c 超短修正族新低段**"}
+{"idx":67,"len":120,"model":"sunburst","sha8":"cd6d7a6d","findings":"120c 意语删第二排椅子+前推（non modificare altro 收尾制）"}
+{"idx":68,"len":17484,"model":"default","sha8":"5f0f4bef","findings":"同文重生成（首现行8）"}
+{"idx":69,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":70,"len":18749,"model":"default","sha8":"65b79a8c","findings":"18,749c Nerd Shop staff-side 30s 变体"}
+{"idx":71,"len":8573,"model":"default","sha8":"df0788f7","findings":"8,573c 圣诞三代团圆 6s（Three generations）"}
+{"idx":72,"len":17122,"model":"default","sha8":"6b0a4fa7","findings":"17,122c 简报室 30s 变体"}
+{"idx":73,"len":17992,"model":"default","sha8":"cce7f501","findings":"17,992c 街头取 prototype backpack（overturned car）——原型背包道具线"}
+{"idx":74,"len":15603,"model":"default","sha8":"e7c63674","findings":"15,603c 简报室变体"}
+{"idx":75,"len":18612,"model":"default","sha8":"8e669036","findings":"18,612c 街头 wrecked car 变体"}
+{"idx":76,"len":1377,"model":"null","sha8":"edecb077","findings":"1,377c briefing room 参考图（logo is <<<image_1>>>+three-quarter angle）"}
+{"idx":77,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":78,"len":13788,"model":"default","sha8":"14d1ddcb","findings":"13,788c Nerd Shop 30s"}
+{"idx":79,"len":1135,"model":"null","sha8":"90b81112","findings":"同文重生成（首现行19）"}
+{"idx":80,"len":17892,"model":"default","sha8":"83552ac6","findings":"17,892c grey back door 13s（position inherited from the preceding clip）"}
+{"idx":81,"len":11318,"model":"default","sha8":"e89b0eb2","findings":"11,318c Emily invoking promise 12s（invokes Matt's promise to his family）"}
+{"idx":82,"len":19304,"model":"default","sha8":"e6cba6ac","findings":"同文重生成（首现行3）"}
+{"idx":83,"len":11630,"model":"default","sha8":"f66e11ed","findings":"11,630c BioMed aftermath SHOT 0 续接 12s"}
+{"idx":84,"len":12415,"model":"default","sha8":"45e1d38f","findings":"12,415c 圣诞晨 pyjamas 6s（assigned to them by that——@image_1 着装指派）"}
+{"idx":85,"len":19799,"model":"default","sha8":"ebf72c2b","findings":"19,799c 车内三人 infected 车外 30s"}
+{"idx":86,"len":19199,"model":"default","sha8":"2ef79085","findings":"19,199c Walkman 续 14s final sequence"}
+{"idx":87,"len":15359,"model":"default","sha8":"26244d3b","findings":"15,359c SPACE DOG 书 27s（closed wet eyes）"}
+{"idx":88,"len":12968,"model":"default","sha8":"4c9655a8","findings":"12,968c 无 start frame 父母家搜索 12s"}
+{"idx":89,"len":19448,"model":"default","sha8":"d5221048","findings":"19,448c 29s @image_1 true first frame standalone——**No preceding video is attached or inherited 声明**"}
+{"idx":90,"len":16530,"model":"default","sha8":"0e230555","findings":"16,530c 22s four shots 开场 hold"}
+{"idx":91,"len":20652,"model":"default","sha8":"a523824d","findings":"20,652c 家走廊哭泣 11s"}
+{"idx":92,"len":10764,"model":"default","sha8":"4a66fa2e","findings":"10,764c 毕业典礼学位服 6s（dean presents）"}
+{"idx":93,"len":7724,"model":"default","sha8":"e1a19a48","findings":"7,724c 圣诞晨 rug 6s（five-year-old Chris 开礼物）"}
+{"idx":94,"len":11641,"model":"default","sha8":"3a12e23a","findings":"11,641c Nerd Shop staff passage 一镜 18s（One uninterrupted continuous take）"}
+{"idx":95,"len":13722,"model":"default","sha8":"d4eb34bf","findings":"同文重生成（首现行10）"}
+{"idx":96,"len":19470,"model":"default","sha8":"06e630b9","findings":"19,470c Josh warning→Emily dying 30s"}
+{"idx":97,"len":9183,"model":"default","sha8":"fd764273","findings":"9,183c 母亲六十大寿 6s（blows out the two numer...）——数字蜡烛"}
+{"idx":98,"len":18839,"model":"default","sha8":"c698bc88","findings":"18,839c BioMed 窗边桌对话 30s"}
+{"idx":99,"len":14027,"model":"default","sha8":"9d5e9e16","findings":"14,027c 三人屋内 10s"}
+{"idx":100,"len":19309,"model":"default","sha8":"76f5d2c3","findings":"19,309c BioMed entrance hall elevator 20s（lateral elevator）"}
+{"idx":101,"len":16005,"model":"default","sha8":"bdc263e1","findings":"16,005c elevator→hall 一镜 20s（uninterrupted twenty-second shot）"}
+{"idx":102,"len":15817,"model":"default","sha8":"7521f843","findings":"15,817c Matt only+Alice 画外音 17s——**画外音存在制**（distant offscreen voice in the final shot）"}
+{"idx":103,"len":9298,"model":"default","sha8":"05d3d162","findings":"9,298c 首日早晨 10s"}
+{"idx":104,"len":11074,"model":"default","sha8":"5b505967","findings":"11,074c 牙刷返回 12s SCENE CONTEXT 变体"}
+{"idx":105,"len":15229,"model":"default","sha8":"ad51400c","findings":"15,229c Matt 起身咳嗽 27s"}
+{"idx":106,"len":14786,"model":"default","sha8":"f7d10ea5","findings":"14,786c revolving entrance 对峙 26s"}
+{"idx":107,"len":13933,"model":"default","sha8":"a4403bd3","findings":"13,933c 家走廊相框墙 15s"}
+{"idx":108,"len":17925,"model":"video_extension","sha8":"bdfff95a","findings":"**video_extension 模型名全库首录**——30s 16:9 kitchen 开场边界 17,925c（At the opening boundary...established kitchen）"}
+{"idx":109,"len":22619,"model":"default","sha8":"c568152b","findings":"22,619c Matt+Alice only 25s（Each exists exactly once as one continuous person）"}
+{"idx":110,"len":16501,"model":"default","sha8":"519f684b","findings":"16,501c 相框墙 15s 变体"}
+{"idx":111,"len":16176,"model":"default","sha8":"8ab59c5d","findings":"16,176c 圣诞夜 NYC 街 30s（Christmas lights+illuminated shop windows）"}
+{"idx":112,"len":17567,"model":"default","sha8":"c0da9b77","findings":"17,567c Josh warns→Emily dying 30s"}
+{"idx":113,"len":16789,"model":"default","sha8":"ce77669e","findings":"16,789c Nerd Shop dream 后 20s"}
+{"idx":114,"len":16926,"model":"default","sha8":"7e755d1c","findings":"16,926c BioMed aftermath 16s（SHOT 0 reconstructs）"}
+{"idx":115,"len":9087,"model":"default","sha8":"b92591da","findings":"9,087c 实验室失败尝试 12s（Matt's latest attempt has failed）"}
+{"idx":116,"len":18567,"model":"default","sha8":"38603ae5","findings":"18,567c Nerd Shop hunched depleted 28s"}
+{"idx":117,"len":19273,"model":"default","sha8":"90faf13e","findings":"19,273c Nerd Shop self-contained 30s——**self-contained 声明**（begins as a new scene）"}
+{"idx":118,"len":10999,"model":"default","sha8":"41bb6548","findings":"10,999c 医院产房新生儿 6s（swaddled）"}
+{"idx":119,"len":16701,"model":"default","sha8":"76623f40","findings":"16,701c BioMed glazing 双尸撞玻璃 10s（ravenously hungry reanimated corpses）——撞玻璃首场"}
+{"idx":120,"len":19740,"model":"default","sha8":"16d013f6","findings":"19,740c 圣诞夜街 30s 变体"}
+{"idx":121,"len":19743,"model":"default","sha8":"d3bbf03a","findings":"19,743c BioMed entrance escalation 30s（confrontation, siren, rollover）——翻车前奏"}
+{"idx":122,"len":16541,"model":"default","sha8":"5442f535","findings":"16,541c 教堂婚礼 altar 10s（joyful rea...）"}
+{"idx":123,"len":4460,"model":"default","sha8":"aa9cd751","findings":"4,460c 学校搜索记忆 7s（recently abandoned public school）"}
+{"idx":124,"len":13254,"model":"default","sha8":"1abaa8cf","findings":"13,254c 血走廊射杀 infected 妻 10s（forced to shoot his infected wife）"}
+{"idx":125,"len":7078,"model":"default","sha8":"ccdd5727","findings":"7,078c 曼哈顿楼顶夜 6s（rooftop during the post-apocalyptic collapse）"}
+{"idx":126,"len":17456,"model":"default","sha8":"52759779","findings":"17,456c kitchen 16s"}
+{"idx":127,"len":11758,"model":"default","sha8":"1026a7a8","findings":"11,758c Matt+Josh 拥抱完结 26s（Josh gives Matt his trust）"}
+{"idx":128,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":129,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":130,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":131,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":132,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":133,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":134,"len":12380,"model":"default","sha8":"0e8e15be","findings":"12,380c 街头续接+cut 30s"}
+{"idx":135,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":136,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":137,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":138,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":139,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":140,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":141,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":142,"len":5571,"model":"default","sha8":"3950e647","findings":"5,571c Walkman 续 6s 变体"}
+{"idx":143,"len":12137,"model":"default","sha8":"337edae2","findings":"12,137c Matt only+badge+mirror 12s（exactly one mirror in the entire clip）——**镜子单一计数制**"}
+{"idx":144,"len":1776,"model":"null","sha8":"fa0b3c6a","findings":"同文重生成（首现行48）"}
+{"idx":145,"len":91,"model":"null","sha8":"1ec9723b","findings":"91c 意语乘客座 POV→驾驶座——**车内 POV 互换对 B**（与 49 成对）"}
+{"idx":146,"len":8498,"model":"default","sha8":"f77e552a","findings":"8,498c Matt only 7s"}
+{"idx":147,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":148,"len":11275,"model":"default","sha8":"ab6dfa54","findings":"11,275c 首日早晨 9s"}
+{"idx":149,"len":1520,"model":"null","sha8":"c8af4bfe","findings":"1,520c 男性 turnaround in boxer（layout only 声明）——**Boxer 状态四视图**"}
+{"idx":150,"len":16060,"model":"default","sha8":"4abaf74a","findings":"16,060c 街头 Matt+Josh 咬伤发现 30s（after discovering the bite on Jo...）"}
+{"idx":151,"len":3418,"model":"null","sha8":"fd013cbf","findings":"3,418c strict master 全图复刻（same camera position, framing, perspective, room dimensions）"}
+{"idx":152,"len":13658,"model":"default","sha8":"a38f8dea","findings":"13,658c 街头四镜三硬切 27s（four timed shots and three direct hard cuts）——**计时镜表制**"}
+{"idx":153,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":154,"len":3381,"model":"null","sha8":"3e1b4385","findings":"3,381c bathroom 结构参考复刻（wide bathroom composition）"}
+{"idx":155,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":156,"len":10893,"model":"default","sha8":"94998add","findings":"10,893c Matt only 12s"}
+{"idx":157,"len":1716,"model":"null","sha8":"1965c5a8","findings":"1,716c SUV interior environment continuity（generic mid-size family SUV）"}
+{"idx":158,"len":1693,"model":"null","sha8":"37182949","findings":"组首 1,693c 车 exterior 环境替换（Edit only the exterior environment visible through the car windows）×2（158/160）"}
+{"idx":159,"len":170,"model":"null","sha8":"abe1c6ba","findings":"170c 意语加开襟格子衬衫（sopra la maglietta）——**穿衣层叠修正**"}
+{"idx":160,"len":1693,"model":"null","sha8":"37182949","findings":"同文重生成（首现行158）"}
+{"idx":161,"len":105,"model":"null","sha8":"b66354e4","findings":"组首 105c 意语左手腕数字表（orologio digitale SOLTANTO al polso sinistro）×2（161/215）——SOLTANTO 大写限定"}
+{"idx":162,"len":60,"model":"null","sha8":"e203cfd9","findings":"组首 60c 意语墙照片放大 ×3（162/164/165）——三跑同文"}
+{"idx":163,"len":145,"model":"null","sha8":"baf2bb9e","findings":"组首 145c 意语换装+黑靴 ×2（163/283）"}
+{"idx":164,"len":60,"model":"null","sha8":"e203cfd9","findings":"同文重生成（首现行162）"}
+{"idx":165,"len":60,"model":"null","sha8":"e203cfd9","findings":"同文重生成（首现行162）"}
+{"idx":166,"len":277,"model":"null","sha8":"e9d28b53","findings":"组首 277c 意语陈设补充（coerenti+non devono intralciare passaggi, porte）——**陈设不妨碍动线制**"}
+{"idx":167,"len":1152,"model":"null","sha8":"285d85f0","findings":"组首 1,152c 二层浴室 ×2（167/286）"}
+{"idx":168,"len":1254,"model":"null","sha8":"43ceb6ea","findings":"1,254c 厨房走廊墙 middle doorway 删除（the second opening starting...）——门位修订"}
+{"idx":169,"len":881,"model":"null","sha8":"055d5ecc","findings":"881c 沙发 90° 旋转（no longer turns its back toward the TV）——朝向修正"}
+{"idx":170,"len":4522,"model":"null","sha8":"b3907dab","findings":"组首 4,522c Alice FACE reference sheet 四严格参考 ×2（170/173）——**FACE reference sheet 制**"}
+{"idx":171,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":172,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":173,"len":4522,"model":"null","sha8":"b3907dab","findings":"同文重生成（首现行170）"}
+{"idx":174,"len":4574,"model":"null","sha8":"5b743890","findings":"4,574c 男性 FACE sheet 用女性 UUID（a9f97088 标 male character）——**源内 UUID 性别错配实录**"}
+{"idx":175,"len":2444,"model":"null","sha8":"0ec8e56b","findings":"组首 2,444c 房屋 exterior edit ×4（175/176/177/221）"}
+{"idx":176,"len":2444,"model":"null","sha8":"0ec8e56b","findings":"同文重生成（首现行175）"}
+{"idx":177,"len":2444,"model":"null","sha8":"0ec8e56b","findings":"同文重生成（首现行175）"}
+{"idx":178,"len":15292,"model":"default","sha8":"defa0a6b","findings":"15,292c storage room workbench+crowbar 30s"}
+{"idx":179,"len":373,"model":"videotape-alpha","sha8":"ee00adf3","findings":"373c videotape-alpha 意语老化规格（barba di 1 mese+viso stanco+occhi segnati+capello riccio）——**videotape-alpha 意语月龄胡须规格**"}
+{"idx":180,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":181,"len":15151,"model":"default","sha8":"b72d185e","findings":"15,151c 街头 rear passenger window 24s"}
+{"idx":182,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":183,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":184,"len":1172,"model":"null","sha8":"a39606e3","findings":"1,172c 沙发 90° 旋转详版（与 169 同指令扩展版）"}
+{"idx":185,"len":2647,"model":"null","sha8":"ee3a3cb9","findings":"2,647c store back area 结构参考（gray door+back wall+counter）"}
+{"idx":186,"len":10914,"model":"default","sha8":"56bb3e55","findings":"10,914c 走廊 profile 一镜 10s"}
+{"idx":187,"len":18492,"model":"default","sha8":"2b0874f9","findings":"18,492c Matt alone 六镜 18s（beside the building wa...）"}
+{"idx":188,"len":19802,"model":"default","sha8":"684efab6","findings":"19,802c Matt+Chris only 21s——父子双人体制"}
+{"idx":189,"len":19812,"model":"default","sha8":"5390b6c9","findings":"19,812c 车内三人 30s 变体"}
+{"idx":190,"len":19821,"model":"default","sha8":"46b9aa15","findings":"19,821c Matt alone 七镜 24s"}
+{"idx":191,"len":14017,"model":"default","sha8":"f348d8bc","findings":"14,017c **FINAL PROMPT — 30 SECONDS 段头**（Shen frame-left+Dante+Matt frame-right exact）"}
+{"idx":192,"len":8432,"model":"default","sha8":"46a76534","findings":"8,432c 街头 Shen+Dante 变体"}
+{"idx":193,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":194,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":195,"len":5451,"model":"default","sha8":"b362b3d0","findings":"5,451c Walkman 续 6s 变体"}
+{"idx":196,"len":1776,"model":"null","sha8":"fa0b3c6a","findings":"同文重生成（首现行48）"}
+{"idx":197,"len":91,"model":"null","sha8":"1ec9723b","findings":"同文重生成（首现行145）"}
+{"idx":198,"len":9297,"model":"default","sha8":"a199a50d","findings":"9,297c Matt only 9s"}
+{"idx":199,"len":9767,"model":"default","sha8":"b13f1008","findings":"9,767c Bethesda Terrace 喷泉记忆 6s（Central Park 地标考据）"}
+{"idx":200,"len":2515,"model":"null","sha8":"e55c92fd","findings":"组首 2,515c zombie woman sheet（BASE CHARACTER+ZOMBIE STYLE 双参考）×2（200/201）"}
+{"idx":201,"len":2515,"model":"null","sha8":"e55c92fd","findings":"同文重生成（首现行200）"}
+{"idx":202,"len":15172,"model":"default","sha8":"a3620b40","findings":"15,172c 牙刷返回 10s 变体"}
+{"idx":203,"len":10292,"model":"default","sha8":"b5bad6d2","findings":"10,292c 首日早晨 12s"}
+{"idx":204,"len":1545,"model":"null","sha8":"98b8e5df","findings":"组首 1,545c 女性 Both Hands Continuity Detail Sheet ×2（204/270）——**双手连续性细节板**（BOTH hands 状态）"}
+{"idx":205,"len":2527,"model":"null","sha8":"083a8736","findings":"2,527c strict visual master+corrections 列表修正（only the corrections listed below）——**修正清单制**"}
+{"idx":206,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":207,"len":2736,"model":"null","sha8":"900c3eec","findings":"2,736c typography asset sheet 三标题隔离（flat medium-gray）——**标题字体资产板**"}
+{"idx":208,"len":15060,"model":"default","sha8":"9d9a25d8","findings":"15,060c Nerd Shop 硬切 customer counter 30s"}
+{"idx":209,"len":6239,"model":"default","sha8":"d7651c19","findings":"6,239c Matt+mirror 同步反射 10s（single synchronized reflection）"}
+{"idx":210,"len":214,"model":"null","sha8":"f158d1f2","findings":"214c 意语脸改（segni sul viso, capelli, spor...）"}
+{"idx":211,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":212,"len":214,"model":"null","sha8":"fcfe3799","findings":"214c 意语换装（t-shirt verde militare+cargo neri+smanicato jeans）"}
+{"idx":213,"len":88,"model":"null","sha8":"f17d6809","findings":"88c 意语左腕表（orologio nel polso sinistro）——与 161 数字表版成对"}
+{"idx":214,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":215,"len":105,"model":"null","sha8":"b66354e4","findings":"同文重生成（首现行161）"}
+{"idx":216,"len":1716,"model":"null","sha8":"1965c5a8","findings":"同文重生成（首现行157）"}
+{"idx":217,"len":519,"model":"null","sha8":"7d56b443","findings":"519c 双门间加一门（add a single doorway between the two）+PRESERVE EXACTLY 段"}
+{"idx":218,"len":2458,"model":"null","sha8":"e06fb4e7","findings":"2,458c 智能手机 prop sheet 四视图——**手机道具板**"}
+{"idx":219,"len":4573,"model":"null","sha8":"75d0b407","findings":"4,573c 男性 FACE sheet 用 Chris 6yo UUID（294d1b3f 标 male）——**UUID 错配实录之二**"}
+{"idx":220,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":221,"len":2444,"model":"null","sha8":"0ec8e56b","findings":"同文重生成（首现行175）"}
+{"idx":222,"len":1993,"model":"null","sha8":"7a11185d","findings":"1,993c 房屋 edit 变体"}
+{"idx":223,"len":10170,"model":"default","sha8":"ac76807a","findings":"10,170c @image_1 first frame Nerd Shop 15s"}
+{"idx":224,"len":2641,"model":"null","sha8":"dba5c43c","findings":"2,641c **仅氛围参考制**（realism, atmosphere, cinematic tone...Do not copy its exact l...）"}
+{"idx":225,"len":2048,"model":"null","sha8":"01c5f4ed","findings":"2,048c 智能手机 home screen ON+family wallpaper——**手机屏开状态**（Turn on only the smartphone displa...）"}
+{"idx":226,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":227,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":228,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":229,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":230,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":231,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":232,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":233,"len":2165,"model":"null","sha8":"c293aa7b","findings":"2,165c Mediterranean 男肖像（28-32 lean athletic）"}
+{"idx":234,"len":18437,"model":"default","sha8":"591d32c6","findings":"18,437c 街头破 rear glass 23s"}
+{"idx":235,"len":2605,"model":"null","sha8":"6a1f461a","findings":"2,605c Walkman+cassette prop sheet（vintage portable cassette player+over-ear headband）——**Walkman 道具板**"}
+{"idx":236,"len":1628,"model":"null","sha8":"92200697","findings":"1,628c Alice outfit turnaround（BASE OUTFIT SHEET to modify）"}
+{"idx":237,"len":3510,"model":"null","sha8":"ee42ec21","findings":"3,510c 房屋多年废弃化（prolonged abandonment in a believable post-apocalyptic world）"}
+{"idx":238,"len":14017,"model":"default","sha8":"6df4b869","findings":"14,017c @image_1 first frame SHOT 0 only 25s——**首帧仅用于 SHOT 0 声明**"}
+{"idx":239,"len":1520,"model":"null","sha8":"c8af4bfe","findings":"同文重生成（首现行149）"}
+{"idx":240,"len":1499,"model":"null","sha8":"aed9157c","findings":"1,499c 女性 outfit 4-view（outfit reference+layout reference 分离）"}
+{"idx":241,"len":2700,"model":"null","sha8":"8d8bd08a","findings":"组首 2,700c yellow polo 替换 ×3（241/278/280）——EDIT THE ORIGINAL CHARACTER SHEET DIRECTLY 段头"}
+{"idx":242,"len":2153,"model":"null","sha8":"1b573a27","findings":"2,153c 男童 outfit turnaround（approximate a...）"}
+{"idx":243,"len":1422,"model":"null","sha8":"56dcd09c","findings":"1,422c 蓝西裤加入——**三步穿衣链 1/3**（in every view of the existing turnaround sheet）"}
+{"idx":244,"len":1653,"model":"null","sha8":"6056ff1d","findings":"1,653c 蓝西装上装——**三步穿衣链 2/3**"}
+{"idx":245,"len":1414,"model":"null","sha8":"37926765","findings":"1,414c 白衬衫+蓝领带+棕皮鞋——**三步穿衣链 3/3**（incremental dressing 全链）"}
+{"idx":246,"len":10952,"model":"default","sha8":"b61ce44e","findings":"10,952c 走廊复生女脸部开场 16s"}
+{"idx":247,"len":2232,"model":"null","sha8":"2ce82602","findings":"2,232c char sheet edit（must be preserved in overall structu...）"}
+{"idx":248,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":249,"len":139,"model":"null","sha8":"c82c4150","findings":"139c 意语 greybox blockout（production design blockout or environment layout model）——**意语+英文术语 blockout**（greybox previz 谱系）"}
+{"idx":250,"len":3234,"model":"null","sha8":"7a350694","findings":"3,234c 教堂 interior master location"}
+{"idx":251,"len":3193,"model":"null","sha8":"71ee6501","findings":"3,193c store interior 参考（customer area→counter+gray door）"}
+{"idx":252,"len":2470,"model":"null","sha8":"6d7bcd87","findings":"2,470c 手枪 prop sheet（generic semi-automatic, non-branded）"}
+{"idx":253,"len":20595,"model":"default","sha8":"14e8ab98","findings":"20,595c 灰轿车+Josh 副驾 30s（worn but structurally intact grey sedan）"}
+{"idx":254,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":255,"len":3481,"model":"null","sha8":"208504f4","findings":"3,481c Matt 母亲 zombie 化（b14d8269 identity ONLY+zombie design reference）——**母版 zombification+身份参考 ONLY 限定**"}
+{"idx":256,"len":16904,"model":"default","sha8":"07ee55e7","findings":"16,904c 相框墙 17s"}
+{"idx":257,"len":10202,"model":"default","sha8":"11ae9ddf","findings":"10,202c 走廊背对 8s"}
+{"idx":258,"len":87,"model":"null","sha8":"042803be","findings":"87c 意语去男孩留双人拥抱（togli il ragazzino...fedele volto e identità）"}
+{"idx":259,"len":1246,"model":"null","sha8":"f3379575","findings":"1,246c floor-plan crop→eye-level interior（strict geometry reference）——**平面图→实景转换制**"}
+{"idx":260,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":261,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":262,"len":14969,"model":"default","sha8":"6ec953e2","findings":"14,969c 教堂婚礼 Alice 入场 10s（on her father's arm）"}
+{"idx":263,"len":4796,"model":"null","sha8":"b1c78da7","findings":"4,796c warehouse/stockroom 绝对布局参考（absolute architectural layout reference）"}
+{"idx":264,"len":3768,"model":"null","sha8":"a79a4d67","findings":"组首 3,768c floor-plan graphic language ×2（264/350）——drafting style+line weight+labels 平面图语言板"}
+{"idx":265,"len":3069,"model":"null","sha8":"c0aa28a0","findings":"组首 3,069c warehouse mapping ×3（265/267/348）——spatial continuity reference ONLY 限定"}
+{"idx":266,"len":3754,"model":"null","sha8":"546b023d","findings":"3,754c Alice 家族相似母亲设计（family resemblance reference）——**族相似设计制**"}
+{"idx":267,"len":3069,"model":"null","sha8":"c0aa28a0","findings":"同文重生成（首现行265）"}
+{"idx":268,"len":20331,"model":"default","sha8":"f3c6a9e7","findings":"20,331c Nerd Shop 地面挡尸 12s（on his back+holding the infected man off with one...）"}
+{"idx":269,"len":1533,"model":"null","sha8":"8d8d3aec","findings":"1,533c 男性 Both Hands Continuity Detail Sheet——**男版双手板**（与 204 女版成对）"}
+{"idx":270,"len":1545,"model":"null","sha8":"98b8e5df","findings":"同文重生成（首现行204）"}
+{"idx":271,"len":2508,"model":"null","sha8":"1b7c799b","findings":"2,508c floor-plan crop→eye-level 变体"}
+{"idx":272,"len":81,"model":"null","sha8":"e64bf2c2","findings":"组首 81c 意语 LEFT 血字 ×2（272/274）——stile sangue come la E 血风格字体修正"}
+{"idx":273,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":274,"len":81,"model":"null","sha8":"e64bf2c2","findings":"同文重生成（首现行272）"}
+{"idx":275,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":276,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":277,"len":13804,"model":"default","sha8":"c1ecf2a1","findings":"13,804c storage-room fight 失败段替换 16s（Replace only the failed opening section）"}
+{"idx":278,"len":2700,"model":"null","sha8":"8d8bd08a","findings":"同文重生成（首现行241）"}
+{"idx":279,"len":1595,"model":"null","sha8":"f1e9070f","findings":"1,595c employee ID card standalone（fictional biomedical research company+straight-on real physical prop）——**员工证独立道具**"}
+{"idx":280,"len":2700,"model":"null","sha8":"8d8bd08a","findings":"同文重生成（首现行241）"}
+{"idx":281,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":282,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":283,"len":145,"model":"null","sha8":"baf2bb9e","findings":"同文重生成（首现行163）"}
+{"idx":284,"len":1202,"model":"null","sha8":"f539a0e9","findings":"1,202c 28 岁美人肖像（green eyes slight...）"}
+{"idx":285,"len":150,"model":"null","sha8":"f5f5182e","findings":"150c 意语白衬衫蓝领带换装（come la cravatta 同色声明）"}
+{"idx":286,"len":1152,"model":"null","sha8":"285d85f0","findings":"同文重生成（首现行167）"}
+{"idx":287,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":288,"len":734,"model":"null","sha8":"a8be9aed","findings":"277c 意语陈设补充变体（与 166 近同独立）"}
+{"idx":289,"len":1078,"model":"null","sha8":"4f4fc5c3","findings":"1,078c 手机屏 OFF（Remove the visible home screen interface）——**手机屏关状态**（屏开 225 对偶）"}
+{"idx":290,"len":1993,"model":"null","sha8":"7a11185d","findings":"同文重生成（首现行222）"}
+{"idx":291,"len":4574,"model":"null","sha8":"0428510f","findings":"4,574c 男性 FACE sheet 用 Matt UUID（2fc7842d）——正确 UUID 版"}
+{"idx":292,"len":52,"model":"null","sha8":"0cfc69f6","findings":"52c 意语**亲子生成指令**（genera un figlio di questi due, un maschio di 6 anni）——**双参考生成 6 岁儿子首例**"}
+{"idx":293,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":294,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":295,"len":4285,"model":"null","sha8":"bb3f54b1","findings":"4,285c 四图 ground-floor interior 一致化 edit"}
+{"idx":296,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":297,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":298,"len":2529,"model":"null","sha8":"ba434193","findings":"2,529c 同男肖像变体（the exact same man from）"}
+{"idx":299,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":300,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":301,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":302,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":303,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":304,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":305,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":306,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":307,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":308,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":309,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":310,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":311,"len":13858,"model":"default","sha8":"1ee1bc8d","findings":"13,858c storage room 背贴墙 15s（back pressed f...）"}
+{"idx":312,"len":1862,"model":"null","sha8":"b18e85dd","findings":"1,862c 大撬棍 prop sheet（heavy-duty crowbar）"}
+{"idx":313,"len":3510,"model":"null","sha8":"ee42ec21","findings":"同文重生成（首现行237）"}
+{"idx":314,"len":13258,"model":"default","sha8":"a29b964a","findings":"13,258c Emily invoking 变体"}
+{"idx":315,"len":16262,"model":"default","sha8":"ff05d07f","findings":"16,262c Nerd Shop rear door 入场 30s（Standalone scene beginning on a direct hard cut）"}
+{"idx":316,"len":1562,"model":"null","sha8":"6a912702","findings":"1,562c 大活动扳手 prop sheet（adjustable wrench slightly worn）"}
+{"idx":317,"len":18467,"model":"default","sha8":"092dea94","findings":"18,467c 走廊哭泣 11s"}
+{"idx":318,"len":17328,"model":"default","sha8":"8abb85a6","findings":"17,328c 走廊 11s 变体"}
+{"idx":319,"len":13795,"model":"default","sha8":"557d8827","findings":"13,795c @image_1 first frame final continuation 25s（No preceding video is attached or inherited）"}
+{"idx":320,"len":16759,"model":"default","sha8":"bca63986","findings":"16,759c 燃烧 BioMed+Emily dying 30s（burning laboratory）"}
+{"idx":321,"len":19517,"model":"default","sha8":"8468b8d7","findings":"19,517c 燃烧实验室 Emily 坐地 30s（laboratory island）"}
+{"idx":322,"len":1560,"model":"null","sha8":"e1319fc4","findings":"1,560c image_2 edit+image_1 damage 参考双图分工（continuity and damage reference）"}
+{"idx":323,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":324,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":325,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":326,"len":2451,"model":"null","sha8":"942a627c","findings":"2,451c Chris outfit sheet（2914dd36 4yo UUID）——**4 岁 Chris UUID 用例**"}
+{"idx":327,"len":1338,"model":"null","sha8":"2535d9e9","findings":"1,338c 白色针织帽 prop sheet（adult man beanie）"}
+{"idx":328,"len":1450,"model":"null","sha8":"172259ad","findings":"1,450c BASE sheet+image_2 NEW OUTFIT 应用"}
+{"idx":329,"len":66,"model":"null","sha8":"7dfc13aa","findings":"66c 意语去所有戒指（rimuovi tutti gli anelli dalle dita）——**去戒指修正**（婚戒系统的反向操作）"}
+{"idx":330,"len":1503,"model":"null","sha8":"bff95868","findings":"1,503c Chris 发型 edit（Edit only the hairstyle）"}
+{"idx":331,"len":1916,"model":"null","sha8":"4e567aa7","findings":"1,916c Matt outfit sheet（2fc7842d）"}
+{"idx":332,"len":1852,"model":"null","sha8":"3862cbf1","findings":"1,852c Matt 父亲 char sheet（biological fa...）——**直系亲属表族**"}
+{"idx":333,"len":3706,"model":"null","sha8":"d3ac9305","findings":"3,706c 男性警察 char sheet（NYC patrol uniform+duty belt）"}
+{"idx":334,"len":57,"model":"null","sha8":"3495140c","findings":"57c 意语去警棍（elimina solo il manganello. tieni tutto il resto identico）——57c 超短修正族"}
+{"idx":335,"len":4323,"model":"null","sha8":"e367cf16","findings":"4,323c Matt Origin identity+outfit turnaround 双参考"}
+{"idx":336,"len":10942,"model":"default","sha8":"1b2a5633","findings":"10,942c 走廊 profile 10s"}
+{"idx":337,"len":1644,"model":"null","sha8":"8e776583","findings":"1,644c edit 保持 camera/layout identical（image_1）"}
+{"idx":338,"len":21531,"model":"default","sha8":"1558a269","findings":"21,531c Nerd Shop 地面挡尸 12s 变体——**本项目第二长**"}
+{"idx":339,"len":182,"model":"null","sha8":"9dfb355b","findings":"182c 意语书老化（rovinato, invecchiato e sbiadito dopo anni di inutilizzo）——书老化标准句"}
+{"idx":340,"len":151,"model":"null","sha8":"d8c2711b","findings":"151c 意语书背面去字+犬居中+条码保留（mantieni il codice a barre）——**条码保留制**"}
+{"idx":341,"len":4235,"model":"null","sha8":"3f389b21","findings":"组首 4,235c 黑背包 prop sheet ×2（341/498）——anonymous unbranded+wear patterns 连续性"}
+{"idx":342,"len":19013,"model":"default","sha8":"05be6743","findings":"19,013c 相框墙 20s"}
+{"idx":343,"len":1885,"model":"null","sha8":"61074baa","findings":"1,885c Matt 母亲 char sheet（biological m...）——亲属表族之母版"}
+{"idx":344,"len":10116,"model":"default","sha8":"6eeb087d","findings":"10,116c 实验室失败 12s 变体"}
+{"idx":345,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":346,"len":1813,"model":"null","sha8":"1ecf1148","findings":"1,813c family-photo Matt+Alice 双参考"}
+{"idx":347,"len":14151,"model":"default","sha8":"c26289fc","findings":"组首 14,151c 海滩梦续接 30s ×2（347/376）——fingertip against Matt's lips 指尖抵唇续接"}
+{"idx":348,"len":3069,"model":"null","sha8":"c0aa28a0","findings":"同文重生成（首现行265）"}
+{"idx":349,"len":20613,"model":"default","sha8":"64778746","findings":"20,613c 街头 traumatic memory 28s（breaks through the damaged rear glass）"}
+{"idx":350,"len":3768,"model":"null","sha8":"a79a4d67","findings":"同文重生成（首现行264）"}
+{"idx":351,"len":2297,"model":"null","sha8":"9cf736f5","findings":"2,297c Matt outfit 改板用 1ce841b3——**Present UUID 用例**（Origin=2fc7842d/Present=1ce841b3 双时间线身份）"}
+{"idx":352,"len":3439,"model":"null","sha8":"13093d30","findings":"3,439c living→zombie 双参考设计（identity and base-character+ZOMBIE DESIGN）"}
+{"idx":353,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":354,"len":12742,"model":"default","sha8":"86dddba7","findings":"12,742c 车祸后逃离 10s（violent car crash）"}
+{"idx":355,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":356,"len":2199,"model":"null","sha8":"bda3d693","findings":"2,199c 血门厅+**SEVEN-FRAME WALL COMPOSITION 参考制**（image_2 为七帧墙构成参考）"}
+{"idx":357,"len":15588,"model":"default","sha8":"f03dc2c4","findings":"15,588c SPACE DOG 书 23s"}
+{"idx":358,"len":1376,"model":"null","sha8":"f85cd53f","findings":"1,376c 车+backpack design 参考 edit（same loc...）"}
+{"idx":359,"len":18862,"model":"default","sha8":"6fae7f6e","findings":"18,862c Nerd Shop depleted 25s"}
+{"idx":360,"len":2212,"model":"null","sha8":"e052620e","findings":"2,212c 教堂 interior continuity view（exact same church interior）"}
+{"idx":361,"len":4728,"model":"null","sha8":"dd59be41","findings":"4,728c BioMed lobby **NEW reverse photographic view**（EXACT SAME 修辞+absolute arc...）——反向视角制"}
+{"idx":362,"len":2417,"model":"null","sha8":"c168edc1","findings":"2,417c architectural master 保持 edit"}
+{"idx":363,"len":5197,"model":"null","sha8":"61c2d6e5","findings":"组首 5,197c lobby NEW photographic view ×2（363/403）"}
+{"idx":364,"len":2283,"model":"null","sha8":"b40dab4c","findings":"2,283c frosted-glass 前局部改（precise localized change）"}
+{"idx":365,"len":53,"model":"null","sha8":"1760bdb8","findings":"53c 意语去人（elimina le persone, preserva tutto il resto identico）——**53c 项目超短之最**"}
+{"idx":366,"len":1653,"model":"null","sha8":"3c95874e","findings":"1,653c 实验室加一物（one precise addition only）"}
+{"idx":367,"len":3718,"model":"null","sha8":"f7c8b79b","findings":"组首 3,718c pre-apocalypse 还原 ×2（367/480）——SAME PLACE several years earlier+同机位声明（Same camera. Same building.）"}
+{"idx":368,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":369,"len":1404,"model":"null","sha8":"518810b1","findings":"1,404c 实验室 edit 保持 framing"}
+{"idx":370,"len":5268,"model":"null","sha8":"3405f46e","findings":"5,268c EDIT TASK char sheet 改板（panel A+head B C D+headless full-body）——**面板字母编号制**"}
+{"idx":371,"len":1627,"model":"null","sha8":"b906b56a","findings":"1,627c image_2 edit 保持（image_1 版对偶）"}
+{"idx":372,"len":16116,"model":"default","sha8":"f9414900","findings":"16,116c 海滩梦 Alice 台词后 30s（{Let me go, Matt.}）——**花括号台词标记制**"}
+{"idx":373,"len":1459,"model":"null","sha8":"a337471d","findings":"组首 1,459c 三元素 size reference sheet ×2（373/375）——**体型对照板**（Character slots 定义）"}
+{"idx":374,"len":3472,"model":"null","sha8":"d3090ed1","findings":"3,472c floor-plan+realism 双参考 stockroom"}
+{"idx":375,"len":1459,"model":"null","sha8":"a337471d","findings":"同文重生成（首现行373）"}
+{"idx":376,"len":14151,"model":"default","sha8":"c26289fc","findings":"同文重生成（首现行347）"}
+{"idx":377,"len":12145,"model":"default","sha8":"05940186","findings":"12,145c Josh 被咬坦白 26s"}
+{"idx":378,"len":4780,"model":"null","sha8":"b7c5d6aa","findings":"4,780c IDENTITY living ONLY+ZOMBIE design 双参考（变体）"}
+{"idx":379,"len":18364,"model":"default","sha8":"045624e4","findings":"18,364c grey back door 11s 变体"}
+{"idx":380,"len":3567,"model":"null","sha8":"9f0d8a97","findings":"组首 3,567c Alice outfit 参考 ×2（380/448）"}
+{"idx":381,"len":1390,"model":"null","sha8":"3e40d686","findings":"1,390c 两元素 size sheet"}
+{"idx":382,"len":11150,"model":"default","sha8":"60359a5b","findings":"11,150c 海滩梦 25s（barefoot along...）——梦境开场"}
+{"idx":383,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":384,"len":1901,"model":"null","sha8":"e67a3485","findings":"组首 1,901c 新娘发型 mannequin head asset ×3（384/385/453）——**人台头资产**（not a character portrait and not a beauty image 声明）"}
+{"idx":385,"len":1901,"model":"null","sha8":"e67a3485","findings":"同文重生成（首现行384）"}
+{"idx":386,"len":1706,"model":"null","sha8":"81050dcc","findings":"组首 1,706c 书封面 swap ×2（386/387）"}
+{"idx":387,"len":1706,"model":"null","sha8":"81050dcc","findings":"同文重生成（首现行386）"}
+{"idx":388,"len":2466,"model":"null","sha8":"d55ac559","findings":"2,466c 书店海报（featured book release, design...）"}
+{"idx":389,"len":2141,"model":"null","sha8":"a73346d1","findings":"组首 2,141c room continuity 双参考 ×2（389/452）"}
+{"idx":390,"len":14341,"model":"default","sha8":"c8dd7bb8","findings":"14,341c BioMed glazing 双尸 10s 变体"}
+{"idx":391,"len":17783,"model":"default","sha8":"8891a0e4","findings":"17,783c BioMed entrance 20s"}
+{"idx":392,"len":110,"model":"null","sha8":"1fc6c92a","findings":"110c 意语换衣（modiifca——**modiifca 源内笔误实录**）"}
+{"idx":393,"len":47,"model":"null","sha8":"7325b482","findings":"47c 意语去两站立者（elimina i due in piedi）——**47c 全项目超短之最**"}
+{"idx":394,"len":95,"model":"null","sha8":"233c5bdd","findings":"组首 95c 意语去人+HD 修复 ×2（394/395）——trasformala in hd, restaura le parti sfocate **高清化修复修正**"}
+{"idx":395,"len":95,"model":"null","sha8":"233c5bdd","findings":"同文重生成（首现行394）"}
+{"idx":396,"len":13327,"model":"default","sha8":"ac1de9db","findings":"13,327c BioMed aftermath 13s"}
+{"idx":397,"len":4138,"model":"null","sha8":"dc42a119","findings":"4,138c 女性 fresh infected char sheet（freshly transformed+turnaround board）"}
+{"idx":398,"len":17561,"model":"default","sha8":"82930a34","findings":"17,561c Nerd Shop 地面挡尸 12s"}
+{"idx":399,"len":18288,"model":"default","sha8":"b4a8a88b","findings":"18,288c revolving entrance 25s"}
+{"idx":400,"len":18664,"model":"default","sha8":"7b753da7","findings":"18,664c entrance hall 27s"}
+{"idx":401,"len":3278,"model":"null","sha8":"a853d1c1","findings":"3,278c lobby architectural continuity view"}
+{"idx":402,"len":2097,"model":"null","sha8":"a72f333a","findings":"组首 2,097c lobby-behind-glass edit ×3（402/478/479）——白室内→image_2 lobby 替换"}
+{"idx":403,"len":5197,"model":"null","sha8":"61c2d6e5","findings":"同文重生成（首现行363）"}
+{"idx":404,"len":4009,"model":"null","sha8":"bcfeb2a9","findings":"4,009c 女性 char sheet（另一版）"}
+{"idx":405,"len":5905,"model":"null","sha8":"ae1608c0","findings":"5,905c 高层实验室环境参考（prestigious multinational corporate skyscraper+wide three-quarter）"}
+{"idx":406,"len":1478,"model":"null","sha8":"09cd5c0e","findings":"1,478c 三元素 size sheet（另一版）"}
+{"idx":407,"len":5944,"model":"null","sha8":"3c6650b8","findings":"组首 5,944c 商店收银台视角 ×6（407/408/482/483/484/485）——**storefront geometry 三维锁定**（recessed entrance+侧墙嵌窗 SET INTO THE WALL ITSELF+LEFT/CENTER/RIGHT 空间序列）"}
+{"idx":408,"len":5944,"model":"null","sha8":"3c6650b8","findings":"同文重生成（首现行407）"}
+{"idx":409,"len":217,"model":"null","sha8":"f11e33aa","findings":"217c 意语海报墙细化（locandine...stessi identi...）"}
+{"idx":410,"len":9718,"model":"null","sha8":"c8a4be70","findings":"组首 9,718c 商店反向视角巨单 ×2（410/490）——**REFERENCE PRIORITY AND SCOPE 三层权限**（image_1 absolute photographic master+image_2 coarse spatial map only）+SCREEN GEOGRAPHY LOCK 段头+NEGATIVE CONSTRAINTS 巨单"}
+{"idx":411,"len":37,"model":"null","sha8":"22643a53","findings":"37c 意语 rendila foto realistica e dettagliata——**37c 全库超短修正族新低**"}
+{"idx":412,"len":4791,"model":"null","sha8":"6b68df21","findings":"组首 4,791c 3D→real store ×2（412/492）——spatial and architectural reference+材质来自 image_2"}
+{"idx":413,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":414,"len":6492,"model":"null","sha8":"8f0bee64","findings":"6,492c storefront dense metropolitan street（no ar 字段）"}
+{"idx":415,"len":4600,"model":"null","sha8":"75a5d970","findings":"组首 4,600c metropolis avenue ×2（415/497）——millions of people actually lived 真实感宣言"}
+{"idx":416,"len":4100,"model":"null","sha8":"e77c6da0","findings":"组首 4,100c 木板封窗街道 ×8（416/417/418/419/495/496/499/500）——**8 跑全项目最大同文组**（barricaded door slightly ajar+**板随门动声明** boards physically attached to the door itself and move with it）"}
+{"idx":417,"len":4100,"model":"null","sha8":"e77c6da0","findings":"同文重生成（首现行416）"}
+{"idx":418,"len":4100,"model":"null","sha8":"e77c6da0","findings":"同文重生成（首现行416）"}
+{"idx":419,"len":4100,"model":"null","sha8":"e77c6da0","findings":"同文重生成（首现行416）"}
+{"idx":420,"len":2078,"model":"null","sha8":"1c6d78be","findings":"2,078c 咬伤 edit（KEEP same location/size/irregular bite shape）——**伤痕保持制**"}
+{"idx":421,"len":1642,"model":"videotape-alpha","sha8":"807654a2","findings":"1,642c videotape-alpha 咬伤加鲜（fresh, severe+clearly defined puncture and tear）——伤痕状态迭代链"}
+{"idx":422,"len":9853,"model":"default","sha8":"656ef387","findings":"9,853c Chris only 4s 变体"}
+{"idx":423,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":424,"len":4662,"model":"null","sha8":"71c82519","findings":"4,662c EDIT TASK char sheet（另一版）"}
+{"idx":425,"len":19671,"model":"default","sha8":"0444b8e4","findings":"19,671c kitchen 30s 变体"}
+{"idx":426,"len":2439,"model":"null","sha8":"6be65bff","findings":"组首 2,439c silver SUV+house 对齐 edit ×2（426/429）"}
+{"idx":427,"len":4384,"model":"null","sha8":"639f2c93","findings":"组首 4,384c EDIT TASK 两图 ×2（427/428）——**SOURCE 指定标签制**（image_1 = ...SOURCE for everything seen outside the glass）"}
+{"idx":428,"len":4384,"model":"null","sha8":"639f2c93","findings":"同文重生成（首现行427）"}
+{"idx":429,"len":2439,"model":"null","sha8":"6be65bff","findings":"同文重生成（首现行426）"}
+{"idx":430,"len":6800,"model":"null","sha8":"508f059d","findings":"组首 6,800c city street environment reference ×2（430/431）"}
+{"idx":431,"len":6800,"model":"null","sha8":"508f059d","findings":"同文重生成（首现行430）"}
+{"idx":432,"len":14095,"model":"default","sha8":"cb9462de","findings":"14,095c kitchen 4s"}
+{"idx":433,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":434,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":435,"len":5397,"model":"null","sha8":"ce45b77b","findings":"5,397c **相机五项严格参考**（CAMERA POSITION, FRAMING, LENS, FIELD OF VIEW, and COMPOSITION）"}
+{"idx":436,"len":3681,"model":"null","sha8":"abd28bb4","findings":"3,681c CAMERA/PERSPECTIVE/FRAMING only 参考转移"}
+{"idx":437,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":438,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":439,"len":7829,"model":"videotape-alpha","sha8":"84680d1c","findings":"7,829c videotape-alpha 3D dollhouse store（high three-quarter top-down+removed ceiling）——**娃娃屋视角参考**（greybox/blockout/dollhouse 三态谱系）"}
+{"idx":440,"len":17684,"model":"default","sha8":"8f4c326f","findings":"17,684c Chris mock offence 13s 变体"}
+{"idx":441,"len":1861,"model":"null","sha8":"bcd1e6ba","findings":"1,861c Matt outfit turnaround modify"}
+{"idx":442,"len":1667,"model":"null","sha8":"c6010eef","findings":"1,667c paramedic uniform 换装 edit（Edit only the clothing and uniform design）"}
+{"idx":443,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":444,"len":9589,"model":"default","sha8":"86e31813","findings":"9,589c storefront entrance 受伤左手 9s"}
+{"idx":445,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":446,"len":19994,"model":"default","sha8":"a0d0d94e","findings":"19,994c 地面挡尸 12s"}
+{"idx":447,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":448,"len":3567,"model":"null","sha8":"9f0d8a97","findings":"同文重生成（首现行380）"}
+{"idx":449,"len":1790,"model":"null","sha8":"93b73d86","findings":"1,790c BASE+NEW OUTFIT（另一版）"}
+{"idx":450,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":451,"len":14726,"model":"default","sha8":"a4eea42f","findings":"14,726c SPACE DOG 书 23s 变体"}
+{"idx":452,"len":2141,"model":"null","sha8":"a73346d1","findings":"同文重生成（首现行389）"}
+{"idx":453,"len":1901,"model":"null","sha8":"e67a3485","findings":"同文重生成（首现行384）"}
+{"idx":454,"len":4132,"model":"null","sha8":"8b8ee6ac","findings":"4,132c store customer-side wide 参考（defining the counter position...）"}
+{"idx":455,"len":2734,"model":"null","sha8":"97a726d2","findings":"2,734c Matt headless outfit sheet edit（The head must remain absent）——**无头声明**"}
+{"idx":456,"len":2799,"model":"null","sha8":"b8f6c717","findings":"2,799c store master location continuity"}
+{"idx":457,"len":2032,"model":"null","sha8":"d0a0919d","findings":"2,032c store new view（Create a new view of the exact same room）"}
+{"idx":458,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":459,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":460,"len":1294,"model":"null","sha8":"1db00637","findings":"1,294c 童帽 prop sheet（4 to 5 years old）"}
+{"idx":461,"len":732,"model":"null","sha8":"efd44162","findings":"732c 天堂海滩环境板（pristine white-sand+crysta...）——**梦境海滩环境板**（无 ar 字段）"}
+{"idx":462,"len":3918,"model":"sunburst","sha8":"dec5a3a0","findings":"3,918c sunburst Matt+Alice 家庭照（vertical）"}
+{"idx":463,"len":4133,"model":"sunburst","sha8":"c263e15a","findings":"4,133c sunburst 圣诞全家福（vertical Christmas photograph）"}
+{"idx":464,"len":15125,"model":"default","sha8":"dd5f8487","findings":"15,125c BioMed entrance 20s 变体"}
+{"idx":465,"len":19765,"model":"default","sha8":"007593bc","findings":"19,765c BioMed attack 30s——**GET OFF HIM 台词+audio_1/audio_2 声样分配**（supplies no ambience, effects or music 供给边界）+两枪不停+paramedics 揭示+**NO MUSIC 八连零清单每镜复读**（Musical tone, tonal bed, rhythmic pulse, drone, sting, transition sound and artificial closing tone: zero）+FINAL STATES AND COUNTS 段"}
+{"idx":466,"len":3385,"model":"null","sha8":"b8b4c537","findings":"3,385c 女警 char sheet（red hair freckles+headless crop at the base of the neck）——**女警改编自男警声明**（established for the male officer, adapted naturally to a female body）"}
+{"idx":467,"len":3893,"model":"sunburst","sha8":"401009c7","findings":"3,893c sunburst 罗马斗兽场全家游照——**Matt must be Matt Origin, not Matt Present 双时间线身份声明**+婚戒左手单指制（do not relocate the wedding band）+**无表制**（No watch on either wrist）"}
+{"idx":468,"len":19691,"model":"default","sha8":"a440a9f5","findings":"19,691c BioMed attack 26s 变体"}
+{"idx":469,"len":4466,"model":"sunburst","sha8":"9d2c691c","findings":"4,466c sunburst 婚礼 dip 吻照——**发型形状参考分离制**（controls only hairstyle shape, styling direction, volume, and finish）+WEDDING RINGS — CRITICAL ANATOMY 段头"}
+{"idx":470,"len":101,"model":"null","sha8":"a1ed585c","findings":"101c 意语发型替换修正（modifica il taglio di capelli di lui）"}
+{"idx":471,"len":2671,"model":"sunburst","sha8":"e383cfdf","findings":"2,671c sunburst Alice+Chris 合影——**源内 UUID 年龄矛盾实录**（2914dd36 标 4 years old 参考但正文 Chris at 6 years old）"}
+{"idx":472,"len":5187,"model":"null","sha8":"c49f9d75","findings":"5,187c 男 paramedic infected sheet——**下巴咬伤签名伤**（Do not use the same neck-bite logic as the female infected）+freshly turned 非腐烂声明+Critical eye rule（eyes must match image_1...Do not invent different eyes）"}
+{"idx":473,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":474,"len":15340,"model":"default","sha8":"55efedff","findings":"15,340c 翻倒救护车 emergence 12s——**翻倒车几何锁定**（original interior floor is now a vertical interior wall, never a surface on which a person can stand or walk）+upper-half opening 物理可通行声明"}
+{"idx":475,"len":2225,"model":"null","sha8":"6550a076","findings":"2,225c 六空框对称墙板（walnut+white placeholder）——**空框模板墙**（wall mockup for later image replacement）"}
+{"idx":476,"len":2318,"model":"null","sha8":"ecf8b626","findings":"2,318c 皮夹克 outfit turnaround（wedding ring continuity+Matt Origin wears no watch）"}
+{"idx":477,"len":4904,"model":"sunburst","sha8":"48951a30","findings":"4,904c sunburst 末日海报——**倒计时独立元素制**（07:00 not through the wristwatch+integrated as cinematic graphic element）+**logo 参考保留制**（Do not replace it with plain typed text）+双 infected 参考锁定"}
+{"idx":478,"len":2097,"model":"null","sha8":"a72f333a","findings":"同文重生成（首现行402）"}
+{"idx":479,"len":2097,"model":"null","sha8":"a72f333a","findings":"同文重生成（首现行402）"}
+{"idx":480,"len":3718,"model":"null","sha8":"f7c8b79b","findings":"同文重生成（首现行367）"}
+{"idx":481,"len":309,"model":"null","sha8":"b3b73812","findings":"309c 意语 SPACE DOG 书生成（font bello+due righe+sheet completo）"}
+{"idx":482,"len":5944,"model":"null","sha8":"3c6650b8","findings":"同文重生成（首现行407）"}
+{"idx":483,"len":5944,"model":"null","sha8":"3c6650b8","findings":"同文重生成（首现行407）"}
+{"idx":484,"len":5944,"model":"null","sha8":"3c6650b8","findings":"同文重生成（首现行407）"}
+{"idx":485,"len":5944,"model":"null","sha8":"3c6650b8","findings":"同文重生成（首现行407）"}
+{"idx":486,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":487,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":488,"len":3043,"model":"null","sha8":"c479766c","findings":"3,043c 意语头（IMMAGINE 1 ALLEGATA se non c'è\\ 反斜杠续行）+POS 180° 旋转——**收银机 180° 转向外科手术修正**（operator-facing side away from camera+NEGATIVE CONSTRAINTS 段）"}
+{"idx":489,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":490,"len":9718,"model":"null","sha8":"c8a4be70","findings":"同文重生成（首现行410）"}
+{"idx":491,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":492,"len":4791,"model":"null","sha8":"6b68df21","findings":"同文重生成（首现行412）"}
+{"idx":493,"len":3649,"model":"null","sha8":"9ed4d02f","findings":"3,649c dark-green fascia storefront——**ghost marks 招牌残迹**（ghost marks, mounting holes and old electrical fittings）+slightly ajar door as **visual hook**（immediate visual hook）"}
+{"idx":494,"len":5050,"model":"null","sha8":"14104b7e","findings":"5,050c 金属盒+auto-injector prop sheet——**毫米级尺寸锁**（25 cm × 15 cm × 6.5 cm+STRICT PHYSICAL SCALE 段头）+玻璃腔蓝粘稠剂+no exposed hypodermic needle+NEVER resemble luggage 四禁"}
+{"idx":495,"len":4100,"model":"null","sha8":"e77c6da0","findings":"同文重生成（首现行416）"}
+{"idx":496,"len":4100,"model":"null","sha8":"e77c6da0","findings":"同文重生成（首现行416）"}
+{"idx":497,"len":4600,"model":"null","sha8":"75a5d970","findings":"同文重生成（首现行415）"}
+{"idx":498,"len":4235,"model":"null","sha8":"3f389b21","findings":"同文重生成（首现行341）"}
+{"idx":499,"len":4100,"model":"null","sha8":"e77c6da0","findings":"同文重生成（首现行416）"}
+{"idx":500,"len":4100,"model":"null","sha8":"e77c6da0","findings":"同文重生成（首现行416）"}

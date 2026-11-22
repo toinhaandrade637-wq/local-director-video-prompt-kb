@@ -1,0 +1,149 @@
+【项目】HOW I TURNED MY GYM INTO A FANTASY WORLD（@jonnel · 创作者博客）
+【链接】https://higgsfield.ai/@jonnel/blogs/fantasy-gym
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I TURNED MY GYM INTO A FANTASY WORLD
+Jonnel Cayabyab
+@jonnel
+55
+1
+1
+
+
+
+
+
+
+
+Same workout. A completely different world.
+
+I filmed a normal gym clip, then used Higgsfield to place the performance in an alpine clearing beneath a giant stone arch. Here is the workflow, reusable prompts, and the fixes that made the result more convincing.
+
+The aim: an impossible location that still feels like a casual phone recording.
+
+1. Start with the full original video
+
+Use your own vertical footage. Keep the entire sequence: the opening moment, setting the camera down, walking to the bar, every repetition, and the recovery at the end. My clip was roughly 22 seconds and included four pull-ups.
+
+Check the uploaded clip's duration before generating. An early test ended after about seven seconds. A prompt asking for a longer video cannot restore action missing from the uploaded source or override the selected mode's duration limit.
+
+For a new shoot, keep the camera still once it is down, leave your hands and bar visible, and avoid harsh coloured lights when possible. A mirror can be removed, but remember to remove its reflection of you as well.
+
+Before — original gym footage. The full source clip, including all four pull-ups and the recovery. This is the real performance used for the environment swap.
+
+2. Design the location using a frame from your clip
+
+Take a clear frame after the camera has been set down. Use it as an image-edit reference in Higgsfield. Keep your body, the camera angle, ground height, and bar position as the anchors. Change the environment around them.
+
+My scene uses a giant natural stone arch, a snowy mountain visible through it, and a waterfall on the left. The exercise frame stays simple: two slender wooden posts supporting a visible round metal bar.
+
+Image prompt — reusable starting point
+
+Use GPT Image 2.5 to edit my uploaded gym frame. If I have not attached my own frame, ask me to upload it first. Keep the source aspect ratio.
+
+
+
+
+Edit my supplied gym frame into a believable outdoor phone photograph. Preserve the same person, facial identity, physique, clothing, body position, framing, lens perspective and low camera angle. Replace the gym with a grassy alpine clearing beneath a vast distant natural stone arch, a snowy mountain visible through the opening, and a waterfall on the left. Use real stone texture, atmospheric depth and natural vegetation.
+
+
+
+
+Replace the gym rack with exactly two slender weathered round wooden posts and one straight round dark metal pull-up bar. Keep the bar aligned with the original grip position and preserve ground height. Remove mirrors, reflected people, ceiling lights, gym equipment and floor markings.
+
+
+
+
+Match the person and scene with coherent natural daylight, soft sky fill and contact shadows. Remove coloured indoor light spill. Preserve natural skin texture and ordinary phone-camera detail. No bulky overhead timber, extra crossbeams, ropes, hanging hardware, exaggerated muscles, portrait blur or glossy CGI finish.
+
+See all
+Copy prompt
+Recreate
+
+Generate a few options and choose the one with the best perspective and lighting. Fix the still first; video generation is not a reliable way to repair a mismatched reference.
+
+3. Bring the environment into the full video
+
+Use Higgsfield Genjutsu in Object Swap mode, the route used for this edit. Supply the original full video plus your chosen environment image. The video supplies the performance and timing; the image supplies the location and replacement bar design.
+
+Keep the original vertical framing. Check the mode's currently supported source length and settings before submitting. Do not use the short test render as your source for the full version.
+
+Video prompt — cleaned-up visual template
+
+This template captures the visual instructions used for my result. Adapt the person, scenery and action count to your own footage. It intentionally leaves out the unsuccessful audio instructions.
+
+
+
+
+Use Higgsfield Genjutsu Object Swap with my original full-length video and my selected environment reference. Ask for either input if missing. Preserve source duration and aspect ratio; do not substitute a short text-to-video generation.
+
+
+
+
+Edit the supplied full gym video into the environment shown in the reference image. The original video controls the person's exact identity, natural physique, clothing, expressions, movements, camera motion and timing. Preserve the complete source sequence through its final frame: opening moment, camera lowered and set down, walk to the bar, all four pull-ups, release, and final recovery. Do not shorten, skip, repeat or invent any movement. The image guides the environment and bar design only; do not start or freeze the video on its pose.
+
+
+
+
+Place the person in one continuous grassy alpine clearing from the first frame. The camera set-down reveals a huge distant stone arch, a snowy summit through its opening and a long waterfall on the left. Preserve the source camera's low upward angle and natural phone perspective. Maintain stable geography and correct parallax throughout the camera movement. Remove the entire gym, including mirrors, reflected duplicate people, ceiling lights, coloured light spill, equipment and floor markings. Exactly one foreground person.
+
+
+
+
+Replace the rack with exactly two slender weathered wooden posts and one clearly visible straight round dark metal pull-up bar. Align the bar with the original video's actual grip positions. Hands must maintain solid contact during each repetition. Keep the bar rigid, ground height consistent, and feet grounded when the source shows contact. No bulky overhead beam, ropes or hanging hardware.
+
+
+
+
+Light the person, bar and ground with the same natural daylight and sky fill as the landscape. Preserve natural skin and believable contact shadows. Keep phone-camera softness and texture consistent across the image. No studio lighting, cutout edges, excessive sharpening, heavy bokeh or glossy CGI appearance.
+
+
+
+
+The waterfall flows downward with subtle irregular spray. Grass moves lightly. Two or three tiny distant birds cross the sky once in a mostly straight natural path, then exit and remain gone. Use staggered wingbeats and brief glides. No circling, respawning, synchronised flock loop or resetting positions. Mountains and arch remain solid and stationary.
+
+
+
+
+Preserve the full source duration, every repetition and the final recovery. No text or captions.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+4. Check these details before keeping a take
+Looks pasted in? Compare the light direction and colour on the person with the landscape. Fix coloured gym spill and missing contact shadows.
+Perspective feels wrong? Match the source camera height, upward angle, bar position and ground plane. The scenery must fit the camera.
+Bar looks bulky or strange? Specify two slim posts and a single visible round exercise bar. Remove extra beams and hanging hardware.
+Birds look fake? Ask for one pass and a permanent exit. If they still loop, remove them from the next attempt.
+Video ends too soon? Check the source upload and duration settings, then inspect the last frame of the output. Count every repetition.
+Hands slip through the bar? Review the jump, grip and every repetition at normal speed and frame by frame. Regenerate if contact fails.
+5. Audio: what actually happened
+
+The visual Genjutsu result in this workflow was silent, even when the prompt requested ambient audio. Later native-audio attempts did not give me a usable result. This is a visual tutorial; I cannot promise that adding sound instructions to the prompt will create a finished soundtrack.
+
+Check your output's audio separately. Do not assume an outdoor-looking edit has outdoor sound, or that the original gym music has been removed.
+
+Make it your own
+
+Swap the alpine scene for a jungle clearing, a quiet castle valley, or another place you wish you could train. Keep the person and camera grounded in the shot, then let one extraordinary background feature do the work.
+
+Save your selected reference, final prompt and full-length result together so you can repeat the look. Expect a few iterations; these prompts are starting points, not a guarantee of identical results.
+
+If you make your own version, tag me on Instagram: @jnl.creatives.
+
+Using the prompt buttons
+
+Copy sends the text to your clipboard. Recreate opens it in Higgsfield Supercomputer. Attach your own frame for the image edit, or your full source video and chosen environment reference for the video edit. Check the model, duration and inputs before generating.
+
+Watch my finished reel on Instagram
+
+The full scene reference
+
+This is the selected environment image, shown uncropped so you can see the arch, waterfall, ground plane and simple exercise bar. Use it to understand the composition; build your own reference around your own footage.

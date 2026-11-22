@@ -1,0 +1,622 @@
+【项目】MCP-For-Motion-Designers（官方博客 · Title-Case 重抓 2026-11-04）
+【链接】https://higgsfield.ai/blog/MCP-For-Motion-Designers
+【提示词块】0（2026-11-05 原始大小写 curl 复核 0 块）
+【捕获】2026-11-04（Title-Case 重抓·替换旧 404 墓碑）
+
+──────────────────────────────────────
+
+Claude Fable 5 + Higgsfield MCP = $38,400/Month
+
+Higgsfield
+
+Explore
+
+Image
+
+Video
+
+Audio
+
+MCP
+
+API
+
+Genjutsu
+New
+
+Content Factory
+New
+
+Playable
+New
+
+Mangaka
+New
+
+AI Influencer
+
+Academy
+New
+
+Katana
+
+ChatGPT Plugin
+
+Ads Studio
+
+Effects
+
+Cinema Studio
+
+Contests
+
+Marketing Studio
+
+Supercomputer
+
+Edit
+
+Community
+
+Plugins
+
+Canvas
+
+Originals
+
+Creator Hub
+
+Creator Hub
+
+Help center
+
+Blog
+
+Changelog
+
+Customer Stories
+
+Search Creator Hub
+
+On this page
+
+Step 1: Connecting the Studio
+
+Step 2: Generating Content & Building Your Portfolio
+
+The Results:
+
+Step 3: Finding Clients and Closing Deals
+
+Source 1: Google Maps (Restaurants, Gyms, Boutiques)
+
+Source 2: Kickstarter Campaigns
+
+Source 3: Amazon and Shopify Stores
+
+The Winning Outreach Formula:
+
+Blog
+
+/
+
+Guides
+
+/
+
+MCP For Motion Designers
+
+Back
+
+Claude Fable 5 + Higgsfield MCP = $38,400/Month
+
+Higgsfield
+
+Jun 10, 2026
+
+10 min
+
+For the full walkthrough — connecting the MCP, building the portfolio, and landing your first client — check out the YouTube video: 
+
+Claude Fable 5 + Higgsfield MCP Will Make You Rich
+!
+
+You have probably already noticed it. As AI gets stronger, a lot of new ways to make money keep opening up. Someone who was paid $500 for a piece of work yesterday can now earn ten times more - and far faster - today.
+
+For creators and people who sell digital services, this is huge. It opens up scalable ways to turn an AI skill into real income. And one of the most in-demand skills right now is 
+commercial motion design
+.
+
+For a long time, good motion graphics were locked behind a big wall - you needed expensive software, years of practice, and a lot of time. Brands pay thousands of dollars for a single 15-second promo video, because animating it frame by frame takes a designer days of work.
+
+That wall just came down.
+
+When you connect 
+Claude Fable to the 
+
+Higgsfield MCP
+
+,
+ these two powerful models start working as one team. Claude is the brain that plans everything. Higgsfield is what actually makes the video.
+
+In this article, we&#x27;ll show you the full workflow - from zero to your first $1,000 even if you have never touched design, editing, or sales.
+ You&#x27;ll see how the Claude Fable + 
+
+Higgsfield MCP
+
+ combo creates the ads, finds the clients, and sends the outreach for you, almost on autopilot.
+
+Let&#x27;s get into it.
+
+Why would a business pay you if you&#x27;re just starting out?
+
+ The experienced "sharks" in this market already have their own client base, or they work inside agencies, or they charge so much that most small brands simply can&#x27;t afford them. That leaves a giant gap.
+
+The market needs new people - people who can help a business make better ads and sell more. And right now, in the AI era, every business knows it needs to bring AI into its marketing. The demand is everywhere. The supply is still tiny.
+
+With Claude Fable + 
+
+Higgsfield MCP
+
+, the AI handles the heavy rendering. Now let&#x27;s actually build something.
+
+Before looking for clients, we need a portfolio.
+ The first thing any brand asks is: 
+"Can I see examples of your work?"
+
+ We need a solid showcase so they understand exactly what they&#x27;re paying for. We are going to target 3 of the most common niches right now and build a premium motion video for each: 
+Tech, Beverage, and Education
+.
+
+Step 1: Connecting the Studio
+
+Instead of jumping between isolated generative tools, downloading files, and trying to patch them together manually, the 
+
+Higgsfield MCP
+
+ lets Claude talk directly to the video creation engine.
+
+Open Claude, go to 
+
+Settings
+ → 
+Connectors
+
+Click 
+
+"Add custom connector"
+
+Name it  
+Higgsfield 
+and paste this dedicated server URL: 
+
+https://higgsfield.ai/mcp
+
+Click connect, and your accounts now work together automatically.
+
+To make this even easier, we use a built-in assistant called the 
+Motion Design Skill
+. This file takes you by the hand and guides you through the entire creative process even if you are starting from absolute zero.
+ 
+Download the motion design skill prompt below
+
+SKILL_MOTION.md
+
+text/markdown
+
+Just drop this skill file into your Claude chat to activate it, and your automated production line is live.
+
+Step 2: Generating Content & Building Your Portfolio
+
+With your setup ready, we can start generating our first motion design asset. Simply type this command into your Claude workspace:
+
+"Make a motion design video."
+
+Copy 
+
+Recreate
+
+Without this skill, standard AI tools just give you random, disconnected shots. But with 
+
+Higgsfield MCP
+
+, the shots stay stylistically locked to each other automatically.
+
+Once you look at the storyboard layout and see everything lines up, just type: 
+"Approve and generate."
+
+To build the final video, Higgsfield automatically runs 
+Seedance 2.0
+, the absolute best video generation model on the market right now.
+
+To build out the rest of our portfolio without wasting hours doing it manually, we can use the 
+multiplication power of the 
+
+MCP content machine
+
+ to render our next two niche videos at the exact same time. Drop this master prompt into the chat:
+
+"Create motion designs for Beverage and Education niches. Use Hyper-Motion style for a &#x27;Slake&#x27; iced-tea ad, and a 2D paper style for an educational explainer on the history of pizza. Make all creative decisions yourself."
+
+Copy 
+
+Recreate
+
+The Results:
+
+What used to take weeks of manual editing now gives you a premium three-video portfolio in 5 minutes with zero design experience.
+
+Step 3: Finding Clients and Closing Deals
+
+First, upload our custom 
+Client Finder Skill
+ right into your Claude workspace.
+
+client-finder.md
+
+text/markdown
+
+Now, let&#x27;s pull high-potential clients from our 3 core sources using targeted prompts:
+
+Source 1: Google Maps (Restaurants, Gyms, Boutiques)
+
+Analyze Google Maps for Small & Medium Businesses, and send me 100 of their emails
+
+Copy 
+
+Recreate
+
+The skill automatically scrapes public profiles and delivers a clean list of active decision-makers, saving you a whole day of manual digging.
+
+Source 2: Kickstarter Campaigns
+
+Scan Kickstarter for active product campaigns that have raised between 10% and 50% of their funding goal. Extract 50 campaign contact emails that need high-converting explainer videos to finish their launch."
+
+Copy 
+
+Recreate
+
+Source 3: Amazon and Shopify Stores
+
+Locate established Amazon and Shopify sellers with strong product reviews who are currently relying only on basic static photos. Pull their company contact info for 50 potential clients.
+
+Now you have 200 targeted emails found by AI in minutes.
+ To reach out to them completely hands-free, go to
+ 
+Settings
+ →
+Connectors
+ and link your Gmail account the exact same way you connected Higgsfield.
+
+Drop your generated list into the chat and use this prompt:
+
+Copy all 200 emails into a clean block and send out this personalized partnership proposal automatically using the Gmail connector.
+
+The Winning Outreach Formula:
+
+“
+
+Subject:
+ Partnership Proposal / [Brand Name]Hello! I came across your product and it really caught my attention. My name is [X] and I&#x27;m writing to you with a collaboration proposal.I noticed a huge opportunity to increase your product’s sales through motion design (63% of people worldwide prefer watching a short video about a product before buying it). I specialize in motion design and I’d love to create a high-converting video for you.Here&#x27;s my portfolio: [Link to your 3 AI-generated videos]If you&#x27;re interested, I&#x27;d be happy to discuss the details.Best regards,
+[Your Name]”
+
+The Gmail connector picks it up, personalizes each message for the specific business, and executes the entire blast in under 2 minutes. You are offering a solution that businesses actually need. In the worst case - they don&#x27;t reply. In the best case - you get a high-paying client for a few hours of automated work.
+
+Take the Challenge This Week
+
+Your challenge this week is simple: go out there and find just 
+one
+ client. Set up your workspace, launch your portfolio, send out your first pitches, and see what happens.
+
+Head over to 
+
+higgsfield.ai
+
+ right now to set up your account, link your Claude workspace, and start launching your own automated production pipeline.
+
+Claude Fable 5 + Higgsfield MCP = $38,400/Month
+
+Let&#x27;s Try!
+
+by Higgsfield
+
+How to Create a Consistent AI Influencer in 2026: Full Guide
+
+Why Does Your AI Character&#x27;s Face Keep Changing? 
+
+AI-native creative suite
+
+Create
+
+AI Video
+
+AI Video Effects
+
+AI Image
+
+Edit Image
+
+Inpaint
+
+Upscale
+
+AI Video Upscaler
+
+Mixed Media
+
+AI Face Swap
+
+AI Influencer
+
+Apps
+
+Video Models
+
+Seedance 2.5
+
+Seedance 2.0
+
+Kling 3.0
+
+Sora 2 Introduction
+
+Veo 3.1 Introduction
+
+WAN 2.6
+
+Grok Imagine 1.5
+
+Gemini Omni Flash
+
+Image Models
+
+Nano Banana
+
+Flux 2
+
+Seedream 5
+
+GPT Image 2
+
+Ideogram 4.5
+
+Studios
+
+Cinema Studio
+
+Marketing Studio
+
+Lipsync Studio
+
+Higgsfield Popcorn
+
+Higgsfield Canvas
+
+Higgsfield Mangaka
+
+Soul
+
+Soul 2.0
+
+Soul ID Character
+
+Soul Cinema
+
+Platform
+
+Supercomputer
+
+AI Motion Designer
+
+MCP/CLI
+
+API
+
+Collab
+
+Games
+
+Reference Extension
+
+Resources
+
+Blog
+
+Help Center
+
+Academy
+
+Prompt Guide
+
+Company
+
+About
+
+Trust
+
+Report a vulnerability
+
+Enterprise
+
+Team
+
+Pricing
+
+Careers
+
+Contact
+
+Community
+
+Community
+
+Contests
+
+Creative Partners
+
+X / Twitter
+
+Youtube
+
+LinkedIn
+
+Tiktok
+
+Discord
+
+Create
+
+AI Video
+
+AI Video Effects
+
+AI Image
+
+Edit Image
+
+Inpaint
+
+Upscale
+
+AI Video Upscaler
+
+Mixed Media
+
+AI Face Swap
+
+AI Influencer
+
+Apps
+
+Video Models
+
+Seedance 2.5
+
+Seedance 2.0
+
+Kling 3.0
+
+Sora 2 Introduction
+
+Veo 3.1 Introduction
+
+WAN 2.6
+
+Grok Imagine 1.5
+
+Gemini Omni Flash
+
+Image Models
+
+Nano Banana
+
+Flux 2
+
+Seedream 5
+
+GPT Image 2
+
+Ideogram 4.5
+
+Studios
+
+Cinema Studio
+
+Marketing Studio
+
+Lipsync Studio
+
+Higgsfield Popcorn
+
+Higgsfield Canvas
+
+Higgsfield Mangaka
+
+Soul
+
+Soul 2.0
+
+Soul ID Character
+
+Soul Cinema
+
+Platform
+
+Supercomputer
+
+AI Motion Designer
+
+MCP/CLI
+
+API
+
+Collab
+
+Games
+
+Reference Extension
+
+Resources
+
+Blog
+
+Help Center
+
+Academy
+
+Prompt Guide
+
+Company
+
+About
+
+Trust
+
+Report a vulnerability
+
+Enterprise
+
+Team
+
+Pricing
+
+Careers
+
+Contact
+
+Community
+
+Community
+
+Contests
+
+Creative Partners
+
+535 Mission St, 14th floor, San Francisco, CA, 94105
+
+X / Twitter
+
+Youtube
+
+LinkedIn
+
+Tiktok
+
+Discord
+
+© 
+2026
+ Higgsfield, Inc.
+
+ 
+All rights reserved.
+
+Help center
+
+Cookie Notice
+
+Terms
+
+Privacy
+
+Report a vulnerability

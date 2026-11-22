@@ -1,0 +1,129 @@
+【项目】Soulless（@yoav_yariv · 社区项目）
+【链接】https://higgsfield.ai/zh/@yoav_yariv/projects/soulless
+【数据】计数未取到（见项目页）
+【捕获】2026-10-28（浏览器"项目简报"面板）
+
+──────────────────────────────────────
+
+Living document: https://docs.google.com/document/d/16QBlVw0wDHgHMaOFTVtWowQa_tgG6THNytWNeds5rjw/edit?tab=t.0
+
+
+
+
+SOULLESS Brief for Higgsfield competition
+
+Logline: A car crash caused by AI wrecks a jazz pianist's hands. An AI robo dog named Maxwell gets him playing again. Growing fear of AI puts their newly created bond to the ultimate test.
+
+The film
+
+A young jazz pianist in a near-future Japanese city lives his best life: a jazz bar that fills up every time he plays, a car that drives itself home and beautiful women to accompany him.
+
+Until the day his autonomous car has an error - and causes a car crash. While he was sleeping in the car.
+
+He wakes in a hospital with both hands wrecked. He can't play. Physiotherapy barely helps.
+The hospital offers him something that might help.
+Maxwell - Top of the line AI rehabilitation dog.
+
+He wants nothing to do with it. Because of AI he's in this bed at all.
+
+Maxwell doesn't force himself. And as the weeks pass, the man gets his hands working again. Thanks to Maxwell.
+
+And when the man finds a woman he wants to spend his life with, he takes Maxwell with him to their new home.
+
+But growing unemployment and riots in the capitol force the government to issue a nationwide AI ban.
+
+Effective immediately.
+
+The hero must surrender Maxwell to the police or go to prison.
+
+The hero will do anything to save his new friend.
+Maxwell will do anything to save his friend.
+
+Runtime: ~5 minutes. Japanese dialogue. 1990s theatrical anime.
+
+Why this one
+
+I was badly injured and the recovery changed the way I look at human connection. After my injury, I realized I wanted to focus on what I like most. Creating. Music, writing, and most of all Anime.
+AI helped and is still helping me with that. Helping me get the confidence I need to create the things I believe in.
+
+Right now AI anxiety is everywhere, and "soulless" is the word people most often used to describe anything touched by it.
+
+I don't think any technology is good or bad on its own. But, it’s only what we decide to do with it.
+
+I hope people will understand that.
+
+The world
+
+Near-future fictional Japan, barely science fiction. Cars drive themselves and it's unremarkable. Service robots are in hospitals and insurance covers them.
+
+Underneath, unemployment is climbing and anti-AI riots are spreading.
+
+The characters
+
+The pianist.
+
+A careless piano prodigy playing in the well known “Old Soul” jazz club. He ain't in for the money, he’s in it for the passion. Playing at night, sleeping during the day. His main concern in life is: How can I have more fun?
+Never put others before himself. It’s only him and his piano.
+And the beautiful women he meets at the bar he works in.
+
+Maxwell.
+The top of the line AI rehabilitation dog by Kalamar industries. The perfect helper. A kind, sweet, altruistic robo dog.
+He will do anything to help the people he is put in charge of.
+Anything.
+
+The lawyer (pianist girlfriend).
+A lawyer at the attorney general's office, buried in AI-replacement litigation. Sharp, warm, and genuinely frightened. She is scared of what AI is doing to her world.
+
+And she believes Maxwell is just a machine.
+Soulless.
+
+The look
+
+Inspired by the great works of the 1990’s golden age of Japanese Anime. The likes of:
+
+Ghost in the Shell 1995
+Memories Magnatic Rose
+Vampire Hunter D
+Berserk 1997
+Ninja scroll
+Slam Dunk
+Rurouni Kenshin: Trust & Betrayal
+Legend of the Galactic Heroes
+Vision of Escaflowne
+Wolf’s Rain
+And more, and more and more…
+
+1990s Japanese theatrical anime. OVA cel animation, bold ink linework, hand-painted cel shading. No 3D, no gloss, no digital sheen.
+
+How it's being made
+
+Everything is generated on Higgsfield, inside one Cinema Studio project.
+
+Outside Higgsfield the project is orchestrated and designed using Cursor AI (Seedance prompt creation mostly, file and rules ongoing update)
+
+Stills are mostly done via Seedream 5.
+Based on the Higgsfield open source project - Every character exists as a three-panel reference sheet: three-quarter close-up, full body from the back, headless full body from the front. Locked directional light, the same light position in every panel.
+
+One sheet per character state - the same man in work clothes and in casual clothes with bandaged hands are two separate assets. Locations get a three-quarter sheet on a neutral base plate so they can be relit per shot.
+
+Video — Seedance 2.5 / 2 + mini or fast for testing
+
+Multi-shot, native audio, hard cuts defined inside the prompt. Every prompt names its references by role, maps the space in physical measurements, states first-frame occupancy, assigns a lens character per shot, and times every beat to the second.
+
+Audio is generated in the same pass. No score anywhere in the film — rain, engines, breathing, a dog, sirens. Diegetic only. Additional audio will be added via Suno (soundtrack).
+A song was written (lyrics and music) for the movie by Yoav Yariv and produced by Suno.
+
+Japanese dialogue, written in English, translated, back-translated and approved line by line before a single frame is generated. Voices are locked as verbatim identity strings that never change between generations; scene emotion lives in a separate direction line so the voice itself stays fixed.
+Critical for the Anime aesthetics.
+
+Every step of the process is documented.
+
+Every burned generation goes into a failure log with its cause, and the log is checked against every new prompt.
+
+Where are we now
+
+Character and some location elements locked.
+
+4 scenes are completed in terms of assets. Editing starts in parallel.
+
+Keeping up the good work as we go :)

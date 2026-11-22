@@ -1,0 +1,370 @@
+【项目】SURREAL VIDEO CAROUSEL（@higgsfield.soul · 创作者博客）
+【链接】https://higgsfield.ai/@higgsfield.soul/blogs/surreal-video-carousel
+【提示词块】6
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+SURREAL VIDEO CAROUSEL
+Higgsfield Soul
+@higgsfield.soul
+119
+0
+0
+SEEDANCE 2.5 Video generation prompts:
+
+Use the reference image as the first frame. Preserve the girl’s appearance, white dress, angel wings, the two fluffy white winged cats, and the misty forest setting. The girl opens a white-covered book and begins reading. She slowly leans back, settling comfortably onto the soft moss while keeping the open book raised in front of her and continuing to read. Her large angel wings gently spread to either side and rest on the ground, while her hair falls naturally over her shoulders.
+
+Both cats reach her by flying: they flap their small feathered wings, gently lift off the ground, and glide toward her. They briefly hover above her before carefully landing—one on her lap, the other on her stomach, below the book. They fold their wings and curl up comfortably, their tails moving slightly. The girl smiles softly and continues reading.
+
+Keep all movements slow, natural, and sequential. A light breeze barely stirs her hair, the feathers, and the book’s pages as mist drifts between the trees. The camera slowly pushes in, keeping the girl and both cats in frame. One continuous shot, with no cuts or sudden movements. Dreamlike fairytale atmosphere, muted green tones, soft diffused light, photorealistic detail. Maintain consistent facial features and natural anatomy, with no distorted hands, paws, or wings, and no additional animals appearing.
+
+See all
+Copy prompt
+Recreate
+
+SCENE CONTEXT
+
+Inside a glass greenhouse full of potted flowers, a young woman waters the flowers in front of her with an old watering can. The flowers have real human eyes in their centers; they follow her every move and blink as the water falls on them.
+
+
+
+
+ACTIVE REFERENCES
+
+The uploaded image is the first frame and the source of truth for the woman, the greenhouse, and every flower.
+
+Woman: young adult, long straight black hair with loose strands framing her face, flushed cheeks, glossy lips, lilac slip dress with thin straps and a silver beaded band across the chest. 100% matches the reference.
+
+Eye-flowers: pink and cream ranunculus and poppies with realistic wet human eyes in their centers, brown irises, reddish rims inside the petals. The large soft-focus peach flower with an eye in the upper-right foreground stays in place throughout. 100% matches the reference.
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+The first frame matches the uploaded image exactly. The woman leans forward over the wooden bench at x 50%, y 45%, forearms resting on the bench edge, head tilted up, eyes looking up toward the greenhouse roof at upper-left. Eye-flowers fill the foreground across the lower half of frame, about 0.5 to 1.5 meters from camera; the large peach eye-flower sits at x 78%, y 15%, very close to the lens and out of focus.
+
+
+
+
+FORMAT MODE
+
+Single continuous take. Real-time motion.
+
+
+
+
+OPTICS
+
+84° diagonal field of view, classic wide-angle lens character, camera about 1.5 meters from the woman, low at bench height among the flowers, matching the reference perspective. Foreground flowers loom large; the greenhouse frame stays straight. The woman stays sharp; the closest foreground flowers stay softly blurred.
+
+
+
+
+CAMERA
+
+Nearly static at the same position as the reference, with a very slow push-in of about 20 centimeters over the full take. Subtle handheld breath. No pans, no cuts.
+
+
+
+
+ACTION TIMING
+
+0.0s to 2.0s: Gentle stillness. Stems sway slightly. The woman slowly lowers her gaze from the roof to the flowers in front of her. Two or three eye-flowers blink at different moments, slowly and out of sync, and their irises turn toward her.
+
+2.0s to 3.5s: She reaches down with her right hand below the bench edge and lifts a small weathered zinc watering can into frame, holding it by the handle, spout pointing screen-left.
+
+3.5s to 7.5s: She tilts the can and waters the pots in front of her, moving the spout slowly from screen-left to screen-right. A thin stream of water arcs onto the petals. Each eye-flower the water hits blinks reflexively, squeezing its petal-rim lids shut for a moment, then reopening wet and glistening. Every eye in frame tracks the watering can, irises sliding smoothly as it moves; the large peach eye-flower in the upper-right foreground also follows the can.
+
+7.5s to 10.0s: She stops pouring and holds the can still, sensing the attention. She lifts her eyes and looks slowly around at the flowers, then straight into the large peach eye-flower near the lens. At 9.0s every eye-flower in frame blinks once, all at exactly the same moment, and reopens looking directly at her. She holds still, lips slightly parted, calm and curious.
+
+
+
+
+PHYSICS
+
+The watering can has real weight; her wrist and forearm tilt against its mass. Water falls in a thin parabolic stream, splashes into droplets on the petals, bends the petals down under impact, and leaves glistening beads that roll toward the petal edges. Stems bounce slightly when hit by water and settle back. The eyes are wet and glossy, with real specular highlights; blinks are quick and soft, about 0.2 seconds, with the petal rims closing like eyelids. Her hair strands shift slightly as she moves.
+
+
+
+
+LIGHTING
+
+Soft natural daylight through the frosted greenhouse glass from above and behind, matching the reference. Warm gentle highlights on her face, shoulders, and petals. Water droplets catch tiny sparkles. Natural, soft, saturated floral colors; no harsh shadows, no flat front light.
+
+
+
+
+AUDIO
+
+Quiet greenhouse ambience. Water pouring and pattering onto petals and soil, soft drips, the faint metallic creak of the watering can handle. Each blink makes a tiny wet, soft sound. No music, no dialogue, no subtitles.
+
+
+
+
+POSITIVE LOCKS
+
+Exactly one woman. Only the flowers that have eyes in the reference have eyes; no new eyes appear. The eyes stay inside the flowers and never leave the petals. The greenhouse layout and flower positions stay identical to the reference. Dreamy, quietly uncanny surreal tone. Editorial film texture, real grain, soft natural cinema look.
+
+See all
+Copy prompt
+Recreate
+
+SCENE CONTEXT
+
+A young man in a black-and-white jester costume sits on an old wooden bench in front of a foggy white castle. He strikes the ground once with his cane, and dark twisting vines burst from the earth, wrap around the bench, and lift it into the air with him on it while he stares down in surprise.
+
+
+
+
+ACTIVE REFERENCES
+
+The uploaded image is the first frame and the source of truth for the man, the bench, the castle, and the garden.
+
+Man: young adult, slim, dark curly shoulder-length hair, pale skin. Black-and-cream jester hat with two horns, bells, and a ruffled cream rosette. Cream jabot with a gold brooch pendant, black double-breasted vest with gold buttons, black-and-white striped sleeves, cream lace cuffs, black gloves, very wide grey pinstripe trousers, chunky black platform shoes. His right hand holds a black cane with a gold handle. 100% matches the reference.
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+The first frame matches the uploaded image exactly. The bench sits FG-MG center, x 50%, y 72%, on grass scattered with fallen purple petals, with a low hedge directly behind it. The man sits on the bench, knees wide, torso turned slightly screen-left, head turned to look screen-right. The cane stands in his right hand at x 40%, its tip on the grass in front of the left bench leg. The castle fills the background in fog; wisteria and stone stairs sit at screen-left.
+
+
+
+
+FORMAT MODE
+
+Single continuous take. Real-time motion.
+
+
+
+
+OPTICS
+
+47° diagonal field of view, standard normal lens character, camera about 6 meters from the bench at seated eye height, matching the reference perspective. The man and bench are sharp; the castle stays soft in the fog. The whole bench, the man, and the space above him stay in frame throughout the lift.
+
+
+
+
+CAMERA
+
+Completely static, locked on a tripod at the same position as the reference. No pan, no tilt, no zoom, no push-in. The bench rises inside a still frame.
+
+
+
+
+ACTION TIMING
+
+0.0s to 1.5s: Natural idle moment. He breathes out slowly, shifts his weight on the bench, glances from screen-right back toward the front, and adjusts his grip on the gold cane handle with his gloved fingers. The bells on his hat give a faint jingle.
+
+1.5s to 2.0s: He lifts the cane about 10 centimeters and strikes the ground once, firmly and casually. The hat bells jingle with the motion.
+
+2.0s to 3.5s: At the spot where the cane struck, the grass and soil crack open. Glossy black twisting vines burst out and spiral upward, wrapping around the left front bench leg. More vines break through the ground under the bench and coil around all four legs and up across the seat slats. He freezes and drops his gaze to the cane tip, eyebrows rising.
+
+3.5s to 7.0s: The vines thicken into a twisted dark woody trunk under the bench and push it steadily upward about 1.2 meters off the ground, tilting it slightly toward screen-right. Clumps of soil, grass roots, and purple petals fall from the base. He grabs the right armrest with his left hand, keeps the cane in his right hand dangling free, and leans forward over his knees to look straight down in surprise, lips parted, curls falling forward over his face.
+
+7.0s to 8.0s: The bench stops rising, sways once, and settles, held in the dark vines. A thin vine tendril curls up toward his right boot; he pulls that foot back slightly, still staring down.
+
+
+
+
+PHYSICS
+
+The cane strike has a real impact: the tip presses into the turf and his arm absorbs the recoil. The vines grow with visible force, splitting the soil, flexing and creaking as they tighten, bark-like texture with a dark gloss. The bench has real weight: its wooden joints strain, it wobbles slightly as it lifts, and it never floats free of the vines. His body reacts to the lift with inertia, sinking into the seat as it rises, then bracing with his hand. Hat horns, bells, curls, and lace cuffs bounce and settle with slight delay. Soil and petals fall straight down under gravity.
+
+
+
+
+LIGHTING
+
+Soft diffuse overcast light filtered through thick fog, matching the reference. Muted grey-white palette, purple wisteria accents. The vines read darker than everything else in frame. Low contrast, soft shadows under the bench, fog density unchanged throughout.
+
+
+
+
+AUDIO
+
+Quiet foggy garden ambience, a distant crow call. A dull thud of the cane on turf, a jingle of the hat bells, the deep crack of splitting earth, creaking vines, and the strained groan of the wooden bench as it lifts. Soil pattering down onto the grass. No music, no dialogue, no subtitles.
+
+
+
+
+POSITIVE LOCKS
+
+Exactly one man and one bench. The castle, hedge, wisteria, and fog stay identical to the reference. Only the dark vines move the bench. Halloween dark-fairytale tone, eerie and elegant. Editorial film texture, real grain, grounded physical cinema.
+
+See all
+Copy prompt
+Recreate
+
+A 7-second continuous, photorealistic shot with a locked camera, preserving the photograph’s composition, soft foggy daylight and muted colors. The woman sleeps peacefully against the tree roots. Her chest and shoulder gently rise and fall, subtly moving her lace neckline. Her face and hands remain relaxed, and her eyes stay closed throughout.
+
+0–2 seconds: A large pink ladybug with black spots and a delicate milky-ivory lace bow flies into the frame, slows beside her face and lands gently on her upper cheek. It folds its wings and immediately begins walking slowly across her cheek toward her temple. Its six legs move in coordinated steps, lightly touching her skin, while the bow sways with its movement. The woman briefly wrinkles her nose and softly exhales, remaining asleep.
+
+2–5.5 seconds: As the first ladybug continues walking across her face, exactly fifteen additional pink ladybugs fly in from different directions along varied, natural paths. Their arrivals happen simultaneously with the first ladybug’s continuous walking. These fifteen have black-spotted pink shells without accessories; only the first wears a bow. They progressively land on her forehead, cheeks, hair, shoulder, chest, sleeve and resting hand, extending their legs before contact and folding their wings afterward. Every arriving ladybug visibly completes its landing on the woman by 5.5 seconds, bringing the total to sixteen. She makes a tiny sleepy movement of her lips and gently curls her fingertips as her breathing continues.
+
+5.5–7 seconds: All sixteen ladybugs remain on the woman, forming a dense pink cluster across her visible figure. The first ladybug continues its slow walk toward her hairline, its ivory bow clearly recognizable. The others take small settling steps across her skin, hair and clothing. Spaces between their shells reveal her closed eyelids and relaxed lips. Those resting on her chest rise and fall with her next breath. Her fingers loosen as she exhales peacefully.
+
+Keep the insect movements continuous and physically believable, with realistic wingbeats, coordinated footsteps and soft contact shadows. Visible breathing, subtle unconscious reactions and gently shifting fabric make the woman look alive and deeply asleep throughout.
+
+See all
+Copy prompt
+Recreate
+
+SCENE CONTEXT
+
+A creepy doll-horror moment in an abandoned room with completely clear air, swept by strong wind. A pale doll-like girl sits in an old armchair, head bowed, stroking a black cat on her lap. The cat leaps down and runs off to the left. She does not look up: her head stays bowed, and her lowered eyes turn glassy and slowly fill with a creepy, dawning awareness, as if she has just realised something. Then, with her body completely frozen, her bowed head alone slowly rotates 310° around its axis like a wooden doll's head on a joint. Throughout the shot, the lace curtains are blown violently into the room by the wind. Unsettling and quiet, not gory. No fog, mist, haze, smoke or airborne dust anywhere in the frame.
+
+ACTIVE REFERENCES
+
+The reference image is the first-frame visual guide and controls the girl's identity and look: long wavy platinum-blonde hair with blunt bangs and small cream bows, pale porcelain skin, pale grey-blue eyes, white puff-sleeve lace dress with pink satin bows, faint drawn crack lines on her arms, white tights with painted doll knee joints and back seams. It also controls the black cat with a cream satin bow at its neck, the carved wooden armchair and the room: peeling pink walls, the stone fireplace on the left, the tall window with sheer white lace curtains behind her, the faded blue settee on the right and the debris-covered dark wooden floor. Remove any fog or atmospheric haze present in the reference; the room's air must be completely clear. Her head position is directed below, not taken from the reference.
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+First frame matches the reference composition, except the room contains no fog or haze and the girl's head is bowed forward, chin lowered toward her chest, her eyes looking down at the cat. She sits upright in the armchair at frame centre, knees together, feet on the floor. The cat lies across her lap, its head on the right side of her lap, body toward the left. Her right hand rests on its back, her left hand near its head. The window and curtains fill the background behind her; the fireplace is on the left, the settee on the right, open floor in front of her to the bottom of frame. The curtains are already blown far into the room in the first frame. All background details remain clearly visible through clean, transparent air.
+
+OPTICS
+
+84° diagonal field of view, classic wide rectilinear character matching the reference framing. Deep focus: the girl, chair, cat and room are all sharp and clearly defined, with no atmospheric softening or veiling haze. Lens locked for the whole shot.
+
+CAMERA
+
+Static locked-off camera on a tripod, high above and in front of the girl, about 2 m away and 1.8 m above the floor, looking down at her exactly as in the reference. The camera does not move at all: no push-in, no pan, no tilt, no zoom, no shake. The last frame has the same framing as the first.
+
+ACTION TIMING
+
+Whole shot: a strong wind blasts through the open window. The lace curtains billow violently, swelling high and deep into the room behind her, whipping, twisting and snapping, then surging again in powerful repeated gusts; they never hang still. The airflow itself remains invisible, expressed through the movement of the curtains, loose hair and fabric. No fog, dust clouds or floating particles are stirred up.
+
+0.0–2.5s: Head bowed, eyes down on the cat, the girl strokes it with slow, stiff, repetitive hand movements along its back, like a mechanical doll. The cat lies relaxed, ears twitching.
+
+2.5–3.5s: The cat lifts its head, leaps off her lap to the floor on the left, lands softly and runs fast across the floorboards to screen-left, past the fireplace, out of the left edge of frame. Her hands stop instantly and stay frozen in the stroking pose above her lap. 
+
+3.5–4.5s: Her head stays bowed and her gaze stays lowered on her empty lap; she does not look up. Her eyes change: they slowly widen a little, the pupils fix and the lids stop blinking, and the eyes take on a wet, glassy, doll-like shine. Behind the glassy surface there is a creepy, dawning awareness, as if she has just understood something terrible. Her face stays otherwise blank and still.
+
+4.5–8.0s: Only her head moves. Still bowed, it rotates slowly around the vertical axis of her neck like a wooden doll's head on a joint, in a stiff, mechanical, slightly uneven motion with tiny catches, never smooth or human. It turns toward screen-right into profile, continues until the back of her head faces the camera with the storming curtains behind it, continues past her other shoulder into the opposite profile, and stops abruptly at 310°, her bowed face turned diagonally toward screen-left. Her glassy, aware eyes stay lowered and unblinking throughout. Hold.
+
+From 2.5s to the end: her shoulders, torso, arms, hands, lap and legs stay completely motionless, as if carved from wood. The neck turns like a doll joint, without blood or wounds.
+
+PHYSICS
+
+The cat moves with real weight: a crouch before the jump, a soft landing with paws absorbing the impact, a fast low run with fur and the cream bow ribbon bouncing. The curtains are light sheer lace driven by strong air pressure: they inflate, whip and ripple, with fabric edges fluttering fast, then fall briefly with gravity before the next gust. The wind lifts loose strands of her hair and flutters the hem and ruffles of her dress, while her body stays rigid. The head rotation is rigid and mechanical; her long hair follows with natural delay, sliding over her shoulders and swinging around her neck, while her bangs and small bows stay fixed on her head. Floor debris stays grounded and does not produce airborne dust.
+
+LIGHTING
+
+Soft, diffused daylight from the window behind her, backlighting the storming lace curtains, with gentle reflected fill from the room's surfaces illuminating her face. A faint wet highlight sits in her glassy eyes. Cool, desaturated light, gentle contrast and soft-edged shadows, achieved through broad daylight and reflected fill. The air stays completely clear: no glowing haze, visible light beams, volumetric lighting or mist around the window.
+
+GRADE, LIGHT AND ATMOSPHERE LOCK
+
+Preserve the reference image's muted palette and soft daylight while removing its atmospheric fog entirely. The palette of muted dusty pinks, pale ivory, faded blue-grey and charcoal remains identical from the first frame to the last, without shifts in warmth, coolness or saturation. Exposure and brightness stay constant: the window light does not flare, brighten or dim, and the room never gets darker or lighter. Air clarity remains constant throughout; no fog, mist, haze, smoke or dust appears at any point. Contrast, grain and optical sharpness stay consistent in every frame.
+
+AUDIO
+
+Loud, gusting wind through the window and the heavy flapping and snapping of the lace curtains throughout. A light thump as the cat lands and the patter of its paws running away across creaking floorboards. During the head rotation, a faint dry wooden creak like an old doll joint under the wind. No music, no voices.
+
+STYLE
+
+Photorealistic doll-horror film, muted dusty pinks, pale ivory, faded blue-grey and charcoal, clear air, fine natural film grain, slow and eerie. The unsettling atmosphere comes from the girl's mechanical movements, glassy eyes, abandoned setting and violently moving curtains.
+
+QUALITY
+
+Sharp clarity, stable picture, natural colours, readable face and eyes, clearly visible room details. Natural motion blur on the jumping, running cat and the fast-whipping curtain edges; the head rotation stays sharp. No ghosting, no flicker, no morphing of the face or body. No atmospheric blur or milky veil over the image.
+
+POSITIVE CONSTRAINTS
+
+Exactly one girl and one black cat appear; the cat leaves frame on the left and does not return. The girl's head stays bowed and her gaze stays lowered from first to last frame; she never looks up. From 2.5s to the end her body stays completely still; only her head moves, always stiff and doll-like. Her head rotates 310° in one continuous direction, passing the window side, and ends facing toward screen-left without reversing. The camera stays completely static. The curtains billow violently for the entire shot. The room's air remains completely clear from beginning to end, with no fog, mist, haze, smoke, airborne dust or visible atmospheric effects.
+
+See all
+Copy prompt
+Recreate
+
+SCENE CONTEXT
+
+A single continuous handheld POV shot. A living porcelain mask shaped like a human woman's face, wearing a frightened expression, falls fast onto an olive-grey tiled floor and breaks into exactly twelve pieces that scatter chaotically. Its eyes, brows and lips stay alive with natural human facial expressions on the separate pieces. The POV person's own hands enter and gather the pieces back into a whole, cracked face; every touch makes the face react. At the end the reassembled face turns sad and sheds a tear. Dark, intimate, tactile gothic mood. One unbroken take, no cuts.
+
+ACTIVE REFERENCES
+
+The reference image controls the look of the mask, its twelve pieces and their assembled layout, the makeup, the hands, the floor and the colour grade: pale matte porcelain, heavy smoky black eyeshadow, spiky lower lashes, grey-blue eyes, graphic black brows, soft pink blush, glossy dark burgundy lips; olive-grey cracked tiles with dark grout and a dark stain at top centre; two pale hands with very long stiletto nails in a nude-to-black ombre, the left hand with a carved silver band and a large silver ring with a dark stone, the right hand with a large ornate silver ring with a dark red stone and a thin silver band. The facial expression is not taken from the reference; it is directed below.
+
+THE TWELVE PIECES
+
+The mask breaks into exactly these twelve pieces, matching the reference image, and no others:
+
+1. the large upper-right piece with the right brow, right eye and pink blush
+
+2. the left piece with the left brow and left eye
+
+3. the large central piece with the nose, the burgundy lips and the chin
+
+4. the narrow left-cheek strip between the left eye piece and the central piece
+
+5. the small lower-left cheek piece with a hint of blush
+
+6-8. three small plain white shards from the upper-left edge
+
+9-10. two small plain white shards from the right edge
+
+11-12. two small plain white shards from the bottom edge
+
+These twelve pieces keep their outline, size and makeup for the entire shot. No new pieces, chips, crumbs or dust appear at any time; only these twelve pieces move.
+
+LIVING FACE RULE
+
+The eyes, brows and lips are alive and move with natural human facial mimicry: real eyelid blinks with lashes, eyeballs that look around, brows that lift and knit with soft skin creases, lips that part, tremble, press and tense with natural fullness. Only the surface around these features moves, like real skin; the outer edges of every piece stay rigid porcelain and never bend or stretch. Each piece animates only its own feature: the eyes and brows on pieces 1 and 2, the lips and nostrils on piece 3.
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+First frame: only the olive-grey tiled floor seen from directly above, the cross of grout lines near frame centre, the dark stain near the top edge. Nothing else is in frame: no mask, no pieces, no hands. This empty opening is intentional.
+
+The mask lands face-up near the grout cross. Later the POV person's hands enter from the bottom-left and bottom-right edges of frame, as their own arms reaching forward and down.
+
+OPTICS
+
+84° diagonal field of view, natural wide phone-camera POV character, rectilinear, no distortion. Deep focus: tiles, pieces and hands all sharp. Lens locked for the whole shot; no zoom at any time.
+
+CAMERA
+
+Handheld POV from the person's eyes, looking straight down at the floor. 0.0-2.4s: they stand, camera about 1.4 m above the tiles, with gentle natural breathing sway; all twelve scattered pieces are in frame. 2.4-3.2s: as the hands reach in, the person leans forward and down over the pieces, and the handheld camera physically pushes in to about 1.0 m above the tiles, settling into the framing of the reference image. This push-in is the person's own body movement, not a zoom. 3.2-8.0s: the camera stays at that height with only subtle organic handheld micro-movement in rhythm with the hands' work. No zoom, no dolly, no pan, no whip, no stabilised glide, no frame rotation.
+
+ACTION TIMING
+
+0.0-0.8s: Empty olive tiles, still and quiet, gentle handheld sway.
+
+0.8-1.2s: The intact mask drops fast into frame from the top edge, face-up, with a frightened expression: eyes wide open, brows raised high and drawn together, lips parted in a gasp.
+
+1.2-2.4s: It strikes the tiles and breaks into the twelve pieces, which scatter chaotically, skidding and spinning across the tiles and grout lines. The two eye pieces fly far apart to opposite sides: the right eye piece ends near the upper-left of frame, the left eye piece near the lower-right. The central nose-and-lips piece spins as it slides and stops rotated about 130°, the mouth upside-down. The other pieces land scattered in all directions; all are still by 2.4s. On the separate pieces the face stays frightened: the eyes dart around, the brows twitch upward, the lips tremble.
+
+2.4-3.2s: Both hands enter from the bottom-left and bottom-right of frame as the camera pushes in. The eyes on both pieces turn toward the approaching fingers.
+
+3.2-6.2s: The hands reassemble the face, always sliding pieces flat along the tiles, and every touch draws a reaction. The right hand slides the central nose-and-lips piece to the centre and rotates it upright under its fingertips; as the fingers touch it, the lips press tightly together and tense. The left hand drags the left eye piece in from the lower-right; at the touch of the nails the eye blinks and the brow presses down and inward. The right hand drags the right eye piece in from the upper-left; the eye squeezes shut for a moment, then opens, and the brow knits. The two cheek pieces are nudged into place on the left and the seven small shards are pushed into a loose ring around the edges of the face.
+
+6.2-8.0s: All twelve pieces form one whole face with thin visible cracks. The hands rest beside it: the left hand with its long nails near the left eye, the right hand with fingertips along the jaw at the right. The face turns sad with natural human mimicry: the inner brows lift and draw together, the eyes become glossy and slightly narrowed, the corners of the lips pull down and the lower lip trembles. A single tear wells up in the right eye, spills over the lower lashes and rolls slowly down the blushed cheek, stopping at the crack line. Hold.
+
+PHYSICS
+
+The mask has real porcelain weight: a fast fall with gravity acceleration, hard impact, sharp brittle fracture into the twelve pieces, each piece bouncing slightly and sliding with friction, spinning pieces slowing gradually before stopping. Grout lines catch and deflect sliding pieces. During assembly, pieces scrape and click against the tiles; nails tap the porcelain; fingers press down with slight skin compression and visible knuckle tendons; rotating pieces pivot under a fingertip on the tile surface. Rings stay fixed on their fingers. The tear is a small clear liquid drop with a wet glint, moving slowly with gravity and leaving a faint wet trail.
+
+LIGHTING
+
+Flat, soft, overcast daylight from above, matching the reference: no hard shadows, faint soft contact shadows under pieces and fingers, slight specular sheen on the glossy lips, the moist eyes, the tear and the rings. Lighting stays identical for the whole shot.
+
+AUDIO
+
+Faint room tone and soft breathing of the POV person. A sharp porcelain crash at 1.2s, then the clatter and skitter of pieces sliding and spinning across tiles. During assembly: dry scraping of porcelain on tile, small clicks of pieces meeting, light taps of long nails on porcelain, a faint clink of a ring. Near the end, near silence. No music, no voices.
+
+STYLE
+
+Photorealistic gothic surreal film, intimate POV realism. Colour grade locked from first to last frame exactly as in the reference: muted olive and khaki tiles, pale cool porcelain white, deep black makeup, muted pink blush, dark burgundy lips, soft desaturated contrast. The grade does not shift, brighten or warm at any point.
+
+QUALITY
+
+Sharp clarity, natural colours, stable exposure, readable facial expressions on every feature piece. Natural 180-degree shutter motion cadence: the falling mask and flying pieces carry brief directional motion blur, then resolve into sharp readable pieces as they settle; hands moving pieces show slight blur only on fast moves. No ghosting, no flicker, no frame-skipping stutter, no morphing, melting or splitting of pieces.
+
+POSITIVE CONSTRAINTS
+
+One continuous take with no cuts.  The opening shows only empty tiles. The mask breaks into exactly twelve pieces, and the same twelve pieces are the only objects that move from the break to the final frame. The eyes, brows and lips move with natural human mimicry while the piece edges stay rigid. Exactly two hands appear, both belonging to the POV person, entering from the bottom of frame, each with five fingers, long ombre stiletto nails and the rings from the reference. The only camera movement is natural handheld POV motion, including the push-in made by the person leaning closer; the lens never zooms. The colour grade stays constant throughout.
+
+See all
+Copy prompt
+Recreate

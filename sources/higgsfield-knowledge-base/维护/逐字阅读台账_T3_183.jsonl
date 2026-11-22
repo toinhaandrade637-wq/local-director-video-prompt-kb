@@ -1,0 +1,475 @@
+{"idx":1,"len":22747,"model":"default","sha8":"4474776e","findings":"**ABSOLUTE VISUAL REFERENCE AND EXACT STARTING FRAME 段头首例**（This is the FINAL REVELATION SCENE and the ACTUAL ENDING of the film.The sequence must feel emotionally conclusive——**终幕三连声明**）22747c ×4"}
+{"idx":2,"len":17174,"model":"default","sha8":"935279f1","findings":"代码块栅栏+裸 UUID 群板（``` 开头+五 UUID 连排——**代码栅栏包裹制**）"}
+{"idx":3,"len":30,"model":"null","sha8":"b83308a7","findings":"**11c 超短修正**（no moustache on the middle one——**胡子单点修正**，×2）"}
+{"idx":4,"len":17081,"model":"default","sha8":"5cb0443f","findings":"@image_1 段头+**前代纠错声明首例**（The previous generation was incorrect:DO NOT invent a generic hallway——**前代错误点名+禁止发明**）17081c"}
+{"idx":5,"len":13813,"model":"default","sha8":"7437e961","findings":"```text id=\"1qkvt3\" 代码块 ID 属性版（**栅栏+id 属性**）"}
+{"idx":6,"len":2479,"model":"null","sha8":"65df3927","findings":"**唯一改动+酱汁修正板**（The ONLY requested change is to add slightly more thick red FOOD SAUCE——**ONLY requested change+酱料加量**，×4）"}
+{"idx":7,"len":2479,"model":"null","sha8":"65df3927","findings":"同文重生成（首现行6）"}
+{"idx":8,"len":2479,"model":"null","sha8":"65df3927","findings":"同文重生成（首现行6）"}
+{"idx":9,"len":2479,"model":"null","sha8":"65df3927","findings":"同文重生成（首现行6）"}
+{"idx":10,"len":1518,"model":"null","sha8":"3f0baaa7","findings":"五禁修脸声明（#180 同族复现）"}
+{"idx":11,"len":2895,"model":"default","sha8":"c8c36cb2","findings":"双车双贼街景板（is the exact reference for the two vehicles side by side——多元素一图绑定）"}
+{"idx":12,"len":3999,"model":"null","sha8":"98e3551a","findings":"五参考分工板（villa/police car/van/heavy older policeman——**车辆+警员分工**）"}
+{"idx":13,"len":8117,"model":"default","sha8":"689411aa","findings":"**六同精确复刻声明首例**（the same camera position, the same framing, the same 12mm fisheye lens, the same lighting, the same seating. Reproduce that composition exactly——**12mm 鱼眼+六同复刻**）"}
+{"idx":14,"len":3465,"model":"seedance_2_0","sha8":"ef711edd","findings":"**首尾帧烟转场桥接首例**（<<<image_1>>> is the exact first frame of this shot. <<<image_2>>> is the exact last frame…This is a smoke transition b[ridge]——**烟转场桥接**，seedance_2_0）"}
+{"idx":15,"len":8091,"model":"default","sha8":"4ad90801","findings":"六同复刻 8091c 版"}
+{"idx":16,"len":3277,"model":"null","sha8":"4fabda8a","findings":"BOBI/CIPRIAN 绑定板（<<<image_1>>> is BOBI. <<<image_2>>> is CIPRIAN——**名字=图号绑定**）"}
+{"idx":17,"len":8848,"model":"default","sha8":"6c134ceb","findings":"**裸 UUID 主语板首例**（<<<uuid>>> is the thin man, <<<uuid>>> is the plump young man with strawberry blond curls——**UUID 直接作主语+描述跟随**）8848c"}
+{"idx":18,"len":3001,"model":"default","sha8":"61f2139e","findings":"厨房女主人板（chopping an onion on the wooden board——切洋葱开场）"}
+{"idx":19,"len":3022,"model":"default","sha8":"87df4f86","findings":"厨房切洋葱 8s 3022c（对行18 变体）"}
+{"idx":20,"len":7187,"model":"default","sha8":"60c47604","findings":"烟+持烟手起帧板 7187c"}
+{"idx":21,"len":3950,"model":"null","sha8":"aac4cb40","findings":"**黑猫三特征板**（reproduce this exact cat, the same black fur, the same white chest bib——**黑毛+白胸 bib+琥珀眼三件**；引用头空缺——**引用丢失变体**；行23 pro 模型同文）"}
+{"idx":22,"len":3804,"model":"null","sha8":"07a90512","findings":"黑猫板（<<<image_1>>> smoke/<<<image_2>>> cat——烟猫双参考）"}
+{"idx":23,"len":3950,"model":"pro","sha8":"aac4cb40","findings":"同文重生成（首现行21）"}
+{"idx":24,"len":4031,"model":"null","sha8":"2ed6ddd2","findings":"黑猫板 4031c"}
+{"idx":25,"len":22747,"model":"default","sha8":"4474776e","findings":"同文重生成（首现行1）"}
+{"idx":26,"len":30,"model":"null","sha8":"b83308a7","findings":"同文重生成（首现行3）"}
+{"idx":27,"len":17093,"model":"default","sha8":"f0b17b51","findings":"ABSOLUTE STARTING VISUAL REFERENCE 变体段头 17093c"}
+{"idx":28,"len":17081,"model":"default","sha8":"5cb0443f","findings":"同文重生成（首现行4）"}
+{"idx":29,"len":14092,"model":"default","sha8":"63c9bb33","findings":"@bobi-slippers/@ciprian-slippers 拖鞋标签板（```text id=\"1qkvt3\"——**@角色-拖鞋标签**）14092c"}
+{"idx":30,"len":2479,"model":"null","sha8":"65df3927","findings":"同文重生成（首现行6）"}
+{"idx":31,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":32,"len":879,"model":"default","sha8":"76a85709","findings":"35mm retro pastel 厨房板（retro pastel aesthetics——复古粉彩）"}
+{"idx":33,"len":3210,"model":"null","sha8":"b6e3f966","findings":"villa+BOBI 绑定板（dark green front door, cream portico columns, lilac walls——**墨绿门+奶油柱+丁香墙三色**）"}
+{"idx":34,"len":7369,"model":"default","sha8":"8430f50c","findings":"双车板 7369c"}
+{"idx":35,"len":3465,"model":"seedance_2_0","sha8":"ef711edd","findings":"同文重生成（首现行14）"}
+{"idx":36,"len":3465,"model":"default","sha8":"ef711edd","findings":"同文重生成（首现行14）"}
+{"idx":37,"len":8075,"model":"default","sha8":"f2935b7a","findings":"六同复刻 8075c"}
+{"idx":38,"len":3277,"model":"null","sha8":"4fabda8a","findings":"同文重生成（首现行16）"}
+{"idx":39,"len":3163,"model":"null","sha8":"8d983684","findings":"裸 UUID 3163c"}
+{"idx":40,"len":8073,"model":"default","sha8":"c38c2ab6","findings":"裸 UUID 8073c"}
+{"idx":41,"len":7254,"model":"default","sha8":"8aec830c","findings":"烟手板 7254c"}
+{"idx":42,"len":5794,"model":"default","sha8":"431df57e","findings":"烟手板 5794c"}
+{"idx":43,"len":5727,"model":"seedance_2_0","sha8":"4447d8f6","findings":"烟手板 seedance 5727c（引用丢失版）"}
+{"idx":44,"len":3804,"model":"null","sha8":"07a90512","findings":"同文重生成（首现行22）"}
+{"idx":45,"len":3205,"model":"null","sha8":"79fa1f59","findings":"黑猫板 3205c"}
+{"idx":46,"len":3938,"model":"default","sha8":"d5f6a945","findings":"REFERENCES: 黑猫琥珀眼+门缝复刻（REFERENCES: 段头+Door reference = exact same partially-open door…same angle, same gap width——**门缝复刻**）"}
+{"idx":47,"len":2680,"model":"default","sha8":"1c735651","findings":"**厨房三不重建声明首例**（This kitchen already exists. Do not redesign it, do not rebuild it, do not invent anything——**已存在+三不重建**）"}
+{"idx":48,"len":3419,"model":"seedance_2_0","sha8":"f9f76175","findings":"厨房复刻 seedance 3419c"}
+{"idx":49,"len":51,"model":"null","sha8":"66e76112","findings":"**51c 超短修正**（no moustache on the middle man with red on the face——胡子+红脸双点）"}
+{"idx":50,"len":22747,"model":"default","sha8":"4474776e","findings":"同文重生成（首现行1）"}
+{"idx":51,"len":22747,"model":"default","sha8":"4474776e","findings":"同文重生成（首现行1）"}
+{"idx":52,"len":11612,"model":"default","sha8":"21b6fbd2","findings":"@image_1 EXACT 板 11612c（FINAL-SCENE sequence focused ONLY on @bobi-slippers,@ciprian-slippers——**ONLY 三角色限定**）"}
+{"idx":53,"len":1662,"model":"default","sha8":"6578ea7f","findings":"**Prompt: 前缀板**（Prompt: A masterwork 4-second continuous cinematic shot bridging…——**Prompt 自指前缀**）"}
+{"idx":54,"len":3199,"model":"null","sha8":"373aa696","findings":"五参考门前板（round gold doorknob——**圆金门把手**）"}
+{"idx":55,"len":6998,"model":"default","sha8":"ee958ddf","findings":"双车板 6998c"}
+{"idx":56,"len":8117,"model":"default","sha8":"689411aa","findings":"同文重生成（首现行13）"}
+{"idx":57,"len":3465,"model":"seedance_2_0","sha8":"ef711edd","findings":"同文重生成（首现行14）"}
+{"idx":58,"len":3277,"model":"null","sha8":"4fabda8a","findings":"同文重生成（首现行16）"}
+{"idx":59,"len":3277,"model":"null","sha8":"4fabda8a","findings":"同文重生成（首现行16）"}
+{"idx":60,"len":3163,"model":"null","sha8":"8d983684","findings":"同文重生成（首现行39）"}
+{"idx":61,"len":4918,"model":"default","sha8":"9b83d4cc","findings":"**指尖美甲专项参考首例**（<<<image_1>>> is the exact reference for her fingernails——**指甲独立参考**）4918c"}
+{"idx":62,"len":9886,"model":"default","sha8":"edfdb46b","findings":"裸 UUID 五连板 9886c"}
+{"idx":63,"len":3950,"model":"null","sha8":"aac4cb40","findings":"同文重生成（首现行21）"}
+{"idx":64,"len":3804,"model":"videotape-alpha","sha8":"07a90512","findings":"同文重生成（首现行22）"}
+{"idx":65,"len":3022,"model":"seedance_2_0","sha8":"87df4f86","findings":"同文重生成（首现行19）"}
+{"idx":66,"len":4040,"model":"default","sha8":"b94262e5","findings":"美甲板 4040c"}
+{"idx":67,"len":4657,"model":"default","sha8":"d3567595","findings":"**【元素引用】中文段头首例**（【元素引用】 <<<uuid>>> 为女主角，<<<uuid>>> 为身穿浅稻黄色西装的男人——**中文标签段头+浅稻黄色西装**）4657c"}
+{"idx":68,"len":3569,"model":"default","sha8":"838abeaf","findings":"厨房 4s 3569c ×3 首现"}
+{"idx":69,"len":3425,"model":"default","sha8":"4cfb139f","findings":"厨房 4s 3425c"}
+{"idx":70,"len":3041,"model":"default","sha8":"64c1148e","findings":"厨房 4s 3041c"}
+{"idx":71,"len":4835,"model":"null","sha8":"e724400e","findings":"**90 度正面直击空景首例**（Photorealistic wide shot of a large charming 1960s villa kitchen at night, no people, perfectly flat frontal composition, camera dead-on at 90 degrees to the back wall, everything parallel to the frame——**charming 版+直击 90 度**）"}
+{"idx":72,"len":4177,"model":"null","sha8":"4db7ec9b","findings":"90 度空景 4177c（对行71 变体）"}
+{"idx":73,"len":1928,"model":"null","sha8":"3f6a3f70","findings":"**七同保持声明**（the same face, the same eyes, the same nose, the same mouth, the same eyebrows, the same makeup, the same hair colou[r]——**五官七同列举**）"}
+{"idx":74,"len":5191,"model":"default","sha8":"3f0fe7bd","findings":"厨房 8s 5191c"}
+{"idx":75,"len":13103,"model":"default","sha8":"fd30fad6","findings":"裸 UUID 大板 13103c ×2"}
+{"idx":76,"len":6607,"model":"default","sha8":"f565bad7","findings":"**美甲三同声明**（glossy vivid magenta pink polish, the same saturated hot pink tone, the same high s[hine]——**甲油三同：光泽/色调/高光**）"}
+{"idx":77,"len":9422,"model":"default","sha8":"6ca35d6f","findings":"美甲板 9422c 首现（**甲油三同大板族**）"}
+{"idx":78,"len":9493,"model":"default","sha8":"765a5a39","findings":"**IMPORTANT! !!!!!! 多级感叹强调首例**（@adriana-kitchen…IMPORTANT! …the white polka dot apron with pink dots…!!!!!!! VERY IMPORTANT! THE ZIG——**波点围裙+三重感叹**）"}
+{"idx":79,"len":4944,"model":"default","sha8":"2d32aeaa","findings":"厨房 9s 4944c"}
+{"idx":80,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":81,"len":7893,"model":"default","sha8":"1a81f255","findings":"裸 UUID 7893c"}
+{"idx":82,"len":3029,"model":"null","sha8":"924b68fc","findings":"**七同房间复刻板**（Keep the room absolutely identical…in every structural respect——**结构全同**）"}
+{"idx":83,"len":12389,"model":"default","sha8":"baa738f1","findings":"裸 UUID 12389c"}
+{"idx":84,"len":4563,"model":"null","sha8":"096df0a6","findings":"**双参考分工声明**（<<<image_1>>> is the wide reference of this room. <<<image_2>>> is the reference for the dining table and everything on it——**宽景/餐桌分工**）"}
+{"idx":85,"len":4646,"model":"null","sha8":"8cce4a08","findings":"8-10s @livingroomdoor 板 5485c（preserve its recognizable architecture and spatial orientation——**可识别建筑保持**）"}
+{"idx":86,"len":4646,"model":"null","sha8":"8cce4a08","findings":"同文重生成（首现行85）"}
+{"idx":87,"len":3449,"model":"null","sha8":"2a8fc238","findings":"opulent 90 度空景（**opulent 版**——charming↔opulent 两版实录）"}
+{"idx":88,"len":10463,"model":"default","sha8":"73e474fb","findings":"裸 UUID 10463c"}
+{"idx":89,"len":12856,"model":"default","sha8":"b74da8c2","findings":"裸 UUID 12856c"}
+{"idx":90,"len":3096,"model":"null","sha8":"b2c5071a","findings":"房间复刻+listing 版（same lilac walls, same ivory cream panelling and mouldings, same coffered ceiling, same pink velvet drapes——**丁香墙+象牙板+格顶+粉绒帘四件**）"}
+{"idx":91,"len":2249,"model":"null","sha8":"d83bbf39","findings":"房间保持 2249c ×4 首现"}
+{"idx":92,"len":3463,"model":"null","sha8":"e55b3fc6","findings":"opulent 空景 3463c"}
+{"idx":93,"len":8434,"model":"default","sha8":"9152b73b","findings":"裸 UUID 8434c 20s"}
+{"idx":94,"len":2265,"model":"null","sha8":"13fd2fe1","findings":"房间保持 2265c"}
+{"idx":95,"len":3096,"model":"null","sha8":"b2c5071a","findings":"同文重生成（首现行90）"}
+{"idx":96,"len":1842,"model":"null","sha8":"e030152a","findings":"房间保持 1842c"}
+{"idx":97,"len":6700,"model":"default","sha8":"4cad7ff8","findings":"裸 UUID 15s 6700c"}
+{"idx":98,"len":1711,"model":"null","sha8":"d9856b29","findings":"房间保持 1711c"}
+{"idx":99,"len":3346,"model":"null","sha8":"6d1e6791","findings":"**楼层平面可读声明**（elevated camera looking down into the room, the whole floor plan readable——**高角俯瞰平面可读**）"}
+{"idx":100,"len":9503,"model":"default","sha8":"54e01e2f","findings":"IMPORTANT 波点围裙 9503c ×2 首现"}
+{"idx":101,"len":3780,"model":"null","sha8":"e0e9ed4f","findings":"living+dining 空景 3780c"}
+{"idx":102,"len":9678,"model":"default","sha8":"b1012cdb","findings":"IMPORTANT 波点 9678c ×2 首现"}
+{"idx":103,"len":4304,"model":"seedance_2_0","sha8":"d7aa97ad","findings":"begonia 板 seedance 4304c（**海棠粉裙命名**；105 default 同文；168 同文）"}
+{"idx":104,"len":1976,"model":"null","sha8":"62401363","findings":"**base image 保持板**（the same woman, the same face, the same hair, the same makeup, the same expression, the same pose——**六同保持**）1976c"}
+{"idx":105,"len":4304,"model":"default","sha8":"9351680c","findings":"begonia 板 default 4304c"}
+{"idx":106,"len":3305,"model":"null","sha8":"d2ea0ebe","findings":"**ADRIANA 2x2 角色表首例**（Photorealistic character sheet, single image, 2x2 grid…ADRIANA — 32-year-old woman——**名字—年龄破折开场**）"}
+{"idx":107,"len":3694,"model":"null","sha8":"42489e80","findings":"BOBI 角色表（short and plump, soft rounded）"}
+{"idx":108,"len":3376,"model":"null","sha8":"2c28b0d9","findings":"villa 街景空景（three quarter angle from across the road）"}
+{"idx":109,"len":9461,"model":"default","sha8":"a416d509","findings":"美甲+双参考板 9461c"}
+{"idx":110,"len":3382,"model":"null","sha8":"be233fe7","findings":"**制服复刻板**（Policeman two wears the exact same police uniform as the man in <<<image_1>>>: the same navy blue wool tunic with the same brass buttons in the same arr[angement]——**制服四同**）"}
+{"idx":111,"len":2717,"model":"null","sha8":"b2de5d36","findings":"POLICEMAN ONE 角色表（55-year-old, short and heavy set）"}
+{"idx":112,"len":2816,"model":"null","sha8":"dd2cca86","findings":"餐桌/房间双参考 2816c ×3 首现"}
+{"idx":113,"len":2816,"model":"null","sha8":"dd2cca86","findings":"同文重生成（首现行112）"}
+{"idx":114,"len":3464,"model":"default","sha8":"3f5e4a75","findings":"**@标签五件套板**（@adriana1/@doru1/@ciprian/@bobi/@livingroom——**人物+场景全标签化**）3464c"}
+{"idx":115,"len":6168,"model":"default","sha8":"92dd47a8","findings":"美甲板 6168c ×2 首现"}
+{"idx":116,"len":2826,"model":"null","sha8":"5f6ae3c6","findings":"DORU 角色表（48-year-old, medium height, lean and wiry）"}
+{"idx":117,"len":22711,"model":"default","sha8":"fd2f60f9","findings":"ABSOLUTE 板 22711c（对行1 变体）"}
+{"idx":118,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":119,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":120,"len":5781,"model":"default","sha8":"2e5f0f10","findings":"**无拥抱截断式结尾声明首例**（Create ONLY this short cinematic moment…No hug.No interaction after his approach.The clip must END while he is beginning to walk——**ONLY+无互动+截断结尾三连**）"}
+{"idx":121,"len":22934,"model":"default","sha8":"72be5fff","findings":"ABSOLUTE 板 22934c"}
+{"idx":122,"len":33190,"model":"default","sha8":"0eeac21e","findings":"**ABSOLUTE MASTER REFERENCE 四项母版**（room geometry, architecture, furniture placemen[t]——**母版参考四项列举**）33190c ×2 首现"}
+{"idx":123,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":124,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":125,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":126,"len":33190,"model":"default","sha8":"0eeac21e","findings":"同文重生成（首现行122）"}
+{"idx":127,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":128,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":129,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":130,"len":22196,"model":"default","sha8":"d033ca92","findings":"裸 UUID 群板 22196c"}
+{"idx":131,"len":3140,"model":"default","sha8":"a7587149","findings":"REFERENCES: 黑猫 3140c"}
+{"idx":132,"len":3569,"model":"seedance_2_0","sha8":"838abeaf","findings":"同文重生成（首现行68）"}
+{"idx":133,"len":3419,"model":"default","sha8":"f9f76175","findings":"同文重生成（首现行48）"}
+{"idx":134,"len":3014,"model":"null","sha8":"a3a2bb14","findings":"厨房复刻 3014c（cool light pink tiles with the blue and yellow paint——**粉砖蓝黄绘边**）"}
+{"idx":135,"len":4709,"model":"null","sha8":"0c9b9f88","findings":"charming 空景 4709c"}
+{"idx":136,"len":2233,"model":"null","sha8":"6217bbf5","findings":"厨房保持 2233c"}
+{"idx":137,"len":2164,"model":"default","sha8":"db10be63","findings":"厨房 93396d76 位置 2164c"}
+{"idx":138,"len":4657,"model":"default","sha8":"d3567595","findings":"同文重生成（首现行67）"}
+{"idx":139,"len":9426,"model":"default","sha8":"adf07ff3","findings":"美甲板 9426c ×2 首现"}
+{"idx":140,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":141,"len":9420,"model":"default","sha8":"b21cf423","findings":"美甲板 9420c"}
+{"idx":142,"len":13103,"model":"default","sha8":"fd30fad6","findings":"同文重生成（首现行75）"}
+{"idx":143,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":144,"len":5463,"model":"default","sha8":"5fa7c977","findings":"厨房 6s 5463c"}
+{"idx":145,"len":12598,"model":"default","sha8":"78a97dcd","findings":"裸 UUID 12598c"}
+{"idx":146,"len":3817,"model":"null","sha8":"92c839cc","findings":"**双 UUID 分工板**（<<<uuid>>> is the reference for the overall room layout and the position of the furniture. <<<uuid>>> is the reference for the walls——**布局/墙面分工**）"}
+{"idx":147,"len":12405,"model":"default","sha8":"0d7b45df","findings":"裸 UUID 12405c"}
+{"idx":148,"len":4646,"model":"null","sha8":"8cce4a08","findings":"同文重生成（首现行85）"}
+{"idx":149,"len":4563,"model":"null","sha8":"096df0a6","findings":"同文重生成（首现行84）"}
+{"idx":150,"len":4563,"model":"null","sha8":"096df0a6","findings":"同文重生成（首现行84）"}
+{"idx":151,"len":4638,"model":"null","sha8":"2bd451b6","findings":"房间复刻 4638c（gold trim）"}
+{"idx":152,"len":3385,"model":"null","sha8":"aa7ffd2f","findings":"opulent 3385c"}
+{"idx":153,"len":4595,"model":"null","sha8":"ab8c7dbb","findings":"房间复刻 4595c ×2 首现"}
+{"idx":154,"len":2249,"model":"null","sha8":"d83bbf39","findings":"同文重生成（首现行91）"}
+{"idx":155,"len":2249,"model":"null","sha8":"d83bbf39","findings":"同文重生成（首现行91）"}
+{"idx":156,"len":2249,"model":"null","sha8":"d83bbf39","findings":"同文重生成（首现行91）"}
+{"idx":157,"len":4595,"model":"null","sha8":"ab8c7dbb","findings":"同文重生成（首现行153）"}
+{"idx":158,"len":3858,"model":"null","sha8":"9121071b","findings":"charming 3858c"}
+{"idx":159,"len":2315,"model":"null","sha8":"a7fb11a5","findings":"房间保持 2315c ×2 首现"}
+{"idx":160,"len":2051,"model":"null","sha8":"8622b28e","findings":"房间保持 2051c"}
+{"idx":161,"len":1844,"model":"null","sha8":"90c6d36c","findings":"房间保持 1844c"}
+{"idx":162,"len":3706,"model":"null","sha8":"611fa699","findings":"living+dining 3706c"}
+{"idx":163,"len":1699,"model":"null","sha8":"f6f87c81","findings":"房间保持 1699c"}
+{"idx":164,"len":9678,"model":"default","sha8":"b1012cdb","findings":"同文重生成（首现行102）"}
+{"idx":165,"len":3917,"model":"null","sha8":"292ca8cd","findings":"living+dining 3917c"}
+{"idx":166,"len":3689,"model":"null","sha8":"2a3929ae","findings":"房间七同 3689c"}
+{"idx":167,"len":2216,"model":"null","sha8":"670bbf40","findings":"**Location & lighting: 段头**（dusty lilac room with heavy green curtains, two red glowing table lamps, gilded frames——**尘丁香房+绿帘+红灯对+鎏金框**）"}
+{"idx":168,"len":4304,"model":"default","sha8":"d7aa97ad","findings":"同文重生成（首现行103）"}
+{"idx":169,"len":2224,"model":"null","sha8":"eb0a2d19","findings":"base image 保持 2224c"}
+{"idx":170,"len":167,"model":"null","sha8":"3417b0f2","findings":"**change only the+the the 笔误首例**（change only the <<<image_1>>> put the the white polka dot apron——**the the 双写**）167c"}
+{"idx":171,"len":9498,"model":"default","sha8":"67db192a","findings":"@adriana-kitchen 波点板 9498c"}
+{"idx":172,"len":3530,"model":"null","sha8":"b22b6802","findings":"CIPRIAN 角色表（tall, thin and sinewy, narr[ow]）"}
+{"idx":173,"len":2711,"model":"null","sha8":"f6a31528","findings":"DORU 表 2711c"}
+{"idx":174,"len":2833,"model":"null","sha8":"b9e568be","findings":"**vehicle reference sheet 车辆表**（parked on a seamless neutral mid grey surface——**中性灰底车辆表**）"}
+{"idx":175,"len":2095,"model":"null","sha8":"1abfedbe","findings":"**holdall bag 行李袋产品表**"}
+{"idx":176,"len":2374,"model":"null","sha8":"14ad0a56","findings":"**house slippers 拖鞋产品表**（two different pairs——**两双拖鞋同表**）"}
+{"idx":177,"len":2816,"model":"null","sha8":"dd2cca86","findings":"同文重生成（首现行112）"}
+{"idx":178,"len":22711,"model":"default","sha8":"fd2f60f9","findings":"同文重生成（首现行117）"}
+{"idx":179,"len":3160,"model":"null","sha8":"3cf262f5","findings":"ADRIANA 表 3160c"}
+{"idx":180,"len":525,"model":"null","sha8":"afda1c67","findings":"**525c 引用丢失七同板**（is the exact reference photograph of this room…Nothing added, removed, re[tained]——**引用头丢失+七同+三不**）"}
+{"idx":181,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":182,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":183,"len":14094,"model":"default","sha8":"1fc0d739","findings":"**CRITICAL CONTINUITY RULE 视频续接源声明首例**（START DIRECTLY FROM THE EXACT FINAL MOMENT / FINAL SEQUENCE OF <<<video_1>>>. <<<video_1>>> is the ABSOLUTE CONTINUITY SOURCE——**续接源三连**）14094c"}
+{"idx":184,"len":14081,"model":"default","sha8":"b974140c","findings":"CRITICAL CONTINUITY 14081c（无栅栏版——对行183）"}
+{"idx":185,"len":33190,"model":"default","sha8":"0eeac21e","findings":"同文重生成（首现行122）"}
+{"idx":186,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":187,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":188,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":189,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":190,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":191,"len":25002,"model":"default","sha8":"47d276af","findings":"climax 25002c（EXACT STARTING FRAME and ABSOLUTE MASTER REFERENCE for room geometry, character positions, architecture, furniture and spatial [layout]——**五项母版**）"}
+{"idx":192,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":193,"len":22362,"model":"default","sha8":"8ac7e2fb","findings":"**四母版声明首例**（EXACT STARTING FRAME, MASTER SPATIAL REFERENCE, MASTER LIGHTING REFERENCE and MASTER CHARACTER-POSITION REFERENCE——**起帧/空间/光/人位四母版**）22362c"}
+{"idx":194,"len":10733,"model":"default","sha8":"3bbf5233","findings":"**双机位母版首例**（TWO ABSOLUTE SPATIAL REFERENCE IMAGES: @image_1 = MASTER REFERENCE for the camera direction looking toward @doru1. @image_2 = MASTER REFERENCE for the EXACT R[everse angle]——**正反双机位母版**；366 同文）"}
+{"idx":195,"len":3569,"model":"default","sha8":"838abeaf","findings":"同文重生成（首现行68）"}
+{"idx":196,"len":4657,"model":"default","sha8":"d3567595","findings":"同文重生成（首现行67）"}
+{"idx":197,"len":3014,"model":"null","sha8":"a3a2bb14","findings":"同文重生成（首现行134）"}
+{"idx":198,"len":2687,"model":"default","sha8":"cdd5b903","findings":"厨房三不重建 2687c"}
+{"idx":199,"len":4740,"model":"null","sha8":"22d11fc3","findings":"charming 4740c"}
+{"idx":200,"len":4403,"model":"null","sha8":"04686c13","findings":"charming 4403c"}
+{"idx":201,"len":11886,"model":"default","sha8":"bc139fb1","findings":"@标签美甲板 11886c（@adriana-kitchen/@doru1/@cat/@kitchen3/@image_1——**五标签+美甲**）"}
+{"idx":202,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":203,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":204,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":205,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":206,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":207,"len":3029,"model":"null","sha8":"924b68fc","findings":"同文重生成（首现行82）"}
+{"idx":208,"len":3197,"model":"null","sha8":"bd8fed6d","findings":"**三 UUID 分工板**（dining table/room/walls——三参考三分工）"}
+{"idx":209,"len":4646,"model":"null","sha8":"8cce4a08","findings":"同文重生成（首现行85）"}
+{"idx":210,"len":2382,"model":"null","sha8":"97f95d21","findings":"房间保持 2382c"}
+{"idx":211,"len":4646,"model":"null","sha8":"8cce4a08","findings":"同文重生成（首现行85）"}
+{"idx":212,"len":4563,"model":"null","sha8":"096df0a6","findings":"同文重生成（首现行84）"}
+{"idx":213,"len":10463,"model":"default","sha8":"73e474fb","findings":"同文重生成（首现行88）"}
+{"idx":214,"len":2249,"model":"null","sha8":"d83bbf39","findings":"同文重生成（首现行91）"}
+{"idx":215,"len":2249,"model":"null","sha8":"d83bbf39","findings":"同文重生成（首现行91）"}
+{"idx":216,"len":2243,"model":"null","sha8":"a0d16b40","findings":"房间保持 2243c"}
+{"idx":217,"len":2315,"model":"null","sha8":"a7fb11a5","findings":"同文重生成（首现行159）"}
+{"idx":218,"len":3096,"model":"null","sha8":"b2c5071a","findings":"同文重生成（首现行90）"}
+{"idx":219,"len":4638,"model":"null","sha8":"2bd451b6","findings":"同文重生成（首现行151）"}
+{"idx":220,"len":2315,"model":"null","sha8":"a7fb11a5","findings":"同文重生成（首现行159）"}
+{"idx":221,"len":2099,"model":"null","sha8":"853a60df","findings":"房间保持 2099c"}
+{"idx":222,"len":2125,"model":"null","sha8":"3e6084bc","findings":"房间保持 2125c"}
+{"idx":223,"len":3865,"model":"null","sha8":"7983dac4","findings":"living+dining 3865c"}
+{"idx":224,"len":3901,"model":"null","sha8":"96e49f3d","findings":"living+dining 3901c"}
+{"idx":225,"len":9779,"model":"seedance_2_0","sha8":"5d55ad8d","findings":"seedance 波点围裙板 9779c"}
+{"idx":226,"len":3766,"model":"null","sha8":"151c518f","findings":"**两面墙转角声明**（three quarter angle showing two walls meeting at a corner——**转角两面墙**）3766c"}
+{"idx":227,"len":2216,"model":"null","sha8":"670bbf40","findings":"同文重生成（首现行167）"}
+{"idx":228,"len":3455,"model":"seedance_2_0","sha8":"757bb1f4","findings":"begonia seedance 3455c"}
+{"idx":229,"len":208,"model":"null","sha8":"aa563c35","findings":"**修正迭代细句**（change only…and put the the white polka dot apron…but nice and corect on her [body]——**corect 笔误+上轮纠错**）208c"}
+{"idx":230,"len":266,"model":"null","sha8":"36d989ce","findings":"**修正+背景添加**（And behind her put the blue cabin[ets]——修正句内加景）"}
+{"idx":231,"len":2518,"model":"null","sha8":"4d3adca2","findings":"**动物角色表首例**（Photorealistic animal character sheet…A domestic shorthair cat——**猫 2x2 表**）"}
+{"idx":232,"len":8913,"model":"default","sha8":"6828bb0e","findings":"@标签美甲 8913c（the low camera looking up at her from below, her filling the frame——**低角仰拍满幅声明**）"}
+{"idx":233,"len":2491,"model":"null","sha8":"a4873b5b","findings":"van 车辆表 2491c"}
+{"idx":234,"len":9458,"model":"seedance_2_0","sha8":"f086ea45","findings":"美甲 seedance 9458c"}
+{"idx":235,"len":9426,"model":"default","sha8":"adf07ff3","findings":"同文重生成（首现行139）"}
+{"idx":236,"len":2222,"model":"null","sha8":"eae05fde","findings":"**金手枪产品表**（ornate gold pistol——**雕花金手枪**）"}
+{"idx":237,"len":6168,"model":"default","sha8":"92dd47a8","findings":"同文重生成（首现行115）"}
+{"idx":238,"len":3290,"model":"null","sha8":"801ad3bb","findings":"房间保持 3290c（lavender——薰衣草色注记）"}
+{"idx":239,"len":6802,"model":"default","sha8":"6025ae1c","findings":"房间保持 3290c（lavender）"}
+{"idx":240,"len":106,"model":"null","sha8":"3ea35d2f","findings":"**换装匹配窗帘色**（fresh spring green silk satin dress, clear bright yellow-green, exactly matching the green of the curtains——**裙色=窗帘色环境延续**）"}
+{"idx":241,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":242,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":243,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":244,"len":3970,"model":"default","sha8":"9830104a","findings":"**ORIGINAL EXISTING PIANO 钢琴声明**（@bobi-slippers is seated at the ORIGINAL EXISTING PIANO in his established position——**既有钢琴大写声明**）3970c"}
+{"idx":245,"len":33190,"model":"default","sha8":"0eeac21e","findings":"同文重生成（首现行122）"}
+{"idx":246,"len":525,"model":"null","sha8":"afda1c67","findings":"同文重生成（首现行180）"}
+{"idx":247,"len":18555,"model":"default","sha8":"fcf909dd","findings":"@livingroomdoor 20s 续板 18555c ×2 首现（ABSOLUTE FIRST FRAME and the MASTER SPATIAL REFERENCE）"}
+{"idx":248,"len":14092,"model":"default","sha8":"36c8c4f4","findings":"CRITICAL CONTINUITY 14092c ×2 首现"}
+{"idx":249,"len":10378,"model":"default","sha8":"9c138d33","findings":"**钢琴情绪反应板**（his emotional reaction to what has just happened.This moment must NOT feel come[ic]——**情绪不喜剧化声明**）10378c"}
+{"idx":250,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":251,"len":18936,"model":"default","sha8":"07fcd03b","findings":"**27s 面瘫喜剧板首例**（Create a 27-second cinematic black-comedy sequence…The FIRST FRAME must match <<<image_1>>> exactly——**首帧精确匹配**）18936c ×2 首现"}
+{"idx":252,"len":18935,"model":"default","sha8":"e4869c22","findings":"27s 喜剧 18935c（对行251 一字之差独立）"}
+{"idx":253,"len":19473,"model":"default","sha8":"db2d3a42","findings":"23s 喜剧板（establishes the room geography）"}
+{"idx":254,"len":15015,"model":"default","sha8":"65cedf3d","findings":"**面瘫喜剧宣言板首例**（GENRE: Sophisticated deadpan black comedy performed with complete emotional realism. The humor comes from [the situation]——**喜剧来自情境不来自表演宣言**）15015c"}
+{"idx":255,"len":5485,"model":"default","sha8":"f3463929","findings":"8-10s @livingroomdoor 板"}
+{"idx":256,"len":17459,"model":"default","sha8":"f9c668b9","findings":"**EXACT REVERSE-ANGLE SPATIAL REFERENCE 反打母版首例**（@image_2 as the EXACT REVERSE-ANGLE SPATIAL REFERENCE——**反打机位母版**）17459c ×2 首现"}
+{"idx":257,"len":34302,"model":"default","sha8":"d114b2e7","findings":"**30s 面瘫大板 34302c**（The comedy must come entirely from th[e situation]）"}
+{"idx":258,"len":28254,"model":"default","sha8":"7711d6cd","findings":"**28254c 面瘫板**（GENRE AND PERFORMANCE: 段头变体，×3 首现）"}
+{"idx":259,"len":1929,"model":"null","sha8":"22471ebd","findings":"**单点局部编辑声明**（Edit <<<image_1>>> ONLY…preserve it with maximum fidelity…Make ONLY ONE loca[l change]——**单点编辑**）"}
+{"idx":260,"len":25256,"model":"default","sha8":"31b2f5f7","findings":"dinner 25256c"}
+{"idx":261,"len":15655,"model":"default","sha8":"292b1ce8","findings":"dinner 15655c"}
+{"idx":262,"len":28254,"model":"default","sha8":"7711d6cd","findings":"同文重生成（首现行258）"}
+{"idx":263,"len":28254,"model":"default","sha8":"7711d6cd","findings":"同文重生成（首现行258）"}
+{"idx":264,"len":37677,"model":"default","sha8":"3dd64876","findings":"**37677c 全库新最长**（面瘫黑色喜剧 30s 终极版——超 #179 32167c）"}
+{"idx":265,"len":6244,"model":"default","sha8":"b7fb2abd","findings":"**中文场景头首例**（场景 —— 杜鲁下楼迎接\"客人\" 总时长：30 秒——**中文场景名+总时长**）"}
+{"idx":266,"len":1465,"model":"null","sha8":"59014e6f","findings":"**BOBI 保持板**（Keep everything about him identical and unchanged: the same face, the same strawberry blond curly hair——**发卷五同**）1465c ×2 首现"}
+{"idx":267,"len":1465,"model":"null","sha8":"59014e6f","findings":"同文重生成（首现行266）"}
+{"idx":268,"len":82,"model":"null","sha8":"393531b0","findings":"**82c 升清三不声明**（Upscale and enhance clarity without modifying any details, composition, or colors——**升清三不**）"}
+{"idx":269,"len":908,"model":"null","sha8":"c3eb7ac5","findings":"**床前推近重构图**（Reframe the shot slightly forward from the bed perspective——**床视角微推**）"}
+{"idx":270,"len":82,"model":"null","sha8":"393531b0","findings":"同文重生成（首现行268）"}
+{"idx":271,"len":1021,"model":"null","sha8":"167841f9","findings":"**POV 视点转换声明首例**（Preserve the original room layout, camera, lens, framing, symmetry, and geometry. Convert the shot into a first-person point of view from <<<uuid>>>——**保留几何+转 POV**）"}
+{"idx":272,"len":853,"model":"null","sha8":"8f22c2db","findings":"床前推近 853c（对行269 变体）"}
+{"idx":273,"len":1112,"model":"null","sha8":"ca642966","findings":"**猫肩 POV 首例**（over-the-shoulder shot from the exact position of the black cat on the bed…camera placed at cat eye level——**猫眼平猫肩机位**）"}
+{"idx":274,"len":1051,"model":"null","sha8":"b2146879","findings":"人肩 POV 1051c"}
+{"idx":275,"len":4593,"model":"default","sha8":"250a3bb7","findings":"**场景 —— 熊先生脱鞋 中文板首例**（**\"熊先生\"绰号命名戴纸板熊面具贼+脱鞋礼仪场景**——走廊→客厅门口）4593c"}
+{"idx":276,"len":530,"model":"null","sha8":"7d208bf8","findings":"525c 七同板 530c（对行180 变体）"}
+{"idx":277,"len":3248,"model":"default","sha8":"d8868e6e","findings":"**三图桥接板**（first frame+last frame+女人+厨房四图桥接）3248c"}
+{"idx":278,"len":4106,"model":"default","sha8":"e19c6090","findings":"熊先生 4106c（<<<image_3>>> 走廊参考——对行275 无图号版）"}
+{"idx":279,"len":587,"model":"videotape-alpha","sha8":"eaa60d8b","findings":"**海报修正+hell 笔误**（the background make it a little hell and pink——**\"a little hell\" 源内笔误**+the man make his expression more villain——**反派表情修正**）"}
+{"idx":280,"len":4570,"model":"default","sha8":"6f148a93","findings":"熊先生 4570c（他们最后走进的客厅——**终点注记**）"}
+{"idx":281,"len":12763,"model":"default","sha8":"5880129f","findings":"**EXTREME MACRO eating montage 极端微距进食蒙太奇首例**（12-second cinematic EXTREME MACRO eating montage…Everyone remains seated in the same established po[sitions]）12763c ×2 首现"}
+{"idx":282,"len":2919,"model":"default","sha8":"e50630f4","findings":"**场景 —— 女主人的邀请 6s 板**（<<<image_1>>> 决定整个画面的光线和颜色——**一图定全光色声明**）"}
+{"idx":283,"len":2553,"model":"default","sha8":"63d88c36","findings":"邀请 6s 2553c"}
+{"idx":284,"len":4019,"model":"default","sha8":"a4a43803","findings":"**场景 —— 拖鞋 12s 板**（三贼走廊→换拖鞋礼仪——**拖鞋礼仪场景**）4019c ×2 首现"}
+{"idx":285,"len":4141,"model":"default","sha8":"1d4443ba","findings":"**SCENE — SLIPPERS 英文版**（TOTAL DURATION: approximately 12 seconds——英文场景头）"}
+{"idx":286,"len":8558,"model":"default","sha8":"658aa63b","findings":"走廊三贼 8558c ×2 首现（in the pink silk dress on the left——**左中右站位声明**）"}
+{"idx":287,"len":592,"model":"null","sha8":"ce4825c2","findings":"525c 七同 592c"}
+{"idx":288,"len":3030,"model":"default","sha8":"ebb903b7","findings":"**低角仰拍双参考板**（<<<image_1>>> and <<<image_2>>> are the exact references for her face, her appearance and the low upward camera angle——**脸/造型/机位三参考**）"}
+{"idx":289,"len":5435,"model":"default","sha8":"010aecc2","findings":"低角双参考 5435c"}
+{"idx":290,"len":3986,"model":"null","sha8":"72dcda94","findings":"dining hall 低角板（camera low at chest height looking slightly up to emphasise——胸高微仰）"}
+{"idx":291,"len":1363,"model":"null","sha8":"1a102b99","findings":"**indie dark-comedy 海报首例**（shot on 35mm film…deep directional shadows, and vintage 1960s color grading, avoiding any commercial makeup advertis[ing]——**商业广告妆禁**）"}
+{"idx":292,"len":1363,"model":"null","sha8":"1a102b99","findings":"同文重生成（首现行291）"}
+{"idx":293,"len":2246,"model":"null","sha8":"1aff0103","findings":"**pastel-pink 海报板**（Left Side Com[position——**左右分区构图**）2246c"}
+{"idx":294,"len":1988,"model":"videotape-alpha","sha8":"27dfebb9","findings":"pastel 海报 videotape 1988c（跨模型）"}
+{"idx":295,"len":1988,"model":"null","sha8":"27dfebb9","findings":"同文重生成（首现行294）"}
+{"idx":296,"len":3146,"model":"null","sha8":"d73b2576","findings":"**卧室 90 度空景**（elegant 1960s master bedroom——×3 首现）"}
+{"idx":297,"len":3131,"model":"null","sha8":"caa48e3d","findings":"卧室空景 3131c（对行296 变体）"}
+{"idx":298,"len":4523,"model":"default","sha8":"2de7dcf8","findings":"**CHARACTER PROFILES & ENVIRONMENT 段头**（Adult male, wearing his original outfit. Highly self-important, arrogant, composed, and theatr[ical]——**性格四词档案**）"}
+{"idx":299,"len":12721,"model":"default","sha8":"7117f8a9","findings":"**美甲 only 限定声明**（<<<image_2>>> is the exact reference for the fingernails of <<<uuid>>> only——**美甲只属一人 only**）12721c ×4 首现"}
+{"idx":300,"len":12334,"model":"default","sha8":"c51e7f2f","findings":"门前美甲 12334c"}
+{"idx":301,"len":12321,"model":"default","sha8":"1190af18","findings":"门前美甲 12321c ×2 首现"}
+{"idx":302,"len":5137,"model":"default","sha8":"36ab6fa4","findings":"**@street 标签板**（@street/@ciprian2/@bobi——@street 场景标签）"}
+{"idx":303,"len":3218,"model":"default","sha8":"3ca68f3d","findings":"**单图全绑定板**（<<<image_1>>> is the reference for the exact positions of the two, the kitchen, the lighting, their costumes and the cat——**一图五绑定**）"}
+{"idx":304,"len":716,"model":"null","sha8":"50213809","findings":"**门把手反射保留板首例**（Keep the exact same brass spherical doorknob…Keep the exact same golden color, scratches, lighting, and the exact same reflection of the person in the cardboard rabbit mask——**黄铜球把手+划痕+纸板面具扭曲反射全保留**）"}
+{"idx":305,"len":720,"model":"null","sha8":"cfdc9a14","findings":"门把手 720c（green door+warped reflection——**扭曲反射措辞**）"}
+{"idx":306,"len":606,"model":"null","sha8":"8d37e86e","findings":"**门前 Keep 全要素板**（two characters, masks, clothes, gold pistol, brown bag, street, fog, and lighting——**八要素 Keep 清单**）"}
+{"idx":307,"len":3563,"model":"default","sha8":"6bc9fcde","findings":"三图桥接 3563c ×2 首现"}
+{"idx":308,"len":18555,"model":"default","sha8":"fcf909dd","findings":"同文重生成（首现行247）"}
+{"idx":309,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":310,"len":2708,"model":"null","sha8":"96d74b4d","findings":"**同机位同房复刻**（Reproduce this exact same room from the exact same elevated high angle camera position——**机位也同**）"}
+{"idx":311,"len":14092,"model":"default","sha8":"36c8c4f4","findings":"同文重生成（首现行248）"}
+{"idx":312,"len":13362,"model":"default","sha8":"bd91be09","findings":"**@image_1 五项母版**（absolute visual reference for the first frame, room architecture, furniture positions, character starting po[sitions]）"}
+{"idx":313,"len":22711,"model":"default","sha8":"fd2f60f9","findings":"同文重生成（首现行117）"}
+{"idx":314,"len":29180,"model":"default","sha8":"d710aaab","findings":"23s 喜剧 29180c"}
+{"idx":315,"len":32462,"model":"default","sha8":"2cf25ba7","findings":"27s 喜剧 32462c"}
+{"idx":316,"len":7406,"model":"null","sha8":"94e46805","findings":"**IMPORTANT LOCATION RULE 段头**（using <<<image_1>>> <<<image_1>>> as the EXACT location——**双图号重复引用笔误**）×3 首现"}
+{"idx":317,"len":9540,"model":"null","sha8":"2a59c9cd","findings":"IMPORTANT LOCATION RULE 9540c"}
+{"idx":318,"len":7406,"model":"null","sha8":"94e46805","findings":"同文重生成（首现行316）"}
+{"idx":319,"len":17459,"model":"default","sha8":"f9c668b9","findings":"同文重生成（首现行256）"}
+{"idx":320,"len":3004,"model":"null","sha8":"27254c4c","findings":"单点编辑 3004c"}
+{"idx":321,"len":25191,"model":"default","sha8":"5ca0cd95","findings":"dinner 25191c"}
+{"idx":322,"len":15655,"model":"default","sha8":"292b1ce8","findings":"同文重生成（首现行261）"}
+{"idx":323,"len":18199,"model":"default","sha8":"f62eef0e","findings":"裸 UUID 群 18199c"}
+{"idx":324,"len":28254,"model":"default","sha8":"7711d6cd","findings":"同文重生成（首现行258）"}
+{"idx":325,"len":6244,"model":"default","sha8":"b7fb2abd","findings":"同文重生成（首现行265）"}
+{"idx":326,"len":6244,"model":"default","sha8":"b7fb2abd","findings":"同文重生成（首现行265）"}
+{"idx":327,"len":1421,"model":"null","sha8":"8d8e8f90","findings":"**CIPRIAN 保持板**（sand khaki jacket——沙卡其夹克）"}
+{"idx":328,"len":1179,"model":"null","sha8":"ec3719fc","findings":"**Strictly preserve POV 转换**（Strictly preserve the original room layout, camera lens, framing, symmetry, and geometry. Convert to a first-person point of view）1179c"}
+{"idx":329,"len":925,"model":"null","sha8":"291241ba","findings":"POV 转换 925c（无 Strictly——对行328）"}
+{"idx":330,"len":4977,"model":"default","sha8":"34713fa5","findings":"中文场景头 4977c"}
+{"idx":331,"len":1021,"model":"null","sha8":"167841f9","findings":"同文重生成（首现行271）"}
+{"idx":332,"len":908,"model":"null","sha8":"c3eb7ac5","findings":"同文重生成（首现行269）"}
+{"idx":333,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":334,"len":1021,"model":"null","sha8":"167841f9","findings":"同文重生成（首现行271）"}
+{"idx":335,"len":4593,"model":"default","sha8":"250a3bb7","findings":"同文重生成（首现行275）"}
+{"idx":336,"len":4648,"model":"default","sha8":"a86630a3","findings":"熊先生 4648c"}
+{"idx":337,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":338,"len":4063,"model":"default","sha8":"da461913","findings":"美甲板 4063c"}
+{"idx":339,"len":5232,"model":"default","sha8":"4654a844","findings":"低角双参考 5232c"}
+{"idx":340,"len":4570,"model":"default","sha8":"6f148a93","findings":"同文重生成（首现行280）"}
+{"idx":341,"len":12763,"model":"default","sha8":"5880129f","findings":"同文重生成（首现行281）"}
+{"idx":342,"len":10359,"model":"default","sha8":"7c1ca4f4","findings":"**EXTREME MACRO insert 版**（This sequence is an EXTREME MAC[RO]——插入式声明）10359c"}
+{"idx":343,"len":1600,"model":"default","sha8":"d803a698","findings":"邀请 6s 1600c（仅使用 <<<image_2>>> 作为…——**仅用某图分工**）"}
+{"idx":344,"len":4019,"model":"default","sha8":"a4a43803","findings":"同文重生成（首现行284）"}
+{"idx":345,"len":3729,"model":"default","sha8":"d845db2a","findings":"拖鞋板 3729c ×2 首现"}
+{"idx":346,"len":3066,"model":"default","sha8":"ca27f7d4","findings":"拖鞋板 3066c（仅使用 <<<image_1>>>——仅用版）"}
+{"idx":347,"len":3366,"model":"default","sha8":"daba3dae","findings":"**持烟唇间参考板**（<<<image_1>>> is the exact reference for the opening pose with the cigarette at her lips——**烟唇姿势参考**）"}
+{"idx":348,"len":2977,"model":"default","sha8":"af2ed161","findings":"持烟唇板 2977c"}
+{"idx":349,"len":1247,"model":"null","sha8":"5a0aae3d","findings":"indie 海报 1247c ×4 首现"}
+{"idx":350,"len":1247,"model":"null","sha8":"5a0aae3d","findings":"同文重生成（首现行349）"}
+{"idx":351,"len":1247,"model":"null","sha8":"5a0aae3d","findings":"同文重生成（首现行349）"}
+{"idx":352,"len":1247,"model":"null","sha8":"5a0aae3d","findings":"同文重生成（首现行349）"}
+{"idx":353,"len":2097,"model":"null","sha8":"9d39fbed","findings":"pastel 海报 2097c"}
+{"idx":354,"len":3146,"model":"null","sha8":"d73b2576","findings":"同文重生成（首现行296）"}
+{"idx":355,"len":3131,"model":"null","sha8":"68252378","findings":"卧室空景 3131c 变体"}
+{"idx":356,"len":6121,"model":"default","sha8":"913e79d1","findings":"**### SCENE — THE PINK SLIPPER PROTOCOL Markdown 场景头首例**（### 井号+**CHARACTER PROFILES & MASKS:**+Exceptionally sweet, feminine, disarmingly polite——**粉色拖鞋协议英文 Markdown 板**）6121c"}
+{"idx":357,"len":12334,"model":"default","sha8":"c51e7f2f","findings":"同文重生成（首现行300）"}
+{"idx":358,"len":12321,"model":"default","sha8":"1190af18","findings":"同文重生成（首现行301）"}
+{"idx":359,"len":6318,"model":"default","sha8":"b544220f","findings":"门前板 6318c ×4 首现"}
+{"idx":360,"len":6318,"model":"default","sha8":"b544220f","findings":"同文重生成（首现行359）"}
+{"idx":361,"len":8739,"model":"default","sha8":"7fb0f4f1","findings":"美甲板 8739c"}
+{"idx":362,"len":1073,"model":"null","sha8":"fed681b5","findings":"**门前 Edit 板**（Keep the exact same two men, the cardboard bear mask, the cardboard rabbit mask, the gold pistol, the brown bag, the wet street, the fog, the lamp, the purple wall——**十要素 Keep**）"}
+{"idx":363,"len":848,"model":"null","sha8":"9f41ded5","findings":"门前 Keep 848c（cream column——奶油柱）"}
+{"idx":364,"len":696,"model":"null","sha8":"a4691644","findings":"门把手 696c"}
+{"idx":365,"len":3563,"model":"default","sha8":"6bc9fcde","findings":"同文重生成（首现行307）"}
+{"idx":366,"len":10733,"model":"default","sha8":"3bbf5233","findings":"同文重生成（首现行194）"}
+{"idx":367,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":368,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":369,"len":18936,"model":"default","sha8":"07fcd03b","findings":"同文重生成（首现行251）"}
+{"idx":370,"len":23102,"model":"default","sha8":"319bbdd3","findings":"**情绪转折点板**（This scene marks the beginning of a subtle emotional shift toward the climax. IMPORTANT STORY DIRECTION——**剧情方向声明**）23102c"}
+{"idx":371,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":372,"len":19684,"model":"default","sha8":"1957cd8b","findings":"**无缝起帧声明**（<<<image_1>>> IS THE EXACT FIRST FRAME OF THIS SEQUENCE. Begin directly and seamlessly from <<<image_1>>>. Do not recreate anything that happe[ned]——**无缝起帧+不重演**）19684c"}
+{"idx":373,"len":9540,"model":"null","sha8":"2a59c9cd","findings":"同文重生成（首现行317）"}
+{"idx":374,"len":7406,"model":"videotape-alpha","sha8":"94e46805","findings":"同文重生成（首现行316）"}
+{"idx":375,"len":22711,"model":"default","sha8":"fd2f60f9","findings":"同文重生成（首现行117）"}
+{"idx":376,"len":7406,"model":"null","sha8":"94e46805","findings":"同文重生成（首现行316）"}
+{"idx":377,"len":3700,"model":"null","sha8":"cfe5a97e","findings":"@image2 单标签板 3700c"}
+{"idx":378,"len":18927,"model":"default","sha8":"7829c75b","findings":"dinner 18927c"}
+{"idx":379,"len":13547,"model":"default","sha8":"76a4b08e","findings":"**HIGHEST PRIORITY: C[ontinuity] 段头**（dinner 13547c）"}
+{"idx":380,"len":24717,"model":"default","sha8":"7b84f3a2","findings":"**综合质量宣言板**（precise spatial continuity, sophisticated dark comedy, dynamic visual storytelling, highly realistic human behavior, strong three-dimensional depth——**五项质量宣言**）24717c"}
+{"idx":381,"len":6228,"model":"default","sha8":"8ba6c38b","findings":"中文场景头 6228c"}
+{"idx":382,"len":6244,"model":"default","sha8":"b7fb2abd","findings":"同文重生成（首现行265）"}
+{"idx":383,"len":1179,"model":"null","sha8":"ec3719fc","findings":"同文重生成（首现行328）"}
+{"idx":384,"len":15,"model":"null","sha8":"ff115cdc","findings":"**15c 超短修正**（I want it clear——**全库最短实录之一**）"}
+{"idx":385,"len":11527,"model":"default","sha8":"a184b99b","findings":"**dinner 续板**（continuing directly from the established scene after the extreme macro eating montage. Everyone is already seated, has steak with sau[ce]——**牛排酱汁续场**）11527c"}
+{"idx":386,"len":889,"model":"null","sha8":"73521135","findings":"**猫位置机位板**（A cinematic shot from the exact position of the black cat on the bed…camera placed at bed level——**床面猫平机位**）"}
+{"idx":387,"len":59,"model":"null","sha8":"cf287fdc","findings":"**59c UUID 视角超短**（The <<<uuid>>> perspective——**UUID 视角标签超短**）"}
+{"idx":388,"len":1112,"model":"null","sha8":"ca642966","findings":"同文重生成（首现行273）"}
+{"idx":389,"len":82,"model":"null","sha8":"393531b0","findings":"同文重生成（首现行268）"}
+{"idx":390,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":391,"len":1153,"model":"video_edit","sha8":"0f60363d","findings":"**video_edit 删猫填景板首例**（Remove only the black cat from the shot. Delete the black cat and nothing else. Fill the small area where the cat was with a natural continuation of whatever kitchen surface is directly behind it——**删物+填景声明**）1153c ×2 首现"}
+{"idx":392,"len":4648,"model":"default","sha8":"a86630a3","findings":"同文重生成（首现行336）"}
+{"idx":393,"len":67,"model":"sunburst","sha8":"3d724233","findings":"**sunburst 模型 82c 升清板**（m=sunburst——**sunburst 承接升清三不声明**）"}
+{"idx":394,"len":2602,"model":"default","sha8":"bc30f653","findings":"美甲板 2602c"}
+{"idx":395,"len":10530,"model":"default","sha8":"d0c97632","findings":"裸 UUID 10530c"}
+{"idx":396,"len":550,"model":"null","sha8":"3cd1d469","findings":"525c 七同 550c"}
+{"idx":397,"len":4007,"model":"seedance_2_0","sha8":"4b8944ef","findings":"拖鞋板 seedance 4007c"}
+{"idx":398,"len":3729,"model":"default","sha8":"d845db2a","findings":"同文重生成（首现行345）"}
+{"idx":399,"len":8558,"model":"default","sha8":"658aa63b","findings":"同文重生成（首现行286）"}
+{"idx":400,"len":3207,"model":"default","sha8":"a9a378e4","findings":"持烟唇板 3207c"}
+{"idx":401,"len":5221,"model":"default","sha8":"11c3bbaf","findings":"低角双参考 5221c"}
+{"idx":402,"len":1363,"model":"null","sha8":"1a102b99","findings":"同文重生成（首现行291）"}
+{"idx":403,"len":1247,"model":"null","sha8":"5a0aae3d","findings":"同文重生成（首现行349）"}
+{"idx":404,"len":1363,"model":"null","sha8":"1a102b99","findings":"同文重生成（首现行291）"}
+{"idx":405,"len":2246,"model":"videotape-alpha","sha8":"1aff0103","findings":"同文重生成（首现行293）"}
+{"idx":406,"len":1988,"model":"null","sha8":"27dfebb9","findings":"同文重生成（首现行294）"}
+{"idx":407,"len":1988,"model":"null","sha8":"27dfebb9","findings":"同文重生成（首现行294）"}
+{"idx":408,"len":3131,"model":"null","sha8":"68252378","findings":"同文重生成（首现行355）"}
+{"idx":409,"len":12796,"model":"default","sha8":"4c2f898e","findings":"门前美甲 12796c"}
+{"idx":410,"len":12568,"model":"default","sha8":"a2185645","findings":"门前美甲 12568c"}
+{"idx":411,"len":12321,"model":"default","sha8":"1190af18","findings":"同文重生成（首现行301）"}
+{"idx":412,"len":12312,"model":"default","sha8":"03e6980b","findings":"门前美甲 12312c"}
+{"idx":413,"len":6318,"model":"default","sha8":"b544220f","findings":"同文重生成（首现行359）"}
+{"idx":414,"len":5137,"model":"default","sha8":"36ab6fa4","findings":"同文重生成（首现行302）"}
+{"idx":415,"len":971,"model":"null","sha8":"b4e010c0","findings":"门把手 971c"}
+{"idx":416,"len":3218,"model":"default","sha8":"3ca68f3d","findings":"同文重生成（首现行303）"}
+{"idx":417,"len":608,"model":"null","sha8":"aae142c1","findings":"门前 Keep 608c ×2 首现"}
+{"idx":418,"len":608,"model":"null","sha8":"aae142c1","findings":"同文重生成（首现行417）"}
+{"idx":419,"len":5137,"model":"default","sha8":"36ab6fa4","findings":"同文重生成（首现行302）"}
+{"idx":420,"len":1153,"model":"video_edit","sha8":"0f60363d","findings":"同文重生成（首现行391）"}
+{"idx":421,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":422,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":423,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":424,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":425,"len":3169,"model":"default","sha8":"e884b42a","findings":"单图全绑定 3169c"}
+{"idx":426,"len":3553,"model":"default","sha8":"0b7600eb","findings":"三图桥接 3553c"}
+{"idx":427,"len":9525,"model":"default","sha8":"64bf06cf","findings":"**美甲板大族 9422c ×8 首现**（30s——美甲九连跑族）"}
+{"idx":428,"len":9525,"model":"default","sha8":"64bf06cf","findings":"同文重生成（首现行427）"}
+{"idx":429,"len":9420,"model":"default","sha8":"b21cf423","findings":"同文重生成（首现行141）"}
+{"idx":430,"len":9409,"model":"default","sha8":"dd6aa9b2","findings":"美甲板 9409c（对行427 变体）"}
+{"idx":431,"len":9422,"model":"default","sha8":"6ca35d6f","findings":"同文重生成（首现行77）"}
+{"idx":432,"len":9422,"model":"default","sha8":"6ca35d6f","findings":"同文重生成（首现行77）"}
+{"idx":433,"len":6250,"model":"default","sha8":"916a5a49","findings":"@street 美甲 6250c"}
+{"idx":434,"len":8707,"model":"default","sha8":"ff4e46ff","findings":"门前美甲 8707c ×2 首现"}
+{"idx":435,"len":9422,"model":"default","sha8":"6ca35d6f","findings":"同文重生成（首现行77）"}
+{"idx":436,"len":8707,"model":"default","sha8":"ff4e46ff","findings":"同文重生成（首现行434）"}
+{"idx":437,"len":6681,"model":"default","sha8":"efe3cb9c","findings":"@street 美甲 6681c"}
+{"idx":438,"len":7526,"model":"default","sha8":"86a410ad","findings":"@street 美甲 7526c"}
+{"idx":439,"len":9422,"model":"default","sha8":"6ca35d6f","findings":"同文重生成（首现行77）"}
+{"idx":440,"len":9406,"model":"default","sha8":"16ac502c","findings":"门前美甲 9406c"}
+{"idx":441,"len":1322,"model":"null","sha8":"b0c92de1","findings":"**1960s 四板表**（PHOTOREALISTIC.A cinematic 1960s style shot…based on the character from——**引用丢失又一例**）"}
+{"idx":442,"len":9409,"model":"default","sha8":"dd6aa9b2","findings":"同文重生成（首现行430）"}
+{"idx":443,"len":6620,"model":"default","sha8":"0648e261","findings":"美甲板 6620c"}
+{"idx":444,"len":1539,"model":"null","sha8":"10db60c7","findings":"**车内 cabin 机位首例**（camera placed FULLY INSIDE the vehicle cabin, mounted directly on top of a wider front dashboard, looking back a[t]——**仪表台顶后视**）"}
+{"idx":445,"len":6607,"model":"default","sha8":"f565bad7","findings":"同文重生成（首现行76）"}
+{"idx":446,"len":243,"model":"null","sha8":"672fe2bb","findings":"**海报修正三写族**（Change the title make it more visible and bold, more elegance and 3D letters and with shadow——**3D 字+阴影修正**）243c"}
+{"idx":447,"len":587,"model":"videotape-alpha","sha8":"eaa60d8b","findings":"同文重生成（首现行279）"}
+{"idx":448,"len":6318,"model":"default","sha8":"b544220f","findings":"同文重生成（首现行359）"}
+{"idx":449,"len":6318,"model":"default","sha8":"b544220f","findings":"同文重生成（首现行359）"}
+{"idx":450,"len":5210,"model":"default","sha8":"38d16cad","findings":"@street 板 5210c"}
+{"idx":451,"len":348,"model":"pro","sha8":"6aeeacc4","findings":"**pro 模型海报修正**（make the background more soft pastel pink tone. Choose elegant, handwritten-style typography——**手写体字修正**）348c ×3 首现"}
+{"idx":452,"len":6796,"model":"default","sha8":"37f8ff3d","findings":"**Markdown 场景头+bullet 列表**（### SCENE — THE PINK SLIPPER PROTOCOL **TOTAL DURATION:** …**REFERENCES:** * **Location:** …——**Markdown 加粗+bullet 结构**）6796c"}
+{"idx":453,"len":348,"model":"videotape-alpha","sha8":"6aeeacc4","findings":"同文重生成（首现行451）"}
+{"idx":454,"len":348,"model":"null","sha8":"6aeeacc4","findings":"同文重生成（首现行451）"}
+{"idx":455,"len":5911,"model":"default","sha8":"bc4cecde","findings":"门前板 5911c（<<<image_1>>> is the round gold doorknob——**图号版门前板**）"}
+{"idx":456,"len":507,"model":"null","sha8":"1ab9a292","findings":"**bakground 笔误修正链**（little soft pastel Lila tone but keep the bakground realistic——**bakground 双写笔误 ×6**+Lila 色）507c ×4 首现"}
+{"idx":457,"len":507,"model":"videotape-alpha","sha8":"1ab9a292","findings":"同文重生成（首现行456）"}
+{"idx":458,"len":507,"model":"null","sha8":"1ab9a292","findings":"同文重生成（首现行456）"}
+{"idx":459,"len":507,"model":"null","sha8":"1ab9a292","findings":"同文重生成（首现行456）"}
+{"idx":460,"len":501,"model":"null","sha8":"749ac441","findings":"pastel Lila 501c ×6 首现"}
+{"idx":461,"len":501,"model":"null","sha8":"749ac441","findings":"同文重生成（首现行460）"}
+{"idx":462,"len":501,"model":"null","sha8":"749ac441","findings":"同文重生成（首现行460）"}
+{"idx":463,"len":5918,"model":"default","sha8":"50d7f597","findings":"门前板 5918c"}
+{"idx":464,"len":194,"model":"null","sha8":"4879e2aa","findings":"海报修正 194c"}
+{"idx":465,"len":435,"model":"videotape-alpha","sha8":"1bd6632f","findings":"海报修正 videotape 435c"}
+{"idx":466,"len":348,"model":"null","sha8":"6aeeacc4","findings":"同文重生成（首现行451）"}
+{"idx":467,"len":501,"model":"null","sha8":"749ac441","findings":"同文重生成（首现行460）"}
+{"idx":468,"len":507,"model":"null","sha8":"1ab9a292","findings":"同文重生成（首现行456）"}
+{"idx":469,"len":507,"model":"null","sha8":"1ab9a292","findings":"同文重生成（首现行456）"}
+{"idx":470,"len":348,"model":"null","sha8":"6aeeacc4","findings":"同文重生成（首现行451）"}
+{"idx":471,"len":348,"model":"null","sha8":"6aeeacc4","findings":"同文重生成（首现行451）"}
+{"idx":472,"len":501,"model":"null","sha8":"749ac441","findings":"同文重生成（首现行460）"}
+{"idx":473,"len":348,"model":"null","sha8":"6aeeacc4","findings":"同文重生成（首现行451）"}
+{"idx":474,"len":501,"model":"null","sha8":"749ac441","findings":"同文重生成（首现行460）"}
+{"idx":475,"len":1380,"model":"null","sha8":"8c383cd0","findings":"**对称双立构图板**（A symmetrical frontal composition. On the left side stands <<<image_1>>>…She looks straight into the camer[a]——**左右对称+直视镜头**）"}

@@ -1,0 +1,188 @@
+【项目】How to Turn a Script into an AI Storyboard and Shot List（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/script-to-ai-storyboard-shot-list
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+How to Turn a Script into an AI Storyboard and Shot List
+Higgsfield
+Aug 29, 2026
+10 min
+
+To turn a script into an AI storyboard, break it into scenes and pull out the visual beats worth showing. Set a shot size and camera move for each one. Then generate a reference frame for every beat, keeping the same characters and locations consistent throughout the sequence. Higgsfield Popcorn handles the storyboard stage in one place, turning a scene description and references into a coherent sequence of frames. Once the board is locked, those frames can move into Cinema Studio 4.0 for video generation.
+
+Why a Storyboard Matters Before You Generate Video
+
+The most common mistake in AI video isn't a bad prompt. It's skipping the storyboard: you end up with a folder of clips that don't cut together into one video.
+
+A storyboard earns its place for three reasons:
+
+It locks in the intent of a scene before a single frame gets generated, so the shot serves the story.
+It keeps characters and locations consistent, the same face and the same location across every cut.
+It sets the pacing of the whole sequence, how long a beat holds, when a cut lands, before that pacing gets baked into finished footage.
+
+The storyboard stage is also the cheapest place in the whole process to be wrong. Changing a storyboard frame takes far less time and fewer credits than regenerating a finished high-quality video clip.
+
+How to Make a Storyboard From Script on Higgsfield
+
+Popcorn is Higgsfield's AI storyboard generator, and what separates it from a standard image model is how it handles a sequence. Generating storyboard frames one at a time can make consistency harder to maintain, especially across longer sequences. Popcorn is built around the sequence itself, generating multiple connected frames while carrying the character, lighting, and spatial logic across the board.
+
+A few specifics worth knowing before you start:
+
+Up to 4 image references per generation, a character portrait, a location shot, a prop, combined into one coherent scene.
+Up to 8 frames per generation.
+Two modes: Auto, where one prompt and a frame count let the model distribute the story arc across the panels itself, and Manual, where each frame gets directed individually.
+Access it through Create → Image → Popcorn.
+
+For more on how Popcorn fits into a broader AI storyboarding pipeline, also see AI storyboarding on Higgsfield.
+
+Full Workflow: Step-by-Step Guide
+
+Step 1: Break the script into boardable sequences. A two-person dialogue scene might need a few panels to establish geography and reactions, while an action sequence may need a frame for each major beat. If the sequence needs more than eight frames, split it into multiple generations.
+
+Step 2: Build the shot list. For every visual beat, define the shot size, camera angle, camera movement, and purpose of the shot before generating frames. A simple shot list might look like this:
+
+Full Workflow: Step-by-Step Guide
+
+Scene
+
+	
+
+Shot
+
+	
+
+Shot Size
+
+	
+
+Camera Movement
+
+	
+
+Reference
+
+	
+
+Notes
+
+
+
+
+1. The Discovery
+
+	
+
+1A
+
+	
+
+Wide shot
+
+	
+
+Slow push-in
+
+	
+
+Location reference: abandoned train station; character reference: Maya
+
+	
+
+Maya enters the empty station at dusk. Establish the space, cool blue lighting, and her cautious mood.
+
+
+
+
+1. The Discovery
+
+	
+
+1B
+
+	
+
+Medium close-up
+
+	
+
+Static
+
+	
+
+Character reference: Maya; wardrobe reference: red coat
+
+	
+
+Maya notices a sealed envelope on the bench. Keep her face and coat consistent with Shot 1A.
+
+
+
+
+1. The Discovery
+
+	
+
+1C
+
+	
+
+Insert close-up
+
+	
+
+Slow tilt down
+
+	
+
+Prop reference: sealed envelope
+
+	
+
+Her hand reaches for the envelope. Use warm light on the prop to draw attention to it.
+
+Step 3: Gather reference images. A clean, well-lit portrait for any character whose face needs to hold across the sequence, plus a location or prop reference if the scene calls for one. Up to 4 references combine into a single generation, the character from one image, the setting from another, the wardrobe from a third.
+
+Step 4: Write the prompt around five elements.
+
+Shot size + Camera movement + Subject + Action + Setting + Lighting/style + Reference
+
+PHYSICS
+Constant real-time speed in every shot, no slow motion. Her limp is consistent: the right leg buckles slightly on each landing. Cloaks and hair obey the strong cold wind blowing screen-left to screen-right. The horse gallops with real four-beat weight, turf flying. The leap has real committed weight and a natural falling arc into the fog. The dragon's emergence displaces the fog in a physical shockwave; its wingbeats have mass, each one visibly pushing it further from the camera; its scale reads huge against the floating islands as it recedes. All camera movements are smooth, motivated and physically real — dolly, track, crane — with the weight of real camera rigs, no handheld shake, no zooms.
+
+LIGHTING
+Cold overcast storm light in every shot: soft grey top light, no direct sun, cool desaturated palette with the olive and steel of her costume and the black of the rider reading clearly against pale fog. Distant lightning glow inside the storm clouds in shots 5 and 6, silhouetting the receding dragon.
+
+AUDIO
+Wind roaring over the cliffs, her ragged breathing and heavy uneven footfalls on wet rock, distant thunder; galloping hooves and creaking leather in shot 3; a rising orchestral chase score across the sequence; in shot 5 — her leap, a beat of near-silence with only wind and drifting fog, then a massive muffled wingbeat erupting from below, the dragon's cry echoing off the cliffs as the wingbeats fade with distance; the horse's whinny as it rears in shot 6, then the score falling to wind. No dialogue, no narration, no subtitles.
+
+STYLE
+Epic fantasy-film cinematography: crisp digital cinema image with soft atmospheric haze, muted cold grade, high production value, painterly depth of floating islands and waterfalls in every wide shot.
+
+QUALITY
+Natural 180-degree shutter cadence at real speed: running, galloping, the leap and the wingbeats carry brief directional motion blur and resolve into sharp frames. Stable temporal cadence, clean cuts between shots, no ghosting, no duplicated limbs.
+
+POSITIVE CONSTRAINTS
+Exactly two humans and one dragon appear across the sequence: @HEROINE, @RIDER, and the dragon; each appears only in their designated shots. In shot 5 the dragon and heroine are seen only from behind — their backs to the camera — flying away from the lens for the entire beat, never turning toward it, shrinking with distance until they vanish into the storm. Faces, costumes and props remain identical in every shot. The horse's anatomy stays correct through the gallop and the rear. The world contains only fantasy-period objects. Screen direction, wind direction and light stay consistent across all cuts. Every shot plays at normal real-time speed with smooth, physically real camera movement only.
+Copy
+Recreate
+
+Step 5: Choose Auto or Manual mode and a frame count. Auto for general scene coverage, letting the model distribute the beats. Manual when a specific beat has to land on a specific frame.
+
+Step 6: Set the aspect ratio and generate. Popcorn supports 3:4, 4:3, 2:3, 3:2, 1:1, 16:9, and 9:16.
+
+Step 7: Carry the sequence forward, then move to Cinema Studio 4.0. For the next scene with the same character, use the strongest frame from the previous generation as a reference to prevent drift. Once every scene is locked, those frames become visual references for video generation in Cinema Studio 4.0, where camera, lens, lighting, and motion get set for each shot. For tips on getting those shots to read as realistic once they're generated, see how to make AI video look more realistic. 
+
+One Path From Board to Finished Shot
+
+Planning a shot and generating it are usually two separate jobs, and something gets lost moving between them, a reference, a face, a camera move that doesn't translate. Higgsfield closes that gap by keeping both stages connected:
+
+Popcorn carries character and location consistency across every panel, so nothing needs re-describing frame to frame.
+Cinema Studio 4.0 picks up those same panels directly, adding real camera and lens control.
+Who This Is For
+Directors storyboarding a scene before a real shoot or a full AI generation pass.
+Ad agencies planning a commercial that needs to hit a specific beat count and runtime.
+Social content creators who need a repeatable way to turn a script into a consistent multi-shot video instead of generating disconnected one-off clips.
+HOW TO TURN A SCRIPT INTO AN AI STORYBOARD AND SHOT LIST
+Try Popcorn

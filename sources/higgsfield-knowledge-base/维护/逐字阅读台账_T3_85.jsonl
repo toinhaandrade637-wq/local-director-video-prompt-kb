@@ -1,0 +1,143 @@
+{"project":"A_CALL_FROM_HORMUZ","idx":1,"sha8":"8f48eb9c","len":212,"nTasks":1,"models":"null","read":true,"findings":"换脸理由说明：replace the face of…with realistic cinematic actual face image. **existing one is too grainy and looking unrealistic. keep rest everything same.**——换脸+理由+其余不变"}
+{"project":"A_CALL_FROM_HORMUZ","idx":2,"sha8":"9be47b36","len":144,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":3,"sha8":"32abf299","len":719,"nTasks":1,"models":"default","read":true,"findings":"**印度口音台词+语气四连**：says, **indian accent**, briefing, calm face, **no aggression, no anger, leadership tone**: \"Guys, In three days, we will transit the Strait of Hormuz.\"——口音+简报语气+无攻击无怒+领导音"}
+{"project":"A_CALL_FROM_HORMUZ","idx":4,"sha8":"89e4e5f0","len":478,"nTasks":1,"models":"null","read":true,"findings":"**修脸指令群**：there is **gap beween top edge and head/hairs**（顶部留空间）+slim face with **lesser fat, clear jaw line**, handsome, **not swollen face**…no swelled cheeks. **keep a space above head**——瘦脸/下颌线/不肿/脸颊不胀+基于空引用逗号群（based on , , , , ,）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":5,"sha8":"8d633818","len":109,"nTasks":1,"models":"null","read":true,"findings":"**护照照**：generate a frontal profile picture, exact same uniform…**like a passport picture**"}
+{"project":"A_CALL_FROM_HORMUZ","idx":6,"sha8":"8d633818","len":109,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":7,"sha8":"ae417af3","len":1115,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":8,"sha8":"0cf0967c","len":1029,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":9,"sha8":"05feb4c8","len":875,"nTasks":1,"models":"default","read":true,"findings":"**贴标签+机位限定**：slowly pastes the white label with \"**Cadet's Chair**\" written on it, at the front of backrest part of the chair which is visible. **he does not go to back of the chair**——贴椅背标签+不绕椅后"}
+{"project":"A_CALL_FROM_HORMUZ","idx":10,"sha8":"36ace65c","len":772,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":11,"sha8":"6260db8e","len":405,"nTasks":1,"models":"null","read":true,"findings":"**4 golden stripes 军衔**：black epaulets on both the shoulders with **4 golden stripes** across the width——肩章四金杠（×3 现）+dignified personality 威严人格"}
+{"project":"A_CALL_FROM_HORMUZ","idx":12,"sha8":"7c6253de","len":580,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":13,"sha8":"bebaad5c","len":391,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":14,"sha8":"c70a4fd1","len":901,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":15,"sha8":"70028dfe","len":540,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":16,"sha8":"81994ca4","len":420,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":17,"sha8":"5245ffd9","len":161,"nTasks":1,"models":"null","read":true,"findings":"**凳高=椅坐高**（×5 迭代 17/19/20/71/72/74/76）：change the wooden stool height…make it taller so its height become **the level of chair's sitting level**. **rest all unchanged**——凳高调整（自杀伏笔道具）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":18,"sha8":"0eeef82a","len":381,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":19,"sha8":"99fabc69","len":130,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":20,"sha8":"a7a7601e","len":138,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":21,"sha8":"ed6481b9","len":547,"nTasks":1,"models":"default","read":true,"findings":"**厨房爆炸+学员阵亡**：there is a **blast in the messroom** and cadet's body lying nearby…notices a wooden stool…he brings the stool and puts it in front of the chair"}
+{"project":"A_CALL_FROM_HORMUZ","idx":22,"sha8":"2361a8de","len":498,"nTasks":1,"models":"default","read":true,"findings":"**MOTHER CALLING 屏显**：the phone screen shows:**MOTHER CALLING**——母亲来电屏显（×4 现）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":23,"sha8":"d0eb9202","len":618,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":24,"sha8":"605bc4da","len":702,"nTasks":1,"models":"default","read":true,"findings":"**拇指悬停不敢按**：camera showing **his thumb slowly hovers over the green answer button. He tries**…——拇指悬停"}
+{"project":"A_CALL_FROM_HORMUZ","idx":25,"sha8":"f89a47c3","len":506,"nTasks":1,"models":"default","read":true,"findings":"**错过视频来电**：He tries to press it, but cannot. he is so emotional. The ringing stops. camera now slow zoom in to phone scree. The screen changes to:**MISSED VIDEO CALL**——没按到→来电结束→未接视频来电"}
+{"project":"A_CALL_FROM_HORMUZ","idx":26,"sha8":"6acd9611","len":611,"nTasks":1,"models":"default","read":true,"findings":"**钢铁沉降音**：The real sound of the running ship in background. a distant fire alarm sounding. **crackling fire, steel settling, men shouting somewhere beyond the room**——火灾噼啪/钢铁沉降/远处呼喊"}
+{"project":"A_CALL_FROM_HORMUZ","idx":27,"sha8":"1dc94f14","len":775,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":28,"sha8":"291e4b26","len":520,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":29,"sha8":"06059c44","len":842,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":30,"sha8":"2a76758d","len":251,"nTasks":1,"models":"video_edit","read":true,"findings":"**长镜头改机位**：make it a **long shot from the front of the ship** so that the full length of the ship is visible and can clearly see missile hitting the ship——全船长镜"}
+{"project":"A_CALL_FROM_HORMUZ","idx":31,"sha8":"17824775","len":1105,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":32,"sha8":"64a03cef","len":1065,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":33,"sha8":"d04df440","len":161,"nTasks":1,"models":"video_edit","read":true,"findings":"**弹着点修正**：**Correct the missile so that it hits the accommodation structure instead of the deck**——甲板→居住区"}
+{"project":"A_CALL_FROM_HORMUZ","idx":34,"sha8":"315ecc84","len":582,"nTasks":1,"models":"default","read":true,"findings":"**Beta 称呼**：\"Take care, **beta**. I will call tomorrow. Same time.\"——印度爱称+Oh, Bosun sir, you're there too! Please, keep an eye on my boy"}
+{"project":"A_CALL_FROM_HORMUZ","idx":35,"sha8":"6488a1b9","len":460,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":36,"sha8":"ff2f4f65","len":863,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":37,"sha8":"b9259485","len":843,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":38,"sha8":"01778ac4","len":111,"nTasks":1,"models":"video_edit","read":true,"findings":"**编号三步修正**：**1)**remove the logo on the funnel **2)** name of the ship written on the stern **3)** make it little darker evening scene——编号修改（2 缺动词）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":39,"sha8":"3aa460ea","len":461,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":40,"sha8":"b0627b59","len":348,"nTasks":1,"models":"pro","read":true,"findings":"**支架→玻璃替换**（×4 迭代 40-43）：the phone is resting on a mobile phone stand…**actually i want the phone to rest on a half-filled glass**…remove the mobile phone stand…and you place the half-filled glass in place of mobile stand——手机支架→半满玻璃（脆弱意象）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":41,"sha8":"6aa31a16","len":349,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":42,"sha8":"27a37eeb","len":345,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":43,"sha8":"f6a038d3","len":175,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":44,"sha8":"235c3b03","len":211,"nTasks":1,"models":"pro","read":true,"findings":"**印度母亲定义**：indian mom, 50 years old, rich look, **fair, plump, wearing saree and blouse, simple daily clothing, no make up, red small bindi on forehead**——纱丽+宾迪额痣+pro 模型"}
+{"project":"A_CALL_FROM_HORMUZ","idx":45,"sha8":"6a8f7923","len":130,"nTasks":1,"models":"null","read":true,"findings":"**数量修正**：**only 2 food table not 3**——两桌非三桌+long table with food **utncils**（错拼）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":46,"sha8":"d71bc8d0","len":797,"nTasks":1,"models":"pro","read":true,"findings":"**餐室规格**：Low ceiling with **recessed fluorescent strip lighting casting flat even light** 平顶荧光灯带平坦光+**Dark green painted steel floor** 深绿钢地板+formica-topped tables 胶木桌"}
+{"project":"A_CALL_FROM_HORMUZ","idx":47,"sha8":"92c88687","len":745,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":48,"sha8":"f958cec9","len":234,"nTasks":1,"models":"default","read":true,"findings":"**真实地名转向**：ship takes natural turn around **Ras Al Khaima**——哈伊马角+bird eye view shot"}
+{"project":"A_CALL_FROM_HORMUZ","idx":49,"sha8":"f37227c2","len":191,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":50,"sha8":"39c98402","len":225,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":51,"sha8":"efd49996","len":243,"nTasks":1,"models":"null","read":true,"findings":"**AI 瑕疵修正**：increase the size…by **10%**…one eye is not proper. **there is a dot in the right eye. correct it.**——10% 放大+右眼黑点"}
+{"project":"A_CALL_FROM_HORMUZ","idx":52,"sha8":"4d49523a","len":843,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":53,"sha8":"8fcea0d4","len":378,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":54,"sha8":"cc198fad","len":443,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":55,"sha8":"4505120f","len":227,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":56,"sha8":"ff1fbf9d","len":495,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":57,"sha8":"43441cfa","len":90,"nTasks":1,"models":"null","read":true,"findings":"**磨皮指令**：smoothen the face, **remove pores, clear skin, no pits**, ultra realistic（行 60：clean the face, **de-noice**, clear skin, no pores）——去毛孔/去噪/无凹坑"}
+{"project":"A_CALL_FROM_HORMUZ","idx":58,"sha8":"43441cfa","len":90,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":59,"sha8":"006a91a6","len":151,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":60,"sha8":"6c2901f7","len":48,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":61,"sha8":"6005d5d0","len":1133,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":62,"sha8":"81325b5b","len":1054,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":63,"sha8":"4aeb3e93","len":212,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":64,"sha8":"011ea7c8","len":184,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":65,"sha8":"011ea7c8","len":184,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":66,"sha8":"6260db8e","len":405,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":67,"sha8":"66da1524","len":644,"nTasks":1,"models":"default","read":true,"findings":"**灵魂视角声明**：in this scene…is already dead and we are showing **as if his soul is asking**——死者灵魂对话"}
+{"project":"A_CALL_FROM_HORMUZ","idx":68,"sha8":"516b7970","len":435,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":69,"sha8":"2b09e118","len":772,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":70,"sha8":"6a6c51ee","len":715,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":71,"sha8":"f7dbdbb0","len":148,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":72,"sha8":"5245ffd9","len":161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":73,"sha8":"4b2ab528","len":318,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":74,"sha8":"b0cc8c45","len":143,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":75,"sha8":"4d369280","len":340,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":76,"sha8":"02cdddf5","len":156,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":77,"sha8":"da6c46a9","len":818,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":78,"sha8":"06d0dc03","len":626,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":79,"sha8":"21460e02","len":715,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":80,"sha8":"69aa1aa9","len":620,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":81,"sha8":"c00e494c","len":333,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":82,"sha8":"98c3f267","len":2816,"nTasks":1,"models":"null","read":true,"findings":"**三连形态否定海报**：Create **premium theatrical key art**…Vertical 2:3 cinema poster. **not a screenshot, not a photograph with text added, and not a social-media thumbnail**——不是截图/加字照片/社媒缩略图（×4 同文迭代）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":83,"sha8":"52474a57","len":2774,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":84,"sha8":"880fe380","len":2823,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":85,"sha8":"98c3f267","len":2816,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":86,"sha8":"9bbc8836","len":707,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":87,"sha8":"f92538a3","len":605,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":88,"sha8":"2ced62a8","len":499,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":89,"sha8":"96226ed5","len":1120,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":90,"sha8":"ab2c39c7","len":151,"nTasks":1,"models":"video_edit","read":true,"findings":"**弹着点详述**：missile comes from the left side and hits the ship at the white accommodation structure **below funnel, near the red lifeboat**——烟囱下+红救生艇附近"}
+{"project":"A_CALL_FROM_HORMUZ","idx":91,"sha8":"96e46692","len":150,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":92,"sha8":"bdef4c5a","len":450,"nTasks":1,"models":"default","read":true,"findings":"**Sunday biryanis 台词**：\"How many Sunday **biryanis** are…\"——印度香饭梗+Then what should I ask?"}
+{"project":"A_CALL_FROM_HORMUZ","idx":93,"sha8":"bd80e9c4","len":1048,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":94,"sha8":"12d658e0","len":813,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":95,"sha8":"73652d65","len":323,"nTasks":1,"models":"video_edit","read":true,"findings":"**手机正反修正**：the phone is **kept inverted wrongly**. correct it by changing **the face of the phone towards**…the back part should rest on the glass…**phone's location is exactly same**——正反修正+位置不变"}
+{"project":"A_CALL_FROM_HORMUZ","idx":96,"sha8":"e4b41a3d","len":1768,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":97,"sha8":"a5572619","len":759,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":98,"sha8":"571f9b89","len":424,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":99,"sha8":"3de4229f","len":771,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":100,"sha8":"c0d94748","len":641,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":101,"sha8":"4b9a7d9c","len":743,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":102,"sha8":"194f4fbc","len":803,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":103,"sha8":"5aeae80c","len":1014,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":104,"sha8":"2281be4e","len":175,"nTasks":1,"models":"default","read":true,"findings":"**1730 hrs 军用时制**：evening sunset time **around 1730 hrs**+行 112：front screen shows **17:30 hrs as the local time**——军用时制呼应片名 call+drone shot camera moving away+slow engine hum sound, light sea waves sound 双声简写"}
+{"project":"A_CALL_FROM_HORMUZ","idx":105,"sha8":"11fee08b","len":47,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":106,"sha8":"0143febb","len":174,"nTasks":1,"models":"null","read":true,"findings":"**散货船规格**：a modern **bulk carrier** merchant ship, **5 cargo holds, no cranes**, black and red hull——五舱无吊"}
+{"project":"A_CALL_FROM_HORMUZ","idx":107,"sha8":"43a98773","len":602,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":108,"sha8":"4ac68b1b","len":969,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":109,"sha8":"15f65448","len":483,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":110,"sha8":"88c5175d","len":707,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":111,"sha8":"5c92217b","len":591,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":112,"sha8":"0958ba51","len":543,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":113,"sha8":"a33c63e9","len":432,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":114,"sha8":"0dda4e91","len":502,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":115,"sha8":"9e4510fb","len":429,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":116,"sha8":"9e4510fb","len":429,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":117,"sha8":"279cb17d","len":439,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":118,"sha8":"354b4ac4","len":376,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":119,"sha8":"48ff96a0","len":387,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":120,"sha8":"96d6ce1a","len":371,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":121,"sha8":"a706ea07","len":956,"nTasks":1,"models":"default","read":true,"findings":"**剧本场景头再现**：INT. Ship mess room, evening, **1730 hours**…moves a chair, on the first table, **3rd outward chair**, to the sea view from porthol——第三外向椅定位"}
+{"project":"A_CALL_FROM_HORMUZ","idx":122,"sha8":"2b04a68f","len":300,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":123,"sha8":"263216b2","len":189,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":124,"sha8":"ab4af407","len":358,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":125,"sha8":"6a8f7923","len":130,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":126,"sha8":"6a8f7923","len":130,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":127,"sha8":"d71bc8d0","len":797,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":128,"sha8":"e6ca72ca","len":499,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":129,"sha8":"b9f9f647","len":649,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":130,"sha8":"55ac80d0","len":432,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":131,"sha8":"4770d3dd","len":645,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":132,"sha8":"a844bb70","len":239,"nTasks":1,"models":"video_edit","read":true,"findings":"**杯子持久性**：the cup is **in his hand only, not disappearing, until the last frame**. also, remove the extra black cup——道具持久+多余删除"}
+{"project":"A_CALL_FROM_HORMUZ","idx":133,"sha8":"357e6f02","len":460,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":134,"sha8":"48fc92bc","len":56,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":135,"sha8":"b6a95342","len":201,"nTasks":1,"models":"null","read":true,"findings":"**PNG 透明底**：make a **png with transparent background**, no image in the background"}
+{"project":"A_CALL_FROM_HORMUZ","idx":136,"sha8":"bc178e60","len":152,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":137,"sha8":"1057838f","len":674,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":138,"sha8":"fb0aad9e","len":574,"nTasks":1,"models":"default","read":true,"findings":"**PA 广播重复格式**：A loudspeaker sound comes on the **PUBLIC ADDRESS (V.O.)**, indian accent: \" All surviving crew proceed to the emergency muster station. **Repeat:** all surviving crew proceed to the emergency muster station.\"——船载广播+Repeat 复述+emergency muster station 应急集合站"}
+{"project":"A_CALL_FROM_HORMUZ","idx":139,"sha8":"245de9f3","len":318,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":140,"sha8":"d6444c60","len":531,"nTasks":1,"models":"default","read":true,"findings":"**入场方向限定+第三椅定位**：comes with a coffee mug in hand **from the left side, not from the port hole side**+sit next to next, **3rd chair from him on the same side of the table**——入场方向否定替代+座位数定位"}
+{"project":"A_CALL_FROM_HORMUZ","idx":141,"sha8":"41564c34","len":266,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":142,"sha8":"3d6969bf","len":452,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"A_CALL_FROM_HORMUZ","idx":143,"sha8":"56a8b6d8","len":93,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成/微指令（见组首行）"}

@@ -1,0 +1,352 @@
+【项目】How to Build a Website with AI in 2026: From Prompt to Live URL（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/build-website-with-ai
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+How to Build a Website with AI in 2026: From Prompt to Live URL
+Higgsfield
+Aug 10, 2026
+11 min
+
+To build a website with AI, you need two things: something to sell and a prompt that describes how the site should behave. The agent handles the rest, asking questions at the points where your answer changes what it builds, and taking corrections in the same conversation. This guide walks through both halves, from generating a product that did not exist yet to a live URL, built on Higgsfield in under two hours for around $74.
+
+Key takeaways
+Time from first prompt to live URL: under 2 hours
+Total cost: just under 1,480 credits, around $74, most of it the agent's own reasoning
+The main thing that went wrong: the agent invented product specifications that were never real, and they read so plausibly they almost stayed
+What does it mean to build a website with AI?
+
+An AI website builder turns a written description into a working site: layout, copy, images and code, produced by an agent in a chat, with you correcting the result in the same conversation. A template builder hands you blocks to drag around a fixed layout. An AI builder starts from what the site should do and how it should feel, writes the structure itself, and can wire working features into the page, which is where the two approaches stop being comparable.
+
+This guide builds one site end to end and reports everything: the prompts, the agent's questions, the mistakes, and the bill.
+
+What kinds of websites can you build with AI?
+
+Anything that fits on a few pages and does not sit on top of a complex back office. In practice that means:
+
+A launch page for a single product, which is what this guide builds
+A portfolio or a personal site
+An event page with a schedule and a signup
+A campaign microsite that runs for a few weeks and then comes down
+A small storefront with a handful of items
+An interactive demo or tool that does something when a visitor uses it
+
+The last one is worth paying attention to, since a page that generates something on request is the one thing a template cannot hand over ready-made. Before any of that, though, you need the inputs.
+
+What you need before you start
+
+The list is short:
+
+Something to sell, or at least a name and two or three sentences about what it is
+Product images, which can be generated if the product has not been photographed, or does not exist
+A clear idea of the one thing the page should make a visitor do
+Somewhere for the site to live, and a free subdomain comes with publishing, so this can wait
+
+Walkthroughs of AI site builders usually start from a business that already exists, with a logo somewhere, a folder of photographs, and a brand guide that has settled most of the questions before anyone opens a chat window. That is rarely the situation people are in when they need a site quickly. At the beginning of a new product there are no photographs of it, no logo lockup, no colour system and no packaging, and none of that gets solved by a site builder, since a layout tool can only arrange images that already exist.
+
+So we removed the safety net and invented the product as well. Everything on the site is fictional: HIGGSFIELD NATIV, a collection of two models, RUNTIME for running and IDLE for everyday wear, with the tagline A creative suite you can wear. The shoes were generated before the site existed, and nothing was brought in from anywhere else.
+
+How to build a website with AI, step by step
+
+The example runs on Higgsfield, where the site is built in a chat with Supercomputer, the agent that plans a task, generates across models and ships the result from one conversation. Everything below happened in one sitting.
+
+Step 1: Create your product images before you open the site builder
+
+We made three images in Nano Banana Pro, a studio shot of RUNTIME, one of IDLE, and one of the box. The box did more work than we expected, since it is the only surface where a brand mark sits large enough to read clearly, and it is what makes an invented label feel like it came from somewhere.
+
+This is the prompt behind the performance pair.
+
+Studio product photograph of an original performance running sneaker, right shoe, three-quarter front view, floating a few centimeters above a seamless dark graphite backdrop with a soft contact shadow beneath it.
+
+Design: modern racing silhouette with aggressive rocker geometry. Engineered knit upper in deep matte black with a fine woven texture. Thick sculpted midsole in off-white foam with a visible plate line running through it. One acid lime accent only: the heel counter wrap and a thin lime line tracing the midsole edge. Lime flat laces.
+
+Branding, rendered crisply and legibly. On the heel tab, a small rounded-square rubber patch in acid lime with a black brand mark centered inside it: a single continuous ribbon-like stroke of uniform thickness with rounded ends, curling into two opposing loops and crossing over itself once in the centre. The wordmark HIGGSFIELD in a tight condensed uppercase sans, printed small in acid lime on the lateral midsole, letters evenly spaced and perfectly horizontal.
+
+Materials: matte knit, semi-gloss rubber outsole, brushed metallic eyelets.
+
+Look: 100mm macro lens at f/8, low-key studio lighting, one large softbox top-left, hard rim light from the right edge catching the lime accent, deep controlled shadows, crisp focus across the entire shoe, very fine grain.
+
+Palette strictly limited to #0F1113 black, off-white, #2B2F33 graphite and #CCFF00 acid lime.
+
+Editorial sportswear campaign quality, 4K, no people, no watermarks, no reflective floor, no props. Aspect ratio 16:9.
+Copy
+Recreate
+
+Two details did most of the work here. We put the brand mark inside a filled rounded tile, because a container gives the model a shape to hold on to, and a thin freestanding line tends to come apart. And when choosing between renders we looked at one thing, whether the letters in HIGGSFIELD came out intact, since almost everything else can be repaired in a second pass while broken type usually cannot.
+
+Three images out of one image model, and the product half was done. Everything after this happens in Supercomputer, inside the same AI-native creative suite, which is the reason the shoes could go straight into a build without being exported, re-uploaded or renamed on the way.
+
+Step 2: Write the first prompt, describing behaviour, not layout
+
+It is tempting to write a specification at this stage, listing a header, a hero, a product grid and a footer, and what comes back tends to look exactly like the list. We described how the site should behave and how it should feel, and left the structure to the agent.
+
+Build a launch site for HIGGSFIELD NATIV, a two-model sneaker collection. RUNTIME is the performance pair, IDLE is the everyday pair.
+
+It should feel like a fast, dark editorial film: full-screen sections, big type that moves as you scroll, one acid lime accent on near-black, nothing decorative. Treat the two models as two states of the same thing and let scrolling move between them.
+
+The site should not just show the shoes. Visitors should be able to generate their own version of the shoe on the page and keep it.
+
+Tagline: A creative suite you can wear.
+Copy
+Recreate
+
+Ninety words, carrying one instruction about mood, one about structure and one about what the page should do. If you are adapting it, the shape is:
+
+“Build a launch site for [BRAND], a [WHAT IT IS]. [PRODUCT A] is [ROLE], [PRODUCT B] is [ROLE].
+
+It should feel like [THREE OR FOUR WORDS OF MOOD]: [WHAT THE SCREEN DOES], [ONE ACCENT COLOUR] on [BASE COLOUR], nothing decorative.
+
+The site should not just show [THE PRODUCT]. Visitors should be able to [THE ONE INTERACTIVE THING] on the page.
+
+Tagline: [TAGLINE].”
+
+Send it and the agent takes over, which is where the conversation starts.
+
+Step 3: Answer the agent's questions
+
+The agent asked two questions across the whole build, which was fewer than we expected. The first was whether to list the site on the Higgsfield community feed. The second came much later, and only because we had rejected its first batch of images: it wanted to know how the shoe imagery should be handled, and offered a choice between our own photographs, fewer generations, or no fixed product photography at all.
+
+This says something useful about how the interaction actually works. The agent does not interview you before it starts. It builds, and it asks at the points where your answer changes what it does next, so if you want more questions from it, the way to get them is to reject something. Which is what the first result made us do.
+
+Step 4: Check the first build for invented facts
+
+The first pass was usable and wrong in five specific ways, all of which the agent listed itself when we asked it for a build report at the end:
+
+It generated a full set of product imagery, five stills and three films, before asking whether we wanted our own, and all of it was rejected
+It invented product specifications that were never real: a carbon plate, a weight of 218 grams, an 8 mm drop, spare laces in the box
+The visitor-facing generator arrived as a card bolted onto the side of the page, separate from everything around it
+Nobody looked at a phone screen until we asked
+The scroll animations were tied to scroll position with smoothing that never terminated, so nothing ever came to rest
+
+The invented specifications are the one to be careful about. A model that fills a spec table with plausible numbers produces something that reads correctly and can sit on a page for a long time before anyone checks it. Everything else on the list is visible at a glance; this one has to be caught line by line, which is why fixing came next.
+
+Step 5: Fix one problem per message
+
+We corrected things one at a time, one message per problem, which makes it easy to see what each prompt changed. The animation was the worst of the five.
+
+The scroll animations never finish. Elements start moving and then get left partway through: rotations stop short of their final angle, headlines drift toward their position and keep easing without ever landing.
+
+Give every scroll animation a defined end state that is always reached. Pin each animated section for the full duration of its animation, so scroll progress runs from 0 to 1 before the section leaves the viewport. Every rotation must land on an exact final value with no residual offset. Replace any asymptotic smoothing with easing that terminates: if you use a lerp, add a snap threshold so the value locks to its target once it is close.
+
+Then verify every section at three scroll speeds: slow, normal, and a fast flick. In all three the animation must end in the same final state, and all text must be readable the moment the section lands.
+Copy
+Recreate
+
+The next message pulled the generator into the page, giving it the same type and framing as the product sections. The one after that asked the agent to check a narrow phone screen and confirm that headlines did not overflow, that video did not sit on top of text, and that the generator worked within one thumb reach.
+
+Eight messages in total made the site: the first prompt, answers to the agent's two questions, the rejection of its imagery, three fixes, and the request for a build report at the end. Five of those triggered a full build pass.
+
+Alongside the fixes, the agent kept adding things nobody asked for:
+
+A real database behind the locker, with serial numbers in the format NATIV-RT-4F21, stored specifications, a release action and separate tabs
+Four settings facets on top of our model-and-mood input: Material, Finish, Accent and Ground
+Five mood suggestion chips and a loading state that reads the specification out as it resolves
+A scroll-progress hairline in the hero and position markers on the two-state stage
+An app icon redrawn from our box photograph, an OG image and a favicon
+Reduced-motion fallbacks and alt text throughout
+A single content file holding every string on the site, and a script that verifies the motion
+
+That list is longer than the list of corrections, and it is the strongest argument for the approach. It is also what shipped.
+
+Step 6: Publish and check the live URL
+
+When the build is finished the agent offers to put the site live, and publishing gives it a working address on its own subdomain. What shipped was one page with eight sections by structure: hero, the RUNTIME and IDLE stages, a full-width brand film, the generator, the locker archive, unboxing, and the footer. Technically the two model stages share one pinned scene that scrolling cuts between, so eight sections render as seven pinned screens.
+
+The agent also offered a full code export, which came out as 175 files: the sections, the motion layer, the database schema and the server functions.
+
+Visitors sign in with a Higgsfield account before they can use the generator, because generation runs on their own credits and there is no anonymous path to a button that spends money.
+
+One behaviour to be aware of after publishing. Changes ship with a deploy that takes a minute or two, and the live URL serves the previous version until that completes. Publishing a second time without deploying does nothing at all, which is easy to trip over. With the site live, the numbers are worth looking at.
+
+How long it took and what it cost
+
+The first table is the shape of the work: how much conversation produced how much site.
+
+How long it took and what it cost
+
+Metric
+
+	
+
+Detail
+
+
+
+
+Total time, first prompt to live URL
+
+	
+
+Under 2 hours, including writing the image prompts
+
+
+
+
+Messages sent to the agent
+
+	
+
+8
+
+
+
+
+Build passes
+
+	
+
+5
+
+
+
+
+Questions the agent asked
+
+	
+
+2
+
+
+
+
+Assets supplied by us
+
+	
+
+3
+
+
+
+
+Assets the agent shipped
+
+	
+
+8
+
+
+
+
+Assets generated and discarded
+
+	
+
+8
+
+
+
+
+Sections on the finished page
+
+	
+
+8
+
+The second is the bill, as reported by the task's own usage counter.
+
+How to Build a Website with AI in 2026: From Prompt to Live URL
+
+Line item
+
+	
+
+Credits
+
+
+
+
+Text, the agent's own reasoning and code
+
+	
+
+1,072.32 (~$54)
+
+
+
+
+Video
+
+	
+
+324 (~$16)
+
+
+
+
+Images
+
+	
+
+83 (~$4)
+
+
+
+
+Audio
+
+	
+
+0
+
+
+
+
+Total consumed by the build task
+
+	
+
+1,479.32 (~$74)
+
+
+
+
+Of which: generations that were discarded
+
+	
+
+197 (~$10)
+
+Dollar figures are converted at twenty credits to the dollar, the rate on the plan this site was built on. Credit rates differ between plans and regions, so check the pricing page for yours. The three product images from Step 1 were generated in a separate task and are not included in this total. Every generation shows its price before you approve it. The agent's own work does not.
+
+The largest line is the one the agent did not report. Asked what the build had cost, it added up the generation jobs it had fired and answered 380 credits, missing twice: by 27, the cover assembly it could not itemise, and by 1,072, its own reasoning and code, which it does not count as spending. Of the 407 that went on generation, 197 went on a shoe it invented before our photographs arrived and discarded the moment they did. Generation would have come to around 210 credits had the product images been made first, which is the single cheapest lesson in this article.
+
+What a template cannot do
+
+A template can give you a layout, and that is where it stops, since most of what this site does only happens once a visitor is on it.
+
+A visitor picks RUNTIME or IDLE, types a word or a short phrase describing a mood, optionally sets Material, Finish, Accent and Ground, and gets back an image of that shoe reimagined in that direction with the silhouette held constant. The prompt is assembled on the server from a locked silhouette description and whatever the visitor typed. The result arrives in a locker with its own serial number and stored spec, next to every other generation.
+
+The static shots on the page are photographs of a shoe that has never existed, and the generator keeps producing more of them for people who had nothing to do with any of the decisions above. That is the capability side. The failure side deserves the same clarity.
+
+Common mistakes and where this approach falls short
+
+Four things to watch for, all of which happened in this build.
+
+Trust the counter, not the agent's memory of the bill. Asked what the build had cost, the agent reported 380 credits against an actual 1,479.32, because it counts generation jobs and not its own reasoning. The usage panel is the source of truth.
+
+Supply your assets first, or say early that you will. The agent generated five stills and three films before asking, 197 credits, all discarded when the real photographs arrived. The single biggest saving available in this workflow is order of operations.
+
+Read every fact on the page as if it were wrong. The invented spec sheet, a carbon plate, 218 grams, an 8 mm drop, read exactly like a real one. Delete any claim you did not put there yourself.
+
+Know what leaves the platform and what does not. The 175-file export renders anywhere, but the on-page generator calls Higgsfield's API, so away from the platform that one feature needs another image provider behind it.
+
+All of that surfaced inside the same two hours, which is the trade: much less time between an idea and a working address, and all of the checking still on you. The checking has a shape, and it fits in a list.
+
+Launch checklist
+
+Before calling it finished, run through the following.
+
+Open the site in a private window and look at what someone who is not signed in sees
+Read the first screen without scrolling and check that the offer is there
+Scroll every section slowly, normally and with a fast flick, and confirm that each animation ends in the same place every time
+Look at a narrow phone in portrait early on, not at the end
+Submit every interactive element with nothing in it, then with nonsense in it
+Check that every factual claim on the page is true, and delete any specification you did not write yourself
+Check that the accent colour is still an accent
+Look at the share preview: title, description, image
+Confirm that the version being served is the one you last edited
+
+HOW TO BUILD A WEBSITE WITH AI: FROM PROMPT TO LIVE URL
+Try Supercomputer

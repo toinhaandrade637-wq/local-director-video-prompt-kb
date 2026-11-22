@@ -1,0 +1,123 @@
+【项目】THE PUMPKIN HARVEST VIDEO（@higgsfield.soul · 创作者博客）
+【链接】https://higgsfield.ai/@higgsfield.soul/blogs/the-pumpkin-harvest-video
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+THE PUMPKIN HARVEST VIDEO
+Higgsfield Soul
+@higgsfield.soul
+29
+0
+0
+
+References
+
+
+
+
+SEEDANCE 2.5 Video generation prompt :
+
+SCENE CONTEXT
+
+A 29.5-second fairytale horror mood film in six shots with hard cuts. In a foggy field, a calm doll-like young woman harvests pale green carved pumpkins by piercing them with a giant sewing pin. Every pumpkin starts with a neutral carved face; the moment it is pierced its face turns frightened. She hauls the two frightened pumpkins home while the pumpkins left in the patch turn to watch her with their neutral faces. At her desk she carves new smiles into the frightened faces and smiles with satisfaction. Finally she places the last one in a cupboard full of smiling pumpkins, all staring at the camera. She never reacts to the pumpkins. No pumpkin ever glows.
+
+ACTIVE REFERENCES
+
+@Image 1 controls the woman's face in every shot: fair skin, bright blue eyes, defined dark brows, full rosy lips, long straight dark-brown hair with a centre part, pastel flower earrings (lilac on one ear, light blue on the other). Ignore 's headband, collar and background.
+
+@Image 3 controls the wide composition of shot 2, her outfit and headwear (white polka-dot headscarf with a large pink button and a pale green ribbon, dusty-pink pinafore dress over a lilac-striped blouse with cream cuffs, white tights, pink shoes), the giant sewing pin (long teal shaft about 1.5 m with a glossy pink ball head and a sharp tip), the pink wheelbarrow with a grey tub, black tyres and pink hubs, the foggy field, the striped cottage with a pink arched door and checkered turret, the trees and the fog.
+
+@Image 2 controls the cottage interior: blue-green painted wooden walls and beams, round foggy windows, the pink plaster wall with vintage scissors and tools, the wooden desk with pink drawers and carving tools, the spindle chair, the painted cupboard with open doors and two shelves, the marble statue, the small wall sconces with warm bulbs.
+
+@Image 4 controls the NEUTRAL carved face style: small round hollow eye holes, a small nose hole, a short calm mouth cut.
+
+@Image 3 controls the FRIGHTENED carved face style: round hollow eye holes, a triangular nose hole, a wide gaping oval mouth with rough jagged edges.
+
+@Image 5 controls the SMILING carved face style: slanted eye holes, a triangular nose hole, a wide jagged grin with upturned corners.
+
+PUMPKIN FACE RULES
+
+Every pumpkin is pale light sage-green with greyish-white ribs, as in @Image 3 and @Image 4. Every face is a realistic cut through the rind: hollow, dark openings with visible pale rind thickness at the edges. No eyeballs, no pupils, no painted features, nothing inside the holes; the face exists only as carved openings. Each pumpkin has its own individual cut shapes, but all pumpkins in the same state share the same emotion.
+
+Sequence: every pumpkin is NEUTRAL until it is pierced. It turns FRIGHTENED at the instant of piercing and stays frightened until she carves it. Carved pumpkins are SMILING. Pumpkins that are never pierced stay neutral. Expression changes happen by the carved openings smoothly reshaping in the rind; the pumpkin keeps its shape, size and colour.
+
+GLOBAL RULES
+
+One woman only, face from @Image 1, outfit from @Image 3. Her expression is calm and neutral in every shot except the satisfied smile in shot 4B. No pumpkin glows; carved openings are always dark and hollow. Colour grade constant across all shots: foggy grey-green, pale sage, dusty pink and teal outdoors; faded blue-green, dusty pink and warm wood indoors. Photorealistic fairytale magical-realism film, fine natural film grain. Natural motion cadence, no ghosting, no flicker, no morphing of pumpkins, pin or wheelbarrow.No voice.
+
+SHOT 1 — 0.0-3.0s — EXTREME CLOSE-UP, STATIC
+
+Camera on the ground about 0.5 m from pumpkin A, half-sunk in dark soil, at the height of its face, 47° field of view, shallow depth of field. Her pink shoe is at the top right edge of frame, a pink wheelbarrow hub at top left. Pumpkin A shows a NEUTRAL face toward camera, as in @Image 4. The sharp teal pin tip hovers above its stem. The camera does not move.
+
+0.0-0.8s: The tip presses into the rind beside the stem, dimpling it.
+
+0.8-1.2s: It punches through with a crunch.
+
+1.2-3.0s: The carved face reshapes into FRIGHTENED, as in : the eye holes widen, the mouth tears open into a gaping jagged oval. Hold.
+
+Sound: thick crunch, then a faint dry creak of rind.
+
+SHOT 2 — 3.0-10.0s — WIDE, STATIC
+
+Framing and composition as : camera on a tripod at about 1.4 m height, about 3 m in front of her, 84° field of view, deep focus softened by fog. The camera does not move. She is bent forward at centre, the pin driven into the FRIGHTENED pumpkin A at her feet. The wheelbarrow is at the left edge of frame; at the start its tub holds only uncarved pumpkins with no faces. Pumpkin B, with a NEUTRAL face as in @Image 4, lies on the soil at bottom-right beside her right foot. The cottage stands at upper right in the fog.
+
+3.0-6.0s: She lifts the pin with pumpkin A on it, turns to the wheelbarrow and slides it off into the tub, its frightened face toward camera.
+
+6.0-8.0s: She steps to pumpkin B and drives the pin through it; its face turns FRIGHTENED at that instant.
+
+8.0-10.0s: She lifts it, turns and slides it into the tub beside pumpkin A. Two frightened faces look out of the tub toward camera.
+
+One pumpkin on the pin at a time. Real weight: she leans her body into the pierce, the wheelbarrow jolts at each drop, her dress and headscarf ribbon swing.
+
+Sound: field ambience, distant crow, crunch, rind creak, hollow thuds, wheelbarrow creaks.
+
+SHOT 3 — 10.0-16.0s — MEDIUM, LOW, SLOW PUSH-IN
+
+Camera low on a tripod at about 0.6 m height in the pumpkin patch, behind her, 63° field of view, deep focus softened by fog, with a very slow steady push-in. She walks away from camera up the path toward the striped cottage with the pink door in the background, pulling the wheelbarrow behind her by its handles; the pin lies across the tub, and the two FRIGHTENED faces of pumpkins A and B look back toward camera. On both sides of the path in the foreground and midground, six pale green carved pumpkins sit in the patch, all with NEUTRAL faces as in @Image 4, at first turned toward camera.
+
+10.0-16.0s: She walks steadily toward the cottage, eyes ahead. As she moves away, the patch pumpkins one after another slowly rotate on the soil to face her, their NEUTRAL faces turning from camera toward her back. Their expressions never change. By 16.0s every patch pumpkin faces her as she nears the pink door.
+
+Real weight: wheels sink into soft soil and bump over vines; turning pumpkins grind on the earth and drag small vines.
+
+Sound: rolling wheelbarrow creak, soft footsteps, slow dry grinding of pumpkins turning.
+
+SHOT 4A — 16.0-21.0s — MEDIUM, ACROSS THE DESK, VERY SLOW PUSH-IN
+
+Inside the cottage from @Image 2. She sits at the wooden desk on the spindle chair, facing camera. The camera is low on the desk against the wall, about 1 m from her, at chest height, 50° field of view, shallow depth of field, very slow push-in toward her. Pumpkins A and B sit on the desk between camera and her, both turned with their faces toward her, so the camera sees only their smooth pale green backs and stems; their faces are never visible in this shot. Behind her the dim room is softly out of focus; the cupboard is not in frame.
+
+16.0-20.0s: She holds pumpkin A steady with her left hand and carves its face with a short carving knife in calm, precise strokes, eyes lowered to the work. Small pale rind pieces fall onto the desk.
+
+20.0-21.0s: She lifts the knife away and looks at the face she has carved.
+
+Sound: quiet room tone, wooden creaks, the scrape of the knife through rind, rind pieces dropping on wood.
+
+SHOT 4B — 21.0-23.5s — CLOSE-UP, STATIC
+
+Close-up of her face from the front at eye level, about 0.8 m away, 47° field of view, the warm wall sconce soft behind her. The camera does not move. Still looking down at the pumpkin, she slowly breaks into a quiet, satisfied smile: the corners of her lips rise, her cheeks lift, her eyes soften. Natural human expression, gentle and a little unsettling. Hold.
+
+Sound: room tone, a soft exhale.
+
+SHOT 5 — 23.5-29.5s — FRONTAL ON THE CUPBOARD, STATIC THEN SLOW PUSH-IN
+
+Camera frontal to the open painted cupboard from @Image 2 at shelf height, about 2 m away, 50° field of view, both open doors at the frame edges. Both shelves are packed with pale green pumpkins, about twelve, all with SMILING faces in the style of @Image 5, each cut individually, all facing the camera. One empty spot remains on the top shelf at right.
+
+23.5-26.5s: Static. She steps in from the right edge of frame, holding the freshly carved pumpkin with its face toward her, sets it in the empty spot and turns it so its SMILING face looks at the camera. She steps out of frame to the right.
+
+26.5-29.5s: The camera slowly pushes in on the shelves. Every SMILING face stares straight into the lens. Cut to black.
+
+Lighting: cool foggy daylight from the round window plus the soft warm spill of a wall sconce, as in @Image 2; carved openings dark and hollow.
+
+Sound: footsteps on floorboards, a soft knock of the pumpkin on the shelf, then silence.
+
+POSITIVE CONSTRAINTS
+
+Pumpkin faces are only realistic carved openings, never eyeballs. Neutral until pierced, frightened from piercing until carved, smiling only after carving. In shot 3 all patch pumpkins stay neutral while turning toward her. In shot 4A no pumpkin face is visible. Smiling faces appear only in shot 5, all looking at the camera.
+
+
+
+
+See all
+Copy prompt
+Recreate

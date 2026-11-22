@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "archived_date": "2026-10-18",
+  "thread_id": "01a11b93-0d5d-72b0-9a10-5b9fa386a1a1",
+  "source_user_record_line": 1591,
+  "original_message": {
+    "utf16_length": 9359,
+    "sha256_utf8": "70ad1ba548d4666c557c9d74628a6494606a66977610d69b1657a1676b2339b1",
+    "path": "资料库/00_完整原始消息/用户新增案例原始消息_2026-10-18_五段纪录片观察.txt"
+  },
+  "fidelity": "连续切片保存五段原文，保留引用、改稿说明、标点、反斜杠及末尾用户用语，不修改图号或时间。",
+  "reconstruction_verified": true,
+  "cases": [
+    {
+      "id": "P039",
+      "title": "日出男孩奔跑敲鼓_五镜纪录片",
+      "path": "资料库/01_用户提示词原文/P039_日出男孩奔跑敲鼓_五镜纪录片.txt",
+      "source_start_utf16": 0,
+      "source_end_utf16_exclusive": 2193,
+      "utf16_length": 2193,
+      "sha256_utf8": "0a5943d12509e8d6813ece9be1f3bd5fd6e0b2a1b2b219d31b00d0fd7a2df3ad",
+      "validation": "2026-10-18新增结构样本，未单独确认生成结果；所指参考资产未随本批提供。"
+    },
+    {
+      "id": "P040",
+      "title": "草原狩猎_起跑放箭与追摇承接",
+      "path": "资料库/01_用户提示词原文/P040_草原狩猎_起跑放箭与追摇承接.txt",
+      "source_start_utf16": 2193,
+      "source_end_utf16_exclusive": 4214,
+      "utf16_length": 2021,
+      "sha256_utf8": "8760f64295b1a479b4c2af9e4d9d381088a90d6ebac8912eb827b5c944920f87",
+      "validation": "2026-10-18新增结构样本，未单独确认生成结果；所指参考资产未随本批提供。"
+    },
+    {
+      "id": "P041",
+      "title": "男孩被架离圣地并关入黑屋",
+      "path": "资料库/01_用户提示词原文/P041_男孩被架离圣地并关入黑屋.txt",
+      "source_start_utf16": 4214,
+      "source_end_utf16_exclusive": 6179,
+      "utf16_length": 1965,
+      "sha256_utf8": "6615da6d409537e8726ce445c8fca6affed67e51bdaceb2b71f2826ac1765258",
+      "validation": "2026-10-18新增结构样本，未单独确认生成结果；所指参考资产未随本批提供。"
+    },
+    {
+      "id": "P042",
+      "title": "五女采摘闻嗅分享蘑菇",
+      "path": "资料库/01_用户提示词原文/P042_五女采摘闻嗅分享蘑菇.txt",
+      "source_start_utf16": 6179,
+      "source_end_utf16_exclusive": 8840,
+      "utf16_length": 2661,
+      "sha256_utf8": "a2b10e7604d554a4adda9e1dfef15c6e6aeed9cc3d692bd64f3ae4b78a548c4c",
+      "validation": "2026-10-18新增结构样本，未单独确认生成结果；所指参考资产未随本批提供。"
+    },
+    {
+      "id": "P043",
+      "title": "拾荒者围观病者与转向Echo_简式分镜",
+      "path": "资料库/01_用户提示词原文/P043_拾荒者围观病者与转向Echo_简式分镜.txt",
+      "source_start_utf16": 8840,
+      "source_end_utf16_exclusive": 9359,
+      "utf16_length": 519,
+      "sha256_utf8": "d5e72b326954b82b3a074a59e8319dcd7d27f9fb2f9e0359b92d859f76dbddd0",
+      "validation": "2026-10-18新增结构样本，未单独确认生成结果；所指参考资产未随本批提供。"
+    }
+  ]
+}

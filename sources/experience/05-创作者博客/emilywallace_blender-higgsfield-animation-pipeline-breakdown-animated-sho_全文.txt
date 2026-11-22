@@ -1,0 +1,1657 @@
+【项目】BLENDER + HIGGSFIELD ANIMATION PIPELINE BREAKDOWN (ANIMATED SHORT FILM)（@emilywallace · 创作者博客）
+【链接】https://higgsfield.ai/zh/@emilywallace/blogs/blender-higgsfield-animation-pipeline-breakdown-animated-short-film
+【提示词块】20
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+BLENDER + HIGGSFIELD ANIMATION PIPELINE BREAKDOWN (ANIMATED SHORT FILM)
+@emilywallace
+7.6K
+30
+18
+
+Passport Rush is our five-minute animated action comedy in production. This breakdown shares the asset library, Blender blocking and full prompts behind its teaser sequence. The goal was a consistent film world: expressive 3D characters, a readable yellow taxi and a watercolor environment that could survive fast camera moves.
+
+Passport Rush — Teaser
+
+0:00 / 0:00
+
+Passport Rush — teaser
+
+Before You Start
+
+Build the recurring assets before generating scenes. A character sheet, a taxi car sheet and a clear location reference give every shot the same visual starting point. Fix the designs once, then reuse those corrected references throughout the sequence.
+
+We used SOUL 2.0 for base image assets, hand work in Photoshop to refine them, Seedream 5.0 Pro for the roofless taxi car, Blender for camera and action blocking, and Seedance 2.5 for video generation. 
+
+
+
+
+The  prompts used here are included below.
+
+Planning — Storyboards
+
+boards 1
+
+Start with the storyboard. Decide the action, composition and timing before asking the model to interpret the shot. Use simple Blender previs when camera movement, vehicle spacing or physical comedy needs precise control.
+
+Stage 1 — The Assets
+
+The images in these blocks show the design process as well as the approved references. Use the final, hand-corrected designs for scene generation; earlier variants explain how the look developed.
+
+Asset - The Girl
+
+The Girl
+
+Final after hand work ✅
+
+What it does: Creates the girl’s full-length base design. The final reference was refined by hand to lock her silhouette, costume and accessories.
+
+Keep the ginger hair, blue hoodie and white headphones consistent. 
+
+A written accessory lock helps, but every camera reference must show the same costume too.
+
+A cute young East Asian woman shown on her own, full-length, standing in a
+
+relaxed three-quarter stance with her face turned to the viewer, on a plain
+
+clean white background, nothing else in the frame, no environment. Her face
+
+is fully visible.
+
+She is slender with long slim bare legs. Her copper-red hair is worn LOOSE —
+
+long and softly straight with a gentle wave, parted in the middle, falling
+
+freely over both shoulders and down past her chest, a few light strands
+
+framing the face. Pale clear skin, delicate features: light grey-blue eyes
+
+with a calm level gaze, fine natural eyebrows, a small neat nose, the
+
+faintest blush and softly closed lips — a quiet, composed expression.
+
+Her outfit, head to toe: an oversized dusty steel-blue zip-up hoodie, worn
+
+unzipped and slouchy, the hood lying back with some of the loose hair
+
+resting over it, white flat drawstrings hanging down, a small red chenille
+
+varsity letter patch on the left chest, ribbed hem and cuffs, the sleeves
+
+pushed into soft scrunched folds at the wrists — both hands tucked into the
+
+front pockets. Under it a plain white cotton long-sleeve tee with a simple
+
+crew neck, its hem falling loose, the white sleeve cuffs just peeking out
+
+of the hoodie's scrunched sleeves. Around her neck, resting on the white
+
+crew neckline and over the fallen hair, a pair of cream wireless over-ear
+
+headphones with soft cushioned ear cups and a padded headband, worn like a
+
+collar. Below the hoodie's long hem a pleated beige-khaki mini skirt just
+
+peeks out. Long bare legs, then loose cream ribbed-knit socks pulled up
+
+over the knees and slouched in soft rolls. Classic red canvas low-top
+
+sneakers with white laces, white rubber soles and toe caps.
+
+Lit softly and evenly, with a faint soft shadow directly beneath her feet —
+
+the background stays pure white.
+
+one cute girl with long loose copper-red hair, full-length view, face fully
+
+visible, oversized blue hoodie over a white long-sleeve tee, headphones
+
+around the neck, pure white background, nothing else in the frame
+
+查看全部
+复制提示词
+重新创作
+Asset — The Taxi Driver
+
+Asset — The Taxi Driver
+
+ Taxi Driver — after hand detail ✅
+
+What it does: Creates a three-view character sheet for the older taxi driver, with one consistent face, outfit and set of proportions.
+
+The final sheet includes hand adjustments. 
+
+Reuse that corrected sheet when animating him.
+
+Character reference sheet of one older man, three views arranged side by side on a plain flat cream background, evenly spaced, full figures aligned on the same ground line. LEFT — FULL BODY FRONT VIEW: standing straight and relaxed, weight evenly on both feet, feet slightly apart pointing forward, both arms hanging down at his sides, hands open and relaxed, shoulders level, head facing directly at the viewer, calm neutral expression, slight tired droop to the eyes. CENTER — FULL BODY BACK VIEW: exactly the same standing pose seen from directly behind, arms down at the sides, the back of the cap and the bare nape of the neck visible, showing the back construction of the cap, shirt and trousers. RIGHT — LARGE CLOSE-UP PORTRAIT: head, shoulders and upper chest only, cropped large so the face fills most of the panel, slight three-quarter turn of the head toward the viewer, same neutral expression, cap clearly readable, shirt collar visible at the bottom edge. CHARACTER: an older man of Indian origin, roughly 60 years old, medium height, soft heavy build with a rounded belly, sloping shoulders, thick forearms and a short neck. Warm medium-brown skin with visible age: forehead creases, crow's feet at the eye corners, deep nasolabial folds, slight jowls, soft double chin, faint dark circles under the eyes. Broad face with a wide nose, full cheeks, small dark brown eyes. HEAD: completely bald — no hair at all on the scalp, smooth bare skin above and behind the ears, clean shaved head. Eyebrows are thin and grey. Thick bushy grey moustache covering the upper lip, full and wide. Clean-shaven cheeks and chin with faint grey stubble shadow. Round thin gold wire-frame glasses with small circular lenses sitting low on the nose. HEADWEAR: a classic taxi-driver cap — a soft flat cap / newsboy-style driver's cap in dark grey-brown herringbone wool, rounded low crown made of stitched panels, short stiff brim at the front, a small button at the top centre, worn straight and slightly pushed back so the bald forehead shows beneath the brim. CLOTHING: dark brick-red / maroon short-sleeve button-up shirt, plain, worn loose over the belly, collar folded open, tucked in at the waist. Bottom: blue denim jeans with an Indian flavour — straight relaxed cut, mid-blue washed denim, folk embroidery along the outer seams in warm ochre, saffron, magenta and turquoise thread, small mirror-work discs near the pockets, a leather belt with a chunky brass buckle. Simple brown leather open-toe sandals (kolhapuri style) on bare feet. Empty hands, no props. Consistent character design, identical face, bald head, cap, glasses, moustache, clothing colours and body proportions across all three views. Clean neutral background, no scenery, no text, no labels, no arrows.
+
+查看全部
+复制提示词
+重新创作
+Location 
+
+Asset — The Highway
+
+watercolor loc + golden-hour prompt ✅
+
+What it does: Builds the highway composition: curving lanes, green embankments and a distant city skyline.
+
+The production look combines a watercolor location with controlled cinematic lighting. The location prompt below establishes layout; the video lighting is locked separately in Stage 2.
+
+Elevated view from a pedestrian overpass looking down a six-lane urban
+
+highway that does NOT run straight: it enters the frame from the bottom left
+
+in a wide sweeping curve, bends gently to the right through the middle
+
+ground, then straightens only near the horizon — a long, shallow S-curve
+
+receding into the distance. The guardrail, shoulder and the row of tall lamp
+
+posts all follow the same arc rather than a straight line. Wide asphalt
+
+roadway split by a curving central grass median; near carriageway nearly
+
+empty, far carriageway filled with cars, a box truck and a yellow school bus
+
+following the bend. White dashed lane markings, solid yellow line along the
+
+inner edge. Both sides are steep green slopes densely covered with deciduous
+
+trees and shrubs; grassy embankment on the left, a single-track railway on
+
+gravel ballast and electricity pylons behind the trees on the right, curving
+
+away with the valley. Beyond the treetops, a city skyline: a tall residential
+
+tower on a hill at the right, industrial buildings and smokestacks in the
+
+centre, construction cranes, distant towers fading in haze. Pale hazy white
+
+sky, no clouds, soft diffused summer daylight, high horizon line, curving
+
+perspective.
+
+查看全部
+复制提示词
+重新创作
+Asset — The Yellow Taxi
+
+Asset — The Yellow Taxi
+
+3D model generated FROM the watercolor ✅
+
+What it does: Creates a three-view design sheet of the same compact yellow taxi.
+
+The watercolor design established the car’s personality, but its texture broke down in motion. A cleaner 3D version based on that design gave us a more stable vehicle for the chase.
+
+Vehicle reference sheet of one and the same yellow taxi cab, three views of the identical car stacked vertically in one tall image, each view its own band, plain seamless light background, even soft lighting, soft contact shadow under the car in each view. THE CAR — a small stubby toy-like taxi with exaggerated compact proportions: a very short hood, a tall boxy cabin with a high flat roof, a nearly vertical rear end, thick rounded corners and soft inflated body panels with no sharp creases. Short wheelbase, wide track, oversized chunky black wheels with plain grey steel-look hubs pushed right out to the corners of the body, small wheel arches barely covering them, high ground clearance. Large tall greenhouse: a big upright windshield, wide square side windows with thick pillars, a small quarter window behind the rear door, thin dark window frames. Simple flat front face — a small dark grille slot with a tiny round emblem in the center, two big oval headlights with clear lenses, small square amber turn signals at the outer corners, a plain rounded bumper with a white rectangular license plate reading 8887 in the middle. Rounded pill-shaped side mirrors on short stalks, small oval door handles, a low simple bumper line running around the body. TAXI IDENTITY — uniform bright glossy taxi yellow paint over the whole body, a rectangular taxi light box on the roof center with a black base, orange-red top and a white number panel reading 8B87, a short black antenna behind it, a black circular emblem with a white letter T on both front doors with small dark text lines beside it, a small round badge with an orange accent on the rear door, small side reflectors near the wheel arches, dark tinted rear glass, black interior with a partition and headrests visible through the windows. TOP BAND — front three-quarter view: seen from the front-left at slightly above bumper height, angled about 30 degrees so the short hood and the full left flank are visible. MIDDLE BAND — top-down view: seen from directly overhead, flat plan view, nose pointing left, whole car in frame, showing the wide square roof, the roof light box, antenna, black mirrors sticking out on both sides, hood and tailgate panel gaps, and the T emblems on the doors. BOTTOM BAND — pure side profile: seen exactly from the left at wheel-hub height, no perspective distortion, showing the short overhangs, tall boxy cabin, big wheels at the corners and the roof sign silhouetted above the roof. All three views must show the exact same vehicle with identical proportions, paint, markings, roof sign, plate number and wheels, consistent scale, centered in each band.
+
+查看全部
+复制提示词
+重新创作
+Asset — The Roofless Taxi
+
+Asset — The Roofless Taxi
+
+Roofless version for the finale ✅
+
+What it does: Edits the taxi into its damaged finale version while preserving the original vehicle’s identity and camera angle.
+
+Reference: attach the intact taxi as @Image1. The roofless output becomes a separate continuity asset for later shots.
+
+Use @图片 1 as the base concept, preserving the car’s
+
+identity, proportions, color, camera angle, and environment.
+
+Show the car with its roof and upper cabin structure
+
+violently ripped away, leaving the interior exposed.
+
+The damage must look physically believable and chaotic:
+
+jagged torn sheet metal, buckled roof pillars,
+
+twisted window frames, shattered glass remnants,
+
+and irregular fractures around the remaining bodywork.
+
+Vary the damage across both sides.
+
+Leave some structural pieces bent outward and others
+
+crumpled inward, with exposed seams, chipped paint,
+
+and raw metal visible along the torn edges.
+
+Keep the lower body recognizable, with localized dents
+
+and deformation where the upper structure was torn away.
+
+The result should look like a genuinely wrecked car,
+
+not a convertible, a precision cutaway,
+
+or a neatly disassembled vehicle.
+
+Avoid smooth cut lines, symmetrical breaks,
+
+polished edges, and cleanly separated components.
+
+Match the reference’s lighting and visual treatment.
+
+Render convincing material thickness, contact shadows,
+
+and depth inside the exposed cabin.
+
+No people, no added text, no watermarks.
+
+查看全部
+复制提示词
+重新创作
+Assets — Taxi Interiors and Trucks
+
+Assets — Taxi Interiors and Trucks
+
+Front seat — after hand fixes
+
+What they do: The front and rear cabin references lock upholstery, seat geometry, handles and windows. The delivery and log trucks define the obstacles used in the chase.
+
+These are finished supporting references. Match each scene’s numbered input map rather than assuming that the same image number always means the same asset.
+
+Asset — The Explosion
+
+Asset — The Explosion
+
+0:00 / 0:00
+
+Hand-textured to character style
+
+What it does: Creates a readable explosion base on a white background, ready for a separate texture pass.
+
+We started from a realistic explosion shape, then added texture by hand to bring it into the film’s visual style. Use the hand-textured version in the final scene.
+
+A straight-on studio shot depicts a single, massive nuclear mushroom cloud explosion set alone against a pure, solid white backdrop. The fire and smoke assume the iconic atomic blast shape, presenting a dramatic column with a broad upper cap, captured as an isolated object, with no sky, horizon, landscape, or figures in the frame. The cloud structure features a huge bulbous top, resembling a rounded mushroom cap formed by roiling, boiling fire in shades of blazing orange, deep red-orange, and crimson, alive with tumbling billows and laced with dark veins of charcoal smoke. At the core, a white-hot central glow radiates brightly from within the dome. The underside of the cap curls inward in a thick rolled rim, transitioning into a tall, turbulent stem of dense smoke, which glows with its own internal fiery orange at the core that fades to dark brown-grey at the edges. The column twists upward, forming oversized cauliflower-like billows feeding into the cap. At the bottom, the column flares outward, forming a wide, ring-shaped skirt of churning orange-lit smoke clouds—highlighted on their sunward sides and deepened to umber on the shadowed portions. This studio setup is lit softly and evenly from all sides like a high-end product image, with the internal fire glow providing the dominant source of illumination. The fire and smoke are rendered cleanly and crisply, with sharp, well-defined edges for a sense of isolation against the background. A faint, soft studio shadow is visible directly under the base, heightening the sculptural clarity. The color palette features hot oranges, reds, white-hot highlights, fading to brown-gray and umber shadows, all against a flat white background. Captured with a high-resolution camera and deep focus, the immaculate image shows no digital artifacts, noise, or film grain, with crisp rendering throughout, which contributes to a dramatic, cinematic, and hyperreal mood.
+
+查看全部
+复制提示词
+重新创作
+Stage 2 — The Prompting Framework
+
+A usable scene prompt needs more than an action description. Give it a reference map, a clear first frame, the camera’s position, the sequence of physical actions and the details that must remain unchanged.
+
+
+
+
+Our working order was:
+
+Establish the scene with a storyboard or simple Blender previs.
+Attach the approved characters, props, interior and location references.
+Describe the action in timed beats, including how the shot ends.
+Lock continuity: seats, accessories, vehicle damage and lighting.
+Check the result against the references, then revise the specific source of the error.
+
+Reference numbering is local to each prompt. The numbered image and video tokens below are input labels, not reusable element names. Attach the described media to the matching slots. Different scene prompts use different seat layouts and reference orders; keep each prompt together with its own map.
+
+Blender Previs
+
+ Blender Previs
+
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+
+Blender example 1 — squash & stretch
+
+What it does: A simple animated blockout supplies camera movement, timing and spatial relationships. Use it for the parts that are difficult to communicate with prose: squash and stretch, a taxi tilting through a narrow gap, or a fast camera move.
+
+The previs does not need final materials. Its job is to make the motion and composition unambiguous; the approved image references supply the finished look.
+
+Framework — Shared Lighting
+
+What it does: This reusable lighting fragment keeps warm highlights, cool shadows and a consistent light direction across the sequence. It is a component of a scene prompt, not a standalone shot request.
+
+LIGHTING (cinematic). a golden-hour low-angle warm key light cuts diagonally across the whole frame, pulling long hard-edged shadows across the car body, the characters and the road; shadows lean cool, highlights lean warm — a cold/warm contrast that builds depth. Every segment uses key + rim light… Light position locked, color temperature consistent, no other light source ever appears.
+Framework Example — A Controlled Two-Shot Sequence
+
+What it does: This complete example specifies two timed shots, a single hard cut and separate reference responsibilities for a roofless-taxi encounter.
+
+Reference setup: the prompt calls for the highway, roofless taxi, two police-character references, the motorcycle, the driver, the heroine’s crossed-seatbelt pose, a composition keyframe and a heroine video reference. The police, motorcycle and composition references are not included in this page’s asset set; supply them before recreating this example.
+
+STYLIZED 3D ANIMATED-FILM SEQUENCE, slapstick action comedy from "PASSPORT RUSH" (taxi chase). Controlled 2-shot sequence with one HARD CUT, each shot one continuous take, real-time speed, NO slow motion, animation ON TWOS (every key pose held exactly 2 frames, stepped pose-to-pose, no mushy interpolation), FULL 12 PRINCIPLES applied (squash & stretch, anticipation, staging, pose-to-pose, follow-through & overlap, ease in-out, arcs, secondary action, timing, exaggeration, solid drawing, appeal). 16:9 cinematic. Total 6 s: Shot 1 = 3 s, Shot 2 = 3 s.
+
+SCENE CONTEXT
+
+A battered roofless yellow taxi races down a mountain highway with a traffic cop standing on its hood, glaring at the driver; his partner rides far ahead on a motorcycle. The taxi brakes hard, skids a short way forward on locked wheels, and stops with its nose pressed down; the cop is flung off the hood in a violent instant — deep into the frame toward his partner — and lands, back-first, on the rear seat of the partner's motorcycle. The driver and the girl in the back seat stay exactly where they are.
+
+ACTIVE REFERENCES
+
+@图片 1 — ROAD LOCATION: a wide multi-lane mountain highway curving down a green forested hillside, watercolor-painted look — guardrails, a blue overhead gantry sign with star symbols (no readable text), tall streetlamps, distant hazy valley and grey-blue mountains, soft overcast sky. This is the road the chase happens on.
+
+@图片 2 — THE TAXI: a rounded vintage yellow taxi with its ROOF TORN OFF — jagged torn metal stumps where the pillars were, no windshield glass, exposed brown leather bench seats, round chrome headlights, chrome bumper, white plate "667", a black "T" in a circle on the doors. 100% matches the reference; the roof stays torn off.
+
+@图片 3 — COP 1: a tall, thin, lanky traffic policeman — white helmet with a small red beacon light and chin strap, big round eyes, thick black brows, black long-sleeve uniform with white lanyard cord, white ascot, white belt, white gauntlet cuffs, black gloves, black jodhpur trousers, tall black boots. 100% matches the reference.
+
+@图片 4 — COP 2: a short, round, stout traffic policeman — white helmet with a red beacon, black sunglasses, small moustache, smug pursed mouth, black short-sleeve uniform with white lanyard, white ascot, white belt and pouches, white gauntlet cuffs, black gloves, wide black breeches, black boots. 100% matches the reference. His MOTORCYCLE is the white vintage police bike from the reference — white fairing with round headlight, tall windshield, twin mirrors, blue stripe on the tank, black bench seat long enough for two, white side panniers, white front fender.
+
+@图片 5 — THE TAXI DRIVER: a stout elderly man with a grey moustache, wire glasses, a tweed flat cap, a maroon short-sleeve shirt over a white tee, light-blue jeans, sandals; calm, kind, unflappable face. 100% matches the reference. He sits at the wheel in the front seat.
+
+@图片 6 — HEROINE SEATING CONTEXT: the heroine sits in the CENTER of the taxi's rear bench seat, strapped in with two seatbelts CROSSED over her chest in an X, both fists gripping the belts, jagged torn roof stumps rising either side of her. This exact seating and harness in Shot 1.
+
+@图片 7 — SHOT 1 COMPOSITION KEY: the exact framing of Shot 1 — a very low camera just behind the taxi's LEFT REAR WHEEL, the yellow rear fender, tail light, chrome bumper and big black rear tire filling the left half of the frame in low left-rear three-quarter, the "T" door badge and torn windshield frame receding along the flank, the heroine's orange hair just visible above the rear seat at top-left; Cop 1 standing tall on the hood beside the windshield frame in the upper-centre, glaring, arms out; the highway curving away to the right with a guardrail, the blue gantry sign, green hillside and hazy mountains beyond; Cop 2 on his white motorcycle a small figure far down the road at the lower-right, riding away; tire smoke at the bottom edge. Shot 1 reproduces THIS composition, this angle, this lens feel and this placement of every element. (Ignore any minor design deviations in this reference — designs come from @图片 2/@图片 3/@图片 4.)
+
+@视频 1 · 46 秒 — HEROINE: young girl, long straight orange-red hair, big blue eyes, freckles, oversized blue zip-up hoodie with red "N", white headphones around her neck, beige-brown pleated skirt, red thread bracelet. 100% matches the reference.
+
+TAXI GEOMETRY LOCK: front seat — the driver @图片 5 at the wheel (left-hand drive), the passenger seat empty; rear bench — the heroine @视频 1 · 46 秒 alone in the centre, belted in the @图片 6 X-harness; Cop 1 @图片 3 standing upright on the HOOD next to the empty windshield frame, boots planted on the yellow metal, knees bent, arms out for balance, body turned to FACE THE DRIVER, glaring at him. Far ahead on the same highway, small in the distance at lower-right, Cop 2 @图片 4 rides his motorcycle away from the taxi in the same direction, helmet beacon a tiny red dot.
+
+SEAT LOCK (HARD LOCK, Shot 1): the DRIVER and the HEROINE STAY IN THEIR SEATS for the entire shot — the driver's hands on the wheel, backside on the front bench, cap on his head; the heroine belted in the centre of the rear bench by her X-harness, fists on the belts. The brake throws their hair, clothes and upper bodies forward and back, but neither of them leaves the seat, stands up, climbs out or is launched — ONLY Cop 1 flies off the car.
+
+CAMERA RIG LOCK (HARD LOCK, Shot 1): the camera is HARD-MOUNTED TO THE TAXI'S BODY — it is part of the car. It travels at the car's full speed, so the taxi stays locked in the same place in frame while the world streams past; when the taxi brakes, the CAMERA BRAKES WITH IT — same instant, same violence: the frame lurches with the nose-dive, jolts through the short forward skid, and comes to the same abrupt dead halt with the same nose-press and rebound, the streaming background snapping to a sharp standstill. The camera never floats free of the car, never continues forward after the stop, never drifts, pans or eases on its own.
+
+BRAKE PHYSICS LOCK (HARD LOCK, Shot 1): the stop happens in three readable stages. (1) BRAKE BITE — the driver stamps the pedal, all four wheels LOCK instantly, the nose dives, the tail lifts, tire smoke bursts. (2) INERTIA SKID — the taxi does NOT stop on the spot: it keeps SLIDING FORWARD on locked, smoking, non-rotating tires for a short distance — about one car length, roughly 0.4 s — the road still streaming past but decelerating hard, the car slewing a few degrees, skid marks unrolling behind. (3) THE DEAD STOP — the slide ends with a hard jolt: the FRONT END PRESSES DOWN visibly on its suspension, the front bumper dipping toward the asphalt, the front tires flattening, the whole body pitching nose-down — then rebounds up once and settles level. Cop 1 is thrown at stage (1), the very first frame of brake bite, not later.
+
+LAUNCH LOCK (HARD LOCK, Shot 1): Cop 1's departure from the hood is VIOLENT AND INSTANT — a catapult, not a slide. From standing to fully airborne takes 2–3 frames: one frame of his boots losing the hood, the next frame his whole body is already stretched flat in the air a full body-length ahead of the car, the next he is a shrinking streak down the road. His body snaps from upright to a rigid horizontal line with a whip-crack, arms and legs locking straight, motion-blurred and trailing speed lines for the first frames; no wind-up, no gentle tipping, no hang time.
+
+SHOT 1 — THE BRAKE AND THE LAUNCH, LOW AT THE WHEEL (3 s)
+
+Shot job: speed, the hard stop, the violent launch into depth.
+
+CAMERA: per CAMERA RIG LOCK, exactly as in @图片 7 — a very low camera about 25 cm above the asphalt just behind the left rear wheel, the tire and fender looming large in the left foreground, looking forward and slightly up along the car's flank in left-rear three-quarter; rigid to the car; tiny road vibration only.
+
+FIRST FRAME: the @图片 7 composition — the left rear tire spinning into a blur in the lower-left foreground, yellow fender, tail light and chrome bumper above it, the "T" door badge along the flank, the heroine's orange-red hair streaming above the rear seat at top-left, the driver's flat cap ahead of her; Cop 1 standing tall on the hood beside the windshield frame, turned toward the driver, GLARING — brows slammed down, eyes narrowed, mouth a hard angry line, one gloved fist clenched, arms out for balance; the @图片 1 highway curving away right, guardrail posts a blur, the blue gantry sign and green hillside sweeping by, hazy mountains beyond; Cop 2 a small figure on his white motorcycle far down the road at lower-right, riding away, red beacon dot glowing; thin tire smoke and dust along the bottom edge.
+
+ACTION TIMING: Beat 1 (~1.1 s) — full speed: the taxi hurtles down the highway, the camera riding with it, the tire a spinning smear beside the lens, body rocking on its suspension, the road a streak beneath, guardrail and hillside streaming; Cop 1 leans into his glare at the driver, lanyard and ascot whipping, helmet beacon flashing; the heroine sits belted in the back, hair streaming, the driver steady at the wheel; Cop 2 a steady small figure ahead at lower-right. Beat 2 (~0.15 s) — BRAKE BITE and LAUNCH, together: the driver stamps the pedal — the tire beside the camera LOCKS dead, stops spinning, a burst of white smoke and dust erupting past the lens, the nose DIVES, the tail LIFTS, the camera lurching with the body — and in that SAME INSTANT Cop 1 is FLUNG off the hood per LAUNCH LOCK: his glare has time for one frame of wide-eyed SURPRISE (brows up, mouth a small "o") and then he is GONE — snapped from upright into a rigid horizontal streak, arms and legs locked straight, helmet first, motion-blurred, speed lines trailing, already a body-length ahead of the car, face flipping to SHOCK — eyes bulging, mouth stretched wide. Beat 3 (~0.4 s) — INERTIA SKID: the taxi keeps SLIDING FORWARD on four locked, smoking tires — the road still streaming past but braking hard, the car slewing a few degrees, skid marks unrolling, the locked tire beside the lens shuddering and smoking, the camera jolting with every judder; the heroine is pinned forward against her X-harness, hair over her face, fists on the belts; the driver braces, cap tipped forward, hands locked on the wheel; ahead, Cop 1 is already a shrinking flailing figure racing down the road INTO THE DEPTH of the frame toward Cop 2. Beat 4 (~0.25 s) — THE DEAD STOP: the slide ends with a hard jolt — the FRONT END PRESSES DOWN, bumper dipping toward the asphalt, front tires squashing, the body pitching nose-down and the camera pitching with it — then the car rebounds up once and settles level; the streaming road snaps into a sharp standstill; the heroine flops back into her seat, hair falling back; the driver's cap bounces back onto his brow. Beat 5 (remaining ~1.1 s) — the aftermath: the taxi sits dead still, smoke drifting forward past the car and thinning; far down the road Cop 1 is a tiny flailing dot closing on Cop 2's dot; the heroine, still belted in her seat, lifts her head above the seat back and turns it to track him; the driver, still at the wheel, tilts his cap a calm degree. Hold on the stopped taxi and the two tiny figures far down the road.
+
+MICRO-ACTING: COP 1 — glare (brows down, slit eyes, hard mouth, clenched fist) → one frame of surprise (brows up, round eyes, small "o") → shock in flight (bulging eyes, stretched mouth, rigid limbs). HEROINE (seated, glimpsed from behind) — pinned forward, hair over face, flops back, head lifts and turns to track the cop, never leaving the seat. DRIVER (seated) — cap tips forward, shoulders brace, cap bounces back, one calm cap tilt, hands never leaving the wheel.
+
+OPTICS: 84° classic wide per @图片 7, road-level lens, strong low-angle stretch on the tire and fender, deep focus so the flying cop and distant motorcycle stay sharp. Lens locked.
+
+LIGHTING: soft overcast mountain daylight per @图片 1/@图片 7, cool grey-blue sky, muted greens, the yellow taxi the brightest thing in frame, tire smoke catching soft light.
+
+PHYSICS: per BRAKE PHYSICS LOCK — bite, forward inertia skid on locked tires, dead stop with a deep nose-press and one rebound; camera lurching identically with the body it is bolted to; the belted heroine and the seated driver thrown forward and back but held by harness and seat; Cop 1, unrestrained on the hood, catapulted per LAUNCH LOCK with real momentum — no float — shrinking with correct perspective down the road.
+
+AUDIO: roaring engine and rushing wind, the tire humming loud right beside the lens, then a sharp SCREECH as the tires lock, a whip-crack WHOOSH as Cop 1 is flung, a long grinding skid with hissing smoke, a heavy THUNK and creak of the front suspension bottoming out, one rebound squeak, then silence but for the idling engine, a startled squeak from the heroine, the far-off buzz of the motorcycle ahead. No dialogue. No music.
+
+HARD CUT — abrupt, instant, no fade.
+
+SHOT 2 — THE LANDING, SIDE TRACKING (3 s)
+
+Shot job: the payoff gag, pure profile.
+
+LOCATION: the same @图片 1 highway, ahead of the taxi — seen from the SIDE: the camera tracks alongside the motorcycle at its exact speed, so the bike stays fixed in frame while the road, guardrail, hillside and gantry posts stream past behind as a heavy HORIZONTAL MOTION BLUR with anime SPEED LINES.
+
+CAMERA: locked side-tracking shot, camera about 4 m from the bike at seat height, perfectly PROFILE (90° to the direction of travel); the bike travels frame-LEFT to frame-RIGHT and sits in the centre-right of frame; camera speed matched to the bike, no other motion.
+
+FIRST FRAME: Cop 2 @图片 4 in full profile riding his white police motorcycle from left to right, hunched over the handlebars, sunglasses fixed on the road ahead, moustache set, mouth a serious tight line, white cuffs on the grips, helmet beacon glowing; the long black bench seat empty behind him; behind everything the highway and green hillside smeared into horizontal blur with dense speed lines.
+
+ACTION TIMING: Beat 1 (~0.9 s) — serious cruising: Cop 2 rides steadily, chin up, dead serious, a small jaw clench, a squint behind the sunglasses, the bike vibrating lightly, his lanyard cord fluttering. Beat 2 (~0.6 s) — the INCOMING: Cop 1 @图片 3 flies INTO frame from the LEFT EDGE, BACK-FIRST — travelling backwards through the air with his spine toward the right, arms and legs stretched out rigid toward the LEFT, helmet tilted back — his face pure BEWILDERMENT: brows knotted high, eyes wide and blank, mouth hanging half open, head turning slightly as if asking the sky what is happening — a baffled human dart sailing in horizontally at seat height with a small dust trail and speed lines of his own. Beat 3 (~0.3 s) — the IMPACT: his back SLAMS into Cop 2's back with a soft padded THUMP — both bodies squash together for two frames, Cop 2 is shoved forward onto the handlebars, his helmet jolting down over his sunglasses, cheeks puffing out, the bike dipping on its suspension and wobbling — and Cop 1 drops straight down onto the rear of the bench seat, landing seated, BACK TO BACK with Cop 2, facing the LEFT (backwards), arms and legs still stiffly stretched out in front of him for a beat before they flop down. Beat 4 (remaining ~1.2 s) — the DOUBLE BEWILDERMENT: Cop 2 pushes his helmet back up with one gloved hand, then slowly turns his head over his shoulder toward the man now sitting behind him — sunglasses sliding down his nose to show wide baffled eyes, brows knotted, moustache twitching, mouth open in a puzzled "wha—"; Cop 1, still utterly BEWILDERED, looks down at the seat under him, pats it once with a gloved hand as if checking it is real, looks at his own empty hands, straightens his helmet, then slowly turns his head to meet Cop 2's stare over their shoulders — brows still knotted, eyes still wide and lost, mouth half open — and gives a tiny confused shrug; the bike keeps roaring right, wobbling slightly, both helmet beacons flashing, the blurred road streaming behind. Hold on the two baffled faces nose to nose over their shoulders.
+
+MICRO-ACTING: COP 2 — stone-serious squint and jaw clench → helmet knocked over eyes, cheeks puffed → slow shoulder-turn, sunglasses sliding down, wide baffled eyes, knotted brows, moustache twitch, open puzzled mouth. COP 1 — BEWILDERMENT throughout: in flight — knotted high brows, wide blank eyes, half-open mouth, head turning in confusion; on impact — squash; seated — looks down at the seat, pats it, looks at his hands, straightens helmet, meets Cop 2's eyes still lost, tiny confused shrug; never angry, never scared, just baffled.
+
+OPTICS: 63° normal, true profile, shallow enough focus that the streaming background stays a smear while both cops and the bike are razor sharp. Lens locked.
+
+LIGHTING: soft overcast mountain daylight, cool grey sky, the white bike and helmets bright against the blurred green hillside.
+
+PHYSICS: Cop 1 arrives with real horizontal momentum, back-first, limbs rigid; the impact is a cartoon squash-and-recover with the bike dipping and wobbling; he drops onto the seat with weight; Cop 2 is shoved forward and rebounds; no one falls off; the bike never slows.
+
+AUDIO: motorcycle engine roaring at steady speed, wind, then a rising comic whistle from the left, a padded THUMP and a squeak of springs as Cop 1 lands, the bike's suspension creak and a brief wobble of the engine note, a small baffled grunt from Cop 2 and a puzzled "…huh?" from Cop 1 — no other words. No music.
+
+STYLE (both shots): stylized 3D animated film look — smooth forms, matte materials, soft cel shading, thin sketchy outlines on characters and vehicles (per @图片 3/@图片 4/@图片 5), the watercolor-painted highway and hillside per @图片 1, glossy yellow taxi per @图片 2, the render finish and atmosphere of @图片 7, bright saturated character colours against muted landscape, anime speed lines and heavy directional motion blur on the streaming road, playful slapstick energy.
+
+QUALITY: sharp readable faces and vehicles, stable picture, natural colours, clean holds on twos; motion blur only on the streaming background, the spinning tire and the fast-flying cop; no ghosting, no flicker, no frame-skipping stutter.
+
+POSITIVE CONSTRAINTS
+
+Two shots, one HARD CUT. Shot 1 (3 s): the exact @图片 7 composition — very low camera HARD-MOUNTED to the speeding roofless @图片 2 taxi right behind its left rear wheel, tire and fender large in the left foreground, moving with the car and braking with it; @图片 5 driver stays seated at the wheel, @视频 1 · 46 秒 heroine stays belted in the centre rear seat per @图片 6 — neither leaves their seat; @图片 3 Cop 1 standing on the hood beside the windshield frame turned toward the driver and GLARING; @图片 4 Cop 2 a small figure riding his motorcycle far down the road at lower-right; the taxi races at high speed, then the brakes BITE — tires lock and smoke, nose dives — and in that same instant Cop 1 is CATAPULTED off the hood in 2–3 frames, snapping into a rigid horizontal streak INTO THE DEPTH of the frame toward Cop 2, face going glare → surprise → shock; the taxi then SLIDES FORWARD about a car length on locked smoking tires by inertia, and stops dead with its FRONT END PRESSING DOWN on the suspension, bumper dipping, one rebound, then level — the camera lurching, sliding and stopping identically with the car; Cop 1 a shrinking dot down the road. HARD CUT. Shot 2 (3 s): true SIDE tracking shot alongside Cop 2 riding his white police motorcycle left-to-right with a serious face, the road behind a horizontal motion blur with speed lines; Cop 1 flies in from the LEFT edge back-first with arms and legs stretched out, his face in pure BEWILDERMENT, slams into Cop 2's back and lands seated on the rear of the bike back to back with him; both turn their heads to each other in bewilderment. All character and vehicle designs 100% match their references; the taxi's roof stays torn off. No spoken words beyond small non-verbal grunts. No music — diegetic sound only. No text, no logos, no subtitles.
+
+查看全部
+复制提示词
+重新创作
+Stage 3 — The Scenes
+
+The scene numbers below follow the production breakdown. Each prompt is reproduced in full so that its timing, camera instructions and continuity constraints stay together.
+
+Scene 8 — Squeezing Between Two Trucks
+
+Scene 8 — Squeezing Between Two Trucks
+
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+
+Scene 8 — updated generation
+
+What it does: Animates the taxi accelerating, tilting through a narrow gap and landing after clearing both trucks in one continuous shot.
+
+Style header: the opening of the prompt locks the hand-drawn look, physical comedy and camera behavior. Reuse the same visual and lighting rules across the sequence; keep music out of the generated shots and build the soundtrack in the edit.
+
+Inputs: video_1 is the Blender motion reference; image_1 is the taxi; image_2 and image_3 are the two trucks; image_4 sets lighting; image_7 is the driver and image_8 is the heroine. Keep the driver front-right and the heroine rear-left as specified in this prompt.
+
+What changed: pulling the camera back in the previs made the full action readable and improved the result.
+
+Scene Context
+
+Create a fast-paced automotive action-comedy sequence in stylized, hand-drawn animation. The atmosphere is playful, snappy, and full of high-speed street-chase energy.
+
+Replace the original video’s yellow taxi with the compact car from @图片 1. Replace its two trucks with the semi-trailer trucks from @图片 2 and @图片 3, respectively.
+
+Rebuild the entire setting as a highway with guardrails, high-rise buildings, grassy slopes, distant mountains, and an open sky. Retain no environmental elements from the original video.
+
+Base the cinematic lighting and atmosphere on @图片 4, with the sun direction strictly aligned with @视频 1 · 46 秒.
+
+The sequence is one continuous long take with no cuts. While traveling at high speed, the hero car tips onto two wheels, with only the front and rear wheels of the same side touching the road. It squeezes through the narrow gap between two closely spaced, side-by-side trucks, emerges completely, and lands back on all four wheels.
+
+Follow the camera-movement rhythm of @视频 1 · 46 秒 while maintaining a single uninterrupted camera path.
+
+Active References
+
+@视频 1 · 46 秒 — Camera movement, rhythm, and sun direction. Use it for camera energy and action timing, and as the baseline for lighting direction: the light source is in the upper-right of the frame, and cast shadows extend toward the left. Do not reproduce the reference’s multiple cuts.
+
+@图片 1 — Hero compact car. Preserve this exact vehicle, its proportions, silhouette, and identifying details throughout. Light it according to @图片 4.
+
+@图片 2 — Left truck. Preserve its vehicle design and proportions. It forms the left boundary of the narrow passage and receives the same cinematic lighting as the hero car.
+
+@图片 3 — Right truck. Preserve its vehicle design and proportions. It forms the right boundary of the narrow passage and receives the same cinematic lighting as the hero car.
+
+@图片 4 — Cinematic lighting. Use it for warm/cool relationships, light quality, atmospheric perspective, and the modeling of volume. Align the key-light direction with the upper-right sun position established by @视频 1 · 46 秒.
+
+@图片 7 — Male driver. His appearance and clothing must strictly match this reference. He occupies the FRONT-RIGHT driver’s seat. Keep him visibly darkened inside the cabin, with his silhouette and steering posture readable and facial details restrained. Render him in the same hand-drawn watercolor style as the entire scene.
+
+@图片 8 — Female passenger. Her appearance and clothing must strictly match this reference, including her long, straight orange-red hair and blue zip-up hoodie. She occupies the REAR-LEFT seat. Keep her darkened inside the cabin, with restrained detail and readable physical reactions.
+
+Seating Layout and Occupant Movement
+
+The car is RIGHT-HAND DRIVE. Left and right refer to the vehicle’s own sides, viewed while facing its direction of travel.
+
+The steering wheel is on the RIGHT.
+
+The driver sits in the FRONT-RIGHT seat, directly behind the steering wheel.
+
+The girl sits in the REAR-LEFT seat.
+
+The FRONT-LEFT passenger seat is empty.
+
+The occupants sit diagonally opposite each other. The girl is not directly behind the driver and is not on the same side.
+
+These seat assignments remain unchanged throughout the sequence.
+
+As the car rises onto two wheels, gravity and inertia pull both occupants toward the lowered side of the cabin. Their torsos lean toward the corresponding door or side wall while their bodies remain anchored in their assigned seats.
+
+The driver keeps his hands on the right-side steering wheel. His shoulders and arms communicate steering effort and resistance to the tilt. The girl reacts through her torso lean and head movement. Their eyelines remain coherent with their positions in the cabin.
+
+Their bodies begin recovering after the car lands; hair, clothing, and the driver’s cap settle slightly later.
+
+Read both performances primarily through silhouettes and posture. Visibility must follow the actual windows, pillars, seats, and cabin occlusion. Do not illuminate their faces or introduce character close-ups.
+
+Style and Rendering
+
+The entire sequence has the texture of hand-drawn, frame-by-frame animation. Every frame resembles an original animation drawing, constructed from paper texture, translucent watercolor washes, fine ink outlines, and visible brushstrokes.
+
+Lines show subtle, controlled jitter and organic movement—“line breathing”—with gently shifting edges between frames. Avoid perfectly straight, computer-generated lines. Let pigment spread naturally, with warm-to-cool transitions at the boundaries between light and shadow.
+
+This is not 3D rendering, live action, or flat vector artwork. Preserve drawn and painted marks on the car body, wheels, trucks, characters, and environment.
+
+Spatial depth: Establish three distinct layers. Foreground dust, road shoulders, grass shadows, and passing guardrails create speed accents. The hero car and the narrow truck passage form the readable midground action. High-rise buildings, mountains, and sky recede through atmospheric perspective, becoming lighter and hazier with distance.
+
+Sense of speed: Use directional motion blur and speed lines along the car’s edges during the tilt. Guardrails and road signs flash past rapidly. Lane markings stretch into short, flowing streaks. Add slight camera vibration while keeping the main action readable.
+
+Twelve Animation Principles
+
+Apply the following principles to all moving elements, especially the hero car. Use cinematic lighting to reinforce their volume and weight.
+
+Squash and Stretch
+
+Slightly elongate the car body during sudden acceleration and subtly compress it as it lands on all four wheels. Keep its identity and construction recognizable.
+
+Anticipation
+
+Before rising onto two wheels, the nose makes a small counter-directional dip and the suspension loads. Before landing, include a brief hesitation as the body begins returning toward level.
+
+Arcs
+
+The tilt, passage through the gap, and return to level follow smooth arcs rather than rigid straight-line translation.
+
+Slow In and Slow Out
+
+Ease into and out of the major rotations, giving the maneuver elasticity and distinct bursts of force without losing its high-speed momentum.
+
+Follow-Through and Overlapping Action
+
+Mirrors, the antenna, and other existing vehicle attachments respond with a slight delay. Hair tips, clothing hems, and the driver’s cap follow the occupants’ main movements. The occupants themselves shift under inertia.
+
+Secondary Action
+
+Layer in dust behind the wheels, scattered gravel, roadside grass shadows, and moving guardrail reflections.
+
+Exaggeration
+
+Push the tilt angle, landing response, and tire smoke slightly beyond realism for a high-speed cartoon performance. Keep the poses forceful and readable.
+
+Rhythm and Accents
+
+Establish four clear beats: acceleration → tilt → squeeze-through → landing. Place the strongest accent at the instant the car enters the gap.
+
+Key Poses
+
+Make three poses immediately readable: rising onto two wheels, aligning with the narrow passage, and emerging into the landing.
+
+Solidity and Weight
+
+Clearly communicate the center-of-gravity shift, tire grip, suspension compression, and rebound. The car must feel heavy and connected to the road.
+
+Appeal
+
+Preserve the rounded body and distinctive lines of @图片 1. Keep the characters expressive and engaging.
+
+Secondary Rhythm
+
+Let clouds, lingering dust, and patches of light move at a slower rhythm than the hero car, strengthening the contrast in speed.
+
+Spatial Staging and Relative Motion
+
+Keep the hero car at the center of the midground action. Foreground elements and distant scenery maintain three clear layers of depth.
+
+The trucks travel side by side, occupying opposite sides of the frame. Their gap is too narrow for the hero car on four wheels but wide enough for its reduced horizontal profile when tilted onto two wheels.
+
+Critical movement direction: At the moment the hero car squeezes between them, both trucks are driving toward the camera—from deep in the scene toward the viewer, approaching head-on. Their increasing size and rapid approach create strong depth and pressure.
+
+The hero car squeezes laterally through their gap at a slight angle, with its body tipped onto one side. Its close passage between the trucks produces a sharp, urgent “whoosh.”
+
+Keep the car’s silhouette, both passage boundaries, and the available clearance readable throughout.
+
+First Frame
+
+The hero car is already present, approaching the camera in the lower-left area of the road. No empty establishing shot.
+
+Cinematic lighting is established immediately: sunlight from the upper-right, cool shadows, and distinct atmospheric perspective.
+
+The FRONT-RIGHT driver is visible through the windshield. The REAR-LEFT girl is glimpsed through a side window wherever the viewing angle permits. Both remain visibly darkened inside the cabin.
+
+Cinematic Lighting
+
+Use @图片 4 as the lighting foundation and align the sun direction with @视频 1 · 46 秒.
+
+The single primary light source remains in the UPPER-RIGHT, shining diagonally from the front-right. It creates highlights on the right side of the car and its roof, with cast shadows extending to the left and behind it.
+
+Lit surfaces: The right side of the body, roof, and right fenders receive the strongest light.
+
+Shaded surfaces: The left side, rear window, and left wheels remain darker.
+
+Cast shadows: The hero car, both trucks, guardrails, and characters cast their shadows toward the LEFT of the frame. Maintain a consistent directional relationship throughout.
+
+Shadow character: Use medium-long shadows at approximately 45–60°, neither short noon shadows nor extremely long sunset shadows.
+
+Color: Warm highlights and cool shadows create clear color separation and depth.
+
+Atmosphere: Include subtle volumetric light shafts and light haze.
+
+Glass and reflections: Windows carry specular reflections and slight flare. Road bounce softly illuminates the underside of the car.
+
+Keep the light position, color temperature, and exposure stable. Do not introduce additional independent light sources.
+
+Both occupants remain underexposed within the cabin’s soft cast shadows. Preserve their silhouettes and poses without lighting their faces or emphasizing fine facial detail.
+
+Camera and Continuous Action
+
+One continuous long take. No cuts.
+
+Approach: Begin low in front of the car with a slight Dutch angle, closely tracking its nose and windshield. The car approaches at speed while foreground road details sweep past.
+
+Anticipation and tilt: The nose dips briefly, the suspension loads, and the body rises onto two wheels. The camera turns smoothly toward a front-side position, following the movement.
+
+Squeeze-through: Follow the tilted car as it passes through the narrow gap between the two oncoming trucks. Keep camera travel parallel to the car’s passage, with a slight upward viewing angle. The trucks grow larger on either side as they approach the camera, emphasizing pressure and confinement.
+
+Exit and landing: Wait until the entire car has cleared the passage before beginning its return to four wheels. Gradually raise the camera and pull back into a slightly elevated medium-wide view as the tires reconnect with the road, the suspension compresses, and the body rebounds.
+
+Acceleration away: The car stabilizes and accelerates along the highway. Continue the smooth pullback as smoke and dust disperse behind it.
+
+Keep the camera trajectory continuous and responsive to the car’s inertia. No abrupt viewpoint changes, hidden cuts, or camera intersections with vehicles.
+
+Physics
+
+The car has believable weight, suspension, inertia, and tire grip.
+
+As it rises onto two wheels, its center of gravity shifts toward the grounded side. Throughout the two-wheel phase, the FRONT and REAR wheels of the SAME side remain in contact with the road. Both opposite-side wheels stay airborne.
+
+Maintain the same tilt direction throughout the passage. The body, mirrors, and wheels must fit within the gap without intersecting either truck.
+
+Only after the entire car clears both trucks may it begin returning to level.
+
+On landing, the returning tires compress first, followed by the suspension. The body pitches slightly forward, rebounds, and stabilizes. Occupants and flexible attachments respond in a delayed, coherent sequence.
+
+Wheel rotation: All wheels continue rotating during driving and tilting. Grounded-wheel rotation matches vehicle speed. Airborne wheels retain rotational inertia. Never show the car moving with frozen wheels.
+
+Tire smoke: During the squeeze-through and landing, restrained white or blue-white rubber smoke rises from the grounded tire contact patches. Airflow pulls it backward, where it curls and disperses.
+
+Road connection: In every frame, the car carries a hand-drawn cast shadow extending to the left, contact shading at the grounded tires, and environmental reflections. The shadow changes shape with the body tilt while respecting the fixed light direction.
+
+No floating, sliding, or magnetic-levitation-like motion.
+
+Audio
+
+No music, SFX only.
+
+Engine roar rises and falls with speed and load. Include rushing wind, rolling tire friction, brief tire squeals during the tilt and landing, and a close “whoosh” as the car squeezes between the oncoming trucks.
+
+The return to four wheels produces a soft impact thump followed by a suspension rebound sound.
+
+No dialogue, narration, or vocalizations.
+
+Locks and Constraints
+
+One hero car, matching @图片 1 throughout.
+
+Two trucks, matching @图片 2 on the left and @图片 3 on the right.
+
+Two occupants, with appearance and clothing matching @图片 7 and @图片 8.
+
+Right-hand-drive layout: steering wheel RIGHT, driver FRONT-RIGHT, girl REAR-LEFT, FRONT-LEFT seat empty.
+
+No changes to seat assignments. The occupants remain diagonally opposite.
+
+During the tilt, both occupants lean toward the lowered side while remaining in their seats.
+
+Occupants remain darkened inside the cabin. No bright facial lighting or character close-ups.
+
+At the squeeze-through, both trucks approach the camera head-on and grow larger in the frame.
+
+During the two-wheel phase, the front and rear wheels of the same side remain grounded; the opposite wheels remain airborne.
+
+Locked action order: anticipation → tilt → squeeze-through → complete clearance → landing → acceleration.
+
+Wheels rotate continuously. Grounded-wheel rotation matches vehicle speed.
+
+The car always carries coherent cast shadows, contact shading, and environmental reflections.
+
+The setting is a fully rebuilt highway environment with guardrails, high-rise buildings, grassy slopes, distant mountains, and sky. Retain no scenery from the original video.
+
+One continuous shot with no cuts.
+
+Maintain readable depth, speed, and consistent vehicle proportions throughout.
+
+Unify all elements through hand-drawn ink lines, watercolor washes, paper texture, and visible brushwork.
+
+Follow @图片 4 for cinematic lighting, with the sun direction aligned to @视频 1 · 46 秒: upper-right light, leftward cast shadows.
+
+No added text or watermarks.
+
+查看全部
+复制提示词
+重新创作
+Scenes 10–11 — The Double Seatbelt
+
+Scenes 10–11 — The Double Seatbelt
+
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+
+sc 10-11 — take 3 (X-belts)
+
+What it does: Builds a four-second sequence with a motion-matched cut at 1.5 seconds, ending with two seatbelts crossed in an X.
+
+Inputs: image_1 is the low-angle first-shot target frame; image_2 is the frontal X-belt end state; image_3 is the final heroine; image_4 is the rear cabin; image_5 is the highway.
+
+Continuity fix: the headphones must appear in the target frames as well as in the character sheet. A conflicting camera reference can override a written costume description. The gallery shows the frontal reference before and after this fix; the separate low-angle target frame called for by image_1 must be supplied when recreating the shot.
+
+INPUTS
+
+@图片 1 = TARGET FRAME REFERENCE for segment 1. The character, the
+
+camera and the interior in this image are all correct. Copy exactly: the girl's
+
+face, ginger hair, blue hooded jacket, white headphones at her neck, red thread
+
+bracelet on her wrist, beige pleated skirt; the low camera at seat-cushion
+
+height angled steeply up; the wide-lens bow of the roof lining; the green
+
+bench and door panel; the orange buckle receptacle looming in the lower right
+
+foreground; the bright window daylight from frame left.
+
+@图片 2 = TARGET FRAME REFERENCE for segment 2, showing its FINAL
+
+state. Copy exactly: the same girl, the dead-level symmetrical frontal camera
+
+at her chest height, her centred placement, the green bench behind her, the
+
+rear window spanning the background with green hills beyond, the two grey
+
+seatbelt straps crossing in a large X in the foreground, the warm daylight from
+
+the upper left. In this shot that crossed-X state is reached at 2.5s and then
+
+held to the end.
+
+@图片 3 = CHARACTER LOCK SOURCE. This is the single canonical
+
+appearance of the girl and it governs EVERY FRAME of BOTH segments, exactly and
+
+unmodified. She is a teen girl with long, straight ginger-orange hair parted in
+
+the middle with one stray strand at the crown, large round blue eyes, thin
+
+arched brows, rosy blushed cheeks, fair skin. She wears an oversized blue
+
+hooded zip-up jacket with a small red letter N patch on the chest and cream
+
+drawstrings, a cream long-sleeve top underneath, a beige pleated skirt, cream
+
+ribbed knee socks, and red canvas sneakers. On her neck she wears white
+
+over-ear headphones, resting around her collar. These headphones are a fixed
+
+part of her design and are present, visible and unchanged in EVERY frame of
+
+EVERY segment — they never disappear, never leave her neck, never change shape
+
+or colour. She looks identical to this in every frame of both segments, except
+
+that her hair is slightly dishevelled throughout.
+
+@图片 4 = rear compartment of the taxi: deep green upholstered
+
+bench, green door panels with chrome handles, grey roof lining with a grab
+
+handle above each door, grey seatbelt webbing with metal tongues, orange buckle
+
+receptacles standing up from the cushion, side and rear windows. Interior
+
+geometry, materials and colour 100% match @图片 4.
+
+@图片 5 = wide multi-lane highway through green hills, painted
+
+watercolour landscape, cars and a yellow bus travelling the lanes, distant town
+
+on the hillside, pale hazy sky. Landscape, palette and vehicle design 100%
+
+match @图片 5.
+
+CANONICAL CHARACTER LOCK
+
+The girl's design NEVER changes between or within segments. In every frame of
+
+SEG 1 and SEG 2 the exact same teen girl is present: long straight
+
+ginger-orange hair, large round blue eyes, rosy cheeks, oversized blue hooded
+
+jacket with the red N patch and cream drawstrings, beige pleated skirt, cream
+
+ribbed knee socks, red canvas sneakers, and — in every single frame — the white
+
+over-ear headphones resting around her neck. Nothing about her costume, hair,
+
+accessories or body is altered, removed or re-styled across the shot. Only her
+
+hair becomes slightly dishevelled through the motion; the headphones stay put.
+
+SCENE CONTEXT
+
+A girl is late for her flight, riding in the back of a speeding taxi on the
+
+highway. Quietly frightened, she looks ahead at the road, then quickly straps
+
+herself in — twice — and sits still. Two shots, 4 seconds total, one MATCH CUT
+
+at 1.5s. Bright daytime.
+
+FORMAT MODE
+
+Controlled 2-segment sequence. SEGMENT 1 runs 0.0–1.5s, MATCH CUT at 1.5s,
+
+SEGMENT 2 runs 1.5–4.0s. Each segment is one continuous shot; the only cut is
+
+the specified MATCH CUT at 1.5s — the camera does not cut by itself. The cut is
+
+a MOTION MATCH: the gesture at the end of Seg 1 (her head turning to screen
+
+right, eyes tracking toward the loose second belt) carries its momentum directly
+
+into the opening of Seg 2, where the same reach toward that same belt continues.
+
+The movement is continuous across the cut, as if the reach was in progress the
+
+moment the framing changes. The same girl appears in both segments; her design,
+
+including the headphones at her neck, is identical. Diegetic sound only.
+
+OPTICS
+
+SEG 1 = ULTRA WIDE 107 degrees, camera 0.5 m away at seat-cushion height, angled
+
+steeply up — roof lining and window frame bow and converge, the orange buckle
+
+looms large in the lower right foreground, she reads tall against the roof.
+
+Matches @图片 1 exactly.
+
+SEG 2 = NORMAL 47 degrees, camera centred between the front seats at her chest
+
+height, dead level, perfectly symmetrical, the rear window spanning behind her.
+
+Matches @图片 2 exactly.
+
+No drift mid-segment, no focal length change inside either segment.
+
+FIRST FRAME / BLOCKING
+
+SEG 1 first frame — exactly the framing, camera and interior of @图片 1, with her
+
+in a different pose. She kneels on the green bench in the right half of frame,
+
+seen in profile facing frame left, head at x 48% / y 22%, chin level and gaze
+
+directed straight ahead out of frame left toward the road, not down. Her right
+
+arm rests low, hand near her thigh, not yet reaching. Ginger hair falls down
+
+her back with loose strands lifted out of place, the white headphones sit
+
+clearly around her neck, blue jacket sleeves pushed up, red bracelet on her
+
+right wrist. The seatbelt tongue hangs untouched at the far side of the cabin
+
+at x 28% / y 68%. The orange buckle receptacle sits in the lower right
+
+foreground at x 82% / y 78%. Bright daylight floods the side window at frame
+
+left.
+
+SEG 2 first frame — exactly the framing, camera and character of @图片 2, but
+
+with only ONE belt fastened. She sits centred on the green bench, dead frontal,
+
+head at x 50% / y 28%, shoulders square to camera, blue jacket and red N patch
+
+facing the lens, white headphones still around her neck, hair slightly
+
+dishevelled with strands out of place. One grey seatbelt runs from the upper
+
+left of frame down across her chest to her right hip, already buckled. A second
+
+grey belt hangs loose from the upper right of frame, unfastened. Through the
+
+rear window: the @图片 5 highway, green hills, and other cars travelling the
+
+lanes. Her eyes are already moving right, toward the loose belt, carrying over
+
+from the motion match.
+
+LOCATION MAP
+
+Inside the @图片 4 taxi rear compartment, moving fast. Daylight enters through
+
+the side windows and the rear window. Outside every window the @图片 5 highway
+
+landscape streaks past — green hills, distant town, road markings. In SEG 2, two
+
+or three cars and one yellow bus visibly travel the lanes behind her through the
+
+rear window, overtaking and falling away during the segment.
+
+ACTION TIMING
+
+0.0–0.3s — she holds still, kneeling, looking straight ahead out of frame left
+
+toward the road. Only her hair, the moving light, the headphones at her neck
+
+and the loose fabric shift. Her hand rests at her side.
+
+0.3–0.5s — her gaze drops and her hand shoots forward and down, closing on the
+
+metal tongue of the far seatbelt.
+
+0.5–1.0s — she draws the belt back toward camera in one quick smooth motion, arm
+
+moving freely, no strain in her body. The webbing feeds out of its reel into a
+
+clean straight diagonal across frame. The headphones shift slightly and settle.
+
+1.0–1.2s — she snaps the tongue into the orange buckle in the lower right
+
+foreground. Metallic CLICK. Her loose hair strands sway once.
+
+1.2–1.5s — without pausing she turns her head and looks off to the right side of
+
+frame, eyes tracking to screen right ahead of the head, hair swinging a beat
+
+behind the turn. Her gaze lands on the loose second belt at the upper right of
+
+frame — this look is the target of the motion match. The segment ends on this
+
+look.
+
+MATCH CUT at 1.5s
+
+1.5–2.0s — the motion match opens: exactly the gesture begun in Seg 1 continues.
+
+Her hand and gaze are already committed to the right, and she reaches out to
+
+frame right and takes the second belt, drawing it down and across her body to
+
+the left in one quick continuous motion; the webbing stretches into a long taut
+
+diagonal, crossing the first belt near the centre of frame. There is no pause,
+
+no restart of intent — the movement inherits the momentum of the pre-cut turn.
+
+2.0–2.2s — she snaps it into the latch at her left hip. Second metallic CLICK.
+
+The two straps now form the large X across the frame exactly as in @图片 2.
+
+2.2–2.5s — she settles back against the seatback, shoulders dropping, hands
+
+coming to rest on her knees. Hair, jacket and the headphones at her neck settle
+
+two frames late.
+
+2.5–4.0s — she sits still, upright and belted, hands resting on her knees,
+
+looking straight down the lens. She does not move from this pose. Only her
+
+breathing lifts and lowers her shoulders, a few loose hair strands drift, the
+
+headphones stay fixed around her neck, the webbing sways faintly, and behind
+
+her through the rear window cars overtake and fall away along the highway. She
+
+blinks twice during this hold.
+
+MOTION LOCK
+
+Pose-to-pose animation with a clear pulse. Each action arrives at a readable pose
+
+in two to three frames, then holds still while only hair, jacket fabric and belt
+
+webbing keep settling. The opening beat is a genuine hold — she is motionless and
+
+looking ahead before anything happens, and the reach that follows starts with a
+
+sharp two-frame anticipation. The belt actions are quick and unforced — no
+
+straining, no heaving. Each motion is followed by a soft overshoot that cushions
+
+back. The motion-matching turn at the cut is continuous: her head-turning
+
+momentum in Seg 1 flows into the reach at the start of Seg 2 without a reset —
+
+the seam between segments is invisible in the movement, even though the camera
+
+and framing change. The final 1.5 seconds are a long deliberate hold: the pose
+
+is completely still, carried only by breathing, blinks, drifting hair and the
+
+moving landscape behind her. One clear readable silhouette per pose, one main
+
+action at a time.
+
+FACIAL PERFORMANCE
+
+She is quietly frightened and on edge for the entire four seconds, in both
+
+segments. She never smiles at any point — her mouth is never turned up at the
+
+corners, in any frame, in either segment. Her expression moves only between
+
+degrees of worry. One feature is pushed per beat, the rest of the face
+
+restrained, and the face is always asymmetrical: brows at slightly different
+
+heights, mouth pulled a little to one side.
+
+0.0–0.3s — staring ahead at the road: eyes wide and fixed with white showing
+
+above the blue irises, brows lifted and drawn together in the middle, mouth a
+
+small tense line, chin level.
+
+0.3–0.5s — a hard blink as her gaze drops to the belt, brows staying up.
+
+0.5–1.0s — eyes tracking the belt, lower lip drawn in, brows still raised and
+
+knitted, a small crease between them.
+
+1.0–1.2s — another hard blink on the click, brows staying up.
+
+1.2–1.5s — head turns to screen right, eyes flicking ahead of the head to the
+
+loose second belt, brows raised, mouth slightly open, apprehensive. This is the
+
+expression carried across the match cut.
+
+MATCH CUT at 1.5s
+
+1.5–2.0s — eyes narrowed at the belt in concentration, brows still knitted
+
+upward, lips pressed together, one brow higher than the other. The expression
+
+continues from the pre-cut look, not restarting.
+
+2.0–2.2s — a hard blink on the click, cheeks lifting slightly, mouth staying
+
+level.
+
+2.2–4.0s — the worried look of @图片 2 and it holds unchanged to the last frame:
+
+eyes wide and round, both brows lifted and drawn together, a small crease
+
+between them, mouth slightly open with the corners level or turned faintly
+
+down, rosy blush strong on both cheeks. She breathes unevenly and blinks twice,
+
+but the expression itself does not change or soften.
+
+Expressions change in two to three frames, never blend gradually, and land on the
+
+same frame as the body movement. Bright catchlight readable in both blue eyes at
+
+all times.
+
+PHYSICS
+
+The taxi is moving fast and swaying. The seatbelt webbing is stiff and holds a
+
+straight taut line, never bending like rope; the reel draws it back whenever she
+
+slackens it. She handles it easily — the belt moves, her body does not have to
+
+fight it. Her long ginger hair is slightly dishevelled, with loose strands lifted
+
+out of the mass; hair and the loose blue jacket lag two to three frames behind
+
+her movements and overshoot before settling. The white over-ear headphones around
+
+her neck are body-fixed: they shift a little with each reach, then return to
+
+resting around her collar, and they never swing free or fall off. Successive
+
+motion — shoulder leads, arm follows, hand arrives last; on each head turn the
+
+hair swings a beat behind the head. On each buckle click the cabin jolts faintly
+
+and everything loose sways. The continuous motion across the match cut obeys the
+
+same physics: the reach that starts Seg 2 has the velocity and intent of the turn
+
+that ended Seg 1. During the opening hold and the final hold the car's motion
+
+transmits a faint continuous sway through her body and the hanging webbing.
+
+LIGHTING
+
+Bright daylight from outside, identical grading in both segments. SEG 1: strong
+
+blown-out daylight through the side window at frame left, her face and arm
+
+rim-lit from the left, roof lining in soft shade, matching @图片 1 exactly.
+
+SEG 2: warm daylight from the upper left with the bright rear window behind her,
+
+her face carrying a soft light pattern with rosy bounce, matching @图片 2 exactly.
+
+The headphones catch the same light as the rest of her costume and stay clearly
+
+visible in both grades.
+
+AUDIO
+
+Engine noise and road rumble under everything, seatbelt webbing feeding out of
+
+the reel, two metallic buckle clicks, quick shallow breathing that slowly steadies
+
+over the final hold.
+
+POSITIVE LOCKS
+
+Exactly one person in the car, alone on the back seat, the same ginger-haired
+
+girl in both segments. Her full design is carried, unaltered, in every frame of
+
+both segments: long straight ginger-orange hair, large round blue eyes, rosy
+
+cheeks, oversized blue hooded jacket with the red N patch and cream drawstrings,
+
+cream long-sleeve top, beige pleated skirt, cream ribbed knee socks, red canvas
+
+sneakers — and the white over-ear headphones around her neck, present and visible
+
+in EVERY frame, never disappearing, never changing position or design. Her
+
+expression stays worried and nervous in every single frame of both segments; her
+
+mouth stays level or turned slightly down, never turned up. Segment 1 framing
+
+matches @图片 1; segment 2 framing matches @图片 2. The interior stays rigid
+
+relative to frame; only her body, hair, jacket, headphones and the belts move.
+
+The cut at 1.5s is a motion match — the head turn at the end of segment 1 flows
+
+without reset into the reach that opens segment 2. Segment 1 runs in this order:
+
+she looks ahead out of frame left, then grabs the far belt, then clicks it into
+
+the foreground buckle, then turns and looks to screen right, and the segment ends
+
+there. In segment 2 she starts with one belt fastened from frame left, draws the
+
+right belt across to the left, clicks it in, and to the end she stays seated and
+
+still in one unchanging pose. Cars travel the highway behind the rear window
+
+throughout segment 2. Both segments are full daylight. Clean crisp image.
+
+STYLE
+
+Stylized 3D animation with hand-painted watercolour surfacing. Matte paper-grain
+
+textures, soft pigment washes and bleeding edges on upholstery and landscape,
+
+visible brush character in the backgrounds, flat washed skies. Simplified
+
+appealing character proportions, large round eyes with a clear catchlight, strong
+
+rosy cheek blush, soft fine hair strands, soft fabric with real thickness. Warm
+
+natural daylight with gentle contact shadows and blown-out window highlights,
+
+rounded volumetric forms, muted green and cream palette with small saturated
+
+accents of red and blue. Crisp render, no film grain.
+
+查看全部
+复制提示词
+重新创作
+Scene 18 — The Roof Explosion
+
+Scene 18 — The Roof Explosion
+
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+
+sc 18 — result 3 (final)
+
+What it does: The finale combines the taxi’s damaged state with the explosion reference. The media shows the edit chain and the selected result.
+
+This shot took 16 revisions. The useful correction was specific: add the missing explosion reference and remove wording that encouraged several small explosions. Keep the intact and roofless taxi references tied to the correct moment in the action.
+
+Scene 3 — Experimental: The Handles Gag
+
+Scene 3 — Experimental: The Handles Gag
+
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+0:00 / 0:00
+
+Handles gag — Blender blockout
+
+What it does: Attempts a continuous five-second cabin shot in which the taxi’s swerves tear the ceiling handles from their mounts while the passenger holds on.
+
+Experimental — unfinished shot. This prompt is included as a work-in-progress example. The attempts did not reliably produce the intended cause and effect, so they should not be treated as a finished result.
+
+Inputs: image_1 is the heroine; image_2 is the rear cabin with both ceiling handles intact; image_3 is the highway seen through the windows. The current wording asks inertia to detach the handles without changing their shape.
+
+INPUTS
+
+@图片 1 = young woman, slim, casual jacket, hair loose and light
+
+enough to whip and fan out on impact. At the start she is braced and composed,
+
+focused hard on the road ahead; from the first swerve onward she is panicked and
+
+physically overwhelmed. Face and costume 100% match @图片 1.
+
+@图片 2 = rear compartment of the taxi: bench seat, front seatbacks,
+
+side doors with windows, one ceiling grab handle above each door, plain
+
+uncluttered upholstery. Interior geometry, materials and colour 100% match
+
+@图片 2. Both ceiling handles are intact at the start; both tear out of
+
+the roof by themselves during the shot and stay in her hands as loose objects.
+
+The two ceiling handles are identical to each other and identical to the handles
+
+in @图片 2 — same shape, same size, same material, same colour. Once torn
+
+out they keep that exact same design, just with the mounting plate and a scrap of
+
+torn headliner attached. They never change shape, never become a strap, a loop,
+
+a bar, a rope, a rail, a hook or any other object.
+
+@图片 3 = the environment visible through the taxi windows: a wide
+
+multi-lane highway outside the city, grassy embankments, trees and hazy hills.
+
+Road and light quality 100% match @图片 3. Seen only as fast streaking
+
+motion outside the glass, never sharp.
+
+SCENE CONTEXT
+
+Interior of a taxi at high speed, rear compartment, one passenger. The taxi races
+
+down a multi-lane highway outside the city. The car swerves hard to the left, then
+
+hard to the right, then hard to the left again. She is thrown around the back seat.
+
+She never pulls the handles up on purpose, never rips them out — she simply clings
+
+to them for support, and the inertia of the swerving car tears the ceiling handles
+
+out of their mounts by itself. One continuous shot, 5 seconds, no cuts. Fast,
+
+violent, comedic escalation.
+
+LOCATION MAP
+
+Camera is inside the @图片 2 cabin, mounted low on the back of the front
+
+seats, looking rearward across the whole bench — both side doors and both ceiling
+
+handles are within the frame. Foreground: the front seatback edge along the
+
+bottom. Midground: the @图片 1 passenger on the bench. Background: bench
+
+seatback, both side windows with @图片 3 streaking past, roof lining across
+
+the top. The single key light enters through the left window.
+
+FIRST FRAME / BLOCKING
+
+The @图片 1 passenger is settled and braced on the bench, not yet thrown.
+
+Her right hand is closed on the @图片 2 ceiling handle above the right door
+
+at x 85% / y 18%, arm raised and taut — a steady hold, purely defensive: she is
+
+holding on, she does not pull. Head at x 62% / y 38%, chin lifted, jaw set, eyes
+
+narrowed and locked forward past camera-left onto the road ahead — watching the
+
+traffic, reading the next turn, concentrating. Free left hand planted on the seat
+
+cushion at x 40% / y 66%, bracing. Feet on the floor, knees together, weight
+
+already leaning into the turn. Torso upright, only slightly rolled toward frame
+
+right. @图片 3 streaking past outside both windows. Already fully lit to the
+
+LIGHTING spec below: warm low key across her left side, cool shadow on her right, a
+
+rim of light along her shoulder and jaw, the air in the cabin visibly carrying the
+
+light.
+
+FORMAT MODE
+
+One single continuous take, 5 seconds, no cuts, no transitions, no camera cuts of
+
+any kind. The camera runs uninterrupted from its first frame to its last. Diegetic
+
+sound only.
+
+OPTICS
+
+ULTRA WIDE 107 degrees, camera 1 m from the bench — the whole rear compartment
+
+including both doors stays in frame, cabin lines bow at the edges, whatever is
+
+closest to the lens looms. No zoom, no focal length change mid-shot.
+
+CAMERA
+
+Continuous tilt following the passenger. Camera bolted to the @图片 2 cabin,
+
+staying in one position, rotating to follow her body through four moves — tilt
+
+up-right as she clings to the right handle, whip down-left as she smashes into the
+
+door, tilt up-left as she grabs the second handle for support, drop down-right as
+
+she falls onto her back. Speed: whip-fast on each impact, heavy easing between
+
+these moves. Framing: her face and whichever handle she is holding stay legible at
+
+all times; the roof line stays visible so the roof mounts read. End: the camera
+
+settles looking down at her sprawled across the bench, legs still swinging.
+
+ACTION TIMING
+
+0.0–0.4s — the @图片 1 passenger sits braced on the bench, right hand on the
+
+right ceiling handle, left hand planted on the cushion, eyes fixed forward on the
+
+road ahead past camera-left, concentrating, riding the motion of the car. Camera
+
+holds. @图片 3 streaks past outside the windows.
+
+0.4–0.9s — the car swerves hard and she is swung out to the right, feet lifting off
+
+the floor, gripping on with no leverage at all — the handle alone is carrying her
+
+whole weight. Her focus breaks: eyes go wide, small pupils, teeth bared. Camera
+
+tilts up-right with her. As she swings, the terminator travels across her face and
+
+the rim light slides down her raised arm.
+
+0.9–1.2s — the car snaps into the opposite turn; the shear load of her body mass
+
+coming loose makes the right roof mount give up and it tears out of the roof, the
+
+handle rips off the mount and stays in her hand, unchanged in shape. She is thrown
+
+across the bench right to left. Camera whips down-left with her. She crosses
+
+straight through the key beam from the left window — one bright warm pass, then
+
+back into cool shadow.
+
+1.2–1.6s — she hits the left door panel against her back and shoulder, the cabin
+
+jolts once, the door absorbs most of the impact, her hair and jacket fly out and
+
+then snap back. The torn handle stays in her flung fist, she does not let it go.
+
+Against the bright left window she reads for a beat as a near-silhouette with a
+
+hot warm rim around her hair and shoulder.
+
+1.6–2.6s — she pushes herself up off the cushion onto her knees and works her hand
+
+around the second @图片 2 ceiling handle above the left door — she grabs it
+
+for balance and support only, no deliberate attempt to pull — her momentum
+
+carries all her weight onto that second mount, rocking the lining.
+
+2.6–3.1s — one beat of held pose, chest heaving, a crooked half-relieved grimace,
+
+the torn handle in her right hand and the intact one in her left, still not
+
+understanding how this happened. Held in the cleanest light of the shot: warm key
+
+on the face, cool fill in the shadow, rim along the jaw.
+
+3.1–3.5s — the car wrenches the other way; the second handle gives out the same
+
+way — the mount is not built for her weight and it tears right out. She drops
+
+with it onto the bench. Camera tumbles down-right with her.
+
+3.5–5.0s — her back lands on the cushion, her feet kick up, her hair fans out and
+
+settles two frames late. She ends sprawled across the bench, flat on her back,
+
+mouth open and shouting, one torn-off handle in each fist, arms still trembling
+
+— she never once tried to pull them. She has dropped below the window line, so the
+
+key falls off her body and she finishes in cooler, lower light with both windows
+
+burning warm above her.
+
+PHYSICS
+
+The car twists through hard alternating turns at speed. Lateral inertia throws the
+
+body opposite each turn, and the direction reverses on every swerve: each change
+
+in direction pulls her body in the opposite direction. The handles are just a
+
+point of support, while the force of the turn does all the work — if the mount
+
+held, she would simply stay swinging from it. Her grip is defensive only and the
+
+mounting breaks under the load of her body: the roof mount is torn out by the
+
+inertia of her own weight — she does nothing to cause the tearing, she is hanging
+
+passively. Her grip stays closed and does not open when the mounting fails. The
+
+torn-off handles dangle freely with their own weight, still the same rigid handles
+
+they were on the roof. Camera receives every jolt through the chassis, with
+
+inertia leaping straight through the body of the car.
+
+LIGHTING — CINEMATIC, GOLDEN HOUR
+
+Cinematic lighting throughout. Golden hour: a single low-angle warm key light rakes
+
+in through the LEFT window and cuts across the cabin, throwing long, fine,
+
+hard-edged shadows of her body, the seatbacks and the roof handles across the
+
+upholstery and the far door panel. Shadows run cool, highlights run warm, and the
+
+warm/cool contrast is what builds the depth.
+
+— Key plus rim on every beat. She is lit warm on the key side and falls into a
+
+cool shadow side, with a visible warm-to-cool transition at the terminator. A
+
+distinct rim light separates her hair, shoulder line and raised arm from the
+
+dark cabin behind her.
+
+— The cabin interior runs one stop darker than everything outside the glass. The
+
+two side windows are the brightest values in frame at all times.
+
+— Volumetric light in the air: soft Tyndall beams sloping in through the left
+
+window as the low sun passes through thin cloud, light haze and a gentle bloom
+
+where the beam meets the glass, so the light reads as travelling through the air
+
+inside the cabin, not just landing on surfaces.
+
+— Glass behaves like glass: specular highlights and reflections skate across the
+
+side windows, with restrained lens flare when the low sun clips frame. Her face
+
+stays clearly visible through any glass, softly veiled by reflection, never
+
+hidden.
+
+— Bounce: warm light kicks off the road surface and back up into the undersides —
+
+the seat bases, the cabin floor, her jaw. Ambient colour from the @图片 3
+
+landscape sweeps into the interior on each turn.
+
+— The light is fixed to the world, not to her. It never rotates to follow her face
+
+or body. As she is thrown, the lit side, the terminator and the rim all travel
+
+across her — that travel is the intended effect. She is never flatly lit and
+
+never lost in solid black.
+
+— Light position, angle, colour temperature and quality are constant for the whole
+
+5 seconds. One light source only. No second key, no colour shift, no
+
+time-of-day change, no flicker, no strobing, no interior lamp.
+
+AUDIO
+
+Highway road noise, engine load, shaking, two separate metallic cracks snapping as
+
+the roof mounts break — each one louder than the last, a thump of body against the
+
+door panel, a softer slam into the upholstery, one sustained dramatic cry from
+
+the girl.
+
+POSITIVE LOCKS
+
+One lone passenger only, empty cabin around her. She opens the shot composed and
+
+locked onto the road ahead, and only loses that focus once the first swerve takes
+
+her off the floor. The camera stays in one mounted position for the whole shot and
+
+only rotates. The interior stays rigid in the frame; only her body, hair and the
+
+torn handles move. She never tampers with the handles at all — never tugs, never
+
+pulls, never rips. The handles, once loaded by her full body weight and the
+
+acceleration of the car, break out on their own and remain in her hands because
+
+she is clinging to them. Both handles keep the exact shape, size, material and
+
+colour they have in @图片 2 from the first frame to the last, mounted and
+
+torn out alike — no morphing, no substitution, no change of design between the two
+
+handles or between beats. She carries the first handle in her right hand through
+
+the whole shot; the second one comes into her left. Every frame is lit to the same
+
+cinematic golden-hour setup: one fixed low warm key through the left window, warm
+
+highlights and cool shadows, rim light on the figure, volumetric haze in the air,
+
+warm bounce off the road, long hard-edged shadows, the windows always the brightest
+
+values and the cabin always one stop under — light position and colour temperature
+
+identical in the first frame and the last, and identical to every other shot in the
+
+film. She ends flat on her back, a torn-off handle in each hand. Clean, crisp frame.
+
+LIGHTING — CINEMATIC, GOLDEN HOUR Cinematic lighting throughout. Golden hour: a single low-angle warm key light raking across the frame from one side, throwing long, fine, hard-edged shadows across every surface, subject and floor. Shadows run cool, highlights run warm, and the warm/cool contrast is what builds the depth. — Key plus rim on every beat. Subjects are lit warm on the key side and fall into a cool shadow side, with a visible warm-to-cool transition at the terminator. A distinct rim light separates hair, shoulder lines and top edges from the darker background behind them. — Volumetric light in the air: soft Tyndall beams as the sun passes through thin cloud, light haze and a gentle bloom, so the light reads as travelling through air rather than just landing on things. — Glass behaves like glass: specular highlights and reflections skate across it, with restrained lens flare when the low sun clips frame. Anyone behind glass stays clearly visible, softly veiled by the reflection, never hidden. — Bounce: warm light kicks off the ground and back up into undersides — jawlines, chassis, seat bases. Ambient colour from the surrounding landscape reflects into the scene. — The light is fixed to the world, not to the subject. It never rotates to follow a face or a body. As subjects move, the lit side, the terminator and the rim travel across them — that travel is the intended effect. — Light position, angle, colour temperature and quality are constant for the whole shot and identical across every shot in the film. One light source only. No second key, no colour shift, no time-of-day change, no flicker, no strobing, no practical lamps.
+
+查看全部
+复制提示词
+重新创作
+Ready To Make Your Own?
+
+Start with one short scene and a small, consistent asset set. Use Blender when the shot depends on exact motion or spacing, then give Seedance 2.5 the approved visual references and a precise action sequence.
+
+Copy the prompts above as complete structures, replace the reference map with your own assets and keep the continuity rules that matter to your film. Before extending the sequence, make sure the first shot preserves the character, vehicle, camera logic and light you want to carry forward.
+
+目录
+Before You Start
+Stage 1 — The Assets
+Asset - The Girl
+Asset — The Taxi Driver
+Location
+Asset — The Yellow Taxi
+Asset — The Roofless Taxi
+Assets — Taxi Interiors and Trucks
+Asset — The Explosion
+Stage 2 — The Prompting Framework
+Blender Previs
+Framework — Shared Lighting
+Framework Example — A Controlled Two-Shot Sequence
+Stage 3 — The Scenes
+Scene 8 — Squeezing Between Two Trucks
+Scenes 10–11 — The Double Seatbelt
+Scene 18 — The Roof Explosion
+Scene 3 — Experimental: The Handles Gag
+Ready To Make Your Own?
+
+评论18
+
+feynmanant_bot
+2w
+Prompts for Recreate with Blender video reference doesn't work, did you worked with Higgsfild or another tool those iterations?
+回复
+yoav_yariv
+3w
+Thank you for your time and effort! Just wanted to say that getting the skiils md you used to generate your prompt will be 10x more helpful :)
+回复
+tntbunny
+01.10.2026
+Hi, I think the AI animation "Passport Rush" is really great! I'd like to know how many people are on your team and what roles they have. I'd also like to learn about your process, and how long it took to make this film. Thanks!
+回复
+perceptrondugong1118
+27.09.2026
+Thanks for this videos and articles ♥️
+回复
+toridust
+26.09.2026
+👍
+回复
+botticellistar1541
+26.09.2026
+Please share us the correct prompts
+回复
+abhi_now
+25.09.2026
+could you please share your prompt skill file
+4
+回复
+nashwalrus1247
+25.09.2026
+good job
+回复
+min_seo_bna
+24.09.2026
+Professionals are so so different. Huge gap
+回复
+sultan-alharbi
+24.09.2026
+😍  Great work. Thank you for the explanation.
+回复
+shiroed
+24.09.2026
+These prompts don't create stylised 3d characters or assets. Can you please include those details.
+1
+回复
+abhi_now
+24.09.2026
+brilliant
+回复
+samadfilms
+24.09.2026
+Amazing pipeline and production loved it
+回复
+parametric_kangaroo_special
+24.09.2026
+only 4 comments? thank you higgs
+回复
+vibing_llama
+24.09.2026
+👍
+回复
+munkhuugan
+24.09.2026
+🤩
+回复
+adaptingice1217
+24.09.2026
+❤️‍🔥
+回复
+highrise_narwhal_the_great
+24.09.2026
+🥰
+回复
+
+© 2026 Higgsfield, Inc. 保留所有权利。
+
+帮助中心
+Cookie 声明
+条款
+隐私
+报告漏洞

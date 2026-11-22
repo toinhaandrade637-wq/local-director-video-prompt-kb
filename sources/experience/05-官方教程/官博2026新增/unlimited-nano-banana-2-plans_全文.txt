@@ -1,0 +1,691 @@
+【项目】Where to Get Unlimited Nano Banana 2 in 2026: Plans, Daily Caps, and Cost per Image（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/unlimited-nano-banana-2-plans
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Where to Get Unlimited Nano Banana 2 in 2026: Plans, Daily Caps, and Cost per Image
+Higgsfield
+Sep 22, 2026
+11 min
+
+Nano Banana 2 (Gemini 3.1 Flash Image) is available through Google subscriptions, a metered API, and time-limited unlimited windows on creative platforms. Higgsfield includes a 7-day unlimited window at 2K with plans from $49/mo, with no per-image deductions while it runs. Google sells the same model with compute-based limits in subscriptions, or at $0.067 per 1K-resolution image through the API. This guide compares the main ways to pay.
+
+What Are the Four Ways to Pay for Nano Banana 2?
+
+The main ways to access Nano Banana 2 fall into four payment models. The prices below were checked on September 21, 2026 against the official Higgsfield, Google, and fal pages.
+
+What Are the Four Ways to Pay for Nano Banana 2?
+
+Payment model
+
+	
+
+Example
+
+	
+
+What you pay
+
+	
+
+Volume cap
+
+	
+
+Max resolution
+
+	
+
+Where it runs
+
+
+
+
+Unlimited windows in a plan
+
+	
+
+Higgsfield Plus, $49/mo
+
+	
+
+Flat plan price, window included
+
+	
+
+No per-image deductions during the window
+
+	
+
+2K in the window, 4K on credits
+
+	
+
+higgsfield.ai
+
+
+
+
+Flat subscription with usage limits
+
+	
+
+Google AI Pro, $19.99/mo
+
+	
+
+Flat monthly price
+
+	
+
+Compute-based, refreshes every 5 hours
+
+	
+
+Per current app settings
+
+	
+
+Gemini app
+
+
+
+
+Metered API
+
+	
+
+Gemini Developer API
+
+	
+
+Per image, $0.045 to $0.151
+
+	
+
+Rate limits only
+
+	
+
+4K
+
+	
+
+Your pipeline
+
+
+
+
+Pay-per-image providers
+
+	
+
+fal, $0.08 per 1K-resolution image
+
+	
+
+Per image, no subscription
+
+	
+
+None stated
+
+	
+
+4K at 2x rate
+
+	
+
+API
+
+Higgsfield, an AI-native creative suite, uses the unlimited-window model and combines it with credit-based generation. The plans include three layers of access:
+
+7-day unlimited windows. Nano Banana 2 at 2K comes with the Plus and Ultra plans, Nano Banana Pro at 2K with Ultra. Each eligible plan purchase includes one 7-day window that starts when the user activates it.
+A 365 Unlimited set. Selected models include 365 days of Unlimited access: the original Nano Banana, Seedream 5.0 Lite, Seedream 4.5, Flux.2 Pro, Kling O1 Image, and GPT Image. The access remains usable while the subscription is active, but the 365-day period does not restart when the plan renews.
+The Unlimited Models Marketplace. Standalone unlimited windows for individual models, purchased on top of any plan; details and prices are in the Marketplace section below.
+
+The other options measure usage through compute allowances or per-image pricing. For high-volume manual generation, an unlimited window removes the per-image charge during the active period.
+
+Which option fits which workload:
+
+Where to Get Unlimited Nano Banana 2 in 2026: Plans, Daily Caps, and Cost per Image
+
+Need
+
+	
+
+Recommended route
+
+
+
+
+Manual generation during a launch or catalog update
+
+	
+
+Higgsfield Unlimited
+
+
+
+
+Casual image creation in a general AI assistant
+
+	
+
+Gemini app
+
+
+
+
+Automated production pipeline
+
+	
+
+Google API
+
+
+
+
+Lower-cost asynchronous bulk generation
+
+	
+
+Google Batch API
+
+
+
+
+Simple third-party API integration
+
+	
+
+fal
+
+How Do Higgsfield and Google Plans Compare on Nano Banana 2?
+
+Both platforms sell flat-priced plans, and each describes volume in its own terms. Higgsfield lists named unlimited windows per model. Google uses compute-based limits: usage refreshes every 5 hours up to a weekly ceiling, and paid plans raise the allowance by a fixed multiplier. Google does not publish a fixed number of daily image generations, so its compute allowances cannot be compared directly with time-based windows.
+
+How Do Higgsfield and Google Plans Compare on Nano Banana 2?
+
+Plan
+
+	
+
+Price
+
+	
+
+Nano Banana 2 access
+
+	
+
+Nano Banana Pro access
+
+
+
+
+Higgsfield Starter
+
+	
+
+$15/mo
+
+	
+
+Credits only, 2 credits/image
+
+	
+
+Credits only, 2 credits/image
+
+
+
+
+Higgsfield Plus
+
+	
+
+$49/mo
+
+	
+
+7-day unlimited window, 2K
+
+	
+
+Credits only
+
+
+
+
+Higgsfield Ultra
+
+	
+
+$129/mo
+
+	
+
+7-day unlimited window, 2K
+
+	
+
+7-day unlimited window, 2K
+
+
+
+
+Google Free
+
+	
+
+$0
+
+	
+
+Standard compute allowance
+
+	
+
+No redo access
+
+
+
+
+Google AI Plus
+
+	
+
+$4.99/mo
+
+	
+
+2x standard allowance
+
+	
+
+Pro redo, within plan limits
+
+
+
+
+Google AI Pro
+
+	
+
+$19.99/mo
+
+	
+
+4x standard allowance
+
+	
+
+Pro redo, within plan limits
+
+
+
+
+Google AI Ultra
+
+	
+
+$99.99 or $199.99/mo
+
+	
+
+5x or 20x the Pro allowance
+
+	
+
+Pro redo, within plan limits
+
+The key differences:
+
+Higgsfield plans state the volume terms per model. A window means no per-image deductions for its duration; outside a window, the price is 2 credits per image, approximately $0.10 at the reference rate of 20 credits per $1.
+Google plans state a multiplier. Media generation consumes the allowance faster than text prompts, and per-image numbers for the app are not published, so an exact number of generations cannot be calculated in advance.
+Google prices shown are from the US version of the subscriptions page; they vary by region.
+
+In the Gemini app, Pro redo regenerates an existing image with Nano Banana Pro; it is a feature within the plan's limits, not standalone Pro access.
+
+How Much Does One Image Cost Outside a Plan?
+
+Manual generations on the Higgsfield website can use an active Unlimited window. API workflows and generations outside an active window are billed per image. Here is what one image costs on each metered route.
+
+How Much Does One Image Cost Outside a Plan?
+
+Route
+
+	
+
+1K
+
+	
+
+2K
+
+	
+
+4K
+
+	
+
+Notes
+
+
+
+
+Higgsfield Credit Mode
+
+	
+
+2 credits (~$0.10)
+
+	
+
+2 credits (~$0.10)
+
+	
+
+4 credits (~$0.20)
+
+	
+
+Priority queue, runs on any plan
+
+
+
+
+Google API, Standard
+
+	
+
+$0.067
+
+	
+
+$0.101
+
+	
+
+$0.151
+
+	
+
+Input tokens billed separately
+
+
+
+
+Google API, Batch
+
+	
+
+$0.034
+
+	
+
+$0.050
+
+	
+
+$0.076
+
+	
+
+Half price, asynchronous delivery
+
+
+
+
+fal
+
+	
+
+$0.08
+
+	
+
+$0.12
+
+	
+
+$0.16
+
+	
+
+No subscription required
+
+
+
+
+Google API, Nano Banana 2 Lite
+
+	
+
+$0.0336 ($0.0168 Batch)
+
+	
+
+Not available
+
+	
+
+Not available
+
+	
+
+1K only
+
+The listed API prices do not include every charge:
+
+Input tokens. Prompts and reference images are billed at $0.50 per million tokens for Nano Banana 2 and $2.00 for Pro.
+Grounding. Search grounding includes 5,000 free requests per month across Gemini 3.x, then $14 per 1,000.
+No free API tier for these image models. Nano Banana 2, 2 Lite, and Pro bill from the first generation; the original Nano Banana is deprecated in the API and shuts down on October 2, 2026.
+Optional fal features. Web search adds $0.015 per request and higher thinking settings add $0.002; both are billed on top of the base image price.
+What Do 300 Generations a Day Actually Cost?
+
+For product-image work, an edit usually means a reference-based generation, so the math below counts generations. At 300 generations per day, a 30-day month totals approximately 9,000 images. The table below compares the estimated cost at 1K to 2K.
+
+What Do 300 Generations a Day Actually Cost?
+
+Route
+
+	
+
+Monthly cost at 9,000 images
+
+	
+
+Notes
+
+
+
+
+Higgsfield 7-day window
+
+	
+
+Included in a $49 to $129 plan
+
+	
+
+Covers about 2,100 of 9,000 images
+
+
+
+
+Higgsfield Credit Mode
+
+	
+
+~$900 for 9,000 images
+
+	
+
+~$690 after a 7-day window
+
+
+
+
+Google API, Batch 1K
+
+	
+
+$306
+
+	
+
+Asynchronous delivery
+
+
+
+
+Google API, Standard 1K
+
+	
+
+$603
+
+	
+
+Predictable, scales linearly
+
+
+
+
+fal
+
+	
+
+$720
+
+	
+
+Simple integration, no subscription
+
+
+
+
+Google AI Ultra
+
+	
+
+$99.99 to $199.99 flat
+
+	
+
+Sustained volume not stated
+
+These figures are workload estimates, not a guaranteed generation volume. Credit math uses the reference rate of 20 credits per $1; the 7-day window covers 2,100 images only at a steady 300 generations a day. Batch API delivery is asynchronous, and Google does not state a sustained image volume for Ultra.
+
+Use an API when generation needs to be automated. Use a time-limited Unlimited window when a person is producing many variations directly on the website: a launch week or a catalog refresh runs inside a window, and the overflow price per image is known in advance.
+
+Does Editing Cost the Same as Generating?
+
+On Higgsfield, two flows change an image and they are billed differently:
+
+Generation with references. Nano Banana 2 accepts up to 14 reference images per request in the generation panel. While a window is active, this flow runs on the Unlimited toggle with nothing deducted.
+The Edit tool on a finished image. In our September 2026 test, an edit made through the separate Edit interface deducted 1.5 credits even while Unlimited was active.
+
+Google API usage is billed per request for both generation and editing: references are billed as input tokens on top of the output price. On Higgsfield, reference-based generations run inside an active window; edits made through the separate Edit interface use credits.
+
+What Does Unlimited Actually Limit?
+
+Eligible generations do not deduct credits during the active Unlimited period. Resolution, queue priority, concurrency, platform access, and fair-use rules still apply:
+
+Resolution. The Nano Banana 2 and Pro windows run at up to 2K; 4K is available in Credit Mode.
+Queue. Window generations run in the standard queue, and speed can vary at peak hours. Credit Mode runs in the priority queue and is generally processed faster than the standard unlimited queue; a 1K or 2K generation costs 2 credits.
+Concurrency. Parallel limits in unlimited mode adjust dynamically to keep the platform stable. Marketplace bundles state fixed terms: image bundles run 2 generations at a time.
+Surface. Unlimited applies only on higgsfield.ai. Generations through MCP, CLI, Canvas, Supercomputer, and the API always deduct credits.
+Fair use. Unlimited must be used manually by the account holder; automation, scripting, account sharing, and resale can pause access pending review. This restriction concerns how the service is accessed; it does not by itself prohibit commercial use of eligible outputs.
+Subscription dependency. Windows and the 365-day set work while the subscription is active, and the period does not reset at renewal.
+
+Details are in the Help Center article on Unlimited models.
+
+How Does the Unlimited Models Marketplace Work?
+
+The Marketplace sells time-boxed unlimited access to individual models, separately from the plan bundles. It works like this:
+
+Open the model card in the Unlimited Models Marketplace on higgsfield.ai.
+Pick a resolution tier and a duration: 1, 3, or 7 days.
+Pay once. The window starts on purchase and runs on the website alongside your plan.
+
+Current Nano Banana Pro pricing:
+
+How Does the Unlimited Models Marketplace Work?
+
+Window
+
+	
+
+2K
+
+	
+
+4K
+
+
+
+
+1 day
+
+	
+
+$5
+
+	
+
+$7
+
+
+
+
+3 days
+
+	
+
+$12
+
+	
+
+$16
+
+
+
+
+7 days
+
+	
+
+$23
+
+	
+
+$32
+
+Marketplace image bundles run 2 generations at a time, and the same fair use terms apply. The lineup changes over time; Seedance and Kling video bundles appear in the same store.
+
+Nano Banana Pro: Is There a Flat Plan Without Daily Caps?
+
+Users looking for Nano Banana Pro face a similar choice, especially after reaching the Gemini app's Pro redo limit. Current answers side by side:
+
+Higgsfield Ultra includes a 7-day Nano Banana Pro window at 2K in the plan.
+Higgsfield Marketplace sells standalone Pro windows for 1, 3, and 7 days at 2K and 4K; prices are in the Marketplace section above.
+Google subscriptions include Pro redo on all paid tiers, inside the same compute-based allowance.
+Google API bills Pro at $0.134 per 1K or 2K image and $0.24 at 4K, with Batch halving both.
+
+For choosing between the two models on output quality, see Soul 2 vs Nano Banana Pro.
+
+Can One Plan Cover Images and Video?
+
+The same Higgsfield subscriptions that carry the Nano Banana windows include Seedance and Kling 3.0 unlimited windows for video, so a still generated with Nano Banana 2 can move to image-to-video within the same platform and subscription. The full model list per plan is on the pricing page, and the mechanics are covered in the unlimited models overview.
+
+How We Compared the Options
+
+We compared model version, output resolution, access period, queue and concurrency restrictions, automation support, and effective cost. Subscription limits that do not publish an image count were not converted into cost per image.
+
+WHERE TO GET UNLIMITED NANO BANANA 2 IN 2026: PLANS, DAILY CAPS, AND COST PER IMAGE
+Try Nano Banana 2

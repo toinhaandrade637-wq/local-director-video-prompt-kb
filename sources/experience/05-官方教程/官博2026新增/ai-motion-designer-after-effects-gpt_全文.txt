@@ -1,0 +1,50 @@
+【项目】AI Motion Designer: Higgsfield Meets After Effects Through GPT（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/ai-motion-designer-after-effects-gpt
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+AI Motion Designer: Higgsfield Meets After Effects Through GPT
+Higgsfield
+Sep 11, 2026
+10 min
+
+Higgsfield just launched AI Motion Designer, a new agent that connects Higgsfield directly to Adobe's After Effects through GPT. Generate visuals with Higgsfield's tools, then describe the motion graphics work you need in plain language, and it builds straight into your open After Effects project. This guide covers how it works, what it can build, and how to get started.
+
+How Higgsfield and After Effects Work Together
+
+AI Motion Designer brings Higgsfield generation and After Effects editing into the same workflow through GPT. Generate visuals through Higgsfield's tools. Then describe the task in plain language: ‘Animate this title,’ ‘Build a logo reveal,’ or ‘Add a transition. It builds directly inside your open After Effects composition. No exporting a generated asset out of one app just to import it into another.
+
+Output Settings. There's no fixed cap on resolution, runtime, or reference assets. Generation runs at whatever resolution gets specified in the prompt: 1080p, 4K or 8K. The runtime works the same way, ask for 5 minutes, 30 minutes or more and it generates exactly that length. Reference images and videos aren't limited either, use as many as the project actually needs. The only real tradeoff is time: a longer runtime or a higher resolution means a longer wait for the generation to finish.
+
+Why It Matters
+
+Switching between tools used to be the whole workflow. Motion graphics work has always meant generating an asset somewhere, then bringing it into After Effects to animate and finish it. AI Motion Designer lets you handle those tasks through plain-language instructions while working with the After Effects project. Describing what needs to happen in your own words, inside the project you're already working in, cuts out the back-and-forth that used to eat time on every small revision.
+
+No working knowledge of After Effects is required. The agent handles the actual work inside the software, translating a plain-language request into layers, keyframes, and timing on its own. Someone who has never opened After Effects before can still get a finished title animation or a logo reveal, built entirely from commands typed in chat.
+
+How to Access It
+
+Step 1: Add the Higgsfield plugin in ChatGPT.
+
+Step 2: Type /use-after-effects through the plugin.
+
+Step 3: Describe what you need done in After Effects, directly in chat.
+
+Pricing
+
+Running AI Motion Designer requires active subscriptions to Higgsfield, GPT, and Adobe After Effects. Higgsfield generations use your regular Higgsfield credit balance at the same rates as the web platform. ChatGPT/MCP usage depends on the plan and client you use.
+
+Use Cases
+Building a title animation or logo reveal from a text instruction
+Recreating animation from a visual or video reference
+Generating expressions or effects without writing them manually
+Bringing a Higgsfield-generated asset into the composition and continuing the animation there
+Who Can Use It
+Motion designers looking to speed up repetitive animation tasks
+Video editors who need a quick title or transition without building it from scratch
+Content creators producing branded video without a dedicated motion design background
+Agencies handling multiple client projects that need consistent, on-brand motion work
+AI MOTION DESIGNER: HIGGSFIELD MEETS AFTER EFFECTS THROUGH GPT
+Try AI Motion Designer

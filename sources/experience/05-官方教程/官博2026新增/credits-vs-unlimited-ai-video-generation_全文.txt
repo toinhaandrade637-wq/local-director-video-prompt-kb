@@ -1,0 +1,579 @@
+【项目】Credits vs Unlimited Plans for AI Video Generation in 2026: Pricing and Services Explained（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/credits-vs-unlimited-ai-video-generation
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Credits vs Unlimited Plans for AI Video Generation in 2026: Pricing and Services Explained
+Higgsfield
+Sep 15, 2026
+12 min
+
+Credit plans charge per generation, so every retry draws from the balance. Unlimited plans cover named models for a set period, with queue, resolution, and duration terms that vary by platform. A flat plan may become more cost-effective once the cost of retries exceeds the price of the plan itself. Most services sell one model or the other; hybrid subscriptions combine both. Prices verified September 11, 2026.
+
+How Credit Plans Work in AI Video
+
+Credits are the default billing model in AI video generation: a plan includes a monthly pool, and each generation deducts a portion of it. The size of that portion depends on several factors at once:
+
+Model. Flagship models draw credits several times faster than budget lines on the same plan.
+Duration and resolution. A 1080p render can cost three to four times the 720p rate, and longer clips scale the price per second.
+Audio. Some models price native audio on top of the base rate, while others include it, so the same clip length can cost differently with sound.
+Retries. On many platforms a failed or unusable take deducts the same credits as a keeper, so attempts count toward the budget.
+
+Two more rules shape the monthly budget. Subscription credits usually reset at the end of each billing cycle without rollover, and purchased top-ups carry their own expiry dates. This is why the practical unit of cost is one usable clip, which in our own testing typically takes three to five generations to land.
+
+A common way to reach $150 a month is holding two or three credit subscriptions at once, one per stage or model. Here is what such a stack buys, at each platform's published rates:
+
+How Credit Plans Work in AI Video
+
+Tool
+
+	
+
+Monthly price
+
+	
+
+Credits
+
+	
+
+One generation
+
+	
+
+Usable clips at 3 to 5 attempts
+
+
+
+
+Luma Pro
+
+	
+
+$90
+
+	
+
+40,000
+
+	
+
+Ray 3.2, 5s 1080p: 400 credits
+
+	
+
+20 to 33
+
+
+
+
+Runway Pro
+
+	
+
+$35
+
+	
+
+2,250
+
+	
+
+Gen-4.5, 5s: 60 credits
+
+	
+
+7 to 12
+
+
+
+
+Kling Pro
+
+	
+
+$37
+
+	
+
+3,000
+
+	
+
+Shown at generation time
+
+	
+
+Varies by model and mode
+
+The total is $162 across three separate balances, and the stack yields roughly 27 to 45 usable clips a month, with any remainder expiring in each tool on its own schedule. A fuller breakdown of where credits go is in our guide to Why Your AI Video Credits Run Out Faster Than You Expect.
+
+How Unlimited Plans Work in AI Video
+
+An unlimited plan works the other way around: instead of deducting per generation, it opens flat access to named models while the plan or pass stays active. The structure differs by platform, and four patterns cover the current market:
+
+Relaxed or off-peak queue. Generation is uncapped but runs in a slower lane, often after fast credits are spent. Midjourney and Vidu work this way.
+Unlimited exports on credit generation. The generation itself stays credit-based; only downstream features are uncapped.
+A year-long set of named models. A fixed list stays credit-free for 365 days. Higgsfield and Magnific run this pattern.
+A window on the newest flagship. Days-long unlimited access to a specific model, renewable after expiry. Higgsfield sells these as windows and passes.
+
+The category has been narrowing: Runway closed its Unlimited plan to new subscribers in June 2026, and Luma's current plans list per-second credit rates with no relaxed mode. What remains on the market is scoped by model list, duration, and queue, which is worth reading closely before comparing prices.
+
+Credits or Unlimited: How to Compare the Cost
+
+The comparison comes down to five steps:
+
+Count the usable clips you need per month.
+Multiply by your retry rate; three to five attempts per keeper is a common range.
+Price that number of generations in credits at your working model's rate.
+Compare the result with the flat price of a plan or pass that covers that model.
+Check where the coverage applies, including surface, resolution, and concurrency, before switching.
+
+On Higgsfield's current rates, one Seedance 2.5 take at 8 seconds 1080p costs 72 credits, about $3.60. Applied to three load profiles:
+
+Credits or Unlimited: How to Compare the Cost
+
+Profile
+
+	
+
+Generations per month
+
+	
+
+Cost in credits
+
+	
+
+The flat alternative
+
+
+
+
+Light, up to 10 usable clips
+
+	
+
+30 to 50
+
+	
+
+$108 to $180
+
+	
+
+Plan credits cover it; a pass adds little
+
+
+
+
+Regular, around 30 usable clips
+
+	
+
+90 to 150
+
+	
+
+$324 to $540
+
+	
+
+A 3-day or 7-day pass on the working model costs less
+
+
+
+
+Heavy, 100+ usable clips
+
+	
+
+300 to 500
+
+	
+
+$1,080 to $1,800
+
+	
+
+Passes and windows carry the iterations; credits go to finals
+
+The pattern holds across platforms: the more retries a workload generates, the sooner a flat period on the working model beats paying per attempt.
+
+Services Compared at a Glance
+
+AI video pricing, model availability, credit rates, and unlimited terms change frequently. The figures below reflect the September 11, 2026 verification date and are worth checking against each provider's pricing page before purchase.
+
+Services Compared at a Glance
+
+Service
+
+	
+
+Pricing model
+
+	
+
+What's called unlimited
+
+	
+
+Key conditions
+
+	
+
+Models
+
+	
+
+Entry price
+
+
+
+
+Higgsfield
+
+	
+
+Credits plus unlimited
+
+	
+
+365-day set, 7-day windows, Marketplace passes
+
+	
+
+Per model, standard queue, web only
+
+	
+
+30+ frontier models
+
+	
+
+$15/mo
+
+
+
+
+Midjourney
+
+	
+
+Credits plus Relax
+
+	
+
+Images in Relax; SD video on Pro/Mega
+
+	
+
+Slower queue, 3 concurrent
+
+	
+
+Own line
+
+	
+
+$10/mo
+
+
+
+
+Kling
+
+	
+
+Credits
+
+	
+
+None on current plans
+
+	
+
+Credits expire each cycle
+
+	
+
+Own line
+
+	
+
+$10/mo
+
+
+
+
+Runway
+
+	
+
+Credits
+
+	
+
+4K upscaling on Max
+
+	
+
+Unlimited closed to new subscribers
+
+	
+
+Own line plus licensed
+
+	
+
+$15/mo
+
+
+
+
+Luma
+
+	
+
+Credits
+
+	
+
+None on current plans
+
+	
+
+Per-second rates
+
+	
+
+Ray line plus partners
+
+	
+
+$30/mo
+
+
+
+
+Adobe Firefly
+
+	
+
+Unlimited promo, then credits
+
+	
+
+Selected models, first year
+
+	
+
+12-month term, list can change
+
+	
+
+Partner list
+
+	
+
+$19.99/mo
+
+
+
+
+Magnific
+
+	
+
+Credits plus set
+
+	
+
+Listed models, month or year by billing
+
+	
+
+Model-capped, resolution by tier
+
+	
+
+Listed set
+
+	
+
+€10.50/mo
+
+
+
+
+Hailuo
+
+	
+
+Credits plus unlimited
+
+	
+
+Video on Max; images on annual
+
+	
+
+Queue, personal use
+
+	
+
+Own lines plus partners
+
+	
+
+$30.40/mo annual
+
+
+
+
+Vidu
+
+	
+
+Credits plus off-peak
+
+	
+
+Off-peak generation on Max
+
+	
+
+Non-peak lane only
+
+	
+
+Own line
+
+	
+
+$10/mo
+
+A ranked audit of every unlimited offer, with duration and version policy per service, is in our annual unlimited plans breakdown.
+
+Higgsfield: A Credit Pool Plus a 365-Day Set and Windows
+
+Higgsfield is an AI-native creative suite, and Unlimited is how it handles long-run model access: one credit balance covers more than 30 frontier models for video, image, and audio, including Veo 3.1, Kling 3.0, Seedance 2.5, and Wan 2.6, while the plans layer unlimited access on top of it.
+
+The three plans stack access differently:
+
+Starter, $15/mo: 200 credits and the model catalog, without the unlimited set.
+Plus, $49/mo or $39 annual: 1,000 credits, the 365-day set of six image models, and a 7-day window on Nano Banana 2.
+Ultra, $129/mo or $99 annual: 3,000 credits, the same set, and windows on Nano Banana Pro and Nano Banana 2.
+
+Annual billing adds a Kling 3.0 window on both paid tiers, and free generation pools for Soul V2 and Soul Cinema run from 3,000 to 10,000 by plan. Credit costs stay visible before spending: in our September check, the Generate button showed 20 credits, about $1.00, for a Kling 3.0 clip at 8 seconds 1080p. On top of the plans, the Unlimited Models Marketplace sells 1, 3, and 7-day passes per model, from $7 for a 1-day pass to $1,035 for a 7-day all-models pass.
+
+What to keep in mind
+
+Unlimited applies on higgsfield.ai; MCP, CLI, Canvas, and Supercomputer run on credits.
+Coverage is per model, in the standard queue, with resolution and duration caps set per model.
+New flagships arrive as windows and passes; the 365-day set covers its named models.
+Midjourney: Relax Mode on Top of Fast Credits
+
+Midjourney pairs fast GPU credits with Relax mode, an uncapped lane with no end date. Standard and higher plans include unlimited image generation in Relax, and Pro and Mega add SD video on top.
+
+Basic at $10 carries no Relax mode, so the effective unlimited entry price is Standard at $30. Pro at $60 and Mega at $120 extend Relax to SD video, and annual billing takes 20 percent off every tier. Relax runs up to 3 concurrent jobs and trades speed for volume, while HD video draws fast GPU hours only. Since the platform ships its own models, new versions enter Relax on release, which makes version upgrades part of the same subscription.
+
+What to keep in mind
+
+The effective unlimited entry price is $30; Basic has no Relax.
+Video inside Relax tops out at SD.
+Switching models means switching platforms; there are no third-party lines here.
+Kling: Credit Tiers With Rates at Generation Time
+
+Kling sells credit allowances across four paid tiers, with no unlimited generation mode on its current pricing page. Daily free credits and rotating model promotions are subscriber benefits.
+
+The ladder runs from Standard, $10 with 660 credits, through Pro at $37 with 3,000 and Premier at $92 with 8,000, up to Ultra at $180 with 26,000. Annual billing cuts 34 percent, and first-month promotions change the entry price regularly. Fixed per-clip rates are not published: consumption depends on model, mode, duration, and audio, and the exact cost appears in the interface at generation time, so budgeting works per session more than per price list. At the time of our check, the first-month promotion ran about 30 percent below the renewal price.
+
+What to keep in mind
+
+Budgeting per clip requires checking the interface, since fixed rates are not published.
+Subscription credits expire at the end of each billing cycle.
+Promotional first-month prices differ from renewal prices on every tier.
+Runway: A Credit Ladder on the Current Plans
+
+Runway closed its Unlimited plan to new subscribers on June 1, 2026, and moved existing ones to Max on September 1. The current ladder is credit-based, with 4K upscaling as the one uncapped feature on Max. The earlier plan's slow-queue generation has no direct successor in the current lineup.
+
+Standard at $15 includes 625 credits, Pro at $35 includes 2,250, and Max at $95 includes 9,500 with a 1-month rollover. Annual billing brings the tiers to $12, $28, and $76. Gen-4.5 draws 12 credits per second, so a 5-second clip costs 60 credits, and licensed third-party models bill from the same pool at their own rates.
+
+What to keep in mind
+
+Generation on every current tier is metered; only 4K upscaling on Max is not.
+Credits on Standard and Pro reset each cycle without rollover.
+Max is the only tier with rollover, limited to one month.
+Luma: Published Per-Second Credit Rates
+
+Luma prices every model per second in credits, with published rates by model, resolution, and audio, and no unlimited or relaxed mode on the current pricing page. The catalog spans the Ray line and partner models, including Seedance, Kling, and Veo.
+
+The three tiers hold 10,000, 40,000, and 150,000 credits at $30, $90, and $300 on monthly billing. Yearly billing saves up to 20 percent, bringing the tiers to $25, $75, and $250. The published table is precise: Ray 3.2 at 1080p runs 400 credits per 5-second clip, Seedance 2.5 at 1080p with audio runs 319 credits per second, and partner models bill from the same pool at their own per-second rates.
+
+What to keep in mind
+
+Resolution drives the budget; 1080p costs about 4x the 720p rate on Ray 3.2.
+There is no free tier on the current individual plans.
+A heavy month on partner models drains the pool at their rates, not Luma's own.
+Adobe Firefly: First-Year Unlimited, Then Credits
+
+Adobe attaches unlimited generations on selected partner models to the first 12 months of its paid Firefly tiers. The term runs from the subscription start date and applies on firefly.adobe.com and the mobile app.
+
+Pro at $19.99 covers 6 models for the first year. Pro Plus at $49.99, discounted to $24.96 for year one, covers 18 models, and Premium at $199.99, discounted to $99.86, covers 19. After year one, accounts move to credits: 10,000 per month on Pro Plus and 50,000 on Premium. During the unlimited term, features outside the covered list continue to draw credits, and an upgrade mid-term switches the model list to the higher tier's with the same end date.
+
+What to keep in mind
+
+The unlimited term ends after 12 months while the subscription continues.
+The covered model list can change during the term.
+Teams and Enterprise plans sit outside the promotion.
+Magnific: A Model-Capped Set Tied to Billing
+
+Magnific by Freepik ties the duration of its unlimited set to the billing cycle: the same models read unlimited every month on monthly billing and unlimited all year on annual.
+
+Premium at €10.50 on annual billing runs on credits only. Premium+ at €25.50 adds the unlimited set: Nano Banana 2, Kling 2.5, Seedream 5.0 Pro under a promo tag, and Hailuo 2.3 Fast. Pro Starter at €62.25 carries the same set at higher resolution ceilings. Credits come as yearly pools from 240K to 4M with no monthly resets, and billing runs in euros, so the dollar cost moves with the exchange rate.
+
+What to keep in mind
+
+Nano Banana Pro is excluded from unlimited on every tier as of this check.
+One entry in the set carries a promo tag, so its term can differ from the billing year.
+The entry Premium tier includes no unlimited.
+Hailuo: Credits With Unlimited at the Top Tier
+
+Hailuo combines credit tiers with two unlimited privileges: video generation on prior-generation models at the top tier, and a year of image unlimited on annual billing bought in promo windows.
+
+Pro at $30.40 on annual billing includes image unlimited at 1K for a year, Master at $71.20 raises it to 2K, and Max at $184 adds unlimited video on Hailuo 1.0, 2.0, and 2.3 alongside images at 3K and 4K. The video privilege runs in a queue and is scoped to personal use per the platform's terms. The pricing page is one of the few that publishes per-second dollar rates directly, which makes its credit math easier to verify than most. MiniMax H3, the newest model, bills in credits from $0.027 per second across all tiers, so the flagship stays outside the unlimited coverage.
+
+What to keep in mind
+
+Video unlimited covers prior generations; the newest flagship stays on credits.
+Image unlimited depends on annual billing and a promo-period purchase.
+Monthly and yearly prices differ by up to 47 percent, so the checkout figure is the one to budget from.
+Vidu: Credits With Off-Peak Unlimited on Max
+
+Vidu sells credit tiers with an off-peak unlimited mode at the top: the Max plan includes uncapped generation in the non-peak lane plus unlimited image generation on its Q2 model at 1080p.
+
+Standard's $10 buys 800 credits, which the plan card states as up to 200 clips at base settings. Premium at $35 includes 4,000 credits and a high-speed lane, and Max at $99 includes 8,000 credits with the off-peak and Q2 image privileges. Annual billing brings the tiers to $8, $28, and $79. Subscription credits stay valid for 30 days, purchased credits for two years, and batch generation runs 4 videos at a time from Standard. The plan cards describe the top-tier privilege as unlimited generation in the non-peak lane, with no daily figure stated.
+
+What to keep in mind
+
+Unlimited generation applies in the off-peak lane only.
+Subscription credits carry a 30-day term separate from purchased ones.
+The Q2 image unlimited sits on the top tier and caps at 1080p.
+One Plan or Several
+
+Three scenarios cover most decisions:
+
+One model at its maximum. A vendor's own plan prices that line best, and a single-model subscription stays the reasonable choice.
+Image, video, and post across 2 to 4 tools. A stack in the $150 range holds separate expiring balances in each tool, and the retry math applies in all of them at once. One hybrid subscription, such as Higgsfield Plus at $49, runs the same models from one balance: iterations go through the 365-day set, windows, and free generation pools, credits go to final renders, and Soul ID carries the same character from images into video without an export step.
+API or pipeline generation. Unlimited terms across the platforms we checked stay on the web surface, so programmatic workloads come down to price per credit.
+Which Pricing Model Fits Your Workload
+Occasional creator, a few clips a month. Credits on a base plan cover the volume, and the retry math stays small enough not to matter.
+High volume on one covered model. An unlimited plan or a pass on that model removes the per-attempt cost, which is where the savings concentrate.
+Creator testing many models. A hybrid plan fits: credits reach the whole catalog, and the unlimited set absorbs the iteration-heavy part.
+Professional running several models and stages. A multi-model subscription such as Higgsfield keeps image, video, and post on one balance, with unlimited coverage for the working models.
+API or pipeline workflow. Credits or usage-based pricing is the practical option, since unlimited terms across the platforms we checked stay on the web surface.
+CREDITS VS UNLIMITED PLANS FOR AI VIDEO GENERATION IN 2026: PRICING AND SERVICES EXPLAINED
+See Higgsfield Pricing

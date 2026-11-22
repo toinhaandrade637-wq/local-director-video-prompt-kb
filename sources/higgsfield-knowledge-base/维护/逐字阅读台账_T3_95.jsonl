@@ -1,0 +1,500 @@
+{"project":"GOODNIGHT_MILWAUKEE","idx":1,"sha8":"09a1d5a7","len":252,"nTasks":1,"models":"default","read":true,"findings":"**animate this image 图动画指令**：animate this image of people walking into the theater…The man in the black suit…pulls out a small notebook from his inside jacket pocket and a pencil and makes a note——图动画+笔记本记录"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":2,"sha8":"143b28fb","len":238,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":3,"sha8":"556e4ce3","len":132,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":4,"sha8":"0700abc6","len":97,"nTasks":1,"models":"null","read":true,"findings":"**戏院招牌修正**：replace the sign above the door with \"**ENTRANCE**\". Up on the **marque**, just remove all the lettering——marque 错拼+字全删"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":5,"sha8":"1e544657","len":38,"nTasks":1,"models":"video_edit","read":true,"findings":"**流畅度修正**：Smooth out this video. **It feels choppy**——卡顿术语（行 29：make the **bitrate higher** so it's smooth——**比特率提升指令**）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":6,"sha8":"a113a825","len":95,"nTasks":1,"models":"default","read":true,"findings":"**德语台词指定**：have the German officer say \"**Keller. 20 minutes.\" in German**——名字 Keller=地窖"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":7,"sha8":"d7fd5843","len":122,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":8,"sha8":"d7fd5843","len":122,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":9,"sha8":"a113a825","len":95,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":10,"sha8":"b2fb8db7","len":117,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":11,"sha8":"9e4f81c4","len":833,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"833c **[0:00-0:01] 秒区间+潜艇**：Camera **LOCKED OFF**, no movement, looking **aft** down a dim red-lit **1944 German U-boat compartment** at a naval officer gripping the rim of the round **watertight hatchway**——水密舱口+Heavy humid haze, wet steel, **deep crushed blacks** 压黑+low diesel hum and hull creak 柴油哼鸣+船壳吱嘎"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":12,"sha8":"f49d6e16","len":844,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":13,"sha8":"d3bb1d36","len":1195,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"**前景静剪影**：That foreground man **does not move at all, he remains a still dark out-of-focus silhouette** for the entire shot——前景静剪影"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":14,"sha8":"4dcb630a","len":1031,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":15,"sha8":"141fc7db","len":1700,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"1,700c **帧流畅否定五连**：Shot on 35mm at 24fps with a 180 degree shutter. Natural motion blur, smooth continuous fluid motion, **no stepping, no strobing, no judder**, constant velocity（行 30：**no stutter, no frame skipping, consistent even velocity from first frame to last**）——帧流畅否定五连+首末帧恒速"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":16,"sha8":"9e764f0a","len":2538,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":17,"sha8":"9e8093d2","len":2725,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":18,"sha8":"9e8093d2","len":2725,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":19,"sha8":"9e764f0a","len":2538,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":20,"sha8":"4dcb630a","len":1031,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":21,"sha8":"a0a8c041","len":1380,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":22,"sha8":"e62d0aa0","len":1479,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":23,"sha8":"3f0baaa7","len":1518,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":24,"sha8":"055cbbcc","len":286,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":25,"sha8":"0700abc6","len":97,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":26,"sha8":"3d54e53f","len":216,"nTasks":1,"models":"null","read":true,"findings":"**THE STRAND 真实戏院**：call it \"**THE STRAND**\". On the Marque it reads \"**West Of The Rio Grande**\" and below that \"**JOHNNY MACK BROWN**\"——真实戏院名+1944 电影名+真实西部片明星"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":27,"sha8":"3d54e53f","len":216,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":28,"sha8":"1e544657","len":38,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":29,"sha8":"15c77dc0","len":68,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":30,"sha8":"6dc6d112","len":2678,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":31,"sha8":"6dc6d112","len":2678,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":32,"sha8":"c222dc96","len":1768,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"1,768c **caustic web 双十六进制**：soft shifting **caustic web (#7E97B0)**…dissolving with depth into cold teal **(#0E2A3C)** and crushed bl…——焦散网+四色系统（行 111/114：**crushed black (#02050A)**/**moonlight (#6D8299)**）+Marine snow 海雪"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":33,"sha8":"c222dc96","len":1768,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":34,"sha8":"2be15a5a","len":1031,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":35,"sha8":"8ed69471","len":1208,"nTasks":1,"models":"default","read":true,"findings":"1,208c **标牌语言修正+oner**：Make sure **ALL signs are in english and make sense**. In one shot... Make this a **oner**——一镜到底+Gimpel 上楼+42nd street 环绕"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":36,"sha8":"c0b38815","len":269,"nTasks":1,"models":"default","read":true,"findings":"**视线保持+敬酒**：**keep his eyeline straight where it is in the start frame**——视线保持初始+like he's **saluting an old pal**——敬酒如敬友"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":37,"sha8":"0c547a9e","len":1014,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":38,"sha8":"10ac6b5a","len":1052,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":39,"sha8":"4e5cccc1","len":653,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":40,"sha8":"16f00982","len":631,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":41,"sha8":"7a9da14e","len":677,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":42,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"**fbi interrogation**：colepaugh in a **fbi interrogation room** in 1944…**amber pan light above the table**…It's smokey——琥珀锅灯+FBI 审讯"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":43,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":44,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":45,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":46,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":47,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":48,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":49,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":50,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":51,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":52,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":53,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":54,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":55,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":56,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":57,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":58,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":59,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":60,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":61,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":62,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":63,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":64,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":65,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":66,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":67,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":68,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":69,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":70,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":71,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":72,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":73,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":74,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":75,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":76,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":77,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":78,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":79,"sha8":"9b1431d4","len":109,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"**半笑三版措辞迭代**：half smirks, like he **doesn't approve**→a touch **put off**→a touch **incredulous**——同表情三版措辞"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":80,"sha8":"bbf8a906","len":242,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":81,"sha8":"06683770","len":207,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":82,"sha8":"bbeff6ac","len":211,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":83,"sha8":"2ab4525d","len":1125,"nTasks":1,"models":"default","read":true,"findings":"1,125c **screenplay 多轮对白+西语台词**：**Note: this is in color.**…EXT. TIMES SQUARE NEWSSTAND <<<image_2>>> - 1944 - NIGHT…**KELLER**\n\"**¿Está bien?**\"——screenplay 格式+西语台词（×多现：**\"Quédese con el vuelto, gracias.\"**）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":84,"sha8":"c5e61356","len":848,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":85,"sha8":"4c77b298","len":371,"nTasks":1,"models":"default","read":true,"findings":"371c **1955 出狱+三连不收尾**：**1955 - Gimpel is released from prison**…from a passing **1953 car radio**, a few bars of jazz. Gimpel hears it. **Does not turn toward it. Does not smile. Does not need to.**——三连不克制收尾"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":86,"sha8":"bb5c7f6f","len":1764,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":87,"sha8":"eff25771","len":535,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":88,"sha8":"5cae37cb","len":1723,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":89,"sha8":"bb5c7f6f","len":1764,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":90,"sha8":"739b73d0","len":1722,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":91,"sha8":"bb2a62f7","len":836,"nTasks":1,"models":"default","read":true,"findings":"**圣诞灯雪夜**：A couple **snowflakes** float down. Newly hung **Christmas lights** glow above the avenue——1944 圣诞灯"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":92,"sha8":"e20d03e1","len":1608,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":93,"sha8":"e460c8ab","len":711,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":94,"sha8":"e74e7617","len":689,"nTasks":1,"models":"default","read":true,"findings":"**雪夜初吻**：run out of the bar…**laughing and having fun like children**…Their laughter **stops**…she kisses him lightly——笑声止于吻"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":95,"sha8":"3631bbc5","len":1338,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":96,"sha8":"09c6eb3c","len":1857,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":97,"sha8":"ab49f1e3","len":1752,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":98,"sha8":"90ac1f7c","len":195,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":99,"sha8":"013d58af","len":481,"nTasks":1,"models":"default","read":true,"findings":"481c **报纸蒙太奇转军事法庭**：**Newspaper presses roll. Headlines announce the arrests.**…INT. **MILITARY COURTROOM** - DAY. Colepaugh and Gimpel sit **separately**——报纸→法庭蒙太奇过场"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":100,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":101,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":102,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":103,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":104,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":105,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":106,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":107,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":108,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":109,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":110,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":111,"sha8":"c222dc96","len":1768,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":112,"sha8":"c222dc96","len":1768,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":113,"sha8":"c222dc96","len":1768,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":114,"sha8":"87edd2da","len":2153,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":115,"sha8":"53f5a87e","len":928,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"928c **U-1230 真实潜艇+人物卡**：INT. GERMAN **U-BOAT U-1230** - NIGHT…**ERICH GIMPEL**, 34. **Severe. Immaculate despite three weeks inside a submarine**…radio components in rows, American passports, a map folded precisely, a pistol. And **stacks upon stacks of AMERICAN CASH**——真实历史间谍行前装备+WILLIAM COLEPAUGH"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":116,"sha8":"6ad05899","len":887,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":117,"sha8":"6ad05899","len":887,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":118,"sha8":"00b748a8","len":2389,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":119,"sha8":"00b748a8","len":2389,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":120,"sha8":"8b5e75f6","len":1062,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":121,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":122,"sha8":"2f5f8142","len":721,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":123,"sha8":"d61601a9","len":740,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":124,"sha8":"11f47b79","len":690,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":125,"sha8":"949e3128","len":230,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":126,"sha8":"a247a3ce","len":222,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":127,"sha8":"1575abc5","len":1125,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":128,"sha8":"5a4bd7b8","len":332,"nTasks":1,"models":"default","read":true,"findings":"332c **千码凝视+prequel 声明**：The man maintains his **thousand yard stare** as he takes a sip——千码凝视（战争创伤术语）+use the first frame…**build a prequel** of him sitting at the bar alone. **Before the woman shows up.**——前传声明"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":129,"sha8":"2c7fae5c","len":110,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":130,"sha8":"79e8e40b","len":751,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":131,"sha8":"4c77b298","len":371,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":132,"sha8":"bb5c7f6f","len":1764,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":133,"sha8":"03ed3a6e","len":460,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":134,"sha8":"03ed3a6e","len":460,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":135,"sha8":"c118a5dc","len":914,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":136,"sha8":"8cfc718e","len":347,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":137,"sha8":"36afb086","len":718,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":138,"sha8":"c69bf2e9","len":1381,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":139,"sha8":"0c80f472","len":1807,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":140,"sha8":"e0f296ab","len":1744,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":141,"sha8":"dc86f982","len":1880,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":142,"sha8":"454fa89b","len":1366,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":143,"sha8":"f4f71b5a","len":1849,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":144,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":145,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":146,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":147,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":148,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":149,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":150,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":151,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":152,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":153,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":154,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":155,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":156,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":157,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":158,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":159,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":160,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":161,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":162,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":163,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":164,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":165,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":166,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":167,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":168,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":169,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":170,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":171,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":172,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":173,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":174,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":175,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":176,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":177,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":178,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":179,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":180,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":181,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":182,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":183,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":184,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":185,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":186,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":187,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":188,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":189,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":190,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":191,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":192,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":193,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":194,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":195,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":196,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":197,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":198,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":199,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":200,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":201,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":202,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":203,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":204,"sha8":"9fa8c84e","len":480,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":205,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":206,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":207,"sha8":"9fa8c84e","len":480,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":208,"sha8":"33b4a702","len":845,"nTasks":1,"models":"default","read":true,"findings":"845c **FLASHES 蒙太奇+舰首先起+水平翻转**：U-1230 surfaces (**it should be moving forward slightly as it comes up - also the bow comes up first**)…**FLASHES: American tanks moving east**…Soviet artillery…German cities burning. **A map of Europe collapsing toward Berlin**——新闻闪回蒙太奇+**(can you flip this horizontally, so the tanks are moving to the right of frame not the left)**——**水平翻转指令**"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":209,"sha8":"0c6359a4","len":634,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":210,"sha8":"bc3fc0b7","len":1203,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":211,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":212,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":213,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":214,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":215,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":216,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":217,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":218,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":219,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":220,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":221,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":222,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":223,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":224,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":225,"sha8":"9fa8c84e","len":480,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":226,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":227,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":228,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":229,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":230,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":231,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":232,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":233,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":234,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":235,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":236,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":237,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":238,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":239,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":240,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":241,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":242,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":243,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":244,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":245,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":246,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":247,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":248,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":249,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":250,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":251,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":252,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":253,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":254,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":255,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":256,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":257,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":258,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":259,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":260,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":261,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":262,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":263,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":264,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":265,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":266,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":267,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":268,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":269,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":270,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":271,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":272,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":273,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":274,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":275,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":276,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":277,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":278,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":279,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":280,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":281,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":282,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":283,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":284,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":285,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":286,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":287,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":288,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":289,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":290,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":291,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":292,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":293,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":294,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":295,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":296,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":297,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":298,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":299,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":300,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":301,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":302,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":303,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":304,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":305,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":306,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":307,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":308,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":309,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":310,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":311,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":312,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":313,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":314,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":315,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":316,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":317,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":318,"sha8":"9fa8c84e","len":480,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":319,"sha8":"cad9fa12","len":1326,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":320,"sha8":"19561825","len":848,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":321,"sha8":"f89ca621","len":750,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":322,"sha8":"7ff87978","len":761,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":323,"sha8":"f4b431e5","len":1257,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":324,"sha8":"a1ea6ea7","len":1194,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":325,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":326,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":327,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":328,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":329,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":330,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":331,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":332,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":333,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":334,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":335,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":336,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":337,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":338,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":339,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":340,"sha8":"1a183653","len":1036,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":341,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":342,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":343,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":344,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":345,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":346,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":347,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":348,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":349,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":350,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":351,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":352,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":353,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":354,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":355,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":356,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":357,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":358,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":359,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":360,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":361,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":362,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":363,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":364,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":365,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":366,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":367,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":368,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":369,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":370,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":371,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":372,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":373,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":374,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":375,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":376,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":377,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":378,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":379,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":380,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":381,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":382,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":383,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":384,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":385,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":386,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":387,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":388,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":389,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":390,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":391,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":392,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":393,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":394,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":395,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":396,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":397,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":398,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":399,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":400,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":401,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":402,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":403,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":404,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":405,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":406,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":407,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":408,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":409,"sha8":"67c8c188","len":1091,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":410,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":411,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":412,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":413,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":414,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":415,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":416,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":417,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":418,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":419,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":420,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":421,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":422,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":423,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":424,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":425,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":426,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":427,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":428,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":429,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":430,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":431,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":432,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":433,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":434,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":435,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":436,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":437,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":438,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":439,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":440,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":441,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":442,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":443,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":444,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":445,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":446,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":447,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":448,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":449,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":450,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":451,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":452,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":453,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":454,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":455,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":456,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":457,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":458,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":459,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":460,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":461,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":462,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":463,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":464,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":465,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":466,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":467,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":468,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":469,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":470,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":471,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":472,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":473,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":474,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":475,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":476,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":477,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":478,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":479,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":480,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":481,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":482,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":483,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":484,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":485,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":486,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":487,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":488,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":489,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":490,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":491,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":492,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":493,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":494,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":495,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":496,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":497,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":498,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":499,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GOODNIGHT_MILWAUKEE","idx":500,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}

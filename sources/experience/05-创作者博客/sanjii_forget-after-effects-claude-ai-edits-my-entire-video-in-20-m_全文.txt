@@ -1,0 +1,142 @@
+【项目】FORGET AFTER EFFECTS — CLAUDE AI EDITS MY ENTIRE VIDEO IN 20 MINUTES（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/zh/@sanjii/blogs/forget-after-effects-claude-ai-edits-my-entire-video-in-20-minutes
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+FORGET AFTER EFFECTS — CLAUDE AI EDITS MY ENTIRE VIDEO IN 20 MINUTES
+@sanjii
+2.5K
+3
+0
+Forget After Effects: Claude + CapCut Is the Only Editing Stack You Need
+
+In this tutorial, we'll walk through exactly how we graded and animated a full video with Claude, CapCut and Remotion — plus Minimax H3 through the Higgsfield MCP for the extra shots. For each step you'll find the prompt we used, what it does, and where to run it.
+
+Before You Start
+
+Build the two file assets first: a LUT and a counting SRT. Both come out of a normal Claude chat, both drop straight into CapCut, and both sit under the whole timeline — so your footage already looks right before you add a single animation.
+
+Everything heavier comes after: motion backgrounds, animated boxes, the highlight effect and the map all run through Claude Code with Remotion. You set that up once and reuse it for every scene.
+
+What made what:
+
+Claude (chat) — the LUT and the counting SRT
+Claude Code + Remotion — every motion graphic
+CapCut — the timeline: LUT layer, subtitle compound clip, overlays
+Higgsfield MCP + Minimax H3 — the generated clips layered on top (falling money over the counter, the Civilization-style map)
+Stage 1 — The Assets
+The LUT — your colour foundation
+
+What it does: Generates a .cube LUT that holds an entire colour grade in one small file. Download it, import it in CapCut under Adjustment → LUT, add it as a layer over your footage and pull the intensity back to around 50%.
+
+Run it in: Claude — regular chat, the free plan handles this fine.
+
+Please generate a clean, soft pastel .LUT file for my studio YouTube videos. Cinematic, clean.
+The Counter — a counting SRT file
+
+What it does: Generates a subtitle file where every 0.1 second is the next number, so dragging it onto the CapCut timeline gives you a money counter with zero keyframes. Select all the subtitle clips, turn them into a compound clip and ramp the speed up about 10x to fit the moment you're covering.
+
+Run it in: Claude — regular chat.
+
+Generate a .srt file for me with numbers counting from 0 to 600. Make each subtitle 0.1 seconds long each and have a dollar sign in front of them all.
+Stage 2 — The Prompting Framework
+
+1. Install Node.js. Grab it from nodejs.org — this is what lets your machine run Remotion.
+
+2. Install Remotion. Open Claude Code and run these one after the other. The first command builds the project folder where all your Remotion work will live; the second pulls in the dependencies.
+
+npx create-video@latest
+cd my-video && npm i
+
+4. Switch Accept edits → Bypass permissions. Claude Code then installs packages and reads your reference files without stopping to ask on every step.
+
+5. Connect the Higgsfield MCP. Open Claude's extensions in Settings, connect Higgsfield, then name the model you want inside the prompt — we used Minimax H3 for its ultra-precise detailing. Both clips we generated this way:
+
+Generation 1
+Generation 2
+
+6. Set up your reference list. Every scene below is built from a still you attach before you prompt. Collect them first — Pinterest is the fastest source — and keep them in one folder:
+
+@gradient-ref — a gradient / glowing orb still → the intro motion background
+@ui-boxes-ref — square UI cards or dashboard tiles → the stacked list graphic
+@article-shot — a screenshot of the article you want to quote → the highlight effect
+
+Work in Claude Code, not the regular chat, and drag the reference into the session before you paste the prompt. If the run doesn't say it's using the Remotion skill, go back to the session where you installed Remotion and set it up again.
+
+Stage 3 — The Scenes
+Scene 1 — Motion background
+
+What it does: Turns a flat reference still into a 10-second animated background you can drop under your intro. It keeps the reference's colours and texture and only adds movement and grain.
+
+Reused in every scene: run everything in Claude Code with the reference attached and Bypass permissions on, ask for a 16:9 project, and close the prompt by asking Claude for clarifying questions — that one line is what turns a rough idea into a graphic that lands first try.
+
+Run it in: Claude Code, with @gradient-ref attached.
+
+Change this reference image using the remotion skill into a premium aesthetic motion background. Change nothing about the colors, the textures, or the way that image looks, simply make this into a premium motion background. Add some grain or texture on top of the image to add a premium feel, and make sure that this is instantly usable. Rotate the image 90 degrees to make the aspect ratio of the project 16 by nine. The overall project should be ten seconds long.
+Scene 2 — Stacked UI boxes
+
+What it does: Builds an animated set of boxes that blur in, fade in and slide up one after another — the explainer graphic you'd normally buy as an After Effects template. Claude will come back with questions first (layout, stagger, colours, icons, composition, how they exit), and your answers shape the final build.
+
+Run it in: Claude Code, with @ui-boxes-ref attached.
+
+Use Remotion best practices — that tells Claude that we want to use Remotion. Let's make a clean Apple aesthetic set of 4 boxes. They each appear through an animation: blur in, fade in, and smooth slide up. The animation of each box should happen over 2 seconds. The boxes should animate in this order. Place these titles within them. Use the reference image attached as the design style for the box and scene. Please ask me as many questions as you need so we can create magic. Ask me any clarifying questions, so that we nail this spot on!
+Scene 3 — Transparent render
+
+What it does: Strips the black background out of the composition so the graphic layers straight over your graded footage in CapCut. Run it in the same session once you're happy with the animation, then hit render and import the file into your timeline.
+
+Run it in: Claude Code, same session as Scene 2.
+
+This looks great. Please make the background transparent, but keep the boxes' transparency off.
+Scene 4 — Text highlight
+
+What it does: Takes a screenshot of an article, reads the text positions with OCR, then draws a marker across the exact words you name while the page slowly zooms and tilts in 3D. Swap the two quoted phrases for the words in your own screenshot.
+
+Run it in: Claude Code, with @article-shot attached.
+
+use remotion best practices. import the attached image into the project: ' use tesseract CLI to do OCR and find the positions of the text. in remotion, make a new composition where you load the image and pad the article generously on a white full HD background. while the composition is running for 5 seconds, slowly, very subtly, zoom into it and slightly rotate the article in 3d from left to right. the overall rotation should be around 15deg for each axis. at the beginning, blur the whole composition and unblur it over 1 second. after the blur is done, evolve a highlighter from left to right using rough.js over the words "cease-fire near ends" and "unclear if peace talks will resume". the image has a white background. make sure the the marker appears behind the text. when installing new dependencies, check for existing lockfiles and use the right package manager.
+Scene 5 — Map animation
+
+What it does: Zooms out of Los Angeles, then draws a route to New York with the camera following it on eased, keyframed motion. If Claude reaches for a Mapbox token you don't have, tell it to use an open-source map instead.
+
+Run it in: Claude Code — start a fresh session, it can build alongside your other scenes.
+
+use remotion best practices. make a new composition and add a map and smooth zoom out of LA while staying focused on it. once done, animate a line from LA to NY and make the camera follow it. Smooth, keyframed motion throughout. Use easing curves to ensure acceleration and decelleration. the map should be clean and professional. No sudden movements or motion glitches. Ask me any questions to clarify.
+Scene 6 — Civilization-style map
+
+What it does: Restyles the finished route animation into a colourful strategy-game map — terrain colours, visible borders, a globe curve and a path that draws itself. This one runs on Minimax H3 through the Higgsfield MCP, so ask for it inside the same Claude session once the extension is connected.
+
+Use the Higgsfield MCP extension with the Minimax H3 model for this generation. Take my map animation (the flight route from Los Angeles to New York) and restyle it in the visual style of the Civilization games: a colorful, stylized strategy-game map with rich terrain colors — green plains, sand-toned deserts, blue oceans with subtle depth, and visible country/state borders. Make the animation more dynamic: - The dotted travel line should draw itself progressively along the route, like a classic adventure/strategy game path - Add a subtle globe curvature effect so the map doesn't look flat - Slight camera drift following the line at low altitude - Soft ambient motion on the water (gentle shimmer) Keep the ultra-precise detailing that Minimax H3 is known for — crisp terrain textures, clean border lines, no blur or artifacts. Output: 1920x1080, smooth 30fps. Ask me any clarifying questions so we nail this spot on.
+
+See all
+Copy prompt
+Recreate
+Ready To Make Your Own?
+
+One raw clip, one timeline, and every layer on top of it written as a prompt: the grade, the counter, the background, the boxes, the highlight and the map. The first two assets cost you nothing but a chat window. The rest is one Remotion setup you'll reuse on every video you cut from here on.
+
+
+
+
+
+
+
+READY TO MAKE YOUR OWN?
+GO!
+Contents
+Forget After Effects: Claude + CapCut Is the Only Editing Stack You Need
+Before You Start
+Stage 1 — The Assets
+The LUT — your colour foundation
+The Counter — a counting SRT file
+Stage 2 — The Prompting Framework
+Stage 3 — The Scenes
+Scene 1 — Motion background
+Scene 2 — Stacked UI boxes
+Scene 3 — Transparent render
+Scene 4 — Text highlight
+Scene 5 — Map animation
+Scene 6 — Civilization-style map
+Ready To Make Your Own?
+ready to make your own?

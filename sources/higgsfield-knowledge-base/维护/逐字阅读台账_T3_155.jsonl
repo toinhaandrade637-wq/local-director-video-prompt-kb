@@ -1,0 +1,196 @@
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":1,"sha8":"3f0baaa7","len":1518,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":2,"sha8":"3f0baaa7","len":1518,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":3,"sha8":"e1b07267","len":9818,"nTasks":1,"models":"default","read":true,"findings":"9,818c **全 JSON 结构化项目首例（最完整）**：{\"**scene_id**: \"5D_RED_SIGNAL_THREE_DETONATIONS_NEAR_MISS\"**, \"model\": **\"Cinema Studio 4.0\"**, \"mode\": \"image_to_video\", \"duration_seconds\": 10, \"aspect_ratio\": \"16:9\", \"start_frame\": {\"source\": \"**exact_final_frame_from_5C**\"}}——scene_id/model/duration/mode/start_frame 全键+场景 ID 命名"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":4,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":5,"sha8":"1790975e","len":6333,"nTasks":1,"models":"default","read":true,"findings":"6,333c **JSON 海报表+identity_lock 键**：{\"shot_id\": \"END_TITLE_3D_TELEGRAPH_REVEAL\"…\"image_reference\": {\"purpose\": \"Exact **immutable** title design and typography reference\", \"identity_lock\": […]}}——JSON 海报表+identity_lock 键"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":6,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":7,"sha8":"b618c02b","len":5839,"nTasks":1,"models":"default","read":true,"findings":"5,839c **Tempo Sequence 模式+文件名引用**：**\"generation_mode\": \"Cinema Studio 4.0 — Tempo Sequence\"**…\"image\": \"**layer-z1-task-make-the-railway-bridge-collapse-visu(1).png**\"——Tempo Sequence 模式+下载文件名引用"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":8,"sha8":"8115548e","len":4402,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":9,"sha8":"9b2c5d01","len":11324,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":10,"sha8":"d9f96838","len":11259,"nTasks":1,"models":"default","read":true,"findings":"11,324c **Multi-Shot Tempo Sequence+EPILOGUE**：**\"mode\": \"Cinema Studio 4.0 Multi-Shot Tempo Sequence\"**…\"shot_id\": \"**EPILOGUE_OMAR_AND_ZIAD_NARRATOR_FINAL**\"…Younes's black-and-white photograph, his **open handwritten 1947 diary** and the **brass telegraph key**——尾声多镜+1947 日记+黄铜电报键"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":11,"sha8":"b340754d","len":6833,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":12,"sha8":"16659a2c","len":10244,"nTasks":1,"models":"null","read":true,"findings":"10,244c **JSON 参考分级键**：{\"image_id\": \"**PASSENGER_CARRIAGE_MASTER_1947_V2**\"…\"reference_images\": [{\"reference_id\": \"CURRENT_PASSENGER_CARRIAGE_IMAGE\", **\"priority\": \"medium\"**, \"use_for\": [\"1947 Egyptian pa…\"]}]}——MASTER_V2+priority 键+use_for 数组"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":13,"sha8":"16659a2c","len":10244,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":14,"sha8":"2e9f80ea","len":589,"nTasks":1,"models":"default","read":true,"findings":"589c **@char_/@loc_ 标签+galabiya**：**@char_saber_1947_1** stands on the canal bank near **@loc_bridge** railway bridge, rain soaking his **galabiya**……@char_+年份+@loc_ 标签+长袍"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":15,"sha8":"e1109c8a","len":1032,"nTasks":1,"models":"null","read":true,"findings":"1,032c **电报键手指同步首例**：His fingers tap lightly and involuntarily against the wood — **not nervously, but in perfect rhythmic synchronization with the sound of the telegraph key** heard from inside——手指无意识与电报键同步（职业习惯）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":16,"sha8":"2c8105de","len":8892,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":17,"sha8":"6d8741b7","len":1037,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":18,"sha8":"95cd3d68","len":1253,"nTasks":1,"models":"default","read":true,"findings":"1,253c **red tarboush 红毡帽+body first**：white shirt with rolled sleeves, dark charcoal vest, dark trousers, **red tarboush**…**the weight of rejection visible in his body before he says a word**——红毡帽（1947 埃及）+身体先于台词"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":19,"sha8":"a295ebe5","len":999,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":20,"sha8":"12e3dc5c","len":2608,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":21,"sha8":"95cd3d68","len":1253,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":22,"sha8":"794c18c4","len":806,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":23,"sha8":"b8e0d35f","len":1269,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":24,"sha8":"840212d0","len":1274,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":25,"sha8":"fb674b18","len":1388,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":26,"sha8":"6e340b23","len":2584,"nTasks":1,"models":"null","read":true,"findings":"2,584c **Egyptian Delta 航拍**：Aerial shot directly above…a rural **Egyptian Delta railway station in 1947**, surrounded by flat green agricultural fields…**irrigation canals**——尼罗河三角洲 1947+灌溉渠"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":27,"sha8":"719ebb98","len":798,"nTasks":1,"models":"null","read":true,"findings":"798c **semaphore signal tower**：A vintage Egyptian railway **semaphore signal tower**, 1947…**a mechanical semaphore signal arm — long iron lever arm**…**Metal ladder rungs bolted directly to the iron structure**——臂板信号塔+铁梯踏级"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":28,"sha8":"7891360f","len":6234,"nTasks":1,"models":"default","read":true,"findings":"6,234c **演员采访双时态首例**：**\"shot_id\": \"LAYLA_CAST_INTERVIEW_FULL\"**…Preserve Layla's exact face, **modern hairstyle**…**contemporary wardrobe**——**戏外采访模式**（现代发型现代衣 vs 1947 角色——演员/角色双时态）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":29,"sha8":"7d60ee86","len":6248,"nTasks":1,"models":"default","read":true,"findings":"6,248c 双人采访：**HASSAN_AND_SABER_TEMPO_INTERVIEW**——双人 Tempo 采访"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":30,"sha8":"966d5ae5","len":7848,"nTasks":1,"models":"default","read":true,"findings":"7,848c **character_locks 键+start/end frames**：**\"character_locks\": {\"younes_identity\": …Preserve his exact face, age, hairstyle, body p(roportions)**}…**\"input_mode\": \"start_and_end_frames\"**, \"start_frame\": \"**image_20260902_072322**\"——character_locks 键+start/end 双帧输入模式+时间戳图名"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":31,"sha8":"b0746800","len":2826,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":32,"sha8":"0dbab828","len":5950,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":33,"sha8":"668b2164","len":6374,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":34,"sha8":"a5329c66","len":4905,"nTasks":1,"models":"null","read":true,"findings":"4,905c **Nano Banana Pro 模型+references 对象键**：**\"model\": \"Nano Banana Pro\", \"resolution\": \"4K\"**…\"references\": {\"primary_location\":…, \"Younes\":…, \"Mahmoud\":…}——Nano Banana Pro 模型+人名键 references"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":35,"sha8":"ef2ad9ca","len":2596,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":36,"sha8":"09ca41c3","len":3091,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":37,"sha8":"0cff2344","len":7300,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":38,"sha8":"6d8741b7","len":1037,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":39,"sha8":"357cb66c","len":1261,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":40,"sha8":"dcae6a6d","len":3652,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":41,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":42,"sha8":"5b76fbab","len":5927,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":43,"sha8":"ae97b195","len":1830,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":44,"sha8":"00335d21","len":2687,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":45,"sha8":"c4ab4da6","len":4288,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":46,"sha8":"8ade4da0","len":875,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":47,"sha8":"77e9e90a","len":2522,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":48,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":49,"sha8":"800a2ea6","len":2168,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":50,"sha8":"e86af42c","len":1383,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":51,"sha8":"af8b34e2","len":1382,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":52,"sha8":"1070580a","len":1595,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":53,"sha8":"1070580a","len":1595,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":54,"sha8":"e07cd529","len":1169,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":55,"sha8":"b1412beb","len":1685,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":56,"sha8":"df8bfb0b","len":2575,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":57,"sha8":"5ff0d944","len":2520,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":58,"sha8":"aa0c5ac6","len":3200,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":59,"sha8":"a283f720","len":87,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":60,"sha8":"5f80be3e","len":4094,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":61,"sha8":"fd77fb25","len":2176,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":62,"sha8":"45b6036b","len":2683,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":63,"sha8":"28b62646","len":1764,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":64,"sha8":"79abf950","len":5092,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":65,"sha8":"48a66b93","len":4682,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":66,"sha8":"601e1eca","len":6129,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":67,"sha8":"2ea7fa19","len":6532,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":68,"sha8":"f0566833","len":4464,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":69,"sha8":"fdac2891","len":4802,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":70,"sha8":"67622bae","len":10664,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":71,"sha8":"f4a0c86c","len":7271,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":72,"sha8":"98abff1d","len":4398,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":73,"sha8":"6fc6c162","len":2549,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":74,"sha8":"d1810599","len":4526,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":75,"sha8":"3712aae3","len":1109,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":76,"sha8":"db786b19","len":1915,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":77,"sha8":"4a87244b","len":1513,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":78,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":79,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":80,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":81,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":82,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":83,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":84,"sha8":"f730151b","len":640,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":85,"sha8":"12a46cd9","len":748,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":86,"sha8":"b192d344","len":1584,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":87,"sha8":"bb292f79","len":1246,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":88,"sha8":"11a5c97d","len":398,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":89,"sha8":"fdc1b6cd","len":4401,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":90,"sha8":"e5f24213","len":960,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":91,"sha8":"ae8bf1e5","len":4444,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":92,"sha8":"505ec172","len":4210,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":93,"sha8":"99fa9830","len":4607,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":94,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":95,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":96,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":97,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":98,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":99,"sha8":"fe97bc26","len":7110,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":100,"sha8":"274fa2ce","len":6521,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":101,"sha8":"251b50da","len":6362,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":102,"sha8":"5ffa90cb","len":5995,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":103,"sha8":"a5329c66","len":4905,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":104,"sha8":"cc239b3f","len":3423,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":105,"sha8":"898e1773","len":4291,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":106,"sha8":"c68c19b3","len":7486,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":107,"sha8":"35fc6b35","len":866,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":108,"sha8":"ba054107","len":2143,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":109,"sha8":"03223a1c","len":3235,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":110,"sha8":"65120146","len":10316,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":111,"sha8":"379d2359","len":1168,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":112,"sha8":"c4cc2d90","len":515,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":113,"sha8":"3b0b1432","len":780,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":114,"sha8":"627fb44f","len":1731,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":115,"sha8":"155b0308","len":1065,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":116,"sha8":"b146bc47","len":1599,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":117,"sha8":"35451136","len":1247,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":118,"sha8":"17b75fec","len":1223,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":119,"sha8":"7ded2e3d","len":710,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":120,"sha8":"1dc6cd88","len":2046,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":121,"sha8":"0b795c45","len":1590,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":122,"sha8":"71693e3d","len":699,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":123,"sha8":"83883e82","len":7544,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":124,"sha8":"5f80be3e","len":4094,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":125,"sha8":"02d769c0","len":5205,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":126,"sha8":"fae445a4","len":1887,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":127,"sha8":"9bccfeab","len":3648,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":128,"sha8":"68bb5cb5","len":4911,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":129,"sha8":"fce71b44","len":6010,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":130,"sha8":"fce71b44","len":6010,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":131,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":132,"sha8":"5567534f","len":7322,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":133,"sha8":"1f1d1554","len":14824,"nTasks":1,"models":"default","read":true,"findings":"14,824c 全项目最长"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":134,"sha8":"cda8286f","len":10010,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":135,"sha8":"5d7ded7e","len":7897,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":136,"sha8":"2d284265","len":109,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":137,"sha8":"c93ffe3b","len":2691,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":138,"sha8":"37befaef","len":1078,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":139,"sha8":"7ded2e3d","len":710,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":140,"sha8":"40cf1693","len":918,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":141,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":142,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":143,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":144,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":145,"sha8":"f08cc605","len":1100,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":146,"sha8":"ccddb294","len":1446,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":147,"sha8":"3a1fe902","len":1021,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":148,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":149,"sha8":"8dcd79fe","len":1429,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":150,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":151,"sha8":"ae97b195","len":1830,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":152,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":153,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":154,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":155,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":156,"sha8":"f2c2c5a5","len":1292,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":157,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":158,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":159,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":160,"sha8":"8e064b54","len":800,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":161,"sha8":"0b4c2b4f","len":9783,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":162,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":163,"sha8":"c9322be5","len":6798,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":164,"sha8":"614f6188","len":4043,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":165,"sha8":"bc50feee","len":7329,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":166,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":167,"sha8":"85db0d75","len":5687,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":168,"sha8":"025f03d7","len":5804,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":169,"sha8":"a528730c","len":4080,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":170,"sha8":"97f6a32c","len":7842,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":171,"sha8":"cb7e5d8c","len":1129,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":172,"sha8":"fca8474e","len":782,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":173,"sha8":"beb2bcde","len":8202,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":174,"sha8":"ba054107","len":2143,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":175,"sha8":"de2178dc","len":5161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":176,"sha8":"180b64ff","len":43,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":177,"sha8":"65f706b6","len":1655,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":178,"sha8":"37326656","len":3323,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":179,"sha8":"792475bc","len":4175,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":180,"sha8":"9246faf6","len":1551,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":181,"sha8":"a7ca853e","len":6333,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":182,"sha8":"26083145","len":1713,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":183,"sha8":"94513268","len":741,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":184,"sha8":"0f14fc00","len":651,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":185,"sha8":"727709be","len":2999,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":186,"sha8":"89663fd9","len":2053,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":187,"sha8":"f1cf55d5","len":2489,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":188,"sha8":"e0a014e4","len":2446,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":189,"sha8":"1790975e","len":6333,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":190,"sha8":"0cd50089","len":4083,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":191,"sha8":"155b413a","len":3666,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":192,"sha8":"3678e8cf","len":2579,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":193,"sha8":"0d9eaf19","len":1538,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":194,"sha8":"4b70357e","len":1283,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":195,"sha8":"b9252768","len":1258,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_SIGNAL_BETWEEN_WORDS","idx":196,"sha8":"f72a28d6","len":7670,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}

@@ -1,0 +1,86 @@
+【项目】5 CLAUDE VIDEO EDITING SKILLS: LINKS, SETUP & PROMPTS（@davidho · 创作者博客）
+【链接】https://higgsfield.ai/@davidho/blogs/5-claude-video-editing-skills-links-setup-prompts
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+5 CLAUDE VIDEO EDITING SKILLS: LINKS, SETUP & PROMPTS
+@davidho
+1.2K
+0
+0
+
+Turn raw footage, long recordings, or a new idea into an edit you can refine in Claude. These five tools cover different jobs—choose the one that matches your starting point.
+
+Before you start: Ghost Editor, FFmpeg Skill, Claude Shorts, and OpenMontage use Claude Code on your computer. Higgsfield’s Editorial Motion Graphics also works through a connector in Claude chat. Open-source tools can be free while Claude usage and optional generation services still cost money.
+
+1. Ghost Editor — polish talking-head footage
+
+Use it for selecting takes, tightening delivery, keeping captions away from your face, and adding graphics and sound effects. It is built and tested on Apple-silicon Macs.
+
+Setup: Open the repository below. In Claude Code, ask it to install Ghost Editor using the repository’s docs/INSTALL.md. Start a new session when setup finishes and give Claude the path to your footage.
+
+Edit my talking-head recording into a 30–45-second vertical reel in the clean style. Select the strongest takes, remove repeated lines, keep captions clear of my face, and use restrained graphics and sound effects. Show me the edit plan before rendering.
+
+The base presets work without Gemini; reference-video analysis and some visual checks need a Gemini key.
+
+GET GHOST EDITOR →
+
+2. FFmpeg Skill — handle the editing essentials locally
+
+This is the 42-tool toolkit for cutting pauses, adding captions, reframing footage, and balancing audio. Its media-processing tools run locally without cloud API keys. Automatic transcription needs a separate local speech engine or an existing transcript.
+
+Setup: Open the repository below and ask Claude Code to follow its Quick Start, checking FFmpeg, ffprobe, and Python first. Then give it your video file.
+
+Remove long pauses from my video without cutting words. Make a 9:16 version with the speaker in frame, add readable subtitles, and balance speech loudness. Export a new MP4 and check the duration, framing, captions, and audio. Keep the original file.
+
+GET FFMPEG SKILL →
+
+3. Higgsfield Editorial Motion Graphics — make an explainer from an idea
+
+Start with a topic and source facts. Higgsfield builds the script, visual scenes, voiceover, subtitles, and final video.
+
+Setup: Open the skill page below. In Claude, go to Customize → Connectors, add a custom connector named Higgsfield, paste https://mcp.higgsfield.ai/mcp, and sign in to Higgsfield. Then send your brief in the connected chat.
+
+Create a 30-second vertical explainer about [topic] in an editorial motion graphics style. Use these source facts: [facts]. Build a clear hook, three visual beats, English voiceover, and readable subtitles. Show me the script and scene plan before generation.
+
+OPEN EDITORIAL MOTION GRAPHICS →
+
+4. Claude Shorts — turn a long video into short clips
+
+Claude analyzes the transcript and presents candidate moments with hooks and scores. You choose the clips, caption style, and target platform before rendering.
+
+Setup: Ask Claude Code to follow the repository’s Installation section: clone the project, complete setup.sh, then install.sh. Open a new session, type /shorts, and provide your video file. Windows users need WSL 2.
+
+Find three self-contained clips from this recording, around 30–60 seconds each. Show the timecodes, opening hook, and reason for each choice. After I choose, render 9:16 versions with Clean captions for Instagram Reels. Keep the original meaning.
+
+GET CLAUDE SHORTS →
+
+5. OpenMontage — build from a reference’s structure
+
+Give it a Reel, Short, or local reference. It analyzes the pacing, scenes, and hook, then proposes original concepts around your topic. Available visuals and costs depend on the tools you connect.
+
+Setup: Open the repository below. Ask Claude Code to follow Quick Start, clone OpenMontage, and complete make setup. Open that project in Claude Code and add your reference.
+
+Analyze this reference’s hook, pacing, and editing structure. Propose three original 45-second videos about [my topic] using my own content. Keep the useful storytelling principles, with new wording and visuals. Show the plan, required tools, cost estimate, and a sample before full production.
+
+GET OPENMONTAGE →
+
+Start with one short test
+
+Pick one tool and review the first export at normal speed. Check cut points, caption accuracy, face visibility, and audio. Keep revisions specific: “shorten the opening,” “move these captions,” or “lower the music under speech.”
+
+
+
+
+BUILD FROM YOUR REFERENCE
+GET OPENMONTAGE →
+Contents
+1. Ghost Editor — polish talking-head footage
+2. FFmpeg Skill — handle the editing essentials locally
+3. Higgsfield Editorial Motion Graphics — make an explainer from an idea
+4. Claude Shorts — turn a long video into short clips
+5. OpenMontage — build from a reference’s structure
+Start with one short test
+BUILD FROM YOUR REFERENCE

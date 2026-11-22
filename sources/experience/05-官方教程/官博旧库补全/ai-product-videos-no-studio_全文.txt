@@ -1,0 +1,199 @@
+【项目】How to Make AI Product Videos Without a Studio in 2026（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/ai-product-videos-no-studio
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+How to Make AI Product Videos Without a Studio in 2026
+Higgsfield
+Jul 24, 2026
+8 min
+
+To create a product ad with AI, decide what style fits the product and where it runs. Then prepare whatever the format needs, a description, a reference image and a product link. The tool writes the script, casts a spokesperson, generates the video, and syncs audio and lip movement in one pass, no camera, no crew. Below are four step-by-step workflows, one per ad type.
+
+How These Ads Get Made
+
+The starting point changes depending on what you're making. A demo needs the actual product URL so the tool can pull real features and pricing into the script. A UGC-style ad often starts from nothing more than a topic and a reference video you liked. A product reveal might start from a single photo with no script at all, letting the visuals carry the whole thing. The format decision matters more than the input, because different products and different platforms call for genuinely different kinds of ads. Some need the feel of a real person talking to camera. Others need the product itself doing the talking, with no presenter in the frame.
+
+How These Ads Get Made
+
+Format
+
+	
+
+Best for
+
+
+
+
+UGC
+
+	
+
+Authentic creator-style content for TikTok and Meta
+
+
+
+
+Tutorial
+
+	
+
+Step-by-step feature demonstration
+
+
+
+
+Unboxing
+
+	
+
+Reveal and first-impression moment
+
+
+
+
+Product Review
+
+	
+
+Spokesperson-led review pitch
+
+
+
+
+TV Spot
+
+	
+
+Polished broadcast-style brand awareness
+
+
+
+
+Hyper Motion
+
+	
+
+High-energy, fast-cut format
+
+
+
+
+Wild Card
+
+	
+
+Experimental, unconventional creative
+
+
+
+
+UGC Virtual Try On
+
+	
+
+Creator-style try-on for apparel
+
+
+
+
+Pro Virtual Try On
+
+	
+
+Polished try-on format
+
+The Full Workflow Inside a Creative Suite
+
+Marketing Studio handles the entire ad production process from one starting point: a product URL. Paste it in, and the platform extracts the images, product name, key features, and pricing directly from the page, then builds a script from that information. It generates the video from there, spokesperson included, with native audio and lip sync produced in the same pass, and exports a file ready to upload to Meta, TikTok, or wherever the ad runs.
+
+Soul ID is what keeps the spokesperson's face consistent across every ad the brand generates. Upload 20 or more reference photos once, and the platform trains an identity model from them. Every ad generated after that uses the same face automatically, no manual adjustment needed. This is the piece that makes running one spokesperson across an entire month of creative actually work, without the face changing slightly from ad to ad.
+
+The video generation runs on Seedance 2.0, which accepts up to 9 reference inputs in a single generation: product images, the spokesperson's face, a voice sample, and a camera style reference all at once. The model builds the scene from that material directly rather than approximating it from a text description.
+
+Where it falls short. Marketing Studio is a web interface tool, built to be used directly rather than called programmatically. Automated pipelines that need to run without a person opening the app for every generation go through Higgsfield MCP, which connects Marketing Studio to Claude and other AI agents for workflow automation, there is no separate public API outside of that MCP connection.
+
+Workflow 1: From Product URL to Demo Video
+
+Tutorial and Product Review formats work best for products with a feature that genuinely needs to be shown in action rather than just described. This one starts from the product URL, since the whole point is pulling real features and specs directly into the script.
+
+Step 1: Train a Soul ID once. Attach a Soul ID trained on a real person from 20+ reference photos before generating anything. This is the only setup step in the whole workflow that happens just once.
+
+Step 2: Paste the product URL. The platform extracts images, name, key features, and pricing automatically.
+
+Step 3: Review and edit the script. Adjust the angle so the demo actually highlights the feature that matters most for this specific product.
+
+Step 4: Choose Tutorial or Product Review as the format.
+
+Step 5: Attach the same Soul ID and generate.
+
+Step 6: Repeat for the next SKU. Paste the next product's URL, keep the same format and spokesperson locked in, generate again. Because the Soul ID and format both stay fixed, this repeats cleanly across an entire catalog.
+
+Workflow 2: UGC Ads Without a Real Creator in Sight
+
+UGC format produces authentic-looking, creator-style content built for TikTok and Meta, without booking a creator or filming a single real frame. This one starts from a concept rather than a product page, since the whole appeal is the creative hook, not the spec sheet.
+
+Step 1: Describe the topic or upload a reference video you want the ad to follow. If you have an ad that already performs well, Ad Reference recreates its concept, scene composition, pacing, and hook using your own product, without copying the original footage directly.
+
+Step 2: Choose UGC as the format.
+
+Step 3: If you're not using Ad Reference, set the Hook and the Setting instead. A Hook is the attention-grabbing mechanic that opens the video. A Setting is the location and vibe the rest of it plays out in. Ad Reference and Hooks/Settings are two alternative approaches: use one or the other for a given ad, not both together.
+
+Step 4: Attach the product images.
+
+Step 5: Generate. The output arrives with native audio and lip sync already synced, formatted for the platform it runs on.
+
+Workflow 3: Showcase Videos for Product Reveals
+
+Showcase formats put the product itself at the center of the frame rather than routing attention through a spokesperson or a hook. This one can start from nothing more than a photo, since the visuals carry the entire video.
+
+Step 1: Upload a photo of the product. No script or URL required to begin.
+
+Step 2: Choose the showcase format that fits. Unboxing covers the reveal and first-impression moment. TV Spot delivers a polished, broadcast-style format for brand awareness. Hyper Motion produces a high-energy, fast-cut format for products where speed is part of the brand identity. Wild Card covers experimental creative outside any standard template.
+
+Step 3: Let the tool generate the scene around the product, with no spokesperson required unless you choose to add one.
+
+Step 4: Generate.
+
+Step 5: For static imagery instead of video, use DTC Ads. DTC Ads generates ad images from the same photo and brand assets, for placements where a static image works better than a video.
+
+Workflow 4: Building Brand Consistency at Scale
+
+For a catalog running many SKUs through any of the workflows above, consistency across every video matters as much as producing each one. This one starts from a URL again, but this time it's the brand's website rather than a single product.
+
+Step 1: Enter your brand's website URL into the Brand Kit. The logo, brand colors, fonts, imagery, and tone of voice extract automatically from what is already live on your site.
+
+Step 2: Review and adjust manually wherever needed.
+
+Step 3: Save the Brand Kit. Every video generated afterward, across any format or workflow, pulls from this same kit automatically.
+
+Step 4: Run your catalog through Workflows 1 through 3 with the Brand Kit active. A 200-SKU catalog stays visually and tonally consistent because every video draws from the same locked brand elements rather than being generated in isolation.
+
+How to Produce 100+ Ads Without Multiplying the Work
+
+Making one ad saves a day of studio time. Making a hundred needs a different setup, because reviewing a hundred scripts one at a time in Marketing Studio stops being practical.
+
+Canvas solves this by turning the workflow into a reusable pipeline: a node for the product input, a node for the script, a node for the spokesperson, a node for the render. Build it once, test it, save it as a template, then duplicate and swap in the next batch of products. Supercomputer does the same job differently, running multiple generations in parallel from a plain-language description, using the same Soul ID and Brand Kit across the whole batch.
+
+Neither one automates the part that makes an ad work. The script still needs a real angle. The format has to match the platform. And the same spokesperson needs to hold across every video, or a hundred ads read as a hundred different brands instead of one.
+
+What This Actually Costs
+
+Pricing depends on clip length and resolution, with the exact credit cost shown on the Generate button before you confirm. The maximum clip length is 15 seconds across every format.
+
+$2 per 8-second clip at 720p, $4 at 1080p.
+
+Plans start at Basic $9/mo for 120 credits, with higher tiers offering more credits and higher resolution limits as you move up. The exact plan pricing and credit count are shown on your account's Pricing page before you commit to anything.
+
+The Three Decisions That Actually Make an Ad Work
+
+Making an ad this way comes down to three decisions, in order. First, pick the format based on what the product needs and where the ad runs, a demo needs a URL and real specs, a UGC ad needs a hook and a reference, a showcase needs nothing but a photo. Second, get the script right before generating, since no tool writes the angle for you, it only writes the copy once you've decided what the angle is. Third, lock in consistency before scaling past one video: train the Soul ID once, set up the Brand Kit once, and every video after that inherits both automatically instead of drifting apart one generation at a time.
+
+That order matters more than any individual step inside a workflow. A perfect demo video with the wrong format for the platform underperforms. A well-produced UGC ad with a flat, restated-spec script underperforms just as badly. And a hundred ads with a hundred different faces or a hundred different visual identities read as noise, not a campaign, no matter how good each individual clip looks on its own.
+
+Get those three decisions right once, and the actual production, the part that used to require a studio, a crew, and a calendar, becomes the fastest part of the whole process. For one video, that means turning an idea into a finished ad in the time it takes to write a good script. For a full catalog, it means the bottleneck moves from how many days a crew can shoot to how many good creative decisions a small team can make in a week, which is a much better problem to have.
+
+HOW TO MAKE AI PRODUCT VIDEOS WITHOUT A STUDIO IN 2026
+Open Marketing Studio

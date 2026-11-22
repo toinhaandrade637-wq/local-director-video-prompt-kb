@@ -1,0 +1,122 @@
+【项目】Inside Higgsfield #2: How We Built Supercomputer（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/how-we-built-supercomputer
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Inside Higgsfield #2: How We Built Supercomputer
+Higgsfield
+Sep 16, 2026
+12 mins
+
+“Stories about how we build our products, told by the people who create them.”
+
+Higgsfield Supercomputer is an agentic workspace that can research, write code, work with files, and create images, video, and audio from one place. Underneath it is a harness built to handle visual context, use different AI models, and apply Skills that capture how creative models and workflows work. The first version took about six weeks to build. Here is how it happened, from the inside.
+
+The second screen
+
+For a while, a particular setup became common around the Higgsfield office. Our creatives would have Claude Code, ChatGPT, or Gemini open on one screen and Higgsfield on the other. They used the first to research, work through ideas, improve prompts, and keep track of everything a project had accumulated; Higgsfield was where they generated.
+
+For Axultan, our Head of Product, there was something strange about that picture. He came to Higgsfield with a background in LLMs and agentic systems, where chat had already become the natural interface. Image and video generation had gone another way: choose a model, write a prompt, adjust the controls, generate.
+
+That worked when the job was relatively simple. But image and video models had become capable enough to produce full campaigns and films, and the work around them was growing with them. Our own creative team was spending more time outside Higgsfield because prompting properly and carrying all the context of a project by hand was becoming difficult.
+
+“We understood this couldn’t go on,” Axultan says. One system helped you think through the work, and another helped you make it.
+
+The same problem looked different depending on which part of the product you were building. For Alen Sultanov, an AI engineer, the goal was to let people get strong results without first becoming expert prompt writers.
+
+For Ruslan Syzdykov, our Head of Prompt Engineering, the challenge was translating ordinary language into the structured instructions Higgsfield’s models need. And for Toktar Akhmetov, a software engineer, it was making sure the system could carry out that work reliably across different models and recover when something failed.
+
+Supercomputer grew out of all of those problems. 
+
+When the models got better, the workflow got harder
+
+We had been experimenting with agentic systems inside Higgsfield before Supercomputer had a name. Working with prompt engineers, we built quiet pipelines that improved requests before they reached image and video models. They helped, but they were rigid: if a workflow was designed as A, then B, then C, then D, it always ran A, B, C, then D.
+
+“You cannot predict user behavior with a rigid flow,” Axultan says. The better the models became, the more obvious that limitation was.
+
+Video itself was changing too. The earlier workflow was built largely around keyframes: generate an image, use it as the start or end frame, then ask a video model to animate it. Axultan points to Seedance 2.0 as the major shift for him. It introduced reference capability, so instead of describing the same character again and again, you could tag that character in the prompt with an @ and reference them throughout the generation.
+
+That idea led directly, in Axultan’s view, to what became Elements in Higgsfield: reusable characters, locations, and props that could be called back into new generations.
+
+The models could now do more, but there was also more for the creator to manage. Actions became more layered, video was slower and more expensive to iterate than images, and Elements had to be referenced in the right format. The prompt was no longer just a description of what someone wanted to see. It also had to carry information about assets, references, and how the model should use them.
+
+That was a problem Ruslan Syzdykov and the prompt engineering team were already running into. The user might know exactly what they wanted to make without knowing how to express it in the structure a particular model needed. Part of the work became figuring out how much of that translation Higgsfield could handle for them.
+
+Our first attempt was AI Director in Cinema Studio 3.5. It knew the user’s assets and Elements and understood how the prompt needed to be formatted, but it was still limited. It could not generate anything itself.
+
+Canvas followed soon after. Since Canvas is a workflow builder, an agent made sense there too. Describing what you want to happen in ordinary language can be much easier than assembling the same workflow manually with nodes.
+
+Both were useful steps, but each handled only part of the workflow. We were getting closer to the same conclusion from different sides: the models were becoming easier to create with, but the system around them had to become smarter too.
+
+What general-purpose agents couldn’t solve
+
+At the same time, a new class of general-purpose agents was taking off. Systems such as OpenClaw and Hermes, what Axultan calls superagents, could research, work with files, operate browsers, write code, coordinate other agents, and carry out long sequences of work from a relatively simple request.
+
+The appeal was easy to understand: instead of learning every tool, the user could describe the goal. But visual work brought a different set of problems.
+
+A project can accumulate characters, locations, product images, reference footage, and previous generations that need to remain useful much later. Continually passing all of that material back into an LLM does not scale well. Images take a lot of context. Video takes far more.
+
+That was when improving AI Director or the Canvas agent stopped looking like enough. We started building our own harness, the layer that coordinates the models, tools, context, and steps behind the work.
+
+The harness was built around the problems Higgsfield needed to solve: connecting an agent to our generation capabilities, carrying visual context across image and video, working across different models, and keeping the system reliable when one part failed. The team also drew on patterns from the wider agent field, including self-improvement ideas from Hermes and enterprise controls from NVIDIA.
+
+Ruslan’s team worked on another part of that connection. The harness could orchestrate work, but prompt engineering had to connect it to what Higgsfield could actually do. If someone asks for a cinematic video, they should not have to decide how to structure the prompt, which capability to reach for, or how to turn their idea into the instructions a model needs.
+
+Alen describes the user-facing goal simply: someone can arrive with a basic idea and still get a strong result without first learning prompt engineering.
+
+For Toktar, reliability became part of the same problem. Models and infrastructure can fail. The system has to recover so the user’s generations and surrounding work continue instead of collapsing with one failed dependency.
+
+The first version of the harness took about six weeks to build.
+
+Context and taste
+
+The hardest technical work came down to two problems: context and taste.
+
+The context problem sounds simple when Axultan explains it. Imagine generating a character and saving her as heroine. Later in the conversation, you write: “heroine holding a cat.” The expected experience is obvious: the system should know exactly who you mean.
+
+Underneath that sentence, Supercomputer has to connect the name to the right visual asset and bring back the relevant information when it is needed, without repeatedly loading the entire history of images and video into the LLM. Multiply that by several characters, locations, props, and previous generations, and visual memory quickly becomes a core part of the product.
+
+But remembering the right asset only solves half the problem.
+
+A general-purpose LLM does not automatically know how to get the best result from every image and video model. It may know how to write a prompt, but not how Seedance should be prompted compared with Kling, or what a particular creative workflow needs to produce a strong result. That knowledge sits with the people who use these models every day.
+
+So we built Skills to carry it.
+
+“A Skill is essentially know-how — knowledge a human has and an LLM doesn’t,” Axultan says.
+
+Skills let Higgsfield turn the practical knowledge of its creatives and prompt engineers into instructions the agent can use. That has also changed how some workflows are built. For Marketing Studio, and for a YouTube feature the team has been working on, creatives and prompt engineers can write the instructions themselves: what happens first, what comes next, and how the work should be generated.
+
+The workflow still adapts to the user. If someone wants red light, it can be red. If they want blue, it can be blue. We do not need to predict every choice and turn it into another control.
+
+“You don’t need buttons,” Axultan says. “You just say it in ordinary words, and it understands.”
+
+What Free Mode taught us
+
+Free Mode gave us a useful product lesson about where credits belong in the creative workflow.
+
+Higgsfield users were already familiar with spending credits on image and video generation. We changed the experience so Free Mode text interaction costs zero credits, while image, video, and other generation steps continue to use credits.
+
+That distinction fits the role Supercomputer plays in Higgsfield. Our core value is creative generation. The conversation around it should make it easier to research, plan, write, direct, and move through the work before a generation happens.
+
+Supercomputer has also grown well beyond prompt writing. It can work across writing and research, code, websites and apps, files such as PDFs and presentations, images, video, voiceovers, music, marketing, and connected services when they are available.
+
+A user can start with a goal, or with the file, image, video, document, or URL already in front of them, and continue from there.
+
+One system underneath Higgsfield
+
+Supercomputer is gradually becoming more connected across Higgsfield.
+
+Toktar says the system now runs inside Cinema Studio and in Canvas. AI Director in Cinema Studio was one of the earlier steps in that direction, and we told its story in Inside Higgsfield #1: How We Built Cinema Studio.
+
+MCP gives external agents another way to work with Higgsfield’s generation capabilities.
+
+The system also keeps changing after release. Toktar says the team tests it and runs evals after major updates. Work on image handling and video analysis has improved through that process, while feedback from Higgsfield’s own cinematographers and creatives helps set what the team focuses on next. They are some of Supercomputer’s heaviest users.
+
+You can see that feedback loop in recent releases. Projects was added so work inside Supercomputer can keep shared context instead of making every conversation start separately. The product has also expanded into Apps and Games, while new models continue to be added, including GPT-6 Astra. Toktar remembers users asking for game creation, so the team built the infrastructure and shipped Games in two days.
+
+The same cinematographers giving the team feedback are already using Supercomputer and Cinema Studio to create Higgsfield Originals. In the next Inside Higgsfield story, we’ll go behind the scenes of how those films and series are actually made.
+
+INSIDE HIGGSFIELD #2: HOW WE BUILT SUPERCOMPUTER
+Try Supercomputer

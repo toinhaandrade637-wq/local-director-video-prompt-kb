@@ -1,0 +1,520 @@
+【项目】HIGGSFIELD GENJUTSUのワークフロー：土手の階段→ジェットのタラップ、リビング→機内（@shiftingeagle_meme · 创作者博客）
+【链接】https://higgsfield.ai/@shiftingeagle_meme/blogs/genjutsu-jet-wedding
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HIGGSFIELD GENJUTSUのワークフロー：土手の階段→ジェットのタラップ、リビング→機内
+@shiftingeagle_meme
+51
+0
+0
+
+このガイドでは、私が制作した動画を再現します。土手の階段と自宅のリビングで撮影した普通のトーク動画を、ネイビーのスーツを着た男性が電話をしながら滑走路を歩いてプライベートジェットのタラップをのぼり、機内のシートに座って友人の結婚をお祝いする動画へと変えます。顔、声、動き、カメラワークは、撮影時のまま変わりません。場所が「屋外」と「機内」の2つあるため、Higgsfield Genjutsuで場所ごとに1回ずつ生成し、最後に1本につなげています。
+
+必要なもの
+Higgsfieldのアカウント
+使用する動画2本。私の動画は、屋外が11.6秒、機内が14.9秒です。
+参考画像3枚：衣装の平置き写真、タラップを下ろしたプライベートジェット、プライベートジェットの機内。
+ステップ1．代用品の小道具を使って動画を撮影する
+
+Genjutsuは、実際に映像に映っている物を置き換えます。そのため、置き換えたい物が来る位置に、形や使い方が近い物を置いて撮影してください。今回は、のぼる動きがある「階段」と、座る動きがある「ソファ」を代用品にしました。
+
+動画内の代用品
+
+	
+
+置き換え後
+
+	
+
+参考画像
+
+
+
+
+土手の幅の広いコンクリートの階段
+
+	
+
+ジェットのタラップ
+
+	
+
+画像2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+道路・草の土手・電柱
+
+	
+
+晴れたプライベート空港の駐機場
+
+	
+
+画像2
+
+
+
+
+
+
+
+
+
+
+自宅のリビング（壁・天井・照明・窓）
+
+	
+
+ジェットの機内
+
+	
+
+画像3
+
+
+
+
+
+
+
+白いソファ
+
+	
+
+機内の革のシート
+
+	
+
+画像3
+
+
+
+
+
+
+
+
+
+
+白いTシャツ、黒いパンツ
+
+	
+
+ネイビーのスーツ
+
+	
+
+画像1
+
+
+
+
+
+
+
+場所が変わる動画は、場所ごとに分けて撮影します。1本目（屋外）の動きは次のとおりです。
+
+時間
+
+	
+
+元の動画での動作
+
+	
+
+変換後の映像
+
+
+
+
+0.0〜6.8秒
+
+	
+
+スマホで電話しながら階段へ歩き、のぼり始める
+
+	
+
+電話しながら駐機場を歩き、タラップをのぼり始める
+
+
+
+
+6.8〜8.2秒
+
+	
+
+電話を切ってスマホをしまう
+
+	
+
+同じ動き
+
+
+
+
+8.3〜9.3秒
+
+	
+
+カメラの方を向いて話しかける
+
+	
+
+同じ動き
+
+
+
+
+9.3〜11.6秒
+
+	
+
+話しながら階段をのぼり続ける
+
+	
+
+開いたドアへタラップをのぼり続ける
+
+2本目（機内）の動きは次のとおりです。
+
+時間
+
+	
+
+元の動画での動作
+
+	
+
+変換後の映像
+
+
+
+
+0.0〜1.9秒
+
+	
+
+カメラの近くに立って話す
+
+	
+
+機内で話す
+
+
+
+
+2.0〜5.0秒
+
+	
+
+振り返って部屋の奥へ歩き、部屋を見せる
+
+	
+
+機内の奥へ歩き、機内を見せる
+
+
+
+
+5.0〜6.1秒
+
+	
+
+振り返ってソファへ歩く
+
+	
+
+シートへ歩く
+
+
+
+
+6.1〜6.8秒
+
+	
+
+ソファに座る
+
+	
+
+革のシートに座る
+
+
+
+
+7.4〜9.1秒
+
+	
+
+座ったまま手を振ってお祝いする
+
+	
+
+同じ動き
+
+
+
+
+9.1〜14.9秒
+
+	
+
+座ったままカメラに話す
+
+	
+
+同じ動き
+
+同じように、ご自身の動画のタイムラインも書き出してください。動画をコマ送りで確認し、各動作が始まる秒数と終わる秒数をメモします。これらのタイムスタンプをプロンプトで使用します。
+
+撮影のときは、それぞれの動画の最後に1秒ほど余裕を残してください。今回は2本とも、生成された動画が元の動画より約1秒短くなりました。
+
+ステップ2．HDRをオフにする
+
+iPhoneなどは標準設定でHDR動画を撮影するため、生成後の映像がグレーがかり、色あせて見えることがあります。撮影前にHDRをオフにするか、あらかじめ動画を通常の1080pに変換してください。いちばん簡単なのはCapCutで変換する方法です。
+
+ステップ3．参考画像を準備する
+画像1：無地の背景に衣装を平置きした写真。屋外と機内の両方で使います。モデルやマネキンが着ている写真は使わないでください。
+画像2：前の左側から見た白いプライベートジェットの写真。左側の乗降ドアが開いて、タラップが地面まで下りているものを選びました。
+画像3：プライベートジェットの機内の写真。通路の真ん中から奥を見た構図で、クリーム色の革のシート、木目の壁、楕円形の窓が写っているものです。
+
+画像1と画像2は背景を無地にしています。画像3は機内そのものを再現させたいので、機内全体が写った写真を使いました。
+
+ステップ4．Genjutsuの設定
+HiggsfieldでGenjutsuを開き、「オブジェクトの置き換え」を選択してください。
+1回目は屋外の動画をアップロードし、衣装、ジェットの順に画像をアップロードしてください。プロンプトではそれぞれを@image_1、@image_2として指定します。
+2回目は機内の動画をアップロードし、衣装、機内の順に画像をアップロードしてください。
+解像度を1080pに設定して生成してください。
+Higgsfieldからプリセットを提案された場合は断り、記載どおりのプロンプトで生成してください。
+生成された2本の動画を、編集アプリで1本につなげます。
+ステップ5．プロンプト
+
+以下の内容をそのまま貼り付けてください。ご自身の動画が異なる場合は、タイムスタンプと説明だけを変更してください。
+
+1回目（屋外）：
+
+Edit the NEW source video.
+Keep exactly as filmed: the man's real face, expressions, lip movements, hair, skin and body build; all body movements and exact timing; the smartphone in his hand; the handheld camera movement and framing. Only small natural framing adjustments are allowed; no zoom-out or reframing. Naturalness first.
+
+REFERENCE IMAGES:
+@image_1 = outfit: navy two-button suit, white dress shirt, navy tie, white pocket square, black leather cap-toe oxford shoes
+@image_2 = white private jet seen from the front-left, its left-side passenger door open with the airstair lowered
+
+SCENE (every frame):
+Replace the whole location (the road, the grass embankment, the wide concrete steps, railings, poles and distant buildings) with a private-airport tarmac on a clear sunny day: clean light-gray concrete, painted yellow lines, blue sky, distant hangars. Keep the same bright sunlight direction and shadows as in the source video.
+The white jet from @image_2 is parked on the LEFT side of the frame from the first frame, seen from the front-left exactly as in @image_2. It never moves, keeps full real size (may extend beyond the frame), no logos, no registration number, no warping, and never intersects the man's body.
+The steps he climbs become the jet's boarding stairs leading up to its open door. Make the stairs, the jet and the tarmac look natural and physically believable; adjust their size and position freely as long as his feet always land on the stairs. No wide concrete steps or grass embankment remain.
+
+1. OUTFIT - @image_1, 0.0s-END
+Replace his white T-shirt, black pants and shoes with the complete outfit from @image_1, jacket buttoned, identical in every frame including from behind. Remove the chest microphone. No added accessories.
+
+2. ACTIONS (keep exactly as filmed)
+0.0s-6.8s: he talks on his smartphone, walks toward the jet and starts to climb the airstair.
+6.8s-8.2s: he ends the call and puts the phone away.
+8.3s-9.3s: he turns to the camera and talks to it.
+9.3s-END: he keeps climbing the airstair toward the open door, talking.
+
+Do NOT add any other people, cars, objects, text or logos. Do NOT copy the reference image backgrounds. Do NOT change anything not requested.
+FINAL: sunny tarmac in every frame; the jet on the left as in @image_2; he climbs the jet's boarding stairs to its open door; naturalness first; the man's real face and timing preserved in every frame.
+
+日本語訳：
+
+新しい元の動画を編集してください。
+撮影時のまま維持するもの：男性の本来の顔、表情、唇の動き、髪、肌、体格、すべての体の動きと正確なタイミング、手に持ったスマートフォン、手持ちカメラの動きとフレーミング。画角は自然な範囲の小さな調整だけ認めます。ズームアウトや撮り直したような変更はしないでください。自然に見えることを優先してください。
+
+参考画像：
+@image_1 = 衣装：ネイビーの2つボタンのスーツ、白いドレスシャツ、ネイビーのネクタイ、白いポケットチーフ、黒い革のストレートチップの靴
+@image_2 = 前の左側から見た白いプライベートジェット。機体の左側の乗降ドアが開き、タラップが下りている
+
+場面（すべてのフレーム）：
+場所全体（道路、草の土手、幅の広いコンクリートの階段、手すり、電柱、遠くの建物）を、よく晴れた日のプライベート空港の駐機場に置き換えてください。きれいな明るいグレーのコンクリート、黄色い線、青空、遠くに格納庫。日差しの向きと影は元の動画と同じにしてください。
+@image_2の白いジェットは、最初のフレームから画面の左側に停まっていて、@image_2と同じく前の左側から見た向きです。動かず、実物大のまま（画面からはみ出しても構いません）、ロゴや機体番号はなし、ゆがみもなく、男性の体と重なりません。
+男性がのぼる段は、ジェットの開いたドアへ続く乗降タラップになります。タラップ、ジェット、駐機場が自然で本物らしく見えるようにしてください。男性の足が必ずタラップの上にあるなら、大きさや位置は自由に調整して構いません。幅の広いコンクリートの階段や草の土手は残さないでください。
+
+1. 衣装 — @image_1、0.0秒〜最後
+白いTシャツ、黒いパンツ、靴を、@image_1の衣装一式に置き換えてください。ジャケットはボタンを留めます。後ろ姿も含め、すべてのフレームで同じ衣装にしてください。胸のマイクは削除してください。アクセサリーは追加しないでください。
+
+2. 動き（撮影したとおりに維持）
+0.0〜6.8秒：スマートフォンで電話をしながらジェットへ歩き、タラップをのぼり始めます。
+6.8〜8.2秒：電話を切り、スマートフォンをしまいます。
+8.3〜9.3秒：カメラの方を向いて話しかけます。
+9.3秒〜最後：話しながら、開いたドアへタラップをのぼり続けます。
+
+ほかの人物、車、物、文字、ロゴは追加しないでください。参考画像の背景はコピーしないでください。指示していない部分は変更しないでください。
+最終確認：すべてのフレームで晴れた駐機場／ジェットは@image_2と同じ向きで左側／男性はジェットのタラップを開いたドアへのぼる／自然さを優先／すべてのフレームで男性の本来の顔とタイミングを維持する。
+
+2回目（機内）：
+
+Edit the NEW source video.
+Keep exactly as filmed: the man's real face, expressions, lip movements, hair, skin and body build; all body movements and exact timing; the camera movement and framing. Only small natural framing adjustments are allowed; no zoom-out or reframing. Naturalness first.
+
+REFERENCE IMAGES:
+@image_1 = outfit: navy two-button suit, white dress shirt, navy tie, white pocket square, black leather cap-toe oxford shoes
+@image_2 = luxury private jet cabin: cream leather seats, dark glossy wood panels, rows of oval windows, warm indirect ceiling light
+
+SCENE (every frame):
+Replace the whole room (walls, ceiling, track lights, kitchen counter, shelf, round lamp, sliding window with its reflection, blinds, floor and every small object) with the luxury private jet cabin from @image_2: curved ceiling with warm indirect light, dark glossy wood panels, cream leather seats, oval windows showing a bright blue sky, soft carpet floor. Warm, soft cabin light on the man.
+The white sofa he sits on becomes a cream leather cabin sofa from the same cabin, in exactly the same place and size, so he really sits on it. Remove the stuffed toys and small items on the sofa.
+Make the cabin look natural and physically believable; adjust the layout freely as long as his walking path stays clear and he sits exactly where he sits in the source video.
+
+1. OUTFIT - @image_1, 0.0s-END
+Replace his T-shirt and pants with the complete outfit from @image_1, including the black shoes on his bare feet, identical in every frame including from behind. Remove the chest microphone. No added accessories.
+
+2. ACTIONS (keep exactly as filmed)
+0.0s-1.9s: he stands close to the camera and talks to it.
+2.0s-5.0s: he turns and walks away down the cabin, talking and showing it off.
+5.0s-6.1s: he turns around and walks to the sofa.
+6.1s-6.8s: he sits down on the sofa.
+7.4s-9.1s: seated, he waves to the camera and congratulates the couple.
+9.1s-END: seated, he talks to the camera.
+
+Do NOT add any other people, objects, text or logos. Do NOT copy the reference image backgrounds. Do NOT change anything not requested.
+FINAL: jet cabin in every frame; no room walls, window reflection, counter or track lights remain; he sits on the cream leather cabin sofa at 6.1s-6.8s; naturalness first; the man's real face and timing preserved in every frame.
+
+日本語訳：
+
+新しい元の動画を編集してください。
+撮影時のまま維持するもの：男性の本来の顔、表情、唇の動き、髪、肌、体格、すべての体の動きと正確なタイミング、カメラの動きとフレーミング。画角は自然な範囲の小さな調整だけ認めます。ズームアウトや撮り直したような変更はしないでください。自然に見えることを優先してください。
+
+参考画像：
+@image_1 = 衣装：ネイビーの2つボタンのスーツ、白いドレスシャツ、ネイビーのネクタイ、白いポケットチーフ、黒い革のストレートチップの靴
+@image_2 = 高級プライベートジェットの機内：クリーム色の革のシート、ツヤのある濃い木目のパネル、並んだ楕円形の窓、暖かい間接照明
+
+場面（すべてのフレーム）：
+部屋全体（壁、天井、ライティングレールの照明、キッチンカウンター、棚、丸いランプ、引き戸の窓とそこに映る姿、ブラインド、床、すべての小物）を、@image_2の高級プライベートジェットの機内に置き換えてください。暖かい間接照明のある丸い天井、ツヤのある濃い木目のパネル、クリーム色の革のシート、明るい青空が見える楕円形の窓、やわらかいカーペットの床。男性には、機内の暖かくやわらかい光を当ててください。
+男性が座る白いソファは、同じ機内のクリーム色の革のソファになります。まったく同じ位置と大きさにして、本当にそこに座れるようにしてください。ソファの上のぬいぐるみや小物は削除してください。
+機内が自然で本物らしく見えるようにしてください。男性が歩く通路がふさがれず、元の動画と同じ場所に座れるなら、配置は自由に調整して構いません。
+
+1. 衣装 — @image_1、0.0秒〜最後
+Tシャツとパンツを、@image_1の衣装一式に置き換えてください。素足には黒い革靴を履かせます。後ろ姿も含め、すべてのフレームで同じ衣装にしてください。胸のマイクは削除してください。アクセサリーは追加しないでください。
+
+2. 動き（撮影したとおりに維持）
+0.0〜1.9秒：カメラの近くに立って話します。
+2.0〜5.0秒：振り返って機内の奥へ歩き、話しながら機内を見せます。
+5.0〜6.1秒：振り返ってソファへ歩きます。
+6.1〜6.8秒：ソファに座ります。
+7.4〜9.1秒：座ったままカメラに手を振り、2人をお祝いします。
+9.1秒〜最後：座ったままカメラに話します。
+
+ほかの人物、物、文字、ロゴは追加しないでください。参考画像の背景はコピーしないでください。指示していない部分は変更しないでください。
+最終確認：すべてのフレームで機内／部屋の壁、窓に映る姿、カウンター、照明レールは残さない／6.1〜6.8秒でクリーム色の革のソファに座る／自然さを優先／すべてのフレームで男性の本来の顔とタイミングを維持する。
+プロンプトの構成
+変更しない項目を最初に示す。冒頭の段落では、撮影時のまま維持するものを列挙します。顔、表情、唇の動き、体格、動作、手に持ったスマートフォン、カメラです。
+場面のブロックで、場所全体の置き換えを指定する。消したい物（道路、土手、階段、手すり、電柱、部屋の壁、照明、窓に映る姿など）を具体的に書き出します。
+体と背景が重ならない条件を書く。「足が必ずタラップの上にあるなら、大きさや位置は自由に調整してよい」「歩く通路がふさがれず、同じ場所に座れるなら配置は自由」のように、守ってほしい条件だけを決めて、細かい配置はGenjutsuに任せます。
+動きは秒数付きで、撮影したとおりに書く。
+最後の行にもう一度、全体の条件と顔のルールを繰り返します。
+ステップ6．結果を確認する
+
+生成された動画をダウンロードし、元の動画と並べて以下の場面を確認してください。
+
+時間
+
+	
+
+確認する項目
+
+
+
+
+屋外 0.5秒
+
+	
+
+衣装が変わっていること、スマホを持っていること、左側にジェットがあること
+
+
+
+
+屋外 6.0秒〜最後
+
+	
+
+足が必ずタラップの上にあること。土手やコンクリートの階段が残っていないこと
+
+
+
+
+機内 0.0〜5.0秒
+
+	
+
+部屋の壁、窓に映る姿、照明レールが残っていないこと
+
+
+
+
+機内 6.1〜6.8秒
+
+	
+
+革のシートにきちんと座っていること
+
+
+
+
+機内 7.4〜9.1秒
+
+	
+
+手を振る動きが元の動画と同じこと
+
+
+
+
+両方 最後
+
+	
+
+最後のセリフまで動画が続くこと
+
+今回わかったこと
+場所が2つある動画は、場所ごとに分けて生成するときれいに仕上がりました。1本の中で場所を変えようとせず、撮影の段階で2本に分けています。
+背景を丸ごと置き換えても、顔、唇の動き、体の動きは撮影したまま残りました。
+土手のコンクリートの階段は、ジェットのタラップとして自然に置き換わりました。「足が必ずタラップの上にあるなら、大きさや位置は自由に調整してよい」と書いたことで、足元が浮かずに済みました。
+白いソファは、1人掛けの革のシートに置き換わりました。座る位置と高さが元の動画と同じなので、座る動きが自然につながりました。
+2本とも、生成された動画は元の動画より約1秒短くなりました。撮影の最後に余裕を残しておくと、最後のセリフが切れません。
+動きが元の動画より少しずつ早く出ることがあり、後半ほど差が大きくなりました（最大で約0.4秒）。元の動画と並べて見せる場合は、編集で速さを合わせています。
+HDR映像は先に変換する（ステップ2参照）。
+ご自身の動画用のプロンプトテンプレート
+
+角括弧内の内容をすべて置き換えてください。場所ごとに1回ずつ生成し、画像の順序は、衣装、新しい場所の順で、@image_番号と合わせてください。
+
+Edit the NEW source video.
+Keep exactly as filmed: the person's real face, expressions, lip movements, hair, skin and body build; all body movements and exact timing; [手に持った物]; the handheld camera movement and framing. Only small natural framing adjustments are allowed. Naturalness first.
+
+REFERENCE IMAGES:
+@image_1 = outfit: [平置きの服を全部列挙]
+@image_2 = [新しい場所や物。向きや開いているドアまで書く]
+
+SCENE (every frame):
+Replace the whole location ([元の場所にある物を全部列挙]) with [新しい場所] from @image_2. Keep the same sunlight direction and shadows as in the source video.
+[体と重ならない条件。例: His feet always land on the stairs. / His walking path stays clear and he sits exactly where he sits in the source video.] Adjust the size and position of the new place freely as long as this condition is kept.
+
+1. OUTFIT - @image_1, 0.0s-END
+Replace his [元の服] with the complete outfit from @image_1, identical in every frame including from behind. Remove the chest microphone. No added accessories.
+
+2. ACTIONS (keep exactly as filmed)
+[時間]s-[時間]s: [その時の動き].
+[時間]s-END: [その時の動き].
+
+Do NOT add any other people, objects, text or logos. Do NOT copy the reference image backgrounds. Do NOT change anything not requested.
+FINAL: [新しい場所の条件を1行で]; naturalness first; the person's real face and timing preserved in every frame.

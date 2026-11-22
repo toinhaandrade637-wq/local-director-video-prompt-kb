@@ -1,0 +1,772 @@
+【项目】OUI MADAME COMMERCIAL（@thomas_lundstrom · 创作者博客）
+【链接】https://higgsfield.ai/@thomas_lundstrom/blogs/oui-madame-commercial
+【提示词块】12
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+OUI MADAME COMMERCIAL
+@thomas_lundstrom
+419
+1
+0
+
+
+
+
+This is the full breakdown of the Oui Madame commercial from my YouTube video. Claude Opus 5.5 blocked out the whole 30-second spot in Blender, and Seedance 2.5 rendered it.
+
+Below you get every Element, every prompt, my failed takes, and the setup to build it yourself.
+
+What you need
+
+Set these up once, then you can block and render your own spot.
+
+1 · Blender
+
+Free 3D app. Claude builds the blockout here.
+
+Download: https://www.blender.org/download/ 
+
+2 · Higgsfield for Blender
+
+Every Higgsfield model inside Blender.
+
+Download the .zip from https://higgsfield.ai/plugins/blender and keep it zipped.
+
+Drag it onto an open Blender window. It installs itself. Then sign in on the Higgsfield bar.
+
+3 · Higgsfield MCP
+
+Lets Claude generate with your Higgsfield credits.
+
+In Claude: Settings → Connectors → Add custom connector.
+
+Paste https://mcp.higgsfield.ai/mcp and sign in.
+
+4 · Higgsfield Bridge
+
+Lets Claude work inside your open Blender scene.
+
+Add a second custom connector and name it Higgsfield Bridge.
+
+Paste https://bridge.higgsfield.ai/mcp and sign in when prompted.
+
+5 · Seedance Blocking skill
+
+My Claude skill: idea → blocked-out Blender scene → Seedance 2.5 prompt.
+
+Download: https://drive.google.com/drive/folders/1mX3rEEyXbm4FWnwMUc243IdeCSz_msku 
+
+Add the folder to Claude as a skill. In Claude Code, drop it into ~/.claude/skills/.
+
+6 · Shotlist Director skill
+
+My Claude skill that writes the shot-by-shot Seedance prompt.
+
+Download: https://drive.google.com/drive/folders/1d-6JrNsjwRYoYu8jYo-dW9J5E-N0OSeA?usp=sharing
+
+Install:
+
+
+Claude.ai / desktop app: Settings → Capabilities → Skills → Upload skill → pick the zip.
+Claude Code: unzip it into ~/.claude/skills/ so the folder lands at ~/.claude/skills/shotlist-director-thomas/.
+Step 1. The Elements
+
+Six characters, one product, one location. Each one is a Higgsfield Element, so you can @tag it in any prompt. Generate each sheet with the prompt under it, then save it as an Element under the same name.
+
+@copy-cat-police
+
+Model: GPT Image 2.5, 16:9, 2K. Image 1 + Image 2 = two reference photos of the AI Influencer.
+
+Professional character reference sheet, photorealistic, on a clean light-grey studio background with soft even lighting. Three panels side by side: a head-and-shoulders close-up on the left, a full-body front view in the middle, and a full-body back view on the right.
+
+
+
+
+Image 1 (and Image 2) show the man this character is inspired by. Use them ONLY for the shape of the hairstyle and the stiff, deadpan attitude. Do NOT use his face, head shape, neck, body or blond hair. This is a completely different person.
+
+
+
+
+THE CHARACTER: "The Copycat Police". A tall, broad-shouldered man in his late thirties with a square jaw, a strong straight nose, short dark sideburns, a thick dark brown police-style mustache, light olive skin, and a completely deadpan, unimpressed expression with tight-pressed lips.
+
+
+
+
+THE HAT: A dark navy police peaked cap whose crown is sculpted into the exact silhouette of the haircut in Image 1. The cap is shaped like the bell-shaped helmet bob: the sides flare out wide and curl under at jaw level like stiff hair, and a straight blunt ridge across the forehead mimics the fringe and doubles as the cap's black patent visor. Navy wool fabric with fine stitched seams that follow the hair's shape, a gold braid band above the visor, and a gold badge on the front reading "COPYCAT POLICE". No real hair visible.
+
+
+
+
+GLASSES: Classic black wayfarer-style sunglasses with thick glossy black frames and dark lenses, worn straight on, hiding his eyes.
+
+
+
+
+THE UNIFORM: A crisp dark navy police uniform: a fitted short jacket with silver buttons, epaulettes, a light-blue collared shirt, a black tie, a black duty belt with holster pouches (no weapon), navy trousers with a thin gold side stripe, and polished black boots. On the left chest, a gold shield badge engraved "COPYCAT POLICE". On the right chest, a navy name tape in white letters reading "COPYCAT POLICE". On each shoulder, an embroidered patch with a small bob-haircut silhouette and the text "COPYCAT POLICE". Across the back of the jacket, large bold white uppercase letters reading "COPYCAT POLICE".
+
+
+
+
+All text must be sharp, legible and correctly spelled.
+
+
+
+
+Panels:
+
+1. Close-up: head and shoulders, front, showing the bob-shaped cap, the sunglasses, the mustache and the chest badge.
+
+2. Full body, front: standing straight, feet apart, arms at his sides, head to boots.
+
+3. Full body, back: same pose from directly behind, showing "COPYCAT POLICE" across the back and the back of the bob-shaped cap.
+
+
+
+
+The same character stays consistent in all panels. No other text, no labels, no watermark.
+
+See all
+Copy prompt
+Recreate
+
+Then one edit pass on that sheet (GPT Image 2.5, the sheet as the only input):
+
+Remove the head and neck from the full body front view only.
+
+Copy prompt
+Recreate
+@copycat-thomas
+
+Image 1 = a selfie of you. Image 2 + Image 3 = the same two reference photos of the AI Influencer. Then run the same face-and-neck edit pass as above.
+
+Professional character reference sheet, photorealistic, on a clean light-grey studio background with soft even lighting. Three panels side by side: a head-and-shoulders close-up on the left, a full-body front view in the middle, and a full-body back view on the right.
+
+
+
+
+BASE CHARACTER: The character is the man from Image 2 and Image 3. Keep his exact head and body structure unchanged: the long narrow face, high cheekbones, hollow cheeks, long jaw, very long thin neck, prominent Adam's apple, narrow sloping shoulders, tall lanky build and stiff posture. The proportions must stay identical to Image 2 and Image 3.
+
+
+
+
+FACE SWAP: Take only the facial features from Image 1 and transfer them onto that head, like a face swap. Use his eyes and eye shape, his light blue-grey eye colour, his eyebrows, his nose, his lips and mouth shape, and his skin tone and texture. The result must be recognizable as the man in Image 1, but placed on the blond man's skull shape, face length and neck. Do not use Image 1's face shape, jaw width, neck or body.
+
+
+
+
+HAIR: Copy the hairstyle from Image 2 exactly. It is a thick, glossy, chin-length helmet bob with a blunt straight fringe cut just above the eyebrows. The sides puff out wide and voluminous into a bell or triangle silhouette, and the ends curl under. Change only the colour to a very dark brown, almost black, with subtle warm brown highlights where the light hits. The hair is dark brown, NOT blond and NOT light brown. He also has the same thin handlebar mustache with curled tips as in Image 2, in the same very dark brown.
+
+
+
+
+WARDROBE (copy Image 2 and Image 3 exactly): a brown-and-cream houndstooth tweed suit with a slightly oversized boxy jacket, notch lapels and two buttons, and matching houndstooth trousers cut slightly short at the ankle. A crisp white dress shirt with a pointed collar and a burgundy tie with thin white diagonal stripes. Burgundy vertically ribbed socks and dark oxblood leather monk-strap shoes with silver buckles.
+
+
+
+
+EXPRESSION: The same deadpan, slightly arrogant expression as Image 2, with the chin raised a little.
+
+
+
+
+PANELS:
+
+1. Close-up: head and shoulders, framed and posed like Image 2.
+
+2. Full body, front view: standing straight, arms relaxed at his sides, head to shoes visible.
+
+3. Full body, back view: same pose seen from directly behind, showing the back of the bob haircut, the jacket and the shoes.
+
+
+
+
+The same character stays consistent in all three panels. No text, no labels, no watermark.
+
+See all
+Copy prompt
+Recreate
+@copycat-short
+
+Image 1 + Image 2 = the two reference photos of the AI influencer. Same inputs for all four copycats.
+
+Professional character reference sheet, photorealistic, on a clean light-grey studio background with soft even lighting. Three panels side by side: a head-and-shoulders close-up on the left, a full-body front view in the middle and a full-body back view on the right.
+
+
+
+
+Image 1 and Image 2 show the original look this character is copying. Copy the outfit EXACTLY from Image 2: the same brown-and-cream houndstooth tweed jacket, white pointed-collar shirt, burgundy and navy diagonal-striped tie, light brown trousers, burgundy ribbed socks and oxblood monk-strap shoes. Same fabrics, same colours, same pieces. Do NOT use the face, head shape, neck or body from Image 1 or Image 2. This is a completely different person.
+
+
+
+
+The character is a very short, slight man in his late twenties with a round boyish face, rosy cheeks, small eyes and a weak chin.
+
+
+
+
+Everything is clearly far too big for him. The jacket shoulders hang several inches past his own and slide down his arms, the sleeves cover his hands completely, the jacket hem reaches his knees, the shirt collar gapes loosely around his thin neck, the tie hangs down to his thighs, and the trousers bunch in thick folds over his shoes and drag on the floor.
+
+
+
+
+Hair: a blond bob wig in the exact helmet shape from Image 1, but massively oversized. It swallows his head, the fringe falls over his eyebrows almost to his eyes, and the flared sides stick out far wider than his shoulders. Shiny and obviously synthetic. A stick-on version of the curled handlebar mustache from Image 1, slightly too big for his face.
+
+
+
+
+Expression: trying hard to copy the deadpan stare from Image 1, chin raised.
+
+
+
+
+Panels:
+
+1. Close-up: head and shoulders, framed like Image 1.
+
+2. Full body, front: standing straight, arms at his sides, head to shoes.
+
+3. Full body, back: same pose from directly behind, showing the oversized wig and the jacket drooping off his shoulders.
+
+
+
+
+The same character stays consistent in all panels. No text, no labels, no watermark.
+
+See all
+Copy prompt
+Recreate
+@copycat-ginger
+
+
+
+
+Professional character reference sheet, photorealistic, on a clean light-grey studio background with soft even lighting. Three panels side by side: a head-and-shoulders close-up on the left, a full-body front view in the middle and a full-body back view on the right.
+
+
+
+
+Image 1 and Image 2 show the original look this character is copying. Copy the outfit EXACTLY from Image 2: the same brown-and-cream houndstooth tweed jacket, white pointed-collar shirt, burgundy and navy diagonal-striped tie, light brown trousers, burgundy ribbed socks and oxblood monk-strap shoes. Same fabrics, same colours, same pieces, fitting him normally. Do NOT use the face, head shape, neck or body from Image 1 or Image 2. This is a completely different person.
+
+
+
+
+The character is a man in his early thirties of medium height with a wide face, heavy dark eyebrows, brown eyes, olive skin and visible dark stubble.
+
+
+
+
+Hair: a wig in the exact helmet bob shape from Image 1, but bright orange-ginger, glossy and obviously fake, with his own dark hair visible at the temples. Instead of a real mustache, the curled handlebar from Image 1 is drawn on his upper lip in black marker: a thick wobbly line with a hand-drawn curl at each end.
+
+
+
+
+Expression: an intensely serious copy of the deadpan stare from Image 1, eyes too wide.
+
+
+
+
+Panels:
+
+1. Close-up: head and shoulders, framed like Image 1.
+
+2. Full body, front: standing straight, arms at his sides, head to shoes.
+
+3. Full body, back: same pose from directly behind, showing the back of the orange wig and his own dark hair at the nape.
+
+
+
+
+The same character stays consistent in all panels. No text, no labels, no watermark.
+
+See all
+Copy prompt
+Recreate
+@copycat-fat
+
+Professional character reference sheet, photorealistic, on a clean light-grey studio background with soft even lighting. Three panels side by side: a head-and-shoulders close-up on the left, a full-body front view in the middle and a full-body back view on the right.
+
+
+
+
+Image 1 and Image 2 show the original look this character is copying. Copy the outfit EXACTLY from Image 2: the same brown-and-cream houndstooth tweed jacket, white pointed-collar shirt, burgundy and navy diagonal-striped tie, light brown trousers, burgundy ribbed socks and oxblood monk-strap shoes. Same fabrics, same colours, same pieces. Do NOT use the face, head shape, neck or body from Image 1 or Image 2. This is a completely different person.
+
+
+
+
+The character is a heavyset, overweight man in his late thirties with a big round belly, a round face, full cheeks, a double chin, small kind eyes and a light sheen of sweat on his forehead.
+
+
+
+
+The jacket cannot button over his belly and hangs open at the front. The shirt stretches tight across his stomach with small gaps between the buttons, the tie rests on top of his belly and stops short of his waistband, and the trousers sit below his belly.
+
+
+
+
+Hair: a blond wig in the exact helmet bob shape from Image 1, well copied but slightly askew, with a few strands stuck to his damp forehead. A stick-on version of the curled handlebar mustache from Image 1.
+
+
+
+
+Expression: a committed copy of the deadpan stare from Image 1, chin raised, slightly out of breath.
+
+
+
+
+Panels:
+
+1. Close-up: head and shoulders, framed like Image 1.
+
+2. Full body, front: standing straight, arms at his sides, head to shoes.
+
+3. Full body, back: same pose from directly behind, showing the back of the wig and the jacket pulling across his back.
+
+
+
+
+The same character stays consistent in all panels. No text, no labels, no watermark.
+
+See all
+Copy prompt
+Recreate
+@copycat-gym
+
+Professional character reference sheet, photorealistic, on a clean light-grey studio background with soft even lighting. Three panels side by side: a head-and-shoulders close-up on the left, a full-body front view in the middle and a full-body back view on the right.
+
+
+
+
+Image 1 and Image 2 show the original look this character is copying. Copy the outfit EXACTLY from Image 2: the same brown-and-cream houndstooth tweed jacket, white pointed-collar shirt, burgundy and navy diagonal-striped tie, light brown trousers, burgundy ribbed socks and oxblood monk-strap shoes. Same fabrics, same colours, same pieces. Do NOT use the face, head shape, neck or body from Image 1 or Image 2. This is a completely different person.
+
+
+
+
+The character is a very muscular bodybuilder in his late twenties with a thick neck, a square jaw, a deep tan, a short dark beard and small intense eyes.
+
+
+
+
+The outfit is far too small for his muscles. The jacket is stretched tight across his chest and arms, the buttons strain to hold, the sleeves ride up his forearms, the seams pull at the shoulders, the shirt collar can't close around his neck so the tie knot sits tight and short, and the trousers are skin-tight on his thighs.
+
+
+
+
+Hair: a blond wig in the exact helmet bob shape from Image 1, but far too small for his head. It perches on top like a cap, with his shaved sides showing underneath. No mustache, just his beard.
+
+
+
+
+Expression: an aggressive version of the deadpan stare from Image 1, jaw clenched, fists clenched.
+
+
+
+
+Panels:
+
+1. Close-up: head and shoulders, framed like Image 1.
+
+2. Full body, front: standing straight, arms held out slightly from his body by the muscle, head to shoes.
+
+3. Full body, back: same pose from directly behind, showing the tiny wig, the shaved sides and the straining jacket seams.
+
+
+
+
+The same character stays consistent in all panels. No text, no labels, no watermark.
+
+See all
+Copy prompt
+Recreate
+@madame-perfume
+
+Image 1 = a reference photo of the AI Influencer (the bottle borrows his outfit and haircut).
+
+Luxury perfume product reference sheet, photorealistic, shot like a high-end fragrance campaign. Soft diffused studio key light from the upper left, a subtle rim light, on a warm cream seamless background with a soft reflection on a polished surface. Three panels side by side showing the exact same bottle from Image 2: 1) front view, straight on, 2) back view, straight on, 3) close-up of the front label and text. No box, no packaging, no people.
+
+
+
+
+THE BOTTLE: Exactly the bottle from Image 2. A heavy, thick-walled rectangular glass flacon with softly bevelled edges, filled with a warm amber-cognac perfume. Its look is taken from the outfit in Image 1. A fine brown-and-cream houndstooth pattern is enamelled around the lower third of the glass like a tweed band. A burgundy and navy diagonal-striped ribbon, matching his tie, is tied around the neck of the bottle in a small bow at the front.
+
+
+
+
+THE CAP: Exactly the cap from Image 2. A solid sculpted cap shaped like the head of the man in Image 1, seen front-on: the bell-shaped helmet bob with the blunt straight fringe and the sides flaring out and curling under, with the long thin neck forming the cap's stem. It is cast in polished brushed gold with fine engraved hair-strand lines, a smooth stylised face, and a small embossed curled handlebar mustache.
+
+
+
+
+THE LOGO: Printed in black on the front of the glass, centred above the houndstooth band: a minimal flat silhouette of the head from Image 1 (bell-shaped bob, blunt fringe, with a thin curled handlebar mustache as the only facial detail in negative space). Under it, the name "OUI MADAME" in a wide, tracked uppercase sans-serif, and below that "EAU DE PARFUM" and "100 ML · 3.4 FL OZ" in small tracked uppercase.
+
+
+
+
+BACK VIEW: The same bottle from directly behind. The back of the gold cap has exactly the same bell-shaped bob outline as the front, with the sides flaring out and curling under and the same long thin gold neck below it, covered in engraved hair-strand lines. The houndstooth band continues around the back, and the ribbon is seen as a plain band around the neck. The glass on the back is completely clean: no text, no logo, no label, no print of any kind, just clear glass with the amber perfume glowing through.
+
+
+
+
+CLOSE-UP: A tight macro shot of the front label area: the black head-silhouette logo, "OUI MADAME", "EAU DE PARFUM" and "100 ML · 3.4 FL OZ" printed on the glass, with the amber perfume glowing behind the text and the top edge of the houndstooth band visible at the bottom of the frame.
+
+
+
+
+All text must be sharp, legible and correctly spelled. The back view has no text at all. Elegant, slightly absurd, vintage gentleman meets modern luxury. No extra text, no watermark.
+
+See all
+Copy prompt
+Recreate
+@madame-street
+
+Text only, no inputs. I ran it as a batch and picked the best frame.
+
+Cinematic commercial film still of an empty European city street corner on a bright sunny afternoon, shot on a high-end cinema camera with a 35mm lens at chest height, slight low angle, sharp and clean with natural depth. On the left, rounded modern 1990s apartment buildings five to seven storeys tall: a curved white tower section joined to warm beige-ochre blocks, rows of square windows, white metal balconies with glass panels, slate-grey mansard roofs and small chimneys. Across the road, more beige and white apartment blocks stretch into the distance with a small red mailbox and a low glass storefront at street level. In the middle ground, a wide grey asphalt road with tram tracks set into it, a broad white zebra crossing running diagonally from the right foreground into the street, and a small pedestrian traffic light on a pole on the far left side of the road. In the foreground, a wide sidewalk paved with square pinkish-red terracotta tiles, edged on the right by a strip of grey ribbed tactile paving leading to the crossing. A tall grey metal sign pole stands on the left edge of the sidewalk, its sign turned away from camera. On the right, a tall dark-green tram catenary pole and a slim lamp post with a round street light, a small CCTV dome camera on the pole, a blue rectangular traffic sign, and a low trimmed green hedge. A few leafy green trees line the far end of the street. Sky: deep blue with large bright white cumulus clouds. Lighting: warm, crisp midday sun from the upper right, clean soft shadows on the pavement, slightly lifted shadows, rich but natural colour, gentle contrast, polished high-end commercial grade like a premium fragrance or fashion ad. The street and sidewalk are completely empty: no people, no cars in the foreground, one or two parked cars far down the street at most. No text, no watermark.
+
+See all
+Copy prompt
+Recreate
+Step 2. Block the spot in Blender
+
+With the Elements ready, I gave Claude the plan and all eight sheets and ran my Seedance Blocking skill. Claude drove Blender through the Higgsfield plugin and built the street corner: a coloured box for every character, a phone on a tripod for each copycat, and every camera position, move and cut. Then it rendered the blockout as a 30-second video.
+
+That render is @video1 in the prompts below. It controls every camera position, move, cut and timing. The Elements control how everything looks.
+
+Then my Shotlist Director skill wrote the Seedance 2.5 prompt from the locked blockout.
+
+Step 3. The Seedance 2.5 prompts
+
+Upload your blockout render as @video1 and your prompt and the elements will be automatically tagged for you. You can start with a 480p Seedance 2.5 Draft so initial mistakes stay cheap.
+
+Take 1: draft 1
+
+What went wrong: Copycats got mixed up with each other, the police looked like a giant and the shadow boxing didn't land as planned.
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine.
+
+Lighting: Natural light only — contre-jour backlight, camera on shadow side, atmospheric haze throughout. Key light from sky and windows only. No artificial lightning.
+
+Color: 60:30:10 — dominant / secondary / accent.
+
+Camera: ARRI Alexa 35 with spherical cinema prime lenses (Cooke S4 / ARRI Signature Prime look), rectilinear, natural perspective — a professional commercial. 180° shutter motion blur.
+
+Skin: Pore-level realism — vellus hair, asymmetric moles, capillary flush, pore-shadow matching on-set light.
+
+Acting: Hollywood — micro-pauses before reactions, precise eye-line, living eyes with catch-lights, chest rise from breathing. Characters never standing, always reacting.
+
+Physics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.
+
+Composition: Rule of thirds + golden ratio. Every person moving from frame one.
+
+Continuity: Characters & props identical across every cut. No identity drift.
+
+Technical: 24fps smooth motion. 8K detail. No jitter.
+
+Audio: Environmental SFX only. No music. No subtitles. No voice of any kind.
+
+Exactly 7 hard cuts at 0:05, 0:10, 0:12, 0:15, 0:23, 0:27, no other cuts. Bright sunny midday. No readable text except the bottle label and the COPYCAT POLICE lettering on @29fa0435-4913-4dde-9ca7-a32fc6ab9065's uniform.
+
+@Video 1 alone sets every camera position, angle, move, cut and timing, and where every person and tripod stands and moves, 1:1. It sets nothing about looks. Coloured boxes are people red = @4b5d3088-b501-4440-b78d-4fbbfb626a15, yellow = @29fa0435-4913-4dde-9ca7-a32fc6ab9065, cyan = @f1365103-d54a-40f4-b949-1d377f1386c2, orange = @b98638cc-9806-41b0-9183-97f171f0b28b, blue = @82dc3e32-57d7-4429-9a21-eed0886d36f2, green = @761bab8d-f9ec-4cbf-8e60-c8c6dff3c6c9. Dark three-legged stands with a white slab on top = smartphones on black tripods, one per copycat. Yellow bar 0:10-0:12 = @29fa0435-4913-4dde-9ca7-a32fc6ab9065's hand. Yellow cubes 0:12-0:15 = his fists. Purple box = copycat-thomas's wig. Magenta boxes = @fe2c261c-cbbc-41ae-a1f3-9f24736945d1 bottles. Light grey ground = sidewalk, dark grey = road, white stripes = zebra crossings.
+
+The character sheets and the bottle sheet are appearance only: one person or one bottle each; ignore their studio backdrop and panel layout. @80ab66a8-46fd-4acf-9e3e-c4209abe6c2e sets the look of the place only (beige apartment blocks, pinkish sidewalk tiles, zebra crossings, deep blue sky); the layout comes from @Video 1.
+
+Cast: six different men. Each appears exactly once, keeps his own face, wig colour and body type the whole film, and never merges with, swaps with or duplicates another. All five copycats wear the same brown houndstooth suit; only their bodies and wigs tell them apart:
+
+COPYCAT-THOMAS @4b5d3088-b501-4440-b78d-4fbbfb626a15: tall and thin, DARK BROWN bob wig, curled handlebar mustache.
+
+TOO SHORT @f1365103-d54a-40f4-b949-1d377f1386c2: the smallest man by a head, boyish face, suit far too big (sleeves over his hands, trousers pooling), a HUGE pale-blond bob wig swallowing his head.
+
+GINGER @b98638cc-9806-41b0-9183-97f171f0b28b: the ONLY orange wig, a bright orange bob, dark eyebrows, mustache drawn on in black marker, average build.
+
+BIG GUY @82dc3e32-57d7-4429-9a21-eed0886d36f2: heavy, round belly pushing the jacket open, shirt stretched tight, pale-blond bob wig, blond mustache.
+
+GYM BRO @761bab8d-f9ec-4cbf-8e60-c8c6dff3c6c9: a huge bodybuilder, massive shoulders and arms straining the suit, a SHORT tight blond bowl-cut wig, beard, scowl.
+
+@29fa0435-4913-4dde-9ca7-a32fc6ab9065: navy police uniform, navy bob-shaped police cap, black sunglasses, big mustache, gold COPYCAT POLICE badge.
+
+Setup: a four-way intersection. Copycat-thomas stands on the corner sidewalk. To his left the four copycats stand in one straight row along the sidewalk, 3 m apart, never bunched, never on the car road, in this exact order from him: TOO SHORT, GINGER, BIG GUY, GYM BRO last. Each faces their own phone on a tripod 2 m in front of them, filming themselves. The copycats shadowbox clumsily and are clearly lost: they freeze mid-combination, squint at their phone screens, try to look confident but aren't. @29fa0435-4913-4dde-9ca7-a32fc6ab9065 (navy bob-shaped police cap and black sunglasses that never move) is smooth, textbook and over-confident: chin up, smug deadpan.
+
+CUT 1 (0:00-0:05), 18mm, just behind copycat-thomas's phone, phone centre frame. The screen shows a live preview of him, moving in sync. He clicks the phone into the tripod, steps back to frame right, full body, and shadowboxes stiffly at it, checking the screen. No other copycats in frame.
+
+CUT 2 (0:05-0:10), 45mm, three-quarter angle looking diagonally down the orange sidewalk. Four hard snap moves sideways along the sidewalk, with a dead stop on each man in turn: copycat-thomas, TOO SHORT (0:06.65), GINGER (0:07.65), BIG GUY (0:08.65), GYM BRO (0:09.65). Five different men, one per stop, in this order; never the same man twice. At every stop: the man left of centre, full body; his own tripod and phone in the right foreground. Each one struggles: TOO SHORT's jabs are clumsy in his too big clothes; GINGER's hook spins him half around; BIG GUY sags, hands on knees, gasping; GYM BRO swings too hard and staggers, his tiny wig slipping. All of them continuing doin their thing infront of the camera, standing on the orange sidewalk, NOT on the zebra crossing.
+
+CUT 3 (0:10-0:12), 50mm handheld, tight on copycat-thomas's right shoulder and face. He is shadowboxing through the whole cut, mid-combination, jabbing and bouncing, eyes on his phone. A natural, relaxed hand in a navy police-uniform sleeve with a light blue shirt cuff reaches in from lower left and taps his right shoulder twice with two fingertips (0:11.0, 0:11.4) while he keeps punching. Five normal fingers, no bending or morphing. Only the hand is seen. He stops punching only after the second tap, at the very end of the cut.
+
+CUT 4 (0:12-0:15), one continuous handheld POV take through copycat-thomas's own eyes from the very first frame, 24mm, no cut inside. We never see him from the outside in this cut. The view turns to the right like a real head and shoulders turning (0:12.1-0:12.9): it starts, sweeps, and smoothly slows down, the street staying sharp and undistorted, no smearing or warping. @29fa0435-4913-4dde-9ca7-a32fc6ab9065 slides into frame from the right edge during the turn and the view settles on him: he stands exactly where the tap came from, one arm's length away on the sidewalk, never in the road. Deadpan. Two punches straight into the lens: left jab 0:13.85, right cross 0:14.25. The view falls backward with him and lands on the pavement at 0:14.85, looking up at @29fa0435-4913-4dde-9ca7-a32fc6ab9065 against the sky.
+
+CUT 5 (0:15-0:23), 25mm, level at waist height, slow slide. @29fa0435-4913-4dde-9ca7-a32fc6ab9065 in the left third, strict side profile facing right, finishing the routine (jabs, hooks, uppercut, slips, shuffle), cap and sunglasses never moving; he settles smugly at 0:21. Copycat-thomas lies on his back across the lower-left foreground, out cold, the dark brown wig on the paving by his head; his tripod stands centre. Behind on the right all four copycats, still in their row with their tripods, receding from near to far: TOO SHORT, GINGER (orange wig), BIG GUY, GYM BRO. They freeze, lower their fists, then panic: each grabs his own tripod and sprints in panic across the street, looking back in terror, out of sync. Still four different men while they run.
+
+CUT 6 (0:23-0:27), 18mm, locked off at copycat-thomas's phone. @29fa0435-4913-4dde-9ca7-a32fc6ab9065, holding one bottle in each hand from the first frame, steps up onto copycat-thomas and stands on him, then lifts both bottles to about 40 cm from the lens in his pinched-fingers gesture, labels to camera, tilted outward. From 0:24.4 each hand bobs slowly on its own rhythm, out of sync. Smug stare into the lens through his black sunglasses.
+
+CUT 7 (0:27-0:30), worm's-eye 16mm, lens on the pavement tilted up, push easing to a stop. One bottle stands on the right third, 26 cm from the lens, label to camera; copycat-thomas lies soft behind it; the top half of frame is clean sky.
+
+Rules: exactly 6 people, no extras. Exactly four copycats besides copycat-thomas, each one exactly once wherever they appear, never two of the same. Five tripods with phones, one per man, until the copycats flee carrying their own. Copycats only in cuts 2 and 5. Bottles: none before 0:23, exactly 2 in cut 6 (never multiplying), exactly 1 in cut 7. The wig stays on the ground after 0:15. Sound: street ambience, punch thuds at 0:13.85 and 0:14.25, a body hitting the pavement at 0:14.85, running footsteps and clattering tripods from 0:18.5.
+
+See all
+Copy prompt
+Recreate
+Take 2: draft 2
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine.
+
+Lighting: Natural light only — contre-jour backlight, camera on shadow side, atmospheric haze throughout. Key light from sky and windows only. No artificial lightning.
+
+Color: 60:30:10 — dominant / secondary / accent.
+
+Camera: ARRI Alexa 35 with spherical cinema prime lenses (Cooke S4 / ARRI Signature Prime look), rectilinear, natural perspective — a professional commercial. No fisheye, no barrel distortion, no circular image, no black vignette, no phone-camera look. 180° shutter motion blur.
+
+Skin: Pore-level realism — vellus hair, asymmetric moles, capillary flush, pore-shadow matching on-set light.
+
+Acting: Hollywood — micro-pauses before reactions, precise eye-line, living eyes with catch-lights, chest rise from breathing. Characters never standing, always reacting.
+
+Physics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.
+
+Composition: Rule of thirds + golden ratio. Every person moving from frame one.
+
+Continuity: Characters, props, environment identical across every cut. No identity drift.
+
+Technical: 24fps smooth motion. 8K detail. No jitter.
+
+Audio: Environmental SFX only. No music. No subtitles. No voice of any kind.
+
+
+
+
+References:
+
+@Video 1 — the Blender blocking. It is the SOLE authority for camera position, camera movement, cuts, timing, and every person's position, facing and path, 1:1 frame-aligned for the full 30 seconds. It defines NOTHING about appearance: not its colours, not its grey world, not its flat light. Re-dress it, never re-imagine it.
+
+Reading @Video 1: every upright coloured box is ONE person. The full-colour face is their FRONT, the darker faces are their sides, the BLACK face is their back. Red box = @4b5d3088-b501-4440-b78d-4fbbfb626a15. Yellow box = @745444fd-a0e3-41a2-a179-a1d99c5c4f40. Cyan box = @f1365103-d54a-40f4-b949-1d377f1386c2. Orange box = @b98638cc-9806-41b0-9183-97f171f0b28b. Blue box = @82dc3e32-57d7-4429-9a21-eed0886d36f2. Green box = @761bab8d-f9ec-4cbf-8e60-c8c6dff3c6c9. The white slab on a thin dark pole = copycat-thomas's phone on its monopod. Small black slabs on thin dark poles = the other copycats' phones on their monopods. The yellow bar in 0:10-0:12 = the original's forearm and hand. The two small yellow cubes in 0:12-0:15 = the original's two fists. The purple box on the pavement from 0:15 = copycat-thomas's dark brown bob wig. The magenta boxes = @fe2c261c-cbbc-41ae-a1f3-9f24736945d1 bottles. Light grey ground = sidewalk paving; dark grey ground = road; white stripes = zebra crossings; tall grey slabs = buildings; thin poles = lamp posts, a sign pole and green tram poles.
+
+@4b5d3088-b501-4440-b78d-4fbbfb626a15, @745444fd-a0e3-41a2-a179-a1d99c5c4f40, @f1365103-d54a-40f4-b949-1d377f1386c2, @b98638cc-9806-41b0-9183-97f171f0b28b, @82dc3e32-57d7-4429-9a21-eed0886d36f2, @761bab8d-f9ec-4cbf-8e60-c8c6dff3c6c9 — appearance ONLY: face, wig or hair, mustache, body type, how the suit fits. Each is a three-panel character sheet: it is ONE person, never three. Do NOT inherit the grey studio backdrop, the studio light or the panel layout.
+
+@fe2c261c-cbbc-41ae-a1f3-9f24736945d1 — appearance ONLY of the bottle: clear square flacon, amber juice, gold cap shaped as a bob-haircut head with a mustache, striped burgundy-navy bow, houndstooth band, OUI MADAME label. It is a three-panel product sheet: ONE bottle design, never a row of three. Not its beige backdrop, not its studio light.
+
+@80ab66a8-46fd-4acf-9e3e-c4209abe6c2e — the LOOK of the place only: a sunny European street corner, beige and white apartment blocks with balconies and a rounded corner tower, pinkish-red sidewalk tiles with grey tactile paving, wide grey asphalt, white zebra crossings, grey sign poles, green tram and lamp poles, deep blue sky with big white clouds. Its layout is NOT used: the intersection layout comes from @Video 1.
+
+
+
+
+Technical:
+
+16:9, 30 seconds, 24 fps. Seven hard cuts, exactly at 0:05, 0:10, 0:12, 0:15, 0:23 and 0:27, and NO other cuts. Every cut is shot on a cinema camera with a rectilinear cinema prime, including the two point-of-view cuts: no fisheye, no circular frame, no vignette, no phone-camera look anywhere. Practical effects only, no CGI look. No readable text anywhere except the label printed on @fe2c261c-cbbc-41ae-a1f3-9f24736945d1. Nobody speaks.
+
+
+
+
+Video lock:
+
+@Video 1 is the SOLE authority for camera movement, cuts and timing, 1:1 frame-aligned. If this text and the video disagree, the video wins. Any deviation is a failure. The previz is re-dressed, never re-imagined.
+
+
+
+
+Characters:
+
+COPYCAT-THOMAS (@4b5d3088-b501-4440-b78d-4fbbfb626a15) — tall, thin, pale, a dark brown bell-shaped bob WIG with a blunt fringe, curled handlebar mustache, brown houndstooth suit, white shirt, burgundy striped tie, burgundy socks, oxblood monk shoes. The wig comes off when he is knocked out; under it, his own short hair.
+
+THE ORIGINAL (@745444fd-a0e3-41a2-a179-a1d99c5c4f40) — golden-blond bell-shaped bob that never moves, ginger-blond curled mustache, freckles, the same suit worn perfectly. Over-confident to the bone: chin up, chest out, shoulders loose, a smug half-lidded deadpan that says "I am the real one". Never smiles, never doubts, a trained boxer's precision.
+
+TOO SHORT (@f1365103-d54a-40f4-b949-1d377f1386c2) — small and young, the same suit massively oversized, sleeves past his fists, a huge pale-blond wig swallowing his head.
+
+GINGER (@b98638cc-9806-41b0-9183-97f171f0b28b) — orange bob wig, mustache drawn on in marker, the same suit.
+
+BIG GUY (@82dc3e32-57d7-4429-9a21-eed0886d36f2) — heavy, the jacket cannot close over his belly, pale-blond wig, gets winded fast.
+
+GYM BRO (@761bab8d-f9ec-4cbf-8e60-c8c6dff3c6c9) — huge muscles straining the same suit, a small pale-blond wig, punches far too hard.
+
+
+
+
+Scene:
+
+@80ab66a8-46fd-4acf-9e3e-c4209abe6c2e, a four-way intersection, bright sunny midday. Copycat-thomas stands ON THE SIDEWALK, on the tactile paving of the corner nearest camera, about 1.5 m back from the kerb, with the intersection right behind him: one street runs off to frame right, one runs away behind him just right of centre (trees, lamp posts, parked cars), one comes back past the left of camera, one runs off to the left past a rounded corner building. Two zebra crossings start at his corner, BEHIND him on the road; a grey sign pole stands on the corner tip. To his LEFT the four copycats stand in one straight row ON THE SIDEWALK paving, parallel to the kerb and about 1.5 m back from it, 3 m apart, in this order from him: TOO SHORT, GINGER, BIG GUY, GYM BRO last. Nobody stands on the road or on a crossing. Every man faces his OWN phone on a monopod standing on the sidewalk about 2 m in front of him, filming himself.
+
+How they all shadowbox: like real boxers, never a repeated loop. Guard up, bouncing on the balls of the feet, weight shifting, hips turning into every punch, and a constant mix of jabs, crosses, left hooks, right hooks, uppercuts, body shots, slips, ducks, bob-and-weave and shuffling footwork. The copycats move all the time; what gives them away is that their technique is a little off and, between combinations, they glance at their phone screens to compare themselves.
+
+
+
+
+CUT 1 (0:00-0:05) — 18mm cinema wide prime, rectilinear, lens 30-40 cm behind copycat-thomas's phone and slightly to its right, the phone centre frame, very slow creep in:
+
+Copycat-thomas's phone stands upright on its monopod mid-frame, its screen toward us showing a LIVE camera preview: the image of him on the screen moves exactly when he moves, at the same instant. At 0:00 he is right behind the phone, his hands just letting go as it seats on the mount. At 0:00.5 he steps back about 1.5 m and stands to the RIGHT of the phone in frame, full body, on the sidewalk. From 0:01.9 he shadowboxes at his phone: jab, jab, right cross, left hook, slip, right uppercut, roll under, double jab, bouncing on his toes, flicking a look at the screen after each combination. The intersection opens behind him, both zebra crossings on the road behind, the sign pole behind his right shoulder. The other copycats are NOT in frame.
+
+END 0:05: people 1 · copycat-thomas full body on the sidewalk right of the phone · phone on its monopod centre frame.
+
+
+
+
+CUT 2 (0:05-0:10) — 32mm cinema prime, lens 1.15 m high on the sidewalk, about 4.5 m off each man at a front three-quarter, tracking along the row in hard snap moves:
+
+Open on copycat-thomas full body, mid-combination: one-two, left hook, bouncing. The row of copycats recedes beside him along the sidewalk, soft. At 0:06 the camera snaps sideways along the row, fast acceleration and hard deceleration, the monopods whipping past close to the lens, and stops on TOO SHORT: a flurry of tiny fast jabs, his sleeves flapping over his fists. 0:07 it snaps to GINGER: a big left hook, a right uppercut, a wild overhand right, then a quick glance at his screen. 0:08 to BIG GUY: one heavy jab-cross, then he sags, gasping, fists still up, bobbing. 0:09 to GYM BRO, last: explosive hooks and uppercuts thrown far too hard, grunting, the suit seams straining. All five keep moving the whole time and none is in sync with any other.
+
+END 0:10: people 5 in one straight row on the sidewalk · 5 phones on 5 monopods on the sidewalk · nobody on the road.
+
+
+
+
+CUT 3 (0:10-0:12) — 50mm cinema prime, handheld, tight on copycat-thomas's right shoulder and face, front three-quarter from his right, about 1.4 m:
+
+He keeps throwing short combinations, concentrating hard. At 0:10.4 a hand in a white shirt cuff and brown houndstooth sleeve enters from the lower left of frame, reaching from behind him, and taps his right shoulder twice: 0:11.0 and 0:11.4. Only the hand and forearm are seen, never the person. He stops dead on the second tap.
+
+END 0:12: people 1 visible plus one hand.
+
+
+
+
+CUT 4 (0:12-0:15) — ONE continuous handheld take, no cut inside it: copycat-thomas's eyes, 24mm cinema prime at eye height:
+
+0:12.1-0:12.9 the view whips about 150 degrees to the right as he turns, the street smearing past, and stops on @745444fd-a0e3-41a2-a179-a1d99c5c4f40 standing one step away on the sidewalk at the kerb, chest up, deadpan, perfectly still, the blond bob immaculate. Beat. TWO separate punches, both straight into the lens: his LEFT jab lands at 0:13.85 and the view jolts sideways; his RIGHT cross lands at 0:14.25. Then, still in the same take, the view falls backward with copycat-thomas, stiff as a plank: the original, the buildings and the sky wheel up and away, and the view thumps down onto the pavement at 0:14.85, ending low on the ground looking up at @745444fd-a0e3-41a2-a179-a1d99c5c4f40 standing over him against the sky.
+
+END 0:15: copycat-thomas on his back on the sidewalk · @745444fd-a0e3-41a2-a179-a1d99c5c4f40 standing over him · no other people.
+
+
+
+
+CUT 5 (0:15-0:23) — 25mm cinema prime, lens 1 m high, level, a full-body side profile of @745444fd-a0e3-41a2-a179-a1d99c5c4f40 about 4.6 m away, slow sideways slide:
+
+Copycat-thomas lies flat on his back across the foreground on the sidewalk at @745444fd-a0e3-41a2-a179-a1d99c5c4f40's feet, out cold, the dark brown bob wig on the paving beside his head, his own short hair showing. @745444fd-a0e3-41a2-a179-a1d99c5c4f40 stands over him in strict profile, facing frame right, and finishes the routine like a pro: jab, jab, cross, left hook to the body, left hook up top, right uppercut, slip, slip, roll, a quick shuffle, double jab, a final cross, his blond bob locked solid, not one hair moving. At 0:21 he stops in a composed stance. Behind him, on the sidewalk, the four copycats freeze mid-punch and lower their fists (0:17-0:19), stare at the knockout in horror, then PANIC: each snatches his monopod and SPRINTS away flat out across the street toward the far sidewalk, arms pumping, wigs flapping, phones swinging, looking back over their shoulders in terror, never in sync. GYM BRO bolts first (0:18.5), GINGER next (0:19.0) and throws a terrified look back mid-sprint (0:20.7), TOO SHORT trips on his trousers at 0:21.3, scrambles up and keeps running, BIG GUY goes last (0:19.9), running as fast as he can, gasping. By 0:23 they are small, still running, far down the far sidewalk.
+
+END 0:23: @745444fd-a0e3-41a2-a179-a1d99c5c4f40 standing · copycat-thomas flat on the sidewalk · wig on the paving · 4 copycats sprinting away in the distance.
+
+
+
+
+CUT 6 (0:23-0:27) — locked off where copycat-thomas's phone stands, 1.45 m high, 18mm cinema wide prime, rectilinear:
+
+From the very first frame of this cut @745444fd-a0e3-41a2-a179-a1d99c5c4f40 already holds ONE bottle in EACH hand at chest height; nothing stands on the monopod. He steps up onto copycat-thomas's body and stands on him (0:23.15-0:23.7), then brings both hands up toward the lens (0:23.7-0:24.4) in his signature pinched-fingers gesture: each hand pinches its @fe2c261c-cbbc-41ae-a1f3-9f24736945d1 bottle between thumb and index finger, the two bottles about 40 cm from the lens, labels to camera, tilted outward away from each other. From 0:24.4 each hand bobs its bottle slowly up and down on its own rhythm: the two hands are NOT in sync, one rises while the other sinks, unhurried, never mirrored. A smug, over-confident deadpan stare straight into the lens, chin up. Copycat-thomas's legs show under him at the bottom of frame; the intersection behind.
+
+END 0:27: @745444fd-a0e3-41a2-a179-a1d99c5c4f40 standing on copycat-thomas · exactly 2 bottles, one per hand · no copycats in frame.
+
+
+
+
+CUT 7 (0:27-0:30) — worm's-eye, 16mm cinema wide prime, rectilinear, lens 4 cm above the pavement tilted up, slow push that eases to a stop:
+
+One @fe2c261c-cbbc-41ae-a1f3-9f24736945d1 bottle stands upright on the sidewalk paving on the right third of frame, 26 cm from the lens, label to camera, towering in the wide lens. Behind it, soft, copycat-thomas lies out cold across the left two-thirds of frame, the wig beside his head. The upper half of frame is clean sky and building tops, empty, for text added later in the edit. The push slows to a dead stop on the final frame.
+
+END 0:30: 1 bottle · copycat-thomas · nobody else.
+
+
+
+
+Rules:
+
+1. Exactly six people exist: copycat-thomas, @745444fd-a0e3-41a2-a179-a1d99c5c4f40 and four copycats. No extras, no pedestrians, no drivers, no duplicates, no half-bodies at the frame edges.
+
+2. Before 0:18 every person stands on the SIDEWALK. Nobody stands on the road or on a zebra crossing. The copycats only step onto the road when they flee in CUT 5.
+
+3. @745444fd-a0e3-41a2-a179-a1d99c5c4f40 and copycat-thomas are two different men: blond bob versus dark brown bob. Never swap their faces or their hair.
+
+4. @745444fd-a0e3-41a2-a179-a1d99c5c4f40's hair never moves. The copycats' wigs bounce, slip and flap.
+
+5. Shadowboxing is never a loop: every combination is different, with real weight transfer and footwork.
+
+6. The four copycats appear only in CUT 2 and CUT 5. Never in CUT 1, 3, 4, 6 or 7.
+
+7. CUT 4 is one unbroken take from 0:12 to 0:15 that contains BOTH punches and the fall. No cut to another angle.
+
+8. Bottles: none before 0:23. In CUT 6 exactly 2, one in each of his hands from the first frame; they never multiply, merge or appear on the monopod, and the two hands move independently, never in sync. In CUT 7 exactly 1, standing on the ground. Every bottle is the @fe2c261c-cbbc-41ae-a1f3-9f24736945d1 design.
+
+9. Phones: 5 phones on 5 monopods until the copycats grab theirs in CUT 5. Copycat-thomas's phone never leaves its monopod. Its screen only ever shows the live camera preview of what is in front of it.
+
+10. The wig is on copycat-thomas's head until 0:15, then on the paving beside his head for the rest of the film. It never goes back on.
+
+11. The punches are clean: no blood, no injury, no cartoon effects. The fall is a real body falling, never ragdoll.
+
+12. The parked cars stay parked. No traffic moves through the intersection.
+
+13. No readable text on signs, shops or streets. The only text on screen is the printed bottle label.
+
+
+
+
+Acting tasks:
+
+Shared direction: deadpan comedy. Nobody mugs to camera, nobody smiles, nobody speaks.
+
+THE COPYCATS — MOTIVE: become the original. GOAL: nail his routine on camera. OBSTACLE: they do not really know it. TACTIC: copy it full-out and check their phone screens between combinations. Moment to moment: always moving, every combination different, technique slightly off, a frown at the screen, straight back into it. After the knockout: frozen shock, then pure panic, a flat-out sprint. Gaze engaged, natural blink cadence, never glassy.
+
+COPYCAT-THOMAS — the most committed copy; after the taps a slow, irritated turn; after the cross he is out cold: eyes closed, mouth slack, no movement at all.
+
+THE ORIGINAL — MOTIVE: end the copying. TACTIC: over-confidence, stillness, then precision. He carries himself like he has never lost: chin up, a slow self-satisfied blink, a barely-there smug nod. He never hurries and never reacts. The one-two comes with no wind-up. He finishes his routine showing off, as if nothing happened. The pinched-fingers gesture is his signature, done with total, over-confident certainty, each hand bobbing its bottle on its own slow rhythm, eyes on the lens.
+
+
+
+
+Audio:
+
+[Sound design] a sunny city corner: distant traffic, birds, a light breeze.
+
+[SFX] 0:00.4 the click of the phone seating on the monopod · from 0:01.9 cloth snaps and shoe scuffs of shadowboxing · 0:06, 0:07, 0:08, 0:09 a whoosh on each camera snap · 0:11.0 and 0:11.4 two soft taps on wool · 0:12.1 the swish of the turn · 0:13.85 the jab thud · 0:14.25 a heavier cross crack · 0:14.85 the body slams the pavement, then near-silence · 0:18.5-0:23 running shoes slapping the asphalt, monopods clattering, panicked breathing fading away · 0:24.4 a tiny glass clink of the bottles · 0:27-0:30 a quiet street.
+
+[Voice] none at all: no dialogue, no narration, no voiceover, no tutorial or instructional speech.
+
+[Music] none.
+
+
+
+
+Hold for the full timeline:
+
+@Video 1 drives camera, cuts and timing for all 30 seconds, frame for frame, on cinema lenses with no fisheye. Six people, the colour mapping above, everyone on the sidewalk until the copycats flee, real varied shadowboxing, the copycats sprinting in panic, CUT 4 one take with jab, cross and fall, the wig on the paving from 0:15, the original's hair never moving, 2 bottles in his hands in CUT 6, 1 bottle on the ground in CUT 7, the phone screen showing only a live preview. Re-dress, never re-imagine.
+
+See all
+Copy prompt
+Recreate
+Final
+
+Same prompt for both. The first is rendered at 720p, the second is a regeneration from its 480p Draft.
+
+Style: 8K IMAX. Photorealistic — no 3D render, no game engine.
+
+Lighting: Natural light only — contre-jour backlight, camera on shadow side, atmospheric haze throughout. Key light from sky and windows only. No artificial lightning.
+
+Color: 60:30:10 — dominant / secondary / accent.
+
+Camera: ARRI Alexa 35 with spherical cinema prime lenses (Cooke S4 / ARRI Signature Prime look), rectilinear, natural perspective — a professional commercial. 180° shutter motion blur.
+
+Skin: Pore-level realism — vellus hair, asymmetric moles, capillary flush, pore-shadow matching on-set light.
+
+Acting: Hollywood — micro-pauses before reactions, precise eye-line, living eyes with catch-lights, chest rise from breathing. Characters never standing, always reacting.
+
+Physics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.
+
+Composition: Rule of thirds + golden ratio. Every person moving from frame one.
+
+Continuity: Characters & props identical across every cut. No identity drift.
+
+Technical: 24fps smooth motion. 8K detail. No jitter.
+
+Audio: Environmental SFX only. No music. No subtitles. No voice of any kind.
+
+Exactly 7 hard cuts at 0:05, 0:10, 0:12, 0:15, 0:23, 0:27, no other cuts. Bright sunny midday. No readable text except the bottle label and the COPYCAT POLICE lettering on @29fa0435-4913-4dde-9ca7-a32fc6ab9065's uniform.
+
+@Video 1 alone sets every camera position, angle, move, cut and timing, and where every person and tripod stands and moves, 1:1. It sets nothing about looks. Coloured boxes are people red = @4b5d3088-b501-4440-b78d-4fbbfb626a15, yellow = @29fa0435-4913-4dde-9ca7-a32fc6ab9065, cyan = @f1365103-d54a-40f4-b949-1d377f1386c2, orange = @b98638cc-9806-41b0-9183-97f171f0b28b, blue = @82dc3e32-57d7-4429-9a21-eed0886d36f2, green = @761bab8d-f9ec-4cbf-8e60-c8c6dff3c6c9. Dark three-legged stands with a white slab on top = smartphones on black tripods, one per copycat. Yellow bar 0:10-0:12 = @29fa0435-4913-4dde-9ca7-a32fc6ab9065's hand. Yellow cubes 0:12-0:15 = his fists. Purple box = copycat-thomas's wig. Magenta boxes = @fe2c261c-cbbc-41ae-a1f3-9f24736945d1 bottles. Light grey ground = sidewalk, dark grey = road, white stripes = zebra crossings.
+
+The character sheets and the bottle sheet are appearance only: one person or one bottle each; ignore their studio backdrop and panel layout. @80ab66a8-46fd-4acf-9e3e-c4209abe6c2e sets the look of the place only (beige apartment blocks, pinkish sidewalk tiles, zebra crossings, deep blue sky); the layout comes from @Video 1.
+
+Setup: a four-way intersection. Copycat-thomas stands on the corner sidewalk. To his left the four copycats stand in one straight row along the sidewalk, 3 m apart, never bunched, never on the car road: TOO SHORT, GINGER, BIG GUY, GYM BRO last. Each faces their own phone on a tripod 2 m in front of them, filming themselves. The copycats shadowbox clumsily and are clearly lost: they freeze mid-combination, squint at their phone screens, try to look confident but aren't. @29fa0435-4913-4dde-9ca7-a32fc6ab9065 (navy bob-shaped police cap and black sunglasses that never move) is smooth, textbook and over-confident: chin up, smug deadpan.
+
+CUT 1 (0:00-0:05), 18mm, just behind copycat-thomas's phone, phone centre frame. The screen shows a live preview of him, moving in sync. He clicks the phone into the tripod, steps back to frame right, full body, and shadowboxes stiffly at it, checking the screen. No other copycats in frame.
+
+CUT 2 (0:05-0:10), 45mm, three-quarter angle looking diagonally down the orange sidewalk. Four hard snap moves sideways along the sidewalk, with a dead stop on each man in turn: copycat-thomas, TOO SHORT (0:06.65), GINGER (0:07.65), BIG GUY (0:08.65), GYM BRO (0:09.65). At every stop: the man left of centre, full body; his own tripod and phone in the right foreground. Each one struggles: TOO SHORT's jabs are clumsy in his too big clothes; GINGER's hook spins him half around; BIG GUY sags, hands on knees, gasping; GYM BRO swings too hard and staggers, his tiny wig slipping. All of them continuing doin their thing infront of the camera, standing on the orange sidewalk, NOT on the zebra crossing.
+
+CUT 3 (0:10-0:12), 50mm handheld, tight on copycat-thomas's right shoulder and face. A hand in a navy police-uniform sleeve with a light blue shirt cuff reaches in from lower left and finger taps his shoulder twice (0:11.0, 0:11.4). Only the hand is seen.
+
+CUT 4 (0:12-0:15), one continuous handheld POV take, 24mm, no cut inside. He turns about 150 degrees right and finds @29fa0435-4913-4dde-9ca7-a32fc6ab9065 one step away, deadpan. Two punches straight into the lens: left jab 0:13.85, right cross 0:14.25. The view falls backward with him and lands on the pavement at 0:14.85, looking up at @29fa0435-4913-4dde-9ca7-a32fc6ab9065 against the sky.
+
+CUT 5 (0:15-0:23), 25mm, level at waist height, slow slide. @29fa0435-4913-4dde-9ca7-a32fc6ab9065 in the left third, strict side profile facing right, finishing the routine (jabs, hooks, uppercut, slips, shuffle), cap and sunglasses never moving; he settles smugly at 0:21. Copycat-thomas lies on his back across the lower-left foreground, out cold, the dark brown wig on the paving by his head; his tripod stands centre. Behind on the right the four copycats, still in their row with their tripods, freeze, lower their fists, then panic: each grabs his own tripod and sprints in panic across the street, looking back in terror, out of sync.
+
+CUT 6 (0:23-0:27), 18mm, locked off at copycat-thomas's phone. @29fa0435-4913-4dde-9ca7-a32fc6ab9065, holding one bottle in each hand from the first frame, steps up onto copycat-thomas and stands on him, then lifts both bottles to about 40 cm from the lens in his pinched-fingers gesture, labels to camera, tilted outward. From 0:24.4 each hand bobs slowly on its own rhythm, out of sync. Smug stare into the lens through his black sunglasses.
+
+CUT 7 (0:27-0:30), worm's-eye 16mm, lens on the pavement tilted up, push easing to a stop. One bottle stands on the right third, 26 cm from the lens, label to camera; copycat-thomas lies soft behind it; the top half of frame is clean sky.
+
+Rules: exactly 6 people, no extras. Five tripods with phones, one per man, until the copycats flee carrying their own. Copycats only in cuts 2 and 5. Bottles: none before 0:23, exactly 2 in cut 6 (never multiplying), exactly 1 in cut 7. The wig stays on the ground after 0:15. Sound: street ambience, punch thuds at 0:13.85 and 0:14.25, a body hitting the pavement at 0:14.85, running footsteps and clattering tripods from 0:18.5.
+
+See all
+Copy prompt
+Recreate
+
+Then taking the best parts from both and adding a music track and voiceover + tagline text at the end got us the final result:

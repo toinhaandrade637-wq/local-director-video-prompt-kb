@@ -1,0 +1,123 @@
+【项目】AI PHOTOGRAPHER: THE AGENT THAT WRITES MY PHOTO PROMPTS（@valyapokazhi · 创作者博客）
+【链接】https://higgsfield.ai/@valyapokazhi/blogs/ai-photographer-the-agent-that-writes-my-photo-prompts
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+AI PHOTOGRAPHER: THE AGENT THAT WRITES MY PHOTO PROMPTS
+V
+@valyapokazhi
+47
+2
+0
+
+I stopped writing image prompts from scratch. Instead, I built an agent that thinks like a photographer and an art director: it turns a one-line brief into a ready-to-use prompt for a single frame — or into a full photoshoot with a shot list and a separate prompt for every shot.
+
+Below: what it does, how it works, and the two files you need to set it up yourself. Both are attached at the end of the post. Every image in this post was made with prompts from this agent.
+
+What it does
+
+You write something short, like:
+
+"Photoshoot for a ceramic coffee brand, morning light, 8 frames"
+
+And you get back:
+
+Concept — 1–3 sentences, one clear visual idea
+Series passport — the traits that stay fixed in every frame: hero, outfit, product, location, light, palette
+Shot list — function of each frame, framing and angle, action, light and lens, key detail
+A complete prompt for every frame — self-contained, copy-paste ready
+
+It works with people and groups, fashion, beauty, products, food, animals, architecture, interiors and landscapes. Every prompt is in English and stands on its own: no "same girl as above", no empty fields, no invented settings.
+
+
+
+
+Night street shot. Prompt written by AI Photographer.
+
+How it works
+1. Reads the brief — no questionnaire
+
+It silently extracts the subject, purpose and platform, single frame or series, count, style and emotion, format, references, what to keep and what to change, and the target generator. If the info is enough, it just starts. It asks one short question only when the task is impossible without it — a required reference is missing, or two "do not change" conditions contradict each other.
+
+2. Smart defaults
+"Prompt / frame" = 1 frame · "Photoshoot / series" = 8 frames · "Campaign / editorial" = 10 frames
+Portrait & fashion 4:5 · product 1:1 · interiors & landscapes 3:2 · Stories / Reels covers 9:16
+Your numbers always win.
+3. Every reference gets a role
+
+Each uploaded image is assigned a job: face/body, outfit, product, location, composition, or light/color. Traits are split into KEEP / CAN CHANGE / CREATE. A style reference never silently replaces the hero's face. Face geometry, age, natural asymmetry, the cut of the clothes, the shape and label of the product are preserved — and repeated in full in every prompt, so each frame can be generated independently.
+
+4. Photographic logic instead of buzzwords
+
+No "8K, masterpiece, ultra-detailed". The agent describes what a real camera would see:
+
+Camera: frame borders, camera height, lens (24–28 mm environment, 35 mm environmental portrait, 50 mm natural mid shot, 70–85 mm portrait, 90–105 mm macro, 135 mm compressed layers), aperture matched to distance, a named focus point.
+Light: source, direction, size relative to the subject, shadow softness, fill or negative fill, separation, catchlights that match real sources.
+Pose & hands: support leg, pelvis and shoulder rotation, gaze; every visible hand has a task and real contact with an object. An action instead of "a beautiful pose".
+Surfaces: pores at the right scale, hair with weight and flyaways, fabric with weave, seams and tension, glass with thickness and refraction, metal with environment reflections.
+5. Series that don't repeat themselves
+
+One visual idea, up to three lead colors, one lighting character. Base structure: hero image → environment → portrait → action → hands with object → material detail → emotional peak → final. It alternates wide, medium, close-up and detail shots, changes at least two parameters between similar frames, and keeps continuity — wet hair, an opened package or a removed glove don't magically reset.
+
+
+
+
+Another frame from a series. Prompts written by AI Photographer.
+
+6. Generator-aware
+
+For Nano Banana it writes clear natural-language tasks with a reference map. For other models it changes syntax only where support is reliably known — no invented versions, seeds or weights.
+
+7. Silent QA before every answer
+
+Frame count, format, focus, light and shadow consistency, achievable poses and grips, realistic skin and materials, no empty placeholders, no promises of guaranteed results.
+
+Output modes
+One frame → one prompt, no intro
+Photoshoot / campaign → concept, series passport, shot list, a full prompt for every frame
+Shot list only → a table; prompts on request
+Edit → exact change/keep boundaries + the full corrected prompt
+Fix a result → diagnosis of the visible defect + a corrected prompt that keeps what worked
+Cover → hero image, safe crop, free space for text
+Example prompt from the base
+
+Request: "one natural portrait of a ceramicist in a studio". This is what the agent returns:
+
+Vertical 4:5 editorial photograph of an adult ceramicist around forty, standing beside a wooden workbench in a small studio. Frame from the crown to mid-thigh; chest-height camera, 50 mm full-frame-equivalent lens; suggested f/4, 1/250 s, ISO 400. Keep face and working hands at similar depths; focus on the nearer eye, with the studio softly readable. Turn the torso slightly, weight on the farther leg, shoulders relaxed. One hand supports a small clay bowl from below; the other lightly touches its rim. The grip supports its weight, with natural finger occlusion. Look into camera with quiet attention. A large window on camera-left provides soft daylight; a white wall adds faint bounce from camera-right. Warm-gray linen apron, dusty terracotta, muted walls. Retain pores, individual hairs, clay traces, and linen folds. No waxy skin, sharpening halos, extra limbs, lettering, or incidental props.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+Two files, two jobs
+
+AI_PHOTOGRAPHER_SYSTEM_EN.txt — the instruction. Defines how the agent behaves: role, output modes, reference rules, shot logic, QA checklist. It goes into the system / custom instructions field.
+
+AI_PHOTOGRAPHER_KNOWLEDGE_BASE_EN.docx — the base. The reference library the agent pulls from: genres and the job of each frame, lens and aperture tables, lighting schemes and reflection control, skin, eyes, hair and materials, poses, hands and emotion, product and food, animals and locations, series building, a 6-shot photoshoot plan, prompt assembly, diagnostics, and five full example prompts.
+
+How to set it up
+Create a Project in Claude — or any agent that supports custom instructions and files.
+Paste the instruction into the project instructions.
+Upload the knowledge base as a project file.
+Write your brief in one line. Attach references if you have them and say what each one is for.
+Copy the prompt into Higgsfield — Nano Banana, Soul, Seedream, whatever you're generating in.
+
+The instruction works on its own. The base makes the choices of light, lens and pose sharper.
+
+Download
+
+Both files are below. Try it and tag me with what you shoot — I'm curious what you'll make.
+
+AI_PHOTOGRAPHER_SYSTEM_EN.txt
+TXT
+
+
+
+
+AI_PHOTOGRAPHER_KNOWLEDGE_BASE_EN.docx
+DOCX

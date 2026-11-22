@@ -1,0 +1,519 @@
+【项目】I TESTED CLAUDE MOTION AT 3 DIFFICULTY LEVELS — CAN IT MAKE A HIGGSFIELD-STYLE LAUNCH VIDEO?（@adilinthewildtempo · 创作者博客）
+【链接】https://higgsfield.ai/zh/@adilinthewildtempo/blogs/i-tested-claude-motion-at-3-difficulty-levels-can-it-make-a-higgsfield-style-launch-video
+【捕获】2026-10-30（浏览器全文抓取·二次）
+
+──────────────────────────────────────
+
+I TESTED CLAUDE MOTION AT 3 DIFFICULTY LEVELS — CAN IT MAKE A HIGGSFIELD-STYLE LAUNCH VIDEO?
+A
+@adilinthewildtempo
+9.7K
+11
+6
+
+Watch the full walkthrough first: Watch the video.
+
+
+
+Want to make motion videos like these? Start with our two Claude skills, then copy a brief below. The examples cover launch films, 3D product ads, SaaS demos, and an animated explainer, with Claude building the editable motion and Higgsfield generating footage and voices where needed.
+
+Each brief combines the original request with its follow-up revisions, so you can request the complete version in one message.
+
+Before You Start
+
+To make motion videos like these, use our two Claude Skills.
+
+higgsfield-motion-claude — our core motion skill. It trains Claude to match your exact brand style, so every video looks like yours.
+
+higgsfield-motion.skill
+SKIL
+
+
+
+
+higgsfield-motion-saas — made for SaaS and app launch videos. Plug in your product screenshots, and it guides the UI animations and camera moves for you.
+
+higgsfield-motion-saas.skill
+SKIL
+
+
+
+
+Then set up Claude:
+
+Upload both skills under Customize → Skills.
+Connect Higgsfield under Connectors — that's how Claude generates footage, characters, locations and voices.
+Open a new chat, choose Opus 5.5 as the model, then go to Artifacts and choose Motion.
+Attach your references, paste a prompt from below, and send.
+
+Two things matter most. References: a video, a link or a few screenshots tell Claude more than any adjective. And detail: "make a stunning video" gives the model nothing to work with — framing, timing, transitions and your brand's hex codes do.
+
+Launch Films
+Case 1 — Recreate a Launch Video with New Footage
+
+What it does: Rebuilds the reference's interface animation in code and combines it with newly generated live-action footage. Character sheets, locations, action continuity, logo clarity, and audio quality are specified from the start.
+
+Reference: Original launch video. Attach the video file and the logo asset.
+
+
+
+
+Use higgsfield-motion-claude and higgsfield-motion-saas to recreate this ad shot by shot:
+
+https://www.instagram.com/p/Dd66aLqCbO6/
+
+Use the attached video as the frame-accurate reference.
+
+
+
+
+Match its duration, aspect ratio, framing, cut points, typing, cursor movement, camera moves, and transitions. Rebuild the chat, Finder, editor, export window, and pink desktop in code. Keep the UI, text, cursor, transitions, and timeline editable.
+
+
+
+
+Create the live-action footage through Higgsfield. Before generating the clips, generate consistent reference sheets for the character and car in Seedream on a neutral grey background. Generate empty location sheets in Soul Cinema at a three-quarter angle. Create an attractive, realistic adult woman; she does not need to look identical to the reference. Reuse the character, car, and location sheets across the relevant shots.
+
+
+
+
+Use the sheets as reference inputs without forcing each video to begin on a reference-sheet frame. Match each shot's action, composition, camera movement, and edit points. Keep the laptop open where the action requires it, place the mug in the correct hand, avoid extra people, and make the cleanup shot one continuous take. Check that props and actions remain consistent across cuts.
+
+
+
+
+Use the supplied Higgsfield logo as a clean graphic in the export scene, with correct proportions and legible lettering. Keep generated footage separate from the editable motion so either can be replaced independently. Build a clean, synchronised sound mix without clipping, distortion, or abrupt audio cuts.
+
+
+
+
+Compare the assembled result with the reference at the same absolute timecodes. Fix continuity errors, mistimed transitions, unreadable text, and distorted branding before delivery.
+
+
+
+
+Plan the shots, then continue through production and quality checks to the finished result. Do not stop at a storyboard or first preview. Deliver the final MP4, the editable code project, and organised visual and audio assets.
+
+查看全部
+复制提示词
+重新创作
+Case 2 — Combine Three References into an Original Launch
+
+What it does: Creates a new 20-second Claude Motion × Higgsfield launch film, combining the references' pacing and visual ideas with editable typography, particles, and 3D elements.
+
+References: Launch 1, Launch 2, Launch 3. Attach accessible video copies and any brand assets you want used.
+
+Use higgsfield-motion-claude and higgsfield-motion-saas to create an original launch film for Claude Motion × Higgsfield.ai.
+
+
+
+
+Study these three references:
+
+https://www.instagram.com/p/DeHzMbDidhx/
+
+https://www.instagram.com/p/Dd4VIgTq8e7/
+
+https://www.instagram.com/p/Ddw64rKK6tN/
+
+
+
+
+Combine their strongest ideas into one coherent film with an original sequence. Format: 1920×1080, 16:9, exactly 20 seconds. Make it dynamic and very smooth, with clear visual progression and a readable final brand lockup.
+
+
+
+
+Build the motion graphics in code. Use kinetic typography, a particle sphere, a moving dot grid, and a 3D fan where they support the sequence. Connect scenes through visible actions, matching shapes, and continuous camera movement. Use Higgsfield for any generated visual content placed inside the design, maintaining a consistent look across those assets.
+
+
+
+
+Keep the project organised into editable scenes and layers. Expose text, fonts, palette, individual colours, layer visibility, scale, position, and scene duration as controls. Text containers must resize correctly when copy changes. Use the supplied brand assets where available; otherwise use clean text wordmarks.
+
+
+
+
+Drive the scenes and sound from a shared timeline. Changing a scene's duration must shift subsequent scenes and update the related music and sound cues. Check that transitions still connect and text remains readable after timing changes.
+
+
+
+
+Create a finished soundtrack with music and synchronised sound effects. Check the full export for abrupt movement, particle flicker, text overflow, clipped elements, and audio sync problems.
+
+
+
+
+Plan the film and continue through the complete build, sound mix, and quality checks without stopping at a storyboard or preview. Deliver the finished 20-second MP4, editable project, controls, and separate assets.
+
+查看全部
+复制提示词
+重新创作
+Case 3 — A 3D Laptop Launch with a Bicycle Transformation
+
+What it does: Turns the reference into a 30-second 3D launch film set around one desk and laptop. The brief includes the richer materials, smoother camera, supplied branding, and bicycle substitution from the later requests.
+
+Attach: The launch reference as reference.mp4, your font files, higgsfield.webp, claude.png, and a clear bicycle reference image.
+
+Use higgsfield-motion-claude to create a polished 3D launch film for Higgsfield MCP × Claude Motion from the attached reference.mp4. Use higgsfield-motion-saas for the laptop's UI animation and connected transitions.
+
+
+
+
+Format: 1920×1080, 16:9, exactly 30 seconds. Preserve the reference's story, key copy, and edit rhythm, while rebuilding the shots in code as a 3D scene with crisp 2D interface plates. Use one desk and one laptop as the continuous setting; the story plays out through the laptop and the objects it presents.
+
+
+
+
+Use the attached fonts and the actual Higgsfield and Claude logos. Keep text and logos sharp, correctly proportioned, and editable. The supplied reference and brand assets take priority over default skill styling.
+
+
+
+
+Give the scene rich, realistic material detail, studio softbox lighting, and smooth, motivated camera movement. Add restrained light streaks, lens flares, glints, and very faint dust during compositing. Use hand-drawn transition accents where appropriate without covering the product or text.
+
+
+
+
+Extend the sequence naturally to 30 seconds with a couple of new shots that develop the existing story. Keep the flip transition continuous and smooth, with no pause in the middle or sudden change of direction.
+
+
+
+
+For the product assembly and transformation sequence, use the bicycle in the attached image instead of the truck. Build the action around recognisable bicycle components: frame, fork, wheels, handlebars, pedals, and saddle. Keep their proportions and assembly order believable. Adapt the camera framing to the bicycle's silhouette and preserve the surrounding film's lighting, materials, and motion style.
+
+
+
+
+Keep the bicycle parts, scene objects, camera animation, UI, copy, branding, and timing editable in the code project. Add music and sound effects that follow the assembly, transitions, and final reveal.
+
+
+
+
+Plan, build, render, and inspect the complete film. Fix intersections, assembly errors, abrupt camera moves, unreadable branding, and sound-sync problems. Continue to the finished result without stopping at a storyboard or preview. Deliver the final 30-second MP4, editable code project, and all supporting assets.
+
+查看全部
+复制提示词
+重新创作
+More Motion Styles
+Case 4 — An ASCII Journey Inside an App
+
+What it does: Uses ASCII and particle animation to carry the viewer through an app, transforming interface elements into a moving world before revealing the finished video.
+
+Attach: Your launch-video references and examples of the ASCII or particle style you want to use.
+
+
+
+
+Use higgsfield-motion-claude and higgsfield-motion-saas to create an original ASCII-style launch film using the attached launch and particle-animation references.
+
+
+
+
+Format: 1920×1080, 16:9, 24 seconds. Build the design, particles, ASCII forms, interface, typography, camera moves, and transitions in editable code.
+
+
+
+
+Start inside a clear, believable app interface. A visible cursor click launches the camera into the app. Interface cards become tunnels, graphs become tracks, and files assemble into a video timeline. Return to the interface and reveal the finished video as the payoff.
+
+
+
+
+Keep one continuous visual language across the sequence: a consistent glyph set, particle scale, palette, type system, and motion style derived from the references. Make each transformation grow out of the previous action. Preserve the camera's direction across transitions and leave enough time to read the important UI states.
+
+
+
+
+Generate visual content through Higgsfield for the previews, cards, and final video displayed inside the design. Integrate it into the ASCII world while keeping the interface and typography crisp. Keep these generated assets separate from the editable code layers.
+
+
+
+
+Add music and sound effects synchronised to the click, transformations, timeline assembly, and reveal. Check for glyph flicker, visual noise, unreadable text, stalled camera motion, and abrupt cuts.
+
+
+
+
+Continue from planning through production and quality checks to a complete result. Do not stop at a concept, storyboard, or preview. Deliver the finished 24-second MP4, editable project, and separate assets.
+
+查看全部
+复制提示词
+重新创作
+Case 5 — Invent a Product and Build Its 3D Launch
+
+What it does: Uses six visual references to invent a product and present it through material close-ups, bold lighting, and continuous camera movement.
+
+Attach: Six images or video references that show the materials, lighting, compositions, and movement you want.
+
+Use higgsfield-motion-claude and the six attached visual references to create an original 3D product launch film. Invent the product, its name, and the central concept. Give it a recognisable silhouette and a clear purpose that the film communicates visually.
+
+
+
+
+Create a 20-second, 1920×1080, 16:9 film. Use the references to guide realistic materials, bold lighting, fisheye close-ups, and smooth, continuous camera movement. The requested materials and reference direction take priority over the skill's default material restrictions.
+
+
+
+
+Build the product, environment, animation, lighting, and camera in code. Start with an intriguing detail, reveal the product through connected shots, demonstrate its defining feature, and finish on a clean product-and-name lockup. Use complex 3D shapes as part of one coherent composition, with clear scale, depth, and focus.
+
+
+
+
+Keep the product's shape, branding, and material properties consistent. Use motivated camera moves with controlled acceleration and deceleration; preserve movement through transitions. Keep any typography minimal and readable.
+
+
+
+
+Create an original score and synchronised sound effects in code. Match the musical accents to the camera moves, product action, and final reveal.
+
+
+
+
+Keep scene objects, materials, lights, camera paths, text, and timing editable. Inspect the rendered film for intersections, texture flicker, broken reflections, abrupt camera movement, and audio-sync errors, and correct them before delivery.
+
+
+
+
+Make the necessary creative decisions and continue through planning, production, sound, and quality checks without stopping at a storyboard or preview. Deliver the finished MP4, editable code project, and separate audio files.
+
+查看全部
+复制提示词
+重新创作
+Case 6 — A SaaS Launch with Detailed, Editable UI
+
+What it does: Creates a 15-second launch for a fictional design app, with an original identity, a consistent interface, and camera moves that follow the user's actions.
+
+Attach: Two motion references. To adapt the concept to your own app, also provide product screenshots and brand assets.
+
+
+
+
+Use higgsfield-motion-claude and higgsfield-motion-saas, together with the two attached references, to create a polished launch video for a fictional design app.
+
+
+
+
+Invent the app's name, branding, and colour palette. Format: 1920×1080, 16:9, exactly 15 seconds. Build the full film in editable code.
+
+
+
+
+Create one believable design workspace with a consistent sidebar, canvas, toolbar, property panels, rulers, selection frames, and cursor. Show a short, understandable workflow: select an object, change its design properties, reveal the improved composition, and finish with the app's name and a clear call to action.
+
+
+
+
+Use bold typography and detailed UI. Keep object names, selections, values, and document content consistent from shot to shot. Make every cursor action produce the correct visible response. Generate depth with camera movement inside the workspace, layered interface elements, and controlled perspective.
+
+
+
+
+Make the motion dynamic but smooth. Connect scenes through UI morphs, object carries, and motivated fly-throughs. Preserve movement direction across cuts, overlap related actions, and avoid sudden stops or disconnected floating cards. Keep the main action and essential text readable throughout.
+
+
+
+
+Expose the copy, fonts, palette, UI content, layer positions, scale, and scene timings as editable controls. Text containers should adapt to their contents. Use a shared timeline so timing changes update connected scenes and audio cues.
+
+
+
+
+Add a finished music and sound-effects mix, with precise cursor clicks, selection accents, and transition sounds. Inspect the export for UI inconsistencies, unreadable labels, text overflow, awkward camera movement, and sync errors; fix these before delivery.
+
+
+
+
+Plan and complete the film without stopping at a storyboard or first preview. Deliver the finished 15-second MP4, editable project, and all assets.
+
+查看全部
+复制提示词
+重新创作
+Animated Explainer
+Case 7 — Why Does a Cat Need a Passport?
+
+What it does: Combines hand-drawn character animation and Higgsfield voices with editable passport pages, labels, and map routes. The brief includes the corrected entrance, clipboard orientation, and silent ending.
+
+Reference: Passport Rush, for staging, expressive reactions, pacing, and visual comedy.
+
+
+
+
+Use higgsfield-motion-claude to produce an original educational animated film titled “Why Does a Cat Need a Passport?” for a faceless YouTube channel.
+
+
+
+
+FORMAT
+
+1920×1080, 16:9, 24 fps, exactly 30 seconds. All dialogue, narration, and on-screen text must be in English. No on-camera presenter.
+
+
+
+
+REFERENCE AND STYLE
+
+Use Passport Rush for cinematic staging, expressive reactions, pacing, and visual comedy:
+
+https://youtu.be/ZncA70OAgPw
+
+Create original characters and a self-contained story. Use hand-drawn 2D animation throughout: confident outlines, flat colours, hand-drawn shadows, warm airport lighting, and lightly textured backgrounds. Animate characters and props. Avoid 3D, photorealism, and static-image slideshows. This art direction takes priority over the skill's launch-film defaults.
+
+
+
+
+CHARACTERS
+
+A slightly flustered young adult female traveller and her calm striped cat, who is better prepared than she is. Establish consistent reference sheets first, with expressive faces and readable silhouettes, and reuse them throughout.
+
+
+
+
+HIGGSFIELD PRODUCTION
+
+Generate the character animation, narration, and dialogue through Higgsfield. Use a warm, clear narrator with playful documentary delivery and distinct, consistent traveller and agent voices. Generate separate scene takes, measure their actual durations, and establish the audio timeline before animating. Preserve natural pacing and joke pauses; regenerate takes that do not fit their windows.
+
+
+
+
+Use Higgsfield for character sheets, expressions, backgrounds, documents, and props where useful, maintaining the same 2D style. Build the passport pages, map routes, labels, and document text in editable code so the English remains accurate and readable. Keep generated character clips separate from these editable graphics.
+
+
+
+
+STORYBOARD — USE THIS EXACT DIALOGUE
+
+
+
+
+0–4s — Hook
+
+The traveller approaches the check-in counter with one grounded final step and a clear stop. No floating, frozen jump, or sliding feet. She puts her passport down; the camera pulls back on that action. The agent points at the carrier. Cut to the cat slowly raising an eyebrow.
+
+Agent: “Your passport… and the cat’s?”
+
+Traveller: “The cat’s?!”
+
+
+
+
+4–8s — Reveal
+
+The cat slides out a tiny folder. A pet passport unfolds to fill the screen and becomes the explanation's setting.
+
+Narrator: “Yes. For travel within the EU, there’s a pet passport.”
+
+
+
+
+8–14s — Identification
+
+Passport pages transform into a diagram showing the cat's silhouette, identifying details, and microchip. A scanner reads a number; its match lights up in the document. The cat proudly poses for an imaginary photograph.
+
+Narrator: “It records the animal’s details and microchip number, linking this cat to these records.”
+
+
+
+
+14–20s — Vaccination
+
+A page turns. A vaccination symbol, date, and veterinarian's entry animate neatly into place.
+
+Narrator: “It also records the rabies vaccination, so officials can check that it’s valid.”
+
+
+
+
+20–24s — Important detail
+
+The page unfolds into a map: two routes lead to different document sets. The cat checks his route against a checklist on a clipboard. The paper faces the cat, and the pencil tip touches the paper, not the clip. Keep paws and props correctly aligned throughout the action.
+
+Narrator: “Other routes may require different documents. Check before you travel.”
+
+
+
+
+24–30s — Payoff
+
+Back at check-in, the traveller fumbles with crumpled papers. The cat opens a perfectly organised folder with coloured tabs and adjusts tiny glasses.
+
+Traveller: “You’re more prepared than I am.”
+
+The cat gives a confident meow. After the traveller's line, keep her mouth closed during the silent reaction while preserving her expression. Hold the reaction, then finish with a musical accent.
+
+
+
+
+ANIMATION AND SOUND
+
+Alternate medium shots, paw and document close-ups, and reactions. Transition through folders and page turns; grow educational graphics naturally from the passport. Use anticipation, follow-through, subtle squash-and-stretch, and pauses before jokes. Keep the main action readable and lip movements aligned with the actual speech.
+
+
+
+
+Mix light adventurous music beneath clear dialogue, with paper rustles, a folder click, scanner beep, and final meow.
+
+
+
+
+ACCURACY AND DELIVERY
+
+The example concerns travel between EU countries. Do not imply that a pet passport guarantees boarding or replaces every document worldwide.
+
+
+
+
+Continue through planning, asset generation, animation, compositing, sound, and quality checks to one finished film. Check character continuity, spelling, readability, grounded movement, clipboard geometry, mouth animation, and audio synchronisation. Include the corrected opening, clipboard, and ending in the main export, not only in separate previews.
+
+
+
+
+Deliver one final MP4 of exactly 30 seconds, using the generated voices, plus editable project files and organised separate audio and visual assets. Do not stop at a storyboard or first preview.
+
+查看全部
+复制提示词
+重新创作
+Ready to Make Your Own?
+
+
+Choose a case and attach your references. Give Claude the full brief with your product, branding, and required copy to build a film you can keep editing.
+
+MAKE YOUR OWN MOTION VIDEO
+Let's Create!
+
+评论6
+
+aryan123sabarwal
+1d
+thanks adil😀
+回复
+abramovicpencil1569
+1w
+💝
+回复
+venkatasivatella
+1w
+Thank you guys
+回复
+hirstgem2217
+2w
+how much credits this spend?
+回复
+dreamingpenguin1588
+2w
+thanks guys and can i have a free unlimtied sccount i have many ideas and i want to work with you guys and make for you ads for all my people knows i want make my ideas real |!!!
+回复
+dreamingpenguin1588
+2w
+thamks
+回复
+
+© 2026 Higgsfield, Inc. 保留所有权利。
+
+帮助中心
+Cookie 声明
+Cookie Settings
+条款
+隐私
+报告漏洞

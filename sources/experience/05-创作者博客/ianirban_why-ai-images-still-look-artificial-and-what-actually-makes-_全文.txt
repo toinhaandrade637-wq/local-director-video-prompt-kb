@@ -1,0 +1,209 @@
+【项目】WHY AI IMAGES STILL LOOK ARTIFICIAL — AND WHAT ACTUALLY MAKES THEM FEEL REAL（@ianirban · 创作者博客）
+【链接】https://higgsfield.ai/@ianirban/blogs/why-ai-images-still-look-artificial-and-what-actually-makes-them-feel-real
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+WHY AI IMAGES STILL LOOK ARTIFICIAL — AND WHAT ACTUALLY MAKES THEM FEEL REAL
+I
+Anirban
+@ianirban
+28
+22
+0
+
+Realism isn’t about adding more detail. It’s about making the details agree.
+
+You’ve probably seen an image like this: beautiful lighting, sharp eyes, impressive skin texture. At first glance, it looks like a photograph.
+
+Then something feels off.
+
+The person’s coat is dry despite the rain. Their fingers touch a cup without really gripping it. The room is dim, but their face seems lit by an invisible studio light.
+
+Each part looks convincing on its own. Together, they don’t quite belong.
+
+When that happens, adding “ultra-realistic” to the prompt rarely addresses the actual problem. A more useful approach is to think like a photographer directing a scene: what is happening, where is the light coming from, and how does the environment affect the person?
+
+Here are the decisions that make the biggest difference.
+
+1. Give the scene circumstances, not just a style
+
+“A beautiful woman outside a café” describes a subject and a location. It doesn’t explain much about the moment.
+
+Has she just arrived? Has she been waiting in the cold? Is she watching for someone?
+
+Those circumstances affect posture, clothing, expression, and movement. They give the model something specific to communicate.
+
+Compare these two directions:
+
+A beautiful, flawless, cinematic portrait of a woman outside a café.
+
+A woman waiting outside a small café on a cold, overcast morning. She pulls one sleeve over her fingers and watches the street, with a few strands of hair blown across her forehead.
+
+The second version doesn’t need a dramatic expression. Her behavior tells us what the weather feels like and what she’s doing.
+
+This isn’t a rule that everyone needs wrinkles, messy hair, or tired eyes. A polished fashion portrait can be completely believable. The question is whether the details fit the situation.
+
+2. Explain the light before asking for “cinematic lighting”
+
+
+
+
+Image 1 — Place here, under the lighting heading. Available light on the left; additional softbox lighting on the right. Pose and framing also change, so this illustrates lighting differences rather than a controlled comparison. 
+
+
+
+
+ Photo: Alex / Wikimedia Commons, CC BY-SA 2.0. 
+
+“Cinematic lighting” leaves a lot for the model to decide. Sometimes those decisions work beautifully. Sometimes you get several attractive effects that don’t make sense together.
+
+Start with three questions:
+
+Where is the main light?
+Is it a broad source or a small source?
+What nearby surfaces could reflect it?
+
+A broad window can produce soft transitions across a face. Direct sunlight can create sharply defined shadows. A pale wall can bounce light into an otherwise shaded area.
+
+Instead of stacking lighting adjectives, describe the space:
+
+A man sitting beside an apartment window on an overcast afternoon. Soft daylight enters from camera-left. A pale wall reflects a little light onto the shaded side of his face, while the back of the room remains dim.
+
+When reviewing the result, follow that light through the image. Check the face, clothing, furniture, and reflections. They should feel like parts of the same room.
+
+Dramatic lighting is welcome. It just needs a believable reason to exist.
+
+3. Pay attention to where things touch
+
+Some of the most revealing problems happen at the boundaries between objects.
+
+A hand may look fine until you notice how it holds a glass. A person may sit naturally, but the cushion beneath them remains perfectly flat. A bag hangs from a shoulder without pulling on the fabric.
+
+These are small details, but they communicate weight.
+
+Try describing contact directly:
+
+A tired man leans forward on an old fabric sofa, elbows resting on his knees. Both hands wrap around a ceramic mug, and the seat cushion compresses beneath him.
+
+That gives the model physical relationships to resolve.
+
+Before finishing an image, look closely at whatever carries weight or makes contact: fingers around handles, shoes against the ground, straps over shoulders, bodies against furniture.
+
+Texture can make an object look convincing. Contact makes it feel present.
+
+4. Choose what the background needs to tell us
+
+
+
+
+Image 2 — Place here, under this heading. Greater depth of field on the left; shallower depth of field on the right. 
+
+
+
+
+ Image: MikeRun / Wikimedia Commons, CC BY-SA 4.0. 
+
+Background blur is useful when it helps isolate something important. But it can also remove information the image needs.
+
+For a close portrait, the background may be mostly atmosphere. For someone waiting alone at a railway station, the empty platform is part of the story.
+
+If you blur that platform beyond recognition, you lose the feeling of waiting in a large, empty place.
+
+A useful prompt direction is:
+
+An eye-level environmental portrait inside a nearly empty diner. Her face is sharp, the nearby tables remain recognizable, and the far end of the room becomes gradually softer.
+
+The background now has a purpose.
+
+Choose the focus according to what the viewer needs to understand, rather than adding extreme bokeh to every image.
+
+5. Put the camera somewhere intentional
+
+
+
+
+Image 3 — Place here, under the composition heading. The shelf edges and low viewpoint lead the eye into the library. 
+
+
+
+
+ Photo: Peanutbutterlover23er21 / Wikimedia Commons, CC0 1.0.
+
+Camera position changes our relationship with the subject.
+
+Across the room, we feel like observers. At the table, we feel involved. A close frame can make a moment intimate; a wider frame can show how small someone feels within their surroundings.
+
+Composition can carry emotion without requiring the character to perform it.
+
+Imagine a woman waiting at a station. Centering her creates one kind of image. Placing her near the edge, with a long stretch of empty platform beside her, creates another.
+
+Neither is automatically better. They say different things.
+
+Before prompting, decide what the viewer should notice first—and what they should discover second. Then choose a camera position that supports that order.
+
+6. Let behavior and objects carry the emotion
+
+A sad expression doesn’t necessarily create a moving image.
+
+Consider an elderly man at a kitchen table. Two cups of tea are in front of him. One is untouched. He looks toward the empty chair opposite.
+
+There is room for interpretation, but the relationship between those details gives the viewer something to think about.
+
+A useful directing question is:
+
+What happened five seconds before this frame?
+
+Maybe someone just left. Maybe the character heard unexpected news. Maybe they’re still waiting for a person who should already be there.
+
+You don’t need to explain the entire backstory in the prompt. Choose the visible consequences: a paused gesture, an untouched object, a body turned toward a doorway.
+
+Restrained behavior often gives the audience more room to feel something.
+
+7. Build the prompt around decisions
+
+Here’s a practical example:
+
+A woman in her early thirties sits alone on a nearly empty railway platform just after midnight. She holds two paper tickets, one slightly crumpled, and looks toward the vacant seat beside her. Overhead fluorescent fixtures cast cool light across the damp concrete. Eye-level environmental framing, with the woman toward the left and the empty platform extending behind her. Ordinary travel clothes and quiet, restrained body language.
+
+Each detail has a job.
+
+The tickets suggest a situation. The vacant seat creates a question. The fixtures explain the light. The framing makes the empty space readable.
+
+For Soul 2.0, Soul Cinema, or another image model, a useful order is:
+
+Subject and action → environment → light source → camera position → supporting details.
+
+This is a working structure, not a guarantee. Models can still misinterpret clear instructions, so the generated image needs its own review.
+
+8. Fix one meaningful problem at a time
+
+If the scene feels artificial, identify the biggest reason before rewriting everything.
+
+If the face looks disconnected from the room, work on the lighting. If the image feels emotionally empty, reconsider the action. If a prop feels weightless, clarify the contact.
+
+Changing one meaningful variable makes comparisons easier to learn from, although generation variability means it isn’t a perfectly controlled test.
+
+Before publishing, check:
+
+Light: Do shadows and reflections fit the sources?
+Contact: Do objects seem held, supported, or pressed against each other?
+Camera: Can we see the information the story needs?
+Behavior: Does the pose make sense for the situation?
+Story: Is there something worth noticing beyond the surface?
+
+Look at the image both at full size and as a thumbnail. Those views reveal different problems.
+
+These checks help create more coherent images. They aren’t a reliable test for detecting AI: real photographs can look unusual, and generated images can look convincing.
+
+The next time a frame feels artificial, try asking:
+
+What part of this moment doesn’t make sense yet?
+
+That question gives you something concrete to improve.
+
+Sources and further reading
+Northwestern / Kellogg Insight — 5 Telltale Signs That a Photo Is AI-generated
+Higgsfield — Soul 2.0 vs Nano Banana Pro
+Higgsfield — Soul Cinema Preview

@@ -1,0 +1,151 @@
+【项目】HOW I MADE "THUGGPAPI": A HAND-PAINTED HOOD HOME VIDEO FROM TEXT ALONE（@bandoowner · 创作者博客）
+【链接】https://higgsfield.ai/@bandoowner/blogs/copy-of-how-i-made-thuggpapi-a-hand-painted-hood-home-video-from-text-alone
+【提示词块】9
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I MADE "THUGGPAPI": A HAND-PAINTED HOOD HOME VIDEO FROM TEXT ALONE
+@bandoowner
+145
+1
+0
+
+Twenty-five seconds. Eight shots. 4:3. Every frame generated in Seedance 2.5 from text only: no reference images, no keyframes, no image-to-video, no character sheets. The result looks like someone filmed an oil painting on a camcorder in the middle of a block party. This post walks through how it was built, what I locked and what I let go of, and gives you a simplified version of every prompt so you can run the same idea yourself.
+
+The idea
+
+The verse is about a crew, dreams, and what money does to your head. I did not want to illustrate the lyrics line by line. Instead I built a set of ordinary neighborhood scenes and gave each one a single surreal flex: gold chains instead of Halloween candy, a horse in high-top sneakers, a school bus made of solid gold, a stingray drifting through a subway car, a chain ceremony on the sidewalk, a water-gun standoff with a cop car. One image per shot, two to four seconds each, hard cuts, no transitions.
+
+Before writing a single prompt I set a few rules and never broke them:
+
+The world is one specific neighborhood in a US city, and everyone in frame belongs to it, down to the extras and the reflections in the windows.
+Street style and swagger first, surrealism second. Nothing glossy, nothing that looks like a car commercial.
+The camera is a friend with a camcorder. Handheld, eye level, small shake, quick optical zooms.
+No VHS filters, no glitch, no datamosh. The texture comes from paint, not from fake tape damage.
+The look: three textures boiled into one paragraph
+
+I wanted painting, not CGI. Three textures were in my head:
+
+Oil on canvas: thick brushstrokes, impasto, faces chopped out of three or four color strokes, a poisonous palette sitting on deep black.
+Night neon: stretched long-limbed figures, a city painted in light rather than in geometry.
+Comic-book print: halftone dots in the shadows, ink outlines, slight CMYK misregistration, motion that feels like it is animated on twos.
+
+The important decision was to not name any film, studio or artist in the prompt. I described the techniques in plain words. That transfers more reliably than hoping the model knows a title, and it gives you control over which part of a look you actually want. This became the style block that opens every single prompt in the project:
+
+Hand-painted animation. Thick oil brushstrokes and impasto texture, faces cut out of a few bold color strokes, halftone dots and ink outlines in the shadows, slight CMYK misregistration on the edges, motion that feels animated on twos. Poison-bright palette of magenta, acid green, teal and polished gold sitting on deep black. Night neon or one harsh light source. Handheld home-video camera held by a friend: small shake, quick optical zooms, eye level. Black neighborhood in a US city, all-Black cast including extras. No glitch, no VHS, no CGI gloss, no readable text. 4:3.
+
+See all
+Copy prompt
+Recreate
+
+Everything below is written as "STYLE BLOCK + scene". In the actual generation the paragraph was pasted in full every time, word for word. Repetition is the consistency mechanism when you have no reference images.
+
+Why text-to-video only
+
+This was the biggest bet. The usual way to keep a look consistent across shots is to build assets first: character sheets, location plates, a style frame, then animate from those. I skipped all of it.
+
+Three reasons:
+
+Image-to-video tends to leave a "photo pasted into a painting" feeling. A locked first frame fights the brushstroke motion instead of feeding it.
+The video is a neighborhood, not a protagonist. Different faces in every shot are a feature. What has to stay consistent is the paint, the palette, the camera and the light, and all of that lives in words.
+Speed. Eight shots, one prompt each, no asset stage.
+
+What holds it together: the same style paragraph verbatim, the same five color words, the same camera sentence, the same aspect ratio. Seedance 2.5 at 1080p in 4:3. I generated short clips and cut them down to the best two to four seconds in the edit.
+
+Scene by scene
+Shot 1: Trick-or-treat
+
+Five boys in balaclavas at an apartment door, sacks open like it is Halloween. The door opens on a big man in a purple satin robe with a gold grill, and he drops fistfuls of gold chains into the youngest kid's sack. The boys pull the masks off and grin at the camera with matching grills. This is the thesis of the whole video in four seconds.
+
+STYLE BLOCK. Dim apartment hallway with magenta and green walls. Five young Black boys stand in a row in front of a dark door: solid-color t-shirts, black balaclavas, thick gold curb chains, open canvas sacks. Camera behind them, handheld. The door opens and warm yellow light spills out: a tall broad man in a purple satin bathrobe, black durag and gold grill smiles down at them. Quick zoom in as he drops fistfuls of gold chains and rings into the smallest boy's sack. Cut back wide: the boys pull off their masks and grin at the camera, every one of them wearing a gold grill.
+
+See all
+Copy prompt
+Recreate
+Shot 2: The horse in sneakers
+
+A pure image shot. A black horse gallops down a residential street at sunset wearing red, black and white high-top sneakers, and three guys on a bench just watch it go by like it is a normal Tuesday.
+
+STYLE BLOCK. Sunset on a residential street, brick building washed in red light, chain-link fence. A black horse gallops left to right across the asphalt wearing red, black and white high-top basketball sneakers on all four hooves. Three men in dark hoodies sit on a green park bench in the background and watch it pass without reacting. Side tracking shot, handheld, the camera struggles slightly to keep up.
+
+Copy prompt
+Recreate
+Shot 3: The gold school bus
+
+A school bus made of polished gold, teal windows, pulls up in the dark. The doors fold open, a driver in a black cap and sunglasses looks out, and kids in magenta puffer jackets and black face masks climb aboard.
+
+STYLE BLOCK. Night, a street corner against deep black. A school bus made entirely of polished reflective gold with teal-tinted windows pulls up and stops. The folding doors open: the driver wears a black cap and dark sunglasses. Children in bright magenta puffer jackets, jeans, pink sneakers and black face masks climb aboard one by one. Handheld from the sidewalk, slow zoom toward the open door.
+
+Copy prompt
+Recreate
+Shot 4: The subway aquarium
+
+Green fluorescent subway car. A girl in a teal puffer with braids and big headphones, guys in dark green hoodies with chains. A big pink fish floats through the air dripping water, then a golden stingray sinks down from the ceiling and everyone looks up.
+
+STYLE BLOCK. Interior of a subway car, glowing sick-green fluorescent light, black void outside the windows. A young Black woman with braids, big headphones and a teal puffer jacket sits between young men in dark green hoodies and gold chains. A large cartoonish pink fish floats slowly through the air of the car, dripping water. A golden stingray glides down from the ceiling and looks at the passengers. They look up, startled; the woman pulls her headphones down. Frontal flat composition, handheld, slight zoom on the stingray.
+
+See all
+Copy prompt
+Recreate
+Shot 5: Rooftop robes
+
+Night rooftop over a neon skyline. The shot starts tight on a hot-pink silk slip dress and a boombox on the ledge, then pans right to three women in pink silk robes and bonnets laughing and drinking.
+
+STYLE BLOCK. Night rooftop. Start close on the midsection of a Black woman in a hot-pink silk slip dress, a vintage boombox on the ledge beside her. Handheld pan right to reveal three women in pink and blue satin robes and matching hair bonnets sitting on the roof ledge, laughing and drinking. Behind them a stylized big-city skyline painted in neon pink, yellow and green dabs against a black sky.
+
+
+
+
+Copy prompt
+Recreate
+Shot 6: The chain ceremony
+
+Under a yellow streetlamp, a line of men in dark hoodies waits on the sidewalk. A man in a purple choir robe stands behind a folding table, opens a black briefcase, lifts out an oversized gold chain and lays it around the neck of the first man like a blessing.
+
+STYLE BLOCK. Night sidewalk under one harsh yellow streetlamp, storefront with a red awning and a black iron security gate behind. A line of men in dark hoodies waits on the sidewalk. Behind a folding table stands a man in a purple choir robe. He opens a black briefcase on the table, lifts out a massive oversized gold chain with both hands and places it around the neck of the first man in a black hoodie like a blessing. Slightly low angle, handheld, halation around the streetlamp.
+
+
+
+
+See all
+Copy prompt
+Recreate
+Shot 7: The water-gun standoff
+
+Five young men against a yellow wall in early-2000s fits: baggy denim shorts, oversized white and black tees, durags, backwards caps, chains. A police cruiser sits nearby with its lights going. One of them pulls a black water gun from his waistband, hands it over, and then all five pull out neon water guns and point them at the cruiser, grinning.
+
+STYLE BLOCK. Golden hour, a bright yellow wall with hard black shadows. Five young Black men lean against the wall in early-2000s street fashion: baggy denim shorts, oversized white and black tees, durags, backwards caps, heavy gold chains. A police cruiser with flashing blue and red lights is parked nearby with an officer inside. Handheld, small zoom in: the man in the middle pulls a black water gun from his waistband and hands it to his friend. Two kids walk past a fire hydrant in the foreground. Then all five pull out neon plastic water guns in pink, green and blue and point them at the cruiser, smiling.
+
+
+
+
+See all
+Copy prompt
+Recreate
+Shot 8: The closer
+
+A woman scrubbing the hood of a hot-pink car with an enormous yellow sponge. It is the calmest image in the video, which is exactly why it works as the landing. The title "thugg PAPI" was typed in the edit, white serif and script, then a fade to black with the type holding.
+
+STYLE BLOCK. Close-up on a Black woman washing the hood of a hot-pink car with an oversized bright yellow sponge, soap foam catching the light. Warm late afternoon, black background beyond the car. Handheld, slow push in on the sponge.
+
+
+
+
+Copy prompt
+Recreate
+The edit
+
+The track is a dusty boom-bap loop, so the cut is boom-bap too: hard cuts landing on the kick, two to four seconds per shot, no transitions, no speed ramps. Each clip was generated longer than needed and I kept the best stretch. The order is not the order I generated them in; I arranged them as an escalation of flexes and then dropped the tempo for the car-wash closer. The title card lives on top of the last shot and then holds on black for a beat after the picture goes.
+
+What I learned
+Seedance will invent lettering. The table sign in shot 6 came out as gibberish, which I kept because it reads as texture in a painting. If you cannot live with that, "no readable text" in the style block cuts it down a lot.
+"Handheld home-video camera held by a friend" was the single most valuable sentence in the project. The shake, the eye level and the optical zooms all came from it, and it is what makes the paint feel filmed rather than rendered.
+Guard against gloss every time. Without "no CGI gloss" in the block, gold and puffer jackets slide toward a plastic render look.
+One gag per shot, one action per shot. Seedance handles "the door opens, he drops the gold" far better than a chain of five beats. If the scene needs more, split it into two clips and cut.
+Deep black backgrounds are your friend. They hide the model's weak spots, make the neon and gold pop, and match the impasto look where the canvas simply stops.
+Describe technique, not titles. "Faces cut out of a few bold color strokes" gets you the painted look more reliably than naming a painter or a film.
+You do not need a protagonist to have consistency. Palette, light, camera and texture carry the world; the people can change.
+Try it yourself
+
+Take the style block above, keep it word for word, and write one plain sentence of place, one of people, and one of action underneath it. Set 4:3, 1080p, Seedance 2.5, text-to-video. Generate a few takes, keep the best three seconds of each, cut on the kick. That is the whole method.

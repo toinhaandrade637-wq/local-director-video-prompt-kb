@@ -1,0 +1,1099 @@
+【项目】10 Best AI Video MCP Servers for Claude, ChatGPT and Cursor in 2026（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/best-ai-video-mcp-servers
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+10 Best AI Video MCP Servers for Claude, ChatGPT and Cursor in 2026
+Higgsfield
+Oct 20, 2026
+14 min
+Last updated: 1w ago
+
+Ten MCP servers let an AI agent generate video from Claude, ChatGPT, Cursor or a coding agent: Higgsfield, Runway, HeyGen, fal.ai, Dora, Vivideo, AITuber, OpenArt, Imagine.art and the open-source mcp-video-gen. They differ in which clients they document, whether an API key is required, and whose balance the generation hits. All facts below were checked on each vendor's own pages in October 2026.
+
+How We Compared the Servers
+
+The list includes servers that publish their own MCP documentation for at least one of Claude, ChatGPT or Cursor, plus one open-source option for self-hosting. Every server was then checked on the same criteria, taken from the vendor's own MCP page or developer docs. Facts verified October 17, 2026.
+
+Clients. Which of Claude, ChatGPT, Cursor and Claude Code the vendor documents, and how: connector URL, plugin, marketplace or CLI.
+Models. One in-house model or a multi-model catalog.
+Setup and auth. OAuth sign-in in the browser or an API key pasted into a config file.
+Billing. Credits of an existing plan or pay-per-run.
+Long renders. Whether the server returns a job ID and a status tool, so a render that takes minutes does not die on a client timeout.
+Beyond generation. Characters, audio, ad workflows, publishing.
+
+Where a vendor page does not state something, the card says so. Higgsfield takes the first slot because one connector covers a multi-model catalog together with characters, audio and ad workflows, all on one account and one plan-credit balance, with no separate API key to manage.
+
+AI Video MCP Servers at a Glance
+AI Video MCP Servers at a Glance
+
+Server
+
+	
+
+Clients (documented)
+
+	
+
+Models
+
+	
+
+Setup and auth
+
+	
+
+Billing
+
+	
+
+Best for
+
+
+
+
+Higgsfield MCP
+
+	
+
+Claude, ChatGPT, Cursor, Claude Code, Codex, OpenClaw, Hermes
+
+	
+
+35+ models and tools
+
+	
+
+Connector URL, plugin or marketplace; CLI + Skills for coding agents; no API key
+
+	
+
+Plan credits
+
+	
+
+Video, characters, audio and ads from one connector
+
+
+
+
+Runway MCP
+
+	
+
+Claude, ChatGPT, Cursor, Grok Bot, Replit
+
+	
+
+Gen-4.5 plus third-party video and image models, by plan
+
+	
+
+Connector URL or plugin; OAuth
+
+	
+
+Runway credits
+
+	
+
+Runway subscribers extending a plan into agents
+
+
+
+
+HeyGen Remote MCP
+
+	
+
+Claude, Claude Code, Cursor, Codex CLI, Gemini CLI, ChatGPT
+
+	
+
+HeyGen avatars plus heygen-video-1
+
+	
+
+Connector URL or plugin; OAuth
+
+	
+
+Plan credits
+
+	
+
+Presenter-led and translated videos in batches
+
+
+
+
+fal.ai MCP
+
+	
+
+ChatGPT, Claude, Claude Code, Codex CLI, Cursor
+
+	
+
+The fal catalog: video, image, audio, speech, 3D
+
+	
+
+OAuth relay for all documented clients; standard endpoint with FAL_KEY as a second route
+
+	
+
+Pay per model run
+
+	
+
+Developers who want raw model access and explicit queues
+
+
+
+
+Dora
+
+	
+
+ChatGPT, Claude, Cursor, Antigravity
+
+	
+
+16 models over MCP, 9 of them video
+
+	
+
+Connector URL; OAuth or API key
+
+	
+
+Coins on a paid plan
+
+	
+
+Agents that must see the cost before generating
+
+
+
+
+Vivideo MCP
+
+	
+
+Claude Desktop, Claude Code, Cursor, any MCP client
+
+	
+
+32 manual-mode models plus the auto pipeline
+
+	
+
+Hosted URL with an API key in a header, or local npx package
+
+	
+
+Usage-based
+
+	
+
+Hosted or open-source server with avatars and voices
+
+
+
+
+AITuber
+
+	
+
+Claude, ChatGPT, Cursor, Codex, Notion AI, OpenClaw, Hermes
+
+	
+
+Finished-video pipeline plus selectable models for standalone clips
+
+	
+
+Connector URL; OAuth or API key
+
+	
+
+AITuber credits
+
+	
+
+Finished narrated videos with publishing
+
+
+
+
+OpenArt MCP
+
+	
+
+Claude, ChatGPT, Cursor, Kimi
+
+	
+
+Multi-model image and video list
+
+	
+
+Connector URL or plugin; OAuth
+
+	
+
+Plan credits
+
+	
+
+Teams that keep assets in OpenArt
+
+
+
+
+Imagine.art MCP
+
+	
+
+Claude, ChatGPT, Cursor, Codex and seven more
+
+	
+
+Image, video and music catalog
+
+	
+
+Connector URL, plugin or npm installer; OAuth
+
+	
+
+Plan credits
+
+	
+
+Commerce and fashion creative pipelines
+
+
+
+
+mcp-video-gen
+
+	
+
+Any MCP client; ChatGPT documented
+
+	
+
+Whatever your ComfyUI instance loads
+
+	
+
+Self-hosted via Portainer
+
+	
+
+Your own hardware
+
+	
+
+Running your own weights behind your own endpoint
+
+1. Higgsfield MCP: One Endpoint for Claude, ChatGPT and Cursor Without an API Key
+
+Higgsfield MCP turns the models, characters and ad workflows of a Higgsfield account into tools an agent can call, billed to the credits that account already has. One endpoint, https://mcp.higgsfield.ai/mcp, works as a custom connector in Claude, an official plugin in ChatGPT and a marketplace add-on in Cursor. Coding agents go a different route: Claude Code, Codex, OpenClaw and Hermes install Higgsfield CLI with its companion skills and call it from there. You sign in with your Higgsfield account, so there is no key to create or rotate.
+
+1. Higgsfield MCP: One Endpoint for Claude, ChatGPT and Cursor Without an API Key
+
+Criterion
+
+	
+
+Detail
+
+
+
+
+Models
+
+	
+
+35+ models and tools, including Seedance 2.5, Kling 3.0, Veo 3.1, Wan 3.0, Cinema Studio 4.0 and MiniMax H3
+
+
+
+
+Clip length
+
+	
+
+Up to 30 seconds, depending on the model
+
+
+
+
+Billing
+
+	
+
+Plan credits of the signed-in account; not connected to Higgsfield API billing, which runs on its own key and a prepaid dollar balance
+
+
+
+
+Long renders
+
+	
+
+Job IDs with a long-poll tool that tracks up to twelve jobs
+
+
+
+
+Beyond generation
+
+	
+
+Soul characters, reference Elements, voiceover and dubbing, Marketing Studio, Ad Multiplier, Genjutsu, skills
+
+In our check of the MCP model catalog on October 16, 2026, the same connector covered characters, audio and ad workflows, so a Seedance clip, a Soul character and a Marketing Studio ad share one account and one credit balance. Setup steps for each client are in the Help Center article How do I connect Higgsfield to an AI agent?
+
+What to keep in mind
+
+A paid subscription is required, and every generation through the connector uses credits.
+ChatGPT has two gaps: audio generation and the Website Building skill are not available there.
+No hard credit cap per session: spending limits are a prompt-level instruction to the agent.
+
+Best for: creators who want video, characters, audio and ads from one connector inside the Higgsfield AI-native creative suite.
+
+2. Runway MCP: A Plan-Based Connector With Plugins for ChatGPT and Cursor
+
+Runway MCP connects Claude.ai, Claude Desktop, ChatGPT, Grok Bot, Cursor and Replit to a Runway account at https://mcp.runwayml.com/mcp. In ChatGPT, Grok Bot and Cursor it installs as a plugin. Elsewhere you paste the URL and sign in. No API key is needed.
+
+2. Runway MCP: A Plan-Based Connector With Plugins for ChatGPT and Cursor
+
+Criterion
+
+	
+
+Detail
+
+
+
+
+Models
+
+	
+
+Gen-4.5 plus Seedance 2.5, Kling 3.0, Veo 3.1, GPT Image 2 and Nano Banana Pro, by plan
+
+
+
+
+Billing
+
+	
+
+Runway credits, same as the Runway app
+
+
+
+
+Transport
+
+	
+
+Streamable HTTP only; SSE returns a 405 error
+
+
+
+
+Long renders
+
+	
+
+Not described on Runway's help pages
+
+
+
+
+Beyond generation
+
+	
+
+Generations saved to the Runway library
+
+Runway's own examples on the MCP page are product ads and marketing videos built from a product link. Runway Dev MCP is a separate server for API builders and does not generate media.
+
+What to keep in mind
+
+Explore Mode is not available through MCP, so every generation uses credits.
+Polling is undocumented, which matters for renders that outlast a client timeout.
+Model access depends on the plan, as Runway's FAQ states.
+
+Best for: Runway subscribers who want their existing plan available inside agents.
+
+3. HeyGen Remote MCP: Avatars, a Video Agent and Batches of 100
+
+HeyGen Remote MCP is a hosted endpoint at https://mcp.heygen.com/mcp/v1/. It is documented for Claude Web, Desktop and Code, Codex CLI, Cursor's marketplace, Gemini CLI, Lovable, Manus, Superhuman and OpenAI, and HeyGen's MCP landing page has an Add to ChatGPT button. Authentication is OAuth, and all HeyGen plans qualify.
+
+3. HeyGen Remote MCP: Avatars, a Video Agent and Batches of 100
+
+Criterion
+
+	
+
+Detail
+
+
+
+
+Models
+
+	
+
+HeyGen avatars plus one native scene model, heygen-video-1
+
+
+
+
+Billing
+
+	
+
+Web plan plus premium credits
+
+
+
+
+Long renders
+
+	
+
+Every create tool returns an ID; a matching get tool reports status
+
+
+
+
+Beyond generation
+
+	
+
+Video Agent, voice cloning, translation, lipsync, brand kits, batches of up to 100 jobs
+
+The Video Agent scripts, casts and renders from one prompt. The scene model takes text, an image or up to twelve references.
+
+What to keep in mind
+
+One vendor's models, so there is no multi-vendor catalog to switch between.
+Custom agents need whitelisting if they run on a domain HeyGen has not approved.
+The toolset is built around presenters, with one scene model for clips without an avatar.
+
+Best for: teams producing presenter-led or translated videos at batch scale.
+
+4. fal.ai MCP: Raw Model Access With Explicit Queues
+
+fal documents two routes to its model-generation server. The per-client guides for Claude, Claude Code, Codex CLI and Cursor use the OAuth relay at https://mcp.fal.ai/mcp-relay: you sign in in the browser and paste no key, and ChatGPT gets the same server as a plugin. The MCP overview page still show the standard endpoint https://mcp.fal.ai/mcp with a FAL_KEY in the client config for Claude Code, Claude Desktop, Cursor and Windsurf. A separate genmedia CLI uses a local API key as well.
+
+4. fal.ai MCP: Raw Model Access With Explicit Queues
+
+Criterion
+
+	
+
+Detail
+
+
+
+
+Models
+
+	
+
+The fal catalog: image, video, audio, speech, 3D and language models
+
+
+
+
+Billing
+
+	
+
+Free server; each model run billed at direct API prices
+
+
+
+
+Concurrency
+
+	
+
+2 concurrent requests on a new account, up to 40 with credit purchases
+
+
+
+
+Long renders
+
+	
+
+submit_job, check_job and get_job_result, with poll_after_seconds
+
+
+
+
+Beyond generation
+
+	
+
+get_pricing before a run, upload_file, cancel_job
+
+The docs are explicit about video: use submit_job then check_job from the start, and avoid resubmitting to check progress, because each resubmission is a new billable job.
+
+What to keep in mind
+
+Outputs are raw, so characters, audio tracks and ad formats are assembled by you.
+Eleven tools cover discovery, pricing, queues and uploads; the agent picks among them.
+Team credits require selecting an Active MCP account in fal's settings.
+
+Best for: developers who want the fal catalog inside an agent and control over the queue.
+
+5. Dora: Sixteen Models With the Cost Shown Before Generating
+
+Dora is a hosted server at https://doravideo.com/mcp for ChatGPT, Claude, Cursor and Google Antigravity. Authentication is OAuth 2.1 or a static API key. The server exposes four tools on purpose: list_models, generate_video, generate_image and check_job.
+
+5. Dora: Sixteen Models With the Cost Shown Before Generating
+
+Criterion
+
+	
+
+Detail
+
+
+
+
+Models
+
+	
+
+16 over MCP, 9 of them video: Grok Imagine 1.5, Seedance 1.5 Pro and 2, Kling 2.6, Veo 3 Fast
+
+
+
+
+Billing
+
+	
+
+Coins on a paid plan or credit pack; no free tier
+
+
+
+
+Long renders
+
+	
+
+generate_* returns a job ID; check_job returns the file
+
+
+
+
+Beyond generation
+
+	
+
+Motion transfer with Kling 2.6; native audio on four models
+
+Dora shows cost before generation. list_models returns the coin cost of every model, sorted cheapest first, and coins are refunded automatically when a job fails. Dora's page states its figures were verified on September 5, 2026.
+
+What to keep in mind
+
+No public REST API, so access is the web app, the iPhone app or MCP.
+No publishing or scheduling; Dora returns files you post yourself.
+Costs are defaults, so longer or higher-resolution clips cost more than list_models shows.
+
+Best for: agents that need to compare and approve cost before each generation.
+
+6. Vivideo MCP: A Hosted Server or an Open-Source Package, With Avatars and an Auto Pipeline
+
+Vivideo’s developer docs lead with the hosted server: point Claude Desktop, Claude Code, Cursor or any MCP client at https://api.vivideo.ai/mcp with your API key in the Authorization header, and there is nothing to install. The same 13 tools also ship as an npm package, npx -y @vivideo/mcp, for anyone who wants to run the server locally with the key in the env block. The package is open source under MIT.
+
+6. Vivideo MCP: A Hosted Server or an Open-Source Package, With Avatars and an Auto Pipeline
+
+Criterion
+
+	
+
+Detail
+
+
+
+
+Models
+
+	
+
+32 manual-mode models plus the vivideo-auto pipeline
+
+
+
+
+Billing
+
+	
+
+Usage-based, per second, per model and per resolution; failed renders refunded
+
+
+
+
+Long renders
+
+	
+
+wait_for_video tool, plus estimate_credits before a run; on the hosted server each wait call is capped at about 20 seconds and returns timed_out so the agent calls again
+
+
+
+
+Beyond generation
+
+	
+
+Avatars, voices, brand kits; auto mode produces a 5 to 300 second avatar video with script, voiceover and captions
+
+Thirteen tools are listed, from create_auto_video to list_models. Vivideo documents nine agent skills that teach an assistant to check credits first and avoid duplicate renders.
+
+What to keep in mind
+
+An API key lives in the config file; there is no OAuth path.
+No ChatGPT setup guide is published; Vivideo’s ChatGPT presence is a separate GPT, not the MCP server.
+The catalog lists Seedance 2.0, with newer versions not yet in the API table.
+
+Best for: builders who want an auditable open-source server with avatars and voices.
+
+7. AITuber: Finished Narrated Videos and Standalone Clips Published From the Chat
+
+AITuber is a hosted server at https://mcp.aituber.app. It is documented for Claude (Desktop, claude.ai and Claude Code with one connector), ChatGPT through a developer-mode custom connector, Cursor, Codex, Notion AI, OpenClaw and Hermes. You sign in with your account, or pass an API key as a header for unattended agents.
+
+7. AITuber: Finished Narrated Videos and Standalone Clips Published From the Chat
+
+Criterion
+
+	
+
+Detail
+
+
+
+
+Models
+
+	
+
+A finished-video pipeline that picks the model for you, plus standalone clips where the agent lists and selects the clip model
+
+
+
+
+Billing
+
+	
+
+Free server; videos charged in AITuber credits; 100 free credits on signup
+
+
+
+
+Long renders
+
+	
+
+Generate and poll tools against the AITuber API
+
+
+
+
+Beyond generation
+
+	
+
+1,300+ voices, music videos, character and avatar templates, reusable elements, export, publishing to YouTube, TikTok, Instagram, Facebook, Threads and X
+
+AITuber’s own FAQ draws the line this way: it returns a finished narrated video, while model servers such as fal.ai return raw clips. The server also has a create_clip tool for one standalone clip of 1 to 30 seconds without narration, and a clip-models endpoint that lists the available models with their costs. Videos run from 15-second Shorts to 20 minutes.
+
+What to keep in mind
+
+Less model control in full videos: the pipeline handles script, voice, visuals, captions and assembly, so you do not pick a different model per shot.
+Standalone clips need a paid plan and are capped at 30 seconds each.
+ChatGPT needs developer mode for the custom connector.
+
+Best for: channels that want a narrated, captioned video published from one prompt.
+
+8. OpenArt MCP: Library and Projects Inside the Agent
+
+OpenArt's connector at https://mcp.openart.ai/mcp is documented for Claude as a custom connector, ChatGPT as a plugin activated with @OpenArt, Cursor through mcp.json, Kimi as a plugin, and other agents over Streamable HTTP. Authentication is OAuth, with no API key.
+
+8. OpenArt MCP: Library and Projects Inside the Agent
+
+Criterion
+
+	
+
+Detail
+
+
+
+
+Models
+
+	
+
+OpenArt's list, including Kling 3 Omni, Grok Imagine 1.5, Seedance 2.0, Wan 2.7 and PixVerse V6
+
+
+
+
+Billing
+
+	
+
+The same credits as on openart.ai
+
+
+
+
+Long renders
+
+	
+
+Results return to the conversation and save to the OpenArt library
+
+
+
+
+Beyond generation
+
+	
+
+Projects, library reuse, external references by URL, balance check
+
+For Claude Code and Codex, OpenArt itself points to its CLI with openart login.
+
+What to keep in mind
+
+Character and Smart Shot are on the roadmap and are listed as unavailable through MCP for now.
+Managed workspaces on Claude Team or ChatGPT Business need an admin to add the connector first.
+Naming OpenArt in the prompt is recommended when several MCP servers are connected.
+
+Best for: teams that already keep their assets and projects in OpenArt.
+
+9. Imagine.art MCP: 96 Tools and Eleven Clients From Two Commands
+
+Imagine.art MCP runs at https://mcp.imagine.art. Two commands, npm i -g @imagineartofficial/mcp and imagine install, set it up in eleven clients: Claude, Claude Code, Cursor, Codex, VS Code, Windsurf, Cline, Gemini CLI, Hermes, OpenClaw and Grok. ChatGPT uses a plugin from the directory. Claude on the web needs only the URL. Authentication is OAuth.
+
+9. Imagine.art MCP: 96 Tools and Eleven Clients From Two Commands
+
+Criterion
+
+	
+
+Detail
+
+
+
+
+Models
+
+	
+
+Image, video and music catalog; images up to 4K, music tracks of around thirty seconds
+
+
+
+
+Billing
+
+	
+
+The same credits as the imagine.art platform
+
+
+
+
+Long renders
+
+	
+
+Asynchronous jobs; the agent polls and delivers the file
+
+
+
+
+Beyond generation
+
+	
+
+Ad Studio, Fashion Studio, product and brand pipelines, upscaling, background removal
+
+Seven tools cover the common requests. The other 89 are job-specific, from UGC avatars to 3D logo animation.
+
+What to keep in mind
+
+Clips run five or ten seconds, depending on the model.
+96 tools is a long list, so the agent may need steering toward the right one.
+Some pipelines need desktop apps, such as Photoshop or After Effects, installed locally.
+
+Best for: commerce and fashion teams running creative pipelines through an agent.
+
+10. mcp-video-gen: Your Own Weights Behind Your Own Endpoint
+
+mcp-video-gen is an Apache-2.0 project on GitHub for people who want to run their own models. It is a self-hosted server, deployed through Portainer from a single video-mcp.yml stack, and it can expose a local ComfyUI instance and, optionally, a host-installed Blender.
+
+10. mcp-video-gen: Your Own Weights Behind Your Own Endpoint
+
+Criterion
+
+	
+
+Detail
+
+
+
+
+Models
+
+	
+
+Whatever your ComfyUI instance loads; Blender for renders and GLB export
+
+
+
+
+Billing
+
+	
+
+Your hardware; no vendor balance
+
+
+
+
+Long renders
+
+	
+
+ComfyUI queue, history and output inspection
+
+
+
+
+Beyond generation
+
+	
+
+FFmpeg, OpenTimelineIO timelines, subtitles, whisper.cpp transcription, Piper speech
+
+You publish it behind your own endpoint, typically through a Cloudflare Tunnel with Cloudflare Access verification. The README documents native file upload from ChatGPT.
+
+What to keep in mind
+
+No built-in generation workflows, memory or skills; quality is your ComfyUI setup.
+A single contributor maintains the project, with the last release two months before this check.
+A GPU host you administer is a prerequisite.
+
+Best for: developers who want video generation on their own infrastructure.
+
+How MCP Servers Handle Long Renders
+
+A video render usually takes longer than a single MCP call will wait, so the job model matters. The documented pattern is a job ID plus a status tool.
+
+How MCP Servers Handle Long Renders
+
+Server
+
+	
+
+Pattern
+
+
+
+
+Higgsfield
+
+	
+
+Job IDs with a long-poll tool for up to twelve jobs
+
+
+
+
+Runway
+
+	
+
+Not described on public help pages
+
+
+
+
+HeyGen
+
+	
+
+Create tools return an ID; get tools report status
+
+
+
+
+fal.ai
+
+	
+
+submit_job, check_job, get_job_result; resubmitting creates a new billable job
+
+
+
+
+Dora
+
+	
+
+generate_* returns a job ID; check_job returns the file
+
+
+
+
+Vivideo
+
+	
+
+wait_for_video in bounded calls; estimate_credits before the run
+
+
+
+
+AITuber
+
+	
+
+create tools return an ID; get_video polls status until completed
+
+
+
+
+OpenArt
+
+	
+
+Not described publicly
+
+
+
+
+Imagine.art
+
+	
+
+Asynchronous jobs; the agent polls and delivers the file
+
+
+
+
+mcp-video-gen
+
+	
+
+ComfyUI queue, history and output inspection
+
+On fal, resubmitting a generation to check progress creates a second billable job, so use the existing request ID and the status tool instead. On every other server, the documented status or wait tool is the way to follow a render, not a second generate call.
+
+Which Server Fits Which Client
+
+The table below groups the same ten servers by the client you already use. Only setups the vendor documents are listed.
+
+Which Server Fits Which Client
+
+Client
+
+	
+
+Servers with documented setup
+
+
+
+
+Claude (web, desktop)
+
+	
+
+Higgsfield, Runway, HeyGen, fal.ai, Dora, OpenArt, Imagine.art, AITuber
+
+
+
+
+ChatGPT
+
+	
+
+Official plugins: Higgsfield, Runway, HeyGen, OpenArt, Imagine.art, fal.ai. Custom connectors: Dora, AITuber
+
+
+
+
+Cursor
+
+	
+
+Higgsfield, Runway, HeyGen, fal.ai, Dora, Vivideo, OpenArt, Imagine.art, AITuber
+
+
+
+
+Claude Code
+
+	
+
+Higgsfield (CLI + Skills), HeyGen, fal.ai, Vivideo, Imagine.art, AITuber; OpenArt via its CLI
+
+
+
+
+Codex
+
+	
+
+Higgsfield (CLI + Skills), HeyGen, fal.ai, Imagine.art, AITuber; OpenArt via its CLI
+
+
+
+
+OpenClaw and Hermes
+
+	
+
+Higgsfield (CLI + Skills), Imagine.art, AITuber
+
+
+
+
+Your own weights
+
+	
+
+mcp-video-gen
+
+For Higgsfield, the documented route depends on the client: the MCP connector in Claude web and Desktop, the official plugin in ChatGPT, the Marketplace integration in Cursor, and CLI + Skills for Claude Code, Codex, OpenClaw and Hermes.
+
+What to pick comes down to the workflow. In Claude, Higgsfield covers multi-model creative production with characters and audio on one balance, HeyGen fits presenter and localization work, and fal.ai gives raw model access with an explicit queue. In ChatGPT, take the vendor’s official plugin where one exists; a pasted server URL in developer mode is the fallback for Dora and AITuber. In Cursor and Claude Code, fal.ai gives the most control over models and queues, Vivideo works through a hosted URL or a local package with an API key, and Higgsfield brings its full catalog through the Marketplace in Cursor and CLI + Skills in Claude Code. For your own weights, mcp-video-gen is the self-hosted option.
+
+Who This Is For
+
+Creators and developers who already work in Claude, ChatGPT, Cursor or a coding agent and want video as a tool call. With Higgsfield MCP, a clip generated from Claude shows up in Assets next to the ones made on higgsfield.ai, can reuse a Soul character trained there, and is paid for from one balance. Step-by-step guides exist for Claude and ChatGPT, and the full client list is on the Higgsfield MCP page.
+
+10 BEST AI VIDEO MCP SERVERS FOR CLAUDE, CHATGPT AND CURSOR IN 2026
+Connect Higgsfield MCP

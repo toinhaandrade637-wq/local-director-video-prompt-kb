@@ -1,0 +1,190 @@
+【项目】How to Restore Old Photos with AI (Full Guide)（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/restore-old-photos-ai
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+How to Restore Old Photos with AI (Full Guide)
+Higgsfield
+Aug 3, 2026
+10 min
+
+Fixing up an old, damaged photo used to mean spending hours in Photoshop yourself. Now AI does the heavy lifting: it removes scratches, sharpens up faces, and corrects the color, all in one pass. Feed it a cracked print or a blurry old scan, and a cleaned-up version comes back out. This guide walks through what that restoration actually fixes, and how to do it on Higgsfield.
+
+What AI Photo Restoration Can Fix
+
+From cracked prints to blurry scans, the tool targets the damage that ages a photo and restores clarity without changing who's in the frame. The goal isn't to reinvent the photo or guess at details that were never captured. It's to remove the specific things time and poor storage did to it: the crease that runs through someone's face, the yellow cast a decade of sun exposure left behind, the soft blur from a scan that was never sharp to begin with, the grain and dust that comes from scanning a decades-old print on a flatbed scanner never designed for archival work.
+
+This distinction matters more than it might seem at first. A restoration tool is fundamentally different from a generative tool that invents new content. Restoration works from what's actually present in the photo and removes the noise sitting on top of it, rather than filling in gaps with plausible-looking guesses. That's part of why the result still looks like the same photo, the same person, the same moment, just without the accumulated damage of however many years it spent folded in a drawer or exposed to sunlight on a shelf.
+
+What AI Photo Restoration Can Fix
+
+Damage type
+
+	
+
+What restoration does
+
+
+
+
+Scratches, creases, tears
+
+	
+
+Removes physical damage marks from the print
+
+
+
+
+Faded or yellowed color
+
+	
+
+Restores color balance and saturation
+
+
+
+
+Blur or soft focus
+
+	
+
+Sharpens detail without introducing artifacts
+
+
+
+
+Low resolution
+
+	
+
+Upscales the image up to 2x or 4x
+
+
+
+
+Poor lighting or exposure
+
+	
+
+Adjusts brightness, contrast, and light direction
+
+
+
+
+Dust and grain from scanning
+
+	
+
+Cleans up scan artifacts
+
+Each of these problems tends to compound rather than exist in isolation. A photo pulled out of an attic box after thirty years usually isn't just faded, it's faded and creased and slightly out of focus from whatever camera originally took it, which is why a single restoration pass handling several of these at once is more useful than a tool that only solves one problem at a time.
+
+How This Works on Higgsfield
+
+Higgsfield's Topaz High-Resolution Upscaler handles resolution and detail, working off a scale factor, up to x16, rather than a fixed 2K or 4K output. It's built to sharpen up damaged or low-quality images generally, blur, compression, low resolution, all the usual problems that make a photo look rough. For restoration that needs more than a resolution boost, specifically fixing color, physical damage, or overall clarity across the whole image, Nano Banana Pro and GPT Image 2 both handle that work through a prompt-based workflow rather than a single upload-and-click button, giving you more control over exactly what gets corrected.
+
+The difference between these two approaches comes down to how much you actually need to specify. A photo that's simply low-resolution or blurry and otherwise intact is a straightforward upscale job. A photo with scratches, fading, and damage all present at once benefits from the more descriptive, prompt-driven models, since you can be specific about what needs fixing rather than relying on a generic scale-based pass.
+
+The Actual Workflow: Step-by-Step Guide
+
+Topaz High-Resolution Upscaler: upload, pick a scale factor, one click. Upload the damaged photo directly, no prompt required, and choose a scale factor from x1 to x16. The tool handles scratch removal, sharpening, and upscaling automatically in a single pass, which makes it the fastest option when the photo's problems are mostly about resolution and general wear rather than anything requiring a specific creative decision.
+
+Nano Banana Pro or GPT Image 2: upload and prompt. These require a short prompt describing the restoration, though it doesn't need to be complex or technical. The same basic prompt structure works across most restoration jobs, since the model is looking for a clear description of what to fix rather than an exhaustive technical brief:
+
+Restore this old photograph while preserving the original person's identity, facial structure, expression, clothing, and historical authenticity. Remove scratches, dust, tears, stains, fading, discoloration, creases, mold, film grain, noise, blur, and compression artifacts. Reconstruct damaged or missing areas seamlessly using surrounding context without inventing new facial features or altering the person's appearance. Recover fine details in the eyes, skin, hair, clothing, and background. Correct exposure, contrast, white balance, and tonal range for a clean, natural result. Enhance sharpness and clarity while maintaining realistic textures and avoiding over-processing, oversharpening, plastic skin, or AI artifacts. Preserve the original composition, perspective, lighting, and vintage character.
+Copy
+Recreate
+
+Choose your output resolution, 1K, 2K, or 4K, before generating. 
+
+Beyond Restoration: Adjusting Light, Color, and Damage Manually
+
+If the photo doesn't need automatic restoration so much as a specific manual adjustment, a few other tools cover that ground more precisely than a general restoration pass would.
+
+Relight adjusts lighting position, color temperature, and brightness directly, useful when a photo's exposure or light direction is the main issue rather than physical damage, a portrait that was slightly underexposed, or a snapshot where the flash created harsh, unflattering shadows. Set the light direction using the quick-select positions, Top, Front, Right, Left, Back, Bottom, or drag manually to fine-tune it, choose Soft or Hard light depending on how diffused you want the result to look, and adjust brightness before generating.
+
+If a specific damaged area needs to be removed or replaced rather than the whole photo restored uniformly, Inpaint handles that directly: paint over the area you want to edit, and only that region changes. This works for damage, a torn corner, a scratch, a stain, but also for swapping objects entirely, if someone's holding a book, paint over just the book and replace it with something else, without touching anything outside that brushed area. This matters when a general restoration pass would risk smoothing over parts of the photo that never needed fixing.
+
+What This Costs
+What This Costs
+
+Tool
+
+	
+
+Approximate cost per image generation
+
+
+
+
+Topaz High-Resolution Upscaler
+
+	
+
+3 credits ($0.15)
+
+
+
+
+Relight
+
+	
+
+2 credits ($0.10)
+
+
+
+
+Inpaint
+
+	
+
+3 credits ($0.15)
+
+
+
+
+Nano Banana Pro
+
+	
+
+2K – 2 credits ($0.10) 4K – 4 credits ($0.20)
+
+
+
+
+GPT Image 2
+
+	
+
+2K – 7 credits ($0.35) 4K – 12 credits ($0.60)
+
+Who Actually Restores Photos Like This
+
+This isn't a niche use case. It spans everyone from someone with a single damaged photo to teams handling entire collections.
+
+Families holding onto memories. Wedding portraits, baby photos, snapshots of relatives who've passed, the kind of images people want repaired well enough to print, frame, or pass along to someone else in the family.
+Genealogists, archivists, and historians. Bringing faded faces and small handwritten text back into focus on old documents and portraits, work that matters for tracing family history or preserving a local archive digitally.
+Photographers and professional archivists. Working through client prints, estate collections, or historical material at real volume, where the alternative is hours of manual retouching per damaged image.
+Bringing Photos Back to Life, Old or Just Damaged
+
+Restoration used to mean either paying a specialist by the photo or spending hours manually cloning out scratches and correcting color in an editor built for general photo editing rather than restoration specifically. AI compresses that into a single upload and a short prompt, or sometimes just an upload with nothing else required, with the resolution boost, the damage removal, and the color correction all happening in one pass.
+
+None of this is limited to decades-old prints pulled out of a shoebox. The same tools fix a blurry phone photo from last year, a low-res image that got compressed one too many times, or an old family portrait with a crease running through it, the mechanics are the same whether the damage came from forty years in a drawer or a single bad export. Identify what's actually wrong with the image, whether that's physical damage, poor resolution, or bad lighting, and fix that specific thing without touching who or what is actually in the frame.
+
+None of this replaces the judgment a skilled specialist brings to an especially difficult or historically significant photo, but for the vast majority of images sitting around unusable, whether that's a water-damaged family portrait or just a photo that was never sharp to begin with, it closes the gap between "this isn't worth using" and "this is worth printing and keeping."
+
+Restoration in Brief
+AI photo restoration fixes scratches, creases, tears, faded color, blur, low resolution, and poor lighting, restoring clarity without changing who's actually in the frame
+Topaz High-Resolution Upscaler is the one-click option: upload, pick a scale factor from x1 to x16, done
+Nano Banana Pro or GPT Image 2 take a prompt-based approach for jobs needing more than a resolution boost, color correction, physical damage, or overall clarity
+Relight adjusts lighting position, color temperature, and brightness directly, for photos where exposure is the real issue
+Inpaint targets one specific area, a tear, a stain, even an object to swap out, without touching the rest of the photo
+Cost stays low across the board: Topaz and Inpaint at 3 credits, Relight at 2, Nano Banana Pro and GPT Image 2 scaling with resolution
+None of it is limited to old photos specifically, the same tools fix a recent blurry phone photo just as well as a decades-old print, since what matters is what's wrong with the image, not how old it is
+
+HOW TO RESTORE OLD PHOTOS WITH AI (FULL GUIDE)
+Restore a Photo

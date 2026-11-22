@@ -1,0 +1,267 @@
+{"project":"KAI_CENAT_SU2_VFX","idx":1,"sha8":"07e210b7","len":101,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":2,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"**红线标注删除指令**（×12 现）：remove/cleanup **all below red line/draw**. Remove foreground——红线以下全删（标注编辑）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":3,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":4,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":5,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":6,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":7,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":8,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":9,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":10,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":11,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":12,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":13,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":14,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":15,"sha8":"c6ed1408","len":578,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"**俄语完整 prompt 首例（非英语母语第九种）**：Замените открытый въезд в гараж закрытыми металлическими гаражными воротами…Бегущие люди проходят прямо сквозь сплошные ворота, **как будто это волшебный портал**, без открытия, поломки или деформации——**人穿实门如魔法传送门**+едва заметное магическое 细微魔法效果"}
+{"project":"KAI_CENAT_SU2_VFX","idx":16,"sha8":"c6ed1408","len":578,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":17,"sha8":"c6ed1408","len":578,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":18,"sha8":"668ca8cd","len":2747,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"2,747c **PRESERVE (absolute priority) 段首例**：**PRESERVE (absolute priority, no deviation)**: take <<<video_1>>> exactly as it is. The subjects' bodies, leg positions, poses, running stride, cart-pushing motion, speed, and screen position must stay **100% IDENTICAL frame-for-frame** to the source footage——**V2V 保留绝对优先段**（帧对帧 100% 相同）+**Every foot placement in every frame must match the original** 每步每帧匹配"}
+{"project":"KAI_CENAT_SU2_VFX","idx":19,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":20,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":21,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":22,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":23,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":24,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":25,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":26,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":27,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":28,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":29,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":30,"sha8":"07e210b7","len":101,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":31,"sha8":"07e210b7","len":101,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":32,"sha8":"66188ec1","len":49,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":33,"sha8":"66188ec1","len":49,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":34,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":35,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":36,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":37,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":38,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":39,"sha8":"adb43ad6","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":40,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":41,"sha8":"02e35e0a","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"**城堡归位迭代群**（×15 现）：Put this castle back to the horizon beautifully…**Compose it on hill-like**…**Clouds are puffy CGI like**…comp light and shadow **in right angle on the castle**——城堡重组+hill 构图+CGI 云+光照角度"}
+{"project":"KAI_CENAT_SU2_VFX","idx":42,"sha8":"02e35e0a","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":43,"sha8":"02e35e0a","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":44,"sha8":"02e35e0a","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":45,"sha8":"02e35e0a","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":46,"sha8":"02e35e0a","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":47,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"**isolate+B/W depth mask 首例**：**isolate STREAMER EXPRESS sign on black bg. give B/W depth mask** for same sign (on same pic, same angle, same size)——**隔离+黑白深度遮罩**（VFX 资产）×7 现"}
+{"project":"KAI_CENAT_SU2_VFX","idx":48,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":49,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":50,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":51,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":52,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":53,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":54,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":55,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":56,"sha8":"ad99172d","len":2674,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":57,"sha8":"04f1e56d","len":3069,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":58,"sha8":"66de25d9","len":163,"nTasks":1,"models":"null","read":true,"findings":"**蒸汽 VFX 迭代流水线**（×40+ 现）：add thick smoke/steam coming out under the train…**Steam lasts till end of the shot - constant steam**——蒸汽持续到末帧+**Colors from the <<<video_1>>>** 颜色取自视频+trailing along spiraling/smoke wall/make steam thicker 参数迭代"}
+{"project":"KAI_CENAT_SU2_VFX","idx":59,"sha8":"695dd860","len":35,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":60,"sha8":"06440de9","len":200,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":61,"sha8":"4e64f48a","len":120,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":62,"sha8":"09c02de7","len":41,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":63,"sha8":"4e64f48a","len":120,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":64,"sha8":"4e64f48a","len":120,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":65,"sha8":"4e64f48a","len":120,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":66,"sha8":"ddf5621f","len":157,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":67,"sha8":"0e69f298","len":233,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":68,"sha8":"0e69f298","len":233,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":69,"sha8":"de58d341","len":170,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":70,"sha8":"0db3d9ab","len":163,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":71,"sha8":"d862f589","len":95,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"**烟雾参考视频**：Add smoke and fog to the background into <<<video_1>>>. **Reference smoke/fog from <<<video_2>>>**——VFX 元素引用"}
+{"project":"KAI_CENAT_SU2_VFX","idx":72,"sha8":"6bbcce12","len":125,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":73,"sha8":"d862f589","len":95,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":74,"sha8":"66de25d9","len":163,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":75,"sha8":"d9a19e6f","len":163,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":76,"sha8":"407f4b79","len":132,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":77,"sha8":"a9f9a4ec","len":94,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":78,"sha8":"d32bd7fe","len":42,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":79,"sha8":"d862f589","len":95,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":80,"sha8":"3fa2744a","len":293,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":81,"sha8":"6bbcce12","len":125,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":82,"sha8":"66de25d9","len":163,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":83,"sha8":"0e69f298","len":233,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":84,"sha8":"5bcccf3e","len":58,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":85,"sha8":"19263602","len":206,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":86,"sha8":"d32bd7fe","len":42,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":87,"sha8":"f66f560b","len":195,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":88,"sha8":"6bbcce12","len":125,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":89,"sha8":"07e210b7","len":101,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":90,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":91,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":92,"sha8":"02e35e0a","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":93,"sha8":"1f72bb83","len":29,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":94,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":95,"sha8":"07e210b7","len":101,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":96,"sha8":"02e35e0a","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":97,"sha8":"1b83b61f","len":69,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":98,"sha8":"1f72bb83","len":29,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":99,"sha8":"66188ec1","len":49,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":100,"sha8":"1b83b61f","len":69,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":101,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":102,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":103,"sha8":"1f72bb83","len":29,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":104,"sha8":"1b83b61f","len":69,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":105,"sha8":"07e210b7","len":101,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":106,"sha8":"1f72bb83","len":29,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":107,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":108,"sha8":"1f72bb83","len":29,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":109,"sha8":"07e210b7","len":101,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":110,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":111,"sha8":"1b83b61f","len":69,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":112,"sha8":"0fe4116a","len":66,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":113,"sha8":"07e210b7","len":101,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":114,"sha8":"1f72bb83","len":29,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":115,"sha8":"1f72bb83","len":29,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":116,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":117,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":118,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":119,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":120,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":121,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":122,"sha8":"04f1e56d","len":3069,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":123,"sha8":"04f1e56d","len":3069,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":124,"sha8":"04f1e56d","len":3069,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":125,"sha8":"04f1e56d","len":3069,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":126,"sha8":"04f1e56d","len":3069,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":127,"sha8":"e2b09e4d","len":213,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"**反向运动声明**：train is moving backwards, **in opposite direction - out from perspective**…like **reverse movement**——反向+行 189：**reverse train/envorioment movement**（错拼群 evorioment/directrion/troug/exacts/sligth）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":128,"sha8":"7f19b551","len":102,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":129,"sha8":"06440de9","len":200,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":130,"sha8":"d862f589","len":95,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":131,"sha8":"06440de9","len":200,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":132,"sha8":"d862f589","len":95,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":133,"sha8":"0a28862f","len":127,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":134,"sha8":"3fa2744a","len":293,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":135,"sha8":"c4252b09","len":162,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":136,"sha8":"695dd860","len":35,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":137,"sha8":"06440de9","len":200,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":138,"sha8":"12785be6","len":208,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":139,"sha8":"cc544fb4","len":325,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":140,"sha8":"de58d341","len":170,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":141,"sha8":"f66f560b","len":195,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":142,"sha8":"12785be6","len":208,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":143,"sha8":"c4252b09","len":162,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":144,"sha8":"3fa2744a","len":293,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":145,"sha8":"d32bd7fe","len":42,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":146,"sha8":"26ba2aaf","len":105,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":147,"sha8":"6bbcce12","len":125,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":148,"sha8":"4e64f48a","len":120,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":149,"sha8":"693f8806","len":169,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":150,"sha8":"5bcccf3e","len":58,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":151,"sha8":"0e69f298","len":233,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":152,"sha8":"a9f9a4ec","len":94,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":153,"sha8":"a9f9a4ec","len":94,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":154,"sha8":"09c02de7","len":41,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":155,"sha8":"4e64f48a","len":120,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":156,"sha8":"695dd860","len":35,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":157,"sha8":"a9f9a4ec","len":94,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":158,"sha8":"4cfe7a4e","len":73,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":159,"sha8":"9dc16004","len":70,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":160,"sha8":"02c73d16","len":94,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"**坏 VFX 修复指令首例**：**Fix the bad VFX.** Clean and smooth \"**going through wall vfx**\" in <<<video_1>>> (**first 3 seconds**)——穿墙 VFX 前 3 秒清理"}
+{"project":"KAI_CENAT_SU2_VFX","idx":161,"sha8":"407f4b79","len":132,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":162,"sha8":"d862f589","len":95,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":163,"sha8":"66de25d9","len":163,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":164,"sha8":"b8d841ac","len":171,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":165,"sha8":"d0db5e34","len":170,"nTasks":1,"models":"kling-video-edit","read":true,"findings":"**kling-video-edit 模型+俄语括注**：<<<video_1>>> мне нужно что бы все оставалось так же как в исходном видео - кроме того что - поезд едит в сторону кадра. тоесть поезд делает **реверс** и едит в нашу сторону——Kling 编辑+俄语反向声明（行 214：**英正文俄括注**：(**Убери железную арку с кадра и не нужен пар от поезда**) - добавь sligth motion blur）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":166,"sha8":"3ba13ee7","len":205,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":167,"sha8":"53c3752d","len":69,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"**天空蒸汽轨迹**（×4 现位置迭代）：add **steam trail coming from right to upper center side in the sky**"}
+{"project":"KAI_CENAT_SU2_VFX","idx":168,"sha8":"4123b19d","len":71,"nTasks":1,"models":"null","read":true,"findings":"**烟雾来源隐藏**：move in frame smoke/steam to the right **so we do not see where it coming**——来源不可见"}
+{"project":"KAI_CENAT_SU2_VFX","idx":169,"sha8":"48c25f44","len":570,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"570c **双视频分工首例**：@Video1 shows the correct **DIRECTION of train and ground motion**…copy that direction of travel and the pacing（行 170：@Video1 gives the **CAMERA movement** — copy its camera behavior exactly…@Video2 gives the TRAIN and GROUND motion direction）——**A 视频=相机运动/B 视频=方向**"}
+{"project":"KAI_CENAT_SU2_VFX","idx":170,"sha8":"32d720b5","len":553,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":171,"sha8":"48c25f44","len":570,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":172,"sha8":"b8d841ac","len":171,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":173,"sha8":"32d720b5","len":553,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":174,"sha8":"32d720b5","len":553,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":175,"sha8":"e2b09e4d","len":213,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":176,"sha8":"919d6a1e","len":96,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":177,"sha8":"3ba13ee7","len":205,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":178,"sha8":"06440de9","len":200,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":179,"sha8":"06440de9","len":200,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":180,"sha8":"06440de9","len":200,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":181,"sha8":"0e69f298","len":233,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":182,"sha8":"0e69f298","len":233,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":183,"sha8":"0e69f298","len":233,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":184,"sha8":"06440de9","len":200,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":185,"sha8":"06440de9","len":200,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":186,"sha8":"ddf5621f","len":157,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":187,"sha8":"06440de9","len":200,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":188,"sha8":"3ba13ee7","len":205,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":189,"sha8":"b2c9c25e","len":74,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":190,"sha8":"69cd9d4f","len":127,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":191,"sha8":"3ba13ee7","len":205,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":192,"sha8":"919d6a1e","len":96,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":193,"sha8":"3ba13ee7","len":205,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":194,"sha8":"b8d841ac","len":171,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":195,"sha8":"3ba13ee7","len":205,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":196,"sha8":"4426e264","len":49,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":197,"sha8":"83b7870e","len":103,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"**End frame 引用**：Change location to <<<image_1>>> moving train. **End frame - <<<image_1>>>**——末帧声明"}
+{"project":"KAI_CENAT_SU2_VFX","idx":198,"sha8":"7941c7b1","len":148,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":199,"sha8":"a0fde0c4","len":83,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"**英伦乡村替换+车上反射**：Change location…to **UK country-side. Reflection on train too**——场景替换+反射也要"}
+{"project":"KAI_CENAT_SU2_VFX","idx":200,"sha8":"7941c7b1","len":148,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":201,"sha8":"83b7870e","len":103,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":202,"sha8":"bed344c3","len":208,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":203,"sha8":"8f1cf33e","len":163,"nTasks":1,"models":"null","read":true,"findings":"**logo 贴车+质量引用**：Put logos and text from <<<image_1>>> on the side of train…**Logo/coat of arms in good quality** - <<<image_3>>>——纹章质量引用"}
+{"project":"KAI_CENAT_SU2_VFX","idx":204,"sha8":"8f1cf33e","len":163,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":205,"sha8":"8f1cf33e","len":163,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":206,"sha8":"6b75a43e","len":112,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":207,"sha8":"6b75a43e","len":112,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":208,"sha8":"8f1cf33e","len":163,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":209,"sha8":"8f1cf33e","len":163,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":210,"sha8":"8f1cf33e","len":163,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":211,"sha8":"8f1cf33e","len":163,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":212,"sha8":"8f1cf33e","len":163,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":213,"sha8":"f508668b","len":147,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":214,"sha8":"d156fa5d","len":256,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":215,"sha8":"c6892531","len":214,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":216,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":217,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":218,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":219,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":220,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":221,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":222,"sha8":"468fc7aa","len":94,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":223,"sha8":"11c344c5","len":167,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":224,"sha8":"468fc7aa","len":94,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":225,"sha8":"11c344c5","len":167,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":226,"sha8":"5fc15a97","len":115,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":227,"sha8":"1f72bb83","len":29,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":228,"sha8":"66188ec1","len":49,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":229,"sha8":"81420225","len":667,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"667c **Narrative Summary 段**：Style & Mood: bright sunny daylight, realistic vintage railway footage. **Narrative Summary**: the cream-and-maroon Streamer Express passenger train travels…moving from LEFT to RIGHT…**Dynamic Description**——叙事摘要+动态描述段"}
+{"project":"KAI_CENAT_SU2_VFX","idx":230,"sha8":"48c25f44","len":570,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":231,"sha8":"48c25f44","len":570,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":232,"sha8":"695dd860","len":35,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":233,"sha8":"09c02de7","len":41,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":234,"sha8":"4123b19d","len":71,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":235,"sha8":"62a55945","len":142,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":236,"sha8":"257d7f4e","len":87,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":237,"sha8":"7941c7b1","len":148,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":238,"sha8":"62a55945","len":142,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":239,"sha8":"3ba13ee7","len":205,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":240,"sha8":"257d7f4e","len":87,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":241,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":242,"sha8":"0db3d9ab","len":163,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":243,"sha8":"407f4b79","len":132,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":244,"sha8":"468fc7aa","len":94,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":245,"sha8":"02c73d16","len":94,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":246,"sha8":"b4dda1f4","len":218,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":247,"sha8":"92f9adee","len":135,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":248,"sha8":"a0fde0c4","len":83,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":249,"sha8":"960976fb","len":109,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":250,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":251,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":252,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":253,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":254,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":255,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":256,"sha8":"8c6037dd","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":257,"sha8":"c4252b09","len":162,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":258,"sha8":"12785be6","len":208,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":259,"sha8":"0e69f298","len":233,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":260,"sha8":"0e69f298","len":233,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":261,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":262,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":263,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":264,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":265,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":266,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"KAI_CENAT_SU2_VFX","idx":267,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}

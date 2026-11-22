@@ -1,0 +1,135 @@
+【项目】22 VERSIONS TO ONE SHOT: FAN EDITS OF YOUR FAVOURITE SHOW WITH CLAUDE AND KATANA（@alpius · 创作者博客）
+【链接】https://higgsfield.ai/@alpius/blogs/22-versions-to-one-shot-fan-edits-of-your-favourite-show-with-claude-and-katana
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+22 VERSIONS TO ONE SHOT: FAN EDITS OF YOUR FAVOURITE SHOW WITH CLAUDE AND KATANA
+@alpius
+37
+6
+0
+
+A fan edit is 45 to 60 seconds of your favourite show cut to one song. Quiet build, the band crashes in, one word fills the screen, and the hero answers. If it works, people feel the weight of a character they already love.
+
+My first one got rejected. My second one took 22 versions. Then I wrote down everything those 22 versions taught me, turned it into a skill for Claude, and made three edits in one evening, one or two versions each.
+
+This post is that method, in 9 steps you can run on any show, film, game or IP. The cutting runs on Higgsfield's Katana clipping skill, whose engine runs on your own machine. Cutting footage you already have costs 0 credits.
+
+NEVER KNOWN FEAR. Secret Level's young Space Marine, the episode's own narrator, TOOL's "Stinkfist". Version 1 was the final.
+
+What you need
+Claude Code. It does the work: it listens to the song, picks shots, writes the cut, checks it and fixes it.
+The Katana clipping skill. The Edit Studio plugin (v0.3.0) by Arseniy, shared in @adilinthewildtempo's post "How to Make $3000/Month On Clipping Videos With AI" (links below). It has an editing engine that runs locally: cuts, grades, camera moves, titles, renders. No upload, no credits.
+Footage you can access legitimately. Official trailers and cinematics, or the show you own. I used Warhammer 40,000 cinematics and the Warhammer episode of Secret Level.
+A song with a crash. More on that in step 2.
+Free local tools Claude runs for you: ffmpeg, Demucs (splits a song into drums, bass, vocals, other), Whisper (word timings), and SoundShredder if you want a narrator lifted out of a film's mix. I upscale to 4K with DaVinci Resolve Studio's Super Scale.
+
+Higgsfield only comes in for paid extras, like generating a shot your footage doesn't have. I didn't need any for these edits.
+
+Where to get Katana: install it from Higgsfield's Katana page and connect it to Claude through the Higgsfield MCP. The Edit Studio plugin zip is attached in @adilinthewildtempo's clipping workflow post, right above "Before You Start", and there's a video walkthrough too. Credit to Arseniy, who built the plugin, and to @adilinthewildtempo for the guide.
+
+How I got here
+October 12 to 13: rejected
+
+I gave the engine a song and a pile of footage and let its planner fill the beat grid. It made exactly what I later called "a compilation of portrait shots and random scenes thrown together". It was 30 seconds, one fogged source, nothing landed on the music. Too short, too vanilla.
+
+October 13 to 17: There Is Only War, 22 versions
+
+The second edit was Space Marines arriving to save an Imperium under attack, cut to Deftones' "Passenger". It got posted at version 22. Every version before it fixed something, and a lot of them undid the fix before.
+
+Text went from none, to subtitles, to big slams on every line, back to none, and ended as one word. The title went on the spoken word, then on the band's crash, then the word, then the crash. I added nine sound effects including a brass hit, then removed every one ("horrific" is the word I used for the brass). I stripped the vocals out of the song and then put them back. The grade went so dark it was unwatchable on a phone.
+
+Around version 16 a friend who edits for a living sent me two rounds of notes. Cut on action. Watch it mute first. The flinch into the orbit shot feels "like the wrong gear". It's all close-ups, show me the world and the enemy. That 0.5 second insert is jarring. Every one of those notes was right, and every one of them became a rule.
+
+There Is Only War, version 22. Deftones, "Passenger". 56 seconds.
+
+October 17: the skill
+
+I had Claude go back through all 22 versions, every message I sent, the review pages and the editor's notes, and write it all into one skill: a folder Claude reads before it starts. House rules, a workflow with gates, the exact commands, and a table of every loop with what would have stopped it.
+
+October 21: three edits in one evening
+
+For a stream, one Claude session pitched three edits, I picked them, and three more Claude sessions cut them in parallel on my Mac. FAITH (Sisters of Battle against the Necrons) took two versions. DEVOURER (Ultramarines against the Tyranids) and NEVER KNOWN FEAR were final at version 1. I made about seven short decisions all evening.
+
+DEVOURER. Music only, no voice, no title. Mick Gordon, "The Only Thing They Fear Is You". Version 1 was the final.
+
+The method, 9 steps
+
+Claude does the work at every step. You pass three gates: the beat sheet, the narration and your notes on the cut. Nothing renders past a gate until you say yes. That one rule is what stopped the back and forth.
+
+1. Library: tag your footage once
+
+Collect the footage, then have Claude go through every shot of every video and write a moment card for it: who is on screen, what happens, the light, the colour, the motion, how intense it is, and whether it's hero, enemy or world. My library is 12 cinematics, 4,489 shots and 483 moment cards. You only do this once per show.
+
+Then check the cards by eye before you use them. The tags lie. One card called a friendly war machine a "red-eyed threat". Another tagged a Tyranid as a daemon.
+
+2. Song: find the crash
+
+The song carries the whole edit, so pick it first. You want a long quiet build, one real crash where the band comes in, then more instrumental.
+
+Claude splits the song into stems, maps every voice in it (including spoken or processed voices hiding in a "quiet" intro) and measures how hard the crash hits, in dB. It pins the hit from the drums and bass, not the beat grid. On DEVOURER the band actually comes in 0.32 seconds before the grid says it does. If a song has no real crash, Claude says so before you waste a day on it.
+
+Never strip the vocals. End before the next sung word.
+
+3. Beat sheet: payoffs first
+
+This is the step that fixed my first edit. Before anything is cut, Claude proposes 3 or 4 payoff moments, each with the exact second in the source and the exact second in the music it lands on. Plus the hook, the title moment and the ending image. You see it as one contact sheet and say yes or change it.
+
+4. Casting: hero, enemy, world
+
+Tell Claude who the hero is, who the enemy is and what's off limits. In my case that meant no traitor factions in a loyalist edit. Claude checks every pick against the lore and against screen direction, so the two sides face each other across the cut. Show the enemy early, and show the world wide, not only close-ups.
+
+5. Narration: only in the gaps
+
+You have three options: no voice, the show's own credited narrator, or original lines read by a TTS voice you own or have a licence for. Don't clone a real actor's voice.
+
+NEVER KNOWN FEAR uses the episode's own narrator. The trick: in a 5.1 mix the dialogue sits in the centre channel, so Claude takes that channel alone and runs it through SoundShredder, which lifted the voice so clean the pauses measured -113 dB (Demucs managed -38). When SoundShredder heard one line as music, Claude used the narrator's other delivery of the same line from later in the episode.
+
+Lines only go where nobody in the song is singing. Then Claude measures every word against the music, lifts the buried ones, dips the music under them and snaps it back on the crash. You approve it as a 9:16 stills animatic playing over the real voice placement. That animatic got NEVER KNOWN FEAR's beat sheet and voice approved in one round.
+
+6. Cut: a cut sheet, by hand
+
+Claude writes the edit as a cut sheet: for every shot the source, the in and out, the music second it ends on, the grade, any camera move, and a note saying why the shot is there. The Katana engine renders it on your machine in about 75 seconds.
+
+Don't let the auto-planner pick shots for a fan edit. That's what made my first edit. Cut on action, no inserts shorter than about 0.8 seconds, no sound effects.
+
+7. Self-QA: caught before you see it
+
+You only ever see versions that already passed Claude's checks. It looks at the first and last frames of every shot, tracks which way everything moves across each cut, reads any text on screen, counts flashes per second, measures brightness and loudness, and does a mute pass.
+
+On FAITH's first render that caught a render that was too dark overall, a strobing shot, two shots moving the wrong way, leftover frames at two shot heads, and a burned-in subtitle at the edge of the frame. The text reader missed the subtitle. Looking at the shot edges caught it.
+
+8. Review page: swap shots on a page
+
+When you want to change shots, don't do it in chat. Claude builds a review page from the cut: every shot in order with Keep, Replace and a note box, plus the whole library to pick replacements from. It saves as you go. On There Is Only War I made 8 swaps in one pass, and Claude built the next version from my picks.
+
+9. Title and formats
+
+One title word, on the crash, with the footage playing inside the letters. ANGELS on There Is Only War, FAITH on FAITH. No other text.
+
+Then two files: a 21:9 master, and a 9:16 for your phone with the 21:9 band over a blurred copy of itself. I upscale the 9:16 to 4K locally and sharpen it.
+
+FAITH. The Sisters of Battle against the Necrons. Spiritbox, "Holy Roller". The title lands on the crash. Version 2 was the final.
+
+Every version says why
+
+One habit made iterating easy: one round of notes is one new version, and the top of the cut sheet gets a line saying what changed and why. When I went back on a decision (twice on the title timing), Claude could return to the exact earlier version and prove nothing else moved.
+
+Get the skill
+
+The public version of the fan-edit skill is free: download it below. It has the instructions, a cut sheet template and the scripts for every step, under the MIT license. Unzip it into Claude Code's skills folder, read the README, install Katana and the Edit Studio plugin (links under What you need), point it at your footage and a song, and swap Warhammer for whatever you love.
+
+fan-edit-skill.zip
+ZIP
+
+Everything else is in the project too: the four finished edits, every method card, the review pages, the beat sheets, the track map and the before and after.
+
+Project: Fan Edits with Claude + Katana
+
+The fine print
+
+These are fan edits. They are non-commercial and I don't own the footage or the music. Warhammer 40,000 is © Games Workshop. Secret Level is by Blur Studio for Amazon Prime Video. The songs belong to Deftones, Spiritbox, Mick Gordon and TOOL. If you make one, use footage you can access legitimately, credit the owners in your caption, and don't monetise it. There is no AI-generated video in any of these edits.
+
+Cut with @higgsfield.ai Katana.

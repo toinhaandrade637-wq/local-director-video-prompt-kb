@@ -1,0 +1,271 @@
+【项目】如何在 CHATGPT 安裝及設定 HIGGSFIELD PLUGIN（@quinqueen · 创作者博客）
+【链接】https://higgsfield.ai/@quinqueen/blogs/gpt6xhiggsfield
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+如何在 CHATGPT 安裝及設定 HIGGSFIELD PLUGIN
+Q
+@quinqueen
+113
+0
+0
+
+
+
+
+3天免費試用按此
+
+How to Install and Set Up the Higgsfield Plugin in ChatGPT
+
+Higgsfield Plugin 可以直接喺 ChatGPT 入面生成圖片、影片、UGC 廣告、宣傳內容，甚至建立網站。你可以由文字提示、產品相片或參考圖片開始，再透過對話修改結果。
+
+The Higgsfield Plugin lets you create images, videos, UGC ads, branded content, and even websites directly inside ChatGPT. You can start with a prompt, product photo, or reference image, then refine the result through conversation.
+
+安裝前要準備咩？
+What Do You Need Before Installation?
+
+開始之前，你需要：
+
+一個可以使用 Plugins 嘅 ChatGPT 帳戶
+一個 Higgsfield 帳戶
+ChatGPT 網頁版或桌面 App
+如使用公司 workspace，可能需要管理員批准
+
+Before you begin, you need:
+
+A ChatGPT account with plugin access
+A Higgsfield account
+ChatGPT on the web or the desktop app
+Administrator approval if you are using a managed workspace
+
+Plugin 是否可用，可能會視乎你嘅 ChatGPT 方案、地區、workspace、角色同推出進度而不同。
+
+Plugin availability may vary depending on your ChatGPT plan, region, workspace, role, and rollout.
+
+第一步：打開 Plugins Directory
+Step 1: Open the Plugins Directory
+
+登入 ChatGPT，然後打開側邊欄或主選單入面嘅 Plugins。
+
+如果你睇唔到 Plugins，可以檢查：
+
+ChatGPT 網頁版
+ChatGPT 桌面 App
+Workspace 設定
+管理員有冇關閉 Plugin 功能
+
+Sign in to ChatGPT, then open Plugins from the sidebar or main menu.
+
+If you cannot see Plugins, check:
+
+ChatGPT on the web
+The ChatGPT desktop app
+Your workspace settings
+Whether your administrator has disabled plugin access
+第二步：搜尋 Higgsfield
+Step 2: Search for Higgsfield
+
+進入 Plugins Directory 後，在搜尋欄輸入：
+
+Higgsfield
+
+打開搜尋結果，確認名稱係 Higgsfield。Plugin 說明應該會提到圖片、影片、UGC、Marketing Studio、影片剪輯同網站製作等功能。
+
+In the Plugins Directory, enter the following in the search box:
+
+Higgsfield
+
+Open the result and confirm that the plugin name is Higgsfield. Its description should mention capabilities such as image generation, video generation, UGC, Marketing Studio, video editing, and website creation.
+
+第三步：安裝 Plugin
+Step 3: Install the Plugin
+
+打開 Higgsfield Plugin 詳情頁後，按 + 或 Install plugin。
+
+如果按鈕顯示 Installed，代表 Plugin 已經安裝，唔需要再裝一次。
+
+Open the Higgsfield Plugin details page and select + or Install plugin.
+
+If the button shows Installed, the plugin is already installed and you do not need to install it again.
+
+第四步：連接 Higgsfield 帳戶
+Step 4: Connect Your Higgsfield Account
+
+Higgsfield Plugin 需要連接 Higgsfield 帳戶先可以使用完整功能。
+
+安裝期間或第一次使用時，系統可能會顯示 Connect。按下之後：
+
+登入你想使用嘅 Higgsfield 帳戶
+檢查要求嘅權限
+完成帳戶授權
+返回 ChatGPT
+
+The Higgsfield Plugin requires a connected Higgsfield account before its full capabilities become available.
+
+During installation or first use, you may see Connect. Select it, then:
+
+Sign in to the Higgsfield account you want to use
+Review the requested permissions
+Complete the authorization process
+Return to ChatGPT
+
+安裝 Plugin 同連接帳戶係兩個步驟。即使 Plugin 顯示已安裝，如果未完成帳戶連接，部分功能仍然可能用唔到。
+
+Installing the plugin and connecting your account are separate steps. Even if the plugin is installed, some features may remain unavailable until the account connection is complete.
+
+第五步：開一個新對話
+Step 5: Start a New Conversation
+
+完成安裝同連接之後，建議開一個全新 ChatGPT 對話。
+
+新安裝嘅 Plugin、Skills 同工具通常會喺新對話入面載入。
+
+After installation and connection, start a new ChatGPT conversation.
+
+Newly installed plugins, skills, and tools are normally loaded when you begin a new conversation.
+
+第六步：選擇 Higgsfield Plugin
+Step 6: Select the Higgsfield Plugin
+
+喺輸入框輸入：
+
+@Higgsfield
+
+然後喺選單入面揀 Higgsfield。
+
+部分介面亦可以按 +，再進入 More 或 Plugins 選單揀 Higgsfield。
+
+In the message box, type:
+
+@Higgsfield
+
+Then select Higgsfield from the menu.
+
+On some interfaces, you can also select +, open More or Plugins, and choose Higgsfield.
+
+第七步：測試 Plugin
+Step 7: Test the Plugin
+
+你可以由一個簡單要求開始：
+
+「用 Higgsfield 幫我整一張 1:1 Instagram 產品圖，白色背景，柔和自然光。」
+
+“Use Higgsfield to create a square Instagram product image with a white background and soft natural light.”
+
+如果想生成影片，可以試：
+
+「將呢張產品相整成一條短片，鏡頭慢慢推近，產品保持清晰。」
+
+“Turn this product photo into a short video with a slow camera push-in while keeping the product clear.”
+
+ChatGPT 可能會要求你：
+
+上載產品相片
+選擇圖片或影片模型
+選擇比例
+確認使用額度或 credits
+批准執行生成動作
+
+ChatGPT may ask you to:
+
+Upload a product photo
+Choose an image or video model
+Select an aspect ratio
+Confirm the available allowance or credits
+Approve the generation action
+常用 Higgsfield 指令
+Useful Higgsfield Commands
+
+Higgsfield Plugin 提供多種預設同工作流程。可用選項可能會隨版本更新，但常見入口包括：
+
+/effects
+
+瀏覽熱門影片效果同 Viral presets。
+
+Browse popular video effects and Viral presets.
+
+/product
+
+尋找產品廣告、產品相片同電商相關預設。
+
+Find product advertising, product photography, and e-commerce presets.
+
+/motion
+
+瀏覽動態效果同 motion presets。
+
+Browse motion effects and motion presets.
+
+/marketing-studio
+
+進入 Marketing Studio，製作廣告同宣傳內容。
+
+Open Marketing Studio to create advertising and promotional content.
+
+/hero-shot
+
+製作較有電影感或廣告感嘅主視覺。
+
+Create a cinematic or advertising-style hero visual.
+
+/reel-cover
+
+製作 Instagram Reel 或短片封面。
+
+Create a cover for an Instagram Reel or short-form video.
+
+/genjutsu
+
+使用 Genjutsu 工作流程製作或轉化影片。
+
+Use the Genjutsu workflow to create or transform video content.
+
+你亦可以唔用指令，直接用自然語言描述想要嘅結果。
+
+You do not have to use commands. You can simply describe the result you want in natural language.
+
+連接完成後可以做咩？
+What Can You Do After Connecting?
+
+完成設定後，你可以請 Higgsfield Plugin：
+
+用文字生成圖片或影片
+將參考圖片變成影片
+製作產品廣告
+製作 UGC 開箱、教學或試用影片
+製作旁白同字幕
+修改現有影片
+加入動態文字、轉場同 motion graphics
+製作 YouTube 或 Instagram 封面
+建立網站、Web App 或瀏覽器遊戲
+
+After setup, you can use the Higgsfield Plugin to:
+
+Generate images or videos from text
+Turn reference images into videos
+Create product advertisements
+Produce UGC unboxing, tutorial, or product demonstration videos
+Generate narration and subtitles
+Edit existing videos
+Add animated text, transitions, and motion graphics
+Create YouTube or Instagram covers
+Build websites, web apps, or browser games
+常見問題
+Troubleshooting
+搜尋唔到 Higgsfield Plugin
+
+先確認你使用緊支援 Plugins 嘅 ChatGPT 介面。Plugin 可用性亦可能受方案、地區、workspace 同管理員政策影響。
+
+I can’t find the Higgsfield Plugin
+
+Confirm that you are using a ChatGPT interface that supports plugins. Availability may also depend on your plan, region, workspace, and administrator policies.
+
+已安裝，但用唔到生成工具
+
+開一個新對話，再輸入 @Higgsfield。如果仍然用唔到，檢查 Higgsfield 帳戶係咪已完成連接。
+
+It is installed, but the generation tools do not work
+
+Start a new conversation and type @Higgsfield. If the tools are still unavailable, check whether your Higgsfield account connection is complete.

@@ -1,0 +1,434 @@
+【项目】BLOCKED IN BLENDER, SHOT IN ONE TAKE: 7 LOCATIONS, 4 VISUAL WORLDS WITH THE HIGGSFIELD BLENDER PLUGIN + SEEDANCE 2.5 (FULL PROMPTS)（@brunobenetti · 创作者博客）
+【链接】https://higgsfield.ai/@brunobenetti/blogs/blocked-in-blender-one-take-seedance-2-5-higgsfield-blender-plugin
+【提示词块】4
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+BLOCKED IN BLENDER, SHOT IN ONE TAKE: 7 LOCATIONS, 4 VISUAL WORLDS WITH THE HIGGSFIELD BLENDER PLUGIN + SEEDANCE 2.5 (FULL PROMPTS)
+B
+@brunobenetti
+55
+0
+0
+
+One continuous 30-second take, 7 locations, the same face in every scene, and Seedance 2.5 delivered it on the first generation. The secret is not the prompt. It is the grey blocks.
+
+I described the scene to Claude, the free Higgsfield Blender Plugin built the previz in 3D, and that grey video became the master of the camera inside Seedance 2.5. Here is the whole loop, the blocking, the prompt, and what the model did with it.
+
+Full tutorial in Portuguese on my YouTube: watch the video
+
+The pipeline in one picture
+Step 1. Describe the scene to Claude: what happens and where, location by location. No lens, no lighting.
+Step 2. Claude builds the previz inside Blender through the Higgsfield Blender Plugin (free): blocks, camera path, timing.
+Step 3. Render the grey-box video. Claude reads it frame by frame and writes the Seedance prompt with the timecode of every transition.
+Step 4. Generate in Higgsfield Cinema Studio with Seedance 2.5: the blocking video is @video_1, the master of the camera, plus the character sheets.
+
+👉 Want to make videos like this? Create your Higgsfield account through my link and you get a discount plus bonus credits on your first generations.
+
+Step 1. Describe, do not prompt
+
+This is the brief I gave Claude, almost word for word. Notice there is no lens, no light, no camera jargon. Only what happens and where.
+
+Seven locations, modern Italian crime story, one continuous take: an abandoned street, a basketball court, a drift lot, a boardroom, a restaurant, a casino and a rooftop at late afternoon (not night). The hero is the same guy in every cut: me. On the street he greets a friend. On the court he does not play, he talks on the phone while the others play. In the drift lot he stands still in the center while the car circles around him. Upstairs, in the meeting, he sits down with the boss. In the restaurant, a date. In the casino he pushes a bet. On the rooftop he stays on one spot, draws a compact submachine gun, seats the magazine, racks the bolt, aims and fires at the end.
+
+That is director blocking. It is exactly what we do on a real set with tape on the floor, before the camera is even switched on.
+
+Step 2. The previz
+
+The plugin connects Claude to Blender through a single link. I did not model anything and I did not animate the camera by hand. Claude placed the blocks and the camera, 30 seconds exactly, because that is the maximum length of one Seedance 2.5 generation.
+
+The blocks are stand-ins: tall boxes are people, the box with the round head is the hero, the low box is the car, the long slab is the boardroom table, the small purple slab is the restaurant table, the cylinder is the casino table.
+
+Every transition between locations is a camera move, never a cut: the crane rises to top-down and darkens, the pan crosses a wall, a pillar wipes the frame.
+
+Step 3. The grey video becomes the prompt
+
+I handed the rendered blocking back to Claude, together with my character sheet and Mariana's sheet (she plays the date). Claude probed the clip, pulled one frame per second, and anchored every beat of the prompt to a second of the source: transitions at 3.2s, 6.6s, 9.9s, 12.6s, 15.7s and 20.1s; on the rooftop the weapon at 21.0s, magazine 23.0s, bolt 25.0s, aim 27.0s, the single shot at 29.2s.
+
+When you give the model the second, it stops guessing. It is not inventing the camera, it is following it.
+
+The complete prompt, as pasted into Cinema Studio. The tags map to the references: @video_1 is the blocking, @char_main is my Element (Model-Bruno-Benetti), @char_mariana is her sheet. @location_1 stayed text only, I never attached a location image.
+
+SCENE CONTEXT
+
+Seedance 2.5, video-to-video, 30.0s, 16:9, 24 fps. One continuous unbroken take, the camera never cuts on its own. A modern Italian crime story told in seven locations: the same hero, @char_main, is present in every location and the camera carries us from one to the next through crane-ups into darkness, wall wipes and a foreground wipe, exactly as timed in @Video 1.
+
+
+
+
+ACTIVE REFERENCES
+
+@Video 1: Blender blocking previz, 30.0s, 16:9, grey-box geometry. This clip is MASTER for camera path, camera height, camera speed, framing, timing of every transition and the placement of every figure, vehicle and table. The blocks are stand-ins: the tall boxes are people, the box with the round head is @char_main, the low car shape is a car, the long slab is a meeting table, the small purple slab is a restaurant table for two, the cylinder is a round casino table. Replace every stand-in with the photoreal element named below at the same position, scale and second. Everything about the camera replays exactly as in the source.
+
+@char_main: man, late 30s, lean athletic build, short dark wavy hair, light blue-grey eyes, clean shaven, black long-sleeve henley shirt with three buttons, black slim jeans, black leather boots. 100% matches the reference in every location, every angle and every distance. He is the only hero; the same face and the same clothes in all seven locations.
+
+@location_1: abandoned street, daytime. Controls the geometry, cracked asphalt, building facades, debris and practical light of the first location only.
+
+@char_mariana: woman, mid 30s, long wavy dark-blonde hair with lighter ends, brown eyes, warm smile, cream turtleneck sweater under a camel wool coat, small gold earrings. 100% matches the reference. Present only in the restaurant beat.
+
+
+
+
+LOCATION MAP
+
+1. 0.0s to 3.2s, @location_1 abandoned street: an old dark sedan parked mid-street, four men standing around it, @char_main among them screen-right of the car.
+
+2. 3.3s to 6.6s, outdoor basketball court in a modern Italian suburb, cracked green court, hoop with backboard screen-left, low concrete wall and apartment blocks behind.
+
+3. 6.7s to 9.9s, empty asphalt lot between industrial warehouses, dry dust on the ground, @char_main standing alone in the centre.
+
+4. 10.1s to 12.5s, upstairs meeting room, dark red plaster wall on the left, ochre wall on the right, long dark walnut table with six leather chairs, one brass pendant lamp.
+
+5. 12.6s to 15.6s, modern Italian restaurant, same red-and-ochre palette, one small round marble table for two by a tall window, white tablecloth, two glasses of red wine.
+
+6. 15.7s to 19.9s, private casino room, same red-and-ochre palette, one round green-felt table under a low pendant lamp, chips stacked on the felt, a dealer and two players seated.
+
+7. 20.1s to 30.0s, rooftop terrace, late afternoon, low sun 15 degrees above the horizon, concrete parapet with a mauve-grey rendered wall, two brick chimney stacks screen-left, a pale blue rooftop stair house with a door behind the hero, the city skyline with terracotta roofs and TV antennas in the far background.
+
+
+
+
+FIRST FRAME / BLOCKING
+
+0.0s: ground-level wide on @location_1, camera 1.2 m high, 84 degrees, 8 m from the car. The dark sedan sits mid-street facing camera-left, x~45%. Four men in dark jackets stand around it. @char_main stands screen-right of the car, x~62%, body turned toward a friend at x~72%, feet planted on the asphalt. Every figure already in place and lit by open daylight.
+
+
+
+
+FORMAT MODE
+
+Single continuous shot with hidden transitions, timed to @Video 1. Transitions happen only at the stated seconds and only by camera movement (crane into darkness, pan across a wall, foreground wipe). Each location lasts exactly as long as in the source. No dissolves, no fades, no picture-in-picture, no split screen.
+
+
+
+
+OPTICS
+
+Exteriors and rooftop wide: 84 degrees, deep focus. Meeting room, restaurant, casino: 63 degrees, faces readable at mid-shot distance. Rooftop close-up on the weapon and face: 47 degrees. FOV changes only by the camera physically moving closer or farther, following the distances in @Video 1; no drift mid-segment.
+
+
+
+
+CAMERA
+
+Physical camera on a crane and a gimbal, with mass: every change of speed has a short ease in and ease out. The camera height, side, distance and speed follow @Video 1 second by second:
+
+0.0s to 2.5s crane up from 1.2 m to 25 m straight above the street, ending top-down. 2.5s to 3.2s the frame keeps rising and darkens into the shadow of an overpass. 3.3s the camera is already at ground level on the basketball court, side view, 1.4 m high, hoop screen-left. 3.3s to 6.6s crane up again to top-down over the court. 6.7s high angle, 12 m above the asphalt lot, looking down at @char_main, then slowly descending in a wide arc while the car circles him. 9.9s the frame darkens into the roof of a warehouse. 10.1s interior, camera 1.5 m high panning right at 4 km/h along the red wall past the meeting table. 12.6s the pan carries past a red plaster pillar that fills the frame for six frames and reveals the restaurant table. 15.7s the pan carries past a second pillar and reveals the casino table, then keeps panning to the empty ochre corner at 19.9s. 20.1s a green-painted rooftop pillar fills the foreground and wipes into the terrace. 21.0s medium shot of @char_main, camera 1.5 m high, 3 m away, three-quarter front. 21.0s to 26.0s the camera orbits him 270 degrees at 3 km/h, staying at 3 m. 26.0s to 28.0s it closes to 1 m on his hands and face, over his right shoulder. 28.0s to 28.8s it pulls back and settles low, 0.8 m high, 4 m in front of him, frontal, wide. 28.8s to 30.0s locked off.
+
+
+
+
+ACTION
+
+0.0s to 2.5s abandoned street: @char_main steps toward his friend, they clasp right hands and pull into a one-arm hug, two pats on the back, release, both smiling. The other men keep talking around the car.
+
+3.3s to 6.6s basketball court: four young men play a fast half-court game, one drives to the hoop and lays it up. @char_main stands still at the sideline screen-right, x~70%, phone at his left ear, right hand in his jeans pocket, watching the game while he talks.
+
+6.7s to 9.9s asphalt lot: @char_main stands motionless in the centre, feet shoulder-width, hands at his sides, head turning slowly to follow the car. A black modern sedan drifts in a full circle around him at 40 km/h, rear tyres sliding, white tyre smoke and dust rising, radius 6 m. The car completes one and a half circles.
+
+10.1s to 12.5s meeting room: five men in dark suits seated along the table, the boss at the head. @char_main walks in from screen-right, pulls out the chair at the boss's right hand and sits, unbuttons nothing, rests his forearms on the table. The boss gives him a slow nod.
+
+12.6s to 15.6s restaurant: @char_main seated on the left of the small table, @char_mariana on the right, facing each other. She laughs, tucks her hair behind her ear; he lifts his glass, they clink glasses, hold each other's gaze.
+
+15.7s to 19.9s casino: @char_main seated at the felt table, x~50%, a stack of chips in front of him. With his right hand he pushes the whole stack to the centre of the table in one slow move, then leans back, eyes on the dealer. The dealer's hands sweep in the chips.
+
+20.1s to 30.0s rooftop: @char_main stands still on the same spot for the whole beat, feet planted. 21.0s to 23.0s he reaches under the back of his shirt with his right hand and draws a compact submachine gun. 23.0s to 25.0s his left hand brings up a magazine and seats it into the grip with one push, click. 25.0s to 27.0s he pulls the charging bolt back and lets it slam forward. 27.0s to 28.8s he raises the weapon two-handed and aims straight into the lens. 29.2s a single shot, one muzzle flash, small shoulder kick, spent casing ejected to his right. 29.2s to 30.0s he holds the aim, smoke drifting from the barrel.
+
+
+
+
+PERFORMANCE
+
+@char_main wants control and shows none of the effort. Calm chest breathing, slow head turns, blink rate low. Street: warm open smile only for the friend. Court: half-attention, eyes on the game, mouth moving in short sentences on the phone. Lot: stillness, jaw set, eyes tracking the car. Meeting: deference in the body, shoulders low, short nod to the boss. Restaurant: the only soft beat, eyebrows lifting, a real smile with the eyes. Casino: one decisive push, then no expression. Rooftop: every weapon action is mechanical and unhurried, eyes fixed on the lens from 27.0s on, one slow blink before the shot. @char_mariana: laughing, relaxed shoulders, eyes on him. Listeners and extras react to what happens in front of them; the drifting car's driver is visible through the window, both hands on the wheel.
+
+
+
+
+PHYSICS
+
+Natural 180-degree shutter cadence: the drifting car, the layup and the muzzle flash have brief directional motion blur then resolve sharp; held faces stay sharp. Tyre smoke and dust rise and thin out over 2 seconds. The hug, the chair, the glasses, the chips and the magazine all make real contact with weight. The gun stays in @char_main's hands from 23.0s to 30.0s, magazine seated from 24.0s on.
+
+
+
+
+LIGHTING
+
+Street, court and lot: overcast daylight, 5600K, soft shadows, 20% haze in the far background. Meeting room, restaurant and casino: warm practicals, 3200K, one brass pendant per room as the key, red and ochre walls catching the spill, faces readable, negative fill on the camera side. Rooftop: late afternoon sun, 4000K, 15 degrees above the horizon behind camera-left, long warm shadows across the concrete, the mauve wall catching a golden edge, the sky pale gold to blue, no night, no street lamps on.
+
+
+
+
+WARDROBE
+
+@char_main in the same black henley, black jeans and black boots in all seven locations. @char_mariana in the cream turtleneck and camel coat, coat open at the table. Extras in dark modern Italian tailoring; basketball players in athletic wear.
+
+
+
+
+AUDIO
+
+Ambient only, continuous: street wind, sneakers and a ball on the court, engine and sliding tyres in the lot, low room tone and cutlery in the interiors, city wind on the rooftop. Weapon sounds at the stated seconds: magazine click 24.0s, bolt rack 26.0s, one gunshot 29.2s. No dialogue, no music, no narration, no subtitles.
+
+
+
+
+STYLE
+
+Photoreal live-action, modern Italian crime drama, muted palette with warm reds, ochre and black, fine film grain, true lens behavior and readable reflections on the wine glasses and the car.
+
+
+
+
+OUTPUT SETTINGS
+
+30.0s, 16:9, 24 fps, single continuous take.
+
+
+
+
+POSITIVE LOCKS
+
+The camera path, framing and every transition second come from @Video 1. @char_main's face, hair, eyes, body and clothes match @char_main in all seven locations. @char_mariana appears only in the restaurant. The car in the lot circles the hero; the hero stays in the centre. On the rooftop the hero stays on one spot, the weapon is drawn at 21.0s, magazine at 23.0s, bolt at 25.0s, aim at 27.0s, one shot at 29.2s, the sun is low and golden. Transitions only at 3.2s, 6.6s, 9.9s, 12.6s, 15.7s, 20.1s; the camera never cuts on its own.
+
+See all
+Copy prompt
+Recreate
+Step 4. Generate
+
+Cinema Studio, Seedance 2.5, 30 s, 16:9, 1080p. References: the blocking video, my Element, Mariana's sheet. Cost: 270 credits for the 30-second generation. Number of generations until this take: one.
+
+That is the real math of blocking. A generation that comes back with the wrong camera costs the same 270 credits. The true price is not the rate card, it is how many times you generate until it is right.
+
+Blocking vs scene, same second
+
+Left half of each pair is the grey box, right half is what Seedance returned at the same timestamp.
+
+Same blocking, three more worlds
+
+This is the part I could not fit in the video. The camera was approved once, in grey. So I kept the exact same blocking video as @video_1 and only swapped the references: a new sheet for me, a new sheet for Mariana, a new image for the first street. No new Blender file, not one keyframe touched.
+
+The sheets were generated with GPT Image 2.5 from my original Elements, so the face stays mine in every world, then saved as new Elements. Each world is one Seedance 2.5 generation, 30 seconds, 1080p, 270 credits, and all three came back on the first take. Same transitions at 3.2s, 6.6s, 9.9s, 12.6s, 15.7s and 20.1s, same beats on the rooftop.
+
+The prompt keeps the same skeleton. Only the nouns change: what the car becomes, what the basketball court becomes, what the weapon becomes.
+
+World 1. Action anime
+
+The same modern Italian story, drawn. Cel shading, speed lines, smear frames, a two-frame white flash on the shot. Every beat is the same; the model just draws it.
+
+Same skeleton as the prompt above (SCENE CONTEXT, CAMERA, FORMAT MODE, PHYSICS, POSITIVE LOCKS are identical, only the nouns change). These are the sections I swapped:
+
+
+
+
+ACTIVE REFERENCES
+
+@char_main: anime hero, man, late 30s, lean athletic build, medium-short dark wavy full hair, light blue-grey eyes with sharp highlights, clean shaven, black long-sleeve henley shirt with three buttons, black slim jeans, black leather boots. 100% matches the anime model sheet in every location, every angle and every distance. He is the only hero; the same face, the same line weight and the same clothes in all seven locations.
+
+@location_1: anime background painting of the abandoned Italian street, daytime, with the dark sedan mid-street. Controls the geometry, cracked asphalt, ochre facades, debris and light of the first location only.
+
+@char_mariana: anime heroine, woman, mid 30s, long wavy dark-blonde hair with lighter ends, brown eyes, warm smile, cream turtleneck sweater under an open camel wool coat, small gold earrings. 100% matches her anime model sheet. Present only in the restaurant beat.
+
+
+
+
+LOCATION MAP
+
+1. 0.0s to 3.2s, @location_1 abandoned Italian street: an old dark sedan parked mid-street, four men in dark jackets standing around it, @char_main among them screen-right of the car.
+
+2. 3.3s to 6.6s, outdoor street-basketball court in an Italian suburb painted in anime style, cracked green court, hoop with a chain net and backboard screen-left, low concrete wall covered in graffiti, apartment blocks and a dramatic cumulus sky behind.
+
+3. 6.7s to 9.9s, empty asphalt lot between industrial warehouses, dry dust on the ground, @char_main standing alone in the centre.
+
+4. 10.1s to 12.5s, upstairs meeting room, dark red plaster wall on the left, ochre wall on the right, long dark walnut table with six leather chairs, one brass pendant lamp, venetian-blind light stripes on the wall.
+
+5. 12.6s to 15.6s, modern Italian restaurant, same red-and-ochre palette, one small round marble table for two by a tall window, white tablecloth, two glasses of red wine catching a painted highlight.
+
+6. 15.7s to 19.9s, private casino room, same red-and-ochre palette, one round green-felt table under a low pendant lamp, chips stacked on the felt, a dealer and two players seated.
+
+7. 20.1s to 30.0s, rooftop terrace, late afternoon, low sun 15 degrees above the horizon, concrete parapet with a mauve-grey rendered wall, two brick chimney stacks screen-left, a pale blue rooftop stair house with a door behind the hero, the city skyline with terracotta roofs and TV antennas in the far background, streaked anime clouds lit gold.
+
+
+
+
+ACTION
+
+0.0s to 2.5s abandoned street: @char_main steps toward his friend, they clasp right hands and pull into a one-arm hug, two pats on the back, release, both grinning, a small anime sparkle on the handshake. The other men keep talking around the car, a pigeon bursts up from the asphalt as the camera rises.
+
+3.3s to 6.6s basketball court: four young men play a fast half-court game, one drives to the hoop with speed lines trailing behind him and slams a dunk, the chain net whips, the backboard shakes. @char_main stands still at the sideline screen-right, x~70%, phone at his left ear, right hand in his jeans pocket, watching the game while he talks, a gust lifting his hair.
+
+6.7s to 9.9s asphalt lot: @char_main stands motionless in the centre, feet shoulder-width, hands at his sides, head turning slowly to follow the car. A black modern sports sedan drifts in a full circle around him at 40 km/h, rear tyres sliding, thick white tyre smoke and dust rising in painted volumes, radius 6 m, radial speed lines on the asphalt during the fastest part of the slide. The car completes one and a half circles.
+
+10.1s to 12.5s meeting room: five men in dark suits seated along the table, the boss at the head, a cigar glowing. @char_main walks in from screen-right, pulls out the chair at the boss's right hand and sits, rests his forearms on the table. The boss gives him a slow nod.
+
+12.6s to 15.6s restaurant: @char_main seated on the left of the small table, @char_mariana on the right, facing each other. She laughs, tucks her hair behind her ear; he lifts his glass, they clink glasses with a small painted glint, hold each other's gaze.
+
+15.7s to 19.9s casino: @char_main seated at the felt table, x~50%, a stack of chips in front of him. With his right hand he pushes the whole stack to the centre of the table in one slow move, then leans back, eyes on the dealer. The dealer's hands sweep in the chips.
+
+20.1s to 30.0s rooftop: @char_main stands still on the same spot for the whole beat, feet planted, wind whipping his shirt and hair. 21.0s to 23.0s he reaches under the back of his shirt with his right hand and draws a compact submachine gun. 23.0s to 25.0s his left hand brings up a magazine and seats it into the grip with one push, click. 25.0s to 27.0s he pulls the charging bolt back and lets it slam forward. 27.0s to 28.8s he raises the weapon two-handed and aims straight into the lens, eyes narrowing with a sharp anime highlight. 29.2s a single shot: one muzzle flash, a two-frame white impact flash on the whole picture, small shoulder kick, spent casing ejected to his right. 29.2s to 30.0s he holds the aim, smoke drifting from the barrel, hair settling.
+
+
+
+
+STYLE
+
+2D Japanese action anime, feature-film quality: bold clean ink lines, cel shading with hard two-tone shadows, painted backgrounds with atmospheric depth, saturated but controlled palette of warm reds, ochre and black, speed lines and smear frames on fast motion, subtle film grain over the whole picture. Every character keeps a consistent line weight and design from the first frame to the last.
+
+See all
+Copy prompt
+Recreate
+World 2. 14th-century Italy
+
+The car became a broken hay cart, the basketball game became calcio in a training yard, the phone became a hooded messenger whispering in my ear, the drift became a knight on a black warhorse galloping in a circle around me, the casino became dice and gold coins, and the submachine gun became a crossbow: draw, seat the bolt, span the string, aim, shoot. Same five timecodes.
+
+Same skeleton as the prompt above (SCENE CONTEXT, CAMERA, FORMAT MODE, PHYSICS, POSITIVE LOCKS are identical, only the nouns change). These are the sections I swapped:
+
+
+
+
+ACTIVE REFERENCES
+
+@char_main: man, late 30s, lean athletic build, medium-short dark wavy full hair, light blue-grey eyes, clean shaven, black leather jerkin laced over a dark charcoal linen shirt, black wool hose, tall black leather riding boots, wide leather belt with a dagger sheath, a dark hooded wool cloak thrown back over the shoulders. 100% matches the reference in every location, every angle and every distance. He is the only hero; the same face and the same clothes in all seven locations.
+
+@location_1: abandoned muddy street of an Italian hill village, daytime. Controls the geometry, stone houses, mud, straw, the tipped cart and the light of the first location only.
+
+@char_mariana: woman, mid 30s, long wavy dark-blonde hair with lighter ends worn loose under a thin gold circlet, brown eyes, warm smile, floor-length cream wool gown, camel sleeveless surcoat with gold embroidery at the neckline, small gold earrings. 100% matches the reference. Present only in the tavern beat.
+
+
+
+
+LOCATION MAP
+
+1. 0.0s to 3.2s, @location_1 abandoned village street: a broken hay cart tipped mid-street, four men in dark cloaks standing around it, @char_main among them screen-right of the cart.
+
+2. 3.3s to 6.6s, a muddy training yard behind a stone wall in an Italian town, a rough ball game of calcio in progress, a wooden goal frame screen-left where the hoop was, low stone wall and tiled roofs with a bell tower behind.
+
+3. 6.7s to 9.9s, empty packed-earth tilting ground between timber stables, dry dust on the ground, @char_main standing alone in the centre.
+
+4. 10.1s to 12.5s, upstairs council chamber of a stone palazzo, dark red painted plaster wall on the left, ochre wall on the right, long dark oak table with six high-backed chairs, one iron candle chandelier.
+
+5. 12.6s to 15.6s, tavern alcove in the same palazzo, same red-and-ochre palette, one small round wooden table for two by a tall arched window, linen cloth, two pewter goblets of red wine, a candle.
+
+6. 15.7s to 19.9s, private gaming room, same red-and-ochre palette, one round table covered in green cloth under a low iron lantern, gold and silver coins stacked on the cloth, a banker and two players seated, dice and a leather cup.
+
+7. 20.1s to 30.0s, castle battlement walk, late afternoon, low sun 15 degrees above the horizon, a stone parapet with merlons, two stone turret bases screen-left, a small wooden guard house with a door behind the hero, the hill town with terracotta roofs and a bell tower in the far background.
+
+
+
+
+ACTION
+
+0.0s to 2.5s village street: @char_main steps toward his friend, they clasp right forearms in a soldier's grip and pull into a one-arm hug, two pats on the back, release, both smiling. The other men keep talking around the cart.
+
+3.3s to 6.6s training yard: four young men in linen shirts play a rough game of calcio with a leather ball, one breaks through, shoulders past a defender and kicks the ball into the goal frame. @char_main stands still at the sideline screen-right, x~70%, a hooded messenger at his left ear whispering, the hero listening with his right thumb hooked in his belt, eyes on the game.
+
+6.7s to 9.9s tilting ground: @char_main stands motionless in the centre, feet shoulder-width, hands at his sides, head turning slowly to follow the rider. A knight in black armour on a black warhorse gallops in a full circle around him at 40 km/h, hooves throwing clods of earth and dust, radius 6 m, the horse leaning into the turn. The rider completes one and a half circles.
+
+10.1s to 12.5s council chamber: five men in dark velvet doublets seated along the table, the lord at the head with a gold chain. @char_main walks in from screen-right, pulls out the chair at the lord's right hand and sits, rests his forearms on the table. The lord gives him a slow nod.
+
+12.6s to 15.6s tavern: @char_main seated on the left of the small table, @char_mariana on the right, facing each other. She laughs, tucks her hair behind her ear; he lifts his goblet, they touch goblets, hold each other's gaze.
+
+15.7s to 19.9s gaming room: @char_main seated at the cloth table, x~50%, a pile of gold coins in front of him. With his right hand he pushes the whole pile to the centre of the table in one slow move, then leans back, eyes on the banker. The banker's hands sweep in the coins.
+
+20.1s to 30.0s battlement: @char_main stands still on the same spot for the whole beat, feet planted. 21.0s to 23.0s he reaches behind his back under the cloak with his right hand and draws a compact steel crossbow. 23.0s to 25.0s his left hand brings up a bolt and seats it in the groove with one push, click of the nut. 25.0s to 27.0s he hooks the string with the belt claw and spans the bow with one strong pull until it locks. 27.0s to 28.8s he raises the crossbow two-handed and aims straight into the lens. 29.2s a single shot, the string snaps forward, the bolt leaves the groove toward the lens, small shoulder kick. 29.2s to 30.0s he holds the aim, dust drifting off the stock.
+
+
+
+
+STYLE
+
+Photoreal live-action, 14th-century Italian period drama, muted palette with warm reds, ochre, stone grey and black, fine film grain, true lens behavior and readable reflections on the pewter goblets and the armour.
+
+See all
+Copy prompt
+Recreate
+World 3. 1930s mob
+
+A 1932 sedan on wet cobbles, a bocce court in a tenement backyard with me inside a wooden phone booth, the sedan skidding on dirt instead of drifting, the Don's study, a trattoria with a checked tablecloth, a card room behind a speakeasy, a rooftop with a water tower and a Thompson with a stick magazine. Hat on outdoors, hat off indoors.
+
+Same skeleton as the prompt above (SCENE CONTEXT, CAMERA, FORMAT MODE, PHYSICS, POSITIVE LOCKS are identical, only the nouns change). These are the sections I swapped:
+
+
+
+
+ACTIVE REFERENCES
+
+@char_main: man, late 30s, lean athletic build, medium-short dark wavy full hair, light blue-grey eyes, clean shaven, black double-breasted pinstripe three-piece suit, white shirt, black silk tie, black fedora with a black band, black wingtip shoes, long black wool overcoat worn open. 100% matches the reference in every location, every angle and every distance. He is the only hero; the same face and the same clothes in all seven locations, hat on outdoors, hat off indoors.
+
+@location_1: abandoned cobblestone street in a 1930s Italian-American neighbourhood, daytime. Controls the geometry, brick tenements, fire escapes, wet cobbles, the parked 1932 sedan and the light of the first location only.
+
+@char_mariana: woman, mid 30s, dark-blonde hair with lighter ends in soft 1930s finger waves to the shoulders, brown eyes, warm smile, dark red lipstick, cream satin bias-cut evening gown, camel wool coat with a fur collar worn open, small gold drop earrings. 100% matches the reference. Present only in the trattoria beat.
+
+
+
+
+LOCATION MAP
+
+1. 0.0s to 3.2s, @location_1 abandoned street: a black 1932 sedan with running boards parked mid-street, four men in dark overcoats and fedoras standing around it, @char_main among them screen-right of the car.
+
+2. 3.3s to 6.6s, a gravel bocce court in a tenement backyard, a low wooden backboard screen-left where the hoop was, a wooden telephone booth with a folding door at the sideline on the right, brick walls with laundry lines and fire escapes behind.
+
+3. 6.7s to 9.9s, empty dirt lot behind a brick warehouse by the docks, dry dust on the ground, @char_main standing alone in the centre.
+
+4. 10.1s to 12.5s, the Don's upstairs study, dark red damask wall on the left, ochre plaster wall on the right, long dark mahogany table with six leather chairs, one brass pendant lamp with a green glass shade, cigar smoke in the beam.
+
+5. 12.6s to 15.6s, small Italian trattoria, same red-and-ochre palette, one small round table for two by a tall window with lace curtains, red-and-white checked tablecloth, a candle in a straw-wrapped bottle, two glasses of red wine.
+
+6. 15.7s to 19.9s, back-room card game behind a speakeasy, same red-and-ochre palette, one round green-felt table under a low pendant lamp, chips and cash stacked on the felt, a dealer with sleeve garters and two players seated.
+
+7. 20.1s to 30.0s, tenement rooftop, late afternoon, low sun 15 degrees above the horizon, a tarred roof with a brick parapet and a mauve-grey painted wall, two brick chimney stacks screen-left, a wooden water tower on iron legs and a small stair house with a door behind the hero, the 1930s city skyline with brick buildings, smoke stacks and a distant elevated railway in the far background.
+
+
+
+
+ACTION
+
+0.0s to 2.5s abandoned street: @char_main steps toward his friend, they clasp right hands and pull into a one-arm hug, two pats on the back, release, both smiling, the friend tips his hat. The other men keep talking around the car.
+
+3.3s to 6.6s bocce court: four older men in vests and rolled sleeves play bocce, one bends and rolls a ball that knocks two others apart with a clack. @char_main stands still inside the open telephone booth at the sideline screen-right, x~70%, hat on, the black candlestick telephone receiver at his left ear, right hand in his overcoat pocket, watching the game while he talks.
+
+6.7s to 9.9s dirt lot: @char_main stands motionless in the centre, feet shoulder-width, hands at his sides, head turning slowly to follow the car. A black 1932 sedan circles him in a full circle at 40 km/h, rear wheels skidding on the dirt, dust rising behind it, radius 6 m. The car completes one and a half circles.
+
+10.1s to 12.5s the Don's study: five men in dark three-piece suits seated along the table, the Don at the head with a cigar. @char_main walks in from screen-right holding his hat in his left hand, pulls out the chair at the Don's right hand and sits, sets the hat on the table, rests his forearms beside it. The Don gives him a slow nod.
+
+12.6s to 15.6s trattoria: @char_main seated on the left of the small table, hat off, @char_mariana on the right, facing each other. She laughs, tucks a finger wave behind her ear; he lifts his glass, they clink glasses, hold each other's gaze.
+
+15.7s to 19.9s card room: @char_main seated at the felt table, x~50%, hat off, a stack of chips and folded bills in front of him. With his right hand he pushes the whole stack to the centre of the table in one slow move, then leans back, eyes on the dealer. The dealer's hands sweep in the chips.
+
+20.1s to 30.0s rooftop: @char_main stands still on the same spot for the whole beat, feet planted, hat on. 21.0s to 23.0s he reaches under the left side of his open overcoat with his right hand and draws a Thompson submachine gun with a wooden foregrip. 23.0s to 25.0s his left hand brings up a straight stick magazine and seats it into the receiver with one push, click. 25.0s to 27.0s he pulls the bolt handle back on top of the receiver and lets it slam forward. 27.0s to 28.8s he raises the weapon two-handed, stock to the shoulder, and aims straight into the lens. 29.2s a single shot, one muzzle flash, small shoulder kick, spent casing ejected to his right. 29.2s to 30.0s he holds the aim, smoke drifting from the barrel.
+
+
+
+
+STYLE
+
+Photoreal live-action, 1930s Italian-American gangster period drama, muted palette with warm reds, ochre, sepia-leaning shadows and black, fine film grain, true lens behavior and readable reflections on the wine glasses and the sedan's chrome.
+
+See all
+Copy prompt
+Recreate
+
+Twelve frames from each world, same seconds, same camera:
+
+One detail to fix on a retake: in the medieval yard I wrote "a wooden goal frame where the hoop was" and the model kept a hint of the basketball hoop. Describe the new object on its own ("two wooden posts and a crossbar"), never by what it replaces.
+
+Three things I learned
+
+The location can be text only. The @location_1 tag had no image attached and the abandoned street still came out consistent with the blocking, because the geometry was already in the video. Locations are the cheapest reference to skip when the blocking is strong.
+
+Anchor every beat twice. Numeric timecode plus the physical event ("20.1s, a rooftop pillar wipes the frame"). The exteriors landed on the exact second. The interior pan drifted by about a second (the restaurant shows up closer to 14s than 12.6s), which is the segment I would tighten with a harder lock on a retake.
+
+One blocking, infinite styles. The camera is approved once. Swap the character, the location or the whole look and generate again on the same master. The three worlds above cost 810 credits and one afternoon, from one Blender file. That is how you pitch four looks to a client in a single day.
+
+Try it
+
+The Higgsfield Blender Plugin is free: higgsfield.ai/plugins/blender. The prompts above are ready to paste with your own blocking.
+
+Every prompt in this post was written by a Claude skill I built, the Seedance 2.5 Prompt Writer: it reads your blocking video, pulls the timecode of every transition and writes the whole prompt in this structure. If you want the same workflow on your own scenes, the skill is here: brunobenetti.com.br/skill-seedance-benetti.
+
+Follow the daily breakdowns on Instagram: @brbenetti. Made with Higgsfield.
+
+Watch the full tutorial and the making of on my YouTube Watch on YouTube
+
+MAKE YOURS ON HIGGSFIELD. THROUGH MY LINK YOU GET A DISCOUNT PLUS BONUS CREDITS.
+Try Higgsfield (discount + bonus)

@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "archived_date": "2026-10-13",
+  "thread_id": "01a11b93-0d5d-72b0-9a10-5b9fa386a1a1",
+  "source_user_record_line": 698,
+  "original_message": {
+    "sha256_utf8": "72516827d81bf272ab57ad17962ade122709eb42367cbaba7df5bb1b97502437",
+    "utf16_length": 75498,
+    "path": "资料库/00_完整原始消息/用户新增案例原始消息_2026-10-13_十四例与补充意见.txt"
+  },
+  "fidelity": "连续切片保存原文；用户插入的评价和连接标点也保留在原位置。原文字词、语言、反斜杠、HTML实体与占位引用不修订。",
+  "reconstruction_verified": true,
+  "cases": [
+    {
+      "id": "P023",
+      "title": "日本校园饮料广告_较劲到好感",
+      "path": "资料库/01_用户提示词原文/P023_日本校园饮料广告_较劲到好感.txt",
+      "source_start_utf16": 0,
+      "source_end_utf16_exclusive": 5449,
+      "utf16_length": 5449,
+      "sha256_utf8": "db56d30ac9c3ae941f49da3adb1db563ae5a5e7e3c2a0486586715ca1e8b40c1",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态"
+    },
+    {
+      "id": "P024",
+      "title": "绿色西装独轮车_参考职责与完整下坡",
+      "path": "资料库/01_用户提示词原文/P024_绿色西装独轮车_参考职责与完整下坡.txt",
+      "source_start_utf16": 5449,
+      "source_end_utf16_exclusive": 12482,
+      "utf16_length": 7033,
+      "sha256_utf8": "693b42f515b59c109c1e0589611729a104161da94e1cba0c3d15c8eb9178afef",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态",
+      "user_feedback_quote": "像这个提示词他就是可以是不单单是用视频替换因为其实也已经描述非常清楚的环境啊运动的，可以是直接完善成文生，或者是参考人物场景道具参考生成了",
+      "feedback_start_utf16_in_source": 12408
+    },
+    {
+      "id": "P025",
+      "title": "卧室女子与猫_电话与门铃_英文原文",
+      "path": "资料库/01_用户提示词原文/P025_卧室女子与猫_电话与门铃_英文原文.txt",
+      "source_start_utf16": 12482,
+      "source_end_utf16_exclusive": 16085,
+      "utf16_length": 3603,
+      "sha256_utf8": "6cf78c74f0f85529432926284a8a0c3cde09713ac38832f11c7901d8edb7963f",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态"
+    },
+    {
+      "id": "P026",
+      "title": "九十年代试镜_单机位情绪递进_英文原文",
+      "path": "资料库/01_用户提示词原文/P026_九十年代试镜_单机位情绪递进_英文原文.txt",
+      "source_start_utf16": 16085,
+      "source_end_utf16_exclusive": 19776,
+      "utf16_length": 3691,
+      "sha256_utf8": "e913da42feb608e33f83e880ee676e4e7b21352eb5438775ad7fffd110281958",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态"
+    },
+    {
+      "id": "P027",
+      "title": "城堡三人密谋_对白反应与烛光_英文原文",
+      "path": "资料库/01_用户提示词原文/P027_城堡三人密谋_对白反应与烛光_英文原文.txt",
+      "source_start_utf16": 19776,
+      "source_end_utf16_exclusive": 32105,
+      "utf16_length": 12329,
+      "sha256_utf8": "affbb1244f87a91ecd3726314f441b51b37043b2cc9d3932c585b13b0b42d6ec",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态"
+    },
+    {
+      "id": "P028",
+      "title": "高空机舱现金打斗_全局设计_英文原文",
+      "path": "资料库/01_用户提示词原文/P028_高空机舱现金打斗_全局设计_英文原文.txt",
+      "source_start_utf16": 32105,
+      "source_end_utf16_exclusive": 38741,
+      "utf16_length": 6636,
+      "sha256_utf8": "896bff8c55cb4ac25014596a3fe0492d982e0c1827dca79ac9a6db043f7663b0",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态"
+    },
+    {
+      "id": "P029",
+      "title": "四人女团MV_电影与记者画质_英文原文",
+      "path": "资料库/01_用户提示词原文/P029_四人女团MV_电影与记者画质_英文原文.txt",
+      "source_start_utf16": 38741,
+      "source_end_utf16_exclusive": 45038,
+      "utf16_length": 6297,
+      "sha256_utf8": "bb116475b58481706fe91fffed73e400d159db6a091109b52afa7923c677606e",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态"
+    },
+    {
+      "id": "P030",
+      "title": "竹林剑修与禅师_十五镜_待完善",
+      "path": "资料库/01_用户提示词原文/P030_竹林剑修与禅师_十五镜_待完善.txt",
+      "source_start_utf16": 45038,
+      "source_end_utf16_exclusive": 49165,
+      "utf16_length": 4127,
+      "sha256_utf8": "2247e0401daf42761a16114d8896e1e2a47d922cf33230024f9cfcfacbd36444",
+      "validation": "用户指出仍需完善，未具体确认生成效果",
+      "user_feedback_quote": "像这种的但是还是需要有完善的地方",
+      "feedback_start_utf16_in_source": 49146
+    },
+    {
+      "id": "P031",
+      "title": "曼哈顿时停_手持与FPV连续演变_英文原文",
+      "path": "资料库/01_用户提示词原文/P031_曼哈顿时停_手持与FPV连续演变_英文原文.txt",
+      "source_start_utf16": 49165,
+      "source_end_utf16_exclusive": 62056,
+      "utf16_length": 12891,
+      "sha256_utf8": "8a8532661d8806177c0b608e12757d67641c0cd08a51f64ce73de4a6f1b6600b",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态"
+    },
+    {
+      "id": "P032",
+      "title": "樱花草原割草_三阶段_逻辑待优化",
+      "path": "资料库/01_用户提示词原文/P032_樱花草原割草_三阶段_逻辑待优化.txt",
+      "source_start_utf16": 62056,
+      "source_end_utf16_exclusive": 64836,
+      "utf16_length": 2780,
+      "sha256_utf8": "ab6ab4017fa6a259b8beb84f29ebd1e5d33124125fedf8ff35f470df983eb840",
+      "validation": "用户明确指出战斗逻辑混乱、仍有优化空间",
+      "user_feedback_quote": "像这种的就是感觉但是战斗逻辑和等等的这些都是很乱的还是有优化的空间",
+      "feedback_start_utf16_in_source": 64800
+    },
+    {
+      "id": "P033",
+      "title": "掌击与灵体剥离_颠倒城市两镜",
+      "path": "资料库/01_用户提示词原文/P033_掌击与灵体剥离_颠倒城市两镜.txt",
+      "source_start_utf16": 64836,
+      "source_end_utf16_exclusive": 67329,
+      "utf16_length": 2493,
+      "sha256_utf8": "b654f699fb9700918dec0cddbab76717cbd24fadb9a8b7307039502da889c2e0",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态"
+    },
+    {
+      "id": "P034",
+      "title": "冰封遗迹斜向法阵_十五秒蓄力",
+      "path": "资料库/01_用户提示词原文/P034_冰封遗迹斜向法阵_十五秒蓄力.txt",
+      "source_start_utf16": 67329,
+      "source_end_utf16_exclusive": 70732,
+      "utf16_length": 3403,
+      "sha256_utf8": "678c2c193131111968072b35d70993322c28984910425eea0132f1aa792c8f71",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态"
+    },
+    {
+      "id": "P035",
+      "title": "九天云海十段组合技_逻辑与效果待优化",
+      "path": "资料库/01_用户提示词原文/P035_九天云海十段组合技_逻辑与效果待优化.txt",
+      "source_start_utf16": 70732,
+      "source_end_utf16_exclusive": 74446,
+      "utf16_length": 3714,
+      "sha256_utf8": "624c8000dad6599f9bf77452c7093e5b695331efb1644b422b57a4709564c3f8",
+      "validation": "用户明确指出战斗与施展杂乱、效果不太行、逻辑较差",
+      "user_feedback_quote": "这个也是战斗逻辑和施展的这些等等的多杂但是效果还是不太行逻辑有些差",
+      "feedback_start_utf16_in_source": 74410
+    },
+    {
+      "id": "P036",
+      "title": "韩剧雨天错投快递_初次心动",
+      "path": "资料库/01_用户提示词原文/P036_韩剧雨天错投快递_初次心动.txt",
+      "source_start_utf16": 74446,
+      "source_end_utf16_exclusive": 75498,
+      "utf16_length": 1052,
+      "sha256_utf8": "a7bc421125920cdae0d66c6e54cecc1f4be013d1334beb69533ca9773c8a94d0",
+      "validation": "新增研究样本；未单独确认该条生成结果，不继承此前19条的验证状态"
+    }
+  ]
+}

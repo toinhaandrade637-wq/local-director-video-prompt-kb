@@ -1,0 +1,516 @@
+【项目】Higgsfield All Unlimited: What You Get and How It Works?（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/higgsfield-all-unlimited-explained
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Higgsfield All Unlimited: What You Get and How It Works?
+Higgsfield
+Jul 23, 2026
+11 min
+
+Higgsfield All Unlimited is a limited-time offer that unlocks 23 top image, video, and audio models in one purchase, with no generation counter and no credits deducted. Access runs at 1 concurrent generation per format, shared across all models, works in the web app only, and lasts 1 to 7 days depending on how you get it. Resolution and duration caps depend on your plan. This article covers every model included, all three ways to get access, the real limits, and whether it's worth it.
+
+What is Higgsfield All Unlimited?
+
+Unlimited model access means generations on specific models don't deduct any credits. You can generate as many times as you want on those models without affecting your credit balance.
+
+Higgsfield runs two layers of unlimited access:
+
+The first is built into the plans.
+ Plans above the entry tier include their own 365-day unlimited sets, and the lineup depends on the plan. The set is a one-time inclusion: it lasts 365 days from activation, doesn't roll over, and doesn't renew with the next purchase. You can use it for as long as your subscription lasts.
+The second layer is All Unlimited offer.
+ A short, time-boxed window that extends unlimited generation to most flagship models on the platform, 23 in total, including the newest releases like Seedance 2.0, Kling 3.0, and Nano Banana Pro.
+
+During the window, generations on those models cost zero credits. Your credit balance stays untouched for everything else the suite does: scaling batches through Supercomputer, generating from Claude or your terminal via MCP, or working inside Canvas and the editor plugins all run on credits as usual.
+
+This gives creators a chance to try a large part of the Higgsfield platform, test their skills on different models, and see which ones fit their goals before committing to any of them.
+
+How many AI models do I actually get with one subscription?
+
+23 models across three categories: 11 image, 7 video, and 5 audio. This is the full list with the resolution and duration ceilings each model carries during the unlimited window.
+
+Image models (11)
+ All image models run at the same ceiling on every plan: up to 2K.
+
+Nano Banana Pro
+Nano Banana 2
+Nano Banana
+Seedream 5.0 Pro
+Seedream 5.0 Lite
+Seedream 4.5
+GPT Image 2
+GPT Image
+Kling O1
+Higgsfield Soul 2.0
+FLUX.2 Pro
+
+Video models (7)
+ The baseline caps below apply on the free trial and monthly plans; higher plans extend duration and resolution.
+
+Seedance 2.0
+Seedance 2.0 Fast
+Seedance 2.0 Mini
+Kling 3.0
+Kling 3.0 Motion Control
+Gemini Omni Flash
+Wan 2.7
+
+Audio models (5)
+ Included on every plan that carries the offer:
+
+Seed Audio 1.0
+Eleven v3
+MiniMax Speech 2.8 HD
+VibeVoice
+Seed Speech
+
+Voice generation, speech synthesis, and sound design normally live in separate subscriptions from image and video. Here they sit inside the same unlimited window.
+
+How do I get unlimited access to all models?
+
+There are three routes, depending on where you start. New creators get a 1-day free trial of All Unlimited: after the 24-hour trial, the subscription automatically renews to Plus with 7 more days of unlimited, and the trial can be cancelled in one click during the first day. Plus and higher plans come with 7 days of unlimited access on purchase. And existing subscribers can buy the Unlimited Bundle without touching their plan at all.
+
+Each route is explained in detail below. Limits vary by plan, so check the Pricing page for details.
+
+Can I try Higgsfield unlimited for free?
+
+Yes, if you are a new user. The 1-Day Free Trial gives 24 hours of All Unlimited access at $0. A card is required to activate, but nothing is charged. After 24 hours the trial auto-renews into a monthly Plus subscription that carries 7 more days of unlimited; cancelling takes one click in Manage Account → Subscription, and you keep unlimited access until the trial window ends. One trial per person. For the step-by-step activation flow and other details, see the full guide: How to Get Free Unlimited AI Video Generation on 20+ Top Models (2026).
+
+Which Higgsfield plans include 7-day unlimited?
+
+Plus and higher plans on the Pricing page include 7 days of All Unlimited access with purchase, starting at $49/mo. Starter and Basic do not include the offer. If you already subscribe, upgrading to a higher plan unlocks the same 7-day window.
+
+The plan tier and billing cycle also shape your video caps during the window. For example, if you don't have a plan yet and take the 1-day free trial, Seedance 2.0 runs at up to 8 seconds and 720p. If you upgrade an existing plan or pick a higher plan, duration and resolution grow with the tier: on the top tiers Seedance 2.0 reaches up to 15 seconds at 720p or up to 1080p at 8 seconds.
+
+Can I get unlimited without changing my plan?
+
+Yes, with the Unlimited Bundle: a pay-once purchase that leaves your subscription untouched. Higher plans can buy the bundle in the Marketplace for 1 day ($99) or 3 days ($250) of All Unlimited, with video limits up to 15 seconds regardless of the plan.
+
+Is Higgsfield's unlimited plan really unlimited?
+
+Yes! There is no daily cap, no quota, no counter running down in the background. Here are a few things worth knowing before you buy:
+
+Concurrency is 1 per format.
+ Unlimited mode runs a maximum of 1 concurrent image, video, or audio generation at a time, shared across all models. Your plan's normal concurrency (up to 8 parallel generations on higher tiers) still applies to credit-based generations; it just does not extend to unlimited ones.
+Web app only.
+ Unlimited applies exclusively on 
+higgsfield.ai
+. Generations through MCP, CLI, Supercomputer, Canvas, Plugins, or internal features like Presets, Apps, and Studios always deduct credits, regardless of unlimited status.
+Standard generation modes only.
+ Every ceiling includes the quality modes below it, while higher-end modes such as 4K stay outside the offer. The model list above shows the exact ceiling each model carries.
+Standard queue.
+ Unlimited generations run in the standard queue, while credit-based generations always take the priority queue. During peak hours the system adjusts unlimited processing speed dynamically. If you need maximum speed on a specific generation, switch to Credit Mode: it deducts credits and jumps the queue instantly.
+Fair use applies.
+ Unlimited is for personal, human use. Automation, scripting, credential sharing, and reselling are prohibited.
+It is time-boxed and tied to an active subscription.
+ The window runs from activation, does not reset at renewal, and only works while your subscription is active.
+
+All Unlimited is built for trying the flagship models across the whole platform, so you can figure out which model matches your goals and which one you'll want in your workflow going forward. And if you're after fast turnaround or high-volume output, Credit Mode is always one toggle away.
+
+What resolution and duration do I get?
+
+Baseline ceilings by category. Limits can grow with your plan, billing cycle, and the route you took, so check the Pricing page for your exact caps.
+
+Image models
+
+What resolution and duration do I get?
+
+Model
+
+	
+
+Resolution
+
+
+
+
+Nano Banana Pro
+
+	
+
+up to 2K
+
+
+
+
+Nano Banana 2
+
+	
+
+up to 2K
+
+
+
+
+Nano Banana
+
+	
+
+up to 2K
+
+
+
+
+Seedream 5.0 Pro
+
+	
+
+up to 2K
+
+
+
+
+Seedream 5.0 Lite
+
+	
+
+up to 2K
+
+
+
+
+Seedream 4.5
+
+	
+
+up to 2K
+
+
+
+
+GPT Image 2
+
+	
+
+up to 2K, High
+
+
+
+
+GPT Image
+
+	
+
+standard
+
+
+
+
+Kling O1
+
+	
+
+up to 2K
+
+
+
+
+Higgsfield Soul 2.0
+
+	
+
+up to 2K
+
+
+
+
+FLUX.2 Pro
+
+	
+
+up to 2K
+
+Video models
+
+Higgsfield All Unlimited: What You Get and How It Works?
+
+Model
+
+	
+
+Resolution
+
+	
+
+Duration
+
+
+
+
+Seedance 2.0
+
+	
+
+up to 720p
+
+	
+
+up to 8s
+
+
+
+
+Seedance 2.0 Fast
+
+	
+
+720p
+
+	
+
+up to 8s
+
+
+
+
+Seedance 2.0 Mini
+
+	
+
+720p
+
+	
+
+up to 8s
+
+
+
+
+Kling 3.0
+
+	
+
+up to 1080p
+
+	
+
+up to 8s
+
+
+
+
+Kling 3.0 Motion Control
+
+	
+
+up to 1080p
+
+	
+
+up to 8s
+
+
+
+
+Gemini Omni Flash
+
+	
+
+standard
+
+	
+
+up to 7s
+
+
+
+
+Wan 2.7
+
+	
+
+up to 1080p
+
+	
+
+up to 8s
+
+On higher tiers, annual billing, and the Unlimited Bundle, video duration extends up to 15 seconds.
+
+Audio models
+
+Higgsfield All Unlimited: What You Get and How It Works?
+
+Model
+
+	
+
+Access
+
+
+
+
+Seed Audio 1.0
+
+	
+
+included
+
+
+
+
+Eleven v3
+
+	
+
+included
+
+
+
+
+MiniMax Speech 2.8 HD
+
+	
+
+included
+
+
+
+
+VibeVoice
+
+	
+
+included
+
+
+
+
+Seed Speech
+
+	
+
+included
+
+Concurrency is identical everywhere: 1 concurrent generation per format in unlimited mode.
+
+How does the price compare to buying models one by one?
+
+The cleanest benchmark is Higgsfield's own Unlimited Models Marketplace, where unlimited access is sold per model. Five of the 23 models can be bought individually. Here is the 1-day math, at the same tiers All Unlimited provides (prices current as of July 2026):
+
+How does the price compare to buying models one by one?
+
+1 day of unlimited access
+
+	
+
+Bought separately
+
+	
+
+All Unlimited offer
+
+
+
+
+Seedance 2.0 (720p)
+
+	
+
+$73
+
+	
+
+included
+
+
+
+
+Seedance 2.0 Fast & Mini
+
+	
+
+$35
+
+	
+
+included
+
+
+
+
+Kling 3.0 (1080p)
+
+	
+
+$35
+
+	
+
+included
+
+
+
+
+GPT Image 2 (2K)
+
+	
+
+$20
+
+	
+
+included
+
+
+
+
+Nano Banana Pro (2K)
+
+	
+
+$5
+
+	
+
+included
+
+
+
+
+17 more models (Seedream, Soul 2.0, FLUX.2 Pro, all audio, and others)
+
+	
+
+not sold separately
+
+	
+
+included
+
+
+
+
+Total for 1 day
+
+	
+
+$168, 6 models
+
+	
+
+$99, all 23 models
+
+One day of the five marketplace bundles costs $168 and covers 6 models. One day of All Unlimited costs $99 and covers all 23. The 3-day option at $250 works out to about $83 per day, cheaper per day than the 1-day purchase.
+
+The 17 models outside the marketplace are not sold separately at any price: Seedream 5.0 Pro, Seedream 5.0 Lite, Seedream 4.5, Nano Banana 2, Nano Banana, Kling O1, Kling 3.0 Motion Control, GPT Image, Soul 2.0, FLUX.2 Pro, Gemini Omni Flash, Wan 2.7, and all five audio models. All Unlimited is the only way to run them without credits.
+
+One honest trade-off: per-model bundles buy depth on a single model. All Unlimited trades that for breadth at 1 concurrent generation per format with plan-based caps. If your entire workload is one model at maximum throughput, a dedicated bundle can still make sense. For everything else, the math above holds.
+
+How do I activate unlimited mode?
+
+Three things to check, in order:
+
+Turn on the Unlimited toggle
+ in the model menu before generating. This is the single most common mistake: with the toggle off, generations consume credits even while your unlimited access is active.
+Verify what is active on your account
+ in Manage Account → Subscription. The Active Unlimited Models section shows every model with its start date, expiry date, and status.
+Find the offers
+ on the Pricing page banner, the models page, or the Marketplace (profile menu → Unlimited Models).
+
+If a specific generation needs maximum speed, toggle Credit Mode for that run: it uses credits and takes the priority queue.
+
+HIGGSFIELD ALL UNLIMITED: WHAT YOU GET AND HOW IT WORKS?
+Get All Unlimited!

@@ -1,0 +1,222 @@
+【项目】Meet the New Marketing Studio: How It Works and What You Get（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/new-marketing-studio-higgsfield
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Meet the New Marketing Studio: How It Works and What You Get
+Higgsfield
+Aug 19, 2026
+8 minutes
+
+Marketing Studio on Higgsfield just updated its template library, now with 1,500+ options organized by use case. Pick one, connect a brand by uploading a product image or pasting a website link, and get a finished, on-brand ad back in one click. This guide covers the six template categories, how the two creation paths work, and where this fits for different kinds of teams.
+
+What Is Higgsfield Marketing Studio?
+
+Marketing Studio is the marketing creation workspace inside Higgsfield’s AI-native creative suite, built for ads, product creative, UGC, and other commercial content. It used to work off a prompt: you picked from 9 formats, then wrote a description to build the ad, optionally pointing it at a URL instead of starting from scratch. Now there's a library of over 1,500+ templates to choose from, and the process is much simpler than it used to be. Pick a template, and the finished result comes back in one click.
+
+Feeding a product into a template works a few different ways, depending on what you have to start with.
+
+What Is Higgsfield Marketing Studio?
+
+Input
+
+	
+
+When
+
+	
+
+What Happens
+
+
+
+
+Product image upload
+
+	
+
+User has a physical product
+
+	
+
+The product is inserted into the template, becoming the subject of the shot or video
+
+
+
+
+Website or product page link
+
+	
+
+User has a site, store listing, or app page
+
+	
+
+The page is fetched and brand signals, product imagery, logo, colors, copy, are pulled to fill the template
+
+
+
+
+Reference ad (UGC only)
+
+	
+
+User wants to match an ad they've seen
+
+	
+
+The ad's structure and format are reproduced with the user's product in place of the original
+
+
+
+
+Text prompt
+
+	
+
+Prompt path
+
+	
+
+Direct generation, no template involved
+
+Writing a prompt is still an option if you want to describe something more specific or build your own version instead of using a template.
+
+Full Workflow: Step by Step
+
+The two workflows below map directly onto the two paths above. Workflow A is the template path: no prompt, pick a template, get a result. Workflow B is the prompt path: no template, describe the shot directly.
+
+Open higgsfield.ai → Marketing Studio.
+
+Workflow A: UGC Video from a Template
+
+Step 1: Select UGC Videos.
+
+Step 2: Pick a template. Choose Faceless, Talking Head, or Silent, depending on the tone the ad needs.
+
+Step 3: Upload a product image. The product becomes the subject of the video.
+
+Step 4: Generate. The result comes back up to 15 seconds long, no prompt required.
+
+Workflow B: Video from a Product URL
+
+Step 1: Select the prompt path instead of a template.
+
+Step 2: Paste the product's URL. The page gets fetched and its brand signals, product imagery, logo, colors, and copy, are pulled automatically.
+
+Below is an image of the keyboard, the product whose URL we used for this example.
+
+Step 3: Write the prompt. Describe the shot, the tone, and what the video needs to show, since nothing here comes pre-filled by a template.
+
+Vertical 9:16 POV unboxing video, around 15 seconds, filmed from directly above like a phone mounted over the desk — one continuous static shot, no cuts. A pair of pale slim adult female hands enters from the bottom of the frame and rests on a light oak desk next to a closed cardboard box. The box is blush pink and sage green with a delicate illustrated bamboo-and-mountain landscape printed on the lid, no readable text and no logos anywhere. The hands lift the lid, fold back a sheet of frosted tissue paper, and pull a small mechanical keyboard out with both hands, holding it up toward the camera for a couple of seconds. The keyboard is a compact 65% board in a cream-white case: off-white alphas, mint-sage modifiers, and a wide blush-pink spacebar with a faint printed bamboo and mountain scene, plus two tiny sculpted animal artisan keycaps in mint and pink. The hands then lower it onto a cream leather desk mat, nudge it straight, and one index finger presses a few keys at the end with small realistic keypress travel. In the background, slightly out of focus: a stack of pastel books on the left, a small green houseplant, and a plain white wall with a baseboard. The light is soft neutral daylight from a window on the right, laying gentle window-frame shadow lines across the wood and the mat, with no warm golden or orange cast. Motion stays slow, calm and ASMR-like, with natural hand micro-movements and correct anatomy — five fingers per hand, no morphing, no extra fingers. Clean sharp digital footage, honest shallow depth of field, no film grain, no vignette, no bloom, no text or logos, no neon, no yellow color cast, no cuts and no camera moves.
+Copy
+Recreate
+
+Step 4: Generate. The result comes back up to 15 seconds long, built from the prompt and what was pulled off the page.
+
+What's Inside the Template Library: 6 Categories
+Product Shots. Studio-quality product photography across three formats: Studio, a clean seamless-background catalogue shot, Lifestyle, the product placed in a real-world scene, and With Model, the product held, worn, or used by a person. With Model draws on a library of 20 avatar templates for the person in the shot. Runs on the MS Image model. Use it for catalogue images, lifestyle shots, or model photography without booking a shoot.
+Ads. Templates built to the specs of Meta and Google ad placements, all image-based. The category's strength is volume and variation, useful for testing several ad directions quickly.
+Marketplace. Listing imagery formatted for marketplace requirements. This doesn't claim official marketplace partnerships or guaranteed compliance with any specific marketplace's requirements.
+Posters. Generates a banner or poster and allows editing it directly in the product, layout, text, and elements, through Higgsfield Layers. This is the only category where the output gets edited instead of regenerated from scratch.
+UGC Videos. Creator-style ads shot to look like they were filmed on a phone, across Faceless, Talking Head, and Silent formats, up to 15 seconds per generation. Two ways in: pick a UGC template from the library, or drop in a reference ad and get the same ad structure with your product in place. Voiceover and pacing are still being polished on this category.
+Motion. Covers Hypermotion, 2D Product Motion, Mixed Media, and Motion Design, up to 15 seconds per generation. Product Motion is a cinematic, high-energy product video with dramatic camera movement, running on Higgsfield Motion, useful for a product launch or a hero video without hiring a videographer. Motion Design is a motion-graphics video for software and digital products with no physical object, a SaaS dashboard or an app UI, built from a logo or website as input instead of a product photo.
+Pricing
+
+Video and image generations draw credits at different rates, based on length and resolution.
+
+Pricing
+
+Video Settings
+
+	
+
+Credits
+
+	
+
+Approx. Cost
+
+
+
+
+8 sec, 720p
+
+	
+
+47.62
+
+	
+
+($2.38)
+
+
+
+
+15 sec, 720p
+
+	
+
+89.2
+
+	
+
+($4.46)
+
+Meet the New Marketing Studio: How It Works and What You Get
+
+Image Format
+
+	
+
+Credits
+
+	
+
+Approx. Cost
+
+
+
+
+Product Shot, 2K
+
+	
+
+1.5
+
+	
+
+($0.075)
+
+
+
+
+Posters, 2K
+
+	
+
+7.5
+
+	
+
+($0.38)
+
+Best Use Cases
+
+Brand owners and e-commerce sellers, running into constant creative needs without a creative team or agency budget.
+Performance marketers and growth teams, needing creative volume for testing, Meta and Google creatives generated in batches for A/B runs.
+Agencies, needing speed per deliverable and consistency across clients.
+SaaS and app teams, needing motion design with no physical product involved, just a logo or website as input.
+
+What to Know Before You Start
+
+Some categories need a specific input to work. UGC Videos needs a product image or a reference ad. Motion Design needs a logo or website, not a product photo.
+Marketplace templates format imagery for listing use, nothing more. Check the platform's own requirements before publishing.
+Review UGC voiceover and pacing before publishing, since results can vary by generation. That's a known limitation, not a setup mistake.
+Posters is the only category built for editing afterward. Every other category gets regenerated, not edited.
+Templates don't cover everything. An unusual product or format is better served by the prompt path.
+
+MEET THE NEW MARKETING STUDIO: HOW IT WORKS AND WHAT YOU GET
+Try Marketing Studio

@@ -1,0 +1,372 @@
+【项目】5 Best Platforms to Access Kling 4.0 in 2026（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/best-platforms-kling-4-0-2026
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+5 Best Platforms to Access Kling 4.0 in 2026
+Higgsfield
+Oct 28, 2026
+6 min
+
+Kling 4.0 is available on Kling AI, Higgsfield, fal.ai, Runway and OpenArt. Kling AI is the official platform for the model and has the lowest cost per clip in our comparison. Higgsfield costs almost the same and adds other video and image models on one credit balance. For API access, Higgsfield, fal.ai and Runway offer Kling 4.0 while Kling’s own Kling 4.0 API is still coming soon. Runway and OpenArt fit if you already work in their suites.
+
+Where Can You Use Kling 4.0?
+
+Kling 4.0 is available on five platforms: Kling AI, the official platform for the model, plus Higgsfield, fal.ai, Runway and OpenArt. A 5-second 1080p clip costs from about $0.93 to $3.15, and the lowest prices are on Kling AI and Higgsfield.
+
+Where Can You Use Kling 4.0?
+
+Platform
+
+	
+
+Access
+
+	
+
+Pricing used
+
+	
+
+Aprox. cost of a 5-sec clip, 1080p
+
+
+
+
+Kling AI
+
+	
+
+Website and app
+
+	
+
+$37 a month for 3,000 credits
+
+	
+
+$0.93
+
+
+
+
+Higgsfield
+
+	
+
+Website
+
+	
+
+$49 a month for 1,000 credits (all models and features)
+
+	
+
+$0.98
+
+
+
+
+fal.ai
+
+	
+
+API
+
+	
+
+Pay per second, no subscription
+
+	
+
+$1.18
+
+
+
+
+Runway
+
+	
+
+Website
+
+	
+
+$15 a month for 625 credits
+
+	
+
+$2.83
+
+
+
+
+OpenArt
+
+	
+
+Website
+
+	
+
+$14 a month for 4,000 credits
+
+	
+
+$3.15
+
+How Much Does a Kling 4.0 Clip Cost?
+
+We compared the same clip everywhere: 5 seconds, 16:9, generated from a text prompt only.
+
+How Much Does a Kling 4.0 Clip Cost?
+
+Platform
+
+	
+
+Credits (1080p)
+
+	
+
+Rate used
+
+	
+
+Aprox. cost (1080p)
+
+
+
+
+Kling AI
+
+	
+
+75
+
+	
+
+$37 for 3,000 credits
+
+	
+
+$0.93
+
+
+
+
+Higgsfield
+
+	
+
+20
+
+	
+
+$49 for 1,000 credits
+
+	
+
+$0.98
+
+
+
+
+fal.ai
+
+	
+
+Pay per second
+
+	
+
+$0.235 per second
+
+	
+
+$1.18
+
+
+
+
+Runway API
+
+	
+
+23.5 per second
+
+	
+
+$0.01 per credit
+
+	
+
+$1.18
+
+
+
+
+Runway (app)
+
+	
+
+118
+
+	
+
+$15 for 625 credits
+
+	
+
+$2.83
+
+
+
+
+OpenArt
+
+	
+
+600 / 900
+
+	
+
+$14 for 4,000 credits
+
+	
+
+$3.15
+
+All prices are for a clip generated from a text prompt only, without reference images or videos. Adding references can raise the cost on some platforms, so check the price shown before you generate.
+
+Prices checked on October, 2026. Prices and plan details may change. Costs use regular prices.
+
+Kling AI: The Official Platform for Kling 4.0
+
+Kling AI is the official platform from Kuaishou, the company that develops the Kling video models. It’s available on the website and in the app.
+
+How to start: open Video Generation, choose Kling 4.0 and the Omni reference or Keyframes mode (first, middle and last frame), then set the resolution, duration and aspect ratio.
+
+Settings: 720p or 1080p, 3 to 30 seconds, Auto, 9:16, 1:1, 16:9 or 21:9. 4K and HDR are marked “coming soon”.
+
+Plan: Kling 4.0 is included from the $37 plan with 3,000 credits a month. The $10 plan doesn’t include it.
+
+API: Kling’s own Kling 4.0 API is marked “coming soon” on the KlingAI Open Platform.
+
+Higgsfield: Video and Image Models on One Credit Balance
+
+Higgsfield is an AI-native creative suite that brings video and image models from different developers into one workspace with one credit balance. Kling 4.0 is one of the models available inside it.
+
+How to start: go to Video → Create Video → Model → Kling 4.0 and choose a tab:
+
+References: up to 10 images and 5 videos, plus Elements tagged with @ in the prompt, up to 15 references in total.
+Frames: up to 10 keyframes across the video.
+Edit video: change a character, product, background, camera angle or style in a finished clip.
+
+Settings: 3 to 30 seconds, 720p or 1080p, Auto, 21:9, 16:9, 9:16 or 1:1, stereo audio.
+
+Limits: Kling 4.0 isn’t part of Unlimited, has no free generations and no 4K. 10-bit HDR is coming soon.
+
+Kling 3.0: available too. Unlike Kling 4.0, it can be used without spending credits through a 7-day bonus on annual plans (720p, 5 seconds) or a paid Unlimited pack for 1, 7 or 14 days.
+
+API: Kling 4.0 is also available through the Higgsfield API, with text-to-video, image-to-video, reference-to-video and video edit endpoints, for clips of 3 to 30 seconds at 720p to 1080p. The API is billed per generation, with no subscription.
+
+fal.ai: Pay-Per-Use API for Developers
+
+fal.ai is a generative media platform for developers. It gives access to image, video, audio and 3D models through one API, along with the infrastructure to run them in production.
+
+How to start: call the text-to-video, image-to-video or reference-to-video endpoint.
+
+Price: $0.157 per second at 720p and $0.235 per second at 1080p, with no subscription.
+
+Settings: 720p or 1080p, 3 to 30 seconds.
+
+Runway: For Teams Already Working in Runway
+
+Runway is an AI company that builds its own video models, such as Gen-4.5, and also offers models from other developers. Its creative app is a workspace for generating and editing video, images and audio, and Runway Dev is its API platform. Kling 4.0 is available in both.
+
+Plan: Kling 4.0 is listed from the $15 plan with 625 credits a month. The free plan doesn’t include it.
+
+Price: 118 credits for 5 seconds at 1080p. Runway doesn’t list a 720p price for Kling 4.0 on its pricing page.
+
+API: Runway also offers Kling 4.0 through the Runway API at $0.01 per credit: 15.7 credits per second at 720p and 23.5 at 1080p, or about $0.79 and $1.18 for a 5-second clip. The API supports text-to-video, image-to-video with a first frame and optional middle and last frames, image and video references, and editing a source video, for clips of 3 to 30 seconds.
+
+OpenArt: For Creators Who Keep Their Projects There
+
+OpenArt is an AI creation platform for images, video and audio. It brings image and video models from different developers under one subscription, along with editing tools and reusable characters.
+
+How to start: open Video → Text to Video → Model → Kling 4.0.
+
+Settings: Reference and Start/End modes, 720p or 1080p, 3 to 30 seconds, 9:16, 1:1, 16:9 or 21:9, up to 15 visual references.
+
+Plan: video tools are included from the $14 plan with 4,000 credits a month. The free plan doesn’t include them.
+
+Which Platform Should You Choose?
+Which Platform Should You Choose?
+
+If you want to
+
+	
+
+Choose
+
+	
+
+Why
+
+
+
+
+Try Kling 4.0 first
+
+	
+
+Kling AI
+
+	
+
+Free monthly credits cover one 5-second 720p clip
+
+
+
+
+Generate regularly at the lowest cost per clip
+
+	
+
+Higgsfield or Kling AI
+
+	
+
+Under $1 for a 5-second 1080p clip
+
+
+
+
+Use Kling 4.0 alongside other models
+
+	
+
+Higgsfield
+
+	
+
+The lowest cost per clip among the multi-model platforms in this comparison
+
+
+
+
+Generate through an API now
+
+	
+
+Higgsfield, fal.ai or the Runway API
+
+	
+
+Pay per use; Kling’s own API is coming soon
+
+5 BEST PLATFORMS TO ACCESS KLING 4.0 IN 2026
+Try Kling 4.0 on Higgsfield

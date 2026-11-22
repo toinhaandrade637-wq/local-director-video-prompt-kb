@@ -1,0 +1,496 @@
+{"project":"SPANNERGIRL","idx":1,"sha8":"10c6c530","len":5836,"nTasks":1,"models":"null","read":true,"findings":"5,836c **2.2 米扳手道具**：a gigantic conventional adjustable wrench, commonly called a **monkey wrench, measuring exactly 2.2 meters in total length**…The object must look exactly like an ordinary, familiar industrial adjustable wrench **enlarged uniformly to enormous scale**——2.2 米+等比放大"}
+{"project":"SPANNERGIRL","idx":2,"sha8":"184bbea2","len":3348,"nTasks":1,"models":"null","read":true,"findings":"3,348c **四视图资产表**：premium production character asset sheet…**EXACTLY FOUR VIEWS, LEFT TO RIGHT**: Straight-on front full-b(ody…)——四视图"}
+{"project":"SPANNERGIRL","idx":3,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":4,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":5,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":6,"sha8":"576102c5","len":5776,"nTasks":1,"models":"null","read":true,"findings":"5,776c **Text-only generation 声明+geek-chic**：**Text-only generation with no input image or external visual reference.**…a strikingly beautiful Korean female **helicopter communications agent** with an alluring, intelligent **geek-chic presence**——纯文本生成+极客风"}
+{"project":"SPANNERGIRL","idx":7,"sha8":"d6993ad2","len":1550,"nTasks":1,"models":"default","read":true,"findings":"1,550c **解剖学腿修正（坐标转换再现）**：**Localized video-to-video correction of the boss's anatomical LEFT leg only.** REFERENCE PRIORITY: **@video1 is the absolute master** for camera movement, framing, action…**@image1 supplies only the replacement leg's** human anatomy…**EDIT REGION. Target the boss's anatomical LEFT leg: the leg appearing on scre(en)**——局部修正+双参考分工+EDIT REGION 段"}
+{"project":"SPANNERGIRL","idx":8,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":9,"sha8":"2598e1df","len":223,"nTasks":1,"models":"default","read":true,"findings":"223c 平板替换英文：Replace the content displayed inside the tablet screen with [Image 1]. **Preserve the tablet's original glass texture and reflections**——平板屏替换"}
+{"project":"SPANNERGIRL","idx":10,"sha8":"790f252e","len":130,"nTasks":1,"models":"video_edit","read":true,"findings":"130c **中文 video_edit 长指令首例**：**使用 Seedance 2.5 编辑 [Video 1]。在 1.33–2.71 秒出现的镜头中，保持原视频的构图、摄影机、动作、光影与平板位置完全不变，只将平板画面完整替换为 <<<image_1>>>。保留平板玻璃表面的真实反光与眩光。其他内容不得改变。**——中文+1.33–2.71 秒精确区间+反光眩光保留"}
+{"project":"SPANNERGIRL","idx":11,"sha8":"6daa70f9","len":13424,"nTasks":1,"models":"default","read":true,"findings":"13,424c **100% 黑幕贴镜揭示+毫秒缝隙**：The first frame begins as **a perfectly uniform 100% black image created by an unlit foreground wall surface pressed directly against the lens**. A continuous **lateral camera move physically reveals** the warehouse…**a violent blow launches Spanner Girl and her single 180-centimeter adj(ustable wrench)**——100% 黑幕+侧移揭示+180cm 扳手"}
+{"project":"SPANNERGIRL","idx":12,"sha8":"fed09663","len":40073,"nTasks":1,"models":"default","read":true,"findings":"40,073c **text 代码块包裹**：Markdown 代码块（三反引号+text）包裹整段 SCENE CONTEXT prompt——代码块包裹制（×2 现 12/21）"}
+{"project":"SPANNERGIRL","idx":13,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":14,"sha8":"9f4abf1b","len":2169,"nTasks":1,"models":"null","read":true,"findings":"2,169c **碎片计数+尺寸分级首例**：**Exactly ten individually countable pieces** of broken gray construction rubble: **exactly three main fragments and exactly seven much smaller surrounding chips.** The three main fragments are **roughly 1–2 centimeters across**…**1–4 millimeters across**（行 15/16 变体：eight broken…three primary+five smaller）——3+7 计数+厘米/毫米分级"}
+{"project":"SPANNERGIRL","idx":15,"sha8":"bb18bcdd","len":1755,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":16,"sha8":"91d2b6b3","len":1314,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":17,"sha8":"3772fbab","len":37885,"nTasks":1,"models":"default","read":true,"findings":"37,885c 三镜 6.5 秒（37,885c 超长）"}
+{"project":"SPANNERGIRL","idx":18,"sha8":"9f4abf1b","len":2169,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":19,"sha8":"91d2b6b3","len":1314,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":20,"sha8":"bb18bcdd","len":1755,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":21,"sha8":"36b68c46","len":43383,"nTasks":1,"models":"default","read":true,"findings":"43,383c **0.200 秒缝隙时刻**：the first narrow warehouse sliver appears **only after 0.200 seconds** through one uninterrupted lateral reveal——毫秒揭示时刻"}
+{"project":"SPANNERGIRL","idx":22,"sha8":"82db3332","len":20397,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":23,"sha8":"2415dedf","len":43499,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":24,"sha8":"2415dedf","len":43499,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":25,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":26,"sha8":"b8bb1567","len":50760,"nTasks":1,"models":"default","read":true,"findings":"50,760c **全库最长单条：毫秒级物理编排**：**At 3.417 seconds** her physical left boot stamps the concrete behind her pelvis…**the rebounding wrench still holds a visible 3-centimeter air gap above the concrete**…**the wrench-first floor bite, the airborne right-boot-on-steel compression and the left-boot stamp form three clearly separated impacts**…by **9.200 seconds** both pads hold a continuous visible air gap…**upright open-handed wrestler receiving stance with high hips, a nearly vertical torso, a closed mouth and measured nasal breathing**——毫秒时刻（3.417s/9.200s）+3cm 气隙+三分离冲击+摔跤接姿态+测量式鼻呼吸"}
+{"project":"SPANNERGIRL","idx":27,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":28,"sha8":"266523db","len":33882,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":29,"sha8":"58bd4f5a","len":38689,"nTasks":1,"models":"default","read":true,"findings":"38,689c 四镜 11 秒（38,689c 超长）"}
+{"project":"SPANNERGIRL","idx":30,"sha8":"c7cc4544","len":14840,"nTasks":1,"models":"default","read":true,"findings":"14,840c **单靴拖地稳定**：She rides the same wrench across the floor with **one boot on its shaft and one boot dragging**, stabilizes, **spits a few dry stones**——单靴拖地+吐石子"}
+{"project":"SPANNERGIRL","idx":31,"sha8":"266523db","len":33882,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":32,"sha8":"f0ce389a","len":23931,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":33,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":34,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":35,"sha8":"75f446f6","len":1948,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":36,"sha8":"93b7ffe9","len":2972,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":37,"sha8":"34af7ae9","len":1948,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":38,"sha8":"15a8c4df","len":11879,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":39,"sha8":"f09cc53d","len":16642,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":40,"sha8":"f2df225a","len":15653,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":41,"sha8":"8ce60ff5","len":14585,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":42,"sha8":"b993668c","len":15700,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":43,"sha8":"c80dfa66","len":14077,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":44,"sha8":"00150979","len":9621,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":45,"sha8":"d0defbac","len":9402,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":46,"sha8":"9453bb14","len":8675,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":47,"sha8":"1b979ef9","len":13897,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":48,"sha8":"95da2412","len":14044,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":49,"sha8":"8922721d","len":12382,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":50,"sha8":"0e6ec6ed","len":25157,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":51,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":52,"sha8":"d3cc56c7","len":24602,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":53,"sha8":"ab9d72c0","len":18784,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":54,"sha8":"157a6b96","len":19898,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":55,"sha8":"c64006ac","len":5282,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":56,"sha8":"c64006ac","len":5282,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":57,"sha8":"74fcd355","len":38182,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":58,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":59,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":60,"sha8":"2598e1df","len":223,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":61,"sha8":"4b8ae64b","len":36880,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":62,"sha8":"72bc37b8","len":44616,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":63,"sha8":"69f73fc0","len":39971,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":64,"sha8":"6fe86dcd","len":4918,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":65,"sha8":"9f4abf1b","len":2169,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":66,"sha8":"9f4abf1b","len":2169,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":67,"sha8":"9f4abf1b","len":2169,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":68,"sha8":"91d2b6b3","len":1314,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":69,"sha8":"91d2b6b3","len":1314,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":70,"sha8":"bb18bcdd","len":1755,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":71,"sha8":"bb18bcdd","len":1755,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":72,"sha8":"6fb6199c","len":46518,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":73,"sha8":"6e2f6096","len":43798,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":74,"sha8":"37d038ca","len":43605,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":75,"sha8":"36b68c46","len":43383,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":76,"sha8":"ba3b0137","len":17422,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":77,"sha8":"e3c396c9","len":25372,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":78,"sha8":"8ce60ff5","len":14585,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":79,"sha8":"96ca6c57","len":14820,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":80,"sha8":"b57dacd2","len":19237,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":81,"sha8":"b877f602","len":27318,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":82,"sha8":"4010f7b8","len":18448,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":83,"sha8":"9453bb14","len":8675,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":84,"sha8":"8a22b01c","len":8677,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":85,"sha8":"04358ee0","len":11213,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":86,"sha8":"ae219d3d","len":9801,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":87,"sha8":"9453bb14","len":8675,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":88,"sha8":"01b8987e","len":24726,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":89,"sha8":"ead952c7","len":16158,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":90,"sha8":"54d2feda","len":13595,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":91,"sha8":"9a674869","len":12238,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":92,"sha8":"d3769e74","len":8140,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":93,"sha8":"d21c5130","len":8143,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":94,"sha8":"4ca3d694","len":9613,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":95,"sha8":"bc802168","len":10368,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":96,"sha8":"9450feb6","len":9577,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":97,"sha8":"7ec15857","len":9093,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":98,"sha8":"37dcd01f","len":552,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":99,"sha8":"cc2f114b","len":457,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":100,"sha8":"60c25adf","len":6766,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":101,"sha8":"69d8eaf8","len":23,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":102,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":103,"sha8":"a6d62fc8","len":345,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":104,"sha8":"132860d4","len":39050,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":105,"sha8":"132860d4","len":39050,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":106,"sha8":"06fa0230","len":3210,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":107,"sha8":"5711b8a5","len":20064,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":108,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":109,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":110,"sha8":"b17487f8","len":16789,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":111,"sha8":"645beed0","len":22892,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":112,"sha8":"25d864e5","len":26888,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":113,"sha8":"6a98aa66","len":21028,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":114,"sha8":"3552696b","len":161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":115,"sha8":"3552696b","len":161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":116,"sha8":"3552696b","len":161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":117,"sha8":"9e2f4bbc","len":3044,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":118,"sha8":"0d298d36","len":22047,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":119,"sha8":"9e2f4bbc","len":3044,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":120,"sha8":"c17d3d1c","len":167,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":121,"sha8":"4a1d558c","len":71,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":122,"sha8":"5c8b4c8f","len":3117,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":123,"sha8":"8195e09d","len":2018,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":124,"sha8":"88f5fde7","len":1465,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":125,"sha8":"88f5fde7","len":1465,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":126,"sha8":"0a894f2c","len":2652,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":127,"sha8":"0163f47b","len":156,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":128,"sha8":"3d451afd","len":10466,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":129,"sha8":"58db61b4","len":22249,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":130,"sha8":"e4c676d2","len":1758,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":131,"sha8":"06fa0230","len":3210,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":132,"sha8":"1c0e77eb","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":133,"sha8":"8dcc779a","len":39,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":134,"sha8":"b1dddde3","len":62,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":135,"sha8":"1c0e77eb","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":136,"sha8":"e566f314","len":23476,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":137,"sha8":"f75abb2c","len":4993,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":138,"sha8":"4eaca602","len":19974,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":139,"sha8":"93e653db","len":8637,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":140,"sha8":"fdc58614","len":19286,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":141,"sha8":"640df1d5","len":4385,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":142,"sha8":"bfbb7405","len":10336,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":143,"sha8":"273f9081","len":17630,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":144,"sha8":"e4aab9ae","len":11005,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":145,"sha8":"c127fab1","len":9793,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":146,"sha8":"0fb2d55d","len":8014,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":147,"sha8":"51b45340","len":8635,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":148,"sha8":"644e2941","len":4876,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":149,"sha8":"03557b18","len":9726,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":150,"sha8":"61bdb0bd","len":18,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":151,"sha8":"de291ee0","len":89,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":152,"sha8":"de291ee0","len":89,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":153,"sha8":"ac2035c5","len":71,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":154,"sha8":"f4f3f4f9","len":85,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":155,"sha8":"28d7ef38","len":56,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":156,"sha8":"fb1b7403","len":18810,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":157,"sha8":"54d2feda","len":13595,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":158,"sha8":"1e0f1c51","len":4577,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":159,"sha8":"506c7108","len":3236,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":160,"sha8":"66aa415b","len":6782,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":161,"sha8":"3ea22f4e","len":8141,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":162,"sha8":"66aa415b","len":6782,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":163,"sha8":"4ca3d694","len":9613,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":164,"sha8":"0d5309a5","len":8142,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":165,"sha8":"e99cc8e9","len":7041,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":166,"sha8":"cc2f114b","len":457,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":167,"sha8":"fa4e772c","len":5971,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":168,"sha8":"a77195b3","len":25,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":169,"sha8":"4155b117","len":6777,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":170,"sha8":"69d8eaf8","len":23,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":171,"sha8":"9d27e567","len":14717,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":172,"sha8":"2598e1df","len":223,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":173,"sha8":"d907d9e1","len":21715,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":174,"sha8":"e8a2f276","len":23821,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":175,"sha8":"0687b634","len":23789,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":176,"sha8":"3552696b","len":161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":177,"sha8":"9e2f4bbc","len":3044,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":178,"sha8":"9e2f4bbc","len":3044,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":179,"sha8":"9e2f4bbc","len":3044,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":180,"sha8":"0163f47b","len":156,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":181,"sha8":"5c8b4c8f","len":3117,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":182,"sha8":"88f5fde7","len":1465,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":183,"sha8":"0163f47b","len":156,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":184,"sha8":"4a7e2c3e","len":20539,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":185,"sha8":"8195e09d","len":2018,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":186,"sha8":"0163f47b","len":156,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":187,"sha8":"aa0ade76","len":4996,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":188,"sha8":"acb3a3b2","len":2232,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":189,"sha8":"2915ce4e","len":3199,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":190,"sha8":"4cfe1d07","len":2576,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":191,"sha8":"eb1126eb","len":62,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":192,"sha8":"eb1126eb","len":62,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":193,"sha8":"1c0e77eb","len":57,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":194,"sha8":"eb5076bb","len":4450,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":195,"sha8":"799ce456","len":5126,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":196,"sha8":"c30d18f3","len":20848,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":197,"sha8":"8ed55c7e","len":10645,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":198,"sha8":"c3670e74","len":4015,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":199,"sha8":"c127fab1","len":9793,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":200,"sha8":"6797cd81","len":3285,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":201,"sha8":"f9ac790b","len":10139,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":202,"sha8":"61bdb0bd","len":18,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":203,"sha8":"5408e1ca","len":2670,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":204,"sha8":"a7ed8e90","len":7802,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":205,"sha8":"73e9b8e5","len":77,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":206,"sha8":"28d7ef38","len":56,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":207,"sha8":"de291ee0","len":89,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":208,"sha8":"de291ee0","len":89,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":209,"sha8":"f4f3f4f9","len":85,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":210,"sha8":"ab96c3f8","len":49,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":211,"sha8":"9691a1c6","len":36,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":212,"sha8":"d0185422","len":5270,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":213,"sha8":"9022faac","len":5436,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":214,"sha8":"d5997013","len":5229,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":215,"sha8":"3043e4e3","len":3418,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":216,"sha8":"1e2dea49","len":6326,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":217,"sha8":"83a9f5a7","len":10291,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":218,"sha8":"065472b4","len":752,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":219,"sha8":"5dca8b2b","len":1556,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":220,"sha8":"2721a232","len":2231,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":221,"sha8":"5dca8b2b","len":1556,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":222,"sha8":"4155b117","len":6777,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":223,"sha8":"46a8596c","len":10415,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":224,"sha8":"799d7bba","len":7826,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":225,"sha8":"14e43041","len":4042,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":226,"sha8":"8a6f135d","len":5272,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":227,"sha8":"a40688ec","len":5049,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":228,"sha8":"f4ed2f0d","len":4605,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":229,"sha8":"a18135f1","len":4403,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":230,"sha8":"f4ed2f0d","len":4605,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":231,"sha8":"906f1c66","len":4209,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":232,"sha8":"0b562ad4","len":4352,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":233,"sha8":"4f605334","len":4125,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":234,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":235,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":236,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":237,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":238,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":239,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":240,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":241,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":242,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":243,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":244,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":245,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":246,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":247,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":248,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":249,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":250,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":251,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":252,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":253,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":254,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":255,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":256,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":257,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":258,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":259,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":260,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":261,"sha8":"b4352b0d","len":24082,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":262,"sha8":"30997a95","len":2447,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":263,"sha8":"51b45340","len":8635,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":264,"sha8":"be621a79","len":16472,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":265,"sha8":"31e9efc2","len":2603,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":266,"sha8":"4b8ae64b","len":36880,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":267,"sha8":"a9cfd721","len":12770,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":268,"sha8":"7768e2ee","len":15691,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":269,"sha8":"02f8108e","len":2145,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":270,"sha8":"132860d4","len":39050,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":271,"sha8":"2f9e8d59","len":2705,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":272,"sha8":"e15d3a64","len":10688,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":273,"sha8":"03550b18","len":10547,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":274,"sha8":"20a9b03f","len":85,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":275,"sha8":"55a3abbc","len":3443,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":276,"sha8":"f13d05fb","len":5861,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":277,"sha8":"e76efdbf","len":5862,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":278,"sha8":"f0cb3263","len":4900,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":279,"sha8":"f2267f6e","len":13053,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":280,"sha8":"5d384763","len":12464,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":281,"sha8":"a87533eb","len":3844,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":282,"sha8":"065472b4","len":752,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":283,"sha8":"fea40d43","len":851,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":284,"sha8":"fea40d43","len":851,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":285,"sha8":"5dca8b2b","len":1556,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":286,"sha8":"065472b4","len":752,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":287,"sha8":"ae4f77f3","len":7443,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":288,"sha8":"4155b117","len":6777,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":289,"sha8":"d0185422","len":5270,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":290,"sha8":"01c77a8a","len":5272,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":291,"sha8":"37651bf8","len":5033,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":292,"sha8":"906f1c66","len":4209,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":293,"sha8":"37b2aeb3","len":4811,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":294,"sha8":"1597baf8","len":4184,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":295,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":296,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":297,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":298,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":299,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":300,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":301,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":302,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":303,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":304,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":305,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":306,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":307,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":308,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":309,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":310,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":311,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":312,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":313,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":314,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":315,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":316,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":317,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":318,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":319,"sha8":"b185c6e2","len":16850,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":320,"sha8":"3680329c","len":23529,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":321,"sha8":"0fbc32c0","len":16851,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":322,"sha8":"718eaf95","len":20225,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":323,"sha8":"b0916b26","len":15536,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":324,"sha8":"370fbcf9","len":3025,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":325,"sha8":"76c12957","len":39257,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":326,"sha8":"0fbc32c0","len":16851,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":327,"sha8":"2c8330da","len":19950,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":328,"sha8":"3f1a36fa","len":10686,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":329,"sha8":"951f169a","len":3104,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":330,"sha8":"03550b18","len":10547,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":331,"sha8":"be7a8df6","len":7496,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":332,"sha8":"7cd32701","len":15239,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":333,"sha8":"9afac200","len":9633,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":334,"sha8":"42397622","len":6664,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":335,"sha8":"e0dd63f6","len":9583,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":336,"sha8":"eaab6306","len":10346,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":337,"sha8":"42397622","len":6664,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":338,"sha8":"f7ad4fc6","len":10113,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":339,"sha8":"f2267f6e","len":13053,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":340,"sha8":"ce5a6c35","len":10740,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":341,"sha8":"3d7a7068","len":11118,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":342,"sha8":"3e42ef2e","len":7099,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":343,"sha8":"c2496453","len":3356,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":344,"sha8":"106af79b","len":2852,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":345,"sha8":"106af79b","len":2852,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":346,"sha8":"106af79b","len":2852,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":347,"sha8":"106af79b","len":2852,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":348,"sha8":"c2496453","len":3356,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":349,"sha8":"c2496453","len":3356,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":350,"sha8":"106af79b","len":2852,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":351,"sha8":"106af79b","len":2852,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":352,"sha8":"106af79b","len":2852,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":353,"sha8":"02f8108e","len":2145,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":354,"sha8":"7143d59a","len":53,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":355,"sha8":"7143d59a","len":53,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":356,"sha8":"b485679b","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":357,"sha8":"11bd0a10","len":5616,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":358,"sha8":"7143d59a","len":53,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":359,"sha8":"b485679b","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":360,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":361,"sha8":"b485679b","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":362,"sha8":"e0b882c4","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":363,"sha8":"e0b882c4","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":364,"sha8":"e1628a95","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":365,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":366,"sha8":"b485679b","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":367,"sha8":"9d5ae55e","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":368,"sha8":"9d5ae55e","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":369,"sha8":"b485679b","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":370,"sha8":"b485679b","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":371,"sha8":"a0cc51bc","len":31,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":372,"sha8":"5d2a72e4","len":2828,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":373,"sha8":"5d2a72e4","len":2828,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":374,"sha8":"2cfbf612","len":2860,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":375,"sha8":"b3c680a6","len":2845,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":376,"sha8":"364d8fee","len":2802,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":377,"sha8":"70dc21d7","len":2916,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":378,"sha8":"5d2a72e4","len":2828,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":379,"sha8":"5d2a72e4","len":2828,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":380,"sha8":"364d8fee","len":2802,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":381,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":382,"sha8":"70dc21d7","len":2916,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":383,"sha8":"91b6206f","len":2175,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":384,"sha8":"17dc4810","len":2720,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":385,"sha8":"364d8fee","len":2802,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":386,"sha8":"88cc96d5","len":2848,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":387,"sha8":"e0b882c4","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":388,"sha8":"e0b882c4","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":389,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"SPANNERGIRL","idx":390,"sha8":"e0b882c4","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":391,"sha8":"f98b730c","len":64,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":392,"sha8":"e0b882c4","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":393,"sha8":"c504a3c0","len":14324,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":394,"sha8":"b0294006","len":2721,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":395,"sha8":"91b6206f","len":2175,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":396,"sha8":"91b6206f","len":2175,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":397,"sha8":"5d2a72e4","len":2828,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":398,"sha8":"792ef96d","len":21597,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":399,"sha8":"58727726","len":22968,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":400,"sha8":"8bec9e3f","len":20370,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":401,"sha8":"60c32077","len":6047,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":402,"sha8":"52b16acc","len":15133,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":403,"sha8":"a7278b5a","len":10615,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":404,"sha8":"42397622","len":6664,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":405,"sha8":"42397622","len":6664,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":406,"sha8":"03550b18","len":10547,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":407,"sha8":"e4b625c9","len":3964,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":408,"sha8":"0a2e69c9","len":6336,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":409,"sha8":"9fab2eef","len":2725,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":410,"sha8":"80f5dec2","len":5272,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":411,"sha8":"a33febb2","len":4347,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":412,"sha8":"56ccae7b","len":8067,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":413,"sha8":"0a2e69c9","len":6336,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":414,"sha8":"106af79b","len":2852,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":415,"sha8":"106af79b","len":2852,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":416,"sha8":"d4bb61db","len":1137,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":417,"sha8":"106af79b","len":2852,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":418,"sha8":"a8d9abe5","len":3175,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":419,"sha8":"106af79b","len":2852,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":420,"sha8":"106af79b","len":2852,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":421,"sha8":"106af79b","len":2852,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":422,"sha8":"02f8108e","len":2145,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":423,"sha8":"86ce1cc5","len":3823,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":424,"sha8":"86ce1cc5","len":3823,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":425,"sha8":"7143d59a","len":53,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":426,"sha8":"7143d59a","len":53,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":427,"sha8":"7143d59a","len":53,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":428,"sha8":"11bd0a10","len":5616,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":429,"sha8":"2a1fc46d","len":5008,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":430,"sha8":"d4bb61db","len":1137,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":431,"sha8":"b2e7c4f4","len":3006,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":432,"sha8":"4ff800d0","len":4410,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":433,"sha8":"b485679b","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":434,"sha8":"9d5ae55e","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":435,"sha8":"e0b882c4","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":436,"sha8":"e1628a95","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":437,"sha8":"9d5ae55e","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":438,"sha8":"9d5ae55e","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":439,"sha8":"9d5ae55e","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":440,"sha8":"b485679b","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":441,"sha8":"b485679b","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":442,"sha8":"b485679b","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":443,"sha8":"9d5ae55e","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":444,"sha8":"2cfbf612","len":2860,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":445,"sha8":"17dc4810","len":2720,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":446,"sha8":"fc37823a","len":2724,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":447,"sha8":"aabfacde","len":2739,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":448,"sha8":"5d2a72e4","len":2828,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":449,"sha8":"aabfacde","len":2739,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":450,"sha8":"b3c680a6","len":2845,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":451,"sha8":"e0b882c4","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":452,"sha8":"fc37823a","len":2724,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":453,"sha8":"364d8fee","len":2802,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":454,"sha8":"2cfbf612","len":2860,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":455,"sha8":"b3c680a6","len":2845,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":456,"sha8":"b3c680a6","len":2845,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":457,"sha8":"91b6206f","len":2175,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":458,"sha8":"17dc4810","len":2720,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":459,"sha8":"e0b882c4","len":822,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":460,"sha8":"c504a3c0","len":14324,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":461,"sha8":"c504a3c0","len":14324,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":462,"sha8":"105e6338","len":14325,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":463,"sha8":"8ad5bd21","len":4469,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":464,"sha8":"8ad5bd21","len":4469,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":465,"sha8":"8ad5bd21","len":4469,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":466,"sha8":"b0294006","len":2721,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":467,"sha8":"fc37823a","len":2724,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":468,"sha8":"aabfacde","len":2739,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":469,"sha8":"b0294006","len":2721,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":470,"sha8":"f98b730c","len":64,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":471,"sha8":"13887c98","len":1796,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":472,"sha8":"13887c98","len":1796,"nTasks":1,"models":"sunburst","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":473,"sha8":"13887c98","len":1796,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":474,"sha8":"13887c98","len":1796,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":475,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":476,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":477,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":478,"sha8":"13887c98","len":1796,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":479,"sha8":"8ad5bd21","len":4469,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":480,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":481,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":482,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":483,"sha8":"8ad5bd21","len":4469,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":484,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":485,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":486,"sha8":"5b8e9d1d","len":5745,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":487,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":488,"sha8":"5b8e9d1d","len":5745,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":489,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":490,"sha8":"40523121","len":3119,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":491,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":492,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":493,"sha8":"5b8e9d1d","len":5745,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":494,"sha8":"f9557bb5","len":3132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":495,"sha8":"e0fd1916","len":1499,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"SPANNERGIRL","idx":496,"sha8":"cd0a1f8a","len":14688,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}

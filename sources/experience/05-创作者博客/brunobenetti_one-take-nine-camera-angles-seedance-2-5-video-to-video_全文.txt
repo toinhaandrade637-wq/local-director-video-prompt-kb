@@ -1,0 +1,371 @@
+【项目】ONE TAKE, NINE CAMERA ANGLES: HOW I RE-SHOT MY OWN VIDEO WITH SEEDANCE 2.5 VIDEO-TO-VIDEO (EVERY PROMPT)（@brunobenetti · 创作者博客）
+【链接】https://higgsfield.ai/@brunobenetti/blogs/one-take-nine-camera-angles-seedance-2-5-video-to-video
+【提示词块】3
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+ONE TAKE, NINE CAMERA ANGLES: HOW I RE-SHOT MY OWN VIDEO WITH SEEDANCE 2.5 VIDEO-TO-VIDEO (EVERY PROMPT)
+B
+@brunobenetti
+133
+1
+0
+
+I filmed one 18-second take with a single locked-off camera. Then Seedance 2.5 on Higgsfield re-shot it from nine different angles: side shots, a rear high angle, a desk-level low angle, a security-camera corner, a macro on my hand, a 107° wide, and a final shot hiding behind the plant basket. Same face, same voice, same lip-sync, same wardrobe, same room. No second camera existed.
+
+This is the full breakdown of how the prompt is built so the model changes only the camera and keeps everything else locked. Three prompts below, every one of them open. The full tutorial in Portuguese is on my YouTube: youtube.com/@br_benetti.
+
+This is the source: one camera, eye level, 47° field of view, 18.3 seconds, me talking to the lens in Brazilian Portuguese with a small white pot I lift at 7 seconds.
+
+And this is what came back from one generation. Nine hard cuts at the exact words I asked for.
+
+The pipeline in one picture
+Film one clean take. Locked-off, good light, the subject talks straight to camera. That take becomes the MASTER.
+Inspect the clip: ffprobe for duration, fps and frame size, then a transcription with word-level timestamps (I use faster-whisper). You need the second AND the word of each cut point.
+Decide the cuts like a director. Which line gets the side shot, which one gets the close-up, which one deserves the weird angle.
+Let the skill write the prompt. I asked Claude with my skill benetti-seedance-prompt-writer: "write a Seedance 2.5 video-to-video prompt for this clip, change only the camera at these timecodes". It wrote the whole block: MASTER clause, CRITICAL IDENTITY, THE ROOM NEVER CHANGES, one paragraph per HARD CUT.
+On Higgsfield, open Seedance 2.5, paste the prompt, add the original clip as a reference so the @video1 tag turns green, set the duration to the length of your source (18 seconds here), generate.
+Second path, more locked: run my VFX skill first. It opens the footage frame by frame and maps everything (the lavalier mic, the ring, the polo band, when the pot leaves the desk), then the prompt writer folds that map into the prompt. Version 2 below is that path.
+
+Nine angles, one take, one generation. The contact sheet of version 2.
+
+👉 Want to make videos like this? Create your Higgsfield account through my link and you get a discount plus bonus credits on your first generations.
+
+The rules that make it hold
+
+The model will happily invent a new person and a new room if you let it. These are the clauses that stop it, learned the hard way across three versions.
+
+Say who is MASTER. The first line of the prompt states that @video1 is master for identity, face, voice, dialogue, lip-sync, timing, gestures, wardrobe, set, lighting, color and duration, and that the ONLY change is the camera. Without that sentence the model treats the video as a loose reference.
+Cut on a word, not just a number. "8.6s HARD CUT (on 'você consegue mudar o ângulo')" holds far better than "8.6s: cut". The word anchors the timecode to the audio, so the mouth stays in sync after the cut.
+The room never changes. Describe the set geometry once (what is screen-left, what is behind the shoulder, where the tripod stands) and then say new angles reveal more of THIS room. New vantage points otherwise get a new wall.
+Match the duration. If the source is 18.3s, set the generation to 18s. Longer stretches the performance and breaks the sync.
+Describe camera, never lighting. The moment you describe a new light, the model re-renders the subject with it and the face drifts. Lighting is part of the locked set.
+Negatives do not work. "No teeth", "no music" get read as descriptions. Write what you want, not what you do not want.
+Detail equals lock. Version 1 said "black polo shirt". Version 2 said "black short-sleeve polo with a darker tonal band across the chest, short zip placket, small black lavalier at the center, black smartwatch on the left wrist, thin gold ring on the right ring finger". Version 2 kept the identity in every angle. That is what the VFX skill pass buys you.
+Version 1. Nine hard cuts, the fast prompt
+
+Prompt writer only, about 10 minutes from transcription to generation. Angles are right, cuts land on the words, identity is good in most shots and softer in the wide ones.
+
+This is the exact prompt. Attach your own clip as @video1, swap the description of the person and the room for yours, keep the structure.
+
+@video1: Original clip "Intro PT1 YT", 18.3s, 16:9, locked-off medium shot. Bruno, a man in his 30s with medium-short dark wavy hair, clear-frame glasses, black polo shirt, black smartwatch on his left wrist, seated at a light wooden desk in a dark studio, talking to camera in Brazilian Portuguese. Set, screen-left to screen-right: a dark rectangular LED panel with faint horizontal lines on the black back wall, a black-and-white checkerboard panel, a bright round LED light on a stand high at the back, a black DSLR on a tripod behind the desk on the right, and on the desk at the right a wicker basket with a green boxwood plant covered in cinema stickers (tickets, film camera, popcorn). A small white ceramic pot with a green plant sits on the desk in front of him; at about 7.5s he lifts it in his left hand and holds it up while talking. This clip is MASTER for identity, face, voice, dialogue, lip-sync, performance timing, gestures, wardrobe, set dressing, lighting, color and duration. The ONLY change is the camera: position, angle, height and lens change at the timecodes below. Everything else replays exactly as in the source.
+
+
+
+
+Photoreal, 16:9, 18s, 24fps. Same grade as the source: soft frontal key on the face from camera-left, warm skin, deep black background, the round LED at the back reads as a hot practical with a mild bloom. Source dialogue and room tone only, mouth movement matches the source audio exactly.
+
+
+
+
+CRITICAL IDENTITY: Bruno's face, glasses, hair, body, hands and voice stay identical to @video1 in every cut. Same man, same expressions at the same instants, same Brazilian Portuguese line, spoken continuously and unbroken across all cuts, in sync with the source: "Ficar mudando o ângulo, pegando a sua câmera e colocando em qualquer ambiente, isso já é coisa do passado. Agora com a inteligência artificial, você consegue mudar o ângulo, mudar o scale, aproximar, fazer o zoom, deixar bem aberto ou colocar em lugares inusitados."
+
+
+
+
+THE ROOM NEVER CHANGES: same desk, same white pot and plant, same wicker basket with stickers, same tripod and DSLR, same checkerboard panel, same LED panel, same back light, same black walls, all in their exact source positions in every angle. New angles reveal more of this same room from new vantage points, consistent with the geometry above; the desk stays at the same height, the DSLR tripod stays screen-right of Bruno, the checkerboard stays behind his left shoulder.
+
+
+
+
+Timed multishot. Hard cuts only at the stated seconds, the camera never cuts on its own, no drift mid-segment, no transitions or dissolves, each cut is instantaneous.
+
+
+
+
+0.0s to 2.7s: the source shot exactly as filmed. Eye-level medium shot, 47° FOV, Bruno centered, desk edge at the bottom of frame, LED panel left, checkerboard and tripod right. He speaks "Ficar mudando o ângulo, pegando".
+
+
+
+
+2.7s HARD CUT (on "a sua câmera"): medium shot from the right side. Camera at eye level, moved about 1.2 m to screen-right of the original position, 1.8 m from Bruno, 47° FOV, aimed back at him so his body is angled three-quarter, the DSLR tripod and the sticker plant now large in the near right foreground, the checkerboard wall filling the background behind him. He keeps gesturing with both hands as in the source.
+
+
+
+
+4.6s HARD CUT (on "isso já é coisa do passado"): mirror side. Camera at eye level about 1.2 m to screen-left of the original position, 1.8 m from Bruno, 47° FOV, aimed at him from his right side; the dark LED panel now dominates the background, the checkerboard and tripod compress into the far right edge. Same gesture, same words.
+
+
+
+
+6.2s HARD CUT (on "Agora com a inteligência artificial"): high rear plongée, wide. Camera behind and above Bruno, about 2.4 m high and 2.5 m behind his chair, tilted down roughly 35°, 84° FOV. His back and the top of his head fill the lower center, the desk stretches ahead of him, the white pot in front of him, the wicker basket on the right, the black back wall with the LED panel, checkerboard, tripod and the glowing round LED all visible from above. His hands rise into view as he gestures.
+
+
+
+
+8.6s HARD CUT (on "você consegue mudar o ângulo"): close-up on the white ceramic pot and small green plant in his raised left hand, 29° FOV, camera at hand height about 0.6 m from the pot, the pot sharp and filling the left third of frame, black smartwatch on the wrist. Bruno is soft in the background over the pot, out of focus, still talking to camera, mouth moving in sync, the checkerboard blurred behind him.
+
+
+
+
+10.7s HARD CUT (on "mudar o scale"): contra-plongée at desk level. Camera resting on the wooden desktop about 0.7 m in front of Bruno, tilted up about 25°, 63° FOV, the wood grain of the desk large and sharp in the immediate foreground running into the frame, Bruno looming above it, the pot in his raised left hand, the black ceiling void and the top of the round LED behind him.
+
+
+
+
+11.8s HARD CUT (on "aproximar"): security-camera diagonal from above, close. Camera in the top corner of the room to screen-right and behind the DSLR, about 2.6 m high, looking down diagonally at Bruno at roughly 40°, 63° FOV, pushed in so he fills the frame from the chest up, the desk corner and the sticker plant cut across the lower left, slight wide-lens edge stretch, faint fixed-camera stillness. He holds the pot and speaks.
+
+
+
+
+13.0s HARD CUT (on "fazer o zoom"): extreme close-up on his hand. 18° FOV, camera about 0.4 m from the fingers of the hand holding the white pot, the fingers, knuckles and the curve of the ceramic sharp, the smartwatch strap at the edge of frame, shallow depth of field, everything behind melting to black. His voice continues in sync off-frame.
+
+
+
+
+15.0s HARD CUT (on "deixar bem aberto"): very wide, grande angular. Camera at eye level 4 m in front of the desk, centered, 107° FOV, the whole studio revealed: the full desk, Bruno small in the center behind it, the LED panel far left, checkerboard, tripod, DSLR and the round LED on the right, the black floor and walls, wide-lens perspective with mild edge stretch, the desk edge bowing slightly. He lowers the pot as in the source and keeps talking.
+
+
+
+
+17.8s HARD CUT (on "lugares inusitados") to 18.3s: unusual vantage with foreground occlusion. Camera low behind the wicker basket on the right end of the desk, about 0.3 m above the desktop, 84° FOV, the boxwood leaves and cinema stickers huge and soft in the near foreground covering the lower and left 30% of frame, the black tripod leg cutting vertically at the right edge, Bruno small and sharp in the middle distance behind them, seated at the desk finishing the line to camera, the LED panel and back wall behind him. Hold to the end.
+
+
+
+
+In every cut Bruno's face, expression and lip movement match the source at that exact second; the plant is in his hand only during the seconds it is in his hand in the source; wardrobe, watch, glasses and hair identical; the room and its lighting identical.
+
+
+
+
+Audio: source dialogue only, Brazilian Portuguese as spoken in @video1, plus the source room tone. No music, no added sound effects.
+
+See all
+Copy prompt
+Recreate
+Version 2. Same cuts, set fully mapped
+
+Here the VFX skill did a frame-by-frame short list of the footage first (wardrobe, props, the exact seconds the pot is on the desk and in the hand), and the prompt writer wrote the prompt on top of that map. Longer prompt, tighter result. This is the version in the tutorial.
+
+Cut by cut, what each paragraph asked for and what came back:
+
+0.0s to 2.7s: the source shot exactly as filmed, so the viewer has a reference before the first cut.
+
+2.7s, on "e colocando": medium shot from screen-right, 1.2 m off axis, the tripod and the sticker plant now soft in the foreground.
+
+4.6s, on "isso já é coisa do passado": the mirror side, the slatted LED panel filling the background.
+
+6.2s, on "Agora com a inteligência artificial": high rear plongée at 84°, the whole desk ahead of me, the pot lifting into frame at 7.0s.
+
+8.6s, on "você consegue mudar o ângulo": close-up on the pot in my left hand, 29° lens, me soft behind it.
+
+10.7s, on "mudar o scale": contra-plongée from the desktop, wood grain in the foreground.
+
+11.8s, in the pause before "aproximar": security-camera diagonal from the top corner of the room.
+
+13.0s, on "fazer o zoom": extreme close-up on the fingers and the ceramic, 18° lens.
+
+15.0s, on "aberto": 107° wide from 4 m, the entire studio revealed.
+
+17.8s, on "inusitados": camera hidden low behind the wicker basket, leaves and cinema stickers huge in the foreground.
+
+The full prompt:
+
+@video1: Original clip "Intro PT1 YT", 18.3s, 16:9, 23.976fps, locked-off eye-level medium shot, 47° FOV, cut at the waist, Bruno centered slightly left of frame. Bruno, a man in his 30s, medium-short dark wavy hair, blue-gray eyes, clean-shaven, clear transparent-frame glasses, black short-sleeve polo shirt with a darker tonal horizontal band across the chest and a short zip placket, a small black lavalier microphone clipped at the center of the placket, a black smartwatch with black band on his left wrist, a thin gold ring on his right ring finger. He sits behind a light oak wooden desk in a dark studio and talks to camera in Brazilian Portuguese, gesturing with both hands. Set, screen-left to screen-right: matte black wall; a large dark rectangular slatted LED panel with faint horizontal lines and a dull teal-gray sheen mounted on the wall at head height, filling the left third of the background; a thin vertical black light stand pole rising behind his head just right of center; a large black-and-white checkerboard panel with squares about 30 cm wide covering the right half of the back wall; high up at the back, a bright round LED fresnel with black barn doors on a stand, aimed toward camera, reading as a hot white practical with a soft bloom; below it, a small dim rectangular light glow low behind the tripod; a black mirrorless camera with a top monitor mounted on a black tripod with red locking rings, standing behind the desk at the right, its lens pointed screen-left; on the right end of the desk a round wicker basket holding a ball of green boxwood with cinema stickers on sticks poking out of it (a yellow CINEMA ticket, a red-and-white popcorn bucket, a film camera, a clapperboard); black floor. On the desk in front of his chest sits a small white ceramic pot with a bright green miniature plant. Prop timing: the pot stays on the desk from 0.0s to 7.0s; at 7.0s he lifts it in his LEFT hand (the smartwatch hand) to shoulder height and holds it up while talking; at 15.0s it dips to chest level, at 15.3s it rises again as his right hand spreads wide open; at 17.0s he sets it back on the desk and finishes with both hands resting on the desktop around it. This clip is MASTER for identity, face, voice, dialogue, lip-sync, performance timing, gestures, wardrobe, set dressing, lighting, color and duration. The ONLY change is the camera: position, angle, height, distance and lens change at the timecodes below. Everything else replays exactly as in the source.
+
+
+
+
+Photoreal. 16:9. 18.3s. 24fps. Same grade as the source: soft frontal key on the face from slightly camera-left, warm natural skin, clean black background, the round LED at the back is the only hot highlight with a mild bloom, no added lights, white balance unchanged. Source dialogue and room tone only.
+
+
+
+
+CRITICAL IDENTITY: Bruno's face, glasses, hair, eyes, skin, body, hands, watch, ring, polo shirt, lavalier mic and voice stay identical to @video1 in every frame, from every angle and at every distance. Same man, same expressions at the same instants, same hand gestures at the same seconds, same Brazilian Portuguese line, spoken continuously and unbroken across all cuts, in sync with the source: "Ficar mudando o ângulo, pegando a sua câmera e colocando em qualquer ambiente, isso já é coisa do passado. Agora com a inteligência artificial, você consegue mudar o ângulo, mudar o scale, aproximar, fazer o zoom, deixar bem aberto ou colocar em lugares inusitados."
+
+
+
+
+THE ROOM NEVER CHANGES: same light oak desk at the same height, same white pot and miniature plant, same wicker basket with boxwood and cinema stickers, same black tripod with red rings and mirrorless camera, same checkerboard panel, same slatted LED panel, same vertical pole, same round LED fresnel high at the back, same small dim light low behind the tripod, same matte black walls and black floor, all in their exact source positions throughout. The slatted LED panel stays on the wall to Bruno's right side (screen-left), the checkerboard stays behind his left shoulder (screen-right), the tripod and camera stay screen-right of him behind the desk, the wicker basket stays at the right end of the desk, the white pot stays on the desk axis in front of his chest. New vantage points reveal more of this same room, consistent with that geometry: the same black walls continue beyond the current frame edges, the same black floor extends under the desk.
+
+
+
+
+Timed multishot. Hard cuts only at the stated seconds, the camera never cuts on its own, no drift mid-segment, no transitions or dissolves, each cut is instantaneous. Stable natural motion cadence with subtle motion blur only on hand gestures and small head turns; the held face remains sharp.
+
+
+
+
+0.0s to 2.7s: the source shot exactly as filmed. Eye-level medium shot, 47° FOV, Bruno centered slightly left, desk edge along the bottom of frame, slatted LED panel left, pole behind his head, checkerboard and tripod right, pot on the desk in front of him. He speaks "Ficar mudando o ângulo, pegando a sua câmera".
+
+
+
+
+2.7s HARD CUT (on "e colocando"): medium shot from the right side. Camera at eye level, moved about 1.2 m to screen-right of the original position, 1.8 m from Bruno, 47° FOV, aimed back at him so his body reads three-quarter with his left shoulder nearest camera; the black tripod leg and the sticker boxwood now large and soft in the near right foreground, the checkerboard filling the background behind him, the slatted LED panel compressed to the far left edge. Pot still on the desk. Both hands gesture as in the source, he speaks "colocando em qualquer ambiente".
+
+
+
+
+4.6s HARD CUT (on "isso já é coisa do passado"): mirror side. Camera at eye level about 1.2 m to screen-left of the original position, 1.8 m from Bruno, 47° FOV, aimed at him from his right side so his right shoulder is nearest camera; the slatted LED panel now dominates the background behind him with its faint horizontal lines readable, the vertical pole and the edge of the checkerboard compress into the right side, the tripod at the far right edge. Pot on the desk. Same gesture, same words.
+
+
+
+
+6.2s HARD CUT (on "Agora com a inteligência artificial"): high rear plongée, wide and far. Camera behind and above Bruno, about 2.4 m high and 2.5 m behind his chair, tilted down roughly 35°, 84° FOV. The back of his head and shoulders fill the lower center, the light oak desk stretches ahead of him with the white pot on it in front of his chest and the wicker basket at the right end, the back wall ahead with the slatted LED panel left, the checkerboard right, the round LED fresnel glowing up high, the tripod and camera on the right, black floor around the desk. At 7.0s his left hand lifts the white pot off the desk and raises it, seen from above and behind.
+
+
+
+
+8.6s HARD CUT (on "você consegue mudar o ângulo"): close-up on the white ceramic pot and miniature green plant in his raised left hand. 29° FOV, camera at hand height about 0.6 m from the pot, slightly to screen-right of the desk axis, the pot and leaves sharp and filling the left third of frame, the black smartwatch and band on the wrist below it sharp. Bruno is soft in the background over the pot, out of focus, still talking to camera, mouth moving in sync, the checkerboard and the hot round LED blurred behind him. He speaks "você consegue mudar o ângulo".
+
+
+
+
+10.7s HARD CUT (on "mudar o scale"): contra-plongée at desk level. Camera resting on the wooden desktop about 0.7 m in front of Bruno, tilted up about 25°, 63° FOV, the oak wood grain large and sharp in the immediate foreground running into the frame, Bruno looming above it, the pot held up in his left hand, his right hand gesturing, the black ceiling void above him, the top of the round LED fresnel and the upper checkerboard behind his head. He speaks "mudar o scale".
+
+
+
+
+11.8s HARD CUT (in the pause right before "aproximar"): security-camera diagonal from above, close. Camera in the top corner of the room to screen-right and behind the tripod, about 2.6 m high, looking down diagonally at Bruno at roughly 40°, 63° FOV, pushed in so he fills the frame from the chest up, the desk corner and the sticker boxwood cut across the lower left, the top of the tripod and camera at the frame edge, slight wide-lens edge stretch, fixed-camera stillness. He holds the pot in his left hand and speaks "aproximar".
+
+
+
+
+13.0s HARD CUT (on "fazer o zoom"): extreme close-up on his left hand. 18° FOV, camera about 0.4 m from the fingers holding the white pot, the fingers, knuckles, the curve of the white ceramic and a few green leaves sharp, the black smartwatch band at the edge of frame, shallow depth of field, everything behind melting to black. His voice continues in sync off-frame, "fazer o zoom".
+
+
+
+
+15.0s HARD CUT (on "aberto"): very wide, grande angular. Camera at eye level 4 m in front of the desk, centered, 107° FOV, the whole studio revealed: the full length of the light oak desk, Bruno small in the center behind it, the slatted LED panel far left, the vertical pole, the checkerboard, the tripod, the mirrorless camera and the round LED fresnel on the right, the wicker basket at the right end of the desk, black floor and black walls, wide-lens perspective with mild edge stretch, the desk edge bowing slightly. At 15.0s the pot is at chest level in his left hand, at 15.3s it rises again as his right hand spreads wide open, exactly as in the source. He speaks "deixar bem aberto ou colocar em".
+
+
+
+
+17.8s HARD CUT (on "inusitados") to 18.3s: unusual vantage with foreground occlusion. Camera low behind the wicker basket at the right end of the desk, about 0.3 m above the desktop, 84° FOV, the boxwood leaves and the cinema stickers huge and soft in the near foreground covering the lower and left 30% of frame, the black tripod leg with its red ring cutting vertically at the right edge, Bruno small and sharp in the middle distance behind them, seated at the desk with the white pot back on the desk and both hands resting on the desktop, finishing the line to camera, the slatted LED panel and black wall behind him. Hold to the end.
+
+
+
+
+In every cut Bruno's face, expression, gaze and lip movement match the source at that exact second; the pot is on the desk from 0.0s to 7.0s and after 17.0s, and in his left hand only from 7.0s to 17.0s; wardrobe, watch, ring, glasses, lavalier mic and hair identical; the room, its objects and its lighting identical. Face and identity unchanged; everything except the camera identical to the source.
+
+
+
+
+Audio: source dialogue only, Brazilian Portuguese as spoken in @video1, plus the source room tone. No music, no added sound effects.
+
+See all
+Copy prompt
+Recreate
+Version 3. Director's cut: the old way in hard cuts, the new way in one impossible oner
+
+Same take, different idea: form imitates the text. While I say the old way is over (0 to 6 seconds), the camera behaves like a physical object someone picks up and moves: three clumsy hard cuts, a handheld settle, a dutch angle. From "Agora com a inteligência artificial" it becomes one continuous take that executes each verb as I say it: orbit on "mudar o ângulo", dolly back and rush in on "mudar o scale" and "aproximar", optical zoom on "fazer o zoom", snap to 107° on "deixar bem aberto", and a dive into the basket on "lugares inusitados".
+
+The orbit: the set rotates behind me while I stay centered and keep talking to the original lens.
+
+The landing: inside the wicker basket, cinema stickers in the foreground, still in sync.
+
+@video1: Original clip "Intro PT1 YT", 18.3s, 16:9, locked-off medium shot. Bruno, a man in his 30s with medium-short dark wavy hair, clear-frame glasses, black polo shirt, black smartwatch on his left wrist, seated at a light wooden desk in a dark studio, talking to camera in Brazilian Portuguese. Set, screen-left to screen-right: a dark rectangular LED panel with faint horizontal lines on the black back wall, a black-and-white checkerboard panel, a bright round LED light on a stand high at the back, a black DSLR on a tripod behind the desk on the right, and on the desk at the right a wicker basket with a green boxwood plant covered in cinema stickers (tickets, film camera, popcorn). A small white ceramic pot with a green plant sits on the desk in front of him; at about 7.5s he lifts it in his left hand and holds it up while talking, lowering it near the end as in the source. This clip is MASTER for identity, face, voice, dialogue, lip-sync, performance timing, gestures, wardrobe, set dressing, lighting, color and duration. The ONLY change is the camera: where it is, how it moves, what lens it uses. Everything else replays exactly as in the source.
+
+
+
+
+Photoreal, 16:9, 18s, 24fps. Same grade as the source: soft frontal key on the face from camera-left, warm skin, deep black background, the round LED at the back reads as a hot practical with a mild bloom, fine 35mm-style grain. Source dialogue and room tone only, mouth movement matches the source audio exactly.
+
+
+
+
+CRITICAL IDENTITY: Bruno's face, glasses, hair, body, hands and voice stay identical to @video1 in every frame, from every angle and at every distance. Same man, same expressions at the same instants, same Brazilian Portuguese line, spoken continuously and unbroken, in sync with the source: "Ficar mudando o ângulo, pegando a sua câmera e colocando em qualquer ambiente, isso já é coisa do passado. Agora com a inteligência artificial, você consegue mudar o ângulo, mudar o scale, aproximar, fazer o zoom, deixar bem aberto ou colocar em lugares inusitados."
+
+
+
+
+THE ROOM NEVER CHANGES: same desk, same white pot and plant, same wicker basket with stickers, same tripod and DSLR, same checkerboard panel, same LED panel, same back light, same black walls, all in their exact source positions throughout. The desk stays at the same height, the DSLR tripod stays screen-right of Bruno, the checkerboard behind his left shoulder, the LED panel behind his right shoulder. New vantage points reveal more of this same room, consistent with that geometry.
+
+
+
+
+PART ONE, 0.0s to 6.1s: THE OLD WAY. Three hard cuts, each one a real camera someone physically picked up and moved. Cuts only at the stated seconds, the camera never cuts on its own.
+
+
+
+
+0.0s to 1.5s: the source shot exactly as filmed. Eye-level medium shot, 47° FOV, Bruno centered, desk edge at the bottom of frame, LED panel left, checkerboard and tripod right. Locked off. He speaks "Ficar mudando o ângulo".
+
+
+
+
+1.5s HARD CUT (on "pegando a sua câmera"): handheld medium close-up from screen-left, 63° FOV, camera at eye level about 1.3 m from Bruno, slightly off-level by 4°, a visible handheld settle in the first half second as if the operator just stopped walking, small breathing tremor after that. Bruno three-quarter, the LED panel large behind him, the checkerboard sliding to the right edge.
+
+
+
+
+2.6s HARD CUT (on "e colocando em qualquer ambiente"): wide from the far right corner of the studio, 84° FOV, camera at 1.7 m height, 3.5 m from Bruno, rolled 8° dutch, the DSLR tripod cutting the foreground on the right, the sticker plant in the near right, Bruno small at the desk in the middle, the whole back wall with the LED panel, checkerboard and round LED visible. Static, a little cold and clumsy, like a second unit B-cam.
+
+
+
+
+4.5s HARD CUT (on "isso já é coisa do passado"): dead-flat frontal bust, 29° FOV, camera at eye level exactly centered 2 m in front of him, Bruno's head and shoulders filling the frame, checkerboard squares soft behind him, perfectly static, tripod-locked, the safe corporate interview frame. He finishes the sentence. Hold.
+
+
+
+
+PART TWO, 6.1s to 18.3s: THE NEW WAY. From this bust frame the shot becomes ONE CONTINUOUS TAKE with no cuts of any kind, the camera moving as a weightless physical object through the room, executing each verb the instant Bruno says it. No dissolves, no morphs, no hidden cuts, the frame is continuous the whole way.
+
+
+
+
+6.16s, on "Agora com a inteligência artificial": the locked bust frame comes alive. The camera exhales into a slow drift, easing back from 2 m to 2.4 m and rising 20 cm, the 29° lens opening gently to 47°, Bruno's shoulders and the desk edge entering the frame. His hands rise as in the source; at about 7.5s he lifts the white pot into his left hand.
+
+
+
+
+8.24s, on "você consegue mudar o ângulo": the camera orbits. A smooth 90° arc around Bruno from front to his screen-right side, radius 2.2 m, eye level, 47° FOV, Bruno held centered and the same size in frame the whole arc while the set rotates behind him: the LED panel slides out left, the checkerboard passes behind his head, the DSLR on its tripod and the round LED come around into the background. He keeps talking to the original camera position, so during the orbit we see his face turn to a three-quarter and then a profile, mouth still in sync.
+
+
+
+
+10.68s, on "mudar o scale": scale changes, lens fixed at 47°. From the side position the camera rushes straight back to 5 m in one second, Bruno shrinking to a small figure at the desk with the whole studio around him, then holds a beat.
+
+
+
+
+12.04s, on "aproximar": the camera rushes straight in, same axis, from 5 m to 0.9 m in under a second, landing on a tight side close-up of Bruno's face and glasses, the pot in his left hand at the edge of frame. The rush is a dolly through space, not a lens zoom: perspective changes, the room streams past.
+
+
+
+
+13.18s, on "fazer o zoom": now a pure optical zoom, camera position frozen at 0.9 m. The lens crashes from 47° to 12°, punching onto the white ceramic pot and the small green plant in his hand, ceramic and leaves filling the frame, the watch strap at the edge, perspective unchanged, only magnification.
+
+
+
+
+14.32s, on "deixar bem aberto": snap zoom out from 12° to a full 107° while the camera lifts to 2.5 m and drifts back to the front-center of the room, revealing the entire studio in one wide-lens breath: the whole desk bowing slightly with wide-lens curvature, Bruno small in the center lowering the pot as in the source, the LED panel far left, checkerboard, tripod, DSLR and the round LED on the right, the black floor.
+
+
+
+
+15.44s, on "ou colocar em lugares inusitados": the camera dives. From high and wide it swoops down in a smooth arc toward the right end of the desk and settles INSIDE the wicker basket, lens at 84°, about 0.25 m above the desktop, looking up and across at Bruno through the boxwood: leaves and the cinema stickers (ticket, film camera, popcorn) huge and soft in the near foreground filling the lower and left 35% of frame, the woven rim of the basket at the bottom edge, Bruno sharp in the middle distance behind them at the desk, finishing the line to camera, the black tripod leg at the right edge, the LED panel and black wall behind him. The camera comes to rest by 17.0s and holds, completely still, to 18.3s.
+
+
+
+
+Throughout Part Two the camera behaves like a single real object with mass: every change of speed has a short ease in and ease out, no teleporting, no popping, motion blur consistent with 180° shutter at 24fps.
+
+
+
+
+In every frame Bruno's face, expression and lip movement match the source at that exact second; the plant is in his hand only during the seconds it is in his hand in the source; wardrobe, watch, glasses and hair identical; the room and its lighting identical.
+
+
+
+
+Audio: source dialogue only, Brazilian Portuguese as spoken in @video1, plus the source room tone. No music, no added sound effects.
+
+See all
+Copy prompt
+Recreate
+Cost, tools and the same prompt on other models
+Seedance 2.5 on Higgsfield: up to 30 seconds per generation, 720p, voice and lip-sync preserved. Seedance 2.0 gives native 4K but caps at 15 seconds, so for a talking take over 15s use 2.5.
+On the Higgsfield Unlimited plan these video-to-video generations do not consume credits, which is what makes it possible to iterate three versions of the same clip. If you are not on Higgsfield yet, this is my link: higgsfield.ai. Signing up through it gives you a discount on the first plan.
+The same prompt runs on Gemini (Omni Flash): drag the clip in, paste the prompt. It works, with lower fidelity than Seedance 2.5.
+Everything was written by Claude with my two skills. The prompt writer is what turns "side shot at 2.7s" into a paragraph the model obeys; the VFX skill is what maps the footage so nothing drifts. Both are sold on my site as one-time downloads: Seedance 2.5 Prompt Writer and Special Effects VFX. No Claude? Rename the .skill file to .zip, open the SKILL.md inside, and paste it into a ChatGPT or Gemini agent. Same instructions, same result.
+
+I'm Bruno Benetti, film director since 2009, and this is how I direct now: one take, then the camera goes wherever the sentence needs it.
+
+Behind the scenes and the daily reels are on Instagram: @brbenetti.
+
+Watch the full tutorial (in Portuguese) and the other AI film breakdowns on my channel. YouTube @br_benetti
+
+MAKE YOURS ON HIGGSFIELD. THROUGH MY LINK YOU GET A DISCOUNT PLUS BONUS CREDITS.
+Try Higgsfield (discount + bonus)

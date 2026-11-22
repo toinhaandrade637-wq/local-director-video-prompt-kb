@@ -1,0 +1,83 @@
+【项目】How to Create AI Videos With Hermes Agent and Higgsfield（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/create-ai-videos-hermes-agent-higgsfield
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+How to Create AI Videos With Hermes Agent and Higgsfield
+Higgsfield
+Oct 14, 2026
+8 min
+
+To generate AI videos with Hermes through Higgsfield, you need three things: the Higgsfield CLI installed and connected to Hermes, a clear idea described in plain language, and a Higgsfield account with generation credits. Hermes manages the request and the whole workflow. Higgsfield provides the video generation tools. This guide covers the connection, the first generation, and refining the result.
+
+What Is Hermes Agent, and How Does It Generate AI Videos?
+
+Hermes Agent is an open-source autonomous AI agent by Nous Research. It can use tools, skills, memory, and external integrations to carry out multi-step tasks. On its own, Hermes doesn't generate video.
+
+Hermes turns your request into a sequence of actions and keeps track of the conversation. Through Higgsfield CLI + Skills, it can select a model, submit a generation request, and retrieve the result.
+
+What You Need Before You Start
+Hermes Agent installed and ready to use
+Node.js and npm installed to run the setup commands below
+A Higgsfield account with an active paid subscription and available credits
+Higgsfield CLI + Skills installed in the environment Hermes uses
+
+No Higgsfield API key is required. CLI generations use your Higgsfield plan credits at standard rates. Unlimited access and free generations available on higgsfield.ai do not apply through CLI.
+
+How to Connect Hermes Agent to Higgsfield AI
+
+Step 1: Install the Higgsfield CLI. Ask Hermes to install it, or run the command directly:
+
+npm i -g @higgsfield/cli
+
+
+Step 2: Log in through the browser. Run the login command, which opens a browser window to confirm the connection to a Higgsfield account:
+
+higgsfield auth login
+
+
+Step 3: Add the companion skills. This gives Hermes the specific skills it needs to route video and image requests to Higgsfield correctly:
+
+npx skills add higgsfield-ai/skills
+
+
+Once setup is complete, you can ask Hermes to generate an image or video with Higgsfield. Hermes can select the Higgsfield generation skill and run the request for you.
+
+How to Generate Your First Video With Hermes Agent
+
+Step 1: Describe the video. Tell Hermes what you want to generate with Higgsfield. Use plain language to describe the subject, setting, and action.  
+
+Step 2: Add the format, duration, and any references. Specify your preferred aspect ratio and clip length, such as “Horizontal, 16:9, 15 seconds.” If a particular product or character matters, provide a reference image that Hermes can access. 
+
+Step 3: Choose a model or let Hermes select one. Name the model you want to use, or ask Hermes to choose one for your request. Have it check that the model supports your chosen settings and inputs.
+
+Step 4: Check the credit cost. Add this instruction: “Before generating anything, tell me the credit cost and wait for my confirmation.”
+
+Step 5: Approve the generation. Review the proposed model, settings, and credit cost. Once you confirm, Hermes can submit the request to Higgsfield.
+
+Step 6: Review the result. Check the framing, motion, and lighting against your brief. If you want another version, describe what should change and ask Hermes to confirm the cost before proceeding. 
+
+Refine Your Video With Follow-Up Prompts
+
+Use follow-up messages to request changes to the camera, action, or style. Hermes can use the existing conversation and available generation context to run the appropriate Higgsfield generation or editing workflow.
+
+Adjust the camera. "Push in slower" or "start wider, then move closer."
+Adjust the action. "Have the steam rise more slowly" or "add a hand reaching for the cup."
+Adjust the style. "Make the lighting warmer" or "give it a more cinematic color grade."
+Build on the previous result. Hermes can use the conversation context and previous Higgsfield generations when the selected workflow supports them, so you do not always need to repeat the full brief.
+
+If the change requires another generation, ask Hermes to show the credit cost before proceeding. CLI generations also appear in Assets on higgsfield.ai, alongside generations created on the web.
+
+When Should You Use Hermes Agent for Video Production?
+Turn a brief into a video concept. Ask Hermes to review the brief, develop a creative direction, and generate a first version through Higgsfield in the same conversation.
+Explore variations. Start with one version, then request alternatives with different colors, camera movements, or backgrounds.
+How Does Hermes Compare With Other AI Assistants?
+
+Hermes is an open-source agent you can run in your own environment and customize with tools, skills, and memory. It connects to Higgsfield through CLI + Skills. Other coding agents can use CLI + Skills too. Claude web and Cowork connect through Higgsfield MCP, while ChatGPT uses the Higgsfield Plugin; Claude Code can use the CLI-based workflow.
+
+Hermes can be useful when video generation is part of a larger task. For example, you can ask it to review a brief, organize reference files, prepare prompts, and then generate a clip through Higgsfield. If you prefer requesting and reviewing videos in a familiar chat interface, a chat-based assistant may be a better fit.
+
+HOW TO CREATE AI VIDEOS WITH HERMES AGENT AND HIGGSFIELD
+Get Higgsfield CLI

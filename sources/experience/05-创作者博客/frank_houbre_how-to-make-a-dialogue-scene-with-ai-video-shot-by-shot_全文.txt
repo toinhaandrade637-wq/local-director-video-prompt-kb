@@ -1,0 +1,169 @@
+【项目】HOW TO MAKE A DIALOGUE SCENE WITH AI VIDEO (SHOT BY SHOT)（@frank_houbre · 创作者博客）
+【链接】https://higgsfield.ai/@frank_houbre/blogs/how-to-make-a-dialogue-scene-with-ai-video-shot-by-shot
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW TO MAKE A DIALOGUE SCENE WITH AI VIDEO (SHOT BY SHOT)
+@frank_houbre
+18
+0
+0
+
+Generate a dialogue scene the way a crew shoots one: as coverage, in separate pieces. Start with a wide two-shot that fixes who sits where. Then generate a single of each character, keeping the camera on the same side of the imaginary line running between them. Three generations, three jobs, assembled afterwards in your editor. Asking one prompt for a whole conversation is where most first attempts fall apart, because the model has no reason to keep your two characters on the same sides of the frame from one clip to the next.
+
+Why do AI dialogue scenes feel wrong even when the faces are right?
+
+The geography moves. A viewer follows a conversation with spatial memory: character A sits on the left looking right, character B sits on the right looking left. Hold that and the cuts disappear. Flip it halfway through and the scene reads as two people talking to a wall.
+
+
+
+
+Video models have no memory of the previous clip. Each generation starts from nothing, so unless you state which way each character faces, the model decides for you. It decides differently every time.
+
+
+
+
+Most AI dialogue scenes break on screen direction, while every individual clip still looks perfectly fine on its own.
+
+Should you generate both characters in one shot or shoot them separately?
+
+Separately, most of the time. Two characters sharing a frame is still the hardest thing to ask a video model for in 2026. Identities blur where the two bodies overlap, faces borrow features from each other, and scale drifts so one of them quietly grows or shrinks against the other. Higgsfield, Runway, Kling and the rest all hit the same wall on close interaction.
+
+
+
+
+Use a two-shot for what it does well: a wider frame where both characters sit far enough from the lens that small identity errors stay invisible, and where the audience learns the layout of the room. Then carry the conversation in singles, where the model only has one face to hold.
+
+
+
+
+One character per generation is the cheapest reliability you can buy.
+
+The master two-shot from episode 1 of Lost Garden. Both characters stay small in frame, which is why identity errors stay invisible here, and the audience gets the layout of the room in one look.
+
+How do you keep eyelines matching between a shot and its reverse?
+
+Draw the line before you write any prompt. In traditional coverage, an imaginary line runs between the two characters, and every camera position stays on one side of it. Cross it and left and right swap on the cut, which is the whole substance of the 180 degree rule.
+
+
+
+
+In practice, write the direction into each prompt in words. For the character sitting on the left of your master: medium shot, facing camera right, three quarter angle from her left. For the reverse: facing camera left, three quarter angle from his right. Add eye height while you are at it, because a model that puts one eyeline level and the other angled down turns a conversation between equals into an interrogation.
+
+
+
+
+Screen direction has to appear in the prompt, in plain words, for every shot in the scene.
+
+The reverse angle from the same scene, generated separately with the camera kept on one side of the line. The shoulder in the foreground is what holds the two of them at the same table across the cut.
+
+What order should you generate a dialogue scene in?
+
+Step 1. Lock both characters before any dialogue shot exists. One reference sheet each, same wardrobe, same lighting note written down.
+
+
+
+
+Step 2. Generate the wide two-shot first. Whatever comes back becomes your ground truth for the room and for who sits where.
+
+
+
+
+Step 3. Read that master and write the direction down as a note: A on the left facing right, B on the right facing left, key light coming from the window behind B.
+
+
+
+
+Step 4. Generate the singles from that note, one character at a time, quoting the same lighting and wardrobe language you used on the reference sheets.
+
+
+
+
+Step 5. Generate one silent reaction shot per character, longer than you think you need. Reaction shots are how you repair rhythm in the edit without paying for a single reroll.
+
+
+
+
+That order exists because rerolls are the real cost of this work. On Lost Garden, my dark fantasy anime series, some five second shots took around twenty rejected versions before one held. Every one of those rejections got cheaper once the shot had a written brief sitting behind it.
+
+
+
+
+A dialogue scene planned as five separate shots costs less than the same scene attempted twice as one clip.
+
+What about voices and lip sync?
+
+Build the audio first where your tool allows it, then generate picture against that audio. A performance shaped to fit an existing line lands closer than a line stretched to fit a mouth that was already animated.
+
+
+
+
+Watch the room tone as much as the voices. Two lines generated in different acoustic spaces refuse to cut together even when the picture matches, and that mismatch is what listeners notice before they notice anything about the faces.
+
+
+
+
+The audio edit is where most viewers first sense that a scene was assembled rather than filmed.
+
+Beginner mistakes that break a dialogue scene
+
+Asking one prompt for the entire exchange. The model gives you a plausible ten seconds and no way to control the pacing afterwards.
+
+
+
+
+Cutting from a single straight into another single of the same size. Change the frame size between shots or the cut reads as a stutter.
+
+
+
+
+Letting the room drift. Bottles on the shelf behind, the direction of the key light, the chairs, the mug on the table. Name them in every prompt for that scene.
+
+
+
+
+Writing lines that either character could say. If you can swap the dialogue between them and nothing breaks, the problem sits in the script, and no amount of coverage will hide it.
+
+
+
+
+Skipping the reaction shots. They cost one generation each and they save the edit more often than anything else you will shoot.
+
+FAQ
+
+How many shots does a short dialogue scene need?
+
+Five usually covers an exchange under a minute: a wide master, a single of each character, and a silent reaction of each. Add an insert if an object matters to the scene.
+
+
+
+
+Can I generate a whole conversation as one long clip?
+
+You can with the longer duration models, and it holds for a brief exchange in a static frame. Past ten or fifteen seconds, identity and scale start drifting, and you give up any control over rhythm in the edit.
+
+
+
+
+Do I need a storyboard for a two person scene?
+
+A shot list with the direction written next to each shot is the minimum. That is the job ScreenWeaver handles: script in, shot list and storyboard out, with continuity notes attached per shot.
+
+
+
+
+What if my characters have to touch, hug or fight?
+
+Frame it wide, shoot it from behind, or cut away at the moment of contact. Physical interaction between two generated characters is exactly where identity blurring shows the most, so give the model as little of it as the scene can survive.
+
+
+
+
+Write the direction down before you spend a single credit, and the scene stops being a lottery.
+
+
+
+
+What is the longest dialogue exchange you have managed to hold together with generated shots?

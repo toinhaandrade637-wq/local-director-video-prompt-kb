@@ -1,0 +1,171 @@
+【项目】CLAUDE MOTION TUTORIAL（@kaye_creatives · 创作者博客）
+【链接】https://higgsfield.ai/zh/@kaye_creatives/blogs/claude-motion-tutorial
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+CLAUDE MOTION TUTORIAL
+@kaye_creatives
+21.3K
+45
+21
+
+Hi there! Thank you so much for your support! Here are your promised prompts!
+
+Have fun creating and don’t forget to experiment and tag me in your works ✨
+
+Today we are going to learn how to edit videos by Claude
+
+Follow me step by step 👀 And let's get ✨started✨
+
+
+
+
+Step 1. Setup
+Part 1. Setting up Higgsfield MCP
+
+
+
+
+First, go to Higgsfield and find ✨MCP✨ button on the top bar ⤵️
+
+
+
+
+
+
+
+In the opened page click on ✨Claude✨ → tap ✨Connect Higgsfield✨ button
+
+
+
+
+
+
+
+It will automatically open your Claude → tap ✨Continue✨
+
+
+
+
+
+
+
+Then scroll to the very end of the window and tap ✨Add✨
+
+
+
+
+Part 2. Adding skill
+
+Now we need to upload the skill that will make the edit
+
+
+
+
+Download this skill ⤵️
+
+Claude_edit_skill.zip
+ZIP
+
+
+
+
+
+
+
+Then go back to Claude → find ✨Customize✨ on the left panel
+
+
+
+
+
+
+
+On the top bar of opened page tap ✨+ Add✨ → then tap ✨Upload Skill✨
+
+
+
+
+
+
+
+Drag the skill here and tap ✨Upload✨
+
+
+
+
+And that's it - we finally added the skill that is ready to work
+
+
+
+
+We are finally set up, so let's start ✨creating✨
+
+Step 2. Inputs and prompt
+Video 1
+
+Here are references that I used to show the Claude my idea 
+
+references.zip
+ZIP
+
+
+
+
+Just input it to prompt bar with your raw footage video like mine ⤵️
+
+
+
+
+Then just paste the prompt ⤵️
+
+Use the attached /editorial-film-edit skill to edit my video. Start by reading SKILL.md and the related instructions inside the archive.
+I’m attaching my source footage (already cut) and links to reference videos for the visual vibe. Study them and use them together with the skill’s rules: an archival look, expressive collages, light organic grain, soft bloom, a bright black-and-white grade, three type roles, smooth kinetic typography, selective stop-motion, text placed behind objects, and split screens that slide in softly and only appear with the presenter.
+Adapt the imagery and the edit to the topic of my video. Keep the speech, the clip order, the length, and the format of the source exactly as they are.
+Put the video together yourself, then check the export in motion and with sound, and fix any issues you find. Send me the finished MP4 and the editable project.
+
+
+
+
+Here is the second prompt I used to polish the result ⤵️
+
+Finalize the current edit, following the skill’s rules and my references. The text and audio are correct, so please don’t change them. Bring all the inserts into one consistent style, so they all look like archival footage. Tone down the grain, add a bloom effect and a black-and-white grade, and animate the split screens. Work from clean layers and keep the previous version saved separately.
+
+Once it’s done, send me the final MP4, the updated project, and a short list of the changes. I’ve also attached a couple more reference videos that show the look I have in mind.
+Video 2
+
+Here I used one more skill - upload it the same way as the first one⤵️
+
+paper-collage-film.skill
+SKIL
+
+
+
+
+And here is the prompt ⤵️
+
+I need a 10 sec launch video for my youtube channel kaye.creatives (youtube.com/@Kaye.creates), it's about AI filmmaking.
+
+I love this ref: https://pin.it/PEA0wLw2I. That torn paper collage look is exactly the vibe. Don't copy it 1:1 though, make it about my channel.
+
+Do as much as you can in code. Only generate stuff code can't do, like photo cutouts of a camera, an F1 car, a plane, a laptop. No people please.
+
+Idea: someone clicks a paper play button, the page rips open into my worlds (F1 car, camera lens into a kaleidoscope, a laptop with a prompt being typed), then "KAYE / CREATIVES" drops in, the page tears to the logo, and it ends with a subscribe click.
+
+Use Fraunces Black Italic for the title, dark night sky colours with neon pink. Fun music that hits on the cuts. Throw a few agents at it so it's faster.
+
+
+
+
+And one more if you want to make your result better ⤵️
+
+looks good, let's polish it. make sure the music lands on the cuts, nothing covers the car or the title, no flashing on the whole screen. then render the final pls
+Contents
+Step 1. Setup
+Part 1. Setting up Higgsfield MCP
+Part 2. Adding skill
+Step 2. Inputs and prompt
+Video 1
+Video 2

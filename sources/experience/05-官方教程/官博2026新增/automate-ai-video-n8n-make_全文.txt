@@ -1,0 +1,389 @@
+【项目】How to Automate AI Video Generation With n8n and Make（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/automate-ai-video-n8n-make
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+How to Automate AI Video Generation With n8n and Make
+Higgsfield
+Oct 3, 2026
+10 min
+
+An AI automation agency can connect Higgsfield to n8n and Make and deliver the finished videos to clients. The Higgsfield API connects through the standard HTTP Request step and covers 50+ video and image models. Higgsfield MCP connects through the MCP Client in both orchestrators. The generated videos can be used commercially.
+
+Can you connect an AI video platform to n8n or Make and resell the videos?
+
+Yes. For an agency, the hard part is usually scale. Different client briefs may need different models. Managing a separate vendor, API key, and integration for each one adds setup work before generation begins.
+
+Higgsfield approaches this as an AI-native creative suite, where the whole pipeline runs through one account. The Higgsfield API is how Higgsfield handles integration: one key and one request lifecycle open 50+ video and image models, from Seedance and Kling to Higgsfield's own Cinema Studio 4.0 and Marketing Studio. There is also a second route for teams that already work on a Higgsfield plan: Higgsfield MCP connects n8n and Make to the same account used on the website, and the results land in Assets.
+
+API or MCP: which route fits an agency workflow?
+
+The API and MCP are two different products, each with its own account and billing. The right route depends on how the agency plans to run volume.
+
+API or MCP: which route fits an agency workflow?
+
+Criteria
+
+	
+
+Higgsfield API
+
+	
+
+Higgsfield MCP
+
+
+
+
+Account
+
+	
+
+Separate API account at open.higgsfield.ai
+
+	
+
+Your higgsfield.ai account
+
+
+
+
+Billing
+
+	
+
+Prepaid API balance in US dollars, pay per generation
+
+	
+
+Plan credits at standard rates
+
+
+
+
+Requirement
+
+	
+
+Funded balance, minimum top-up $5
+
+	
+
+Active paid subscription
+
+
+
+
+Authentication
+
+	
+
+API key, server-side only
+
+	
+
+OAuth sign-in, no key
+
+
+
+
+Models
+
+	
+
+50+ API catalog models
+
+	
+
+Website model lineup, including Veo 3.1
+
+
+
+
+Soul ID characters
+
+	
+
+Available, from $2.50 per request
+
+	
+
+Available
+
+
+
+
+Where results land
+
+	
+
+File URL returned to your workflow
+
+	
+
+Assets on higgsfield.ai, plus a result URL
+
+
+
+
+Fits
+
+	
+
+Client volume, production pipelines
+
+	
+
+Teams already on a Higgsfield plan
+
+How does a Higgsfield generation run inside a workflow?
+
+Every generation through the API is asynchronous and follows the same four stages, whichever orchestrator sits on top:
+
+Submit a request. The workflow sends a POST to the model's endpoint on api.higgsfield.ai and receives a request_id, a status_url, and a cancel_url.
+Wait in the queue. The request moves through queued and in_progress to a final status: completed, failed, nsfw, or canceled.
+Receive a webhook or poll. A webhook URL is passed in the hf_webhook query parameter of each request, and delivery retries continue for up to 2 hours. Polling the status_url every 2 to 10 seconds is the fallback.
+Download the file. The completed response carries the output URL. Files stay available for at least 7 days, so the workflow should copy them to the agency's own storage.
+
+Failed generations are not billed, and the amount returns to the balance automatically. The full request walkthrough is in How To Generate AI Videos Straight From the Higgsfield API.
+
+How do you connect the Higgsfield API to n8n?
+
+n8n calls the API through the HTTP Request node, and the webhook resumes the waiting workflow:
+
+Create a Header Auth credential. The header name is Authorization, the value is Key KEY_ID:SECRET with the key generated in the console at open.higgsfield.ai.
+Add an HTTP Request node with the POST method and the model's endpoint, and attach the credential. The JSON body carries the prompt and settings listed on the model's page:
+Add a Wait node set to resume on a webhook call. The expression {{ $execution.resumeUrl }} in the hf_webhook parameter points Higgsfield at that exact waiting workflow, so the run continues the moment the generation reaches a final status.
+Read the output URL from the webhook payload and hand it to whatever delivery step the agency already uses.
+POST <https://api.higgsfield.ai/bytedance/seedance-2.5/text-to-video?hf_webhook=>{{ $execution.resumeUrl }}
+Content-Type: application/json
+
+{
+  "prompt": "A ceramic mug rotating on a studio table, soft daylight",
+  "duration": 10,
+  "resolution": "720p"
+}
+Copy
+Recreate
+
+A polling loop with an HTTP Request node against the status_url works as a backup when a public webhook address is not an option.
+
+How do you connect the Higgsfield API to Make?
+
+For a webhook-based callback in Make, use one scenario to submit the generation request and a second scenario, triggered by a Custom webhook, to receive the completed result:
+
+The first scenario sends the generation request through the HTTP module, with the same JSON body and Authorization: Key KEY_ID:SECRET header. The address of a Custom webhook from the second scenario goes into the hf_webhook parameter.
+The second scenario starts from that Custom webhook, receives the final status payload, takes the output URL, and handles delivery.
+
+A single-scenario alternative uses the Sleep module between the request and a status check against the status_url, repeated until the status is final.
+
+How do you connect Higgsfield MCP to n8n and Make?
+
+Both orchestrators ship an MCP Client, and in our test Higgsfield MCP connected to both with a regular Higgsfield account sign-in, no API key involved. An active paid subscription is required, and every generation deducts plan credits at standard rates.
+
+In n8n:
+
+Add the MCP Client node and set Server Transport to HTTP Streamable, the endpoint URL to https://mcp.higgsfield.ai/mcp, and Authentication to MCP OAuth2.
+Create the credential with Use Dynamic Client Registration turned on, connect, and sign in to Higgsfield in the window that opens.
+Pick a tool from the list that loads after sign-in: generation tools for images, video, and audio, batch versions, upscales, and Marketing Studio sit next to utility tools. Parameters go into a single JSON field, for example {"model": "soul_2", "prompt": "a red apple on a white table", "get_cost": true}.
+Run a second MCP Client node with the jobs_wait tool and the returned job id to receive the final status and the result URL.
+
+In Make:
+
+Add the MCP Client app with the Call a tool action.
+Create a connection to a new MCP server with the same URL. Leave the token field empty and sign in through the OAuth window.
+Pick a tool and pass the arguments as one JSON field.
+During our Make test, switching tools did not always refresh the argument fields; recreating the module resolved it.
+
+In our testing, the get_cost parameter returned the price of a request without starting a job, and jobs_wait did not consume generation credits. Make also meters its own operations separately from Higgsfield credits, so the orchestrator's billing applies on top. Prompting patterns for MCP are covered in Generate AI Videos From Claude with Higgsfield MCP.
+
+n8n or Make: which one suits this flow?
+
+Both orchestrators run both routes. The main differences are how each platform handles waiting, webhooks, and hosting.
+
+n8n or Make: which one suits this flow?
+
+Criteria
+
+	
+
+n8n
+
+	
+
+Make
+
+
+
+
+Waiting for a result
+
+	
+
+Wait node resumes on the webhook inside one workflow
+
+	
+
+Second scenario receives the webhook, or Sleep plus polling
+
+
+
+
+Receiving the webhook
+
+	
+
+Built-in resume URL per execution
+
+	
+
+Custom webhook module with its own address
+
+
+
+
+Hosting
+
+	
+
+Cloud or self-hosted
+
+	
+
+Cloud
+
+
+
+
+MCP connection
+
+	
+
+MCP Client node, OAuth with Dynamic Client Registration
+
+	
+
+MCP Client app, Call a tool action, OAuth
+
+
+
+
+Tool arguments over MCP
+
+	
+
+Separate parameter fields or JSON
+
+	
+
+One JSON params field
+
+For an agency that keeps API keys on its own infrastructure, self-hosting is the main structural difference between the two.
+
+Use n8n if you want self-hosting and more control over your workflow infrastructure. Use Make if you prefer a fully cloud-based visual workflow. Both run Higgsfield through the API or MCP, so the choice comes down to hosting and how the team wants to manage automation.
+
+Can you resell Higgsfield videos to clients?
+
+Higgsfield does not claim ownership of generated outputs and does not restrict their commercial use, and rights in exported outputs can be transferred or sublicensed to clients. The API itself cannot be resold or exposed as a standalone generation service, and API use is governed by the Higgsfield API Terms of Service together with the Terms of Use:
+
+Can you resell Higgsfield videos to clients?
+
+Allowed
+
+	
+
+Restricted
+
+
+
+
+Commercial use of finished outputs, including client work
+
+	
+
+Reselling or exposing Higgsfield API access as a standalone service
+
+
+
+
+Transferring or sublicensing rights in outputs to clients
+
+	
+
+Sharing the API key with anyone, including clients
+
+
+
+
+Keeping rights in exported outputs after a subscription ends
+
+	
+
+Sharing the higgsfield.ai account or its login credentials
+
+The agency keeps control of the account and credentials, while the client receives the finished files. Commercial rights in outputs do not depend on the plan. Ownership details are in Who owns my generations, and can I use them commercially?, and the wider agency picture is in AI video platforms for agencies.
+
+What does client volume cost?
+
+The two routes are billed differently, so the math depends on which one the workflow runs on.
+
+Through the API, every generation is paid from a prepaid API balance in US dollars, and video is priced per second of output. Failed generations are not billed, and the minimum top-up is $5. API prices vary by model and configuration. The examples below reflect specific settings at the time of publication; use the cost estimate endpoint for the current price before running production jobs.
+
+What does client volume cost?
+
+Model
+
+	
+
+Starting rate
+
+	
+
+10-second clip
+
+
+
+
+Kling 3.0
+
+	
+
+from $0.084 per second
+
+	
+
+from $0.84
+
+
+
+
+Seedance 2.5
+
+	
+
+from $0.2057 per second
+
+	
+
+from $2.06
+
+Parallel capacity scales with funding over the last 28 days: up to $25 added runs 2 concurrent requests, from $25 the limit is 10, from $100 it is 20, and from $1,000 it is 40. Higher limits go through Contact sales.
+
+Through MCP, the same generations deduct plan credits at standard rates, and $1 corresponds to 20 credits. Plans start at Starter for $15/mo, with Plus at $49/mo ($39 annual) and Ultra at $129/mo ($99 annual). The orchestrator's own billing applies separately in both routes.
+
+When is an external orchestrator not needed?
+
+Recurring generation on a schedule does not always need n8n or Make. Supercomputer, the agent on higgsfield.ai, runs scheduled and multi-step generation jobs inside the website with plan credits and no external setup. It is available only on the website, so it works as an alternative to an orchestrator, and the two approaches are compared in the Higgsfield Supercomputer guide.
+
+Where does this setup fall short?
+There is currently no official first-party Higgsfield node for n8n or Make. HeyGen and Creatomate list ready-made connectors in both orchestrators. The official Higgsfield routes are the API through HTTP requests or Higgsfield MCP through an MCP Client, which surfaces a ready list of tools after sign-in.
+Unlimited access does not apply outside the website. Generations through the API are paid from the API balance, and generations through MCP always deduct plan credits.
+Veo 3.1 is not in the API catalog. It is available on the website and through MCP, so workflows built on the API route cannot call it.
+The webhook URL must be included with each API submission. The hf_webhook parameter is set per request, so the workflow attaches the address each time.
+
+For a wider look at video APIs, see 9 Best AI Video Generation APIs in 2026.
+
+HOW TO AUTOMATE AI VIDEO GENERATION WITH N8N AND MAKE
+Get Your API Key

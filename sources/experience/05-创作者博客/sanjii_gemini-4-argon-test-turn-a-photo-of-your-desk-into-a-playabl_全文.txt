@@ -1,0 +1,90 @@
+【项目】GEMINI 4 ARGON TEST: TURN A PHOTO OF YOUR DESK INTO A PLAYABLE PHYSICS GAME（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/gemini-4-argon-test-turn-a-photo-of-your-desk-into-a-playable-physics-game
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+GEMINI 4 ARGON TEST: TURN A PHOTO OF YOUR DESK INTO A PLAYABLE PHYSICS GAME
+@sanjii
+177
+0
+0
+Before You Start
+
+Google just announced Gemini 4 Argon — its new flagship model, built for long, heavy-duty workflows. The headline skill we wanted to test: can it look at a real space, understand how the objects in it sit in 3D, and turn that into something playable?
+
+
+
+
+Short answer: yes. One photo of a messy desk became a working physics game — the coffee mug turned into an obstacle, the notebook into a launchpad. Then we pushed it further: a five-second phone pan around a room became an interactive 3D environment.
+
+
+
+
+Below are both prompts, exactly as we ran them. You only need two inputs:
+
+A photo — any cluttered surface works. More distinct objects = a more interesting level.
+A short video — slowly pan your phone around a room for about five seconds.
+Heads up: Argon is rolling out gradually. If you don't have access yet, the same prompts run in Supercomputer — hit Recreate on any card below.
+The Builds
+Build 1 — Desk Photo → Physics Game
+
+What it does: Reads the spatial layout of the desk photo and turns every object into part of a playable 2D physics game, delivered as one HTML file.
+
+Analyze the spatial layout of the attached photo of my desk. Identify every distinct object, its position, approximate size and shape, and how the objects sit relative to each other.
+
+
+
+
+Then turn this exact layout into a playable physics game:
+
+- Keep every object where it is in the photo, drawn as a simple, clean shape that still reads as the real object.
+
+- Give each object a gameplay role based on its shape: tall or round things (like a mug) become obstacles, flat things (like a notebook) become launchpads or ramps, small loose items become collectibles.
+
+- The player launches a ball by click-and-drag to aim and set power; real gravity, bounce and friction.
+
+- Add a goal zone, a score, a shot counter and a restart button.
+
+
+
+
+Deliver one self-contained HTML file (HTML + CSS + JavaScript, no external dependencies) that runs by opening it in a browser. Make sure it is bug-free before you return it, and list which real object became which game element.
+
+See all
+Copy prompt
+Recreate
+Build 2 — Room Pan → Interactive 3D Environment
+
+What it does: Reconstructs the room's 3D geometry from a five-second phone pan and turns it into an explorable, interactive 3D scene in the browser.
+
+Watch the attached five-second video panning around my room. Reconstruct the room's 3D geometry: walls, floor, ceiling height, and the position, size and shape of every major piece of furniture and object.
+
+
+
+
+Then build an interactive 3D environment of this room:
+
+- Recreate the layout to scale with simple, clean geometry and colors matched to the video.
+
+- First-person controls: WASD to move, mouse to look, collision with walls and furniture.
+
+- Make it playable: hide 5 glowing collectibles on surfaces the player can reach (desk, shelves, bed), with a counter and a timer.
+
+- Basic physics on small objects so they can be knocked over.
+
+
+
+
+Deliver one self-contained HTML file using three.js from a CDN, runnable by opening it in a browser. Before returning it, list the objects you detected and their approximate positions so I can check the reconstruction.
+
+See all
+Copy prompt
+Recreate
+Ready To Make Your Own?
+
+Grab any photo or a quick room pan, paste one of the prompts above, and swap the game rules for your own — racing on your kitchen table, a mini-golf course across your bookshelf, a tower-defense map of your living room. The trick is always the same: let the model map the space first, then tell it what each real object should do.
+
+READY TO MAKE YOUR OWN?
+Go!

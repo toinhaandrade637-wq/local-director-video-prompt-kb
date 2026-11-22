@@ -1,0 +1,83 @@
+【项目】YOUR AI VIDEOS CAN LOOK MORE CINEMATIC. START HERE.（@ellykelly · 创作者博客）
+【链接】https://higgsfield.ai/@ellykelly/blogs/your-ai-videos-can-look-more-cinematic-start-here
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+YOUR AI VIDEOS CAN LOOK MORE CINEMATIC. START HERE.
+@ellykelly
+25
+3
+0
+Start With the Location
+
+A cinematic look starts before you generate the video. First, create a location image with the lighting, atmosphere, colors, and textures you want in the finished scene.
+
+Seedream 5.0 Pro and Cinematic Locations are my preferred starting points. In my experience, they produce the strongest cinematic environments. I choose between them depending on the look I want.
+
+Take time to select the right image. It will guide both the environment and the visual treatment of your video.
+
+Created with Cinematic Locations
+
+Choose Your Character Reference for Likeness
+
+With fictional characters, you have more freedom. My go-to models are Higgsfield Soul and Seedream for creating characters with the look I want.
+
+Working with a real person is trickier. Seedance can preserve a person’s likeness, but it doesn’t always get it exactly right. In my experience, GPT Image models have given me the closest likeness when creating character references.
+
+For this video, I created the character sheet in GPT Image 2 because the subject is a real artist, and capturing his likeness was my priority.
+
+The character sheet and location image don’t need matching lighting. But this is where things can go wrong if you don’t give Seedance precise instructions about how to bring them together.
+
+Yll Limani's character sheet was created with GPT Image 2.0
+
+Tell Seedance Where the Look Comes From
+
+The character sheet defines who the person is. The location image defines the lighting and cinematic look of the scene. Make that distinction explicit in your prompt.
+
+Direct Seedance to take the lighting, color palette, contrast, atmosphere, and material textures from the location image. The character should be lit by that environment, rather than carrying over the lighting from the character sheet.
+
+A short lighting instruction you can adapt:
+
+Use the location image as the reference for the scene’s lighting, color palette, contrast, and atmosphere. Light the character consistently with the light sources in that environment, preserving their identity from the character sheet. Do not carry the character sheet’s original lighting into the scene.
+The Key: Direct a New Opening Angle
+
+Don’t use the location image exactly as it is for your opening shot. In my experience, Seedance often repeats its viewpoint unless I explicitly direct otherwise.
+
+Once you’ve added your character, props, and other references, tell Seedance to begin from a different camera angle within that location, with the character already positioned in the scene.
+
+Describe where the camera is, what it faces, and how the character is framed. Explicitly instruct it not to copy the location image’s original composition.
+
+The location reference should guide the geometry, lighting, and visual look, while your prompt directs the opening viewpoint. These instructions go directly into the video prompt.
+
+
+Use the location image as a reference for the environment’s geometry, materials, lighting, and overall cinematic look.
+
+Do not use it as the first frame or reproduce its camera position, viewing angle, or composition.
+
+From the very first frame, show the scene from the new camera position and framing described below, with the character already present.
+
+Begin directly at that viewpoint; do not start from the reference image and move or transition into the new angle.
+
+Preserve the location’s lighting and atmosphere, applying them naturally to the character and props.
+
+See all
+Copy prompt
+Recreate
+The result
+
+
+
+
+Compare the reference images with the result: a new opening angle, the same environment and atmosphere, and a separately created character integrated into the scene’s lighting.
+
+Watch the Full Result
+
+Watch the full video here 
+
+https://higgsfield.ai/@ellykelly/projects/happy-birthday
+
+
+
+This film was created as a birthday gift for Yll Limani, a well-known Albanian singer.

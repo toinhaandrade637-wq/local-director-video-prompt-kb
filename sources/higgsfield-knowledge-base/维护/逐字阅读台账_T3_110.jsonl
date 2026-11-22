@@ -1,0 +1,500 @@
+{"project":"WELCOME_TO_THE_TEAM","idx":1,"sha8":"3ac4bb9a","len":10106,"nTasks":1,"models":"default","read":true,"findings":"10,106c **⚠️ 段头制+台词引号规则首例**：TWO SHOTS. One hard cut. Real-time motion. 24fps. LANGUAGE: ENGLISH…**⚠️ ONLY text inside quotation marks in the DIALOGUE block is spoken aloud. Everything else is direction and must never be voiced, including the DELIVERY MAP. There are exactly two spoken lines in this sequence and no others.** ⚠️ ASSET ROLES…——镜头数+剪辑数+帧率三元组开头+引号内才朗读"}
+{"project":"WELCOME_TO_THE_TEAM","idx":2,"sha8":"583fed2c","len":10252,"nTasks":1,"models":"default","read":true,"findings":"10,252c THREE SHOTS 版（同 1 结构）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":3,"sha8":"15b3ba77","len":3391,"nTasks":1,"models":"null","read":true,"findings":"3,391c **空场景+几何分区**：An ordinary office corridor…**Empty — nobody in frame, no people, no figures.** ⚠️ THE GEOMETRY, near to far: ⚠️ NEAREST THE LENS: a narrow corridor…——⚠️ 几何近到远分区"}
+{"project":"WELCOME_TO_THE_TEAM","idx":4,"sha8":"e798e671","len":7885,"nTasks":1,"models":"default","read":true,"findings":"7,885c **ASSET ROLES 取光不取框首例**：<<<uuid>>> — the corridor and the look: …**⚠️ Not a framing.** <<<uuid>>> — his identity, face, skin…**⚠️ Ignore its studio lighting.**——参考分工+光/框分离"}
+{"project":"WELCOME_TO_THE_TEAM","idx":5,"sha8":"e798e671","len":7885,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":6,"sha8":"7c6ba0a9","len":10938,"nTasks":1,"models":"default","read":true,"findings":"10,938c **禁止朗读指令文本**：⚠️ NO DIALOGUE. Nobody speaks. **Do not read any of this text aloud.** No narration, no subtitles, no text on screen——指令防朗读"}
+{"project":"WELCOME_TO_THE_TEAM","idx":7,"sha8":"6d501e95","len":12335,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":8,"sha8":"438f448f","len":4845,"nTasks":1,"models":"null","read":true,"findings":"4,845c 空走廊盘：Looking straight down the length of an EXTREMELY NARROW corridor toward a brightly lit space at the far end…**no silhouettes**…WALL MATERIAL, PROPORTIONS AND ARCHITECTURE ONLY"}
+{"project":"WELCOME_TO_THE_TEAM","idx":9,"sha8":"438f448f","len":4845,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":10,"sha8":"9a84b43d","len":4846,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":11,"sha8":"9a84b43d","len":4846,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":12,"sha8":"45f00181","len":8037,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":13,"sha8":"6d29124c","len":5953,"nTasks":1,"models":"default","read":true,"findings":"5,953c **诊断文本入库首例（对话式元调试）**：**Now I can see it. The first frame is exactly right.** By the second the camera has travelled a long way forward — the near walls have gone from black to grey…**So the camera isn't just moving too fast, it's moving at all in a way that matters. If it holds essentially still, the dark foreg(round)**——生成结果分析对话作为 prompt"}
+{"project":"WELCOME_TO_THE_TEAM","idx":14,"sha8":"954c08f3","len":3684,"nTasks":1,"models":"null","read":true,"findings":"3,684c T 型路口几何：ending at a T-junction…That crossing corridor is visible as openings to the left and to the right——T 路口分区"}
+{"project":"WELCOME_TO_THE_TEAM","idx":15,"sha8":"954c08f3","len":3684,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":16,"sha8":"d5cfc7d0","len":3402,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":17,"sha8":"d5cfc7d0","len":3402,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":18,"sha8":"cb4aee58","len":3385,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":19,"sha8":"cb4aee58","len":3385,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":20,"sha8":"954c08f3","len":3684,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":21,"sha8":"954c08f3","len":3684,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":22,"sha8":"82a3b80a","len":15775,"nTasks":1,"models":"default","read":true,"findings":"15,775c **分镜首帧资产+噙泪眼（全项目最长）**：⚠️ ASSET ROLES. <<<uuid>>> — **THE FIRST FRAME OF SHOT 1**. Its framing, its lens, its lighting, its exposure, its haze, its grade, and **the welling eye**. **Begin exactly there.**——首帧资产+well 泪眼"}
+{"project":"WELCOME_TO_THE_TEAM","idx":23,"sha8":"97af7e13","len":11336,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":24,"sha8":"bffa9d21","len":12874,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":25,"sha8":"7a5adb4f","len":10250,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":26,"sha8":"4d51bf26","len":8138,"nTasks":1,"models":"null","read":true,"findings":"8,138c 中景走廊：MEDIUM SHOT, waist to head…⚠️⚠️⚠️ **THE CORRIDOR IS EXTREMEL(Y NARROW)**——三连 ⚠️ 走廊声明"}
+{"project":"WELCOME_TO_THE_TEAM","idx":27,"sha8":"4d51bf26","len":8138,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":28,"sha8":"cfe65a14","len":3528,"nTasks":1,"models":"null","read":true,"findings":"3,528c **角色表身份来源声明**：The man from <<<uuid>>> — the same lean man in his sixties, bald, deeply lined face. ⚠️ **His identity, face, build and skin come entirely from that reference and must match it exa(ctly)**"}
+{"project":"WELCOME_TO_THE_TEAM","idx":29,"sha8":"1a3dccfa","len":14202,"nTasks":1,"models":"default","read":true,"findings":"14,202c **慢即力量宣言首例**：⚠️⚠️⚠️ **NOTHING IN THIS SEQUENCE IS RUSHED. Every beat is slower than feels necessary. This is the quietest, emptiest stretch of the film and its power is entirely in how long it takes. Silences are long. Movements are slow. The line is unhurried. If any moment feels hurried, it is wrong.**——反节奏宣言"}
+{"project":"WELCOME_TO_THE_TEAM","idx":30,"sha8":"1a3dccfa","len":14202,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":31,"sha8":"73f9b7e3","len":14203,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":32,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"6,553c 审讯室全景：the restraint chair standing alone in the middle…⚠️ THE MAN IS IN THE CHAIR——束缚椅"}
+{"project":"WELCOME_TO_THE_TEAM","idx":33,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":34,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":35,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":36,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":37,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":38,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":39,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":40,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":41,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":42,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":43,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":44,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":45,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":46,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":47,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":48,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":49,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":50,"sha8":"6afb2bb8","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":51,"sha8":"6afb2bb8","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":52,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":53,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":54,"sha8":"6afb2bb8","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":55,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":56,"sha8":"3ac4bb9a","len":10106,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":57,"sha8":"15b3ba77","len":3391,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":58,"sha8":"15b3ba77","len":3391,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":59,"sha8":"15b3ba77","len":3391,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":60,"sha8":"f927d44f","len":10619,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":61,"sha8":"7c6f0290","len":4767,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":62,"sha8":"7c6f0290","len":4767,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":63,"sha8":"002efb04","len":5393,"nTasks":1,"models":"default","read":true,"findings":"5,393c 走廊亮度梯度：its dark grimy near-ground walls, its brightly lit office far end, **the brightness gradient from dar(k)**——亮度梯度"}
+{"project":"WELCOME_TO_THE_TEAM","idx":64,"sha8":"6d501e95","len":12335,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":65,"sha8":"22bbec87","len":4758,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":66,"sha8":"7c6f0290","len":4767,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":67,"sha8":"7c6f0290","len":4767,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":68,"sha8":"6d501e95","len":12335,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":69,"sha8":"ea8393c8","len":4863,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":70,"sha8":"0998f22c","len":164,"nTasks":1,"models":"null","read":true,"findings":"164c 剪除人物：Edit <<<image_1>>> and remove the man from it. Keep everything else the exact same…**just with the man removed**"}
+{"project":"WELCOME_TO_THE_TEAM","idx":71,"sha8":"ea8393c8","len":4863,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":72,"sha8":"48700345","len":6233,"nTasks":1,"models":"null","read":true,"findings":"6,233c **Take the world and the light from it, not the framing**：⚠️ **Take the world and the light from it, not the framing — this frame** (is new)——世界与光参考声明"}
+{"project":"WELCOME_TO_THE_TEAM","idx":73,"sha8":"48700345","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":74,"sha8":"48700345","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":75,"sha8":"48700345","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":76,"sha8":"19459e02","len":219,"nTasks":1,"models":"null","read":true,"findings":"219c **角色表局部加鞋**：edit this image…and add brown office shoes. Otherwise keep the character sheet the exact same in every frame, just add shoes to both full frame figures **in the left 2 panels**——面板级修正"}
+{"project":"WELCOME_TO_THE_TEAM","idx":77,"sha8":"4d51bf26","len":8138,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":78,"sha8":"4d51bf26","len":8138,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":79,"sha8":"4d51bf26","len":8138,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":80,"sha8":"4d51bf26","len":8138,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":81,"sha8":"ddd0ef14","len":2794,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":82,"sha8":"392740a5","len":9677,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":83,"sha8":"847e692d","len":9160,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":84,"sha8":"7c6f0290","len":4767,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":85,"sha8":"7c6f0290","len":4767,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":86,"sha8":"22bbec87","len":4758,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":87,"sha8":"7c6f0290","len":4767,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":88,"sha8":"e7167591","len":5174,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":89,"sha8":"7c6f0290","len":4767,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":90,"sha8":"7c6f0290","len":4767,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":91,"sha8":"7c6f0290","len":4767,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":92,"sha8":"dbcb5039","len":3483,"nTasks":1,"models":"default","read":true,"findings":"3,483c **65mm 镜头声明**：Real-time motion. 24fps. **65mm.** CLOSE-UP on his face——65mm 特写"}
+{"project":"WELCOME_TO_THE_TEAM","idx":93,"sha8":"6d501e95","len":12335,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":94,"sha8":"a6d052b4","len":11060,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":95,"sha8":"9e74bbff","len":8129,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":96,"sha8":"cb4aee58","len":3385,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":97,"sha8":"cb4aee58","len":3385,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":98,"sha8":"d5cfc7d0","len":3402,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":99,"sha8":"d5cfc7d0","len":3402,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":100,"sha8":"47d719c0","len":5458,"nTasks":1,"models":"default","read":true,"findings":"5,458c SIX SECONDS 时长声明：**SIX SECONDS. ONE CONTINUOUS SHOT.** No cuts. Real-time motion. 24fps."}
+{"project":"WELCOME_TO_THE_TEAM","idx":101,"sha8":"ea8393c8","len":4863,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":102,"sha8":"ea8393c8","len":4863,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":103,"sha8":"df7384e8","len":13780,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":104,"sha8":"40eb1d72","len":13176,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":105,"sha8":"19459e02","len":219,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":106,"sha8":"ac653fa9","len":11409,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":107,"sha8":"4d51bf26","len":8138,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":108,"sha8":"ddd0ef14","len":2794,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":109,"sha8":"49387661","len":3329,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":110,"sha8":"f4523442","len":8810,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":111,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":112,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":113,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":114,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":115,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":116,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":117,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":118,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":119,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":120,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":121,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":122,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":123,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":124,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":125,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":126,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":127,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":128,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":129,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":130,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":131,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":132,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":133,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":134,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":135,"sha8":"ef5ac0bd","len":13077,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":136,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":137,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":138,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":139,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":140,"sha8":"6afb2bb8","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":141,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":142,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":143,"sha8":"ce7fa932","len":6827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":144,"sha8":"ce7fa932","len":6827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":145,"sha8":"ce7fa932","len":6827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":146,"sha8":"ce7fa932","len":6827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":147,"sha8":"ce7fa932","len":6827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":148,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":149,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":150,"sha8":"666d9221","len":2633,"nTasks":1,"models":"null","read":true,"findings":"2,633c **单变量束缚开合+same 清单**：Edit <<<uuid>>>. ⚠️ **KEEP EVERYTHING ELSE EXACTLY THE SAME — same framing, same camera position, same lens, same lighting, same exposure, same grade, same metal, same materials, same chair, same background. Change nothing except the state of the restraint.** ⚠️⚠️⚠️ **THE ONLY CHANGE: THE RESTRAINT HAS SWUNG OPEN AND THE ARMREST IS NOW BARE.** ⚠️ THE ARMREST SURFACE IS CO(mpletely bare)——same ×10+THE ONLY CHANGE"}
+{"project":"WELCOME_TO_THE_TEAM","idx":151,"sha8":"666d9221","len":2633,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":152,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":153,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":154,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":155,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":156,"sha8":"fdab425b","len":1433,"nTasks":1,"models":"null","read":true,"findings":"1,433c **铰链环翻起**：⚠️ THE ONLY CHANGE: **THE ARM CLAMPS ARE OPEN.** The two metal rings on the armrests are hinged. **They have swung UP and BACK, standi(ng open)**——铰链环上翻"}
+{"project":"WELCOME_TO_THE_TEAM","idx":157,"sha8":"fdab425b","len":1433,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":158,"sha8":"0f0c43b1","len":3530,"nTasks":1,"models":"null","read":true,"findings":"3,530c **screen-right 方向歧义 debug 首例**：the old prompt says \"only a little light catches his **screen-right side**,\" but the whole project's key is on screen right, meaning **his left**. **On a frontal, screen-right and his-right are opposite sides.** That ambiguity is exactly what flipped the seated ref earlier——屏幕方向 vs 人物方向歧义分析"}
+{"project":"WELCOME_TO_THE_TEAM","idx":159,"sha8":"0f0c43b1","len":3530,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":160,"sha8":"7ca85027","len":2831,"nTasks":1,"models":"null","read":true,"findings":"2,831c ASSET ROLES 光暗分离：THE LIGHTING, EXPOSURE, DARKNESS and GRADE. This is the target look. Match it exactly./his IDENTITY, FACE and SKIN: **completely ordinary human skin, nothing raised, nothing textured, no marks**. ⚠️ SKIN AND IDENTITY ONLY——普通皮肤否定（反恐怖）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":161,"sha8":"7ca85027","len":2831,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":162,"sha8":"51256464","len":6623,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":163,"sha8":"51256464","len":6623,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":164,"sha8":"4b6367bb","len":6625,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":165,"sha8":"51256464","len":6623,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":166,"sha8":"e2a6dee6","len":6643,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":167,"sha8":"e2a6dee6","len":6643,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":168,"sha8":"e2a6dee6","len":6643,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":169,"sha8":"2ff59279","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":170,"sha8":"45522a2b","len":5421,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":171,"sha8":"3dbf3083","len":4661,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":172,"sha8":"928acaa3","len":12723,"nTasks":1,"models":"default","read":true,"findings":"12,723c **六句台词版**：ONE CONTINUOUS SHOT. **No cuts, no inserts. The camera does not cut on its own.**…There are exactly **six spoken lines** in this shot and no others——台词数计量+机不自行剪辑"}
+{"project":"WELCOME_TO_THE_TEAM","idx":173,"sha8":"4d51bf26","len":8138,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":174,"sha8":"6afb2bb8","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":175,"sha8":"6afb2bb8","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":176,"sha8":"6afb2bb8","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":177,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":178,"sha8":"6afb2bb8","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":179,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":180,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":181,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":182,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":183,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":184,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":185,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":186,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":187,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":188,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":189,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":190,"sha8":"aeaeaf33","len":6477,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":191,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":192,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":193,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":194,"sha8":"428e162e","len":6553,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":195,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":196,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":197,"sha8":"ce7fa932","len":6827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":198,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":199,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":200,"sha8":"ce7fa932","len":6827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":201,"sha8":"ce7fa932","len":6827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":202,"sha8":"cebc3b3c","len":6168,"nTasks":1,"models":"null","read":true,"findings":"6,168c **宏适用性判断首例**：Rewritten with the corrected mechanism — **single band, hinged at the outer edge, hanging concave, armrest bare on top.** One judgement call: **I've kept it as text rather than referencing the macro.** Adding `@clamp_macro_open_v1` here would put a tight macro of the chair into a wide where the chair is a small dark shape, **which is the exact condition under which a close-matched reference pulls the f(rame)**——宏仅适用近景判断+机制修正"}
+{"project":"WELCOME_TO_THE_TEAM","idx":203,"sha8":"cebc3b3c","len":6168,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":204,"sha8":"4d578875","len":2180,"nTasks":1,"models":"null","read":true,"findings":"2,180c **钳两半分开**：⚠️⚠️⚠️ THE ONLY CHANGE: **THE CLAMP IS SPLIT OPEN.** The clamp is a **two-part metal restraint**. It has separate (halves)——两半钳"}
+{"project":"WELCOME_TO_THE_TEAM","idx":205,"sha8":"4d578875","len":2180,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":206,"sha8":"fdab425b","len":1433,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":207,"sha8":"2476489f","len":4160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":208,"sha8":"2476489f","len":4160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":209,"sha8":"7f7c7343","len":2200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":210,"sha8":"7f7c7343","len":2200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":211,"sha8":"2476489f","len":4160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":212,"sha8":"2476489f","len":4160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":213,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":214,"sha8":"0f0c43b1","len":3530,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":215,"sha8":"0f0c43b1","len":3530,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":216,"sha8":"6fbea032","len":14504,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":217,"sha8":"070eaa2b","len":4263,"nTasks":1,"models":"null","read":true,"findings":"4,263c **取暗不取光向+覆盖声明**：⚠️ **TAKE ONLY THE DARKNESS FROM IT, NOT THE DIRECTION OF ITS LIGHT.** The key direction for this image is specified below and **overrides it**——暗度与光向分离+覆盖"}
+{"project":"WELCOME_TO_THE_TEAM","idx":218,"sha8":"070eaa2b","len":4263,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":219,"sha8":"7ca85027","len":2831,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":220,"sha8":"7ca85027","len":2831,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":221,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":222,"sha8":"2ff59279","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":223,"sha8":"2ff59279","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":224,"sha8":"2ff59279","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":225,"sha8":"2ff59279","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":226,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":227,"sha8":"2ff59279","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":228,"sha8":"0a024fa6","len":14450,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":229,"sha8":"e2a6dee6","len":6643,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":230,"sha8":"45522a2b","len":5421,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":231,"sha8":"45522a2b","len":5421,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":232,"sha8":"45522a2b","len":5421,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":233,"sha8":"ccef6545","len":5976,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":234,"sha8":"ccef6545","len":5976,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":235,"sha8":"ccef6545","len":5976,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":236,"sha8":"ccef6545","len":5976,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":237,"sha8":"9ffa70f2","len":6186,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":238,"sha8":"9ffa70f2","len":6186,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":239,"sha8":"9ffa70f2","len":6186,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":240,"sha8":"4c509d14","len":5260,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":241,"sha8":"4c509d14","len":5260,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":242,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":243,"sha8":"9ffa70f2","len":6186,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":244,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":245,"sha8":"ccef6545","len":5976,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":246,"sha8":"ccef6545","len":5976,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":247,"sha8":"ccef6545","len":5976,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":248,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":249,"sha8":"0ff90ff7","len":5574,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":250,"sha8":"0ff90ff7","len":5574,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":251,"sha8":"0ff90ff7","len":5574,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":252,"sha8":"0ff90ff7","len":5574,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":253,"sha8":"b60de985","len":6182,"nTasks":1,"models":"default","read":true,"findings":"6,182c **首尾帧双资产**：⚠️ ASSET ROLES. <<<uuid>>> is the **FIRST FRAME** of this shot — its camera orientation, framing, lighting, exposure, **clamp and needle design, and the state of the arm**. Begin exactly ther(e)——首帧资产+钳针设计+臂状态"}
+{"project":"WELCOME_TO_THE_TEAM","idx":254,"sha8":"b408bfcf","len":6170,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":255,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":256,"sha8":"80701a41","len":13487,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":257,"sha8":"ce62d816","len":5344,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":258,"sha8":"ce62d816","len":5344,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":259,"sha8":"cebc3b3c","len":6168,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":260,"sha8":"ce62d816","len":5344,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":261,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":262,"sha8":"cebc3b3c","len":6168,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":263,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":264,"sha8":"43a35015","len":6353,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":265,"sha8":"4d578875","len":2180,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":266,"sha8":"ce62d816","len":5344,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":267,"sha8":"7f7c7343","len":2200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":268,"sha8":"5c751535","len":12615,"nTasks":1,"models":"default","read":true,"findings":"12,615c **VOICE PROFILE 不朗读**：The ONLY speech in this sequence is the ONE line in the DIALOGUE block below. **Everything else here is silent direction, including the VOICE PROFILE — never spoken or read aloud.**——声音档案也防朗读"}
+{"project":"WELCOME_TO_THE_TEAM","idx":269,"sha8":"ef5ac0bd","len":13077,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":270,"sha8":"f5f98ef9","len":6010,"nTasks":1,"models":"null","read":true,"findings":"6,010c **皮肤错误警示首例**：⚠️⚠️⚠️ **TAKE NOTHING ELSE FROM IT. Its skin is WRONG for this image — it still carries suckers,**——吸盘残留警示（恐怖控制）+THIS IMAGE IS LIT EXACTLY THE SAME WAY"}
+{"project":"WELCOME_TO_THE_TEAM","idx":271,"sha8":"f5f98ef9","len":6010,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":272,"sha8":"6efb6bae","len":4574,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":273,"sha8":"7ca85027","len":2831,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":274,"sha8":"7ca85027","len":2831,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":275,"sha8":"6efb6bae","len":4574,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":276,"sha8":"0a024fa6","len":14450,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":277,"sha8":"2ff59279","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":278,"sha8":"2ff59279","len":6233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":279,"sha8":"fd9d2130","len":6631,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":280,"sha8":"fd9d2130","len":6631,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":281,"sha8":"fd9d2130","len":6631,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":282,"sha8":"fd9d2130","len":6631,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":283,"sha8":"45522a2b","len":5421,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":284,"sha8":"18b386b9","len":5420,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":285,"sha8":"45522a2b","len":5421,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":286,"sha8":"45522a2b","len":5421,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":287,"sha8":"45522a2b","len":5421,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":288,"sha8":"18b386b9","len":5420,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":289,"sha8":"18b386b9","len":5420,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":290,"sha8":"18b386b9","len":5420,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":291,"sha8":"87c464b1","len":170,"nTasks":1,"models":"null","read":true,"findings":"170c 空走廊剪除：Remove the man in <<<uuid>>>…**Should be an empty corridor with the man removed**"}
+{"project":"WELCOME_TO_THE_TEAM","idx":292,"sha8":"87c464b1","len":170,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":293,"sha8":"207a4dfa","len":14610,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":294,"sha8":"8a39cca7","len":6197,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":295,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":296,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":297,"sha8":"6952e619","len":1511,"nTasks":1,"models":"null","read":true,"findings":"1,511c **荧光灯面板环境盘**：Set into the ceiling at regular intervals down the whole length are **recessed fluorescent panels**…**clearly visible fixtures, evenly spaced, unmistakably individual units**——嵌入式荧光板逐个可见"}
+{"project":"WELCOME_TO_THE_TEAM","idx":298,"sha8":"6952e619","len":1511,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":299,"sha8":"6952e619","len":1511,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":300,"sha8":"6952e619","len":1511,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":301,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":302,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":303,"sha8":"91df2dd4","len":1656,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":304,"sha8":"91df2dd4","len":1656,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":305,"sha8":"91df2dd4","len":1656,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":306,"sha8":"91df2dd4","len":1656,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":307,"sha8":"91df2dd4","len":1656,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":308,"sha8":"91df2dd4","len":1656,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":309,"sha8":"a2516ac1","len":13768,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":310,"sha8":"ccef6545","len":5976,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":311,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":312,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":313,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":314,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":315,"sha8":"ce3d60ab","len":6006,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":316,"sha8":"8a39cca7","len":6197,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":317,"sha8":"8a39cca7","len":6197,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":318,"sha8":"8a39cca7","len":6197,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":319,"sha8":"b408bfcf","len":6170,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":320,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":321,"sha8":"4c509d14","len":5260,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":322,"sha8":"b408bfcf","len":6170,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":323,"sha8":"4c509d14","len":5260,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":324,"sha8":"b60de985","len":6182,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":325,"sha8":"b60de985","len":6182,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":326,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":327,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":328,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":329,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":330,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":331,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":332,"sha8":"8c68c6cc","len":5245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":333,"sha8":"8c68c6cc","len":5245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":334,"sha8":"20e580e9","len":4888,"nTasks":1,"models":"null","read":true,"findings":"4,888c **宏命名+upload 多图打包首例**：**`new_macro_needle_tight_v1`** — upload `<<<uuid>>>` + `<<<uuid>>>` + `<<<uuid>>>` + `<<<uuid>>>`——宏名+四图打包"}
+{"project":"WELCOME_TO_THE_TEAM","idx":335,"sha8":"20e580e9","len":4888,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":336,"sha8":"364ea224","len":6494,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":337,"sha8":"da879769","len":6253,"nTasks":1,"models":"default","read":true,"findings":"6,253c **释放端帧判断**：**Worth testing — freeing the end frame should give the convulsion somewhere to go, since the arm no longer has to return to an exact position.**——端帧释放=抽搐空间"}
+{"project":"WELCOME_TO_THE_TEAM","idx":338,"sha8":"ac50b5e6","len":3499,"nTasks":1,"models":"null","read":true,"findings":"3,499c **鸟瞰三不见首例**：A **BIRD'S EYE VIEW** looking straight down…⚠️⚠️⚠️ **THE CAMERA IS DIRECTLY OVERHEAD, POINTING STRAIGHT DOWN. Ninety degrees, perpendicular to the floor. A true top-down plan view — we are above him looking down at the top of his head. We do NOT see his face, we do NOT see any wall, we do NOT see a ho(rizon)**——正上方 90 度+三不见"}
+{"project":"WELCOME_TO_THE_TEAM","idx":339,"sha8":"ac50b5e6","len":3499,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":340,"sha8":"ac50b5e6","len":3499,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":341,"sha8":"ac50b5e6","len":3499,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":342,"sha8":"e4fa2319","len":4337,"nTasks":1,"models":"null","read":true,"findings":"4,337c **@corridor_subject_dark_v2 宏**：**Image prompt — `@corridor_subject_dark_v2`**——@ 前缀宏 v2"}
+{"project":"WELCOME_TO_THE_TEAM","idx":343,"sha8":"e4fa2319","len":4337,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":344,"sha8":"c1452f35","len":5895,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":345,"sha8":"dcf7abe2","len":4067,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":346,"sha8":"b713f4fc","len":1046,"nTasks":1,"models":"null","read":true,"findings":"1,046c **荧光灯交替点亮+标注图引用**：⚠️ THE ONLY CHANGE: turn on additional ceiling panels so that **EVERY OTHER PANEL IS LIT**. **See <<<image_1>>> for annotations of which additional panels should be turned on.** ⚠️ The panel that is already lit **STAYS L(it)**——隔一亮+标注图+已亮保持"}
+{"project":"WELCOME_TO_THE_TEAM","idx":347,"sha8":"b713f4fc","len":1046,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":348,"sha8":"e4fa2319","len":4337,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":349,"sha8":"cad937ba","len":711,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":350,"sha8":"19428b5d","len":10837,"nTasks":1,"models":"default","read":true,"findings":"10,837c **四句台词+VOICE PROFILES 复数**：The ONLY speech in this sequence is the four lines in the DIALOGUE block below. Everything else here is silent direction, **including the VOICE PROFILES — those are descriptions of how the lines sound, never spoken or read aloud**——声音档案=声音描述"}
+{"project":"WELCOME_TO_THE_TEAM","idx":351,"sha8":"d5db1adb","len":4388,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":352,"sha8":"45dcadcc","len":3687,"nTasks":1,"models":"null","read":true,"findings":"3,687c **镜头语言堆叠诊断首例**：**That's the anamorphic and lens language stacking — \"vintage beauty lens character,\" \"heavy corner vignette,\" \"soft edge falloff,\" \"oval bokeh\" and \"35mm anamorphic\" together push toward a strong lens look, and in a bright evenly-lit frame the model renders that as an actual circular border rather than a subtle falloff. The dark corridor hid it; the office can't. Stripped the lens stack from this**——五词堆叠→圆形边框误渲染→剥离"}
+{"project":"WELCOME_TO_THE_TEAM","idx":353,"sha8":"45dcadcc","len":3687,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":354,"sha8":"d71aa8ca","len":5500,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":355,"sha8":"d71aa8ca","len":5500,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":356,"sha8":"d71aa8ca","len":5500,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":357,"sha8":"d71aa8ca","len":5500,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":358,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":359,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":360,"sha8":"b408bfcf","len":6170,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":361,"sha8":"91df2dd4","len":1656,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":362,"sha8":"91df2dd4","len":1656,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":363,"sha8":"b16ef3e4","len":6080,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":364,"sha8":"b16ef3e4","len":6080,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":365,"sha8":"b16ef3e4","len":6080,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":366,"sha8":"b16ef3e4","len":6080,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":367,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":368,"sha8":"fc0ce680","len":7389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":369,"sha8":"29165c14","len":12457,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":370,"sha8":"b60de985","len":6182,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":371,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":372,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":373,"sha8":"f7d75a89","len":5718,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":374,"sha8":"f7d75a89","len":5718,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":375,"sha8":"f7d75a89","len":5718,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":376,"sha8":"f7d75a89","len":5718,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":377,"sha8":"ffa94186","len":3827,"nTasks":1,"models":"null","read":true,"findings":"3,827c **分镜板策略判断首例**：**Good instinct, and it's the technique with the best record on this project — the original needle storyboard is what got penetration working the first time. It also solves the specific bind: it shows direction of travel without pinning a photoreal end state, so the body stays free to convulse. I'd put the hand in every panel so the clench reads as simultaneous rather than sequential.**——分镜=方向不锁终态+每格放手"}
+{"project":"WELCOME_TO_THE_TEAM","idx":378,"sha8":"ffa94186","len":3827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":379,"sha8":"8c68c6cc","len":5245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":380,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":381,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":382,"sha8":"b60de985","len":6182,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":383,"sha8":"8c68c6cc","len":5245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":384,"sha8":"20e580e9","len":4888,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":385,"sha8":"20e580e9","len":4888,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":386,"sha8":"04dd3117","len":4660,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":387,"sha8":"04dd3117","len":4660,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":388,"sha8":"f947bdf4","len":7270,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":389,"sha8":"44c03b1d","len":12704,"nTasks":1,"models":"default","read":true,"findings":"12,704c **水平参考 vs 相机移动诊断**：**That's the level-reference-versus-camera-move problem again — same class as the Dutch. Naming the mismatch and describing the rotation as visible frame content rather than a camera property.**+The sadness note is important structurally: **without it, Envelope 8's forced smile has nothing to be forced *away from*.**——水平参考类问题+Envelope 8 强笑对照"}
+{"project":"WELCOME_TO_THE_TEAM","idx":390,"sha8":"2f04e19f","len":6744,"nTasks":1,"models":"default","read":true,"findings":"6,744c **分块时序误读诊断**：**The cause is structural: the reactions are described in three separate blocks spread across the prompt, so they read as three events in sequence. Collapsing them into a single simultaneous instruction placed immediately after the needles land.**——三块=三事件误读→合并"}
+{"project":"WELCOME_TO_THE_TEAM","idx":391,"sha8":"c1452f35","len":5895,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":392,"sha8":"dcf7abe2","len":4067,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":393,"sha8":"b713f4fc","len":1046,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":394,"sha8":"b713f4fc","len":1046,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":395,"sha8":"cad937ba","len":711,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":396,"sha8":"df6bf574","len":4907,"nTasks":1,"models":"default","read":true,"findings":"4,907c 空走廊一镜：AN EMPTY CORRIDOR. **NOBODY IS IN THIS SHOT.** No people, no figure(s)"}
+{"project":"WELCOME_TO_THE_TEAM","idx":397,"sha8":"3d234492","len":4453,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":398,"sha8":"3d234492","len":4453,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":399,"sha8":"3d234492","len":4453,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":400,"sha8":"7bc8c0ad","len":3161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":401,"sha8":"2b073237","len":10403,"nTasks":1,"models":"default","read":true,"findings":"10,403c **REFERENCE ONLY 段**：⚠️ ASSET ROLES — **REFERENCE ONLY.** <<<uuid>>> is shot 1's FIRST FRAME——仅参考声明"}
+{"project":"WELCOME_TO_THE_TEAM","idx":402,"sha8":"dcf7abe2","len":4067,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":403,"sha8":"dcf7abe2","len":4067,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":404,"sha8":"2b073237","len":10403,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":405,"sha8":"99895d1e","len":2067,"nTasks":1,"models":"null","read":true,"findings":"2,067c **CHANGE ONE 编号改+最重要声明**：Two changes: **⚠️⚠️⚠️ CHANGE ONE — THE NEEDLES ARE NOW DRIVEN INTO THE ARM. This is the single most important change in this image and it must be unmistakable.** In the original, the needles are **held up inside the ring with air beneath them**——编号改+针悬空原态"}
+{"project":"WELCOME_TO_THE_TEAM","idx":406,"sha8":"99895d1e","len":2067,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":407,"sha8":"fe321087","len":5320,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":408,"sha8":"fe321087","len":5320,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":409,"sha8":"a92a5cec","len":3301,"nTasks":1,"models":"null","read":true,"findings":"3,301c **连续性判断+宏互引**：**Right — that also fixes a continuity problem. If the arm reads fully healed here, Envelope 7 has nothing left to complete.** **`new_macro_needle_end_v3`** — upload `new_macro_needle_start_v3` + <<<uuid>>>——Envelope 连续性+宏互引（end upload start）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":410,"sha8":"a92a5cec","len":3301,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":411,"sha8":"fe321087","len":5320,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":412,"sha8":"e1c832a8","len":2426,"nTasks":1,"models":"null","read":true,"findings":"2,426c **针缩回态**：⚠️ **THE NEEDLES ARE RETRACTED.** Pull every needle back up inside the inner curve of the metal ring, so the **tips sit high in the housing** with a(ir)——针缩回高位"}
+{"project":"WELCOME_TO_THE_TEAM","idx":413,"sha8":"e1c832a8","len":2426,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":414,"sha8":"5b1fb9a1","len":1959,"nTasks":1,"models":"null","read":true,"findings":"1,959c **针刺入态**：⚠️ **THE NEEDLES HAVE DRIVEN DOWN INTO THE ARM.** Every needle has extended out of the ring and entered the skin. **Only the shafts remain visible above the surface**——针刺入仅轴可见"}
+{"project":"WELCOME_TO_THE_TEAM","idx":415,"sha8":"5b1fb9a1","len":1959,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":416,"sha8":"631f534f","len":1989,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":417,"sha8":"fe321087","len":5320,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":418,"sha8":"fe321087","len":5320,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":419,"sha8":"5b1fb9a1","len":1959,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":420,"sha8":"446f5ea2","len":4383,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":421,"sha8":"446f5ea2","len":4383,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":422,"sha8":"99bfbf19","len":4612,"nTasks":1,"models":"null","read":true,"findings":"4,612c @macro_needles_up_v2 宏（四图打包）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":423,"sha8":"99bfbf19","len":4612,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":424,"sha8":"fe321087","len":5320,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":425,"sha8":"fe321087","len":5320,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":426,"sha8":"fcd6cc20","len":475,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"475c videotape-alpha **皮环刺**：add additional spikes on the forearm…**No spikes in front of the needles coming from the clamps on his arm, the spikes must be coming out of the skin ringlets that are just past the needle manacles**——皮环刺生长（针镣后侧）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":427,"sha8":"fcd6cc20","len":475,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":428,"sha8":"fcd6cc20","len":475,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":429,"sha8":"c2d71dae","len":10001,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":430,"sha8":"c1d9be42","len":3873,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":431,"sha8":"c1d9be42","len":3873,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":432,"sha8":"054ae8f8","len":11607,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":433,"sha8":"4bd33c55","len":9247,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":434,"sha8":"da49c420","len":11592,"nTasks":1,"models":"default","read":true,"findings":"11,592c **WHAT IS SPOKEN ALOUD 段头**：⚠️⚠️⚠️ **WHAT IS SPOKEN ALOUD.** The ONLY speech in this sequence is the four lines listed in the DIALOGUE block near the bottom of this prompt. **Four lines. Nothing else.**——朗读内容段头+行数计量"}
+{"project":"WELCOME_TO_THE_TEAM","idx":435,"sha8":"f56488de","len":8053,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":436,"sha8":"4c2d4afb","len":5322,"nTasks":1,"models":"null","read":true,"findings":"5,322c **观察室侧+玻璃分区**：The observation room on the FAR SIDE of the fogged glass partition — the room the assessor works in…⚠️ **THE CAMERA IS ON THE OBSERVATION SIDE.** We stand in this room…The glass is <<<uuid>>>: heavily condensed, **moisture running down THIS** (side)——评估员观察室+玻璃凝水流向"}
+{"project":"WELCOME_TO_THE_TEAM","idx":437,"sha8":"4c2d4afb","len":5322,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":438,"sha8":"5e75eece","len":12349,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":439,"sha8":"e321b640","len":5358,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":440,"sha8":"f7d75a89","len":5718,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":441,"sha8":"8c68c6cc","len":5245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":442,"sha8":"8c68c6cc","len":5245,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":443,"sha8":"ffa94186","len":3827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":444,"sha8":"ffa94186","len":3827,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":445,"sha8":"f7d75a89","len":5718,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":446,"sha8":"f7d75a89","len":5718,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":447,"sha8":"f7d75a89","len":5718,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":448,"sha8":"ec79d46f","len":5295,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":449,"sha8":"04dd3117","len":4660,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":450,"sha8":"04dd3117","len":4660,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":451,"sha8":"29a91917","len":5438,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":452,"sha8":"7be68723","len":12072,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":453,"sha8":"018c578b","len":6415,"nTasks":1,"models":"default","read":true,"findings":"6,415c **边界渲染扫边诊断**：The clean-line animation is exactly what \"travelling front\" was always going to produce — **a front is a boundary, and boundaries render as edges sweeping. Cutting it entirely and asking for a simultaneous, non-uniform, one-second retraction instead.** On the convulsion: the identical start and end frames will pull hard toward a still arm. Worth stating explicitly that the arm returns to position rat(her)——front=boundary→扫边+首尾帧拉静止"}
+{"project":"WELCOME_TO_THE_TEAM","idx":454,"sha8":"8f661110","len":12402,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":455,"sha8":"b718296c","len":4539,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":456,"sha8":"b718296c","len":4539,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":457,"sha8":"b718296c","len":4539,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":458,"sha8":"b718296c","len":4539,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":459,"sha8":"e4fa2319","len":4337,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":460,"sha8":"88dde85d","len":3203,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":461,"sha8":"88dde85d","len":3203,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":462,"sha8":"88dde85d","len":3203,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":463,"sha8":"88dde85d","len":3203,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":464,"sha8":"b713f4fc","len":1046,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":465,"sha8":"f8b86a07","len":4216,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":466,"sha8":"f15e0208","len":5436,"nTasks":1,"models":"default","read":true,"findings":"5,436c **涟漪语言过校正诊断**：**The ripple language is the culprit — \"travelling front,\" \"progression,\" \"you can watch it advancing\" all describe something taking time, and that's the fix from two rounds ago now overcorrecting. Reframing: it's still a ripple, but one that crosses the whole arm inside half a second. Same directionality, tenth of the duration.**——时间描述词过校正→半秒重定"}
+{"project":"WELCOME_TO_THE_TEAM","idx":467,"sha8":"cad937ba","len":711,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":468,"sha8":"f15e0208","len":5436,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":469,"sha8":"3c9fd45a","len":3883,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":470,"sha8":"cad937ba","len":711,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":471,"sha8":"7bc8c0ad","len":3161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":472,"sha8":"831dcec4","len":4372,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":473,"sha8":"45dcadcc","len":3687,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":474,"sha8":"45dcadcc","len":3687,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":475,"sha8":"ebb0382d","len":3203,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":476,"sha8":"ebb0382d","len":3203,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":477,"sha8":"ebb0382d","len":3203,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":478,"sha8":"ebb0382d","len":3203,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":479,"sha8":"dcf7abe2","len":4067,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":480,"sha8":"e80a00c6","len":2687,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":481,"sha8":"e80a00c6","len":2687,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":482,"sha8":"a92a5cec","len":3301,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":483,"sha8":"a92a5cec","len":3301,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":484,"sha8":"ecebf3d2","len":3118,"nTasks":1,"models":"null","read":true,"findings":"3,118c **连续段淡出许可诊断+Zone 拆分**：**Likely because Zone 4 gets described as one continuous run, so the model treats \"receding into darkness\" as permission to fade it out. Splitting the far half into its own zone should force it.** **`new_macro_needle_start_v1`** — upload `new_macro_needle_end_v1` + <<<uuid>>>——Zone 拆分强制+宏互引反向"}
+{"project":"WELCOME_TO_THE_TEAM","idx":485,"sha8":"ecebf3d2","len":3118,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":486,"sha8":"ecebf3d2","len":3118,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":487,"sha8":"ecebf3d2","len":3118,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":488,"sha8":"ecebf3d2","len":3118,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":489,"sha8":"631f534f","len":1989,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":490,"sha8":"8ccd8553","len":1841,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":491,"sha8":"e3f556c6","len":5151,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":492,"sha8":"e3f556c6","len":5151,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":493,"sha8":"e4592846","len":4738,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":494,"sha8":"e4592846","len":4738,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":495,"sha8":"857971fe","len":5233,"nTasks":1,"models":"null","read":true,"findings":"5,233c **边界描述 vs 正向分区描述方法论**：**I had it backwards — I wrote spines on the near stretch and bare beyond. You want the reverse.** The deeper problem is that I've been describing a **boundary** (\"spines up to X, then stop\"), which is **relational and abstract. Describing each zone positively by its own content, in depth order from the lens, is concrete and much harder to misplace.**——正向分区描述法"}
+{"project":"WELCOME_TO_THE_TEAM","idx":496,"sha8":"857971fe","len":5233,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":497,"sha8":"446f5ea2","len":4383,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":498,"sha8":"446f5ea2","len":4383,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"WELCOME_TO_THE_TEAM","idx":499,"sha8":"f98094d7","len":373,"nTasks":1,"models":"null","read":true,"findings":"373c 皮环刺简版"}
+{"project":"WELCOME_TO_THE_TEAM","idx":500,"sha8":"f98094d7","len":373,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}

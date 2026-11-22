@@ -1,0 +1,123 @@
+【项目】HOW TO BUILD $10K WEBSITES IN MINUTES (CLAUDE AI)（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/how-to-build-10k-websites-in-minutes-claude-ai
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW TO BUILD $10K WEBSITES IN MINUTES (CLAUDE AI)
+@sanjii
+1.2K
+1
+0
+
+This is the full workflow behind the $10,000-looking websites from the video — built in about an hour, with zero coding, using Claude Code and Higgsfield. Follow the stages in order: set up Claude Code once, connect Higgsfield once, and from then on every new website is one prompt plus a short Q&A.
+
+Before You Start
+
+You need three things: the Claude desktop app (the Code tab inside it is where everything happens), a Higgsfield account (Claude generates every hero video and brand image through the Higgsfield MCP connection), and the 10K Website Skill — the skill writes the whole build plan for you and asks you the right questions, so your first prompt can be a single sentence.
+
+brand-sites.skill
+SKIL
+Stage 1 — Set Up Claude Code
+
+https://claude.com/product/claude-code
+
+Open the Claude desktop app and switch to the Code tab (top left). Click the folder icon → Open Folder → create a new empty folder anywhere on your computer. That folder is the home base for all of your website's files — everything Claude builds lands there.
+
+
+
+
+Last check: switch to auto mode, so Claude can work without asking permission at every step.
+
+Stage 2 — Connect Higgsfield MCP
+
+On the Higgsfield site, open MCP and CLI and copy the connector URL. Back in Claude Code: plus icon → Connectors → Manage connectors → Add → Add custom connector. Name it Higgsfield, paste the URL, click Add, then Connect and allow access in the browser.
+
+
+
+
+From this point Claude generates all of your images and video for you right inside the chat.
+
+Stage 3 — Install the Skill & Send the First Prompt
+
+Download the 10K Website Skill and drag the file into your workspace folder. That's it — Claude now knows exactly how to build these kinds of websites.
+
+
+
+
+brand-sites.skill
+SKIL
+
+
+
+
+What it does: one sentence kicks off the entire build — the skill takes over and interviews you about the brand.
+
+Use the 10K websites skill to build me a website for my bicycle brand.
+
+Swap "bicycle brand" for whatever you're building. You can add more detail if you want, but you don't have to — the Q&A covers it.
+
+Stage 4 — The Q&A Session
+
+The skill asks a short series of questions and builds the brand from your answers:
+
+Real or new? Real shop with photos, real shop without good photos, or a new brand starting fresh (Claude invents the name and generates all visuals).
+The vibe — the feeling the site gives the moment it loads: adrenaline and speed, premium and technical, wild and outdoorsy, or fun and welcoming.
+References — share sites and images you love, or pick "No, you drive" and let Claude design the whole look from the brief.
+The name — Claude proposes options with a recommended pick.
+The hero concept — the main scrolling video of the site. Pick one of the pitched concepts, or type "surprise me" and let Claude invent one.
+Stage 5 — Hero Image & Video Generation
+
+With the brand locked, Claude prompts Higgsfield to generate the starting frame of your hero video, shows it to you, and offers a re-roll if the direction is off. Keep the frame you like — the entire brand palette is built from it.
+
+
+
+
+Then Claude asks which video model should animate the frame: Kling 2.6 (recommended, 5 cr), Kling 3.0 (7.5 cr), or Seedance 2.5. In the video we went with Seedance for the hero ride.
+
+Stage 6 — The Build, Preview & Revisions
+
+Claude builds the entire site on its own — this takes a while, so let it run. When it's done, skip the built-in preview panel and open the external link directly in your browser. Scroll the whole page: hero video, text formatting, buttons.
+
+
+
+
+What it does: revisions are plain English — click the microphone and dictate your feedback like you would to a real developer.
+
+When I was scrolling through the website, I really didn't like the current text font; change it to something more formal. Please take a look and make sure it's fixed. Also, make sure the spacing between blocks isn't so inconsistent. I'd also like you to do a final quality pass and make sure that everything appears correct on the website.
+
+Review the revised link, and when everything looks right, send the launch command:
+
+get it online
+Stage 7 — Hosting & Deploy
+
+To go live you need two things from any hosting provider: hosting and a domain. Connect the hosting to Claude and it handles the rest — packs up the site files, uploads them, and points them at your address.
+
+
+
+
+From then on, any change is one sentence in the chat: you describe it, Claude edits and redeploys. Claude is basically your on-call developer.
+
+
+
+
+But you can make this even easier with Higgsfield MCP — just tell it, “Now, deploy this site,” and it’ll handle the deployment for you.
+
+Ready To Make Your Own?
+
+The whole pipeline is: one folder, one connector, one skill, one sentence. Everything else — the brand, the visuals, the hero video, the code, the deploy — Claude and Higgsfield handle for you.
+
+READY TO MAKE YOUR OWN?
+Go!
+Contents
+Before You Start
+Stage 1 — Set Up Claude Code
+Stage 2 — Connect Higgsfield MCP
+Stage 3 — Install the Skill & Send the First Prompt
+Stage 4 — The Q&A Session
+Stage 5 — Hero Image & Video Generation
+Stage 6 — The Build, Preview & Revisions
+Stage 7 — Hosting & Deploy
+Ready To Make Your Own?
+Ready to make your own?

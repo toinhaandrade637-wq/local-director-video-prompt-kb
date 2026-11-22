@@ -1,0 +1,307 @@
+【项目】Introducing Ad Multiplier: Turn One Video Ad Into Multiple Variations（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/ad-multiplier-ads-studio
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Introducing Ad Multiplier: Turn One Video Ad Into Multiple Variations
+Higgsfield
+Oct 7, 2026
+10 min
+
+Higgsfield just launched Ad Multiplier in Ads Studio, a tool that creates variations from a reference ad with your characters, products, and locations. Upload one video, add your images, and describe the scene to generate several versions. You can also change the hook, script, or call to action per version. This guide covers how it works and what it costs.
+
+What Is Ad Multiplier and How Does It Work?
+
+Ad Multiplier turns one existing ad into new variations by replacing selected elements such as the character, product, outfit, or location while preserving the original motion, framing, cuts, timing, and other parts you do not ask it to change.
+
+Here is an example with a made-up product, a matte lipstick in the shade Brick Rose from a fictional brand called Rosewood Cosmetics.
+
+What Is Ad Multiplier and How Does It Work?
+
+Criteria
+
+	
+
+Reference ad
+
+	
+
+New version
+
+
+
+
+Product
+
+	
+
+A generic red lipstick
+
+	
+
+Your Rosewood lipstick in Brick Rose
+
+
+
+
+Character
+
+	
+
+A woman at a bathroom mirror
+
+	
+
+A model, from your character image
+
+
+
+
+Location
+
+	
+
+A bathroom
+
+	
+
+A sunlit café window seat
+
+The prompt for this version could read:
+
+“Recreate the reference ad using @lipstick as the product. Replace the woman with @model and move the scene to a sunlit café window seat.”
+
+Test New Hooks, Scripts, and CTAs
+
+Ad Multiplier changes the message as well as the visuals. Three parts of the ad can change from one concept:
+
+Hook: The opening line or moment that earns the next few seconds of attention.
+Script: The text of the ad, which you can rewrite.
+CTA: The call to action, such as shop, book, or visit.
+
+One concept can carry several messages, so you can compare them side by side:
+
+Test New Hooks, Scripts, and CTAs
+
+Version
+
+	
+
+Hook
+
+	
+
+CTA
+
+
+
+
+A
+
+	
+
+"Looking for your everyday red?"
+
+	
+
+"Shop Brick Rose."
+
+
+
+
+B
+
+	
+
+"One swipe, and you're ready to go."
+
+	
+
+"Get 10% off your first order."
+
+
+
+
+C
+
+	
+
+"Three shades, one new favorite."
+
+	
+
+"See the full range."
+
+If you want to understand what improved performance, change one variable at a time. For example, keep the visual and CTA the same while testing different hooks, then test CTA variations separately.
+
+Create Multiple Ad Variations From One Setup
+
+Ad Multiplier can produce several versions from one set of materials in a single run. Each version can change a different part of the ad:
+
+Create Multiple Ad Variations From One Setup
+
+Element
+
+	
+
+Example
+
+
+
+
+Product
+
+	
+
+The same lipstick in a second shade
+
+
+
+
+Cast
+
+	
+
+A different model image
+
+
+
+
+Clothing
+
+	
+
+A new outfit from your clothing images
+
+
+
+
+Setting
+
+	
+
+A café, a studio, or a city street, described in the prompt
+
+
+
+
+Message
+
+	
+
+A new hook, script, or CTA
+
+A single run takes up to 20 images of characters, products, or clothing. Finished versions appear in History, and you can generate more from the versions that work.
+
+How to Use Ad Multiplier in Ads Studio
+
+Step 1: Open Ad Multiplier. Open Ads Studio in the Extension, go to Explore tools, and select Ad multiplier.
+
+Step 2: Add the reference video. Upload the ad you want to recreate. It must be between 4 and 30 seconds, so trim a longer video first. Use a reference ad and character or product images that you own or have permission to use. If a real person appears in the reference material, make sure you have the necessary consent to use their likeness.
+
+Step 3: Add your images. Add up to 20 images of your characters, products, or clothing.
+
+Step 4: Describe the new scene. Write your prompt and mention the attached files with @. For example:
+
+“Recreate the reference ad using @lipstick as the product. Replace the woman with @model and move the scene to a sunlit café window seat. Change the hook to "Looking for your everyday red?" and end with the CTA "Shop Brick Rose."”
+
+Step 5: Choose the quality. Select 480p, 720p, or 1080p.
+
+Step 6: Check the cost and generate. Review the credit cost on the Generate button, then start the generation.
+
+Step 7: Review your versions in History. Open History to see the finished versions. Check the product's look, the text, and every claim before you use a version, and generate more from the ones that work.
+
+Ad Multiplier Pricing
+
+Ad Multiplier has no fixed price. The cost depends on your inputs, your prompt, whether you change the hook or the CTA, and the result you want. The total in credits shows on the Generate button before you start, and additional generations or alternatives may increase it.
+
+Ad Multiplier Pricing
+
+Generation setup
+
+	
+
+Output quality
+
+	
+
+Cost in credits
+
+	
+
+Estimated cost
+
+
+
+
+Change hook + CTA
+
+	
+
+720p
+
+	
+
+Up to 140
+
+	
+
+Up to $7.00
+
+
+
+
+Change hook + CTA
+
+	
+
+1080p
+
+	
+
+Up to 240
+
+	
+
+Up to $12.00
+
+
+
+
+Change CTA only
+
+	
+
+720p
+
+	
+
+Up to 35
+
+	
+
+Up to $1.75
+
+
+
+
+Change CTA only
+
+	
+
+1080p
+
+	
+
+Up to 60
+
+	
+
+Up to $3.00
+
+Estimated costs are based on the Plus plan at $49 for 1,000 credits, or approximately 20 credits per dollar. Dollar amounts are rounded.
+
+INTRODUCING AD MULTIPLIER: TURN ONE VIDEO AD INTO MULTIPLE VARIATIONS
+Try Ad Multiplier

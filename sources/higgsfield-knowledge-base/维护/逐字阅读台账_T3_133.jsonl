@@ -1,0 +1,117 @@
+{"project":"THE_FESTIVAL","idx":1,"sha8":"d816f116","len":30120,"nTasks":1,"models":"default","read":true,"findings":"30,120c **people in lifts leave gaps 行为观察+书面停顿=事件**：**EVERY WORD OF DIALOGUE…SPOKEN IN A BRITISH ENGLISH ACCENT — Southern English, London, non-rhotic — the same voices as the film**…**Short lines with real air between them: this is a lift, and people in lifts leave gaps.** **FOUR written pauses, each of them a thing that happens** (the buttons and the doors closing…)——电梯留空隙观察+四书面停顿=事件"}
+{"project":"THE_FESTIVAL","idx":2,"sha8":"ad4e70e7","len":27564,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":3,"sha8":"99b79fcb","len":25975,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":4,"sha8":"b6b6b50d","len":23149,"nTasks":1,"models":"default","read":true,"findings":"23,149c **ASSET BINDINGS 段头+最后一词=最后事件**：**ASSET BINDINGS.** <<<uuid>>> **controls the face of** <<<uuid>>> **— identity only. Do not copy the white background, lighting or pose from the reference**…**FOUR written pauses, each of them a thing that happens (watching, straightening up, breathing out, looking at someone), each of them real. The last word is the last thing that happens.**——绑定段头+controls 谓词+停顿真实性+台词即终点"}
+{"project":"THE_FESTIVAL","idx":5,"sha8":"4547bb68","len":18517,"nTasks":1,"models":"default","read":true,"findings":"18,517c **SMUDGED AND ILLEGIBLE 徽章**：a plain amber lanyard with a white plastic badge whose print is **SMUDGED AND ILLEGIBLE**——徽章模糊（大写——版权规避 HWANDO 同族）"}
+{"project":"THE_FESTIVAL","idx":6,"sha8":"3e8be908","len":18505,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":7,"sha8":"f5b78872","len":18103,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":8,"sha8":"ba61b2ff","len":11632,"nTasks":1,"models":"default","read":true,"findings":"11,632c **ground truth for everything**：is the **FIRST FRAME of this shot and the ground truth for everything in it**: the wet car park…**UNBRANDED — no maker's badge on the grille or the boot, no model lettering, a blank dark number plate with no characters**…**RIGHT-HAND-DRIVE**——首帧=全部地面真相+无牌车三禁+右舵声明"}
+{"project":"THE_FESTIVAL","idx":9,"sha8":"215a7e10","len":12910,"nTasks":1,"models":"default","read":true,"findings":"12,910c **台词逐字照读+词计数首例**：**DIALOGUE — THIS IS THE ENTIRE SCRIPT OF THE SHOT, READ VERBATIM.** One speaker. Three lines. **These exact words, in this order, word for word as printed, and no other words. Nothing is paraphrased, summarised, reworded, extended or replaced. No word is swapped for a synonym. No sentence is added. She says these thirty-five words and nothing else**——台词全剧本+逐字照读+五禁改写+**三十五词计数**"}
+{"project":"THE_FESTIVAL","idx":10,"sha8":"5c91b53c","len":3126,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"3,126c **fly-on-the-wall 纪录片风格**：A photorealistic still frame from a contemporary **fly-on-the-wall documentary**…**mild sensor noise in the shadows**——苍蝇在墙纪录片+阴影传感器噪点"}
+{"project":"THE_FESTIVAL","idx":11,"sha8":"b1d76e11","len":14041,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":12,"sha8":"c795c40b","len":10735,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":13,"sha8":"ad81aa59","len":2772,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":14,"sha8":"0d003241","len":33194,"nTasks":1,"models":"default","read":true,"findings":"33,194c **五镜时间码+小写动作名镜头**：**SHOT 1 — 0 to 3s — long lens…— the exhale. SHOT 2 — 3 to 6s — long lens…— the phone — talked over by** <<<uuid>>>**— the exhale**——小写动作名镜头（呼气/电话）+被画外打断"}
+{"project":"THE_FESTIVAL","idx":15,"sha8":"a6ed2a1f","len":23669,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":16,"sha8":"8520ce80","len":16564,"nTasks":1,"models":"default","read":true,"findings":"16,564c **谈美不改口音声明首例**：**the accent does NOT change because she is talking about American film directors and an American-sounding jury; she is a Londoner discussing America, in a London accent, from the first word to the last.**——谈美不改伦敦音"}
+{"project":"THE_FESTIVAL","idx":17,"sha8":"d47c9f1b","len":2292,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"2,292c **生产公司 logo+hex+三星例外**：A modern, minimal **production company logo end frame, 16:9, flat graphic design, not a photograph**…**hex #0E1422**, edge to edge, with no gradient…**no stars other than the three described**…THREE small round points of light…**about eight degrees above horizontal**——片尾 logo+十六进制+三星例外声明+8 度斜线"}
+{"project":"THE_FESTIVAL","idx":18,"sha8":"8742850f","len":2900,"nTasks":1,"models":"null","read":true,"findings":"2,900c **Edit reference 保持清单+Make these changes and no others**：Keep **EVERYTHING about the room, the camera position, the framing, the lens and the light EXACTLY as they are**…**Make these changes and no others: REMOVE the standing woman**——全保持+只改声明"}
+{"project":"THE_FESTIVAL","idx":19,"sha8":"ef37867a","len":14318,"nTasks":1,"models":"default","read":true,"findings":"14,318c **末帧=uuid 精确声明+零时间流逝**：**The LAST FRAME of shot 3 is <<<uuid>>>, exactly.**…**The whole sequence is one continuous piece of real time — no time passes across any cut.**——末帧精确+切点零时间流逝（×多现）"}
+{"project":"THE_FESTIVAL","idx":20,"sha8":"8742850f","len":2900,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":21,"sha8":"2f07c9da","len":25340,"nTasks":1,"models":"default","read":true,"findings":"25,340c **首帧已在说话+书面例外**：**Every speaker is ALREADY TALKING ON THE FIRST FRAME of their shot, with ONE written exception — shot 3 — which is the one deliberate pause in the scene. Shots 4 and 5 are silent. One person speaks per shot.**——首帧即说+书面例外+静默镜+每镜一人"}
+{"project":"THE_FESTIVAL","idx":22,"sha8":"66dd3594","len":15456,"nTasks":1,"models":"default","read":true,"findings":"15,456c **the room exhales 集体呼吸**：SHOT 1 — 0.0 to 6.0s — THE WIDE…— **the send; the room exhales; four people start to leave**——发送后房间呼气（集体呼吸隐喻）"}
+{"project":"THE_FESTIVAL","idx":23,"sha8":"ef9840b7","len":19319,"nTasks":1,"models":"default","read":true,"findings":"19,319c **快节奏场景+半秒收尾**：**THIS IS A FAST SCENE: the speaker is ALREADY TALKING ON THE FIRST FRAME**…**every shot with dialogue ends within half a second of the last word**——快场景声明+半秒收尾"}
+{"project":"THE_FESTIVAL","idx":24,"sha8":"6d8f456a","len":23626,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":25,"sha8":"df4e7795","len":30581,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":26,"sha8":"5fc2e6f7","len":12169,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":27,"sha8":"1fc77c70","len":27071,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":28,"sha8":"b61706f0","len":21370,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":29,"sha8":"a482af1c","len":19759,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":30,"sha8":"9d6b3fd5","len":3121,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":31,"sha8":"17a124c2","len":3592,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":32,"sha8":"7bbb3701","len":2290,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":33,"sha8":"b019519c","len":22126,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":34,"sha8":"03bc5fc4","len":18889,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":35,"sha8":"6941163d","len":1931,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":36,"sha8":"6941163d","len":1931,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":37,"sha8":"82ded893","len":27696,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":38,"sha8":"7bef26a0","len":1491,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":39,"sha8":"c2f22df4","len":1349,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":40,"sha8":"72e14e53","len":1650,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":41,"sha8":"96115ca2","len":1323,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":42,"sha8":"388a02b2","len":830,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":43,"sha8":"358dad9b","len":1319,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":44,"sha8":"4d9bb362","len":2870,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":45,"sha8":"518787ad","len":1176,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":46,"sha8":"d816f116","len":30120,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":47,"sha8":"99b79fcb","len":25975,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":48,"sha8":"f345fe19","len":21157,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":49,"sha8":"62b683f9","len":21320,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":50,"sha8":"46822396","len":13707,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":51,"sha8":"87e61fe8","len":17002,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":52,"sha8":"8cd09498","len":16186,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":53,"sha8":"ac6f75d9","len":11828,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":54,"sha8":"cd5de2f2","len":1860,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":55,"sha8":"ecd20878","len":14236,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":56,"sha8":"a15b77d9","len":12960,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":57,"sha8":"9d9a676d","len":11792,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":58,"sha8":"45a97ffa","len":27284,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":59,"sha8":"69d54bdb","len":26262,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":60,"sha8":"733e988f","len":14896,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":61,"sha8":"60edb439","len":24742,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":62,"sha8":"66c3edbe","len":4958,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":63,"sha8":"b58f207c","len":24700,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":64,"sha8":"8742850f","len":2900,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":65,"sha8":"ece6e4c7","len":2857,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":66,"sha8":"01e15305","len":26908,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":67,"sha8":"8742850f","len":2900,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":68,"sha8":"c17427c0","len":28479,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":69,"sha8":"bdcdaa7e","len":29517,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":70,"sha8":"e62b4e62","len":27047,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":71,"sha8":"8ec7375d","len":28403,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":72,"sha8":"88590b53","len":25009,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":73,"sha8":"f178a4e7","len":20668,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":74,"sha8":"d84b141b","len":27588,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":75,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_FESTIVAL","idx":76,"sha8":"42493670","len":3256,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":77,"sha8":"7c948ff6","len":2390,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":78,"sha8":"cf5664e8","len":3167,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":79,"sha8":"b019519c","len":22126,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":80,"sha8":"f539dc33","len":2605,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":81,"sha8":"f539dc33","len":2605,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":82,"sha8":"cf167737","len":1434,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":83,"sha8":"388a02b2","len":830,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":84,"sha8":"51559193","len":1337,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":85,"sha8":"a122a91a","len":1136,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":86,"sha8":"358dad9b","len":1319,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":87,"sha8":"75632d1d","len":1324,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":88,"sha8":"51559193","len":1337,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":89,"sha8":"5c2244d0","len":13249,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":90,"sha8":"022cdf7f","len":25105,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":91,"sha8":"c4592042","len":23846,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":92,"sha8":"a0d2d756","len":22299,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":93,"sha8":"375906be","len":22511,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":94,"sha8":"db5e8187","len":20542,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":95,"sha8":"e1b99593","len":21228,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":96,"sha8":"eb766c41","len":22886,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":97,"sha8":"3e6d8564","len":19914,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":98,"sha8":"49aaf378","len":23503,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":99,"sha8":"ee96ed8a","len":19928,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":100,"sha8":"787992f2","len":21383,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":101,"sha8":"fa0e7f11","len":21370,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":102,"sha8":"bf582d20","len":28430,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":103,"sha8":"389fb9b1","len":25808,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":104,"sha8":"80bf59b3","len":18197,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":105,"sha8":"0c3c5930","len":17052,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":106,"sha8":"8b94d168","len":16642,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":107,"sha8":"951893eb","len":17646,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":108,"sha8":"8648ff82","len":16555,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":109,"sha8":"b6adb6e4","len":15352,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":110,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"THE_FESTIVAL","idx":111,"sha8":"3cb401f2","len":14253,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":112,"sha8":"ee1d20b1","len":14756,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":113,"sha8":"ad46f411","len":15040,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":114,"sha8":"ee1d20b1","len":14756,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":115,"sha8":"46822396","len":13707,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":116,"sha8":"33d69dae","len":32544,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"THE_FESTIVAL","idx":117,"sha8":"cf6ac69e","len":31101,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}

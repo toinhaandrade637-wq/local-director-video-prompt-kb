@@ -1,0 +1,162 @@
+{"project":"NAME_IS_COMET","idx":1,"sha8":"05b2f273","len":2909,"nTasks":1,"models":"default","read":true,"findings":"2,909c **⚠️ emoji 行内强调标点系统首例+中文长 prompt 首例**：Comet 68 岁发福超级英雄定义（⚠️暗红色布质面罩/**⚠️下半张脸是敞开的、完全可见**——鼻子嘴下巴下颌与浓密灰白络腮胡露出/风吹日晒的红润皮肤/松弛的下颌垂肉/**⚠️嘴唇干燥略有裂纹/⚠️张嘴时可见参差发黄的牙齿**）+**⚠️胸口严格无任何标志。⚠️无披风**+Apex 定义：**⚠️只作为一辆经过的公交车侧身上的印刷广告图片出现……⚠️他从未真实出现在本场景中**+⚠️公交长约12米光亮完美无瑕（广告完美 vs 主角破旧对照）"}
+{"project":"NAME_IS_COMET","idx":2,"sha8":"bbf14839","len":2187,"nTasks":1,"models":"default","read":true,"findings":"2,187c **Officer 警徽四连通用化首例**：⚠️所有徽章标识严格为通用无品牌样式——⚠️帽子上无可辨认机构名称、肩章上无可辨认文字、警徽上无可辨认字样、胸牌无可辨认姓名——版权规避再现"}
+{"project":"NAME_IS_COMET","idx":3,"sha8":"48ac4063","len":296,"nTasks":1,"models":"default","read":true,"findings":"296c 晨间热身运动+audio_1 音乐节拍（Change exercises but camera remains staionary, every 2 seconds——机读分拣拼写）"}
+{"project":"NAME_IS_COMET","idx":4,"sha8":"a3da2272","len":193,"nTasks":1,"models":"default","read":true,"findings":"193c **video_1 台词替换段首例**：replace the spoken dialogue with the same voice, saying \"Darn it... third one this week...\" **Keep the original picture, camera movement, lighting, and ambient sound unchanged**——同声替换+保持四项不变"}
+{"project":"NAME_IS_COMET","idx":5,"sha8":"cee8dacb","len":243,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":6,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":7,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":8,"sha8":"5219a23b","len":118,"nTasks":1,"models":"default","read":true,"findings":"police cars 驶离静态镜头（No Music）"}
+{"project":"NAME_IS_COMET","idx":9,"sha8":"ec21b795","len":176,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":10,"sha8":"ec21b795","len":176,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":11,"sha8":"25a45c43","len":1533,"nTasks":1,"models":"default","read":true,"findings":"1,533c **面罩推上头顶版（整脸裸露特写）**：⚠️⚠️⚠️面罩被推上去离开面部，⚠️卷在头顶上，⚠️整张脸完全裸露——卷起布料下面压着凌乱扁塌的灰白头发+⚠️⚠️⚠️无台词。⚠️他不说话。⚠️他不做口型。⚠️他不说\"sorry\"或任何别的话。⚠️画外剧组笑声只是音频，⚠️无可见说话者，⚠️不要求对口型——**画外笑声音频化七连**"}
+{"project":"NAME_IS_COMET","idx":12,"sha8":"0b152916","len":102,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":13,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":14,"sha8":"0cecf7f8","len":67,"nTasks":1,"models":"default","read":true,"findings":"67c 台词短句：Man sleepily says, \"darn it... third time this week\" and turns over"}
+{"project":"NAME_IS_COMET","idx":15,"sha8":"862dadb1","len":49,"nTasks":1,"models":"default","read":true,"findings":"49c 台词短句变体：Stands there an says \"darn it!\" 3 times. No Music"}
+{"project":"NAME_IS_COMET","idx":16,"sha8":"7b46dcb6","len":136,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"136c seedance_2_0：Recreate the attached reference video as faithfully as possible. Match it shot-for-shot — do not reinterpret, re-stage, or add anything"}
+{"project":"NAME_IS_COMET","idx":17,"sha8":"d8eca42e","len":2235,"nTasks":1,"models":"default","read":true,"findings":"2,235c **背影视角版**：本镜头中主要从背后看他——面罩后脑、下塌的肩线、戏服磨损的臀部与膝部"}
+{"project":"NAME_IS_COMET","idx":18,"sha8":"a376a927","len":99,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":19,"sha8":"7d6c1e86","len":190,"nTasks":1,"models":"default","read":true,"findings":"190c 台词替换变体：\"Rats... third one this week...\""}
+{"project":"NAME_IS_COMET","idx":20,"sha8":"23bc6ba3","len":280,"nTasks":1,"models":"default","read":true,"findings":"280c 台词替换变体（更 upset）：\"Excuse me, my cat's in there... Peaches...He got out during all the... and nobody would help...\"——同一镜头多版台词迭代（Darn it→Rats→Peaches）"}
+{"project":"NAME_IS_COMET","idx":21,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":22,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":23,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":24,"sha8":"4076c1b9","len":2558,"nTasks":1,"models":"default","read":true,"findings":"2,558c **Mrs Ellis 定义+镜头方位修正段首例**：⚠️普通而镇定。⚠️不虚弱。⚠️不哭泣。⚠️不做戏剧化的悲痛（镇定四连否定）+**⚠️⚠️⚠️背景——这是关键修正：⚠️摄影机是背对仓库拍摄的**。⚠️她身后是向纵深延伸的开阔街道（路口/路缘/街对面低矮建筑/停放的车辆/路牌）+**⚠️⚠️⚠️砖砌仓库绝不能出现在她身后。⚠️无砖砌工业立面，⚠️无装卸平台，⚠️无卷帘门，⚠️无黑洞洞的装卸口**——方位逻辑链（角色朝向→镜头位置→背景内容推导）"}
+{"project":"NAME_IS_COMET","idx":25,"sha8":"aeff498a","len":151,"nTasks":1,"models":"null","read":true,"findings":"151c Create a male newscaster for a fictional Channel 77 News show. Show the person and the station ID graphics but against a solid green screen background——虚构新闻台+绿幕台标"}
+{"project":"NAME_IS_COMET","idx":26,"sha8":"c47626e3","len":224,"nTasks":1,"models":"default","read":true,"findings":"224c 剧内新闻叙事：Taking you live to downtown, where the police have got these notorious criminals surrounded... (puts his finger to his ear} but wait. **That is Apex!**"}
+{"project":"NAME_IS_COMET","idx":27,"sha8":"cf100c19","len":2814,"nTasks":1,"models":"default","read":true,"findings":"2,814c 多角色同场：Comet+Mrs Ellis+Warehouse——**⚠️胡须里有地下室的灰与蛛网、⚠️皮肤上有污垢**（场景污染沉积细节）"}
+{"project":"NAME_IS_COMET","idx":28,"sha8":"83fa5f7d","len":2298,"nTasks":1,"models":"default","read":true,"findings":"2,298c **睡衣版 Comet（连靴子也穿着睡）**：花白稀疏短发（⚠️左侧仍被枕头压塌、不对称）+⚠️他连靴子也穿着睡（靴筒到小腿肚、靴面刮痕密布、鞋头严重磨损）+⚠️头部完全裸露——无面罩、无头套、无兜帽+布料陈旧磨白起球、腋下与腰侧有深色污渍、缝线处有手工修补痕迹"}
+{"project":"NAME_IS_COMET","idx":29,"sha8":"0de39e13","len":2150,"nTasks":1,"models":"default","read":true,"findings":"2,150c 睡衣版变体：金漆大面积磨损露出底布+⚠️胸口严格无任何标志、无logo、无图案——纯素色"}
+{"project":"NAME_IS_COMET","idx":30,"sha8":"3b1625a2","len":166,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":31,"sha8":"645d077e","len":227,"nTasks":1,"models":"default","read":true,"findings":"227c 气球树救援：looks down at the little boy, who points at the balloon in the tree…begins to float up to the balloon, untie it, and bring it back"}
+{"project":"NAME_IS_COMET","idx":32,"sha8":"8fb6c8c3","len":256,"nTasks":1,"models":"default","read":true,"findings":"256c **反英雄落地首例**：for 3 seconds nothing happens, and then literally **falls out of the sky and hits the ground like a falling missile**. He creates a crater 4 feet deep. Cut to a closeup of his face and he quietly whispers, **\"ow!\"** and then blacks out——英雄式入场→反英雄式着陆（ow+昏厥）"}
+{"project":"NAME_IS_COMET","idx":33,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":34,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":35,"sha8":"f67d084f","len":75,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":36,"sha8":"df113780","len":133,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":37,"sha8":"4968242d","len":169,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"169c videotape-alpha：cinematic shot of a 3 storey industrial brick warehouse with a loading dock…police have cordoned off"}
+{"project":"NAME_IS_COMET","idx":38,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":39,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":40,"sha8":"59513f2a","len":5566,"nTasks":1,"models":"default","read":true,"findings":"5,566c **英文版长 prompt（中英双语同项目首例）**：⚠️Dark-red fabric mask…**⚠️THE LOWER FACE IS OPEN AND FULLY VISIBLE**（大写+⚠️ 双重强调——跨语言标点系统保持）"}
+{"project":"NAME_IS_COMET","idx":41,"sha8":"9828b52a","len":6776,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":42,"sha8":"a7ecd1fd","len":161,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"161c videotape-alpha：widen the shot…add a family of mom, dad and 2 kids in the booth. Add a club sandwich in front of"}
+{"project":"NAME_IS_COMET","idx":43,"sha8":"a7ecd1fd","len":161,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":44,"sha8":"66dea116","len":175,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"175c videotape-alpha：use the blocking on the scene to create a wide cinematic shot of a warm, cozy, diner where is sitting on a stool at the bar, in his full outfit"}
+{"project":"NAME_IS_COMET","idx":45,"sha8":"b514000a","len":2808,"nTasks":1,"models":"default","read":true,"findings":"2,808c **街景版+街道通用化**：⚠️宽到足以让人在汽车旁并行，⚠️店面招牌不可读，⚠️任何位置无可辨认品牌名+Apex 公交广告复现+⚠️无披风"}
+{"project":"NAME_IS_COMET","idx":46,"sha8":"49f20ff8","len":1874,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":47,"sha8":"a0b652be","len":2328,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":48,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":49,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":50,"sha8":"37fdd557","len":2225,"nTasks":1,"models":"default","read":true,"findings":"2,225c **dropped piano 落地+STYLE: 8K IMAX 首例**：5 seconds of silence. We hear a dog barking, crickets. And then suddenly like a rock, **hits the ground like a dropped piano**, and creates a crater with dirt flying everywhere…we hear a car alarm go off in the distance as well as dogs barking. **No Music. STYLE: 8K IMAX**——静默五秒铺垫+钢琴坠落比喻"}
+{"project":"NAME_IS_COMET","idx":51,"sha8":"5e7ac0f3","len":1609,"nTasks":1,"models":"default","read":true,"findings":"1,609c 举罐起飞：struggles to lift it but manages to put it above his head and he starts flying with it. The camera follows him into the air with the building and the town disappearing below him"}
+{"project":"NAME_IS_COMET","idx":52,"sha8":"bff3c6b9","len":70,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":53,"sha8":"6504f2f4","len":121,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":54,"sha8":"b0379866","len":29,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"29c videotape-alpha 修正：remove the icon off his chest——生成后去标志"}
+{"project":"NAME_IS_COMET","idx":55,"sha8":"858293bc","len":35,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"35c videotape-alpha：enlarge to 4k the middle left panel——四联板局部放大"}
+{"project":"NAME_IS_COMET","idx":56,"sha8":"137c5356","len":56,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":57,"sha8":"a130be04","len":2349,"nTasks":1,"models":"default","read":true,"findings":"2,349c 火灾场景+Side street 参考定义"}
+{"project":"NAME_IS_COMET","idx":58,"sha8":"47edd52c","len":2510,"nTasks":1,"models":"default","read":true,"findings":"2,510c **kid 定义（反童星细节）**：约七岁的孩子，穿拉好拉链的保暖外套、毛线帽、连指手套。圆脸，被冷风吹红的脸颊，**⚠️正在干的泪痕，⚠️湿睫毛，⚠️有点流鼻涕**。**⚠️普通、不做造型**"}
+{"project":"NAME_IS_COMET","idx":59,"sha8":"d77dc521","len":57,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":60,"sha8":"5ec18834","len":50,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"50c videotape-alpha：create a 3x3 grid of different angles of this shot——3×3 角度网格"}
+{"project":"NAME_IS_COMET","idx":61,"sha8":"8916a809","len":71,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":62,"sha8":"33a6c35a","len":50,"nTasks":1,"models":"null","read":true,"findings":"50c **反洁净修正首例**：Make the street less clean and nice. **More lived in**（×3 同文+行 132）"}
+{"project":"NAME_IS_COMET","idx":63,"sha8":"33a6c35a","len":50,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":64,"sha8":"33a6c35a","len":50,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":65,"sha8":"2ebb7f31","len":38,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":66,"sha8":"6eee67ee","len":82,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"82c videotape-alpha 修正双连：remove the woamn being interviewed in the scene, and remove the logo off the truck"}
+{"project":"NAME_IS_COMET","idx":67,"sha8":"77c5113d","len":2606,"nTasks":1,"models":"default","read":true,"findings":"2,606c 火灾场景版（Fire scene p…）"}
+{"project":"NAME_IS_COMET","idx":68,"sha8":"b99188d1","len":1959,"nTasks":1,"models":"default","read":true,"findings":"1,959c **STYLE 段+双摄影大师联合锚定首例**：STYLE: 8K IMAX. Hyper-real — **no 3D render, no game engine, no game-CG cutscene feel**. Cinematography: **Emmanuel Lubezki × Roger Deakins**. LIGHTING: ⚠️strictly only light sources physically present in the scene — ⚠️late afternoon daylight, ⚠️low sun, ⚠️warm, ⚠️long soft shadows. ⚠️The interior of the loading bay is genuinely dark — ⚠️lit only…——双大师 × 符号+物理光源严格制"}
+{"project":"NAME_IS_COMET","idx":69,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":70,"sha8":"ceec6e51","len":2429,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":71,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":72,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":73,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":74,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":75,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":76,"sha8":"9dda8756","len":586,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"586c **四列 character reference sheet**：Arrange into four vertical columns, each showing a full-body view from a different angle. Columns: front view/left profile/right profile/back view——**（robot facing left/right——模板残留痕迹）**"}
+{"project":"NAME_IS_COMET","idx":77,"sha8":"5e3f68f5","len":6642,"nTasks":1,"models":"default","read":true,"findings":"6,642c **Apex 定义（英文版）**：a man of about 24, tall, athletic, **immaculate**. Dark hair, clean-shaven. ⚠️Clean, fitted, **unfaded** blue superhero suit…⚠️Chest wordmark reads as a **SHAPE**, ⚠️not legible letters——**胸标是形状不是可读字母**（品牌化身规避）"}
+{"project":"NAME_IS_COMET","idx":78,"sha8":"0fcf191e","len":2292,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":79,"sha8":"72a05c9c","len":6728,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":80,"sha8":"0738fe16","len":306,"nTasks":1,"models":"default","read":true,"findings":"306c **bodybuilder pose 喜剧**：quickly puts on his mask, and then stands in a full body superhero / bodybuilder pose, similar to the pose of. **He can only hold it for a second, because his shoulder…**——姿势只能撑一秒"}
+{"project":"NAME_IS_COMET","idx":81,"sha8":"a4930025","len":2103,"nTasks":1,"models":"default","read":true,"findings":"2,103c **压力罐道具+姿势保持关键指令**：⚠️大型卧式工业压力罐——⚠️长约5米、直径约1.8米的圆柱形钢制容器，⚠️暗橄榄灰色，⚠️铆接箍带，⚠️几十年油污，⚠️一条焊缝上爬着霜花+⚠️相对他而言它极其巨大——⚠️长度接近他身高的三倍+**⚠️⚠️⚠️姿势保持——这是关键指令**"}
+{"project":"NAME_IS_COMET","idx":82,"sha8":"403fdb48","len":2655,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":83,"sha8":"51ba2b59","len":2424,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":84,"sha8":"6e002c06","len":2379,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":85,"sha8":"a1d5901d","len":1598,"nTasks":1,"models":"default","read":true,"findings":"1,598c **道具状态声明首例**：⚠️他没有抱着猫——⚠️他已经把猫交出去了+⚠️街道是空的：⚠️无警察，⚠️无警戒（带）+正中那扇卷帘门已被拆下、靠在其门洞旁的砖墙上，那个装卸口是一个黑色矩形"}
+{"project":"NAME_IS_COMET","idx":86,"sha8":"fdd85d84","len":2624,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":87,"sha8":"313c564d","len":2032,"nTasks":1,"models":"default","read":true,"findings":"2,032c **Mrs Ellis 完整版+唯一人声规则**：⚠️普通而镇定。⚠️不虚弱。⚠️不哭泣。⚠️不做戏剧化的悲痛+⚠️无警察。⚠️无警戒带。⚠️无人群。画面中没有其他人（三连无）+⚠️对白规则：⚠️唯一的人声是<<<image_2>>"}
+{"project":"NAME_IS_COMET","idx":88,"sha8":"7382317b","len":2375,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":89,"sha8":"5f77ae0b","len":2718,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":90,"sha8":"e627d027","len":234,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"234c videotape-alpha **双视图参考表**：create a front and back character reference of a woman in her seventies, small, thin, in a buttoned wool coat and flat shoes…**Ordinary. Not frail. Not distressed.**"}
+{"project":"NAME_IS_COMET","idx":91,"sha8":"70e9c492","len":2118,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":92,"sha8":"92ad5dd3","len":2251,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":93,"sha8":"e9c5ba56","len":2641,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":94,"sha8":"83fa5f7d","len":2298,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":95,"sha8":"ccbcf0b7","len":161,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"161c videotape-alpha 光线修正：change the lighting in this shot to low warm daylight from the open bay, **no signage anywhere, and disorder — pallets over, a rack askew, dust in the light beams**——杂乱三细节"}
+{"project":"NAME_IS_COMET","idx":96,"sha8":"f16bfcc3","len":1590,"nTasks":1,"models":"default","read":true,"findings":"1,590c **时间流逝三联+场地收尾编队首例**：⚠️⚠️⚠️这里必须明显晚于他到场时：⚠️太阳明显更低，⚠️影子明显更长，⚠️砖墙比本场戏前面明显更橙。**⚠️必须让人感觉到时间过去了**+⚠️行动正在收尾：两辆新闻车的天线杆正在收下，⚠️一个摄制组正把摄影机装进侧门，⚠️三四名警察走回车辆，⚠️一名警员在把警戒带缠回卷上——**收尾场景编队**"}
+{"project":"NAME_IS_COMET","idx":97,"sha8":"3dff3514","len":184,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":98,"sha8":"9065eee9","len":100,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":99,"sha8":"20fa4f04","len":197,"nTasks":1,"models":"default","read":true,"findings":"197c 锅炉房救猫：The boiler in is rocking violently on its foundation, hissing and giving off big clouds of steam, like it is about to explode. walks into this room holding a tabby cat"}
+{"project":"NAME_IS_COMET","idx":100,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":101,"sha8":"","len":0,"nTasks":1,"models":"video_edit","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":102,"sha8":"91d328fa","len":129,"nTasks":1,"models":"default","read":true,"findings":"129c Peaches 台词：The woman looks worried and says, \"Excuse me...they all left a while ago, but I think my cat is in there somewhere... Peaches...\""}
+{"project":"NAME_IS_COMET","idx":103,"sha8":"2889a77d","len":37,"nTasks":1,"models":"null","read":true,"findings":"37c null 修正：Change the clock to a different brand（×3 同文）"}
+{"project":"NAME_IS_COMET","idx":104,"sha8":"2889a77d","len":37,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":105,"sha8":"2889a77d","len":37,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":106,"sha8":"8de8792b","len":68,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"68c videotape-alpha：remove any reference to 'SEATTLE' and turn it into a late afternoon——地名移除+时段转换"}
+{"project":"NAME_IS_COMET","idx":107,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":108,"sha8":"ffc0cc74","len":2491,"nTasks":1,"models":"default","read":true,"findings":"2,491c **戴面罩吃饭逻辑**：⚠️他戴着面罩在吃一个总汇三明治——⚠️面罩不遮住嘴，⚠️他就那样吃（面罩功能逻辑一致性）+@image3（Diner）朴素的营业中餐馆内部——**@imageN 引用记法首例**"}
+{"project":"NAME_IS_COMET","idx":109,"sha8":"7ba98087","len":73,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"73c videotape-alpha：create a front and back character sheet on gray, similar to——灰底复用（×4 同文）"}
+{"project":"NAME_IS_COMET","idx":110,"sha8":"7ba98087","len":73,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":111,"sha8":"d5b72be4","len":2822,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":112,"sha8":"69ea63dc","len":1906,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":113,"sha8":"40373836","len":1883,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":114,"sha8":"5a04ae67","len":134,"nTasks":1,"models":"default","read":true,"findings":"134c Match her clothes as in——服装匹配引用"}
+{"project":"NAME_IS_COMET","idx":115,"sha8":"1cba91ba","len":105,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":116,"sha8":"72ea8259","len":51,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":117,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":118,"sha8":"b5aa3539","len":1848,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":119,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":120,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":121,"sha8":"7fb3ff3d","len":2097,"nTasks":1,"models":"default","read":true,"findings":"2,097c kid+mother 定义：⚠️手里攥着系绳的红气球，⚠️站在树下+@image4（The mother）——三十多岁的女性，普通，穿日常外套"}
+{"project":"NAME_IS_COMET","idx":122,"sha8":"b0379866","len":29,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":123,"sha8":"43a360f5","len":1868,"nTasks":1,"models":"default","read":true,"findings":"1,868c **kid 反童星完整版+气球卡住物理**：⚠️两颊有泪痕，⚠️流着鼻涕，⚠️睫毛湿润。⚠️日常、平凡、不做造型，**⚠️不摆可爱姿势，⚠️不是在表演的童星**+⚠️红色氦气球，系着一小段细绳，⚠️卡住并缠绕在树枝间，距人行道约3.6米（12英尺）高。⚠️它是被卡住的，⚠️不是（漂浮）"}
+{"project":"NAME_IS_COMET","idx":124,"sha8":"9e78bcf8","len":36,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":125,"sha8":"a92e04c8","len":1867,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":126,"sha8":"56c1ebac","len":183,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"183c videotape-alpha：wide shot outside a bank building that says \"First National Bank' on it in an unknown US city——虚构银行名（品牌规避对偶）"}
+{"project":"NAME_IS_COMET","idx":127,"sha8":"d24b5427","len":1958,"nTasks":1,"models":"default","read":true,"findings":"1,958c 火灾 plate：@image3（Fire scene plate）+眼孔中可见：淡蓝灰色眼睛，⚠️下眼睑浮肿，⚠️深鱼尾纹"}
+{"project":"NAME_IS_COMET","idx":128,"sha8":"420e9d41","len":1809,"nTasks":1,"models":"default","read":true,"findings":"1,809c **Firefighter 定义+消防徽三连通用化**：⚠️头盔已摘下、放在他身旁消防车的尾踏板上，短发被头盔压得潮湿扁塌，⚠️额头上有一条头盔压出的清晰浅色印痕，一侧颧骨与小臂上抹着烟灰，尽管天冷脸上仍有汗+⚠️所有徽章标识严格为通用无品牌样式——⚠️无可辨认消防局名称，⚠️无可辨认臂章文字，⚠️任何位置无可辨认字样"}
+{"project":"NAME_IS_COMET","idx":129,"sha8":"f5ba9f51","len":203,"nTasks":1,"models":"default","read":true,"findings":"203c shot-for-shot+高清参考：Recreate the attached reference video as faithfully as possible. Match it shot-for-shot — do not reinterpret, re-stage, or add anything. Use <<<image_1>>> and <<<image_2>>> as high resolution references"}
+{"project":"NAME_IS_COMET","idx":130,"sha8":"c2714728","len":26,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":131,"sha8":"61e2c122","len":3806,"nTasks":1,"models":"default","read":true,"findings":"3,806c **最长中文版 Comet**（完整磨损族：磨白起球、缝线有手工修补、金漆磨损露底）"}
+{"project":"NAME_IS_COMET","idx":132,"sha8":"33a6c35a","len":50,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":133,"sha8":"957c89f1","len":343,"nTasks":1,"models":"default","read":true,"findings":"343c close up of on camera in. Use as a shot example——镜头示例引用"}
+{"project":"NAME_IS_COMET","idx":134,"sha8":"c2714728","len":26,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":135,"sha8":"ebc90398","len":687,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":136,"sha8":"33713b1b","len":172,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":137,"sha8":"ce7b5ca4","len":2157,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":138,"sha8":"1460b978","len":82,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":139,"sha8":"fde4fa63","len":2095,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":140,"sha8":"b2811d8e","len":2019,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":141,"sha8":"5c55e0fa","len":1880,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":142,"sha8":"1460b978","len":82,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":143,"sha8":"3a94dbe9","len":638,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":144,"sha8":"f08093c7","len":1907,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":145,"sha8":"af8e5350","len":111,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":146,"sha8":"e93e4702","len":6725,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":147,"sha8":"45280c4f","len":2648,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":148,"sha8":"0f74d880","len":1527,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":149,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":150,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":151,"sha8":"115af1cf","len":97,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":152,"sha8":"97640959","len":60,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":153,"sha8":"977eaf36","len":2273,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":154,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":155,"sha8":"b48891fa","len":2108,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":156,"sha8":"63ef6968","len":1875,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":157,"sha8":"67b15b9f","len":2528,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":158,"sha8":"3f00dcf5","len":2191,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":159,"sha8":"ce4991c4","len":112,"nTasks":1,"models":"videotape-alpha","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":160,"sha8":"2d1c7a5e","len":205,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"NAME_IS_COMET","idx":161,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"NAME_IS_COMET","idx":162,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}

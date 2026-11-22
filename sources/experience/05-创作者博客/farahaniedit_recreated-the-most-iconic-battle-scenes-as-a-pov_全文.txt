@@ -1,0 +1,321 @@
+【项目】HOW I RECREATED THE MOST ICONIC BATTLE SCENES AS A POV SHOT（@farahaniedit · 创作者博客）
+【链接】https://higgsfield.ai/@farahaniedit/blogs/recreated-the-most-iconic-battle-scenes-as-a-pov
+【提示词块】3
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I RECREATED THE MOST ICONIC BATTLE SCENES AS A POV SHOT
+F
+@farahaniedit
+18
+0
+0
+I recreated one of TV’s most iconic battle scenes as a POV shot
+
+I wanted to recreate the feeling of being inside a brutal snowy battlefield from a first-person point of view.
+Not a clean remake. Not a polished crane shot.
+I wanted it to feel like a real handheld POV moment — rough, cold, immersive, and close to the action.
+The final shot is a mix of AI generation, 3D worldbuilding, camera tracking, compositing, and cleanup.
+
+Final result
+
+
+
+
+What i wanted to make
+a dark winter battlefield
+first-person handheld camera feel
+a believable character body in frame
+a realistic medieval outfit and sword
+charging cavalry coming straight at the camera
+a result that still feels immersive, not overly “ai”
+Tools i used
+3D Jutsu + GPT-6 Astra
+Genjutsu
+Seedance 2.5
+Blender
+After Effects
+Workflow overview
+build the battlefield base with gpt + astra
+refine the environment in blender
+shoot a handheld pov plate on my phone
+use genjutsu to transform the outfit and prop
+track and composite everything in after effects
+generate the cavalry approach
+finish the final shot with timing, masking, and cleanup
+1) Build the battlefield base with GPT-6 Astra inside 3D Jutsu
+
+i started by building the battlefield base with GPT-6 Astra inside 3D Jutsu.
+
+i gave GPT-6 Astra inside 3D Jutsu a reference image of the kind of winter battlefield i wanted: cold ground, dead grass, arrows in the earth, distant forest, snowy mountains, and a heavy cloudy sky.
+
+the goal here was not to generate the final shot in one go.
+it was to get a strong starting point for the world.
+
+image refrence for GPT 6 Astra
+
+
+
+
+GPT 6 astra result in blender
+
+
+
+
+Prompt for GPT-6 Astra
+
+(use the reference image above in the Higgsfield Blender plugin, then open Scene Builder, set the model to GPT-6 Astra, and paste the prompt below.)
+
+Use the provided reference image as the main visual guide and recreate a highly realistic 3D battlefield environment in Blender from a standing first-person POV.
+9:16 format, Iphone camera wide 0.5 lens , 10.16 lenght in blender camera
+
+Create a bleak open medieval battlefield with a cold northern atmosphere. The scene should be empty of characters and horses. Focus only on the environment.
+
+The foreground should have detailed muddy ground with wet soil, trampled dead grass, uneven terrain, small depressions, rough battlefield texture, and a few scattered medieval arrows stuck in the ground or lying on the surface near the camera. Add natural irregularity and realistic surface breakup so the ground feels real and worn, not clean or procedural.
+
+The midground should be a broad open battlefield plain, harsh and exposed, with subtle battlefield messiness and a raw, realistic feeling. If needed, include a few distant burnt wooden X-shaped battlefield structures placed far away and sparsely, so they do not dominate the shot.
+
+The background should have a dark distant tree line of cold northern forest, with layered snow-dusted hills or mountains behind it. These distant elements should feel large, natural, and slightly softened by atmosphere.
+
+The sky should be heavily overcast with thick gray-blue clouds, cold diffuse daylight, no visible sun, no warm sunset tones, and no dramatic fantasy lighting. The lighting should feel flat, cold, realistic, and harsh, like a real winter battlefield under dense cloud cover.
+
+Add subtle atmospheric haze, a little depth in the air, and a faint sense of cold moisture. The whole environment should feel grounded, photorealistic, dirty, and natural, not stylized or cinematic-beautiful.
+
+Important:
+- no characters
+- no horses
+- no crowds
+- no castles or buildings
+- no fantasy effects
+- no heroic composition
+- no clean polished look
+
+The final result should feel like a real raw medieval battlefield environment, viewed from the POV of a standing person, with realistic scale, believable terrain, and strong photorealism.
+
+
+
+
+
+
+
+2) Refining the environment in blender
+
+once the base was there, i took it into blender and pushed it further.
+
+this was where the scene started to feel real.
+
+i improved the ground, adjusted the materials, made the terrain feel more natural, and matched the mood closer to the shot i had in mind.
+
+
+
+
+What i refined
+ground texture
+mud and wet patches
+dead grass detail
+sky and lighting
+fog and atmosphere
+overall realism
+3) filming the pov plate
+
+for the live-action base, i filmed myself in my room with my phone.
+
+i wore a rough outfit that could later be transformed into a darker medieval warrior look. i also used a simple prop in place of the sword and acted out the movement from a first-person point of view.
+
+the idea was to capture the body motion and camera motion first, then upgrade the visual look later.
+
+i acted out the moment like this:
+
+standing in pov
+dropping down as if hit or falling
+rising back up
+grabbing the sword
+holding the frame in a way that still feels like a person is inside the scene
+
+
+
+
+4) Converting the outfit and prop with genjutsu
+
+after filming the plate, i created visual references for the outfit and the sword.
+
+then i used genjutsu to transform the clothing and prop while keeping the original camera angle and movement.
+
+this helped a lot because i could keep the natural handheld feel from the real footage, while replacing the rough homemade look with something much closer to the final world.
+
+
+
+
+
+
+
+Prompt  i used for transforming the outfit with GenJutsu
+
+Edit only the visible clothing, belt, scabbard, sword handle, boots, and subtle hand appearance in @Video 1.
+
+
+
+@Video 1 is the absolute source for all motion, timing, framing, camera movement, perspective, lens distortion, and spatial alignment. Follow the original video frame by frame as precisely as possible.
+
+
+
+Use @Image 1 as the primary and exact target appearance reference. Replace the original visible outfit with the dark weathered medieval outfit shown in @Image 1, including the tunic, sleeves, lower clothing, belt, boots, and all visible costume details.
+
+
+
+Replace the original belt setup with the belt and scabbard arrangement shown in @Image 1. Replace the visible prop and handle area with the sheathed sword appearance shown in @Image 1. The sword must remain inside the scabbard throughout the shot unless the original video clearly begins drawing it.
+
+
+
+Preserve the exact original right-hand movement as it moves toward the belt area. Preserve the exact original body position, hand position, finger motion, and contact timing from @Video 1.
+
+
+
+Preserve the original background, floor, plastic sheet, dirt pile, lighting, color, shadows, and camera shake unchanged. Do not redesign, restage, stabilize, smooth, reinterpret, delay, or generate new motion.
+
+
+
+Every edited frame must stay spatially aligned with the corresponding frame of @Video 1.
+
+
+
+Only transform the visible clothing, belt, scabbard, sword handle, boots, and subtle weathering/dirt details so the result looks like the same original real video with a different outfit and prop setup.
+
+See all
+Copy prompt
+Recreate
+
+For this step, Video 1 should be your raw handheld POV footage filmed on your phone.
+Image 1 should be the outfit reference you want the character to transform into.
+
+
+5) Camera tracking and compositing
+
+once i had the plate, i tracked the phone camera in after effects.
+
+then i transferred that motion into blender and aligned it with the battlefield environment.
+
+this was the key step that connected the live-action movement to the 3d world.
+
+after that, i rendered the environment and brought it back into after effects, where i masked and composited the transformed body into the battlefield.
+
+the goal was to make the character feel fully inside the environment, not pasted on top.
+
+
+
+
+compositing steps
+track the original handheld phone footage
+match the 3d camera to the tracked motion
+render the battlefield pass
+rotoscope and mask the transformed body
+composite the body into the 3d environment
+balance the color and atmosphere
+6) Adding the cavalry
+
+once the environment and character were working, the next big step was the cavalry.
+
+i took a still from my battlefield view and used ai to add distant riders approaching from the far background.
+
+then i used that as a base for motion generation and turned it into a moving cavalry charge with Seedance 2.5.
+
+after that, i brought the result back into after effects, masked it where needed, and matched it to the existing camera movement and scene atmosphere.
+
+
+
+
+
+
+
+
+
+
+Prompt for adding the horses in the scene
+
+add a distant cavalry line in the background of this battlefield image, with riders approaching from far away toward the camera. keep the composition realistic and cinematic. the horses and riders should feel dark, muddy and slightly obscured by haze, fitting naturally into the cold battlefield atmosphere.
+
+Copy prompt
+Recreate
+
+
+
+
+Prompt for the video
+
+Use the three provided reference images only as visual guidance for the battlefield environment, the cavalry progression, and the final attack feeling.
+
+
+
+
+Create a single continuous photorealistic video of a large medieval cavalry army charging directly toward the POV camera across a cold, muddy battlefield.
+
+
+
+
+Keep the camera completely locked and static the entire time at normal standing adult eye height. Do not change the camera angle, lens, framing, perspective, horizon line, or composition.
+
+
+
+
+Preserve the same environment and atmosphere shown in the reference images: dark overcast sky, cold blue-gray lighting, muddy frozen ground, dead grass, arrows in the foreground, distant forest, mountains, battlefield haze, and rough dirty weather.
+
+
+
+
+The cavalry should feel dense, chaotic, brutal, dirty, violent, and completely realistic. The riders and horses must move at real full galloping speed with believable weight, force, momentum, and natural irregular spacing. They are aggressively charging toward the person filming with the clear intention to kill.
+
+
+
+
+Keep the movement raw and natural, not polished or stylized. The horses should kick up mud, dirt, and debris. Add realistic battlefield haze and natural motion blur from speed, especially as the riders get closer.
+
+
+
+
+As the attack progresses, the cavalry should move from far distance to very close to the camera in a physically believable way. In the final moment, one or more riders should aggressively swing or thrust a sword directly toward the camera at high speed, with the blade coming extremely close to the lens or striking the lens area, creating a sudden violent end.
+
+
+
+
+Avoid any slow-motion feeling. Avoid floating or gliding movement. Avoid clean hero posing, glossy fantasy visuals, perfect symmetry, or artificial motion. The final result should feel raw, frightening, messy, grounded, and like a real battlefield attack captured in real time.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+7) Final polish
+
+once all the main elements were in place, the rest was polish.
+
+this stage was about making everything feel like one shot.
+
+i adjusted the timing, blending, atmosphere, and overall visual cohesion so the final result felt immersive and not like separate pieces stitched together.
+
+Final polish included
+color balancing
+atmosphere matching
+motion cleanup
+mask refinement
+depth feel
+visual cohesion
+Simple version of the workflow
+
+if i had to explain the whole process in one short paragraph, it would be this:
+
+i used 3D Jutsu with GPT-6 Astra to build the battlefield base, refined the world in Blender, filmed a handheld POV plate on my phone, used GenJutsu to transform the outfit and sword, tracked and composited everything in After Effects, then used Seedance 2.5 to generate the cavalry charge and blended it into the final shot.
+
+Final result
+
+after putting everything together, this was the final shot.
+
+
+
+
+Build your own version
+
+WANT TO TRY THE SAME WORKFLOW WITH YOUR OWN SCENE?
+OPEN 3D JUTSU

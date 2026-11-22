@@ -1,0 +1,77 @@
+【项目】HIGGSFIELD GENJUTSUのワークフロー：公園で撮った動画を、プライベートジェットと赤いオープンカーの動画に（@digital_eraser_1035 · 创作者博客）
+【链接】https://higgsfield.ai/@digital_eraser_1035/blogs/genjutsu-jet-and-red-car-workflow
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HIGGSFIELD GENJUTSUのワークフロー：公園で撮った動画を、プライベートジェットと赤いオープンカーの動画に
+@digital_eraser_1035
+29
+0
+0
+
+このガイドでは、私たちが制作した動画を再現します。公園で袋を持って階段を降りただけの動画を、プライベートジェットのタラップを降り、白いスーツに金の時計、紙袋を赤いオープンカーに置く動画へと変えます。顔、表情、動き、カメラワークは撮影時のまま。Genjutsuで1回生成するだけで実現できます。
+
+
+
+
+必要なもの
+Higgsfieldのアカウント
+使用する動画（4〜30秒）
+参考画像：変えたい物（服・時計・袋・ジェット・車）を、それぞれ向きを変えて
+ステップ1．動画を撮影する
+ジェットのタラップや車が来る位置に、代わりになる物（階段・低い台など）がある場所で撮ります。
+カメラは手に持ち、歩く人を追いかけるように撮ります。
+階段を降りる、袋を持ち上げる、袋を置く、のように動きをはっきりさせ、その秒数をメモしておきます。
+ステップ2．参考画像を準備する
+
+参考画像は、Higgsfieldの画像生成で作れます。
+
+
+
+
+人の顔や全身は写さず、物だけを用意するのがポイントです。
+服は前と後ろ、ジェットは横・正面・斜め、車は後ろ・横・車内、のように向きを変えて何枚か。
+ジェットと車を一緒に写した絵では、2つの距離をそろえます。
+ロゴや文字、ナンバープレートが入らないように作ります。
+ステップ3．Genjutsuの設定
+Higgsfieldで「幻術（Genjutsu）」を開き、「オブジェクトが入れ替わる」を選びます。
+動画と参考画像をアップロードします。
+プロンプト欄で「@」を押すと、画像の番号が一覧で出ます。サムネイルを見て、どの画像が何番かを確かめてから、プロンプトの番号を合わせてください。
+ステップ4．プロンプト
+
+今回のプロンプトの要点です。@の部分は、「@」で出る一覧から選び直してください。秒数は、アップロードした動画の秒数で書きます。
+
+Change only how things look. Keep the motion and the camera of @video1 exactly.
+
+CAMERA (most important): follow the camera of @video1 exactly. From 0 to 13 seconds his whole body is always in the frame. The camera comes close only at the end, as in @video1.
+
+ONE CONTINUOUS SHOT: never cut, never switch scenes. The jet and the car never jump or flip.
+
+KEEP THE MAN: the same face, expressions, movements and timing as in @video1.
+
+TIMING:
+- 0-2 seconds: he walks down the airstair of the jet (@image6), one bag in each hand.
+- 5.5-7.5 seconds: he shows the gold watch on his left wrist, with his whole body in the frame.
+- 13.5-14 seconds: the red car comes into the frame from the bottom right.
+- 14.5-16 seconds: he sets the two bags on the car's rear deck (like @image10).
+
+CHANGES:
+1. PLACE: a small private airport on a sunny day.
+2. JET: the steps become the airstair of the white jet in @image5 and @image6 (the same jet as @image11 and @image12).
+3. RED CAR: the red open-top car in @image7, @image8, @image9, @image13 and @image14. It is parked about 10 meters in front of the jet and never moves, swells, stretches or changes shape.
+4. CLOTHES: the white suit in @image1 (front) and @image2 (back).
+5. WATCH: the gold watch in @image3 on his left wrist.
+6. BAGS: the two black paper bags in @image4. Always exactly two.
+
+LIMITS: one jet and one car only. No warping, no cuts, no captions, no text, no logos, no license plates.
+ステップ5．仕上げ
+
+元の動画と上下に並べると、変化がひと目で分かります。
+
+コツ
+参考画像は「物だけ」を向き違いで。 服・時計・ジェット・車を別々の向きで用意すると、動画の動きにきれいに合います。
+カメラと「1カット」を最初に書く。 カメラが元の動画どおりに動き、途中で場面が切り替わりません。
+秒数は、アップロードした動画の秒数で書く。
+車の大きさと形を固定する。 カメラが近づいても、車が膨らんだり伸びたりしません。

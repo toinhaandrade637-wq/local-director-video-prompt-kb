@@ -1,0 +1,618 @@
+【项目】How to Make an AI Avatar in 2026 (Full Guide)（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/how-to-make-ai-avatar-2026
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+How to Make an AI Avatar in 2026 (Full Guide)
+Higgsfield
+Oct 22, 2026
+9 min
+
+To make an AI avatar, create a character image from a photo or a text prompt, give it a voice, and animate it into a talking video. Higgsfield is an AI-native creative suite where all three steps happen in one workspace: Soul 2.0 creates the look, Higgsfield Audio makes the voice track, and Seedance 2.5 turns the image and the voice into a talking video. You don’t need Soul ID for a first video: one good image and the same voice are enough until you need new scenes or angles. This guide takes one character from prompt to two talking videos, with the prompts, settings and credits we used.
+
+Here is the full workflow at a glance:
+
+How to Make an AI Avatar in 2026 (Full Guide)
+
+Step
+
+	
+
+Higgsfield tool
+
+	
+
+What you get
+
+	
+
+How to pass it on
+
+
+
+
+1. Create the look
+
+	
+
+Image → Soul 2.0
+
+	
+
+A character reference image
+
+	
+
+Download it or keep it in Assets
+
+
+
+
+2. Make the voice
+
+	
+
+Audio → Text to Speech → Seed Audio 1.0
+
+	
+
+A voice track
+
+	
+
+Download it from History
+
+
+
+
+3. Make it talk
+
+	
+
+Video → Create Video → Seedance 2.5, with the image and the voice track as references
+
+	
+
+A talking video
+
+	
+
+Download it, or reuse the same image and voice for the next clip
+
+
+
+
+4. Make the next video
+
+	
+
+Seedance 2.5 with the same image and voice, and a new scene in the prompt
+
+	
+
+The same character in a new setting
+
+	
+
+Download it
+
+What Kind of AI Avatar Do You Need? 
+
+An AI avatar is a digital character created from a photo or text description. It can be a still profile image or a talking avatar whose face and lip movements follow a voice track. You can base it on your own face or an invented character, and Marketing Studio also offers ready-made avatars for ad creatives.   
+
+What Kind of AI Avatar Do You Need?
+
+Option
+
+	
+
+You start with
+
+	
+
+Best for
+
+	
+
+Watch out for
+
+
+
+
+Your own likeness
+
+	
+
+1 photo of you, or 20–80 photos for Soul ID
+
+	
+
+Personal brand, explainer videos, founder videos
+
+	
+
+Use only your own face or one you have permission to use
+
+
+
+
+Invented character
+
+	
+
+A text prompt
+
+	
+
+Brand mascots, faceless channels, ads
+
+	
+
+Save the image you like and reuse it. Without a saved reference or identity anchor, the face can drift between generations
+
+
+
+
+Ready-made Marketing Studio avatar
+
+	
+
+A presenter from Higgsfield’s avatar library
+
+	
+
+UGC ads, tutorials, product reviews and other Marketing Studio video creatives
+
+	
+
+Designed for the Marketing Studio workflow
+
+This guide starts from an invented character, as in the example below.
+
+How Do You Create Your Avatar’s Look?
+
+Create the look by generating a new character from a text prompt or by uploading a clear photo of yourself. Check the image before you animate it, because flaws in the image carry into the video.
+
+From a text prompt
+
+A good avatar prompt describes six things: who the character is, how they are framed, their expression, what they wear, where they are and the light. Give the character one or two distinctive details, such as a hairstyle or an accessory. They make the face easier to recognize from one video to the next.
+
+For Maya, the character we follow through this guide, we generated a character reference sheet: a full-body view for the outfit and a sharp waist-up portrait for the face, on a plain white background. Open Image, choose Soul 2.0, Higgsfield’s photorealistic image model, paste the prompt and generate:
+
+A front-facing, split-panel character reference sheet in a high-resolution, high-end editorial portrait photography style, presenting a detailed visual study of a mixed-race woman of East Asian and European descent in her early 20s with a slim petite build, standing against a seamless pure white studio backdrop (#FFFFFF) with a subtle A-pose in the left panel and a waist-up, eye-level portrait in the right panel, both captured with an 85mm portrait lens at f/4 for a sharp, natural look. She is dressed identically in both panels, wearing an oversized dusty-pink fuzzy mohair crewneck sweater featuring a rich, textured horse motif on the chest in intarsia knit, with a visible olive cotton jersey tee peeking below the hem, a tan braided leather belt at the waist, an orange-and-brown plaid pleated wool midi skirt falling below the knee with a small ruffled waistband, and knee-high black leather lace-up boots featuring buckle straps and visible stitching, with a plain welt and smooth finish. Her accessories include a thin silver chain necklace with a small cross pendant, small silver hoop earrings, narrow rectangular black-frame glasses, and a mint-green hair clip at her temple. Her long, dark brown hair, worn half-up, falls past her chest in soft waves, with natural flyaways and wispy strands, and she wears minimal, imperfect makeup with slight foundation texture, uneven blending, and slight facial asymmetry. Her expression is blank, emotionless, and neutral, with a light golden-tan complexion and subtle freckles across her nose and cheeks, and soft dull catchlights in her dark hazel-brown almond-shaped eyes behind the glasses. The left panel is a full-body shot with her face purposefully blurred and all other details sharp, allowing for a clear study of body proportions, clothing, and posture, with her entire figure visible from head to feet, clear white margins around, and a contact shadow under her boots. The right panel features a waist-up, ultra-sharp portrait with her face fully focused and highly detailed, capturing natural skin microtexture, fine lines, individual hair strands, and subtle imperfections, with no evidence of airbrushing or digital filters. The lighting is soft, natural, and even, produced by a large studio softbox with a subtle fill that yields diffuse shadows and gentle highlights, avoiding harsh or clinical effects. The color palette consists of muted pinks, burgundy, olive green, golden-tan, and rich browns, altogether generating a quietly sophisticated, neutral, and editorial mood.
+Copy
+Recreate
+
+Our final image took 1 attempt and cost 0.125 credits (under $0.01). Download it or keep it in Assets, since this image becomes Maya’s reference for every video that follows.
+
+From your own photo
+
+For a single-photo avatar, use a sharp, well-lit, front-facing image with the face clearly visible. You can use it as the reference in the next step without generating anything first. For a full photo checklist, see [How to Put Yourself in an AI Video URL will be added soon]. Use only your own photo or one you have permission to use.
+
+What to check before you animate
+
+Before moving to video, check that the image has:
+
+A sharp, front-facing view of the face
+A plain background, so the scene can be set in the video prompt
+Hands away from the face
+No text, logos or other people in the frame
+The details you want to keep, such as hair, outfit and accessories, clearly visible
+How Do You Make Your Avatar Talk?
+
+To make your avatar talk, make a voice track, add the avatar image and the track as references in Seedance 2.5, describe the scene in the prompt and click Generate. Maya’s first 5-second clip cost 80 credits (≈$3.92) per attempt and took 3 attempts.
+
+Choose a voice
+
+Higgsfield Audio is Higgsfield’s voice workspace, with three tabs: Text to Speech, Voice Change and Translate.
+
+You can voice your avatar in three ways:
+
+A preset voice. Open Audio → Text to Speech, type the script, pick a preset voice and a model, then download the track from History. Maya uses the Annie voice with Seed Audio 1.0; the track for her script cost 0.5 credits.
+Your own cloned voice. In Audio → Text to Speech, click Create custom voice, then record your voice or upload a clean sample. This works best when the avatar is you.
+Your own recording. Use a finished audio file. This works best when you need exact delivery.
+
+To change the voice in a finished video, open Audio → Voice Change, upload the video and pick a preset or custom voice. It replaces the voice and keeps the delivery, so you don’t need to regenerate the video.
+
+Clone only your own voice or a voice you have clear permission to use. Higgsfield allows consented voice cloning only. For the cleanest clone, record clear speech in a quiet room.
+
+Maya’s script:
+
+Hey, I’m Maya. I’ll walk you through this in under a minute, promise.
+Generate the talking video
+
+Step 1: Open Seedance 2.5. Go to Video → Create Video and choose Seedance 2.5.
+
+Step 2: Add the references. In References, add the avatar image and the voice track.
+
+Step 3: Write the prompt. Describe the light, setting, camera, action and sound, and say that the lips sync to the voice track. Here is Maya’s first prompt:
+
+LIGHTING LOCK
+
+Side-light pattern from a window directly camera-left, out of frame, soft daylight through a sheer curtain. Camera-left half of her face lit, camera-right half in soft shadow about two stops darker, wide soft edge down the bridge of the nose, long soft nose shadow across the camera-right cheek, rectangular window catchlight at the left edge of each iris, shadow side filled only by faint warm bounce from the room and the pink sweater. Phone auto-exposure set for the lit cheek, slightly warm white balance. No studio key, no front light from the camera, no flat even light.
+
+ACTIVE REFERENCES
+
+<<<image_1>>> — identity and wardrobe only: face, glasses, hair clip, hoops, cross necklace, pink horse sweater. Its white background and its lighting are replaced by the lighting lock above.
+
+<<<audio_1>>> — her voice; lips sync exactly to it, the only speech in the shot.
+
+SCENE
+
+iPhone front-camera selfie video. The camera is the iPhone she is holding in her own right hand at arm’s length; the phone itself is never visible because we see through its lens. She is already sitting on the sofa from frame one, settled, back against the backrest, centered at x 50%, medium-close from mid-chest to just above her hair, face in the upper-center third. Her right shoulder is slightly raised and her right upper arm angles toward the lens and exits the frame at the lower camera-right corner, the way a selfie arm does; no hand, no phone in frame. Left hand rests in her lap, free for small gestures. Eyes on the screen just under the front camera, so the eyeline reads as direct eye contact with a tiny downward offset. No sitting-down motion, no empty opening frame. Only one person, no reflections, no duplicate.
+
+OPTICS AND CAMERA
+
+iPhone front camera, held about 55 to 65 centimeters from her face: wide selfie field of view around 84° diagonal, slight natural selfie perspective — face a touch closer and rounder than a long lens, straight lines stay rectilinear, no fisheye. Everything in focus, deep phone depth of field, no bokeh, no portrait-mode blur. Real iPhone front-camera texture: clean but slightly over-sharpened detail, smart-HDR flattening in the highlights, mild noise in the shadow side of the face and the dark corners of the room, natural skin without beauty smoothing. Handheld selfie motion: the frame breathes gently with her arm — tiny drift, a slight sway when she gestures or laughs, micro-correction as she re-centers herself. No tripod stillness, no big shake, no zoom.
+
+ACTION
+
+0.0s to 0.3s: seated and still, arm already up, small breath, lips part, eyes on the screen.
+
+0.3s: she starts speaking, lips sync to <<<audio_1>>>.
+
+0.3s to 4.3s: she talks to her phone naturally — small eyebrow lifts, slight head tilt, one relaxed gesture of the left hand from lap and back, half-smile mid-sentence, the frame drifting a few centimeters with her arm and settling. Hips and torso stay planted on the sofa.
+
+4.3s to 5.0s: she finishes the phrase, lips close into a small smile, frame settles.
+
+PHYSICS
+
+Cushions already compressed under her. Mohair fibers catch the side light on the camera-left shoulder. Loose hair strands sway with head movement and settle with delay. Glasses fixed on her nose, faint window reflection in the lenses. Cross pendant moves minimally with breath. Camera motion follows the real weight and reach of an arm holding a phone.
+
+BACKGROUND
+
+Sofa backrest and pastel cushions behind her shoulders, her girly room wall with a small lamp, pinned photos and trinkets on a shelf, all sharp, lit by the same window and fading darker toward camera-right.
+
+AUDIO
+
+Only her voice from <<<audio_1>>>, clean and close, iPhone-mic quality, quiet room tone. No music, no subtitles, no extra words.
+
+LOCKS
+
+Camera is her own iPhone front camera, never visible. Light on her face comes only from the window camera-left, never from <<<image_1>>>. Identity from <<<image_1>>> 100%. Seated from frame one, centered, eyes on lens, single continuous handheld selfie take, real-time, 16:9.
+Copy
+Recreate
+
+Step 4: Set the length and quality, then generate. We used 5 seconds, 1080p and 16:9. Seedance 2.5 makes clips up to 30 seconds. The credit cost appears on the Generate button and updates as you change the settings: our clip cost 80 credits.
+
+Step 5: Review the clip. Watch the lips, teeth and blinks, and pay attention to the last second of the clip. Maya’s first clip took 3 attempts.
+
+Step 6: Save the result. Download the finished clip. Keep the avatar image and the voice track, since you’ll reuse both for the next video.
+
+If you only need a still image to talk, Lipsync Studio offers dedicated lip-sync models, including Kling Avatars 2.0 for clips up to 5 minutes.
+
+Caption: Script: “Hey, I’m Maya…” · Voice: Annie · Model: Seedance 2.5 · Duration: 5 seconds · Resolution: 1080p, 16:9 · Cost: 80 credits per attempt (≈$3.92) · Attempts: 3
+
+How Do You Reuse the Same Avatar in a New Video?
+
+To reuse your avatar, keep the same reference image and the same voice and change the script. For a new scene, describe it in the Seedance 2.5 prompt and keep the same reference. For a long series, train Soul ID.
+
+Make a second video with the same avatar
+
+For Maya’s second video, we kept her face, outfit and voice and changed the script and the setting:
+
+Same reference and voice: the same avatar image and the Annie voice.
+New setting: a handheld selfie video at a busy night market, described in the Seedance 2.5 prompt. The prompt sets the light, camera, action and background, and tells the model to take only Maya’s face and outfit from the reference, not its white background.
+
+Maya’s new script:
+
+Quick update from the street. Same plan as yesterday, just a better view.
+
+New prompt:
+
+LIGHTING LOCK
+
+Real night-market light only, exactly the way a street market lights people at night. Overhead strings of bare warm bulbs hang above the walkway and are the main light on her: it comes from above and slightly in front, so the top of her hair, forehead, nose bridge and cheekbones are brightest, with soft shadows under the brows, under the nose and under the chin. The nearest food stall, just out of frame camera-left, throws a harsher cool-white fluorescent tube light onto the camera-left side of her face and shoulder, so that side is brighter and slightly greenish-white while the camera-right side stays in warm bulb light and is a little darker. Behind her, red and orange neon and LED signs add a faint colored edge on her hair and the camera-right rim of her cheek. The light is uneven and mixed, warm and cool together, slightly flickering from a bulb above, not balanced, not clean. Small point highlights of the bulbs and signs in her eyes and in the glasses lenses, eyes still visible. Real skin texture with a light sheen from the warm humid air. The crowd and the walkway behind her are lit only by the same stalls and signs, patchy pools of light and dark gaps between them. Phone night-mode exposure set for her face: face readable and clean, bulbs and signs bright and slightly blooming, dark gaps keep visible phone noise. No studio light, no daylight, no soft beauty key, no light from <<<image_1>>>.
+
+ACTIVE REFERENCES
+
+<<<image_1>>> — identity and wardrobe only: face, glasses, hair clip, hoops, cross necklace, pink horse sweater. Its white background and its lighting are replaced by the lighting lock above.
+
+<<<audio_1>>> — her voice; lips sync exactly to it, the only speech in the shot.
+
+SCENE
+
+iPhone front-camera selfie video at a busy night market. The camera is the iPhone she is holding in her own right hand at arm’s length; the phone itself is never visible because we see through its lens. She is standing still in the walkway between stalls, centered at x 50%, medium-close from mid-chest to just above her hair, face in the upper-center third. Her right shoulder is slightly raised and her right upper arm angles toward the lens and exits the frame at the lower camera-right corner, the way a selfie arm does; no hand, no phone in frame. Left hand free, hanging or lifting for a small gesture. Eyes on the screen just under the front camera, so the eyeline reads as direct eye contact with a tiny downward offset. She is in frame from the first visible frame. Only one person in focus; the crowd stays behind her as passing shapes, nobody steps between her and the camera, no reflections, no duplicate.
+
+OPTICS AND CAMERA
+
+iPhone front camera, held about 55 to 65 centimeters from her face: wide selfie field of view around 84° diagonal, slight natural selfie perspective — face a touch closer and rounder than a long lens, straight lines stay rectilinear, no fisheye. Phone night-mode look: her face sharp, the background mostly in focus with only a mild natural softness on the far lights, no cinematic bokeh, no portrait-mode blur. Real iPhone night texture: slightly over-sharpened face, smart-HDR holding the bright signs, visible but clean noise in the shadows, light bloom around the bulbs. Handheld selfie motion: the frame breathes gently with her arm — tiny drift, a small sway when she gestures or reacts to the noise, micro-correction as she re-centers herself. No tripod stillness, no big shake, no zoom.
+
+ACTION
+
+0.0s to 0.3s: standing still, arm already up, a quick glance at the screen, small breath, lips part.
+
+0.3s: she starts speaking, lips sync to <<<audio_1>>>.
+
+0.3s to 4.3s: she talks to her phone over the market noise — speaks a bit louder and leans an inch closer to the lens, small eyebrow lifts, slight head tilt, one quick gesture of the left hand toward the stalls behind her and back, half-smile mid-sentence; the frame drifts a few centimeters with her arm and settles. Her feet stay planted.
+
+4.3s to 5.0s: she finishes the phrase, lips close into a small smile, frame settles.
+
+PHYSICS
+
+Mohair fibers catch the overhead bulbs and the cool stall light along her shoulders and glow at the edges. Loose hair strands move with her head and with a faint night breeze, settling with delay. Glasses fixed on her nose. Cross pendant moves minimally with breath. Camera motion follows the real weight and reach of an arm holding a phone.
+
+BACKGROUND
+
+Night market walkway behind her: food stalls with hanging warm bulbs and cool fluorescent tubes over the counters, steam rising from a cooking stall camera-left, red and orange neon and LED signs camera-right, strings of bulbs running into the distance, a loose crowd of people walking past in the midground and background, slightly out of focus, never crossing in front of her. All of it lit only by the stalls and signs, with dark gaps between the pools of light.
+
+AUDIO
+
+Her voice from <<<audio_1>>>, lip-synced, close and clear in front of the mix, iPhone-mic quality. Under it, continuous busy night-market ambience: overlapping crowd chatter, vendors calling out, sizzling from a stall, distant music from a speaker, footsteps, occasional scooter horn far away. Ambience sits clearly below her voice and never covers it. No subtitles, no extra words from her, no other voice in front of the mix.
+
+LOCKS
+
+Camera is her own iPhone front camera, never visible. Night market only, lit by overhead bulbs, stall tubes and signs, never by <<<image_1>>>. Identity from <<<image_1>>> 100%. Standing still, centered, eyes on lens, single continuous handheld selfie take, real-time, 16:9.
+Copy
+Recreate
+
+Caption: Script: “Quick update from the street…” · Voice: Annie · Model: Seedance 2.5 · Duration: 5 seconds · Resolution: 1080p, 16:9 · Cost: 80 credits per attempt (≈$3.92) · Attempts: 2
+
+When is one image enough, and when do you need Soul ID?
+
+You don’t need Soul ID for a simple video. One good image is enough until you need the same face in many new scenes or from new angles, and the right next step depends on whose face it is.
+
+When is one image enough, and when do you need Soul ID?
+
+Situation
+
+	
+
+Invented character (like Maya)
+
+	
+
+Your own likeness
+
+
+
+
+Same setting, new script
+
+	
+
+The same reference image and voice
+
+	
+
+The same photo and voice
+
+
+
+
+New setting, for one or two videos
+
+	
+
+The same reference image, with the new scene described in the Seedance 2.5 prompt
+
+	
+
+Your photo as the reference, with the new scene in the prompt
+
+
+
+
+A series with many scenes, outfits or angles
+
+	
+
+Generate a set of portraits of the same face, then train Soul ID on them
+
+	
+
+Soul ID, trained on 20–80 of your own approved photos in about 3–5 minutes
+
+Soul ID is Higgsfield’s trained character identity. You upload 20–80 photos of the same face once: your own photos, or a set of portraits you generate first for an invented character. Soul ID then keeps that face in new images, which you can animate in Seedance 2.5. Training a Soul ID character costs 25 credits once. The images and videos you generate with that identity are charged separately according to the selected model and settings.
+
+Why Does My Avatar Look or Sound Wrong, and How Do I Fix It?
+
+Most problems come from the image, the audio or the prompt. Fix those before you change models.
+
+Why Does My Avatar Look or Sound Wrong, and How Do I Fix It?
+
+Problem
+
+	
+
+What to do
+
+
+
+
+Doesn’t look like the reference
+
+	
+
+Use a sharp, front-facing reference with even light
+
+
+
+
+Face changes between videos
+
+	
+
+Keep the same reference image. For a series, use Soul ID
+
+
+
+
+The reference background appears in the video
+
+	
+
+Say in the prompt that only the face and outfit come from the reference
+
+
+
+
+Voice changes between videos
+
+	
+
+Pick the same voice by name every time
+
+
+
+
+Lips don’t match the audio
+
+	
+
+Use a clean voice track and say in the prompt that the lips sync to it
+
+
+
+
+Clip stops mid-sentence
+
+	
+
+Seedance 2.5 makes clips up to 30 seconds; split a longer script into several clips
+
+If nothing helps, generate again with the same image and script; Maya’s first clip took 3 attempts.
+
+Before you publish: use only your own face and voice, or ones you have permission to use, and disclose AI-generated or manipulated content where required by applicable law or the platform where you publish it.
+
+How Much Does It Cost to Make an AI Avatar?
+
+Our full example, with one reference image of Maya, two voice tracks and two 5-second talking videos, cost 401.125 credits (≈$19.66) in total, including 3 retries.
+
+How Much Does It Cost to Make an AI Avatar?
+
+Step
+
+	
+
+Tool and model
+
+	
+
+Credits per attempt
+
+	
+
+Attempts
+
+	
+
+Total
+
+
+
+
+Maya’s reference sheet
+
+	
+
+Image → Soul 2.0
+
+	
+
+0.125
+
+	
+
+1
+
+	
+
+0.125
+
+
+
+
+Voice tracks (Annie)
+
+	
+
+Audio → Text to Speech, Seed Audio 1.0
+
+	
+
+0.5 per script
+
+	
+
+2 scripts
+
+	
+
+1
+
+
+
+
+First talking video
+
+	
+
+Video → Seedance 2.5, 5 s, 1080p
+
+	
+
+80
+
+	
+
+3
+
+	
+
+240
+
+
+
+
+Second talking video, new setting
+
+	
+
+Video → Seedance 2.5, 5 s, 1080p
+
+	
+
+80
+
+	
+
+2
+
+	
+
+160
+
+
+
+
+Total
+
+	
+
+-
+
+	
+
+-
+
+	
+
+-
+
+	
+
+401.125 (≈$19.66)
+
+What to know before you start:
+
+Retries: each attempt costs the full price, so the 3 retries made up 240 of the 401 credits.
+Settings: length and resolution change the price; the cost appears on the Generate button before you confirm.
+Cheaper options: the same 5-second Seedance 2.5 clip costs 35 credits (≈$1.72) at 720p instead of 80 (≈$3.92) at 1080p. If the avatar only needs to talk over a still image, Lipsync Studio costs less, from 10 credits (≈$0.49) for a 5-second clip with Kling 2.6 Lipsync.
+
+Prices verified October 2026 on the Higgsfield Plus plan ($49 for 1,000 credits, ≈$0.049 per credit). Check current pricing before committing.
+
+HOW TO MAKE AN AI AVATAR IN 2026 (FULL GUIDE)
+Try Soul 2.0

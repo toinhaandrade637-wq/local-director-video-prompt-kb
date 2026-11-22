@@ -1,0 +1,171 @@
+【项目】GPT 6.1 SOL: THE ERA OF CHEAP AGI IS HERE（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/gpt-6-1-sol-the-era-of-cheap-agi-is-here
+【提示词块】3
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+GPT 6.1 SOL: THE ERA OF CHEAP AGI IS HERE
+@sanjii
+29
+0
+0
+
+OpenAI just released GPT-6.1 Sol, and it brings GPT-6 Astra-level performance at a fifth of the price. It's so close that Artificial Analysis puts it just one point behind Astra on its Intelligence Index.
+
+So I put it to work on something that's hard to fake: a game.
+
+What Is GPT-6.1 Sol?
+
+GPT-6.1 Sol is the newest model in OpenAI's Sol line, announced on September 29 at DevDay. The short version:
+
+Near-Astra intelligence. It scores 52 on the Artificial Analysis Intelligence Index at max reasoning. GPT-6 Astra scores 53.
+A fifth of the price. $2 per million input tokens and $10 per million output tokens, against $10 and $50 for GPT-6 Astra.
+Built for agentic work. OpenAI pitches it for agentic coding, computer use and multi-step professional tasks.
+Where to get it. ChatGPT Work and Codex for Plus, Pro, Business, Enterprise and Edu users, plus the API.
+Test 1 — A 3D Game Prototype
+
+Same game idea, two models, both building with Higgsfield: GPT-6.1 Sol on top, GPT-6 Astra below. The difference is hard to miss. The rendering, the detail, the characters: it's a whole different level.
+
+Dark-Fantasy Action RPG Prototype
+
+What it does: Builds a playable dark-fantasy action RPG prototype: a knight with a greatsword, two named bosses, a healing flask and a path from a golden grass field to a cathedral courtyard.
+
+Build a 3D third-person action RPG prototype set in a dark fantasy world.
+
+
+
+
+Hero: a lone knight in dark plate armor and a red tabard, wielding a greatsword.
+
+
+
+
+World, in this order:
+
+1. A field of tall golden grass at dusk, with drifting fireflies and a ruined castle on the horizon. First objective: "Kneel at the Vigil of the Fallen Light".
+
+2. A narrow medieval street with hanging banners and shield-bearing soldiers.
+
+3. A cathedral courtyard with a glowing golden rune circle on the floor and candles along the walls.
+
+
+
+
+Combat: light and heavy attacks, dodge roll, stamina bar and lock-on camera.
+
+
+
+
+Bosses, each with a name and a health bar at the bottom of the screen:
+
+- Ser Aldren Vey, Captain of the Hollow Watch, in the street.
+
+- The Gilded Sentinel, a towering golden armored giant, in the courtyard.
+
+
+
+
+HUD: a healing flask with limited charges (bottom left), a soul currency counter (bottom right), the current objective (top left).
+
+
+
+
+Generate every character, enemy, prop and environment with Higgsfield. Cinematic warm lighting, volumetric light and floating embers. Make it run in the browser and give me a link to play.
+
+See all
+Copy prompt
+Recreate
+Test 2 — A Full Open-World Level in 20 Minutes
+
+So I decided to push it further and build a full open-world level the same way. Here's what it made in just 20 minutes.
+
+Open-World Level, Part 1 — The City
+
+What it does: Builds the open-world city itself: a detective hero, seven districts, shooting and melee combat, and a mission chain that starts with finding a missing woman named Mara.
+
+Create an open-world action game set in a sprawling futuristic city, featuring intense shootouts, brutal melee combat, flying vehicles, and rival factions fighting for control of the streets.
+
+
+
+
+Hero: a detective in a long dark coat with an earpiece, searching for a missing woman named Mara. Third-person camera.
+
+
+
+
+Districts:
+
+- A glass-and-steel downtown with skybridges between the towers.
+
+- An open plaza with a fountain.
+
+- An outdoor street market with fruit stalls.
+
+- A neon-lit night street with shops.
+
+- Rain-soaked back alleys.
+
+- A foggy industrial dock with cranes and containers.
+
+- A rooftop bar overlooking the city skyline.
+
+
+
+
+Mission chain: Ask about Mara at the rooftop bar, Get past the guard in the alleys, Get equipped on the neon street, Reach the helipad, Survive the ambush at the night market, Catch the thief.
+
+
+
+
+HUD: health bar top left, current objective top right, weapon slots at the bottom (pistol, rifle, fists).
+
+
+
+
+Generate all characters, vehicles, props and environments with Higgsfield. Realistic cinematic look with soft haze and volumetric light. Make it run in the browser and give me a link to play.
+
+See all
+Copy prompt
+Recreate
+
+It's not just a pretty map. The level has a day/night cycle, NPCs that walk around and react to you, and real physics. To get there, run a second prompt on top of the first one.
+
+Open-World Level, Part 2 — Bring It to Life
+
+What it does: Layers a day/night cycle, NPCs with daily routines that react to the player, and real physics on top of the city from Part 1.
+
+Now make the city feel alive. Keep the current look, districts and missions.
+
+
+
+
+1. Day/night cycle: one full cycle every 20 minutes. Hazy golden mornings, bright afternoons, neon nights. Street lights and shop signs switch on at dusk, and the market closes at night.
+
+
+
+
+2. NPCs: fill the streets with pedestrians who follow daily routines: walking to work, shopping at the market, drinking at the bar. They react to the player: they step aside when you push through, panic and run during shootouts, and call out when you draw a weapon. Give key NPCs dialogue and side tasks, like "Help the vendor" in the plaza and "Make him talk" at the docks.
+
+
+
+
+3. Physics: crates, barrels and market stalls can be knocked over and pile up realistically. Ragdoll on knockdowns. Props react to bullets and punches.
+
+
+
+
+Test every system, fix anything that breaks, then send me the updated link.
+
+See all
+Copy prompt
+Recreate
+Is It Perfect?
+
+Absolutely not. But this is 20 minutes of work from someone who can't code.
+
+And the best part? GPT-6.1 Sol is 5x cheaper than GPT-6 Astra. A year ago, a level like this took a team and a few months.
+
+What's Next
+
+Next time, I'll try to turn this level into a full playable game with multiple levels. Follow along, and if you want to build your own world in the meantime, the prompts are right above: copy them, change the setting, and see what comes back.

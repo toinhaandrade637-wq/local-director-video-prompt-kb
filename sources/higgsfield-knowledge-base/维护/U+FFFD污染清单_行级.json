@@ -1,0 +1,6337 @@
+{
+ "generated": "2026-11-05",
+ "files": 168,
+ "total": 3310,
+ "note": "回源顺序：GitHub 学习仓/05区副本比对 → 线上重抓；恢复前涉污染引文不标 verbatim",
+ "items": [
+  {
+   "file": "02_完整提示词数据包\\100_MILLION_RAT\\100_MILLION_RAT_all_prompts.jsonl",
+   "处": 9,
+   "行": [
+    {
+     "line": 360,
+     "field": "prompt",
+     "ctx": "机突然以极快速度冲向他的脸。\r\n\r\n不是���通变焦。\r\n\r\n不是缓慢��进。\r"
+    },
+    {
+     "line": 362,
+     "field": "prompt",
+     "ctx": "iewer think:\r\n\r\n### ��I HAVE NEVER SEEN "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\14_DAYS\\14_DAYS_all_prompts.jsonl",
+   "处": 106,
+   "行": [
+    {
+     "line": 12,
+     "field": "prompt",
+     "ctx": "锁定一岁小妹的脸、年龄、完整襁褓和身体比��。@Audio 1 仅作为老年夏淑�"
+    },
+    {
+     "line": 19,
+     "field": "prompt",
+     "ctx": "到一次呼吸；镜5首帧好手推开身侧被角、末��姐姐在卧室床边失撑。五镜之���三处"
+    },
+    {
+     "line": 39,
+     "field": "prompt",
+     "ctx": "与血迹暗示背部受伤，不直接展示皮肉或开放���创口；袖口、裤脚磨损沾灰，膝盖和手"
+    },
+    {
+     "line": 74,
+     "field": "prompt",
+     "ctx": "扫过镜头形成短暂软遮挡，镜头从布边重新找���夏淑琴牵夏淑云的手。跟焦保持手与脸"
+    },
+    {
+     "line": 86,
+     "field": "prompt",
+     "ctx": "rated；窗外冷蓝灰，室内旧木和肤色保��极低暖琥珀褐余辉，暗血仅有低亮���"
+    },
+    {
+     "line": 111,
+     "field": "prompt",
+     "ctx": "龄、衣着、伤口、床、墙、布帘和门的空间漂���；禁止拥抱穿模、多余手指、肢体融合"
+    },
+    {
+     "line": 125,
+     "field": "prompt",
+     "ctx": "主动作。\n\n【⑥ 物理】\nB1 泪水只在��淑琴视线中造成折射错觉，二姐眼睑本�"
+    },
+    {
+     "line": 153,
+     "field": "prompt",
+     "ctx": "定厚旧棉被的尺寸、粗棉纤维和被褶；锁定步��、刺刀长度、护手和金属材质。冲突优先"
+    },
+    {
+     "line": 163,
+     "field": "prompt",
+     "ctx": "短暂失焦，再从夏淑琴肩后回找妹妹；灯灭后���影机回到持续呼吸漂移，结束在妹妹扑"
+    },
+    {
+     "line": 174,
+     "field": "prompt",
+     "ctx": "容数量锁：只允许三名日军、两个孩子、一床��被、一把主行动刺刀；每次画面中只发生"
+    },
+    {
+     "line": 201,
+     "field": "prompt",
+     "ctx": "学】\n镜头1｜父亲身体与日军军靴中近景：��内低位窄视场，泪水覆盖夏淑琴眼表，棉"
+    },
+    {
+     "line": 212,
+     "field": "prompt",
+     "ctx": "、血衣、血泊、鞋印必须具体可读，残酷来自��暴者将死者物化的日常态度，不色情化受"
+    },
+    {
+     "line": 248,
+     "field": "prompt",
+     "ctx": "喊、卡通惊恐脸、父亲大声吼叫、母亲摔落婴���、妹妹提前玩手影；漂亮光束、暖金逆"
+    },
+    {
+     "line": 286,
+     "field": "prompt",
+     "ctx": "镜头1为南京冬日将暮，阴天冷灰自然光从街��上方漫射，门窗和巷口落入低饱和灰黑；"
+    },
+    {
+     "line": 291,
+     "field": "prompt",
+     "ctx": "\r\n夏淑琴清楚看见三人倒地，手刚向母亲伸��，C便挂回枪、弯腰拾起包裹重新翻找。"
+    },
+    {
+     "line": 296,
+     "field": "prompt",
+     "ctx": "厚棉被，再穿过布层，最后沿原方向拔出；外���只读取布面受力和孔边暗色湿痕。第一"
+    },
+    {
+     "line": 306,
+     "field": "prompt",
+     "ctx": "睛先分成重影。手持随夏淑琴哭抖偏移，眨眼���生短暂遮黑，中央一闪清楚后重新被泪"
+    },
+    {
+     "line": 313,
+     "field": "prompt",
+     "ctx": "板挤入焦外前景造成受迫后仰和一次短促失焦���随即前倾回找她的眼睛；最后一记锤击"
+    },
+    {
+     "line": 336,
+     "field": "prompt",
+     "ctx": "进入匿名观看者的主观手持视角。姐姐最后的��线消隐后，白底逐渐显出极浅灰紫雾层，"
+    },
+    {
+     "line": 343,
+     "field": "prompt",
+     "ctx": "rative；TIMELINE_MODE��relative；画幅2.35:1。"
+    },
+    {
+     "line": 348,
+     "field": "prompt",
+     "ctx": "画面主体：完整格纹被与A。从床尾斜看，A��推外被角一次，等待后降低枪口并说话。"
+    },
+    {
+     "line": 352,
+     "field": "prompt",
+     "ctx": "，不要出现她的正面反打、士兵主观、客厅内��立机位或越过布帘的摄影机。不要用黑场"
+    },
+    {
+     "line": 357,
+     "field": "prompt",
+     "ctx": "固定偏冷日光，卧室纸窗提供更弱冷灰环境光��门光照到客厅旧木、地面血迹和军服局部"
+    },
+    {
+     "line": 368,
+     "field": "prompt",
+     "ctx": "へへ……」。姐姐中文喊“你们这帮畜生！”���两声枪响严格分开，保留衣料撕裂、入"
+    },
+    {
+     "line": 376,
+     "field": "prompt",
+     "ctx": "\r\n最后的残瓣轻薄，翻转不等速，下降轨迹��有偏移，不悬停旋转、不绕圈表演。\r\n"
+    },
+    {
+     "line": 394,
+     "field": "prompt",
+     "ctx": "让视轴倾斜并快速坠向地板。摄影机撞近地板��保留疼痛引起的细颤，不切镜直接进入镜"
+    },
+    {
+     "line": 399,
+     "field": "prompt",
+     "ctx": "泪痕和嘴唇，不能因贴地姿态使半张脸陷入不��读的黑暗。室外空院与街巷为更开阔的冷"
+    },
+    {
+     "line": 416,
+     "field": "prompt",
+     "ctx": "人物身份、服装与体型由各自角色图控制；卧��几何由<<<image_2>>>控制"
+    },
+    {
+     "line": 422,
+     "field": "prompt",
+     "ctx": "低落地，伤臂持续贴胸；试起失败后膝盖软下���身体停在床与墙之间。\r\n\r\n【⑦ "
+    },
+    {
+     "line": 441,
+     "field": "prompt",
+     "ctx": "接触摩擦留下短痕，失力后炭木偏倒停在原处��妹妹的头肩重量持续落在姐姐外侧。布帘"
+    },
+    {
+     "line": 464,
+     "field": "prompt",
+     "ctx": "近衣领，接触未完成。\n\n【⑦ 灯光】\n幻��空间使用<<<image_1>>>的"
+    },
+    {
+     "line": 480,
+     "field": "prompt",
+     "ctx": "_1>>>、<<<image_2>>>及��段灯光文字共同控制。<<<image"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\1916_WORLD_WAR\\1916_WORLD_WAR_all_prompts.jsonl",
+   "处": 6,
+   "行": [
+    {
+     "line": 37,
+     "field": "prompt",
+     "ctx": "雨。\r\n\r\n发动机持续咆哮。\r\n\r\n机身��断轻微震动。\r\n\r\n探照��从下方扫"
+    },
+    {
+     "line": 237,
+     "field": "prompt",
+     "ctx": "er is visible.\r\n\r\n13��19 sec:\r\n\r\nHe stru"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\333\\333_all_prompts.jsonl",
+   "处": 13,
+   "行": [
+    {
+     "line": 99,
+     "field": "prompt",
+     "ctx": "\r\nTHEIR PERFORMANCE �� carry over the sa"
+    },
+    {
+     "line": 249,
+     "field": "prompt",
+     "ctx": "imperceptibly.\r\n\r\n══��� THE SCENE ═══\r\nB"
+    },
+    {
+     "line": 297,
+     "field": "prompt",
+     "ctx": "中部朝右侧横向斜穿过去,撞向右侧的玻璃幕���。不是沿着中央通道向深处直线奔跑,"
+    },
+    {
+     "line": 369,
+     "field": "prompt",
+     "ctx": "大块头男人,灰绿工装衬衫,深色长裤,盛怒���态,与参考100%一致。\r\n<<<"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\9091\\9091_all_prompts.jsonl",
+   "处": 7,
+   "行": [
+    {
+     "line": 120,
+     "field": "prompt",
+     "ctx": "rete, films of dust ��� render-grade inf"
+    },
+    {
+     "line": 203,
+     "field": "prompt",
+     "ctx": "hey freeze.\n\nVALUES �� the kittens' fur "
+    },
+    {
+     "line": 242,
+     "field": "prompt",
+     "ctx": "e frame for frame.\n\n�� NOT — any recogni"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\AA_MEETING\\AA_MEETING_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 313,
+     "field": "prompt",
+     "ctx": "ne looks at camera.\n�� THE SIXTH CHAIR —"
+    },
+    {
+     "line": 370,
+     "field": "prompt",
+     "ctx": ":24–0:30) — Space의 시��� → 머리 없음 리빌\nHARD "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\AFTER_HOURS\\AFTER_HOURS_all_prompts.jsonl",
+   "处": 16,
+   "行": [
+    {
+     "line": 33,
+     "field": "prompt",
+     "ctx": "动至针座处。右手拇指将活塞向前推进几毫米��让气泡和多余液体重新通���针头返回"
+    },
+    {
+     "line": 45,
+     "field": "prompt",
+     "ctx": "的走廊，左侧墙面由拉下卷帘的店铺和已经关���的商店组成，走廊中段左墙嵌有一组电"
+    },
+    {
+     "line": 53,
+     "field": "prompt",
+     "ctx": "的枪管和枪口装置，黑色顶部导轨，安装紧凑���红点瞄准镜，机匣上有琥珀色标记，黑"
+    },
+    {
+     "line": 68,
+     "field": "prompt",
+     "ctx": "摄（cinéma vérité）：自然手��跟拍，真实晃动，摄影机运动���人物"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\AI_FILM_FESTIVAL_A_PROPER_WOMAN_S_GUIDE_TO_MONSTER\\AI_FILM_FESTIVAL_A_PROPER_WOMAN_S_GUIDE_TO_MONSTER_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 376,
+     "field": "prompt",
+     "ctx": "diegetic sound only ��� no music, no sco"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\AND_STILL_LIFE\\AND_STILL_LIFE_all_prompts.jsonl",
+   "处": 9,
+   "行": [
+    {
+     "line": 52,
+     "field": "prompt",
+     "ctx": "ING\r\n━━━━━━━━━━━━━━━���━━━━━━\r\n\r\nThe lig"
+    },
+    {
+     "line": 188,
+     "field": "prompt",
+     "ctx": "T NIGHT\n━━━━━━━━━━━━���━━━━━━━━━\n\nIT IS "
+    },
+    {
+     "line": 306,
+     "field": "prompt",
+     "ctx": "e is making.\r\n\r\n0:00���0:02 — Begin with"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ANERNEQ\\ANERNEQ_all_prompts.jsonl",
+   "处": 171,
+   "行": [
+    {
+     "line": 510,
+     "field": "prompt",
+     "ctx": "ling with it.\n\n═════���═══════════���═══"
+    },
+    {
+     "line": 539,
+     "field": "prompt",
+     "ctx": "Y ══════════════════��═════════════��═══"
+    },
+    {
+     "line": 587,
+     "field": "prompt",
+     "ctx": "MRYN\n\n══════════════��══════════════════"
+    },
+    {
+     "line": 650,
+     "field": "prompt",
+     "ctx": "swapped.\n\nHER HANDS ��� FROSTBITTEN, MAT"
+    },
+    {
+     "line": 768,
+     "field": "prompt",
+     "ctx": " cracked. HER parka ��� never a man's ku"
+    },
+    {
+     "line": 833,
+     "field": "prompt",
+     "ctx": "BBING and \"Этын…\nЭты��… Этын…\" in a chil"
+    },
+    {
+     "line": 860,
+     "field": "prompt",
+     "ctx": " as much as a lunge ��� and BOTH HIS BIG"
+    },
+    {
+     "line": 1156,
+     "field": "prompt",
+     "ctx": " Hard flat \"ы\" and \"��\", deep throat \"ӄ\""
+    },
+    {
+     "line": 1213,
+     "field": "prompt",
+     "ctx": "r.  — \"Элэ! Гым\nтайк��!\" crying, crackin"
+    },
+    {
+     "line": 1385,
+     "field": "prompt",
+     "ctx": "ng at her hem): \"Гыр��нав…\"\n\nAUDIO — NAT"
+    },
+    {
+     "line": 1390,
+     "field": "prompt",
+     "ctx": "n, breaking: \"Тылгы ��ым!\" … \"Гыронав!\" "
+    },
+    {
+     "line": 1435,
+     "field": "prompt",
+     "ctx": " \"Гыронав… тылгы гым�� Гыронав…\"\n@OMRYN "
+    },
+    {
+     "line": 1612,
+     "field": "prompt",
+     "ctx": "\n═══════════════════��═══════════��═════"
+    },
+    {
+     "line": 1615,
+     "field": "prompt",
+     "ctx": "on.\n\n\n══════════════��════════════��════"
+    },
+    {
+     "line": 1619,
+     "field": "prompt",
+     "ctx": "\n\n══════════════════��═════════════��═══"
+    },
+    {
+     "line": 1632,
+     "field": "prompt",
+     "ctx": "════════════════════���═══════════\nTHE A"
+    },
+    {
+     "line": 1685,
+     "field": "prompt",
+     "ctx": "S TO HURRY.\n\n\n══════��══════════════════"
+    },
+    {
+     "line": 1718,
+     "field": "prompt",
+     "ctx": "t.\n\n\n═══════════════���═══════════════��"
+    },
+    {
+     "line": 1732,
+     "field": "prompt",
+     "ctx": "aphy.\n\n\n════════════���═════════════════"
+    },
+    {
+     "line": 1787,
+     "field": "prompt",
+     "ctx": "════════════════════��══\nTHE SHOT — CONT"
+    },
+    {
+     "line": 1833,
+     "field": "prompt",
+     "ctx": "════════════════════���═════════════════"
+    },
+    {
+     "line": 1838,
+     "field": "prompt",
+     "ctx": "════════════════════��═════════════════\n"
+    },
+    {
+     "line": 1915,
+     "field": "prompt",
+     "ctx": "════════════════════���════════════════\n"
+    },
+    {
+     "line": 1933,
+     "field": "prompt",
+     "ctx": "K — ABSOLUTE\n═══════���═════════════════"
+    },
+    {
+     "line": 2034,
+     "field": "prompt",
+     "ctx": "UOUS, IN ORDER\n═════��══════════════════"
+    },
+    {
+     "line": 2150,
+     "field": "prompt",
+     "ctx": "vy and frail: \"Гырон��в… тылгы гым… Гыро"
+    },
+    {
+     "line": 2239,
+     "field": "prompt",
+     "ctx": "e handle.\n\nTHE SHOT �� ONE CONTINUOUS TA"
+    },
+    {
+     "line": 2359,
+     "field": "prompt",
+     "ctx": "h as he holds her.  ��� \"Элэ! Гым тайкы!"
+    },
+    {
+     "line": 2641,
+     "field": "prompt",
+     "ctx": "atography.\n\n════════��═══════════��═════"
+    },
+    {
+     "line": 2968,
+     "field": "prompt",
+     "ctx": "arable.\n\nEND.\n\n═════��════════════��════"
+    },
+    {
+     "line": 3540,
+     "field": "prompt",
+     "ctx": "────────────────────��────────\nSHOT 2 — "
+    },
+    {
+     "line": 3545,
+     "field": "prompt",
+     "ctx": "UT HARD.\n\n──────────���───────────���───"
+    },
+    {
+     "line": 3677,
+     "field": "prompt",
+     "ctx": "══════════════\n\n────���─────────────���─"
+    },
+    {
+     "line": 3760,
+     "field": "prompt",
+     "ctx": "REATH → SILENCE.\n\n══���═════════════════"
+    },
+    {
+     "line": 3818,
+     "field": "prompt",
+     "ctx": "\"Кэле лыу анер энн-ы��.\" — the voice SWE"
+    },
+    {
+     "line": 3823,
+     "field": "prompt",
+     "ctx": "oud, crying: \"Элэ! Г��м тайкы! Тык-эк гы"
+    },
+    {
+     "line": 3914,
+     "field": "prompt",
+     "ctx": "HAT MAKE IT REAL\n═══��══════════════════"
+    },
+    {
+     "line": 3989,
+     "field": "prompt",
+     "ctx": "н жёстко: НИКАКИХ фо��арей, прожекторов,"
+    },
+    {
+     "line": 5210,
+     "field": "prompt",
+     "ctx": " END.\n\nVOICES: NONE �� no words in any s"
+    },
+    {
+     "line": 5951,
+     "field": "prompt",
+     "ctx": "Y NOW DOES SHE BLOW ��� long, low, stead"
+    },
+    {
+     "line": 6592,
+     "field": "prompt",
+     "ctx": "volume, unprojected ��� she is not perfo"
+    },
+    {
+     "line": 6907,
+     "field": "prompt",
+     "ctx": "п, нам нужно идти. Т��мнеет.»\n- Тынэ (че"
+    },
+    {
+     "line": 6953,
+     "field": "prompt",
+     "ctx": "**Что пр��исходит.** Один ка"
+    },
+    {
+     "line": 7192,
+     "field": "prompt",
+     "ctx": "ink at the knuckles ��� NOT red, NOT fro"
+    },
+    {
+     "line": 7582,
+     "field": "prompt",
+     "ctx": "a8a-5bfebcf601a2>>> �� the ruined camp\ne"
+    },
+    {
+     "line": 7784,
+     "field": "prompt",
+     "ctx": " Omryn NEVER speaks ��� only the soft wh"
+    },
+    {
+     "line": 8474,
+     "field": "prompt",
+     "ctx": "ic, CGI or rendered �� WRONG.\n\nPHYSICS: "
+    },
+    {
+     "line": 8563,
+     "field": "prompt",
+     "ctx": ", NOT HDR.\n\nFRAMING �� STRICT PROFILE, H"
+    },
+    {
+     "line": 8604,
+     "field": "prompt",
+     "ctx": "════════════════════���═════════\nReal 65"
+    },
+    {
+     "line": 8615,
+     "field": "prompt",
+     "ctx": "; her repeated wet\n\"��тын…\"; two people "
+    },
+    {
+     "line": 8638,
+     "field": "prompt",
+     "ctx": "ST COMMON FAILURE\n══���═════════════════"
+    },
+    {
+     "line": 8684,
+     "field": "prompt",
+     "ctx": "VE, IN ONE BREATH ══��\nTHE SHOT BEGINS O"
+    },
+    {
+     "line": 8993,
+     "field": "prompt",
+     "ctx": ", смаз на руках от к��роткой выдержки и "
+    },
+    {
+     "line": 9116,
+     "field": "prompt",
+     "ctx": "the man lying on it �� never his face.\n\n"
+    },
+    {
+     "line": 9190,
+     "field": "prompt",
+     "ctx": " and the black rock �� at this exposure "
+    },
+    {
+     "line": 9688,
+     "field": "prompt",
+     "ctx": "eaning broken pairs ��� weathered grey-w"
+    },
+    {
+     "line": 11631,
+     "field": "prompt",
+     "ctx": "ADING SKYLIGHT ONLY �� EXTREME WIDE STIL"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\APEIROPHOBIA\\APEIROPHOBIA_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 6524,
+     "field": "prompt",
+     "ctx": " occupies roughly 20��30% of the image h"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\APOCALYPSE_SQUAD\\APOCALYPSE_SQUAD_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 232,
+     "field": "prompt",
+     "ctx": "sell ahead of them\r\n��� deeper hallway.\r"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ARKYN\\ARKYN_all_prompts.jsonl",
+   "处": 7,
+   "行": [
+    {
+     "line": 80,
+     "field": "prompt",
+     "ctx": "PULLED BACK\n────────���───────────\n\nDRAM"
+    },
+    {
+     "line": 87,
+     "field": "prompt",
+     "ctx": "OCK\n────────────────��───────────\n\n<<<87"
+    },
+    {
+     "line": 160,
+     "field": "prompt",
+     "ctx": "PROCESS THE WARNING\n�� SOMEONE BREAKS IN"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ASHES_OF_FREEDOM\\ASHES_OF_FREEDOM_all_prompts.jsonl",
+   "处": 11,
+   "行": [
+    {
+     "line": 274,
+     "field": "prompt",
+     "ctx": "r “ASHES OF FREEDOM.���"
+    },
+    {
+     "line": 390,
+     "field": "prompt",
+     "ctx": "م توقف نصف نبضة عند ��لهبوط؛ لا impact ض"
+    },
+    {
+     "line": 391,
+     "field": "prompt",
+     "ctx": "man serif⁩ سينمائي ن��يف أو ⁦Cinzel Semi"
+    },
+    {
+     "line": 461,
+     "field": "prompt",
+     "ctx": "لة\nيمتد التعليق الأم��مي وتولد العجلة ال"
+    },
+    {
+     "line": 465,
+     "field": "prompt",
+     "ctx": "ود من الزاوية والسرع�� نفسيهما؛ لا توقف "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ATHERIA\\ATHERIA_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 122,
+     "field": "prompt",
+     "ctx": "the raised HALF-AXE �� the axe-head fill"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\AZTEC_REVOLT_ESCAPING_TENOCHTITLAN\\AZTEC_REVOLT_ESCAPING_TENOCHTITLAN_all_prompts.jsonl",
+   "处": 10,
+   "行": [
+    {
+     "line": 115,
+     "field": "prompt",
+     "ctx": "d of folded squares �� the paper is worn"
+    },
+    {
+     "line": 210,
+     "field": "prompt",
+     "ctx": "8b0-2c6c10b7acb0>>> ��� Spanish soldier,"
+    },
+    {
+     "line": 235,
+     "field": "prompt",
+     "ctx": "f83-4eb936fcd125>>> ��� a Mexica warrior"
+    },
+    {
+     "line": 773,
+     "field": "prompt",
+     "ctx": "7e0-324974658759>>> �� the woman at floo"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\A_LIFE\\A_LIFE_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 408,
+     "field": "prompt",
+     "ctx": "S LOCK SEGMENT 1: 63�� diagonal field of"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\A_LONG_LUNCH\\A_LONG_LUNCH_all_prompts.jsonl",
+   "处": 6,
+   "行": [
+    {
+     "line": 266,
+     "field": "prompt",
+     "ctx": "rge in the frame.\n\n⚠���HE IS OLD BUT NOT"
+    },
+    {
+     "line": 402,
+     "field": "prompt",
+     "ctx": " onto a backdrop.\n\n⚠���THIS IS A STORM⚠️"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\A_YEAR_LATER\\A_YEAR_LATER_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 608,
+     "field": "prompt",
+     "ctx": "e-grey metal roofs\r\n�� softly rounded ed"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\BEHIND_THE_LENS\\BEHIND_THE_LENS_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 338,
+     "field": "prompt",
+     "ctx": "fingers back at her ��� come —\nalready e"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\BIOSCOPE\\BIOSCOPE_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 141,
+     "field": "prompt",
+     "ctx": "ling the frame (0:12���0:20, 8s)\r\n\r\nFIRS"
+    },
+    {
+     "line": 265,
+     "field": "prompt",
+     "ctx": "s.\r\n· <<<image_3>>> �� front rank, CENTR"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\BLACKPINE\\BLACKPINE_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 67,
+     "field": "prompt",
+     "ctx": "ENS LOCK SHOT 1 = 65�� wide from the das"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\BLESTYASHCHEE_NEVEZHESTVO\\BLESTYASHCHEE_NEVEZHESTVO_all_prompts.jsonl",
+   "处": 14,
+   "行": [
+    {
+     "line": 476,
+     "field": "prompt",
+     "ctx": "авлен вниз, в сторон�� стола. На лице вн"
+    },
+    {
+     "line": 502,
+     "field": "prompt",
+     "ctx": "масы, испуга и откры��ого рта.\n\nСогласов"
+    },
+    {
+     "line": 578,
+     "field": "prompt",
+     "ctx": ", длинное чёрное пла��ье, кухню, открыту"
+    },
+    {
+     "line": 603,
+     "field": "prompt",
+     "ctx": "я и полицейские немн��го отходят в сторо"
+    },
+    {
+     "line": 624,
+     "field": "prompt",
+     "ctx": "ажи стоят. Никто не ��идит.\n\nКомпозиция "
+    },
+    {
+     "line": 651,
+     "field": "prompt",
+     "ctx": "А 2. Сохрани её инди��идуальные черты: ф"
+    },
+    {
+     "line": 675,
+     "field": "prompt",
+     "ctx": "ее. Её плач естестве��ный, растерянный и"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\BRAMBLE\\BRAMBLE_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 14,
+     "field": "prompt",
+     "ctx": "ted around the horse���s head.\r\n- A comp"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\BRATIX\\BRATIX_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 142,
+     "field": "prompt",
+     "ctx": "español latino) ES T��MIDO, MIEDOSO, PER"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\BREATH\\BREATH_all_prompts.jsonl",
+   "处": 27,
+   "行": [
+    {
+     "line": 208,
+     "field": "prompt",
+     "ctx": "厘米，极薄焦平面。⚠️焦平面严格锁定在壳���内表面——⚠️前景的黑色团块因此始"
+    },
+    {
+     "line": 211,
+     "field": "prompt",
+     "ctx": "⚠️无咆哮、无嘶吼、无怪兽音效。⚠️无对���、无旁白、无字幕、无音乐、无配乐、"
+    },
+    {
+     "line": 229,
+     "field": "prompt",
+     "ctx": "的自然日光，从画面右后方穿过悬浮的尘埃—��暖金／灰玫瑰色逆光。⚠���主体始终"
+    },
+    {
+     "line": 276,
+     "field": "prompt",
+     "ctx": "\n⚠️每次硬切才允许更换光学性格，⚠️镜���内部严禁焦段漂移、⚠️严禁任何变焦"
+    },
+    {
+     "line": 279,
+     "field": "prompt",
+     "ctx": "留下真实压痕。⚠️碰撞必须传递动量：被撞��的躯干先偏移、四肢后修正、���可见"
+    },
+    {
+     "line": 339,
+     "field": "prompt",
+     "ctx": "趾周围的湿泥被挤出并隆起。⚠️猎物仍在挣��：后肢继续蹬踏、身体试图翻转、���"
+    },
+    {
+     "line": 474,
+     "field": "prompt",
+     "ctx": "️全长40厘米、肩高11厘米。⚠️头骨扁���柔软——绝对禁止圆顶。背颈稀疏短原"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\BUCK\\BUCK_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 167,
+     "field": "prompt",
+     "ctx": "behind her.\r\nBeat 7 �� Camera handheld, "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\CAMEL\\CAMEL_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 242,
+     "field": "prompt",
+     "ctx": " IN THIS\nGENERATION ��� the score is add"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\CAMPING\\CAMPING_all_prompts.jsonl",
+   "处": 20,
+   "行": [
+    {
+     "line": 20,
+     "field": "prompt",
+     "ctx": "าร์ตโฟนเจนนี่นอนตะแค��ระหว่างกระด���กสัต"
+    },
+    {
+     "line": 44,
+     "field": "prompt",
+     "ctx": "งสือ เข็มทิศ และแว่น���องนนท์ไปวางบนเป้ใ"
+    },
+    {
+     "line": 60,
+     "field": "prompt",
+     "ctx": "ยาวสีดำอมช็อกโกแลต เ���ื้อครอปเดินป่าสีด"
+    },
+    {
+     "line": 76,
+     "field": "prompt",
+     "ctx": "5 แบบ ได้แก่ ยิ้มหวา���, เขินและหลบสายต�"
+    },
+    {
+     "line": 82,
+     "field": "prompt",
+     "ctx": "อียดสูง เน้นใบหน้าหล���อ ผ้าโพกหัว และสา"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\CHORNOS_THE_CHOSEN\\CHORNOS_THE_CHOSEN_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 216,
+     "field": "prompt",
+     "ctx": "ath.\r\n<<<image_2>>> ��� HIGHEST PRIORITY"
+    },
+    {
+     "line": 374,
+     "field": "prompt",
+     "ctx": "ment.\r\n\r\nCUT 1 — 0.0��4.0 SECONDS — RYAN"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\CLEAR_INTENTION\\CLEAR_INTENTION_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 47,
+     "field": "prompt",
+     "ctx": " window rectangle.\r\n��� 0:07 MEDIUM-WIDE"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\DEAD_ALIVE\\DEAD_ALIVE_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 145,
+     "field": "prompt",
+     "ctx": "ce's street clothes �� the SAME SIX FACE"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\DEAD_WATER\\DEAD_WATER_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 309,
+     "field": "prompt",
+     "ctx": "\n\nCREATURE IDENTITY �� MUST REMAIN EXACT"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\DEATH_CAME_TO_DINNER\\DEATH_CAME_TO_DINNER_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 235,
+     "field": "prompt",
+     "ctx": "539-ece150160a0e>>> �� hooded, faceless,"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\DEEP_CLEAN\\DEEP_CLEAN_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 150,
+     "field": "prompt",
+     "ctx": "nd proportions ONLY �� not for pose, and"
+    },
+    {
+     "line": 220,
+     "field": "prompt",
+     "ctx": "no zoom of any kind ��� every change of "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\DEMENTIA\\DEMENTIA_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 14,
+     "field": "prompt",
+     "ctx": "QART — “The Migraine���\nDuration: 30 sec"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\DREAMER_THE_OTHER_YOU\\DREAMER_THE_OTHER_YOU_all_prompts.jsonl",
+   "处": 19,
+   "行": [
+    {
+     "line": 22,
+     "field": "prompt",
+     "ctx": "발이 바닥에 닿는 소리.\n그 밖에는 ���무 소리도 없다. 누구도 ���"
+    },
+    {
+     "line": 37,
+     "field": "prompt",
+     "ctx": "카메라를 보고 있고, 왼손 손바닥이\n���메라 쪽 유리면에 붙어 있다.\n"
+    },
+    {
+     "line": 75,
+     "field": "prompt",
+     "ctx": "이때 ETHAN의 얼굴이 프레임을 채���고, 화면의 테두리는 프레임 밖"
+    },
+    {
+     "line": 149,
+     "field": "prompt",
+     "ctx": "3>>> — 화면속의 사람. 화면속에�� 아무것도 붙잡지 않고 정가운데에"
+    },
+    {
+     "line": 162,
+     "field": "prompt",
+     "ctx": " 안에 B의 얼굴이\n         ��다) B가 이쪽을 보며 말한다.\n"
+    },
+    {
+     "line": 237,
+     "field": "prompt",
+     "ctx": "back up to the road ��� the first flicke"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\EASY_TARGET\\EASY_TARGET_all_prompts.jsonl",
+   "处": 10,
+   "行": [
+    {
+     "line": 86,
+     "field": "prompt",
+     "ctx": "动的力量来自他脚踝方向，速度均匀，不加速��不减速。\r\n\r\n灯光\r\n整���路灯"
+    },
+    {
+     "line": 135,
+     "field": "prompt",
+     "ctx": "_2>>>，直线校正，手持剧烈甩摄跟随，��内除甩摄外不漂移。三名男子���同一"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ECLIPSE\\ECLIPSE_all_prompts.jsonl",
+   "处": 20,
+   "行": [
+    {
+     "line": 77,
+     "field": "prompt",
+     "ctx": "едины XX века: хроми��ованная решётка ра"
+    },
+    {
+     "line": 95,
+     "field": "prompt",
+     "ctx": "ми, по периметру — с��ены, ступени, моли"
+    },
+    {
+     "line": 146,
+     "field": "prompt",
+     "ctx": "(неоновые лампы-инди��аторы), рядами пер"
+    },
+    {
+     "line": 175,
+     "field": "prompt",
+     "ctx": "йт, слабеющий по мер�� отъезда камеры в "
+    },
+    {
+     "line": 208,
+     "field": "prompt",
+     "ctx": "тых дверных арок, со��давая контрастные "
+    },
+    {
+     "line": 238,
+     "field": "prompt",
+     "ctx": "нтре зала, Кэйт прав��е в свете, только "
+    },
+    {
+     "line": 310,
+     "field": "prompt",
+     "ctx": "ния. Видимое зерно п��ёнки. Никакого дви"
+    },
+    {
+     "line": 321,
+     "field": "prompt",
+     "ctx": " ровно секунда, взры�� со свечением ~4.3"
+    },
+    {
+     "line": 382,
+     "field": "prompt",
+     "ctx": "на ночной улице. [хр��ника] 4.00–4.33 — "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\EDEN\\EDEN_all_prompts.jsonl",
+   "处": 14,
+   "行": [
+    {
+     "line": 71,
+     "field": "prompt",
+     "ctx": "irst, almost gentle �� then\r\nACCELERATES"
+    },
+    {
+     "line": 168,
+     "field": "prompt",
+     "ctx": "ch.\r\n\r\nSHOT 4 — 0:13���0:15\r\nOPTICS: 18°"
+    },
+    {
+     "line": 274,
+     "field": "prompt",
+     "ctx": "e partygoers.\r\n\r\n───��──────────────────"
+    },
+    {
+     "line": 361,
+     "field": "prompt",
+     "ctx": "Korean:\r\n“핵쟁이들 뇌 동기화�� 강제로 묶어버리는 그 미친 ��"
+    },
+    {
+     "line": 489,
+     "field": "prompt",
+     "ctx": "\nTOTAL RUNTIME: 0:00���0:12 (12s)\r\n\r\nSCE"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\FLY\\FLY_all_prompts.jsonl",
+   "处": 42,
+   "行": [
+    {
+     "line": 18,
+     "field": "prompt",
+     "ctx": "нно и грозно поднима��тся лицо главного "
+    },
+    {
+     "line": 35,
+     "field": "prompt",
+     "ctx": "н лица героя. Он рез��о отдёргивает голо"
+    },
+    {
+     "line": 80,
+     "field": "prompt",
+     "ctx": "ол и оказывается с е��о противоположной,"
+    },
+    {
+     "line": 120,
+     "field": "prompt",
+     "ctx": " слегка морщиться. О�� вытягивает губы и"
+    },
+    {
+     "line": 144,
+     "field": "prompt",
+     "ctx": "и не касается спуско��ого крючка. Левая "
+    },
+    {
+     "line": 168,
+     "field": "prompt",
+     "ctx": "у референсов. На ули��е естественно пере"
+    },
+    {
+     "line": 224,
+     "field": "prompt",
+     "ctx": "ся сидеть на фотогра��ии и слегка шевели"
+    },
+    {
+     "line": 242,
+     "field": "prompt",
+     "ctx": "го стрелка перед дуэ��ью. Верхние веки м"
+    },
+    {
+     "line": 255,
+     "field": "prompt",
+     "ctx": "а. Главный герой сто��т со стороны ближа"
+    },
+    {
+     "line": 273,
+     "field": "prompt",
+     "ctx": "очек расположен стро��о вертикально и на"
+    },
+    {
+     "line": 300,
+     "field": "prompt",
+     "ctx": "уха улетает только к��гда рука героя в к"
+    },
+    {
+     "line": 351,
+     "field": "prompt",
+     "ctx": "адре и естественно п��ворачиваясь вместе"
+    },
+    {
+     "line": 366,
+     "field": "prompt",
+     "ctx": "переходов. Стул, сто��, окно и остальные"
+    },
+    {
+     "line": 422,
+     "field": "prompt",
+     "ctx": "чком опущена ниже гр��ницы кадра. Затем "
+    },
+    {
+     "line": 457,
+     "field": "prompt",
+     "ctx": "з кадра. Муха взлета��т, делает очень ко"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\FOUND_ME\\FOUND_ME_all_prompts.jsonl",
+   "处": 82,
+   "行": [
+    {
+     "line": 7,
+     "field": "prompt",
+     "ctx": "路仍被汽车堵满；身体经过处留下破碎车阵和��筑残骸；数百位风格化人物继续从街边和"
+    },
+    {
+     "line": 11,
+     "field": "prompt",
+     "ctx": "ocket站在岩石与约书亚树之间，嘴里仍��轻含着<<<54a23795-fe7"
+    },
+    {
+     "line": 14,
+     "field": "prompt",
+     "ctx": "趴在街边张望。\n\n每只分身必须进行不同动���，不能同步。\n\n背景始终有约300"
+    },
+    {
+     "line": 18,
+     "field": "prompt",
+     "ctx": "* Rocket完整身体。\n* 两侧密集���楼。\n* 停满汽车的道路。\n* 十"
+    },
+    {
+     "line": 22,
+     "field": "prompt",
+     "ctx": "约20至30厘米，再落回原位并上下弹动一��。\n\n出租车司机通过打开的驾驶侧窗可"
+    },
+    {
+     "line": 26,
+     "field": "prompt",
+     "ctx": "0:00至00:12绝对禁止：\n* 任何���切、跳切或叠化。\n* 隐藏剪辑。\n"
+    },
+    {
+     "line": 30,
+     "field": "prompt",
+     "ctx": "\n* Rocket身后保留被踩扁的车辆、���路裂纹、破碎玻璃、受损建筑、烟尘和"
+    },
+    {
+     "line": 33,
+     "field": "prompt",
+     "ctx": "，朝Rocket轻轻挥动两下。\n13. ��立即放下手，重新扶住栏杆。\n14. "
+    },
+    {
+     "line": 35,
+     "field": "prompt",
+     "ctx": "水墨云纹。\n* 下方街道从右下方向城门和��市深处延伸。\n* 街道、城门、侧巷和"
+    },
+    {
+     "line": 66,
+     "field": "prompt",
+     "ctx": "。\n\n女主始终坐在驾驶座，双手控制方向盘���不挥手。\n\nRocket看到车灯恢"
+    },
+    {
+     "line": 70,
+     "field": "prompt",
+     "ctx": "、鼻侧小黑点、身体比例、巨大尺寸、奔跑动��和前进方向。\n\n禁止转换过程中出现两"
+    },
+    {
+     "line": 74,
+     "field": "prompt",
+     "ctx": "这是同一个连续的挥手动作。\n6. 她立即��下手，重新扶住船边栏杆。\n7. 此后"
+    },
+    {
+     "line": 145,
+     "field": "prompt",
+     "ctx": "角色。\n\n禁止Rocket落地时摔倒、重���草地或失去嘴里的金球。\n\n禁止最终"
+    },
+    {
+     "line": 319,
+     "field": "prompt",
+     "ctx": "次女孩的背影。\n\n它没有得到回应，随后开���把头转向书桌下方。\n\n在头部开始转"
+    },
+    {
+     "line": 348,
+     "field": "prompt",
+     "ctx": "的瞳孔轻轻向女主所在位置移动，停顿，再小��调整。\n\n表情由焦急变为期待。可以轻"
+    },
+    {
+     "line": 357,
+     "field": "prompt",
+     "ctx": "-0ce86c81639f>>>跪坐在绿��草坡上，轻轻抱着已经闭上眼睛的<<<"
+    },
+    {
+     "line": 411,
+     "field": "prompt",
+     "ctx": "立绿色草坡、远处海洋和柔和天空。\n禁止出���城市、建筑、裂缝、洞口或坠落痕迹。"
+    },
+    {
+     "line": 432,
+     "field": "prompt",
+     "ctx": "00:14｜远处的风出现】\n\n100mm���影长焦镜头，望向距离女主约25米的"
+    },
+    {
+     "line": 475,
+     "field": "prompt",
+     "ctx": "环境变化，以及一次柔和的摸头声音。\n\n【���格禁止】\n\n禁止固定机位。\n\n禁止"
+    },
+    {
+     "line": 488,
+     "field": "prompt",
+     "ctx": "：一块巨大的天然荒漠岩石从前景掠过并完全���满画面。所有橙色探险装备在遮挡期间"
+    },
+    {
+     "line": 551,
+     "field": "prompt",
+     "ctx": "e3d-990763e57f59>>>\n���板滑雪板：<<<a843020f-"
+    },
+    {
+     "line": 628,
+     "field": "prompt",
+     "ctx": "面、地板、门板和地毯全部保持干燥。\n\n【���面质感】\n真实电影布景与实景摄影质"
+    },
+    {
+     "line": 843,
+     "field": "prompt",
+     "ctx": "面中央。\n\n掠过的指南针架形成自然横向运��模糊。在运动模糊中，纪念品店无缝变成"
+    },
+    {
+     "line": 1235,
+     "field": "prompt",
+     "ctx": "羊犬分身，遍布整条街道，形成一种热闹又混��、幽默又可爱的搜索场面。有的边牧正凑"
+    },
+    {
+     "line": 1292,
+     "field": "prompt",
+     "ctx": "，不使用复杂碎光和过度纹理。保留轻微胶片��粒、旧纸纹理和印刷年代感，���体轮"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\GLITCH_DAY\\GLITCH_DAY_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 416,
+     "field": "prompt",
+     "ctx": "; 出现任何背景音乐=废镜; 出现任何对��或旁白=废镜; 无音乐法则被破坏=废"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\GREEN_FLAG\\GREEN_FLAG_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 345,
+     "field": "prompt",
+     "ctx": "ed green lens.\n\n━━━━���━━━━━━━━━━━━━━━\n3"
+    },
+    {
+     "line": 412,
+     "field": "prompt",
+     "ctx": "RETURNS\n━━━━━━━━━━━━��━━━━━━━\n\nThe seque"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\H2O\\H2O_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 136,
+     "field": "prompt",
+     "ctx": "tablished SOUND BAG\n��� his own BOOM POL"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\HERO\\HERO_all_prompts.jsonl",
+   "处": 56,
+   "行": [
+    {
+     "line": 10,
+     "field": "prompt",
+     "ctx": "ок;\nсмотрит на перво��о;\nзатем всматрива"
+    },
+    {
+     "line": 25,
+     "field": "prompt",
+     "ctx": "Сохрани ту же доску ��бъявлений, ту же т"
+    },
+    {
+     "line": 45,
+     "field": "prompt",
+     "ctx": "е к камере;\nлевое бо��ьшое кресло отца н"
+    },
+    {
+     "line": 88,
+     "field": "prompt",
+     "ctx": ".\nИх лица не должны ��ыть обращены к кам"
+    },
+    {
+     "line": 127,
+     "field": "prompt",
+     "ctx": "лёная палитра, лёгки�� туман, природный "
+    },
+    {
+     "line": 141,
+     "field": "prompt",
+     "ctx": "Когда камера приближ��ется к правому гла"
+    },
+    {
+     "line": 170,
+     "field": "prompt",
+     "ctx": "два слышное эхо поме��ения."
+    },
+    {
+     "line": 181,
+     "field": "prompt",
+     "ctx": "ли серых засветов;\nф��н должен оставатьс"
+    },
+    {
+     "line": 203,
+     "field": "prompt",
+     "ctx": "инается над толпой к��естьян, чуть сверх"
+    },
+    {
+     "line": 221,
+     "field": "prompt",
+     "ctx": " боюсь, но теперь по��имаю, что он меня "
+    },
+    {
+     "line": 232,
+     "field": "prompt",
+     "ctx": "вперёд, никто не сто��т на месте → камер"
+    },
+    {
+     "line": 246,
+     "field": "prompt",
+     "ctx": "\nруки героя должны з��метно дрожать;\nпоз"
+    },
+    {
+     "line": 268,
+     "field": "prompt",
+     "ctx": "листовки, прибитая г��оздями;\nнижняя гор"
+    },
+    {
+     "line": 285,
+     "field": "prompt",
+     "ctx": "в финале все 4 объяв��ения должны хорошо"
+    },
+    {
+     "line": 296,
+     "field": "prompt",
+     "ctx": "кунды → затем через ��адр проходят ещё н"
+    },
+    {
+     "line": 314,
+     "field": "prompt",
+     "ctx": "е телегу с тушами жи��отных, тот же общи"
+    },
+    {
+     "line": 346,
+     "field": "prompt",
+     "ctx": "ла сын, не меняя поз�� корпуса, оборачив"
+    },
+    {
+     "line": 373,
+     "field": "prompt",
+     "ctx": " тот же герой сидящи�� у стены - <<<vide"
+    },
+    {
+     "line": 402,
+     "field": "prompt",
+     "ctx": " темно, что стен не ��идно вообще;\nтольк"
+    },
+    {
+     "line": 435,
+     "field": "prompt",
+     "ctx": "ра сопровождает его ��вижение.\nЗатем кам"
+    },
+    {
+     "line": 470,
+     "field": "prompt",
+     "ctx": "кадра — последняя кл��тка;\nв начале shot"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\HERU_OUTSIDE_THE_FEED\\HERU_OUTSIDE_THE_FEED_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 115,
+     "field": "prompt",
+     "ctx": "-------\n02:20–02:24 ��� MODERN IMMORTALI"
+    },
+    {
+     "line": 164,
+     "field": "prompt",
+     "ctx": "hered cream stone fa��ades\n* faded beige"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\HIGGSFIELD_ACADEMY_ASKAR\\HIGGSFIELD_ACADEMY_ASKAR_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 147,
+     "field": "prompt",
+     "ctx": " sharp audible gasp �� real fright, bigg"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\HIGH_SCHOOL_TERROR\\HIGH_SCHOOL_TERROR_all_prompts.jsonl",
+   "处": 42,
+   "行": [
+    {
+     "line": 137,
+     "field": "prompt",
+     "ctx": "一次，之後保持落下，不變成實心牆或自行升��。人物及道具只經現有空���互動，不"
+    },
+    {
+     "line": 160,
+     "field": "prompt",
+     "ctx": "e身旁；Winnie、Miss Chan��花王屍體保持原位。其餘14名學生仍在"
+    },
+    {
+     "line": 204,
+     "field": "prompt",
+     "ctx": "oyce肩膀。Joyce趁機抽身，重新貼���閘，Zoe收回金屬棍準備再擋。\n\n"
+    },
+    {
+     "line": 257,
+     "field": "prompt",
+     "ctx": "一下肩，卻仍沒有轉身看路。幾名同伴的肩膀���畫邊匆忙擦過。\n\n硬切。\n\n鏡頭二"
+    },
+    {
+     "line": 281,
+     "field": "prompt",
+     "ctx": "看回她，短促點頭。她仍喘氣，沒有英雄式姿��。\n\n硬切。\n\n鏡頭二｜Vivian"
+    },
+    {
+     "line": 300,
+     "field": "prompt",
+     "ctx": "e_5>>>。主要與Iris對抗。\n接戲���<<<image_1>>>，决定開"
+    },
+    {
+     "line": 322,
+     "field": "prompt",
+     "ctx": ">。Miss Chan倒伏於原位，面罩固���，全程不動。\n已死亡花王喪屍：<<"
+    },
+    {
+     "line": 336,
+     "field": "prompt",
+     "ctx": "組桌列。鏡頭開始時部分人仍站着、倚桌或轉��聊天；其後全部返回十八個固定座位。\n"
+    },
+    {
+     "line": 350,
+     "field": "prompt",
+     "ctx": "lt 片電影，喪屍侵襲校園，校園學生（全���成年，18 歲或以上，合乎內容要求"
+    },
+    {
+     "line": 394,
+     "field": "prompt",
+     "ctx": "e，真實碰撞重量、衣物拉扯、急促呼吸、鞋��摩擦及鎖匙撞擊聲。沒有配樂。\n\n今鏡"
+    },
+    {
+     "line": 428,
+     "field": "prompt",
+     "ctx": "在課室內，而前門仍然關閉。不得出現喪屍、���門者、第二次槍聲、槍口火光、外部頭"
+    },
+    {
+     "line": 457,
+     "field": "prompt",
+     "ctx": "自主活動角色。\n\n相機 LCD 顯示屏畫���除“91%”及“100%” 及標題"
+    },
+    {
+     "line": 475,
+     "field": "prompt",
+     "ctx": "、吊扇及安靜課室環境聲。沒有配樂、字幕或���白。\n\n本鏡頭只可從文件袋取出PR"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\HONOR\\HONOR_all_prompts.jsonl",
+   "处": 163,
+   "行": [
+    {
+     "line": 98,
+     "field": "prompt",
+     "ctx": "がほんの少し持ち上がる。\n瞳に焦点が入り���既存の光の映り込みが読み取れる。\n"
+    },
+    {
+     "line": 110,
+     "field": "prompt",
+     "ctx": "一部、衣装の背面構造を正確に描く。\n\n【���体】\n\nホマレは15歳の小柄で華奢"
+    },
+    {
+     "line": 124,
+     "field": "prompt",
+     "ctx": "スモーキーなオリーブブラウンの極細の放射��模様。\n虹彩下部の反射光も金色ではな"
+    },
+    {
+     "line": 131,
+     "field": "prompt",
+     "ctx": "マレ本人の採用済み音声。\n15歳の軽く高���の少年声。普段の自然なアメリカ英語"
+    },
+    {
+     "line": 143,
+     "field": "prompt",
+     "ctx": "つけたり、口と鼻を塞いだりしない。\n\nサ���の吸気が詰まり、押し殺した「う……"
+    },
+    {
+     "line": 149,
+     "field": "prompt",
+     "ctx": "に力が入り、首の筋が自然に緊張する。\n少���の顔の輪郭は維持する。\n\n【4.4"
+    },
+    {
+     "line": 154,
+     "field": "prompt",
+     "ctx": "」「母ちゃん」「こうちゃん」「ゆか」「サ���！」。\n静かな寂しさから、家族を紹"
+    },
+    {
+     "line": 162,
+     "field": "prompt",
+     "ctx": "どもらしい温かさが現れる。\n\n定型の笑顔��顔へ貼り付けない。\n眉、目、頬、口が"
+    },
+    {
+     "line": 166,
+     "field": "prompt",
+     "ctx": "演しない。\n身体の帰還状態は画像1を維持��る。\n\nこの袋はSHOT 3で砂へ落"
+    },
+    {
+     "line": 187,
+     "field": "prompt",
+     "ctx": "、眉の内側が少し上がり、下唇がかすかに震��、口角がほんの少し緩む。\n整った満面"
+    },
+    {
+     "line": 192,
+     "field": "prompt",
+     "ctx": "、目の極端な寄りも、この同じ顔の一部とし��描く。\n涙と照明は画像1を引き継ぐ。"
+    },
+    {
+     "line": 195,
+     "field": "prompt",
+     "ctx": "\n袋の中には、未開封の一個が残る。\n\nカ��ラはごく短く前へ進む。\n塩むすびを持"
+    },
+    {
+     "line": 200,
+     "field": "prompt",
+     "ctx": "顔を見上げる。\nホマレのPOVでは、少し��いサチの顔を見下ろす。\n顔を向け合う"
+    },
+    {
+     "line": 202,
+     "field": "prompt",
+     "ctx": "持する。\nその後、朝の水面の反射へ馴染ん��いく。\n壊れた装置は、その間も非発光"
+    },
+    {
+     "line": 208,
+     "field": "prompt",
+     "ctx": "景に石段と石垣。\n奥に既存の町の屋根と通���。\n\n浜の地形は画像8。\n町の建物"
+    },
+    {
+     "line": 211,
+     "field": "prompt",
+     "ctx": "笑顔にはしない。\n\n空になった袋を、左腕���右手で抱え直す。\n\nホマレのいる方"
+    },
+    {
+     "line": 215,
+     "field": "prompt",
+     "ctx": "\nポーチ、装置、布の小さな接触音。\n\n跳���：\n砂を蹴る音。\n身体と大きなマフ"
+    },
+    {
+     "line": 218,
+     "field": "prompt",
+     "ctx": "\n\n強い光の中でも、\n顔、手、黒い衣装、��フラーの輪郭を残す。\n\n海面に広がる"
+    },
+    {
+     "line": 221,
+     "field": "prompt",
+     "ctx": "歳の声をそのまま当てない。\n大げさな泣き���、独白、名前呼びはない。\n\nオーデ"
+    },
+    {
+     "line": 225,
+     "field": "prompt",
+     "ctx": "エレベーターホールにつながっている。\n\n��レベーターホールには、閉じた二枚の金"
+    },
+    {
+     "line": 229,
+     "field": "prompt",
+     "ctx": "チの顔の一部。\n中央から下に、握り続ける��。\n\nホマレの下瞼には涙が溜まってい"
+    },
+    {
+     "line": 239,
+     "field": "prompt",
+     "ctx": "近くへ、二人が戻ってきた。\nホマレは通常��の姿、リュックを背負い、閉じた装置は"
+    },
+    {
+     "line": 243,
+     "field": "prompt",
+     "ctx": "がほんの少し先に上がり、もう片方が追いつ��。\n頬に押されて目が細まり、一瞬だけ"
+    },
+    {
+     "line": 248,
+     "field": "prompt",
+     "ctx": "、手のひらを合わせる動作は済んでいる。\n���マレはサチの墓前で片膝をつき、目を"
+    },
+    {
+     "line": 250,
+     "field": "prompt",
+     "ctx": "\nホマレの顔と衣装は画像2〜3。\n\n浜で���膝をついていた姿勢を、墓地へ移植し"
+    },
+    {
+     "line": 252,
+     "field": "prompt",
+     "ctx": "その材質、色、密度も引き継ぐ。\n今回の開���状態の参照。\n今回の最初の構図は、"
+    },
+    {
+     "line": 254,
+     "field": "prompt",
+     "ctx": "\n目元に柔らかさが戻る。\n\n★ホマレ：\n��I'll show you.”\n\nオ"
+    },
+    {
+     "line": 258,
+     "field": "prompt",
+     "ctx": "の断面へつなぐ。\n\n二片を合わせた量は、���との食べかけ一個分。\n二個の完全な"
+    },
+    {
+     "line": 265,
+     "field": "prompt",
+     "ctx": "見つめる。\n\n一歩、足を出す。\n足裏が光���道に触れる。\n\nその場所で小さく波"
+    },
+    {
+     "line": 269,
+     "field": "prompt",
+     "ctx": "サチは裸足で砂に立つ。\nホマレが背中を軽��支えている。\nサチの左腕に袋。\n\n奥"
+    },
+    {
+     "line": 272,
+     "field": "prompt",
+     "ctx": "閉じたまま。\n\n引く波の下に、細い黒い線���数本見える。\nまだ明瞭な手の形には"
+    },
+    {
+     "line": 278,
+     "field": "prompt",
+     "ctx": "ポート状のCAMEON!!一台。\n外殻、���み、材質、閉じた形の参照。\n今回も"
+    },
+    {
+     "line": 282,
+     "field": "prompt",
+     "ctx": "へ届くために空く。\n最後まで装置を投げず��落とさず、収納しない。\n反応の光は、"
+    },
+    {
+     "line": 339,
+     "field": "prompt",
+     "ctx": "いる。\n\nホマレの髪と頬に朝の光が届いて���る。\n波と風、本人の小さな動きが続"
+    },
+    {
+     "line": 345,
+     "field": "prompt",
+     "ctx": ">>>\n二本の持ち手がある、小さな乳白色��袋。\n透明な個包装に入った、海苔付き"
+    },
+    {
+     "line": 351,
+     "field": "prompt",
+     "ctx": "ce音源の元の台詞、音楽、環境音は再生し��い。\n字幕、タイトル、ナレーション、"
+    },
+    {
+     "line": 354,
+     "field": "prompt",
+     "ctx": "\n最初から最後まで左手側に保持。\n内側画��は見えない。\n開閉、操作、収納、落下"
+    },
+    {
+     "line": 358,
+     "field": "prompt",
+     "ctx": "線を切り替える。\n追加の返答や独り言はな��。\n\n【SHOT 6｜12〜14.5"
+    },
+    {
+     "line": 367,
+     "field": "prompt",
+     "ctx": "身体の各所から漏れる英語の人間の声。疲れ���成人男性、か細い成人女性、息の詰ま"
+    },
+    {
+     "line": 369,
+     "field": "prompt",
+     "ctx": "上方のサチ、地上の誉、約30mの巨体、左��の軒と提灯。\n装置の持ち直し、足元の"
+    },
+    {
+     "line": 371,
+     "field": "prompt",
+     "ctx": "だけ変わる。\n左掌を開いた本体の中央下辺���寄せ、左右のパネルの重さを下から支"
+    },
+    {
+     "line": 416,
+     "field": "prompt",
+     "ctx": "る状態でハードカット。\n\n【SHOT 4��20〜23秒｜背後の気配】\n\n45〜"
+    },
+    {
+     "line": 419,
+     "field": "prompt",
+     "ctx": "の顔を見てから、下の水面へ一度目を向ける���\n恐れているのは海へ触れることだと"
+    },
+    {
+     "line": 423,
+     "field": "prompt",
+     "ctx": "八人。\n数十人でサチを埋め尽くさない。\n��じ顔や服の人物を複製しない。\n\nそれ"
+    },
+    {
+     "line": 430,
+     "field": "prompt",
+     "ctx": "ンでは、二人はまだ商品へ触れない。\n・お��ぎりを手に取らない。\n・買い物かごを"
+    },
+    {
+     "line": 443,
+     "field": "prompt",
+     "ctx": "葉、息の台詞、笑い声を追加しない。\n\n★��・内面の声\n\n「十五歳。最上階。口座"
+    },
+    {
+     "line": 447,
+     "field": "prompt",
+     "ctx": "も、別の強い照明を足さない。\nサチの下が���た口元と濡れた目元を、開始時へ引き"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\HOPE\\HOPE_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 161,
+     "field": "prompt",
+     "ctx": "t. Show yourself.\"\r\n��� silence, 3.5 sec"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\HORSELESS\\HORSELESS_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 186,
+     "field": "prompt",
+     "ctx": " <<<audio_1>>>, Ivan���s restless footst"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\HUMAN_ERROR\\HUMAN_ERROR_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 498,
+     "field": "prompt",
+     "ctx": "le dragging. Host: \"���innocent, unsuspe"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\HWANDO_SEOL\\HWANDO_SEOL_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 58,
+     "field": "prompt",
+     "ctx": "rrect and unadorned �� no jewelry, no or"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ICONIC_BETA\\ICONIC_BETA_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 362,
+     "field": "prompt",
+     "ctx": "ss the entire image �� soft\nanalog film "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\INDIGO\\INDIGO_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 123,
+     "field": "prompt",
+     "ctx": "m. The shop is DARK ��� a deep dark grey"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\IN_S\\IN_S_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 40,
+     "field": "prompt",
+     "ctx": "════════════════════��══════════════\nR1 "
+    },
+    {
+     "line": 365,
+     "field": "prompt",
+     "ctx": " shot\n──────────────���─────────────────"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\IT_S_ME\\IT_S_ME_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 27,
+     "field": "prompt",
+     "ctx": " 모양 채도 밝기 명암 이미지크기 카��라위치 모든 거의 위치 전부 똑같"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\KADHAA_2155\\KADHAA_2155_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 229,
+     "field": "prompt",
+     "ctx": "es not follow her.\n8���12 seconds: Spars"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\KARKINOS\\KARKINOS_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 6,
+     "field": "prompt",
+     "ctx": "y these sounds: 0.0s��5.0s slow careful "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\KARNA\\KARNA_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 423,
+     "field": "prompt",
+     "ctx": "\n[0 - 5 sec] SHOT 1 ��� DYNAMIC LOW THRE"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\KNOCK_KNOCK_KNOCK\\KNOCK_KNOCK_KNOCK_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 66,
+     "field": "prompt",
+     "ctx": "nit A.\n\n0:02.2–0:03 �� FIRST LEFTWARD WH"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\LONG_SIGH\\LONG_SIGH_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 119,
+     "field": "prompt",
+     "ctx": "[Style] 高品��风格化电影感 3D 动画长片，手绘 "
+    },
+    {
+     "line": 201,
+     "field": "prompt",
+     "ctx": "的身体猛扭与搏斗，她的头随之而动：抬起又���下，左右摆动，微微倾侧与滚转，部分"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MADSEASON\\madseason_all_prompts.jsonl",
+   "处": 9,
+   "行": [
+    {
+     "line": 695,
+     "field": "prompt",
+     "ctx": "OVES ANY PART OF IT ��� nothing is taken"
+    },
+    {
+     "line": 1426,
+     "field": "prompt",
+     "ctx": "alette is cold-toned���wine, oxblood, de"
+    },
+    {
+     "line": 2443,
+     "field": "prompt",
+     "ctx": "y.\n\nOPERATING STYLE ��� NOLAN-INFLUENCED"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MARCEL_S_HEART\\MARCEL_S_HEART_all_prompts.jsonl",
+   "处": 14,
+   "行": [
+    {
+     "line": 10,
+     "field": "prompt",
+     "ctx": "햇빛이 나무 바닥과 테이블의 결을 따�� 길게 번지고, 그릇과 숟가락 가"
+    },
+    {
+     "line": 20,
+     "field": "prompt",
+     "ctx": "는 듯한 상태로 보인다.\n앞쪽의 간호��� 뒷모습 오버더 숄더\n그녀�� "
+    },
+    {
+     "line": 121,
+     "field": "prompt",
+     "ctx": "는 보이지 않는다. 의사는 시선을 프���임 아래에 둔 채 어깨의 긴장�"
+    },
+    {
+     "line": 1089,
+     "field": "prompt",
+     "ctx": "\n(놀라서 마음을 진정하려 자세를 바��는 모습)\n오른손의 핸드폰과 왼팔"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MARCO_POLO\\MARCO_POLO_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 72,
+     "field": "prompt",
+     "ctx": "nding water and fog ��� no CGI, no rende"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MARIA_MARIA\\MARIA_MARIA_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 242,
+     "field": "prompt",
+     "ctx": "5>>>: RED TELEPHONE ��� period desk tele"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MARUMAI_25\\MARUMAI_25_all_prompts.jsonl",
+   "处": 26,
+   "行": [
+    {
+     "line": 40,
+     "field": "prompt",
+     "ctx": "与管路内部的光焰平滑地增强与减弱。不对他���脸部或皮肤施加任何效果层——只有少"
+    },
+    {
+     "line": 115,
+     "field": "prompt",
+     "ctx": "\r\n\r\n## 风格（STYLE）\r\n\r\n��用 ARRI Alexa 35 影像"
+    },
+    {
+     "line": 162,
+     "field": "prompt",
+     "ctx": "、间歇轻声抽泣和颤抖呼吸；她的目光原本朝���西侧 Varma，头部仍接触枕头，"
+    },
+    {
+     "line": 171,
+     "field": "prompt",
+     "ctx": "* 助手将关闭的手提箱提至桌面上方，另一��手扶稳箱体，将它平稳放在办公桌上。\r"
+    },
+    {
+     "line": 180,
+     "field": "prompt",
+     "ctx": "绳和向两侧展开卷轴的整个过程中，始终将他��脸、卷轴与双手纳入画面。\r\n\r\n**"
+    },
+    {
+     "line": 283,
+     "field": "prompt",
+     "ctx": "右手将 Nexus 低持于右髋旁；降低已���完成，尚未开始新的步行或绕行。她含"
+    },
+    {
+     "line": 289,
+     "field": "prompt",
+     "ctx": "位区域内克制横移最多约 0.4 米跟随短��离靠近，保持双人中景和完整放���动"
+    },
+    {
+     "line": 312,
+     "field": "prompt",
+     "ctx": "-32aaa0d69d2c>>> 持续支���；<<<5e8a5d8e-a3f1"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MEMORY_THIEF\\MEMORY_THIEF_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 165,
+     "field": "prompt",
+     "ctx": "s toward the patient���s strained expres"
+    },
+    {
+     "line": 231,
+     "field": "prompt",
+     "ctx": " button labelled “1.�� Do not show multi"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MEMORY_WORLD\\MEMORY_WORLD_all_prompts.jsonl",
+   "处": 4,
+   "行": [
+    {
+     "line": 63,
+     "field": "prompt",
+     "ctx": "igure — recognizing ��\r\n\r\n8–10s: <<<73e9"
+    },
+    {
+     "line": 178,
+     "field": "prompt",
+     "ctx": "밸런스 더 잘 만들어줘. 메모리칩을 ��상시키는 상황 그대로."
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MINA_ONE_MORE_LIFE\\MINA_ONE_MORE_LIFE_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 355,
+     "field": "prompt",
+     "ctx": "l costs! Go!”\r\n\r\n8.8��10.0s\r\nThe giant s"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MODEL_CITIZEN\\MODEL_CITIZEN_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 202,
+     "field": "prompt",
+     "ctx": "size human visitors �� families, childre"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MORTAL_KOMBAT_ARC_SERIES\\MORTAL_KOMBAT_ARC_SERIES_all_prompts.jsonl",
+   "处": 91,
+   "行": [
+    {
+     "line": 3,
+     "field": "prompt",
+     "ctx": "黑沙和火星的冲击环炸开，镜头猛地一震，它��下腰；他一记肘击从上往���砸在它的"
+    },
+    {
+     "line": 6,
+     "field": "prompt",
+     "ctx": "——斗笠的帽檐结结实实地切进它的胸口，画��猛地一震，一团黑色尘土和骨���扑满"
+    },
+    {
+     "line": 9,
+     "field": "prompt",
+     "ctx": "\nSHOT 2 的镜头像一台被固定在飞行��笠尖尖的帽顶上方的小型稳定摄影���"
+    },
+    {
+     "line": 12,
+     "field": "prompt",
+     "ctx": "大致笔直的路线向画面左边飞，正面撞上冲过��的亡灵；它的高度始终在腰部到胸口之间"
+    },
+    {
+     "line": 15,
+     "field": "prompt",
+     "ctx": "边的沙尘中扑出来，每次在离他几米的地方从���影变成实体；沙尘深处偶尔闪过远处绿"
+    },
+    {
+     "line": 18,
+     "field": "prompt",
+     "ctx": "灰烬和空气的扭曲，没有光、没有颜色、不发��。轻一点的打击只有一圈小一点的沙尘冲"
+    },
+    {
+     "line": 22,
+     "field": "prompt",
+     "ctx": "头发有真实的重量，随动作和气流飘动后自然��下，从不与脸部融合；额头的伤疤按<<"
+    },
+    {
+     "line": 27,
+     "field": "prompt",
+     "ctx": "小蓝石；宽蓝色刺绣腰带；腰间层叠的黑色皮��片；身前一条带蓝边的黑色长垂片，身后"
+    },
+    {
+     "line": 32,
+     "field": "prompt",
+     "ctx": "，烟被风吹向东。4.4–4.8秒他从画面��方落下，右腿高举过头，身体直立不旋转"
+    },
+    {
+     "line": 37,
+     "field": "prompt",
+     "ctx": "真实站稳与再发力，不能无限瞬移。巨钟坠落��循：金属吊耳与湿木横梁先受持续电热与"
+    },
+    {
+     "line": 48,
+     "field": "prompt",
+     "ctx": "康靠近时身上的静电引起的，钟沿上的电弧是��钟沿两点之间瞬间跳跃的细小电弧。传送"
+    },
+    {
+     "line": 54,
+     "field": "prompt",
+     "ctx": "射进来，空气中飘着细细的沙尘，形成一道道��束。\r\n两个像亲姐妹一样一起长大的女"
+    },
+    {
+     "line": 62,
+     "field": "prompt",
+     "ctx": "片颗粒。\r\n\r\n「声音」\r\n<庭院晚风、���处寺钟一声>；<蓄力吸气、脚掌碾过"
+    },
+    {
+     "line": 78,
+     "field": "prompt",
+     "ctx": "踹；<<<image_2>>> 采用写实���机械忍术体系：冷硬直拳、机械肘膝、"
+    },
+    {
+     "line": 85,
+     "field": "prompt",
+     "ctx": "\r\n「天气锁定｜风沙」\r\n全片持续刮着强��，风向固定从画面右边吹向左边，从头到"
+    },
+    {
+     "line": 89,
+     "field": "prompt",
+     "ctx": "，靠听觉和念力战斗。右手握着 1 把武士��，刀不离手。两只手，两只脚，全程不变"
+    },
+    {
+     "line": 94,
+     "field": "prompt",
+     "ctx": "外侧一排尖刺，手腕缠着铁链；带尖刺的黑色��套；宽黑色腰带；垂到膝盖的破烂黑布；"
+    },
+    {
+     "line": 98,
+     "field": "prompt",
+     "ctx": "位被打得凹陷、一震，肺里的气被打出来；格���时，挡住的前臂被打得一震、撞回身体"
+    },
+    {
+     "line": 104,
+     "field": "prompt",
+     "ctx": "Liu Kang后逐渐露出真实笑容。笑容���自认出朋友的新能力，不做夸张大笑、"
+    },
+    {
+     "line": 108,
+     "field": "prompt",
+     "ctx": "边｜亡灵 四个被冰刺刺穿、冻住、碎裂，后��的被撞倒\r\n\r\n「SHOT 9｜11"
+    },
+    {
+     "line": 112,
+     "field": "prompt",
+     "ctx": "边缘被烧成锻铁炉一样的暗红色又冷却回黑色��肩膀抬起、拳头握紧。最后闪电柱整个沉"
+    },
+    {
+     "line": 115,
+     "field": "prompt",
+     "ctx": "以内的人和东西是清楚的，六米以外的亡灵只���沙尘里时隐时现的黑色剪影，更远的地"
+    },
+    {
+     "line": 120,
+     "field": "prompt",
+     "ctx": "刘康都离她更近一步；她认出他，笑出声，合���战扇跑过去，两人在大钟下短暂而温柔"
+    },
+    {
+     "line": 127,
+     "field": "prompt",
+     "ctx": "、绝不收力；打中时清清楚楚地打在对方身上��接触的一瞬间没有任何空隙，被打中的部"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\MY_WAY_NAVILLUS\\MY_WAY_NAVILLUS_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 151,
+     "field": "prompt",
+     "ctx": ".\n\n\nSHOT 21 — 0:18.3���0:19.0\nWITCH FALL"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\NAHUAL_A_STORY_FROM_LA_HUASTECA\\NAHUAL_A_STORY_FROM_LA_HUASTECA_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 97,
+     "field": "prompt",
+     "ctx": "th long black claws �� and his jacket sl"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\NAMED_FOR_HIM\\NAMED_FOR_HIM_all_prompts.jsonl",
+   "处": 146,
+   "行": [
+    {
+     "line": 5,
+     "field": "prompt",
+     "ctx": "影机搭配 Panavision C 系列���形宽银幕镜头，40mm 与 75m"
+    },
+    {
+     "line": 8,
+     "field": "prompt",
+     "ctx": "止】任何文字、字幕、LOGO 或水印；偏���【镜头序列】声明的景别、机位与身体"
+    },
+    {
+     "line": 13,
+     "field": "prompt",
+     "ctx": "控制台布局、酒红色与焦橙色配色、材质与磨��；它的机位、构图、视角���光线一概"
+    },
+    {
+     "line": 16,
+     "field": "prompt",
+     "ctx": "过，并不时短暂遮住远日在脸上投下一闪而过���阴影；画面最亮的存在永远是被照亮的"
+    },
+    {
+     "line": 24,
+     "field": "prompt",
+     "ctx": "台词说完之后，画面必须继续停留一整拍（约��秒），人物保持在情绪里。片���镜头"
+    },
+    {
+     "line": 27,
+     "field": "prompt",
+     "ctx": "浮动明显可见：画面持续游移与细颤；铺内挂���的耳机线与小物件持续摆动；他杯里的"
+    },
+    {
+     "line": 30,
+     "field": "prompt",
+     "ctx": "，脸的其余部分是平静、疲惫、被磨硬的。说��时那道眉毛不放下来；说到调侃弟���"
+    },
+    {
+     "line": 36,
+     "field": "prompt",
+     "ctx": "线微弱的滑降声。全程无配乐——不加任何背���音乐：无配乐、无原声带、无器乐、无"
+    },
+    {
+     "line": 43,
+     "field": "prompt",
+     "ctx": "系是神圣不可违背的：那头巨兽是一座活着的��脉——它比画面里的一切都大出几个数量"
+    },
+    {
+     "line": 59,
+     "field": "prompt",
+     "ctx": "去，没有静止的星点、没有缓慢漂过的岩石，��有被跃迁扭曲的空间本身——无数星光被"
+    },
+    {
+     "line": 65,
+     "field": "prompt",
+     "ctx": "镜头眩光；背光面不够黑、整体画面被均匀提���；摄影机静止不动或做成僵硬的匀速轨"
+    },
+    {
+     "line": 74,
+     "field": "prompt",
+     "ctx": "弹般掠过。\n——镜头四（巨兽的侧向追拍）��视角与巨兽并行高速移动，拍它庞大的身"
+    },
+    {
+     "line": 82,
+     "field": "prompt",
+     "ctx": "它的画质、质感与渲染风格也全部作废。那张���考图是一张数字插画/概念图——它的"
+    },
+    {
+     "line": 97,
+     "field": "prompt",
+     "ctx": "促的白色冷气脉冲。加速时尾焰瞬间变长变亮��滑行时收短——推进的呼吸与飞行动作完"
+    },
+    {
+     "line": 105,
+     "field": "prompt",
+     "ctx": "结束。入大气的火焰属于下一片段。\r\n\r\n���台词】美式英语，口型同步。一句一句"
+    },
+    {
+     "line": 111,
+     "field": "prompt",
+     "ctx": "的眼睛里出现橙色或红色的反光；岩石从正前��朝飞船迎面而来、逼近或几乎撞上舷窗；"
+    },
+    {
+     "line": 117,
+     "field": "prompt",
+     "ctx": "；复制参考图构图；慢动作变速特效；某个镜���被压缩成一闪而过的碎片；任何文字字"
+    },
+    {
+     "line": 146,
+     "field": "prompt",
+     "ctx": "无转场。ARRI ALEXA 65 大画��摄影机搭配 Panavision C"
+    },
+    {
+     "line": 151,
+     "field": "prompt",
+     "ctx": "；镜头一中出现不属于提欧的手、手指或手臂��任何把芯片塞给对方、放进对方手中的动"
+    },
+    {
+     "line": 161,
+     "field": "prompt",
+     "ctx": "师稳稳扛着摄影机，绝不是摇晃的业余画面—��无剧烈晃动、无快速甩动、无眩晕感。\r"
+    },
+    {
+     "line": 165,
+     "field": "prompt",
+     "ctx": "与数量、它如何伪装成沉船残骸——全部以这��张参考为准，本提示词不另行描述、不重"
+    },
+    {
+     "line": 170,
+     "field": "prompt",
+     "ctx": "；镜头四中没有可见可感的加速（第一优先级���令）；凯尔自己笑、咧嘴；舱内的光被"
+    },
+    {
+     "line": 188,
+     "field": "prompt",
+     "ctx": "n3 500T 胶片。真正的变形宽银幕成��：横向挤压感、椭圆形焦外光斑、边缘轻"
+    },
+    {
+     "line": 192,
+     "field": "prompt",
+     "ctx": "自然的运动模糊。画面流畅连续——无插帧、��拖影。不是三维渲染，不是游戏引擎，不"
+    },
+    {
+     "line": 196,
+     "field": "prompt",
+     "ctx": "外往里拍。\n\n二·座位归属固定不变：凯尔���驾驶位、前方有操纵杆、双手握杆；提"
+    },
+    {
+     "line": 198,
+     "field": "prompt",
+     "ctx": "说得慢：句与句之间有完整呼吸的停顿。提欧��片保持他松弛好玩、眼神温软的底色：镜"
+    },
+    {
+     "line": 205,
+     "field": "prompt",
+     "ctx": "向弟弟的方向——下巴越过自己的肩膀转过去��脸不再朝向舷窗而是明确地朝向坐在他旁"
+    },
+    {
+     "line": 213,
+     "field": "prompt",
+     "ctx": "，脸处于自然中间调，皮肤纹理与胡茬完整可��；他的肩线、头顶发梢与身后床铺边框上"
+    },
+    {
+     "line": 222,
+     "field": "prompt",
+     "ctx": "说出前半句，同时嘴角的半笑更歪了一点。一���拍的停顿。然后才补上后半句——语气"
+    },
+    {
+     "line": 229,
+     "field": "prompt",
+     "ctx": "则、台词后的呼吸法则与对视法则；全部手持��影；舱外岩石全程保持加速后的更快流速"
+    },
+    {
+     "line": 244,
+     "field": "prompt",
+     "ctx": "尔的脸与身体永远只由他自己那一侧（飞船左��）舷窗来的冷光照亮——光雕刻他靠窗的"
+    },
+    {
+     "line": 252,
+     "field": "prompt",
+     "ctx": "呼吸，重音懒洋洋地落在关键词上，句尾音调��上扬起，句子用连接词自然流动粘连，绝"
+    },
+    {
+     "line": 267,
+     "field": "prompt",
+     "ctx": "4>>> 完全一致且在所有镜头间保持不变���漆盒外观与 <<<95afbe60"
+    },
+    {
+     "line": 278,
+     "field": "prompt",
+     "ctx": "糊的电流杂音。全程无配乐——不加任何背景��乐：无配乐、无原声带、无器乐、无铺底"
+    },
+    {
+     "line": 370,
+     "field": "prompt",
+     "ctx": "在画面右侧的棕色皮革头枕上，上身松垮地斜��，躯干四分之三转向镜头，整个人呈一条"
+    },
+    {
+     "line": 387,
+     "field": "prompt",
+     "ctx": "且始终在动：大小不一的小行星以恒定航速持��迎面而来、被逐一侧身避开、向两侧掠过"
+    },
+    {
+     "line": 392,
+     "field": "prompt",
+     "ctx": "松开操纵杆（竖食指的手仍搭在杆上）；任何���乐。"
+    },
+    {
+     "line": 408,
+     "field": "prompt",
+     "ctx": "一致，但没有任何一帧复制该参考图的构图；���片光线遵循暗舱逆光法则：舱内昏暗、"
+    },
+    {
+     "line": 463,
+     "field": "prompt",
+     "ctx": "舱内的形状与结构在每个镜头中保持一致。这��地点此刻整个浸在垂死恒星的红橙余光里"
+    },
+    {
+     "line": 471,
+     "field": "prompt",
+     "ctx": "里挡风玻璃永远只是背景、而且永远是失焦的��—没有一个镜头去拍窗外、摄影机始终对"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\NAME_IS_COMET\\NAME_IS_COMET_all_prompts.jsonl",
+   "处": 13,
+   "行": [
+    {
+     "line": 88,
+     "field": "prompt",
+     "ctx": "过，⚠️长长的影子铺过潮湿沥青。\n⚠️⚠���⚠️街道是空的：⚠️无警察，⚠️立"
+    },
+    {
+     "line": 112,
+     "field": "prompt",
+     "ctx": "ge_1>>>从不看任何一部手机，⚠️从���注意到，⚠️从不摆姿势。\n⚠️禁令"
+    },
+    {
+     "line": 139,
+     "field": "prompt",
+     "ctx": "一光源是平坦的全阴天空，⚠️云层完全覆盖��⚠️无太阳，⚠️画面任何位置都没有硬"
+    },
+    {
+     "line": 158,
+     "field": "prompt",
+     "ctx": "️无可辨认臂章文字，⚠️无可辨认警徽字样��⚠️两组新闻摄制组在最外���，⚠️"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\NATIVE\\NATIVE_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 423,
+     "field": "prompt",
+     "ctx": "맨 마지막에 NATIVE라는 붉은 글���가 나오게해줘 제목처럼 멋있게"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\NEUROVERSE_STILL_AGLOW\\NEUROVERSE_STILL_AGLOW_all_prompts.jsonl",
+   "处": 25,
+   "行": [
+    {
+     "line": 34,
+     "field": "prompt",
+     "ctx": "抬爪。\n\n只是慢慢把鼻尖靠过去。\n\n鼻尖���轻碰到冰冷玻璃。\n\n“��。”\n\n"
+    },
+    {
+     "line": 62,
+     "field": "prompt",
+     "ctx": "类少女眼睛，具有清晰的虹膜层次和科技感反��，但不得复制附件中真实猫���的眼睛"
+    },
+    {
+     "line": 122,
+     "field": "prompt",
+     "ctx": "伤藤蔓，再把视线移向更深处的NF核心。她���有转身去攻击黑影猫。身体慢慢降低，"
+    },
+    {
+     "line": 292,
+     "field": "prompt",
+     "ctx": "沉没的异世界高塔群。\n其中一座高塔具有东��未来主义垂直比例感，但完全不���应"
+    },
+    {
+     "line": 355,
+     "field": "prompt",
+     "ctx": "号、更稚气；浮雕带做旧石刻质感，允许非人��像质感与AI感。\n<<<366d8d"
+    },
+    {
+     "line": 454,
+     "field": "prompt",
+     "ctx": "球弹飞\n巨手退出画面后，灵汐已被揉成圆润��球，保留猫脸、三角耳、项圈。猫球��"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\NINE_LIVES_AI_FILM_FESTIVAL\\NINE_LIVES_AI_FILM_FESTIVAL_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 190,
+     "field": "prompt",
+     "ctx": "ODY OUT OF THE\r\nWAY �� ducking under it,"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\NOKU\\NOKU_all_prompts.jsonl",
+   "处": 7,
+   "行": [
+    {
+     "line": 122,
+     "field": "prompt",
+     "ctx": "========\r\nFRAME ONE ��� NATURAL DINNER\r\n"
+    },
+    {
+     "line": 390,
+     "field": "prompt",
+     "ctx": "sform it into EARTH �� YEAR 5106 after t"
+    },
+    {
+     "line": 476,
+     "field": "prompt",
+     "ctx": "\n───────────────────��────────\r\n\r\n- same"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\NOTHING\\NOTHING_all_prompts.jsonl",
+   "处": 34,
+   "行": [
+    {
+     "line": 12,
+     "field": "prompt",
+     "ctx": ".\n0:11–0:13 — естест��енное действие пад"
+    },
+    {
+     "line": 31,
+     "field": "prompt",
+     "ctx": "ый акцент от экрана ��елефона в финальны"
+    },
+    {
+     "line": 67,
+     "field": "prompt",
+     "ctx": " лица (лицо Анны в л��вой части кадра, с"
+    },
+    {
+     "line": 109,
+     "field": "prompt",
+     "ctx": " перемотки пальцем д��угой руки.\n\nКадр 5"
+    },
+    {
+     "line": 116,
+     "field": "prompt",
+     "ctx": "иль, вид со спины, п��отивоположный боко"
+    },
+    {
+     "line": 135,
+     "field": "prompt",
+     "ctx": "но отворачивается об��атно, возвращая вз"
+    },
+    {
+     "line": 183,
+     "field": "prompt",
+     "ctx": "нешность и черты лиц�� Евы, девочка 7 ле"
+    },
+    {
+     "line": 191,
+     "field": "prompt",
+     "ctx": "ясь с телефоном в ру��е, она разворачива"
+    },
+    {
+     "line": 200,
+     "field": "prompt",
+     "ctx": "ней, ровное освещени�� спальни; в кадре "
+    },
+    {
+     "line": 229,
+     "field": "prompt",
+     "ctx": "\nПлавные монтажные п��реходы между плана"
+    },
+    {
+     "line": 248,
+     "field": "prompt",
+     "ctx": "ё саму — и произноси�� быстро, устало, п"
+    },
+    {
+     "line": 256,
+     "field": "prompt",
+     "ctx": "лько для грейдинга, ��е для смены освеще"
+    },
+    {
+     "line": 262,
+     "field": "prompt",
+     "ctx": "ая внимания на новос��и за спиной, отста"
+    },
+    {
+     "line": 268,
+     "field": "prompt",
+     "ctx": "кадра — передний пла�� слегка размыт, Ан"
+    },
+    {
+     "line": 292,
+     "field": "prompt",
+     "ctx": "йском языке как обще�� обращение ко всей"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\NOT_A_MONSTER_MOVIE_A_ONE_TAKE_FILM\\NOT_A_MONSTER_MOVIE_A_ONE_TAKE_FILM_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 4,
+     "field": "prompt",
+     "ctx": "ained Latin vowel:\n“��aeternum—”\nDo NOT "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\OCEAN\\OCEAN_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 95,
+     "field": "prompt",
+     "ctx": "ough.\n\nSHOT TWO, 5.0��10.0s — THE AFTERM"
+    },
+    {
+     "line": 175,
+     "field": "prompt",
+     "ctx": " in the still water ��� the bike, her si"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\OEDIPUS\\OEDIPUS_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 170,
+     "field": "prompt",
+     "ctx": "t Oedipus\nCHARACTER ��� CORINTHIAN MESSE"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ONCE_A_KITTEN\\ONCE_A_KITTEN_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 155,
+     "field": "prompt",
+     "ctx": "he cat and boy make.��\n\nAbsolutely no mu"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ONE_DAY_AT_A_TIME\\ONE_DAY_AT_A_TIME_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 345,
+     "field": "prompt",
+     "ctx": " face or upper body ��� only his lower l"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ONE_THE_MERCY_LEDGER\\ONE_THE_MERCY_LEDGER_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 1298,
+     "field": "prompt",
+     "ctx": "MAX. Photorealistic ��� no 3D render, no"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ON_THIN_ICE\\ON_THIN_ICE_all_prompts.jsonl",
+   "处": 6,
+   "行": [
+    {
+     "line": 77,
+     "field": "prompt",
+     "ctx": "r:\r\n\"Quickly! أبي صو��ة!\"  —  \"Quickly! "
+    },
+    {
+     "line": 309,
+     "field": "prompt",
+     "ctx": "not alarmed: \"هَا وِ��ْن؟\" — \"ha WAIN?\" "
+    },
+    {
+     "line": 377,
+     "field": "prompt",
+     "ctx": "HING slows together �� his body, the spr"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\OOPS_FIRST_CONTACT\\OOPS_FIRST_CONTACT_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 359,
+     "field": "prompt",
+     "ctx": "Lens: Anamorphic ��� the horizontal f"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ORDER_OF_ASH\\ORDER_OF_ASH_all_prompts.jsonl",
+   "处": 177,
+   "行": [
+    {
+     "line": 3,
+     "field": "prompt",
+     "ctx": "的胸口——这是他全片最果断的一次，脚步清���地向前踏出两步，从中景能看清他整�"
+    },
+    {
+     "line": 6,
+     "field": "prompt",
+     "ctx": "动）→ 爆1至2帧（兵器画成深色三角楔形���抹面，楔尖在双手处，同帧人物解剖被"
+    },
+    {
+     "line": 10,
+     "field": "prompt",
+     "ctx": "的一条更细更暗的平行线。\r\n与此完全同时��不晚一帧：从他第70帧双脚踩着的那两"
+    },
+    {
+     "line": 16,
+     "field": "prompt",
+     "ctx": "窗户：窗台在1.0米正好是 Cael 的��部，窗顶在1.8米正好与他的头顶齐平"
+    },
+    {
+     "line": 19,
+     "field": "prompt",
+     "ctx": "禁他越跑越靠近画面上方；严禁他跑向画面左���方的街道深处；严禁他消失在远处的灭"
+    },
+    {
+     "line": 21,
+     "field": "prompt",
+     "ctx": "行，宽叶形枪头拖在他后脚跟后面的石板上、��乎擦着地面，像一条拖在身后的尾巴。右"
+    },
+    {
+     "line": 27,
+     "field": "prompt",
+     "ctx": "位，不瞬间翻转方向。右脚支撑、左脚试探前���，剑不接触木杖。距离由2.2米缩至"
+    },
+    {
+     "line": 30,
+     "field": "prompt",
+     "ctx": "形涂抹面，只占这一帧。\r\n【Aren】后���蹬地，髋部向左转动二十度，双手握紧"
+    },
+    {
+     "line": 37,
+     "field": "prompt",
+     "ctx": "土在他原来站的位置炸开一团并被他拖着走。���130至139帧他才走完剩下的一米"
+    },
+    {
+     "line": 42,
+     "field": "prompt",
+     "ctx": "全空着，这是这一招留下的破绽。\r\n\r\n定��十二·腾空转枪（本片段唯一一次双脚离"
+    },
+    {
+     "line": 43,
+     "field": "prompt",
+     "ctx": "ren】前景里他的头猛地向右上一甩、脸颊��开，这是他松开左手、以前脚为轴把身体"
+    },
+    {
+     "line": 45,
+     "field": "prompt",
+     "ctx": "图是四分之三侧前方：他站在画面左边三分之��处，身体转过来，一侧肩膀离镜头更近更"
+    },
+    {
+     "line": 47,
+     "field": "prompt",
+     "ctx": "拉成横向条纹；严禁背景糊成一团色块；严禁��景深虚化把背景抹掉。\r\n速度不靠背景"
+    },
+    {
+     "line": 49,
+     "field": "prompt",
+     "ctx": "远处才可以】\r\n在 Cael 那个距离上���画面上缘切在建筑约三点八米的高度，"
+    },
+    {
+     "line": 51,
+     "field": "prompt",
+     "ctx": "把身体向左压回来。\r\n这六帧里发生的一切��方向全部与他即将冲出去的方向相反：\r"
+    },
+    {
+     "line": 53,
+     "field": "prompt",
+     "ctx": "310帧）。\r\n机位③ 兵器接触点特写，���离约零点五米、高度一点五米（第16"
+    },
+    {
+     "line": 55,
+     "field": "prompt",
+     "ctx": "的正常小尘土，与第52帧的气爆完全不同，��得混为一谈，也不得提前触发气爆。\r\n"
+    },
+    {
+     "line": 57,
+     "field": "prompt",
+     "ctx": "左后方收，前手沿杆身维持导向，双手握位保��可见。矛杆被剑身抬向右上方，矛头沿原"
+    },
+    {
+     "line": 111,
+     "field": "prompt",
+     "ctx": "（姿态重新完全可读，兵器到达极限位置，此���且仅此时出现白色月牙）→ 接（月牙"
+    },
+    {
+     "line": 113,
+     "field": "prompt",
+     "ctx": "245–293\r\nCAMERA: 只用三���机位，按 ①②③①②③ 使用\r\nA"
+    },
+    {
+     "line": 118,
+     "field": "prompt",
+     "ctx": "80厘米，整杆是金属合金锻造的，不是木杆���\r\n杆身：一根笔直的合金圆管，表面"
+    },
+    {
+     "line": 120,
+     "field": "prompt",
+     "ctx": "平移。\r\n本铁律不适用于第63至72帧的���步：那十帧他基本是腾空的，全程只有"
+    },
+    {
+     "line": 124,
+     "field": "prompt",
+     "ctx": "道对面的房子；严禁他从画面上缘、下缘或角��离开——他只能从画面右缘离开。\r\n\r"
+    },
+    {
+     "line": 126,
+     "field": "prompt",
+     "ctx": "与街道平行，不是与画面下缘平行。\r\n严禁��偏离街道中线；严禁他斜着冲向街道对面"
+    },
+    {
+     "line": 128,
+     "field": "prompt",
+     "ctx": "画面停住等效果的情况：每一帧都必须有东西��扩张、在移动、在变淡。\r\n没有任何石"
+    },
+    {
+     "line": 130,
+     "field": "prompt",
+     "ctx": "右转、剑身横挡在肋前、后脚再撤一步，脚跟���着地再滚到前脚掌。【命中武器】剑身"
+    },
+    {
+     "line": 133,
+     "field": "prompt",
+     "ctx": "默，嘴唇始终不动，只有咬紧牙关与压抑的呼���。\r\n\r\n第103–123帧【第六"
+    },
+    {
+     "line": 137,
+     "field": "prompt",
+     "ctx": "缩成流线楔形）→ 展2帧（姿态重新完全可���，兵器到达极限位置，此时且仅此时出"
+    },
+    {
+     "line": 141,
+     "field": "prompt",
+     "ctx": "起反击（趁凯尔旋转的余势还未完全消散），���尔顺势收回长矛格挡阿伦的反击，两人"
+    },
+    {
+     "line": 203,
+     "field": "prompt",
+     "ctx": "呼吸略微加快但节奏可控，目光锐利地扫视战���（视线方向为场景内的方向，绝不看向"
+    },
+    {
+     "line": 213,
+     "field": "prompt",
+     "ctx": "ill, flat and plain ��� no gradient, no "
+    },
+    {
+     "line": 273,
+     "field": "prompt",
+     "ctx": "只张开手掌的宽度，动作连续、快速、重而清��。 9.6–11.2秒：Aren在空"
+    },
+    {
+     "line": 282,
+     "field": "prompt",
+     "ctx": "字幕。篝火噼啪声、夜间环境音贯穿始终，维��近乎寂静的氛围；Solan刻意放慢语"
+    },
+    {
+     "line": 290,
+     "field": "prompt",
+     "ctx": "能量向所有方向扩散，战士、怪物、战场、两��� aura 的区分以及所有周围细节"
+    },
+    {
+     "line": 295,
+     "field": "prompt",
+     "ctx": "入，也不得控制后续 hard cut 的��图。使用 <<<da7a0f03-b"
+    },
+    {
+     "line": 299,
+     "field": "prompt",
+     "ctx": "厚重的剑刃斩击声、巨兽低吼、右臂横扫造成���空气压迫声，以及在9.6秒至11."
+    },
+    {
+     "line": 329,
+     "field": "prompt",
+     "ctx": "观，绝不与场上任何其他骑士（包括Aren��即使他不在本clip画面中）的铠甲款"
+    },
+    {
+     "line": 344,
+     "field": "prompt",
+     "ctx": "并轻微横向摇镜，展示整个洞穴、12米巨兽���只有183厘米的Aren。\r\n1."
+    },
+    {
+     "line": 351,
+     "field": "prompt",
+     "ctx": "一动作必须带有刚挥剑完毕的身体惯性与力量���，肩颈有真实的甩动张力，不能是匀速"
+    },
+    {
+     "line": 354,
+     "field": "prompt",
+     "ctx": "合眼睛的特写，此时画面仍是彩色；闭眼期间��彩褪尽，睁开时已是黑白、且已是A15"
+    },
+    {
+     "line": 363,
+     "field": "prompt",
+     "ctx": "终与口腔能量球连接。\n单斩击锁定：战士只��成一次决定性的垂直下斩。\n力量方向锁"
+    },
+    {
+     "line": 369,
+     "field": "prompt",
+     "ctx": "秒：战士向后滑过碎石地面，靴底压碎石块，��体向后倾斜，用大剑和双脚吸收冲击。他"
+    },
+    {
+     "line": 405,
+     "field": "prompt",
+     "ctx": "<<<image_1>>> 不得被重复显���为画面插入，也不得控制后续 har"
+    },
+    {
+     "line": 418,
+     "field": "prompt",
+     "ctx": "A15身体表面的一层阴影，而是充满了他身���、周围所能看到的整个背景（岩壁、远"
+    },
+    {
+     "line": 426,
+     "field": "prompt",
+     "ctx": "兽没有倒下，也没有静止，它继续缓慢移动胸���、张合嘴巴、摆动头部并准备下一次重"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ORDINARY_DAY\\ORDINARY_DAY_all_prompts.jsonl",
+   "处": 7,
+   "行": [
+    {
+     "line": 83,
+     "field": "prompt",
+     "ctx": "ntly asks:\n\n“왜? 먹고 싶��?”\n\nHer tone is af"
+    },
+    {
+     "line": 135,
+     "field": "prompt",
+     "ctx": "ive midground crowd �� clearer deeper ma"
+    },
+    {
+     "line": 411,
+     "field": "prompt",
+     "ctx": "t gently shifts Yang���s balance. Her bo"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\OUT_OF_CREDITS\\OUT_OF_CREDITS_all_prompts.jsonl",
+   "处": 23,
+   "行": [
+    {
+     "line": 14,
+     "field": "prompt",
+     "ctx": "8-691b46f9fb1c>>>，⚠️���线专注地扫过上面的字迹，⚠️随着阅"
+    },
+    {
+     "line": 67,
+     "field": "prompt",
+     "ctx": "条真实的、有生活气息的走廊人流之中，但依��是画面焦点，⚠️他的背���逐渐随着"
+    },
+    {
+     "line": 115,
+     "field": "prompt",
+     "ctx": "度，不是随意的丢弃，⚠️就在纸团脱手、落���桶内的那一刻，他⚠️同步、⚠️带着"
+    },
+    {
+     "line": 219,
+     "field": "prompt",
+     "ctx": "头以⚠️同样匀速持续爬升拉远，⚠️拉远幅��明显加大，地平线在画面中稳步上升，整"
+    },
+    {
+     "line": 273,
+     "field": "prompt",
+     "ctx": "，双手在报纸和脸上摸索拍打的细碎声响，⚠��摔倒时后背砸地的厚重闷响（带真实冲击"
+    },
+    {
+     "line": 338,
+     "field": "prompt",
+     "ctx": "SE NEWS角标持续显示，完整位于安全���域内，不被裁切。\n动作：<<<11"
+    },
+    {
+     "line": 401,
+     "field": "prompt",
+     "ctx": "position 2），F2.8景深，中��（medium shot，胸部以上入"
+    },
+    {
+     "line": 466,
+     "field": "prompt",
+     "ctx": "向扣下，头盔边缘与颈部护甲精确咬合到位，���程干净利落。就在接近最上方那几级台"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\OVERBOARD\\OVERBOARD_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 166,
+     "field": "prompt",
+     "ctx": "character references��throughout the ent"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\OVERCLOCK\\OVERCLOCK_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 282,
+     "field": "prompt",
+     "ctx": "tions (now ~5m long �� 3m wide, depth cl"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\PERSISTENCE\\PERSISTENCE_all_prompts.jsonl",
+   "处": 6,
+   "行": [
+    {
+     "line": 99,
+     "field": "prompt",
+     "ctx": "\n→ ONLY ELI AND MAYA���S BODIES LEFT ON "
+    },
+    {
+     "line": 187,
+     "field": "prompt",
+     "ctx": "write exactly:\r\n\r\n**���ESCAPING REALITY "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\PHOTO_IN_PARIS\\PHOTO_IN_PARIS_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 101,
+     "field": "prompt",
+     "ctx": "conds is:\n0:00–0:04 ��� confusion and su"
+    },
+    {
+     "line": 179,
+     "field": "prompt",
+     "ctx": "aits:\n\n1. SURPRISED �� naturally surpris"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\PLAY_ANYWAY\\PLAY_ANYWAY_all_prompts.jsonl",
+   "处": 79,
+   "行": [
+    {
+     "line": 5,
+     "field": "prompt",
+     "ctx": "变得有些困惑、古怪，像是在努力回想什么却��不起来\n台词：（无）\n微表演细节：T"
+    },
+    {
+     "line": 15,
+     "field": "prompt",
+     "ctx": "s（<<<image_1>>>）站立/俯��于她一侧，双手紧握她的���并俯身靠"
+    },
+    {
+     "line": 33,
+     "field": "prompt",
+     "ctx": "的琴箱里，在本条prompt开始时就已经��一些硬币与零星纸币——暗示之前已有路"
+    },
+    {
+     "line": 42,
+     "field": "prompt",
+     "ctx": "_3>>>、<<<image_4>>>）��着刚进门的David，神情带着一丝�"
+    },
+    {
+     "line": 55,
+     "field": "prompt",
+     "ctx": "age_1>>> = Charlie整体���型合集参考（正面/背面转身照，本场"
+    },
+    {
+     "line": 65,
+     "field": "prompt",
+     "ctx": "统一侧脸双人构图规则】），浅景深、人物清��背景虚化\n摄影机运动：摄影机围绕Da"
+    },
+    {
+     "line": 69,
+     "field": "prompt",
+     "ctx": "avid（依据<<<image_1>>>��收回思绪，将目光重新落回Tiffan"
+    },
+    {
+     "line": 74,
+     "field": "prompt",
+     "ctx": "背景：全黑\n动作：画面完全黑屏，无任何视��内容，不使用字幕/文字呈现\n台词：护"
+    },
+    {
+     "line": 79,
+     "field": "prompt",
+     "ctx": "e怀抱婴儿的画面，Chris在画面一侧俯��靠近\n背景：<<<image_3>>"
+    },
+    {
+     "line": 93,
+     "field": "prompt",
+     "ctx": "任何纸币/钞票。\n\n⚠️【环境道具合理性���则——禁止墙面/异常表面出现散落硬"
+    },
+    {
+     "line": 102,
+     "field": "prompt",
+     "ctx": "、不缩短与她之间的距离，径直开口说话\n台��：David（标准英式口音，温和中带"
+    },
+    {
+     "line": 112,
+     "field": "prompt",
+     "ctx": "：她的步伐急促但不慌乱失控，没有一句台词��没有回头\n⚠️4s后⚠️立刻硬切到镜"
+    },
+    {
+     "line": 128,
+     "field": "prompt",
+     "ctx": "看向画面外David所在的方向，语气试图��得轻松得体，却明显带着没能藏住的紧张"
+    },
+    {
+     "line": 145,
+     "field": "prompt",
+     "ctx": "止插画感、禁止过度锐化、禁止AI塑料质感���禁止畸变五官、禁止多余肢体或手指、"
+    },
+    {
+     "line": 181,
+     "field": "prompt",
+     "ctx": "_7>>> = 电吉他硬箱道具参考（黑色��属滚轮航空箱，用于运输电吉他设备）—"
+    },
+    {
+     "line": 188,
+     "field": "prompt",
+     "ctx": "让Charlie的头发出现湿润、贴合、水���反射等淋雨痕迹，她自始至终待在室内"
+    },
+    {
+     "line": 212,
+     "field": "prompt",
+     "ctx": "_3>>>市集端街道环境，人群开始松散、���分离场\n动作：Tiffany（依据"
+    },
+    {
+     "line": 266,
+     "field": "prompt",
+     "ctx": "出现时的推销腔形成对比）。\n⚠️【空间布���】：David从步行街一侧折返，沿"
+    },
+    {
+     "line": 318,
+     "field": "prompt",
+     "ctx": "深，胸口轻微起伏，眼神专注、沉浸在即将开��的瞬间\n⚠️1.5s后⚠️立刻硬切到"
+    },
+    {
+     "line": 369,
+     "field": "prompt",
+     "ctx": "动模糊。皮肤：毛孔级写实——汗毛、不对称��、毛细血管潮红、毛孔阴影匹配现场光源"
+    },
+    {
+     "line": 415,
+     "field": "prompt",
+     "ctx": "的疲惫。③缓缓地、夸张地翻了个白眼——他��整个场面唯一的情绪反应。④翻完白眼后"
+    },
+    {
+     "line": 448,
+     "field": "prompt",
+     "ctx": "实拍、0%塑料感、0%合成感、0%AI生��痕迹。\n技术：24fps电影感运动节"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\PLUS_INTEREST\\PLUS_INTEREST_all_prompts.jsonl",
+   "处": 4,
+   "行": [
+    {
+     "line": 40,
+     "field": "prompt",
+     "ctx": "ts of Corey and Todd��s faces inside the"
+    },
+    {
+     "line": 212,
+     "field": "prompt",
+     "ctx": "inally saw you.”\n\n21��26s: Corey drives "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\PON\\PON_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 482,
+     "field": "prompt",
+     "ctx": "US: COMPLIANCE HOLD ��� ACTIVE · MOTOR A"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\PROPHECY_IN_2047\\PROPHECY_IN_2047_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 92,
+     "field": "prompt",
+     "ctx": "mic range like film ��� spray\nclips to w"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\QUEEN_NOIR\\QUEEN_NOIR_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 54,
+     "field": "prompt",
+     "ctx": " remains cyan.\n\nNoir���s smile disappear"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\RAYEN\\RAYEN_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 43,
+     "field": "prompt",
+     "ctx": "cking the turn.\n0:13��0:17 — He reaches "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\RELIC\\RELIC_all_prompts.jsonl",
+   "处": 4,
+   "行": [
+    {
+     "line": 364,
+     "field": "prompt",
+     "ctx": "d says “You ok, pop?�� in a low, tired, "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\REROUTING\\REROUTING_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 335,
+     "field": "prompt",
+     "ctx": ", still, face slack �� one second, no mo"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\REVELATION\\REVELATION_all_prompts.jsonl",
+   "处": 7,
+   "行": [
+    {
+     "line": 121,
+     "field": "prompt",
+     "ctx": "是烏黑、有光澤的又長又直的黑髮，中分，髮��順滑垂到腰背，前額被頭���壓住、兩"
+    },
+    {
+     "line": 177,
+     "field": "prompt",
+     "ctx": "三種光同時存在，暖冷對比明顯，但曝光自然��不要過曝成廣告片。整體色盤是水泥灰、"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\REVOLUTION\\REVOLUTION_all_prompts.jsonl",
+   "处": 236,
+   "行": [
+    {
+     "line": 10,
+     "field": "prompt",
+     "ctx": "下去时手指微弯像在找什么，碰到金属时先停��瞬再合拢，指节发白；之后不管谁抱谁放"
+    },
+    {
+     "line": 13,
+     "field": "prompt",
+     "ctx": "向南（下一个目标）\r\n· 背景活动：面包���的火和黑烟；远处 guard 的�"
+    },
+    {
+     "line": 30,
+     "field": "prompt",
+     "ctx": "脸皱着哭，一只手抓父亲的袖子\r\n· 背景��动：弹壳在他们脚边弹；烟从���面右"
+    },
+    {
+     "line": 33,
+     "field": "prompt",
+     "ctx": "用于布局：碎石路在土坡上、田地在路下方一���、营地在田地之后。忽略参考图的颗粒"
+    },
+    {
+     "line": 40,
+     "field": "prompt",
+     "ctx": "Take the vehicles.\"—���压低的急，说 \"over ther"
+    },
+    {
+     "line": 46,
+     "field": "prompt",
+     "ctx": "两人的嘴闭着 · 18.4秒爆炸——最近���—画面猛震、丢框半秒、灰大片落：男"
+    },
+    {
+     "line": 49,
+     "field": "prompt",
+     "ctx": "；前方8米一台 warrior 从东侧两��楼之间的缝冲出来——清楚，刀举过肩�"
+    },
+    {
+     "line": 56,
+     "field": "prompt",
+     "ctx": "Duke 站在门里喊 · 40mm · ���持L2 · \"EVERYBODY "
+    },
+    {
+     "line": 64,
+     "field": "prompt",
+     "ctx": "bea164108a>>>：在画面 · ���上 · 从腰到头顶 · 10秒撑起"
+    },
+    {
+     "line": 73,
+     "field": "prompt",
+     "ctx": "脚下、两只手扶着地板的边、停在那里——不��去；12.0 秒切。\r\n\r\n【硬切】"
+    },
+    {
+     "line": 77,
+     "field": "prompt",
+     "ctx": "身前，落地后立刻贴到车尾朝南的一侧，手挥���次让后面的人下\r\n· 更多人：在画"
+    },
+    {
+     "line": 85,
+     "field": "prompt",
+     "ctx": "帘门，涂鸦和弹孔。西侧人行道上，从南到北���一个店面门洞（深1米，黑）· 紧挨"
+    },
+    {
+     "line": 94,
+     "field": "prompt",
+     "ctx": "撕开一道 · 副驾驶窗里一个头巾男子上身��出，枪口朝北（画面外镜头背后方向——"
+    },
+    {
+     "line": 103,
+     "field": "prompt",
+     "ctx": "站在那里了。她的脸不变，让他看见她不会变��\r\n\r\nAUDIO\r\n全段：警报的平"
+    },
+    {
+     "line": 111,
+     "field": "prompt",
+     "ctx": "到 Mei 的腰；起始位置：Mei 右侧���\r\nIDENTITY LOCK —"
+    },
+    {
+     "line": 120,
+     "field": "prompt",
+     "ctx": "无声——★ 他没有转头、没有转身，他的背��直对着她和摄影机。\r\n· ★ 10."
+    },
+    {
+     "line": 136,
+     "field": "prompt",
+     "ctx": "米——反握时刀尖到她的肘；刀柄 12 厘��。\r\n· 守卫的短步枪：短于 100"
+    },
+    {
+     "line": 143,
+     "field": "prompt",
+     "ctx": "列后方、低 · 32mm · 推进】\r\n���位起点：队列后方的黑里，离地 50"
+    },
+    {
+     "line": 146,
+     "field": "prompt",
+     "ctx": "手掌在右大腿上擦一下；3.2–3.6 秒���手把门板推回去，留一掌宽；3.6–"
+    },
+    {
+     "line": 163,
+     "field": "prompt",
+     "ctx": "右，铁丝网和网后的平民；哨塔在画面右边缘��瞭望室里一个守卫；运输车在哨塔以东。"
+    },
+    {
+     "line": 174,
+     "field": "prompt",
+     "ctx": "台、黄漆线、运输车停在站台边、车尾敞开的��形开口和膝盖高的地板。★ 不取它的画"
+    },
+    {
+     "line": 177,
+     "field": "prompt",
+     "ctx": "角翘着——因为四十秒里这件事在成功。里斯���回答亚瑟的 \"Three?\" 是诚"
+    },
+    {
+     "line": 181,
+     "field": "prompt",
+     "ctx": "LIGHTING / GRADE\r\n唯一���源是画面右侧的低太阳，淡灰白偏一点"
+    },
+    {
+     "line": 189,
+     "field": "prompt",
+     "ctx": "在哑光表面上的柔和明暗过渡读出来：头顶的���度、下颌线的转折、颈侧与肩甲的接缝"
+    },
+    {
+     "line": 200,
+     "field": "prompt",
+     "ctx": "拉】\r\n机位起点：亚瑟正前方 1.5 米��离地 110 厘米，65mm，浅景深"
+    },
+    {
+     "line": 203,
+     "field": "prompt",
+     "ctx": "14.5秒第三个塌 → 15秒平民抬头 ��� 15.5秒车继续 → 16秒切\r"
+    },
+    {
+     "line": 212,
+     "field": "prompt",
+     "ctx": "端**的黑角落，小钢门旁——肯治靠墙坐得���直，梅靠在肯治左肩上睡着，塞姆坐在"
+    },
+    {
+     "line": 222,
+     "field": "prompt",
+     "ctx": "青橙调，霓虹；\r\n手持晃动，变焦，摇摄，��解。"
+    },
+    {
+     "line": 231,
+     "field": "prompt",
+     "ctx": "AINTS — 凌驾于下文一切\r\n1. ��面里的人：**正好 3 个**——迪"
+    },
+    {
+     "line": 237,
+     "field": "prompt",
+     "ctx": "金链。深酒红色衬衫敞开、袖口推上，浅灰汗��，黑色窄腿裤，尖头黑靴；口袋鼓着钞票"
+    },
+    {
+     "line": 240,
+     "field": "prompt",
+     "ctx": "fd-0b4ed5c7a93f>>>：在��面 · **10.0 秒从画面左下的"
+    },
+    {
+     "line": 244,
+     "field": "prompt",
+     "ctx": "说清楚的说法，找不到，只好说了实话。她的��体全程没动。\r\n\r\nAUDIO\r\n深"
+    },
+    {
+     "line": 247,
+     "field": "prompt",
+     "ctx": "景 · 侧前方 · 50mm · 缓慢推��� · 黑暗中停稳、引擎依次熄火】\r"
+    },
+    {
+     "line": 258,
+     "field": "prompt",
+     "ctx": "是可辨识的旋律；南门方向柴油发电机持续的��吼；灯管的电流嗡鸣。★ 23.5 到"
+    },
+    {
+     "line": 263,
+     "field": "prompt",
+     "ctx": "：16.5–17.0 秒看着门洞，不动；�� 17.1 秒说 \"Out.\"——一"
+    },
+    {
+     "line": 269,
+     "field": "prompt",
+     "ctx": "*（最近的那根）；一根西北角外；一根东北��、瞭望塔旁；一根东南角外；两根在北边"
+    },
+    {
+     "line": 272,
+     "field": "prompt",
+     "ctx": "的白色货箱堆，箱子滚向画面两侧\r\n· 平���：**在画面** · 两侧人行道 "
+    },
+    {
+     "line": 275,
+     "field": "prompt",
+     "ctx": "光进来；窗；手电；月光；\r\n灯泡在画面里��第二个灯泡；西端是亮的；角落是亮的；"
+    },
+    {
+     "line": 282,
+     "field": "prompt",
+     "ctx": "被拖走的人的脸：从头到尾看不见——逆光剪��。\r\n时间线：13.0 剪影进亮带 "
+    },
+    {
+     "line": 299,
+     "field": "prompt",
+     "ctx": "们在黑里只是深色的形状，边缘偶尔被亮区的���光勾出一条细线。如果有人的身体在亮"
+    },
+    {
+     "line": 305,
+     "field": "prompt",
+     "ctx": "天，天空发亮，霓虹灯，均匀明亮的照明，空���路，稀疏的人群，安静的人群，人在摄"
+    },
+    {
+     "line": 315,
+     "field": "prompt",
+     "ctx": "uke 身上，半秒后右嘴角又翘回去一点—���认了。Arthur 在他身后：20"
+    },
+    {
+     "line": 318,
+     "field": "prompt",
+     "ctx": "色运输车（驾驶室内部与它一致：旧、方、实��）。\r\n\r\nIDENTITY LOC"
+    },
+    {
+     "line": 324,
+     "field": "prompt",
+     "ctx": "装车沿东墙斜停成一列，车头朝西，每辆车引���盖打开、引擎盖上夹着一盏硬白的工作"
+    },
+    {
+     "line": 326,
+     "field": "prompt",
+     "ctx": "膀起是机械义肢——深灰钢色，有磨亮的黄铜���节和划痕，五指可动；左臂是肉的。左"
+    },
+    {
+     "line": 329,
+     "field": "prompt",
+     "ctx": "一串裸灯泡从背后照亮瓶子；柜台后站着一个��保在倒酒；柜台前一排十二张高脚凳全坐"
+    },
+    {
+     "line": 342,
+     "field": "prompt",
+     "ctx": "不是 Duke，不是老人，不是 Mei。��面里唯一的老人是 Kenji。\r\n5"
+    },
+    {
+     "line": 348,
+     "field": "prompt",
+     "ctx": "案、医疗器械、微针阵列、电极针、方格排列��点、整齐阵列、刺、尖锥、电路板、金色"
+    },
+    {
+     "line": 361,
+     "field": "prompt",
+     "ctx": "方左右两座深黑大漆长条香案，在画面下方两���，从上方看到空着的案面。\n· 画面"
+    },
+    {
+     "line": 371,
+     "field": "prompt",
+     "ctx": "—照亮地面、围栏的网格、仓库的墙、守卫的��甲、骨白的东西，人群留在背光的黑里；"
+    },
+    {
+     "line": 375,
+     "field": "prompt",
+     "ctx": "被身体压得吱呀——不是喊，是一片压低的、���停的、没有边的声音；远处一台发电机"
+    },
+    {
+     "line": 379,
+     "field": "prompt",
+     "ctx": "的表面上都有清楚的接触阴影。\r\n色彩体积��例（70:20:10）：70% 黑色"
+    },
+    {
+     "line": 383,
+     "field": "prompt",
+     "ctx": "表面、文字、编号。两辆的泥点和划痕彼此不���。\r\n<<<d2a46eb9-1c"
+    },
+    {
+     "line": 385,
+     "field": "prompt",
+     "ctx": "\n有人正脸；有人转头看镜头；有人回头看路��有人举起武器；\r\n变形，多余肢体，多"
+    },
+    {
+     "line": 388,
+     "field": "prompt",
+     "ctx": "人骑在别人肩膀上，没有人站在任何东西上面��没有人站在或坐在车上。门口的人挤在门"
+    },
+    {
+     "line": 391,
+     "field": "prompt",
+     "ctx": "utput, never anime. ���画幅数字电影机（ARRI Alex"
+    },
+    {
+     "line": 400,
+     "field": "prompt",
+     "ctx": "的旧柜子——它是酒吧和 Duke 角落的��界。\r\n\r\n【★ Duke 的角落—"
+    },
+    {
+     "line": 402,
+     "field": "prompt",
+     "ctx": "hinking about you.\" ��� 这时才转头看她。（Voice 同"
+    },
+    {
+     "line": 405,
+     "field": "prompt",
+     "ctx": "，斯坦尼康以他们的步速向南后退 2 米，�� \"Usual place.\" 时停"
+    },
+    {
+     "line": 409,
+     "field": "prompt",
+     "ctx": "红色长衬衫敞着，浅灰衬衫，窄黑裤。**站���沙发南端旁边。**\r\n\r\nIDEN"
+    },
+    {
+     "line": 413,
+     "field": "prompt",
+     "ctx": "ideo_2>>> 的画面，亮，清楚，有��作（排队的人在动）**\r\n· 里斯克"
+    },
+    {
+     "line": 442,
+     "field": "prompt",
+     "ctx": "机匣（34厘米）：比另外两把明显更高、更���、更厚。上半部分整块铣削铝合金，顶"
+    },
+    {
+     "line": 450,
+     "field": "prompt",
+     "ctx": "能装进8毫米的枪膛。前端露出暗钨灰色的尖���穿甲弹芯，弹头根部一圈亮铜色导电环"
+    },
+    {
+     "line": 466,
+     "field": "prompt",
+     "ctx": "南门外一条南北向的四车道城市大道，灰白沥���有裂缝、弹壳、碎玻璃。两侧五到六层"
+    },
+    {
+     "line": 488,
+     "field": "prompt",
+     "ctx": "色矮几上坐着：**1 个**——琴侍。从���侧走进来并跪下：**1 个**——"
+    },
+    {
+     "line": 498,
+     "field": "prompt",
+     "ctx": "，能清楚看到内部的深色纤维一路延伸，穿过���透明材料，在尖端边缘浮到表面，变成"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\RIFT_RIDER\\RIFT_RIDER_all_prompts.jsonl",
+   "处": 38,
+   "行": [
+    {
+     "line": 34,
+     "field": "prompt",
+     "ctx": "r score of any kind �� no underscore,\r\nn"
+    },
+    {
+     "line": 49,
+     "field": "prompt",
+     "ctx": "────────────────────��───────────\r\nEvery"
+    },
+    {
+     "line": 143,
+     "field": "prompt",
+     "ctx": "<<image_2>>> 它的字体里还有���的设计，你可以参考一下这个张图哦。"
+    },
+    {
+     "line": 154,
+     "field": "prompt",
+     "ctx": "l\"；在她发现香蕉的那个beat，摄影机���外\r\n叠加一次推近（仍是��一条连"
+    },
+    {
+     "line": 160,
+     "field": "prompt",
+     "ctx": "t转折：\r\n表面上\"世界最badass大��\"的人设突然卸下，取而代之��是一种"
+    },
+    {
+     "line": 255,
+     "field": "prompt",
+     "ctx": "t it.\r\n\r\nFOREGROUND �� THE PLAZA FLOOR: "
+    },
+    {
+     "line": 267,
+     "field": "prompt",
+     "ctx": ":00.5–0:01.5：冲击力瞬间将整��摊位震散——木质摊架结构因冲击而崩\r"
+    },
+    {
+     "line": 328,
+     "field": "prompt",
+     "ctx": "强化其\"非人\"的诡异静止感。\r\n\r\n音频���一声极具压迫感的低频咆哮，兽性、粗"
+    },
+    {
+     "line": 335,
+     "field": "prompt",
+     "ctx": "\n自然飘动、缓缓落定，没有一丝坠落感——��\"飘下来\"，不是\"掉下来\"。\r\n0:"
+    },
+    {
+     "line": 352,
+     "field": "prompt",
+     "ctx": "粉 / 巷陌小食 / 老坛腌坊 / 霜腌���\n  食铺: 一味斋 / 炊烟坊 "
+    },
+    {
+     "line": 407,
+     "field": "prompt",
+     "ctx": "始，必须从第一帧就是嚎啕大哭\r\n状态；禁��� S4 中爷爷的入镜与拽离动作出现"
+    },
+    {
+     "line": 429,
+     "field": "prompt",
+     "ctx": "属烤漆搭配银灰哑光机身的悬浮摩托车原图，��括其造型、\"1023\"贴花、电路纹理"
+    },
+    {
+     "line": 463,
+     "field": "prompt",
+     "ctx": "浮尘、碎屑、两人的衣发在这一瞬间被一次更���的气流\r\n猛地向后掀动），暗示吸力"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\RISE_OF_AN_EMPIRE_BY_HOUSE_OF_DI_LORENZO\\RISE_OF_AN_EMPIRE_BY_HOUSE_OF_DI_LORENZO_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 121,
+     "field": "prompt",
+     "ctx": "slow motion.\n\nSTYLE ��� LIVE-ACTION PHOT"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\ROAR\\ROAR_all_prompts.jsonl",
+   "处": 7,
+   "行": [
+    {
+     "line": 35,
+     "field": "prompt",
+     "ctx": "ed, NO slow motion\r\n�� gentle watercolor"
+    },
+    {
+     "line": 386,
+     "field": "prompt",
+     "ctx": "────────────────────��─\r\n\r\n[SHOT 1 — THE"
+    },
+    {
+     "line": 475,
+     "field": "prompt",
+     "ctx": "height relationship ��� <<<b19c5ded-b0f8"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\RUBY\\RUBY_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 687,
+     "field": "prompt",
+     "ctx": "hird.\r\nACTION:\r\n0:00��0:01: empty room, "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SAMPO\\SAMPO_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 328,
+     "field": "prompt",
+     "ctx": " Geometry reference �� the whole room mu"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SEA_OF_FOG\\SEA_OF_FOG_all_prompts.jsonl",
+   "处": 6,
+   "行": [
+    {
+     "line": 219,
+     "field": "prompt",
+     "ctx": "hite inner radiance ��� soft pearl-white"
+    },
+    {
+     "line": 261,
+     "field": "prompt",
+     "ctx": "l and painterly\ncrow���s feet and eye wr"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SHARDS_OF_WHEN\\SHARDS_OF_WHEN_all_prompts.jsonl",
+   "处": 8,
+   "行": [
+    {
+     "line": 152,
+     "field": "prompt",
+     "ctx": "L\nThe camera rapidly��arcs around Nyra a"
+    },
+    {
+     "line": 370,
+     "field": "prompt",
+     "ctx": "s not trust them yet��but he is vulnerab"
+    },
+    {
+     "line": 420,
+     "field": "prompt",
+     "ctx": "t actually happened.��\nNatural behavior."
+    },
+    {
+     "line": 428,
+     "field": "prompt",
+     "ctx": "ters must respond to��what is actually h"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SIDE_B\\SIDE_B_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 238,
+     "field": "prompt",
+     "ctx": "ff D (off-frame): \"…���Go!\"\n\nCAMERA PHAS"
+    },
+    {
+     "line": 510,
+     "field": "prompt",
+     "ctx": "mpty space above it �� this is not what "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SIDE_BY_SIDE\\SIDE_BY_SIDE_all_prompts.jsonl",
+   "处": 60,
+   "行": [
+    {
+     "line": 11,
+     "field": "prompt",
+     "ctx": "dbdd9a>>> ） 中：75歲日本男���，168cm，銀灰色整齊側分頭髮，"
+    },
+    {
+     "line": 20,
+     "field": "prompt",
+     "ctx": "–0:30]\n遠景環繞鏡頭，黃金螺旋構圖��廣角16-24mm。塵土瀰漫（慢動作"
+    },
+    {
+     "line": 32,
+     "field": "prompt",
+     "ctx": "（2.5秒）— 「亍」字生成：\n「彳」字���形穩定的瞬間，同樣的顆粒生成機制在"
+    },
+    {
+     "line": 42,
+     "field": "prompt",
+     "ctx": "反之若某一瞬間光源與鏡頭皆相對穩定，殘影���自然收束變短，形成不均勻、有呼吸感"
+    },
+    {
+     "line": 58,
+     "field": "prompt",
+     "ctx": "中文提示詞：\n場景設定於稻田旁的巨大櫻花��下，逆光，落櫻紛飛，霧氣感���柔和"
+    },
+    {
+     "line": 67,
+     "field": "prompt",
+     "ctx": "y Constraint】 中：本段觀眾���座位位置及兩人在畫面中的大小比例，"
+    },
+    {
+     "line": 77,
+     "field": "prompt",
+     "ctx": "扣在扶手上的手部特寫，必須與「幸子扶手手��連戲圖」（<<<image_2>>>"
+    },
+    {
+     "line": 87,
+     "field": "prompt",
+     "ctx": "。嚴禁淡入淡出、嚴禁交叉溶接、嚴禁任何轉���特效。 EN: HARD CUTS"
+    },
+    {
+     "line": 103,
+     "field": "prompt",
+     "ctx": "英文名稱： Chì Chù\n設計字款，要���美的"
+    },
+    {
+     "line": 115,
+     "field": "prompt",
+     "ctx": "m，略帶手持感。紅絲絨座椅表面先以正常速��呈現自內部炸裂的衝擊瞬間，緊接著畫面"
+    },
+    {
+     "line": 124,
+     "field": "prompt",
+     "ctx": "體時產生的拖曳模糊，但幸子本人的輪廓、五��、動作始終保持清晰銳利、不受此效果影"
+    },
+    {
+     "line": 131,
+     "field": "prompt",
+     "ctx": "蓋至深藏藍針織上衣領口之上；頸巾下方隱約��見珍珠項鍊。\n\n場景參照 Locat"
+    },
+    {
+     "line": 143,
+     "field": "prompt",
+     "ctx": "終未曾滑落，情緒緊繃到極致卻強自維持不崩���的狀態；呼吸清晰急促起伏，雙手在絨"
+    },
+    {
+     "line": 155,
+     "field": "prompt",
+     "ctx": "真實感——彷彿他們才是「靜止不變的常數」��而環境才是「被物理法則拋棄的變數」。"
+    },
+    {
+     "line": 210,
+     "field": "prompt",
+     "ctx": "89c5e>>>  , 四周鄰座與前後排��坐滿了盛裝出席的觀眾，觀眾都專心欣賞"
+    },
+    {
+     "line": 242,
+     "field": "prompt",
+     "ctx": "質。\n髮型（成熟俐落造型）：\n黑灰色三七��後梳髮型（Dark Salt-and"
+    },
+    {
+     "line": 286,
+     "field": "prompt",
+     "ctx": "ed and open），袖子微捲至前臂��\n內搭： 純白色（Pure Whit"
+    },
+    {
+     "line": 334,
+     "field": "prompt",
+     "ctx": "服裝（與 KAZUKO 搭配的 60 年���復古文青穿搭）：\n1970年代日式"
+    },
+    {
+     "line": 392,
+     "field": "prompt",
+     "ctx": "寫（清澈、專注且充滿親切感的眼神，無眼鏡���\n耳部與配件特寫（簡約珍珠耳飾與乾"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SITARA\\SITARA_all_prompts.jsonl",
+   "处": 8,
+   "行": [
+    {
+     "line": 445,
+     "field": "prompt",
+     "ctx": " हॉस्पिटल में अवेलेब��� नहीं है, वो ब���"
+    },
+    {
+     "line": 900,
+     "field": "prompt",
+     "ctx": " is entirely unseen �� only the back of "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SKIN_TRADE\\SKIN_TRADE_all_prompts.jsonl",
+   "处": 8,
+   "行": [
+    {
+     "line": 214,
+     "field": "prompt",
+     "ctx": "向彼此，互相直视，并轻松自然地开着玩笑。���为 <<<9e60c0b8-f16"
+    },
+    {
+     "line": 468,
+     "field": "prompt",
+     "ctx": "个干净、果断的动作快速掀开箱盖。整个开箱��作必须迅速、专业、功能���强，而不"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SNAP\\SNAP_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 322,
+     "field": "prompt",
+     "ctx": " very slow push-in. �� @image1 Andy: 25,"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SPANNERGIRL\\SPANNERGIRL_all_prompts.jsonl",
+   "处": 91,
+   "行": [
+    {
+     "line": 47,
+     "field": "prompt",
+     "ctx": "碎片完全分离时，Spanner Girl��克制笑容才完整形成。细���红色发光"
+    },
+    {
+     "line": 84,
+     "field": "prompt",
+     "ctx": "间港口设施内部，Spanner Girl���狭窄工业走廊高速奔跑，一枚黑钢手里"
+    },
+    {
+     "line": 86,
+     "field": "prompt",
+     "ctx": "RD CUT。\r\n\r\n镜头6——直俯手腕��止与短刀飞离\r\n\r\n84度垂直正俯拍"
+    },
+    {
+     "line": 93,
+     "field": "prompt",
+     "ctx": "天花板。她兴奋地仰望破洞并挥手；同一画面��过连续快速拉远收进直升机左侧���蓝"
+    },
+    {
+     "line": 95,
+     "field": "prompt",
+     "ctx": "手旋转时，她的右前臂、手腕、肩膀与腰胯承���真实离心载荷。正面气合镜头中，力量"
+    },
+    {
+     "line": 100,
+     "field": "prompt",
+     "ctx": "主走廊。快速机械脚步传来，机器人警卫2从���侧面通道高速跑入主走廊，边跑边用紧"
+    },
+    {
+     "line": 128,
+     "field": "prompt",
+     "ctx": "度，上半身只跟随约8至10度，髋部和胸口���体继续面向船首。\r\n\r\n第二次回头"
+    },
+    {
+     "line": 139,
+     "field": "prompt",
+     "ctx": "。\n\n6.0–7.4秒：女主角与白艇严格���于画面左侧近景，首领与黑艇严格位于"
+    },
+    {
+     "line": 148,
+     "field": "prompt",
+     "ctx": "色船体、银色金属和波峰上产生狭窄冷银高光���海面反射只提供比月光低约2.5至3"
+    },
+    {
+     "line": 161,
+     "field": "prompt",
+     "ctx": "声器的频率范围，直升机旋翼、低沉机舱共振��风压与仪表运作声进入并持续。\r\n\r\n"
+    },
+    {
+     "line": 164,
+     "field": "prompt",
+     "ctx": "er Girl只作为左侧屏幕内的实时平面��像存在；物理驾驶舱内固定出现王舒兰一"
+    },
+    {
+     "line": 187,
+     "field": "prompt",
+     "ctx": "和发动机撞击后的物理反馈。画面保持自然运��模糊、细腻电影颗粒、柔和高光滚降、深"
+    },
+    {
+     "line": 200,
+     "field": "prompt",
+     "ctx": "磨损与高光衰减。摄影机具有物理重量、平台��动和追踪迟滞。\r\n\r\n全片维持低调照"
+    },
+    {
+     "line": 213,
+     "field": "prompt",
+     "ctx": "把巨型扳手，肘部向内收拢，把扳手从画面下��急速横举至脸部和胸口前方。宽阔钢面遮"
+    },
+    {
+     "line": 220,
+     "field": "prompt",
+     "ctx": "4.0秒：机器人身体先撞上外层钢墙，墙板���后弯曲并破裂。它保持原有飞行方向，"
+    },
+    {
+     "line": 226,
+     "field": "prompt",
+     "ctx": "14.0秒和17.0秒切换机位；19.0��硬切纯黑。\r\n\r\n【参考资产】\r\n\r"
+    },
+    {
+     "line": 262,
+     "field": "prompt",
+     "ctx": "头1中面板的固定位置。1.5–1.85秒��她用右手指尖轻微校正耳麦杆约1厘米，"
+    },
+    {
+     "line": 272,
+     "field": "prompt",
+     "ctx": "接触声、靴底蹬离门槛的接触声、机体轻微颠��时的短促共振和下坠风声。镜头探向门外"
+    },
+    {
+     "line": 277,
+     "field": "prompt",
+     "ctx": "，沿可见轨迹飞向竞技场远处并离开画面。机��人迅速抬头，白色光学视线锁定Span"
+    },
+    {
+     "line": 290,
+     "field": "prompt",
+     "ctx": "，立即降低重心，双手沿握柄重新调整距离，��胯先于肩膀旋转，把扳手拉入一次凶猛的"
+    },
+    {
+     "line": 328,
+     "field": "prompt",
+     "ctx": "蹬离时，机体产生一次轻微而有重量的反作用��簸，随后恢复稳定前飞。下坠中尺寸缩小"
+    },
+    {
+     "line": 336,
+     "field": "prompt",
+     "ctx": "侧。窗框、右驾驶座和她的前后关系始终固定���推近过程中人物保持偏右，左侧窗户仍"
+    },
+    {
+     "line": 340,
+     "field": "prompt",
+     "ctx": "头部轻微转动，摄影机的位置关系与轴线持续���定。\n\n镜头4：固定29度FOV，"
+    },
+    {
+     "line": 342,
+     "field": "prompt",
+     "ctx": "头升至腰部高度。她前脚钉稳，转动腰胯，双��带动巨型扳手进入水平击球轨迹，发出短"
+    },
+    {
+     "line": 410,
+     "field": "prompt",
+     "ctx": "少200公斤的重量压碎并凹陷，泥块、碎石���水滴最后向外喷起。第一次真实接触发"
+    },
+    {
+     "line": 462,
+     "field": "prompt",
+     "ctx": " conversational. “그래�� lands softly, fol"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\STREET_FOOD\\STREET_FOOD_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 193,
+     "field": "prompt",
+     "ctx": "้านขวาสุด\ntext data ��้านซ้ายล่าง\nactivi"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\STUFFY_SYNTH\\STUFFY_SYNTH_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 498,
+     "field": "prompt",
+     "ctx": "────────────────────��────\n\nSTUFFY:\nSupp"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SUMMONED\\SUMMONED_all_prompts.jsonl",
+   "处": 6,
+   "行": [
+    {
+     "line": 296,
+     "field": "prompt",
+     "ctx": "\n“WHATEVER IT IS, IT���S LOCKED ON!”\r\nRo"
+    },
+    {
+     "line": 316,
+     "field": "prompt",
+     "ctx": " ROTOR-WASH INSERTS ��� low 35–65mm frag"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SUNRISE_THE_PROLOGUE\\SUNRISE_THE_PROLOGUE_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 1645,
+     "field": "prompt",
+     "ctx": "ntral segmented eyes���muzzle–mouth tech"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\SUPER_SENIORS\\SUPER_SENIORS_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 53,
+     "field": "prompt",
+     "ctx": "especially important���they must remain "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\S_T_E_V_E\\S_T_E_V_E_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 392,
+     "field": "prompt",
+     "ctx": "4f7-d6de1e6f3254>>> ��� first frame of s"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\TAGE_7\\TAGE_7_all_prompts.jsonl",
+   "处": 9,
+   "行": [
+    {
+     "line": 349,
+     "field": "prompt",
+     "ctx": "──────\nNORA ACTION\n─���────────────���──"
+    },
+    {
+     "line": 356,
+     "field": "prompt",
+     "ctx": "on only.\n\nACTION\n0.0���1.2s — Nora is al"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_APPLE\\THE_APPLE_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 54,
+     "field": "prompt",
+     "ctx": " goes down at 20.5s ��� and both are don"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_BALLOON\\THE_BALLOON_all_prompts.jsonl",
+   "处": 7,
+   "行": [
+    {
+     "line": 9,
+     "field": "prompt",
+     "ctx": "漂移和微动，⚠️主动跟随脸部运动方向微调��图。禁稳定器。\n摄影机位置：正前方偏"
+    },
+    {
+     "line": 106,
+     "field": "prompt",
+     "ctx": "：西（商店入口）↔东（街道后方）——全程��持一致，禁止镜头轴线跳跃（180度规"
+    },
+    {
+     "line": 336,
+     "field": "prompt",
+     "ctx": "保持约2.5-3米距离。\n⚠️主轴线：北���柜台）↔南（商店入口）——全程保持"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_BREACH\\THE_BREACH_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 270,
+     "field": "prompt",
+     "ctx": "DIEGETIC SOUND ONLY ��� the FEAST: overl"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_COLLECTOR\\THE_COLLECTOR_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 234,
+     "field": "prompt",
+     "ctx": " spatial continuity �� camera position, "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_DIVERGION\\THE_DIVERGION_all_prompts.jsonl",
+   "处": 83,
+   "行": [
+    {
+     "line": 8,
+     "field": "prompt",
+     "ctx": "。任何一帧中都没有可见的闪电轨迹——仅有���明。背景保持首帧的背景，只在同一场"
+    },
+    {
+     "line": 16,
+     "field": "prompt",
+     "ctx": "占据声场。\r\n\r\n镜头 7：\r\n八足重击��水体爆炸、主躯撞击、深沉低频冲击与竞"
+    },
+    {
+     "line": 26,
+     "field": "prompt",
+     "ctx": "视觉宽度的一半,永远处于远景。地理、建筑��该远景与参考图100%一致。\r\nWR"
+    },
+    {
+     "line": 38,
+     "field": "prompt",
+     "ctx": "色的头发,长及下颌至颈部,浓密、蓬乱、未���打理,厚重的刘海横过眉际但绝不遮挡"
+    },
+    {
+     "line": 51,
+     "field": "prompt",
+     "ctx": "面面对怪物。五首蜈蚣妖远处重新昂起，五头��形展开，数十步足轻微波动水面。\r\n\r"
+    },
+    {
+     "line": 58,
+     "field": "prompt",
+     "ctx": "不删除他们，不取消引导，不重新安排其他人��光头访客是开场允许出现的原有第���"
+    },
+    {
+     "line": 77,
+     "field": "prompt",
+     "ctx": "中。\r\n\r\n首帧与空间调度\r\n第一个可见��面中，WREN 已经在迈步行走、自左"
+    },
+    {
+     "line": 91,
+     "field": "prompt",
+     "ctx": " **反应核心 → 主导管 → 加速段 �� 枪管 / 发射端**\n\n\n画面上要"
+    },
+    {
+     "line": 101,
+     "field": "prompt",
+     "ctx": "须清晰可见，用来\n强化金属质感与\n超巨物��度感。”\n用箭头指向刀身表面的划痕区"
+    },
+    {
+     "line": 114,
+     "field": "prompt",
+     "ctx": "_5>>> 上排右侧 B 的观察方向与双��构图。\r\n\r\nB 面板决定新的摄影构"
+    },
+    {
+     "line": 131,
+     "field": "prompt",
+     "ctx": "强烈虚化掩盖背景人物。\r\n\r\n【原镜头一��等待、上一位访客离开与轮到 Eldr"
+    },
+    {
+     "line": 152,
+     "field": "prompt",
+     "ctx": ".”**\r\n\r\n口型准确匹配这句英文。说��filthy hands”时不是戏剧"
+    },
+    {
+     "line": 167,
+     "field": "prompt",
+     "ctx": "原有的出现时间、下降轨迹、运动方向、速度���化、靠近法相的过程、与法相双手发生"
+    },
+    {
+     "line": 180,
+     "field": "prompt",
+     "ctx": "，充满整个镜头。金龙急速从空中飞向前方远��步枪兵与坦克军团 <<<image_"
+    },
+    {
+     "line": 206,
+     "field": "prompt",
+     "ctx": "于画面左下角前景，仰视一台巨大的攻城巨兽��巨兽体积庞大，几乎撑满整个画面并向上"
+    },
+    {
+     "line": 249,
+     "field": "prompt",
+     "ctx": "进入绝对高位统治的“掠食者静止”表演状态���Predator Stillnes"
+    },
+    {
+     "line": 286,
+     "field": "prompt",
+     "ctx": "展开王国一侧：整齐战线绵延一英里，不同深���、高度、速度与弹道顶点处，符文弧线"
+    },
+    {
+     "line": 304,
+     "field": "prompt",
+     "ctx": "深空间隙共同形成有纵深的巨大幽幻人形。透���星群间隙及半透明云气，可以看见她后"
+    },
+    {
+     "line": 320,
+     "field": "prompt",
+     "ctx": "旋状汇聚旋转，女仙黑色长发与白色战袍因能���场向上飘扬。\r\n6s-7s，镜头极"
+    },
+    {
+     "line": 344,
+     "field": "prompt",
+     "ctx": "缓慢升降仰拍；镜头7三脚架锁定，纹丝不动��\r\n\r\n【物理】冰绫与火瀑严格滞后于"
+    },
+    {
+     "line": 397,
+     "field": "prompt",
+     "ctx": "合场景的三维裂隙拓扑、湍流形态、破碎几何��碎片轨迹、错层透视与动态光照；允许具"
+    },
+    {
+     "line": 400,
+     "field": "prompt",
+     "ctx": "符纹虚影由下向上崩散。两重能量波继续推动��米水墙外扩，水墙顶端开始受重力卷落。"
+    },
+    {
+     "line": 418,
+     "field": "prompt",
+     "ctx": "几何纹理与从天笔直贯穿地面的多重粗壮神罚��柱；\r\n> 使用 <<<image_"
+    },
+    {
+     "line": 437,
+     "field": "prompt",
+     "ctx": "- 星尘\r\n- 半透明能量感\r\n- 宇宙��子感\r\n- 深空中浮现的神圣圆轮\r\n"
+    },
+    {
+     "line": 463,
+     "field": "prompt",
+     "ctx": "方对波。时空裂痕扩大，余波横扫八荒，裂口��不同距离依次连锁张开，世界濒临湮灭的"
+    },
+    {
+     "line": 470,
+     "field": "prompt",
+     "ctx": "依附并穿透这些巨大身体，断缘银白炽亮，内���漆黑深邃，紫色电光在被撕开的两块身"
+    },
+    {
+     "line": 476,
+     "field": "prompt",
+     "ctx": "持各自轨迹，全部直射前方Solene宇宙��相本体，并在其巨大躯体上六处不同位置"
+    },
+    {
+     "line": 485,
+     "field": "prompt",
+     "ctx": "迟运动，不遮住主要说话口型。避免全屏柔焦��过度锐化。\r\n\r\n写实要求作用于材质"
+    },
+    {
+     "line": 497,
+     "field": "prompt",
+     "ctx": "的光柱，最后停稳。保持中轴对称，无切镜、���环绕、无翻滚。\r\n\r\n【能量的颜色"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_FESTIVAL\\THE_FESTIVAL_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 116,
+     "field": "prompt",
+     "ctx": ", FACING THE CAMERA ��� because the\ncame"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_FILTER\\THE_FILTER_all_prompts.jsonl",
+   "处": 168,
+   "行": [
+    {
+     "line": 7,
+     "field": "prompt",
+     "ctx": "\r\n\r\n* 电梯区域环境底噪\r\n* 空旷��堂轻微回声\r\n* 棒球棍挥���时的"
+    },
+    {
+     "line": 12,
+     "field": "prompt",
+     "ctx": "张与器械轻微摩擦声、Jimmy 呼吸声、��子轻微响动、监控画面切换声���起身"
+    },
+    {
+     "line": 19,
+     "field": "prompt",
+     "ctx": "<<<image_11>>>\r\n\r\n**��头反打，环境更暗，悬念与威胁感���"
+    },
+    {
+     "line": 33,
+     "field": "prompt",
+     "ctx": " 大堂 CCTV 俯视监控感\r\n* 小狗���迷倒地的状态\r\n* Jimmy 由"
+    },
+    {
+     "line": 43,
+     "field": "prompt",
+     "ctx": "门声后的警觉与紧绷\r\n* 开门后核对安东��身份时的谨慎\r\n* 发现自己误会对方"
+    },
+    {
+     "line": 52,
+     "field": "prompt",
+     "ctx": "忆失真感的画面。\r\n\r\n一个 **穿白色��服的人形背影** 正俯身靠近昏迷的小"
+    },
+    {
+     "line": 57,
+     "field": "prompt",
+     "ctx": "。镜头高度较低，贴近地面，建立一种不安而��重的视角。\r\n\r\n电梯到站，伴随一声"
+    },
+    {
+     "line": 62,
+     "field": "prompt",
+     "ctx": "边害怕得发抖，一边却无法停止攻击。\r\n重���：**女人必须边害怕，边挥棒攻击。"
+    },
+    {
+     "line": 70,
+     "field": "prompt",
+     "ctx": "色衣服的人形背影** 正俯身靠近昏迷的小���，做出试图唤醒它的动作。\r\n\r\n构"
+    },
+    {
+     "line": 78,
+     "field": "prompt",
+     "ctx": "她被幻境扭曲感知。\r\n第三段通过暗示性暴��细节强化后果，不直接过度展示血腥主体"
+    },
+    {
+     "line": 84,
+     "field": "prompt",
+     "ctx": "怖冲击。\r\n可伴随极短的视觉震颤与压迫性���动，强化命中瞬间的伤害感。\r\n\r\n"
+    },
+    {
+     "line": 95,
+     "field": "prompt",
+     "ctx": "局，人物主体偏右，环境辅助偏左。\n镜头高��接近 Jimmy 坐姿视平线，略低于"
+    },
+    {
+     "line": 111,
+     "field": "prompt",
+     "ctx": "算风格化动画电影。大师级运镜，大师级电影��头设计，大师级视觉叙事，注重角色情绪"
+    },
+    {
+     "line": 115,
+     "field": "prompt",
+     "ctx": " 与眼镜、小怪物、整个异变世界进行意志对��。\r\n* **Shot4 中小怪物的"
+    },
+    {
+     "line": 125,
+     "field": "prompt",
+     "ctx": ">>。\r\n**监控室房间 B 面** 严��参考 <<<image_6>>>。\r"
+    },
+    {
+     "line": 138,
+     "field": "prompt",
+     "ctx": "小怪物和它制造的美好幻觉时的迟疑、被吸引���动摇、沉浸与情绪松动\r\n\r\n###"
+    },
+    {
+     "line": 147,
+     "field": "prompt",
+     "ctx": "、富有设计感。\r\n禁止平滑插值，禁止运动���糊，禁止 AI 式软滑动作，禁止塑"
+    },
+    {
+     "line": 151,
+     "field": "prompt",
+     "ctx": "持续挥棒，月光逐渐照进室内，观众终于能够���慢看清黑影的真实面部。\r\n揭露过程"
+    },
+    {
+     "line": 181,
+     "field": "prompt",
+     "ctx": "禁止脖子上挂钥匙扣，禁止金属环残留在脖子���身体上，禁止出现吊绳、扣环、挂饰。"
+    },
+    {
+     "line": 191,
+     "field": "prompt",
+     "ctx": "片滑出与落地声、美工刀被拿起的声音、美工��被扔出去砸落的声音、环境中持续存在的"
+    },
+    {
+     "line": 195,
+     "field": "prompt",
+     "ctx": "有一种懂得诱惑人心的魅力\r\n\r\n它的行为���在对 Jimmy 说：\r\n**“只"
+    },
+    {
+     "line": 199,
+     "field": "prompt",
+     "ctx": "制到小怪物身体。\r\n\r\n小怪物飞在人群幻���之前，像一个主持人一样向 Jimm"
+    },
+    {
+     "line": 206,
+     "field": "prompt",
+     "ctx": "e_6>>>。\r\n房门打开的瞬间，门外一���猩红色的异变光线涌入，充满不详和污"
+    },
+    {
+     "line": 211,
+     "field": "prompt",
+     "ctx": "境叙事。\r\n这是一个近未来符合现代的世界���\r\n**STOP-MOTION A"
+    },
+    {
+     "line": 216,
+     "field": "prompt",
+     "ctx": "叙事片段，顶级的动画表演，具有强烈的情绪���染力。\r\n \r\n【导演批注】 \r\n"
+    },
+    {
+     "line": 221,
+     "field": "prompt",
+     "ctx": "制怪物时的急迫感\r\n* 短暂看见挂牌时的��惑一闪而过\r\n* 继续逃跑时的体力透"
+    },
+    {
+     "line": 225,
+     "field": "prompt",
+     "ctx": "漫整个楼道。\r\n视线被大面积遮挡，异变世���的猩红与白色粉尘交织，形成极具风格"
+    },
+    {
+     "line": 230,
+     "field": "prompt",
+     "ctx": "画面中出现的语言都是英文。始终保持强烈的��影对比，用阴影塑造出强烈的诡异恐怖感"
+    },
+    {
+     "line": 240,
+     "field": "prompt",
+     "ctx": "点——\r\n\r\n* 在被完全揭晓前保持高度���险感与压迫感\r\n* 挥击动作必须狠"
+    },
+    {
+     "line": 245,
+     "field": "prompt",
+     "ctx": "音\n\n所有音效都要有明确的空间层次与真实��，强化“回到自己工作空间”的生活化氛"
+    },
+    {
+     "line": 251,
+     "field": "prompt",
+     "ctx": "终清楚：Jimmy在右侧后退，狗和女主人���左侧，热狗是冲突中心。\n喜剧表达依"
+    },
+    {
+     "line": 257,
+     "field": "prompt",
+     "ctx": "字幕、水印、UI元素、品牌侵权标识和任何��景音乐。"
+    },
+    {
+     "line": 258,
+     "field": "prompt",
+     "ctx": "��参考与优先级】\r\n主角 **Jimm"
+    },
+    {
+     "line": 264,
+     "field": "prompt",
+     "ctx": "对抗。\r\n* Jimmy 成功摘下眼镜的��一刻，所有幻象必须瞬间清空，形成强烈"
+    },
+    {
+     "line": 269,
+     "field": "prompt",
+     "ctx": "my的感觉，大师级运镜，塑造出强烈的情绪���达和惊人的动画表演。\r\n\r\nSho"
+    },
+    {
+     "line": 273,
+     "field": "prompt",
+     "ctx": "痛挣扎时的衣物摩擦与手部拉扯声\r\n* i��镜 吸附在脸上的低频吸力感与摩擦阻力"
+    },
+    {
+     "line": 279,
+     "field": "prompt",
+     "ctx": " 的急促喘息、压抑呼吸、衣物摩擦声、监控���设备低鸣、电流声、猫叫声、异变世界"
+    },
+    {
+     "line": 283,
+     "field": "prompt",
+     "ctx": "感与世界的崩坏感\r\n* 暗示下一秒这扇门���被怪物砸开\r\n\r\n**重要：破门锤"
+    },
+    {
+     "line": 288,
+     "field": "prompt",
+     "ctx": "。\r\n他头部受伤、精神紊乱、呼吸不稳，异���世界正在不断侵蚀他的感知。\r\n他的"
+    },
+    {
+     "line": 292,
+     "field": "prompt",
+     "ctx": "\r\n**发现 → 伸手 → 扯下灭火器 �� 转身 → 举起喷嘴 → 对准怪物。"
+    },
+    {
+     "line": 299,
+     "field": "prompt",
+     "ctx": "悚反差\r\n\r\n画面感染力必须极强，带有奥���卡级别动画表演与恐怖氛围塑造能力。"
+    },
+    {
+     "line": 304,
+     "field": "prompt",
+     "ctx": "镜头构图充满张力，透视强烈，空间层次丰富���光影变化细腻，聚焦角色表演、环境叙"
+    },
+    {
+     "line": 310,
+     "field": "prompt",
+     "ctx": "人查看时间，有人兴奋地向朋友展示产品广告���有人焦急向前探头，有人已经拿着产品"
+    },
+    {
+     "line": 363,
+     "field": "prompt",
+     "ctx": "子失真声、门把手转动与开门声、锁门声、怪��靠近时的沉重脚步声、最后破门锤砸地时"
+    },
+    {
+     "line": 368,
+     "field": "prompt",
+     "ctx": "角度，Jimmy侧面特写】\r\n\r\n换一个��具电影感的角度拍摄 Jimmy 的侧"
+    },
+    {
+     "line": 376,
+     "field": "prompt",
+     "ctx": "和墙面为主。\n整体视觉风格偏写实，带一点��影场景感，空间细节很多。\n房间并非极"
+    },
+    {
+     "line": 381,
+     "field": "prompt",
+     "ctx": " B 面参考图的空间逻辑、材质与光线朝向��\nShot4 禁止居中构图。\n\n【S"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_GRAVE\\THE_GRAVE_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 320,
+     "field": "prompt",
+     "ctx": "ot speak.\r\n\r\nSHOT 3 �� 00:11–00:14\r\nEMMA"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_HOST\\THE_HOST_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 441,
+     "field": "prompt",
+     "ctx": " VERIFICATION_BOARD ��� preserve the exa"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LAST_BIT\\THE_LAST_BIT_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 460,
+     "field": "prompt",
+     "ctx": "etched.\n\nBACKGROUND �� ALMOST ENTIRELY M"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LAST_OATH\\THE_LAST_OATH_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 460,
+     "field": "prompt",
+     "ctx": "xposed height and 28���30 cm average dia"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LAST_RIDE\\THE_LAST_RIDE_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 316,
+     "field": "prompt",
+     "ctx": "MOVING ILLUSTRATION �� real 3D volume, d"
+    },
+    {
+     "line": 386,
+     "field": "prompt",
+     "ctx": "l in the whole film ��� mentor energy, a"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LAST_THING_SHE_HELD\\THE_LAST_THING_SHE_HELD_all_prompts.jsonl",
+   "处": 15,
+   "行": [
+    {
+     "line": 179,
+     "field": "prompt",
+     "ctx": "。\r\n静态描述：冷灰玄关，厚重白色钢制大��配老旧黄铜把手，下沉的���瓷砖台阶"
+    },
+    {
+     "line": 210,
+     "field": "prompt",
+     "ctx": "，非常安静地对自己说了句话，里面没有一丝��——一个替别人找的、小小的���温柔"
+    },
+    {
+     "line": 228,
+     "field": "prompt",
+     "ctx": "球鞋，空气干净干燥，其中不得有任何漂浮物���\r\n声音：公寓底噪加暖层，邻户��"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LEGEND_OF_VANARA\\THE_LEGEND_OF_VANARA_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 234,
+     "field": "prompt",
+     "ctx": "od (beat 24 onward) �� the fatal injury,"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LOCKED_ROOM\\THE_LOCKED_ROOM_all_prompts.jsonl",
+   "处": 38,
+   "行": [
+    {
+     "line": 32,
+     "field": "prompt",
+     "ctx": "觀察這些門，恐懼由「尋找出口」轉為「綁架��的人可能曾經在這裡囚禁���不同的人"
+    },
+    {
+     "line": 63,
+     "field": "prompt",
+     "ctx": "窗簾；窗外只見模糊香港住宅燈光，不出現清���地標、招牌或文字；\n- 淺暖��牆"
+    },
+    {
+     "line": 82,
+     "field": "prompt",
+     "ctx": "門，表情由恐懼加入疑惑。\n\n必要\n為了更���吸引觀眾眼球，Alice body"
+    },
+    {
+     "line": 165,
+     "field": "prompt",
+     "ctx": "車車頭燈從該方向逼近。\n綁匪 留在打開的���排司機門旁，回頭望向車廂內的 Al"
+    },
+    {
+     "line": 190,
+     "field": "prompt",
+     "ctx": "動或複製司機、軚盤、儀表或控制組\n不可開���、拉門柄、劫車、持械、襲擊或移走司"
+    },
+    {
+     "line": 216,
+     "field": "prompt",
+     "ctx": "、窗景、科幻效果或另一個場景。整體氣氛安��、密閉、具實體重量，像Alice正在"
+    },
+    {
+     "line": 260,
+     "field": "prompt",
+     "ctx": "\n他與Alice有一個不足一秒的短促眼神���觸。\n這個眼神不是求救、不是等待回"
+    },
+    {
+     "line": 277,
+     "field": "prompt",
+     "ctx": "\n00:10 - 00:20\n[環境改變���(背景)Alice 身處的睡房物理"
+    },
+    {
+     "line": 296,
+     "field": "prompt",
+     "ctx": "變得陌生；她有一瞬間不舒服，但隨即接受對���是在保護自己。她沒有突然覺醒。\n\n"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_MOUNTAIN_KEEPS\\THE_MOUNTAIN_KEEPS_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 200,
+     "field": "prompt",
+     "ctx": " at the bottom edge ��� and, standing in"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_ONE_THAT_LOOKED\\THE_ONE_THAT_LOOKED_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 384,
+     "field": "prompt",
+     "ctx": "���람의 형상을 한 검은 연��로된"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_SECOND_HAND\\THE_SECOND_HAND_all_prompts.jsonl",
+   "处": 11,
+   "行": [
+    {
+     "line": 32,
+     "field": "prompt",
+     "ctx": "SENCE\n──────────────���─────────\n\nCRITIC"
+    },
+    {
+     "line": 81,
+     "field": "prompt",
+     "ctx": "UTE LOCK\n───────────���────────────\n\nPre"
+    },
+    {
+     "line": 177,
+     "field": "prompt",
+     "ctx": "===\nFIGHT INTENSITY �� CRITICAL\n========"
+    },
+    {
+     "line": 409,
+     "field": "prompt",
+     "ctx": "==\nMECHANICAL STATE ��� END OF SHOT\n===="
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_SEVENTH_LOOP\\THE_SEVENTH_LOOP_all_prompts.jsonl",
+   "处": 6,
+   "行": [
+    {
+     "line": 181,
+     "field": "prompt",
+     "ctx": "_hope for size only ��� and lands on @Al"
+    },
+    {
+     "line": 467,
+     "field": "prompt",
+     "ctx": " with even margins.\n��� COLUMN 3 (rightm"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_WEEKEND\\THE_WEEKEND_all_prompts.jsonl",
+   "处": 10,
+   "行": [
+    {
+     "line": 1,
+     "field": "prompt",
+     "ctx": "тойчивый и чистый, п��игодный для монтаж"
+    },
+    {
+     "line": 18,
+     "field": "prompt",
+     "ctx": "ет.\n\nЗвук: только не��рерывный фрагмент "
+    },
+    {
+     "line": 73,
+     "field": "prompt",
+     "ctx": "скной мимики и рекла��ного глянца. Не ге"
+    },
+    {
+     "line": 83,
+     "field": "prompt",
+     "ctx": " мимика, микродвижен��я глаз, физически "
+    },
+    {
+     "line": 94,
+     "field": "prompt",
+     "ctx": "л: Клэр и Адриан у к��ая танцпола; Дэние"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_WORLD_WORTH_LIVING_IN\\THE_WORLD_WORTH_LIVING_IN_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 50,
+     "field": "prompt",
+     "ctx": "volume.\r\n\r\nWARDROBE ��� MOTHER\r\n\r\nReprod"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_ZERO_LINE\\THE_ZERO_LINE_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 287,
+     "field": "prompt",
+     "ctx": "ESH TAKES THE WHEEL ��� 11 SECONDS — MOR"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\TOKYO_4_17\\TOKYO_4_17_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 71,
+     "field": "prompt",
+     "ctx": "ズの寄りを中心に、芝居に合わせて自然にカ���トする。人物が話すときはカメラも落"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\TOKYO_DRIFT\\TOKYO_DRIFT_all_prompts.jsonl",
+   "处": 14,
+   "行": [
+    {
+     "line": 26,
+     "field": "prompt",
+     "ctx": "群迅速产生明显视差；Suki最后稍微拉开��摄影机的距离，车尾和另���两辆赛车"
+    },
+    {
+     "line": 43,
+     "field": "prompt",
+     "ctx": "d cuts.\n\nFORMAT / 参考���工\n一个5秒、16:9的赛前特写�"
+    },
+    {
+     "line": 48,
+     "field": "prompt",
+     "ctx": "边、辫子与黑色酒红球衣；两张角色表各代表��个人，场景里始终只有这两人。\n两位角"
+    },
+    {
+     "line": 58,
+     "field": "prompt",
+     "ctx": "两侧下摆短促上提，原有前结与服装覆盖保持��定。\n膝盖和肩部为手势给出连接身体的"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\TOP_UP_CINEMATIC_AD_BREAKDOWN\\TOP_UP_CINEMATIC_AD_BREAKDOWN_all_prompts.jsonl",
+   "处": 4,
+   "行": [
+    {
+     "line": 129,
+     "field": "prompt",
+     "ctx": "tyle reference only �� do NOT lock to th"
+    },
+    {
+     "line": 140,
+     "field": "prompt",
+     "ctx": "\nSHOT 4 (0:05–0:06) �� FPV DRONE chase s"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\TO_LIVE_ANOTHER_MORNING\\TO_LIVE_ANOTHER_MORNING_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 51,
+     "field": "prompt",
+     "ctx": "and full of longing ��� not theatrical, "
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\TWO_DAYS\\TWO_DAYS_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 35,
+     "field": "prompt",
+     "ctx": "STYLE PREFIX ��� LIVING ROOM, NIG"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\UNCOUNTED\\UNCOUNTED_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 203,
+     "field": "prompt",
+     "ctx": "городками между окна��и"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\UNHEARD\\UNHEARD_all_prompts.jsonl",
+   "处": 68,
+   "行": [
+    {
+     "line": 12,
+     "field": "prompt",
+     "ctx": "动作。\n\n━━━━━━━━━━━━━━━��━━━━\n【LYNN / MEI L"
+    },
+    {
+     "line": 28,
+     "field": "prompt",
+     "ctx": "旧黑色连帽卫衣，下身深色旧牛仔裤，脚穿旧��装靴或旧皮靴。整体要便宜、旧、实用、"
+    },
+    {
+     "line": 159,
+     "field": "prompt",
+     "ctx": "Sara 距离背景较近，所以必须在她身后���背景上形成一个 真实、可��的投影"
+    },
+    {
+     "line": 173,
+     "field": "prompt",
+     "ctx": "sting。\n\n不是每一个人物都需要有明���身份特征。\n\n他们只是普通��敦人"
+    },
+    {
+     "line": 186,
+     "field": "prompt",
+     "ctx": "拍采访。\n\n不要重新问比赛问题。\n\n一开���：\n\nSarah已经把microp"
+    },
+    {
+     "line": 193,
+     "field": "prompt",
+     "ctx": "━━━━━━━\n【LIGHTING】\n━��━━━━━━━━━━━━━━━━━━"
+    },
+    {
+     "line": 226,
+     "field": "prompt",
+     "ctx": "K。\n表演方向｜非常重要\nMarcus ���表演必须非常真实。\n不是喜剧。\n不"
+    },
+    {
+     "line": 237,
+     "field": "prompt",
+     "ctx": "自然的轮廓高光。\n目的只是让她深色的卷发���浅色背景以及后方阴影中自然分离。\n"
+    },
+    {
+     "line": 267,
+     "field": "prompt",
+     "ctx": "T OF PLACE。\n\n\n━━━━━━��━━━━━━━━━━━━━\n【Mar"
+    },
+    {
+     "line": 278,
+     "field": "prompt",
+     "ctx": "停一下手里的knitting，\n\n接过钱���\n\n\n然后：\n\nSHE OPENS"
+    },
+    {
+     "line": 303,
+     "field": "prompt",
+     "ctx": "。\n画面从上胸部 / 肩膀附近开始。\n头��完整保留。\n头顶上方留出少量标准证件"
+    },
+    {
+     "line": 314,
+     "field": "prompt",
+     "ctx": "\n\nTHIS IS LONDON.\n\n周��城市应该贴近球场，\n有一种城市里的小"
+    },
+    {
+     "line": 335,
+     "field": "prompt",
+     "ctx": "\n直接连接stadium / pitch���口。\n\n这是上一段走廊戏的直接延续"
+    },
+    {
+     "line": 357,
+     "field": "prompt",
+     "ctx": "型略瘦，\n骨骼结构清晰但不能显老。\n自然��显的：\nCHEEKBONES，\nJA"
+    },
+    {
+     "line": 369,
+     "field": "prompt",
+     "ctx": "\nMarcus在空中：\n\nsmiling���\neyes alive，\nfull"
+    },
+    {
+     "line": 375,
+     "field": "prompt",
+     "ctx": "影机保持低位，\n\n和Marcus一起停留��这个身体高度。\n\n\n【THIS IS"
+    },
+    {
+     "line": 435,
+     "field": "prompt",
+     "ctx": "现代高饱和颜色。\n\n\n【中心图案】\n\n队��中央：\n\n一个非常简单、传统的英国足"
+    },
+    {
+     "line": 445,
+     "field": "prompt",
+     "ctx": "H SPEAKS】\n━━━━━━━━━━���━━━━━━━━━\n\nMEDIUM"
+    },
+    {
+     "line": 448,
+     "field": "prompt",
+     "ctx": "尽可能保持Marcus在中心。\n\n摄影机���“观察整个车厢”\n逐渐变成“观察M"
+    },
+    {
+     "line": 451,
+     "field": "prompt",
+     "ctx": "\npneumatic bus doors���\n\nsubtle exhaust。"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\UNSENT\\UNSENT_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 455,
+     "field": "prompt",
+     "ctx": "— 0:03.5–0:08.0\r\n━━━���━━━━━━━━━━━━━━\r\n\r"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\VENGEANCE_IS_MINE\\VENGEANCE_IS_MINE_all_prompts.jsonl",
+   "处": 345,
+   "行": [
+    {
+     "line": 476,
+     "field": "prompt",
+     "ctx": "тированно же убирает��я инпейнтом: замас"
+    },
+    {
+     "line": 541,
+     "field": "prompt",
+     "ctx": "e a real man's grip �� with ONE soft une"
+    },
+    {
+     "line": 1448,
+     "field": "prompt",
+     "ctx": "e-hung MEETING RAIL ��� the two sash fra"
+    },
+    {
+     "line": 1887,
+     "field": "prompt",
+     "ctx": "QUARTER to the lens �� one eye nearer, o"
+    },
+    {
+     "line": 2203,
+     "field": "prompt",
+     "ctx": "ack on the point; ко��1 frozen mid-retre"
+    },
+    {
+     "line": 2369,
+     "field": "prompt",
+     "ctx": "'s boot starts BACK ��� and ДЖО IS ALREA"
+    },
+    {
+     "line": 2377,
+     "field": "prompt",
+     "ctx": " in his LEFT hand, к��п1 in its RIGHT ha"
+    },
+    {
+     "line": 2573,
+     "field": "prompt",
+     "ctx": " OPEN TO THE RIGHT —��—\n\nTHE FRAMING OF "
+    },
+    {
+     "line": 2990,
+     "field": "prompt",
+     "ctx": "ff's choked snarls, ��И's low straining "
+    },
+    {
+     "line": 3032,
+     "field": "prompt",
+     "ctx": " is ONE single body ��� four people in t"
+    },
+    {
+     "line": 3366,
+     "field": "prompt",
+     "ctx": "ытыми ящиками и рабо��ей столешницей, ящ"
+    },
+    {
+     "line": 3588,
+     "field": "prompt",
+     "ctx": "e on its RIGHT side ��� frame-RIGHT, on "
+    },
+    {
+     "line": 3684,
+     "field": "prompt",
+     "ctx": " exchange with cop1 ��� eye contact, the"
+    },
+    {
+     "line": 3999,
+     "field": "prompt",
+     "ctx": "и (стоит перпендикул��рно решётке).\nSHOT"
+    },
+    {
+     "line": 5692,
+     "field": "prompt",
+     "ctx": "s, all separate.\n8.0��15.0s — THE WINDOW"
+    },
+    {
+     "line": 6090,
+     "field": "prompt",
+     "ctx": " frame's RIGHT edge �� two bright soft-e"
+    },
+    {
+     "line": 6173,
+     "field": "prompt",
+     "ctx": "каневая завязка тяне��ся с мягкой инерци"
+    },
+    {
+     "line": 6188,
+     "field": "prompt",
+     "ctx": "d20-acbe6c6a587e>>> �� athletic; bare he"
+    },
+    {
+     "line": 6228,
+     "field": "prompt",
+     "ctx": "одит вправо.\nотступ ��т обеих стен — 30–"
+    },
+    {
+     "line": 6242,
+     "field": "prompt",
+     "ctx": "ом, высоко в наружно�� стене маленькое з"
+    },
+    {
+     "line": 6757,
+     "field": "prompt",
+     "ctx": "в бурый от многолетн��го дыма. По низу т"
+    },
+    {
+     "line": 7275,
+     "field": "prompt",
+     "ctx": "ted right boot.\n\n6.0��7.5s — THE REVEAL:"
+    },
+    {
+     "line": 7346,
+     "field": "prompt",
+     "ctx": "he counter around x ��� 74–84%, showing "
+    },
+    {
+     "line": 7569,
+     "field": "prompt",
+     "ctx": "ver arrived.\n6–8.5s ��� THE STATIC SECON"
+    },
+    {
+     "line": 7666,
+     "field": "prompt",
+     "ctx": "g, the line hauling ��� and never the ot"
+    },
+    {
+     "line": 8023,
+     "field": "prompt",
+     "ctx": "nside this watching ��� each one a full "
+    },
+    {
+     "line": 8053,
+     "field": "prompt",
+     "ctx": " new action runs 3.4��15.0 in the same u"
+    },
+    {
+     "line": 8256,
+     "field": "prompt",
+     "ctx": "же ориентации, как л��жало; переворота н"
+    },
+    {
+     "line": 8353,
+     "field": "prompt",
+     "ctx": "T END of the bundle ��� the end nearest "
+    },
+    {
+     "line": 8573,
+     "field": "prompt",
+     "ctx": "ece leaves the body �� the long tail tha"
+    },
+    {
+     "line": 8743,
+     "field": "prompt",
+     "ctx": ", THE SHERIFF.\nКОП1 ��� <<<237f7a1e-d0e6"
+    },
+    {
+     "line": 8784,
+     "field": "prompt",
+     "ctx": "n every two seconds ��� КОП1 trembling, "
+    },
+    {
+     "line": 9127,
+     "field": "prompt",
+     "ctx": "ove.\n\nSTATE TWO, 7.0���9.5s, PRESSED ON "
+    },
+    {
+     "line": 9233,
+     "field": "prompt",
+     "ctx": "ариты, к которым мы ��ришли: около 6.1 н"
+    },
+    {
+     "line": 9237,
+     "field": "prompt",
+     "ctx": "STOP: the fire ends ��� and the fight OW"
+    },
+    {
+     "line": 9425,
+     "field": "prompt",
+     "ctx": "te from the outside ��� digging, scrapin"
+    },
+    {
+     "line": 9588,
+     "field": "prompt",
+     "ctx": "straight from above �� the floor, the bo"
+    },
+    {
+     "line": 9623,
+     "field": "prompt",
+     "ctx": "HE BAR BETWEEN THEM �� and his arm comes"
+    },
+    {
+     "line": 9649,
+     "field": "prompt",
+     "ctx": "B camera rock still ��� frontal, level, "
+    },
+    {
+     "line": 9763,
+     "field": "prompt",
+     "ctx": "came from THAT side ��� and the blood th"
+    },
+    {
+     "line": 9773,
+     "field": "prompt",
+     "ctx": " from the reference ��� round steel barr"
+    },
+    {
+     "line": 9989,
+     "field": "prompt",
+     "ctx": "the camera planting �� the doors BURSTIN"
+    },
+    {
+     "line": 10167,
+     "field": "prompt",
+     "ctx": "he strap.\n\n3.0–4.5s �� THE LIMP BODY SLI"
+    },
+    {
+     "line": 10329,
+     "field": "prompt",
+     "ctx": " time, ONE LOCATION �� the alley of <<<3"
+    },
+    {
+     "line": 10353,
+     "field": "prompt",
+     "ctx": "site the cell), left���right: the cuckoo"
+    },
+    {
+     "line": 10365,
+     "field": "prompt",
+     "ctx": "; THE CROSS-COUNTER �� the short section"
+    },
+    {
+     "line": 10740,
+     "field": "prompt",
+     "ctx": "ING WITHOUT A BREAK �� AND THE MAN IN TH"
+    },
+    {
+     "line": 10781,
+     "field": "prompt",
+     "ctx": "ame.\nFORMAT MODE\n0.0��0.5s — SHOT 0, THE"
+    },
+    {
+     "line": 10788,
+     "field": "prompt",
+     "ctx": "nto the same point;\n�� the break: the bo"
+    },
+    {
+     "line": 10930,
+     "field": "prompt",
+     "ctx": "hen creeps back.\n9.8���10.6s — THE SWALL"
+    },
+    {
+     "line": 11012,
+     "field": "prompt",
+     "ctx": "camera move.\nCAMERA ��� THE TILT: the ca"
+    },
+    {
+     "line": 11071,
+     "field": "prompt",
+     "ctx": "ken tracked surface ��� grit pushed and "
+    },
+    {
+     "line": 11499,
+     "field": "prompt",
+     "ctx": "he depth.\n9.5–11.6s ��� THE UNWRAPPING: "
+    },
+    {
+     "line": 11681,
+     "field": "prompt",
+     "ctx": "orrections, no stop �� one unbroken glid"
+    },
+    {
+     "line": 11733,
+     "field": "prompt",
+     "ctx": " no fade, no blur.\n\n���—— SHOT A — 00:00"
+    },
+    {
+     "line": 11944,
+     "field": "prompt",
+     "ctx": "tal bar composition ��� counter across t"
+    },
+    {
+     "line": 12337,
+     "field": "prompt",
+     "ctx": "614-4e7d9afd9c39>>> ��� the saloon. Cont"
+    },
+    {
+     "line": 12383,
+     "field": "prompt",
+     "ctx": "542-f143798a7d91>>> �� the lever swings "
+    },
+    {
+     "line": 12776,
+     "field": "prompt",
+     "ctx": "cape or the taking.\n��� THE COUNTERS: ex"
+    },
+    {
+     "line": 12794,
+     "field": "prompt",
+     "ctx": "щиеся в углу.\n\nСправ�� от края до края к"
+    },
+    {
+     "line": 12999,
+     "field": "prompt",
+     "ctx": "盖，湿润深色血液附着并凝成血珠，双眼在血��中仍保持睁开、清楚、可辨——同一瞬间"
+    },
+    {
+     "line": 14225,
+     "field": "prompt",
+     "ctx": "he lower frame line �� and the final spr"
+    },
+    {
+     "line": 14396,
+     "field": "prompt",
+     "ctx": "ling the near frame ��� closing on the c"
+    },
+    {
+     "line": 14486,
+     "field": "prompt",
+     "ctx": "ld breath. Wordless ��� the gasps are th"
+    },
+    {
+     "line": 14661,
+     "field": "prompt",
+     "ctx": "ore than breathing;\n�� the crawl: slow t"
+    },
+    {
+     "line": 15234,
+     "field": "prompt",
+     "ctx": "a pace to his right ��� both front-on to"
+    },
+    {
+     "line": 15475,
+     "field": "prompt",
+     "ctx": " only these three — ��И readable only as"
+    },
+    {
+     "line": 15682,
+     "field": "prompt",
+     "ctx": "под входа на его пут��, к пятому шагу.\n\n"
+    },
+    {
+     "line": 15685,
+     "field": "prompt",
+     "ctx": "это главный рычаг. Е��ли в SOUND есть хо"
+    },
+    {
+     "line": 15722,
+     "field": "prompt",
+     "ctx": "level horizon.\n0.5s ��� HARD CUT.\n0.5s t"
+    },
+    {
+     "line": 15845,
+     "field": "prompt",
+     "ctx": "NEVER A WHITE BLANK �� they hold the str"
+    },
+    {
+     "line": 15883,
+     "field": "prompt",
+     "ctx": "ideo <<<video_1>>>) ��� THE LAW OF THE L"
+    },
+    {
+     "line": 15932,
+     "field": "prompt",
+     "ctx": "4:3.\n\nНи слова «head�� и ни одного оборо"
+    },
+    {
+     "line": 16216,
+     "field": "prompt",
+     "ctx": "OUND: diegetic only ��� slow, spaced boo"
+    },
+    {
+     "line": 16420,
+     "field": "prompt",
+     "ctx": " было, поменял тольк�� объект внимания: "
+    },
+    {
+     "line": 17068,
+     "field": "prompt",
+     "ctx": "ite above the range ��� a dusty middling"
+    },
+    {
+     "line": 17122,
+     "field": "prompt",
+     "ctx": "l trembling fingers �� the failure break"
+    },
+    {
+     "line": 17254,
+     "field": "prompt",
+     "ctx": "g the daylight body �� the light reads a"
+    },
+    {
+     "line": 17360,
+     "field": "prompt",
+     "ctx": "fness.\n\nHEAD / NECK ��� same in ALL pane"
+    },
+    {
+     "line": 17385,
+     "field": "prompt",
+     "ctx": " past. Cut.\nPHYSICS ��� THE WEIGHT OF EV"
+    },
+    {
+     "line": 17546,
+     "field": "prompt",
+     "ctx": "R THE FIRST SECONDS ��� the lids stay up"
+    },
+    {
+     "line": 17562,
+     "field": "prompt",
+     "ctx": "gh the nearest gap) �� the give (arm hom"
+    },
+    {
+     "line": 17696,
+     "field": "prompt",
+     "ctx": "ry riding the cycle ��� until the readin"
+    },
+    {
+     "line": 17882,
+     "field": "prompt",
+     "ctx": "d resting alongside �� just wide enough "
+    },
+    {
+     "line": 18240,
+     "field": "prompt",
+     "ctx": "s almost nowhere.\n10���13 far away at th"
+    },
+    {
+     "line": 18318,
+     "field": "prompt",
+     "ctx": "f1b-341d7dd91f86>>> �� THE LOCATION, and"
+    },
+    {
+     "line": 18365,
+     "field": "prompt",
+     "ctx": "raw animal survival �� the way out is ri"
+    },
+    {
+     "line": 18509,
+     "field": "prompt",
+     "ctx": " without blocking WI���s path.\n\n<<<a0ba5"
+    },
+    {
+     "line": 18596,
+     "field": "prompt",
+     "ctx": "ixed operating mark �� a quietly breathi"
+    },
+    {
+     "line": 18743,
+     "field": "prompt",
+     "ctx": "\n——— CUT AT 00:00.5 ��——\n\n——— SHOT 2 — 0"
+    },
+    {
+     "line": 18859,
+     "field": "prompt",
+     "ctx": "l speed УИ RELEASES �� the headless prop"
+    },
+    {
+     "line": 18931,
+     "field": "prompt",
+     "ctx": "K PAINT-like liquid ��� and that paint i"
+    },
+    {
+     "line": 19539,
+     "field": "prompt",
+     "ctx": "tte dissolving.\n13.5���15s: the camera f"
+    },
+    {
+     "line": 19610,
+     "field": "prompt",
+     "ctx": "chamber.\n9.9s–15.0s �� both hands keep t"
+    },
+    {
+     "line": 20151,
+     "field": "prompt",
+     "ctx": " drawn and held low �� never aimed at th"
+    },
+    {
+     "line": 20361,
+     "field": "prompt",
+     "ctx": "0fd-7ccfda86dd61>>> ��� DAY — EXACTLY TW"
+    },
+    {
+     "line": 20475,
+     "field": "prompt",
+     "ctx": "ow along the boards ��� TWO PAIRS OF FEE"
+    },
+    {
+     "line": 20854,
+     "field": "prompt",
+     "ctx": "the picture.\n5–7.5s �� THE LEFT TURN, TH"
+    },
+    {
+     "line": 22162,
+     "field": "prompt",
+     "ctx": "   сделай в комн��тах одинаковый бар"
+    },
+    {
+     "line": 23029,
+     "field": "prompt",
+     "ctx": "new reference photo ��� body centered, l"
+    },
+    {
+     "line": 23103,
+     "field": "prompt",
+     "ctx": "D to photo1:\n• PONY �� small stocky shag"
+    },
+    {
+     "line": 23298,
+     "field": "prompt",
+     "ctx": "部：开场垂直向下对准那块地板——托盘在画���右侧，孤立子弹在旁——上���后保"
+    },
+    {
+     "line": 23432,
+     "field": "prompt",
+     "ctx": "ntical scale; RIGHT ��� large close-up h"
+    },
+    {
+     "line": 23900,
+     "field": "prompt",
+     "ctx": " got a little sin.\" ��� ending no later "
+    },
+    {
+     "line": 24375,
+     "field": "prompt",
+     "ctx": "same lighting style ��� full match of th"
+    },
+    {
+     "line": 24602,
+     "field": "prompt",
+     "ctx": "MAL REAL-TIME SPEED ��� no slow motion; "
+    },
+    {
+     "line": 24982,
+     "field": "prompt",
+     "ctx": "MENT LOCK и продубли��овал в локи.\n\nSHOT"
+    },
+    {
+     "line": 25371,
+     "field": "prompt",
+     "ctx": "Сдел��л деталь — макро-и"
+    },
+    {
+     "line": 25380,
+     "field": "prompt",
+     "ctx": "RAMING (close-up / к��упный план)\nCLOSE-"
+    },
+    {
+     "line": 25553,
+     "field": "prompt",
+     "ctx": "t WITH SAVAGE FORCE ��� the fly darts ou"
+    },
+    {
+     "line": 26149,
+     "field": "prompt",
+     "ctx": " the reference.\n@рем��нь — thick worn le"
+    },
+    {
+     "line": 26904,
+     "field": "prompt",
+     "ctx": "otos of the sheriff ��� identity, face a"
+    },
+    {
+     "line": 27813,
+     "field": "prompt",
+     "ctx": "SMALLER than before ��� a little speck)\n"
+    },
+    {
+     "line": 28063,
+     "field": "prompt",
+     "ctx": "右手合拢在孤立子弹上，把它拿起，像攥住世��最后一枚硬币；紧攥——��摇后他跪着"
+    },
+    {
+     "line": 28365,
+     "field": "prompt",
+     "ctx": "the CLOSED @дверь-ку��ня ahead, <<<c0d92"
+    },
+    {
+     "line": 28749,
+     "field": "prompt",
+     "ctx": "мелкий силуэт. Масшт��б — как на приложе"
+    },
+    {
+     "line": 29093,
+     "field": "prompt",
+     "ctx": "acter: DUST_DRIFTER �� an old weathered "
+    },
+    {
+     "line": 29146,
+     "field": "prompt",
+     "ctx": " door swinging open �� and he IMMEDIATEL"
+    },
+    {
+     "line": 29247,
+     "field": "prompt",
+     "ctx": "e arm whipping back ��� and HURLS it: th"
+    },
+    {
+     "line": 33109,
+     "field": "prompt",
+     "ctx": "he squeezes through �� the rifle FIRES o"
+    },
+    {
+     "line": 33726,
+     "field": "prompt",
+     "ctx": "shoulders or window �� only the eye regi"
+    },
+    {
+     "line": 33904,
+     "field": "prompt",
+     "ctx": "oment.\n\nFORMAT MODE ��� two segments, ON"
+    },
+    {
+     "line": 34233,
+     "field": "prompt",
+     "ctx": "temple.\nSECOND BEAT ��� After a short ho"
+    },
+    {
+     "line": 34409,
+     "field": "prompt",
+     "ctx": "215-72ab7b9b5b8f>>> �� DAY — 2 SHOTS, ON"
+    },
+    {
+     "line": 34524,
+     "field": "prompt",
+     "ctx": "OADSIDE TO THE PULL ��� long axis slanti"
+    },
+    {
+     "line": 35075,
+     "field": "prompt",
+     "ctx": " — как на фото 1, со��ванная четырёхфилё"
+    },
+    {
+     "line": 35513,
+     "field": "prompt",
+     "ctx": "TWO-SHOT �� INT. <<<f9b17e6a-"
+    },
+    {
+     "line": 35624,
+     "field": "prompt",
+     "ctx": "нял — беру ракурс с ��того рефа: умеренн"
+    },
+    {
+     "line": 36007,
+     "field": "prompt",
+     "ctx": "него стола перед пер��ым окном, вторая —"
+    },
+    {
+     "line": 36195,
+     "field": "prompt",
+     "ctx": "aid to be heard.\n9.5��14.0s — THEY TAKE "
+    },
+    {
+     "line": 36336,
+     "field": "prompt",
+     "ctx": " street stand EMPTY ��� the door opened "
+    },
+    {
+     "line": 36387,
+     "field": "prompt",
+     "ctx": "ow blink.\n7.0–11.0s �� in the static fra"
+    },
+    {
+     "line": 36513,
+     "field": "prompt",
+     "ctx": "lever strokes occur �� one after each of"
+    },
+    {
+     "line": 36582,
+     "field": "prompt",
+     "ctx": "тодвинута вправо у к��ыльца салуна, боль"
+    },
+    {
+     "line": 37048,
+     "field": "prompt",
+     "ctx": "инственную реплику, ��убы отчётливо двиг"
+    },
+    {
+     "line": 37110,
+     "field": "prompt",
+     "ctx": "лабая качка кадра в ��кне и гало на свет"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\VESPER\\VESPER_all_prompts.jsonl",
+   "处": 4,
+   "行": [
+    {
+     "line": 76,
+     "field": "prompt",
+     "ctx": "\nSHOT 2 (0:03–0:06) �� fast build insert"
+    },
+    {
+     "line": 118,
+     "field": "prompt",
+     "ctx": "“No… no, no, no… no!�� and screams, “Fat"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\VORTEX\\VORTEX_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 71,
+     "field": "prompt",
+     "ctx": "low continuous ZOOM ��� the body never t"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\WELCOME_TO_THE_TEAM\\WELCOME_TO_THE_TEAM_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 164,
+     "field": "prompt",
+     "ctx": "ne eye is welling.\n\n���️ HE IS NOT CRYIN"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\WHAT_DO_YOU_NEED_ME_FOR\\WHAT_DO_YOU_NEED_ME_FOR_all_prompts.jsonl",
+   "处": 2,
+   "行": [
+    {
+     "line": 216,
+     "field": "prompt",
+     "ctx": ". REVERSE GEOGRAPHY �� looking across th"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\WHAT_IS_LEFT_IS_WIND\\WHAT_IS_LEFT_IS_WIND_all_prompts.jsonl",
+   "处": 21,
+   "行": [
+    {
+     "line": 98,
+     "field": "prompt",
+     "ctx": "лний, без грубых скл��док, без лишней по"
+    },
+    {
+     "line": 133,
+     "field": "prompt",
+     "ctx": "рета. Сохрани фасон �� цвет шелковой оде"
+    },
+    {
+     "line": 288,
+     "field": "prompt",
+     "ctx": "圖像1字體 把中間��圓圈去掉 字體變為紅色  其餘保持不"
+    },
+    {
+     "line": 306,
+     "field": "prompt",
+     "ctx": "т перед монитором, к��мера расположена т"
+    },
+    {
+     "line": 322,
+     "field": "prompt",
+     "ctx": "窗外的城市夜景自然呼應，但不能形成繁華城���或密集霓虹。\n窗簾被夜空染成低飽和"
+    },
+    {
+     "line": 353,
+     "field": "prompt",
+     "ctx": "ространство должно о��таться пустым.\nРез"
+    },
+    {
+     "line": 399,
+     "field": "prompt",
+     "ctx": "c photorealism, 8K. ��се остальное остав"
+    },
+    {
+     "line": 488,
+     "field": "prompt",
+     "ctx": " на ARRI Alexa 35 с ��бъективом Zeiss Su"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\WHERE_LETTERS_FALL\\WHERE_LETTERS_FALL_all_prompts.jsonl",
+   "处": 3,
+   "行": [
+    {
+     "line": 91,
+     "field": "prompt",
+     "ctx": "out.\r\n\r\n13.00–18.00 ��� SHOT 4: BETSY\r\n\r"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\WITHIN\\WITHIN_all_prompts.jsonl",
+   "处": 5,
+   "行": [
+    {
+     "line": 4,
+     "field": "prompt",
+     "ctx": "e Kevin.\"\n↓\nSCENE 2 �� CHARACTERS\nCamera"
+    },
+    {
+     "line": 258,
+     "field": "prompt",
+     "ctx": "==\n🔴 RED MINIATURE ��� SHOULDER POSITIO"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\WORD_VS_WORLD\\WORD_VS_WORLD_all_prompts.jsonl",
+   "处": 50,
+   "行": [
+    {
+     "line": 16,
+     "field": "prompt",
+     "ctx": "，\n橙色末日天空，\n新爆炸，\n火球，\n科��特效。\n\n主要灾难已经结束。\n\n【S"
+    },
+    {
+     "line": 32,
+     "field": "prompt",
+     "ctx": "b>>> 一侧。\r\n\r\n只有这一只玻璃杯���\r\n\r\n不要增加第二只。\r\n不要增"
+    },
+    {
+     "line": 40,
+     "field": "prompt",
+     "ctx": "装外套，身体前倾，正在激烈提问或打断对方��手势明显，表情锐利、紧绷。右侧是一位"
+    },
+    {
+     "line": 53,
+     "field": "prompt",
+     "ctx": "有供电线缆沿入口边缘合理进入，不穿墙、不��空。\r\n\r\n【输出要求】\r\n单张完整"
+    },
+    {
+     "line": 63,
+     "field": "prompt",
+     "ctx": "储存与后勤】\n\n墙边自然保留少量：\n\n普���金属货架，\n\n运输箱，\n\n工具箱，"
+    },
+    {
+     "line": 79,
+     "field": "prompt",
+     "ctx": "\r\n\r\n不要让画面看起来“只有几栋楼受损���。\r\n\r\n必须清楚读成：\r\n整个城"
+    },
+    {
+     "line": 84,
+     "field": "prompt",
+     "ctx": "rew。\r\n\r\n本段只跟随当前采访摄影机��起被灾难吞没。\r\n\r\n\r\n【摄影】\r"
+    },
+    {
+     "line": 93,
+     "field": "prompt",
+     "ctx": "e。\r\n\r\n建筑先反应。\r\n\r\n同一个明���方向的外部载荷开始作用于结构：\r\n"
+    },
+    {
+     "line": 101,
+     "field": "prompt",
+     "ctx": "。她仍握着他的左前臂。两人突然安静，身体��住，望向同一方向。\r\n\r\n近处山脊与"
+    },
+    {
+     "line": 124,
+     "field": "prompt",
+     "ctx": "性参考，负责人物相对位置、身份外观、服装��态、工作桌陈设、建筑材质及光线关系。"
+    },
+    {
+     "line": 132,
+     "field": "prompt",
+     "ctx": "接缝，\n\n局部灾后裂缝和磨损。\n\n建筑受��灾难影响，但主体结构仍然稳定。\n\n最"
+    },
+    {
+     "line": 150,
+     "field": "prompt",
+     "ctx": "播室及同一建筑内部空间、材质、结构与灾害���续性。\r\n\r\n【本镜头唯一任务】\r"
+    },
+    {
+     "line": 164,
+     "field": "prompt",
+     "ctx": "师本人受到力，\r\n此时摄影机才允许真正剧���失控。\r\n\r\n【0:00–0:05"
+    },
+    {
+     "line": 184,
+     "field": "prompt",
+     "ctx": "电影摄影机质感。\n8K高细节电影制作参考��。"
+    },
+    {
+     "line": 199,
+     "field": "prompt",
+     "ctx": "大型counter完整隔开两人；\r\n\r\n��色纸张在中央区域；\r\n\r\n透明玻璃水"
+    },
+    {
+     "line": 213,
+     "field": "prompt",
+     "ctx": "弟弟中近景。包扎手臂贴近身体，他看着瓦砾��努力稳住呼吸，下颌轻轻绷紧。哥哥赭黄"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\YINGNING\\YINGNING_all_prompts.jsonl",
+   "处": 113,
+   "行": [
+    {
+     "line": 6,
+     "field": "prompt",
+     "ctx": "然清空烟尘，人物和地面上的粉末只会逐渐增��。\n\n主色为亮紫、金黄、青蓝和玫红。"
+    },
+    {
+     "line": 20,
+     "field": "prompt",
+     "ctx": "中间穿过，不能穿过匕首，不能穿过平台，也��能瞬移到恶霸背后。\n\n摄影机高度保持"
+    },
+    {
+     "line": 38,
+     "field": "prompt",
+     "ctx": "阿泰以及他们正前方画外的恶霸。他全程不看��影机，不对摄影机说话。\n\n【一镜到底"
+    },
+    {
+     "line": 48,
+     "field": "prompt",
+     "ctx": "远距离\n\n他不是强行拖拽GG，而是用搭肩���手臂和自己的步伐引导GG一起向��"
+    },
+    {
+     "line": 57,
+     "field": "prompt",
+     "ctx": "动作。\n旁边的人边笑边跟着点脚，后排另一��抬起双手，转动手腕。\n\n三个人有不同"
+    },
+    {
+     "line": 63,
+     "field": "prompt",
+     "ctx": "仍是彩烟唯一源头； \n两条铁链在子弹时间��缓慢绷直； \n彩烟和颗粒在二人之间及"
+    },
+    {
+     "line": 76,
+     "field": "prompt",
+     "ctx": "\n\n阿泰全程走在平台外侧地面，绝不踩上、��过或穿过平台。\n\n阿泰全程使用自己的"
+    },
+    {
+     "line": 89,
+     "field": "prompt",
+     "ctx": "an和阿泰不能出现在GG、婴宁和恶霸之间��\n\nVivian和阿泰始终留在入口左"
+    },
+    {
+     "line": 101,
+     "field": "prompt",
+     "ctx": "0秒｜成功版本的道具台继续弹出】\n\n响指���后，平台内部才传出低沉、真实的机械"
+    },
+    {
+     "line": 130,
+     "field": "prompt",
+     "ctx": "膝与平台的接触位置；\n\n低矮、厚重、宽大��长方形黑色石质平台；\n\n平台长度、宽"
+    },
+    {
+     "line": 134,
+     "field": "prompt",
+     "ctx": "或背景音乐。\n\n只保留婴宁对白、GG呼吸���恶霸鼻音与喘息、铁链摩擦、人物脚步"
+    },
+    {
+     "line": 142,
+     "field": "prompt",
+     "ctx": "词。\n\nVivian看到GG的反应后继续��，笑声自然进入。她不抢着说话。\n\n阿"
+    },
+    {
+     "line": 171,
+     "field": "prompt",
+     "ctx": ".20秒 交相机】\nSID看向镜头，也就���看向GG，上前半步。\n一只手伸进画"
+    },
+    {
+     "line": 179,
+     "field": "prompt",
+     "ctx": "取景方向。\n画面继续贴近GG的下巴和半张��，并保持明显、不规则的手持晃动。\nG"
+    },
+    {
+     "line": 196,
+     "field": "prompt",
+     "ctx": "起 → 折痕形成 → 多层纸张向上折叠 ��� 纸层增厚 → 形成高耸纸柱。\n\n"
+    },
+    {
+     "line": 219,
+     "field": "prompt",
+     "ctx": "掉漆、鞋印和拖拽划痕。\n平台不直接接触地���，而是距离黑色地面约15至20厘米"
+    },
+    {
+     "line": 231,
+     "field": "prompt",
+     "ctx": "具内部藏着一层轻薄支撑网。\n\n阿泰站在两���旁边，仍保持刚刚解释机关后的轻微不"
+    },
+    {
+     "line": 240,
+     "field": "prompt",
+     "ctx": "7-b2cac116a73d>>>\n\n每��资产标签只出现一次。后文只使用角色名"
+    },
+    {
+     "line": 250,
+     "field": "prompt",
+     "ctx": "动、空间开启和人物落地均落在明确节拍边界���\n\n不生成音乐。音乐由后期添加。\n"
+    },
+    {
+     "line": 304,
+     "field": "prompt",
+     "ctx": "顶拍，用黑色墨流、白色纸面和银色几何光网��成清晰图形关系。\n\n---\n\n## "
+    },
+    {
+     "line": 330,
+     "field": "prompt",
+     "ctx": "机位于观众席侧面，以大光圈手持中景拍摄前���与第二排观众。\n\n0.00–0.8"
+    },
+    {
+     "line": 339,
+     "field": "prompt",
+     "ctx": "图中央人物身份。\n\n构图比参考图更近，但��须同时容纳阿泰的脸、肩膀、双手和横握"
+    },
+    {
+     "line": 375,
+     "field": "prompt",
+     "ctx": "始终是四名不同的成年男性，不复制、不融合���不交换身份。\n\n斗篷连帽始终戴在头"
+    },
+    {
+     "line": 387,
+     "field": "prompt",
+     "ctx": "和Logo。\n【五视图排版】\n所有五个视���放在同一张横版图片中，共享一整块连"
+    },
+    {
+     "line": 404,
+     "field": "prompt",
+     "ctx": "不能变成纯白色或失去细节。\n\n红幕保持深��红、暗红和黑红三层关系。红幕最亮区域"
+    },
+    {
+     "line": 409,
+     "field": "prompt",
+     "ctx": "0–2.70秒——在同一条街道继续高速前���\n摄影机从1号准确位置重新启动。\n"
+    },
+    {
+     "line": 426,
+     "field": "prompt",
+     "ctx": "间：\n\n湿润石质路面向远处连续延伸；背景��现失焦的行人腿部、商业街底层结构、暖"
+    },
+    {
+     "line": 435,
+     "field": "prompt",
+     "ctx": "四人不能交换区域，不能跨越座椅，不能走入���央舞台，不能因为切镜突然出现在另一"
+    },
+    {
+     "line": 439,
+     "field": "prompt",
+     "ctx": "0–1.20秒：\n\n观众A放在膝盖上的手���特写。她的手指先收紧，随后慢慢抬起"
+    },
+    {
+     "line": 458,
+     "field": "prompt",
+     "ctx": "眼楼梯，再从肩膀上方短暂看向身后三人，以���常生活化、随口提醒的语气说：\n\n“"
+    },
+    {
+     "line": 468,
+     "field": "prompt",
+     "ctx": "：\n\n观众一：“来了来了！”\n\n观众二：���隐藏环节！”\n\n观众三：“终于看到"
+    },
+    {
+     "line": 475,
+     "field": "prompt",
+     "ctx": "的婴宁。只有她完成对应口型。\n\n说完后，���没有立刻大笑，而是维持目光，像真的"
+    },
+    {
+     "line": 482,
+     "field": "prompt",
+     "ctx": "一侧，一对年轻男女停在平台边自然交谈。近��可以有一名失焦行人经过，形成与  <"
+    }
+   ]
+  },
+  {
+   "file": "02_完整提示词数据包\\YIN_YANG_AGENCY_THUNDER_RISING\\YIN_YANG_AGENCY_THUNDER_RISING_all_prompts.jsonl",
+   "处": 31,
+   "行": [
+    {
+     "line": 25,
+     "field": "prompt",
+     "ctx": "以及細微的35毫米膠片顆粒感。\n\n嚴格限��：\n\n畫面中只有林先生清晰可見。\n\n"
+    },
+    {
+     "line": 232,
+     "field": "prompt",
+     "ctx": "位，背景以失焦的原有灰白實牆為主，不為配��舊近鏡而強行放置正面書架，不新增門窗"
+    },
+    {
+     "line": 263,
+     "field": "prompt",
+     "ctx": "可見。\r\n面孔放在畫面右中部，鼻尖朝左，��側保留衝刺空間。\r\n\r\n惡魔咬緊牙關"
+    },
+    {
+     "line": 331,
+     "field": "prompt",
+     "ctx": "保持距離。\r\n靈兒在畫面左側，向右迎擊；��鬼在右側靠東牆的空地，向左猛撲���"
+    },
+    {
+     "line": 368,
+     "field": "prompt",
+     "ctx": "下半身是黑煙，不生成普通人類雙腳。黑煙攻���來源是左爪，不是銅鏡或地板。\r\n\r"
+    },
+    {
+     "line": 393,
+     "field": "prompt",
+     "ctx": "。\r\n\r\n打開的木盒先落回木地板，作一次��幅而沉重的反彈。盒蓋仍由兩個黃銅鉸鏈"
+    },
+    {
+     "line": 411,
+     "field": "prompt",
+     "ctx": "\r\nStart Frame：唯一場景、構��、木盒、古銅八卦鏡、符紙、紅色絲絨及"
+    },
+    {
+     "line": 455,
+     "field": "prompt",
+     "ctx": "→ 雙手縮回及身體驚恐後退。完全不轉換重��、不伸腳、不踢盒；木盒全程留在原位。"
+    },
+    {
+     "line": 487,
+     "field": "prompt",
+     "ctx": "仍有運動，不定格、不淡出、不生成第二個黑��。\n【攝影】\n手持側面中近景追隨朝陽"
+    }
+   ]
+  }
+ ],
+ "repair_note": "2026-11-07 回源重抓完成：164+4=168 项目全部重抓，重抓件 168 份存 维护/回源恢复/重抓件/（全部 U+FFFD=0）。1,064 污染条修复率 99.2%（1,055 已恢复/8 不可修[OUT_OF_CREDITS]/1 无法判定）——核算脚本 tmp_batch3_out/_一次性脚本/_repair_rate_v3_1107.js（分段顺序子序列匹配法）。隔离令修订：已恢复的 1,055 条恢复 verbatim 引用资格（以重抓件为准）；8+1 条维持隔离。"
+}

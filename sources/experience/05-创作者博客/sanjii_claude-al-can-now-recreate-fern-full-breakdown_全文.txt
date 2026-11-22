@@ -1,0 +1,170 @@
+【项目】CLAUDE AL CAN NOW RECREATE FERN - FULL BREAKDOWN（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/claude-al-can-now-recreate-fern-full-breakdown
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+CLAUDE AL CAN NOW RECREATE FERN - FULL BREAKDOWN
+@sanjii
+160
+0
+0
+Before You Start
+
+This build has two rules. First: assets before motion. Every character, location, and prop is generated once as a still, then attached as a reference to every scene it appears in — that's what keeps three separate generations looking like one film. Second: the style lock. Every prompt below ends with the same style sentence, word for word. It never changes between prompts, and that's exactly why the film never drifts.
+
+
+
+
+Three tools cover the whole production: image generation for the reference stills, Seedance 2.5 for the 30-second scene blocks with the audio baked in natively, and SeedAudio for the narration. And you don't have to write any of this yourself — the Claude Skill below writes the complete production plan, every prompt included, from a single sentence.
+
+fern-documentary.skill
+SKIL
+REASY TO MAKE YOUR OWN?
+YES!
+Stage 1 — The Assets
+
+The film is "The Parker Incident" — Spider-Man's origin story treated as a real incident. It needs five assets: one character, one location, three props. The second style, the large-scale investigation, needs four more. Everything below is an image — the only video generations in the whole build are the three blocks in Stage 3. 
+
+
+
+
+Generate the assets before touching a single scene, and keep every extra angle you like — extra angles are free consistency ammo.
+
+CHAR-01 — The Intern
+
+What it does: Generates the intern's reference sheet. The description inside is the character's descriptor line — every scene reuses it word for word.
+
+Recreate this prompt
+
+Character reference sheet, full body, neutral standing pose, plain light-grey studio background — a young man around nineteen, slight build, short dark hair, wire-rim glasses, pale-blue lab coat over a grey shirt. Front three-quarter view. Stylized low-poly 3D documentary reconstruction render; simplified geometric human figures with minimal facial detail; clean soft-textured materials; realistic cinematic lighting with soft volumetric shafts; muted desaturated palette with a single amber accent; gentle filmic haze and shallow depth of field; high-end production render; no text, no watermark; 16:9
+LOC-01 — The East Genetics Lab
+
+What it does: Generates the lab as an empty location plate. Keeping people out of location references stops them from contaminating every scene the room appears in.
+
+Recreate this prompt
+
+Empty location plate, no people, no animals — a long genetics research lab: a central aisle of sealed concrete, steel workbenches with humming equipment racks and glass-front cabinets along both walls, a glass terrarium enclosure on the far bench, morning daylight through half-closed blinds mixing with cool fluorescent panels, a small amber indicator light above bench four. Wide coverage of the room from a natural corner height. Stylized low-poly 3D documentary reconstruction render; simplified geometric human figures with minimal facial detail; clean soft-textured materials; realistic cinematic lighting with soft volumetric shafts; muted desaturated palette with a single amber accent; gentle filmic haze and shallow depth of field; high-end production render; no text, no watermark; 16:9
+PROP-01 — The Terrarium
+
+What it does: Generates the terrarium as an isolated object reference.
+
+Recreate this prompt
+
+Object reference, isolated on a plain light-grey background — a rectangular glass terrarium about the width of two hands, brushed-steel frame and hinged steel lid with a single latch, a dry branch and dark substrate inside, a small blank amber tag clipped to the front glass. Closed, intact. Stylized low-poly 3D documentary reconstruction render; simplified geometric human figures with minimal facial detail; clean soft-textured materials; realistic cinematic lighting with soft volumetric shafts; muted desaturated palette with a single amber accent; gentle filmic haze and shallow depth of field; high-end production render; no text, no watermark; 16:9
+PROP-02 — Specimen 8-C
+
+What it does: Generates the specimen itself — the film's amber accent lives on it.
+
+Recreate this prompt
+
+Object reference, isolated on a plain light-grey background — a small spider roughly the size of a thumbnail, dark charcoal body with fine amber markings across the abdomen, resting on a short dry branch. Stylized low-poly 3D documentary reconstruction render; simplified geometric human figures with minimal facial detail; clean soft-textured materials; realistic cinematic lighting with soft volumetric shafts; muted desaturated palette with a single amber accent; gentle filmic haze and shallow depth of field; high-end production render; no text, no watermark; 16:9
+PROP-03 — The ID Badge
+
+What it does: Generates the badge the final scene pushes in on.
+
+Recreate this prompt
+
+Object reference, isolated on a plain light-grey background — a laboratory ID badge the size of a palm, white card in a clear plastic sleeve on a pale-blue lanyard, blank photo square and blank text lines, a small amber clip. Stylized low-poly 3D documentary reconstruction render; simplified geometric human figures with minimal facial detail; clean soft-textured materials; realistic cinematic lighting with soft volumetric shafts; muted desaturated palette with a single amber accent; gentle filmic haze and shallow depth of field; high-end production render; no text, no watermark; 16:9
+MAP-01 — The Ocean Base Map
+
+What it does: Generates the base map the whole search sequence flies over. Note the different style sentence — the investigation format has its own lock.
+
+Recreate this prompt
+
+Satellite night view of a remote stretch of open ocean, a thin dark coastline at the top edge of frame, moonlight catching faint wave texture, thin broken cloud bands, seen from high orbit at a slight angle; no labels, no markers yet. Cinematic satellite-documentary map graphics; dark night terrain and ocean tones; deep navy palette with amber and cyan glow accents; glowing route lines, radar sweeps and abstract HUD tick marks with no readable text; soft atmospheric haze over detailed topographic relief; filmic grade, high-end motion-design render; no text, no watermark; 16:9
+OVL-01 — The Flight Path
+
+What it does: Generates the flight path as a glowing overlay element.
+
+Recreate this prompt
+
+A glowing amber flight path arcing across dark open ocean and fading toward its end point, over a satellite night view of the same waters. Cinematic satellite-documentary map graphics; dark night terrain and ocean tones; deep navy palette with amber and cyan glow accents; glowing route lines, radar sweeps and abstract HUD tick marks with no readable text; soft atmospheric haze over detailed topographic relief; filmic grade, high-end motion-design render; no text, no watermark; 16:9
+OVL-02 — The Radar Sweep and Ping
+
+What it does: Generates the radar ring and the expanding ping ripple.
+
+Recreate this prompt
+
+A cyan radar ring with a sweeping fading trail, and a single expanding ping ripple at one coordinate, over dark night ocean. Cinematic satellite-documentary map graphics; dark night terrain and ocean tones; deep navy palette with amber and cyan glow accents; glowing route lines, radar sweeps and abstract HUD tick marks with no readable text; soft atmospheric haze over detailed topographic relief; filmic grade, high-end motion-design render; no text, no watermark; 16:9
+OVL-03 — The Search Grid
+
+What it does: Generates the search grid that crawls across the water.
+
+Recreate this prompt
+
+A rectangular search grid of faint cyan cells over dark night ocean, a few cells brighter than the rest. Cinematic satellite-documentary map graphics; dark night terrain and ocean tones; deep navy palette with amber and cyan glow accents; glowing route lines, radar sweeps and abstract HUD tick marks with no readable text; soft atmospheric haze over detailed topographic relief; filmic grade, high-end motion-design render; no text, no watermark; 16:9
+Stage 2 — The Prompting Framework
+
+Download the skill, upload it to Claude under Customize → Skills, and open a fresh chat. Then give it one line:
+
+Make me a Fern-style documentary about the origin of Spider-Man. Treat it as a real incident.
+
+It comes back with the complete case file: the minute-by-minute timeline, a scene table, an image prompt for every asset, a 30-second motion prompt for every scene, the full narration with a voice card, and an attach list per scene. Swap the idea in that one line and the same flow produces any other documentary — including the second format.
+
+One rule before generating anything: stills first. Every scene's consistency comes from attaching the Stage 1 references, and Stage 3 is where they all come together.
+
+fern-documentary.skill
+SKIL
+Stage 3 — The Scenes: Three Generations
+
+The whole film is three scenes — Intake at 08:41, the routine; The Contact at 08:45, the incident; The Anomaly at 09:14, the aftermath — and each scene is exactly one Seedance 2.5 generation: a continuous 30-second block, one location, no cuts, audio baked in. Three generations, and the visual foundation of a 1:30 documentary is done.
+
+
+
+
+The loop is the same for every block. Take the scene's motion prompt from the blueprint. Open Seedance 2.5, set the duration to 30 seconds, turn native audio on. Upload every still from that scene's Attach line as references — up to 50 fit, so the extra angles go in too. Paste the prompt, generate, move to the next block.
+
+Here's what a scene pack looks like when the skill hands it over — Scene 1, the one from the video:
+
+Continuous 30-second single-scene sequence, one location, no cuts.
+SETTING: LOC-01, the east genetics lab, morning, cold daylight through blinds.
+CHARACTERS: CHAR-01 — a young man around nineteen, slight build, short dark hair, wire-rim glasses, pale-blue lab coat over a grey shirt.
+SEQUENCE: 0–8s he badges in and walks the center aisle, seen from the high-corner surveillance angle; 8–16s lateral dolly follows him past humming equipment to the far bench; 16–24s he stops at PROP-01, the glass terrarium, and leans in — slow push-in over his shoulder; 24–30s his hand unlatches the lid, hold on the opening seam.
+Characters only gesture, they do not talk.
+AUDIO: soft HVAC room tone, footsteps on sealed concrete, one metallic latch click, low sparse suspenseful score. Stylized low-poly 3D documentary reconstruction render; simplified geometric human figures with minimal facial detail; clean soft-textured materials; realistic cinematic lighting with soft volumetric shafts; muted desaturated palette with a single amber accent; gentle filmic haze and shallow depth of field; high-end production render; no text, no watermark; 16:9
+
+Attach: CHAR-01, LOC-01, PROP-01 + all extra angles you generated.
+
+
+
+
+Three details in that prompt do the heavy lifting. The SEQUENCE is written in timed beats, which is what lets one generation carry an entire scene — from the badge-in to the latch — instead of stitching five mismatched clips. The AUDIO line means the block arrives with its room tone and score already in it; the narration is the only sound you add later. And the last sentence is the style lock — the same sentence, word for word, that ends every asset prompt in Stage 1. Same references, same lock: three separate generations that read as one film.
+
+
+
+
+Scenes 2 and 3 arrive in the blueprint in exactly the same shape — the contact at the open terrarium with the specimen attached as a reference, then the empty lab at 09:14 with the badge left on the bench — each one a single block with its own attach list.
+
+
+
+
+And the second style isn't a new pipeline, it's the same loop. The skill outputs the map and overlay assets — MAP-01 and the OVL prompts above — plus one continuous search-sequence prompt, and a single block returns the flight path drawing itself, the radar sweeping, a ping expanding, and the search grid crawling across the water.
+
+Stage 4 — The Voice
+
+The narration is generated in the Audio tab with SeedAudio. Start from a deep, neutral, low male read with minimal warmth — or clone your own. Slow the delivery slightly below default, lower the pitch a notch, and keep the volume even; the goal is someone reading evidence into the record, not a movie trailer. Generate the calibration sentence a few different ways, changing one dial at a time, until it sounds right:
+
+09:14. The motion sensor above bench four triggers twice, nine seconds apart.
+
+Then generate the full script as one take and save the voice as an asset. It's now part of the channel's identity, same as the characters and locations — from this point on, every episode sounds the same.
+
+August ninth. 08:41. A research intern signs into the east genetics lab — his eleventh visit that summer. The log records nothing unusual. One enclosure, specimen 8-C, is marked for transfer. The camera above the door records the next four minutes in full.
+
+08:45. The lid stands open for forty seconds. At 08:46, specimen 8-C makes contact with the individual's left hand. The contact lasts three seconds. It is not logged. He signs out at 08:49, four minutes after reaching the bench. He does not reseal the enclosure. He does not report the contact. For twenty-five minutes, nothing in the lab moves.
+
+09:14. The motion sensor above bench four triggers twice, nine seconds apart. There is no one on camera. The enclosure is empty. The specimen is not found in the lab that day, or any day after. The intern reports a fever that evening. He returns once, two weeks later, for his badge. Specimen 8-C remains listed as missing. The file remains open.
+Ready To Make Your Own?
+
+The full film is three 30-second generations, so the edit is mostly assembly: blocks in order, narration over the top with the native audio ducked underneath, small monospaced timestamp overlays in the corner, and a longer hold on the push-ins where the evidence needs a beat.
+
+
+
+
+From there it's a format, not a one-off. Change one line in Claude and the same pipeline produces the next incident — or, with the second style, an entire search operation. Download the skill and make the first one tonight
+
+fern-documentary.skill
+SKIL
+READY TO MAKE YOUR OWN?
+YES!

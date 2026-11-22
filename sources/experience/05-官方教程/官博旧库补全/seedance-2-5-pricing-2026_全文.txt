@@ -1,0 +1,426 @@
+【项目】Seedance 2.5 Pricing: Full Breakdown of Credits, Plans, and Cost per Clip（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/seedance-2-5-pricing-2026
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Seedance 2.5 Pricing: Full Breakdown of Credits, Plans, and Cost per Clip
+Higgsfield
+Oct 21, 2026
+12 min
+
+The same Seedance 2.5 clip costs different amounts depending on where it’s generated. An 8-second 1080p clip from Seedance 2.5, ByteDance’s video model, costs between $6.27 and $13.06 on the cheapest plan that includes it across Dreamina, Higgsfield, Runway, OpenArt, and Magnific. The price differs because each platform bills the model from its own credit pool, so the cost comes down to the platform’s credit rate and how many credits one generation draws.
+
+What Determines the Cost of a Seedance Clip?
+
+Four settings move the number on every platform:
+
+Resolution. Seedance 2.5 generates at 480p, 720p, and 1080p. Resolution is one of the biggest cost levers. On Higgsfield, an 8-second clip draws 128 credits at 1080p, 56 at 720p, and 24 at 480p, so a 480p draft costs about a fifth of a 1080p final.
+Clip length. Billed proportionally, though not always smoothly. Some platforms quote per clip, others per second or per 4-second block.
+Generation mode. Generation mode or model variant also changes the rate. Draft, Fast, and Mini options are available on different Seedance versions and platforms, so compare the exact mode you plan to use.
+Audio and reference inputs. Included by default on some platforms, billed on top on others. Runway, for example, adds 34 credits per second of input video at 1080p.
+
+There is also a fifth thing to know before comparing anything: credits are worth different amounts on different platforms. Magnific bills 8,800 credits for the same clip that draws 128 on Higgsfield, and the two land about $2.50 apart once converted.
+
+Each cost is measured the same way: 1080p, 8 seconds, 16:9, text-to-video, native audio enabled, with no input-video reference, monthly billing, using the credit rate of the cheapest plan on each platform that includes Seedance 2.5. Every clip count assumes the generation succeeds on the first try.
+
+All comparisons use regular recurring monthly plan prices and non-promotional generation rates. Temporary first-month discounts and limited-time model promotions are excluded unless specifically noted. Prices and generation rates checked October 20, 2026.
+
+What Does One Seedance 2.5 Clip Cost on Each Platform?
+
+A 1080p 8-second Seedance 2.5 clip costs between $6.27 and $13.06, depending on the platform, on the cheapest plan that includes the model. Higgsfield has the lowest cost per clip and Runway the highest.
+
+What Does One Seedance 2.5 Clip Cost on Each Platform?
+
+Platform
+
+	
+
+Cheapest plan with Seedance 2.5
+
+	
+
+Credits in plan
+
+	
+
+Credits per clip (1080p, 8s)
+
+	
+
+Cost per clip
+
+	
+
+Clips per month
+
+
+
+
+Dreamina
+
+	
+
+Basic, $15
+
+	
+
+1,575
+
+	
+
+728
+
+	
+
+$6.93
+
+	
+
+~2
+
+
+
+
+Higgsfield
+
+	
+
+Plus, $49
+
+	
+
+1,000
+
+	
+
+128
+
+	
+
+$6.27
+
+	
+
+~7
+
+
+
+
+Runway
+
+	
+
+Standard, $15
+
+	
+
+625
+
+	
+
+544
+
+	
+
+$13.06
+
+	
+
+~1
+
+
+
+
+OpenArt
+
+	
+
+Starter, $14
+
+	
+
+4,000
+
+	
+
+2,565
+
+	
+
+$8.98
+
+	
+
+~1
+
+
+
+
+Magnific
+
+	
+
+Premium, $20
+
+	
+
+20,000
+
+	
+
+8,800
+
+	
+
+$8.80
+
+	
+
+~2
+
+Credits per clip are taken from each platform’s generator or published rates in October 2026, with audio on where the platform offers it. Cost per clip = plan price ÷ plan credits × credits per clip.
+
+Plan price matters as much as cost per clip, because the plans are not priced alike. Seedance 2.5 starts at $14 on OpenArt and at $49 on Higgsfield. The most expensive entry plan in the group delivers both the lowest cost per clip and the most clips per month. Compare platforms across a whole row, not down a single column.
+
+How many clips a month you get depends on plan price divided by cost per clip. The number of credits in a plan tells you little on its own. Magnific’s 20,000 credits cover 2 clips, while Higgsfield’s 1,000 cover 7, because a credit is worth a different amount on each platform. Runway pairs the highest rate with a $15 plan, so its entry tier covers a single 1080p clip. Four of the five entry plans run out after one or two clips at this resolution. If you need more than that, compare plans one tier up, where the rates drop: about $5.44 on Runway Max and $5.50 on Higgsfield Ultra.
+
+Seedance 2.5 vs Seedance 2.0: What’s the Price Difference?
+
+Four of the five platforms raised the draw for the new model. One lowered it.
+
+Seedance 2.5 vs Seedance 2.0: What’s the Price Difference?
+
+Platform
+
+	
+
+Seedance 2.0
+
+	
+
+Seedance 2.5
+
+	
+
+Change
+
+
+
+
+Dreamina
+
+	
+
+328 credits, $3.12
+
+	
+
+728 credits, $6.93
+
+	
+
+2.2x
+
+
+
+
+Higgsfield
+
+	
+
+96 credits, $4.70
+
+	
+
+128 credits, $6.27
+
+	
+
+1.3x
+
+
+
+
+Runway
+
+	
+
+320 credits, $7.68
+
+	
+
+544 credits, $13.06
+
+	
+
+1.7x
+
+
+
+
+OpenArt
+
+	
+
+1,600 credits, $5.60
+
+	
+
+2,565 credits, $8.98
+
+	
+
+1.6x
+
+
+
+
+Magnific
+
+	
+
+11,200 credits, $11.20
+
+	
+
+8,800 credits, $8.80
+
+	
+
+0.79x
+
+The increase is large enough to change which platform is cheapest. On Seedance 2.0, Dreamina had the lowest cost per clip at $3.12 and Higgsfield came second at $4.70. On Seedance 2.5 the order flips: Higgsfield is cheapest at $6.27 and Dreamina second at $6.93, because Dreamina’s draw more than doubled while Higgsfield’s rose by a third. A budget carried over from 2.0 will be short almost everywhere.
+
+What Does Seedance 2.5 Cost on Dreamina?
+
+Dreamina’s Basic plan is $15 a month for 1,575 credits, with a $1.50 introductory first month in some countries. A 1080p 8-second Seedance 2.5 clip draws 728 credits, which comes to $6.93 and about 2 clips before the pool is spent.
+
+That is a jump of a little over two times against Seedance 2.0, where the same settings draw 328 credits and allow around 4 clips on the same plan. It is the steepest version-to-version increase of the five.
+
+The model family gives some room to manage that. Seedance 2.0 Mini draws 88 credits for the same settings during the current promotion (144 at the regular rate), about $0.84, which makes it the practical choice while a prompt is still being worked out.
+
+Higher tiers buy a larger pool more than a lower rate: on the Ultra plan ($520 for 59,000 credits) a 2.5 clip comes to about $6.42 at the standard draw. Dreamina advertises extra Seedance 2.5 credit savings on Standard and above, quoted at 720p.
+
+Every paid plan, including Basic, includes watermark removal, resolution upscaling, frame rates up to 60 FPS, and lip sync audio generation. For fixing part of a clip, Dreamina’s interface offers Edit segment, a retake of any moment, and Smart edit.
+
+What raises the cost here:
+
+Seedance 2.5 draws more than twice what 2.0 does at identical settings
+1080p output is marked as a premium feature in the generator
+Seedance is not available in every region, and availability can change without notice
+How Much Is Seedance 2.5 on Higgsfield?
+
+Seedance 2.5 starts on Higgsfield’s Plus plan, $49 a month for 1,000 credits ($39 a month billed annually). A 1080p 8-second clip draws 128 credits, which comes to $6.27 and about 7 clips a month. The Starter plan below it includes Seedance 2.0 Fast and 2.0 Mini, but not Seedance 2.5.
+
+On Seedance 2.0 the same clip draws 96 credits, or $4.70, and allows about 10 clips.
+
+Resolution is one of the biggest cost levers here. The same clip draws 56 credits at 720p ($2.74) and 24 credits at 480p ($1.18), which takes the same plan from 7 clips a month at 1080p to 17 at 720p and 41 at 480p.
+
+Drafting at 480p and rendering at 1080p once a shot is approved is the simplest way to stretch a month.
+
+Ultra is available with 3,000, 6,000, or 9,000 monthly credits. At the current monthly prices of $129, $220, and $310, the larger Ultra tiers both increase the generation allowance and lower the effective cost per credit.
+
+The pool is not reserved for Seedance. The same credits run Higgsfield’s other image, video, and audio models.
+
+Seedance runs inside Higgsfield’s own tooling rather than as a standalone generator: Cinema Studio handles camera and lens control, and a generation can pull in characters trained through Soul ID or assets built in GPT Image and Nano Banana Pro without leaving the suite.
+
+What raises the cost here:
+
+Seedance 2.5 is not on the Starter plan, so the entry point for the model is $49, above the entry price on the other four platforms
+Premium models draw the shared pool faster than lower-cost ones, and the same balance covers every model
+Unlimited Seedance 2.5 is currently advertised at 720p on Scale
+How Is Seedance 2.5 Priced on Runway?
+
+Runway’s current Standard, Pro, and Max plans meter Seedance 2.5 through credits. Runway’s Standard plan is $15 a month for 625 credits. A 1080p 8-second Seedance 2.5 clip draws 544 credits, which comes to $13.06 and a single clip a month.
+
+Legacy Unlimited subscribers may still have Explore Mode temporarily, but Max is replacing that plan.
+
+On Seedance 2.0, listed by Runway as Seedance 2.0 Pro at 1080p, the same clip draws 320 credits (160 per 4 seconds), or $7.68. At 1080p the new model costs 1.7 times as much as the old one.
+
+Runway has the highest rate in the group, but the draw itself is not the reason. At 544 credits, Seedance 2.5 costs fewer credits here than on Dreamina, OpenArt, or Magnific. What raises the figure is the credit rate on the Standard plan.
+
+The rate drops sharply further up. A 2.5 clip runs about $8.46 on Pro ($35 for 2,250 credits) and about $5.44 on Max ($95 for 9,500 credits), roughly 40% of the Standard rate, the widest gap between entry and top tier of the five.
+
+The Standard plan works better as a way to try the platform than to produce on it. Monthly credits do not roll over on Standard and Pro, so an unused pool is lost at renewal, while Max rolls up to one month of unused credits forward.
+
+What the higher price buys is editing: Aleph 2.0 in Edit Studio changes a frame and applies the edit across the whole clip.
+
+What raises the cost here:
+
+Highest cost per clip in the group, about twice the lowest rate
+Input video references add 34 credits per second at 1080p
+Monthly credits do not roll over except on Max
+How Many Credits Does Seedance 2.5 Use on OpenArt?
+
+A 1080p 8-second Seedance 2.5 clip with audio draws 2,565 credits on OpenArt. The Starter plan is $14 for 4,000 credits, which puts the clip at $8.98 and the month at a single clip. On Seedance 2.0 the same clip draws 1,600 credits, or $5.60, and allows about 2.
+
+OpenArt’s credit numbers are large, but the dollar cost per clip is close to the others. The large numbers also make the plan estimates worth reading carefully. Starter advertises up to about 50 videos, but that count is not based on Seedance 2.5 at 1080p. One clip is the realistic figure for Seedance 2.5 at 1080p on the same plan.
+
+The rate improves more than most further up. The Wonder plan ($240 for 106,000 credits) brings a 2.5 clip to about $5.81, so upgrading here lowers the cost of everything generated rather than only raising the ceiling. Extra credits are available as a monthly add-on from the Plus plan, at $15 for 5,000 credits, and they work like subscription credits.
+
+What raises the cost here:
+
+Commercial use rights begin on the Plus plan, so client work cannot run on Starter
+Extra credits cannot be added on Starter, so the only route past the ceiling there is upgrading
+Unlimited generation applies only to Pro and Wonder, and only to the models OpenArt is promoting at the time
+How Does Magnific Bill Seedance 2.5?
+
+Magnific’s Premium plan is $20 a month for 20,000 credits (240,000 a year). Seedance is billed per 4 seconds, at 4,400 credits per block on Seedance 2.5 at 1080p, so an 8-second clip draws 8,800. That comes to $8.80 and about 2 clips a month.
+
+Credits are valid for a year rather than resetting monthly, so the 2 clips a month can be spread unevenly.
+
+On Seedance 2.0 at 1080p the block rate is 5,600 credits, so the same clip draws 11,200, or $11.20, and covers 1 clip. Magnific is the only platform of the five where 2.5 costs less than 2.0 at this resolution.
+
+Billing per block rather than per second changes how length is planned. A 5-second clip rounds up to two blocks and costs the same as an 8-second one, so lengths just over a boundary are the expensive ones.
+
+Magnific publishes per-model rates, which makes the spread inside the Seedance family easy to read in one place. On 2.5 at the Premium rate, an 8-second clip costs about $1.60 on Draft at 480p, $3.52 at 720p, and $8.80 at 1080p. Same platform, same length, roughly a five-and-a-half-times difference driven by mode and resolution alone.
+
+Higher tiers lower the rate only slightly: Premium+ ($45 for 50,000 credits a month) brings a 1080p 2.5 clip to about $7.92. Top-ups are available on every plan.
+
+The built-in upscaler takes a render up to 4K in the same workspace, and generations can be chained into longer sequences without moving files elsewhere.
+
+What raises the cost here:
+
+Billing runs per 4-second block, so clip lengths round up
+The credit rate improves only slightly on higher tiers, so volume buys a larger pool more than a lower price
+Unlimited generation covers selected models, not Seedance.
+What Does a Finished Video Actually Cost?
+
+The rate covers one generation. For example, suppose a 30-second edit uses four roughly 8-second shots. If each approved shot takes three generations, that is twelve generations in total. That puts a finished 1080p video between about $75 and $157 across these five platforms. This is an iteration example, not a fixed cost for every 30-second Seedance video. None of the five entry plans covers it: the largest, Higgsfield Plus, runs out after 7 generations.
+
+Two things change that ratio. The first is how corrections are handled. Dreamina’s Edit segment retakes a single moment of a clip rather than the whole generation. Where that is available, fixing one face or one object does not mean paying for the whole clip again.
+
+The second is how the platform bills iteration at all. Each new generation draws credits again at the applicable settings. An unlimited window removes the per-attempt cost for a fixed period, which changes what iteration costs rather than what a clip costs. For work that is mostly finished shots, the rate is the number to watch. For work that is mostly iteration, the length of an unlimited window matters more than the rate does.
+
+What Is the Cheapest Way to Access Seedance 2.5?
+
+The cheapest route depends on whether you are testing a prompt, producing a few clips, or generating steadily.
+
+Free, with limits:
+
+Dreamina’s free account gives a 120-credit balance, less than one 1080p Seedance 2.5 clip draws.
+OpenArt offers a 40-credit trial for 7 days.
+Runway’s free plan grants 125 one-time credits, against 544 for one 1080p clip.
+
+These free or trial balances are mainly useful for testing rather than sustained 1080p production. Dreamina refreshes its free allowance daily, OpenArt offers a short trial balance, and Runway provides 125 one-time credits.
+
+Spending less per generation:
+
+Dropping the resolution for drafts. On Higgsfield an 8-second clip draws 24 credits at 480p against 128 at 1080p, roughly $1.18 against $6.27, which takes the same plan from 7 clips a month to 41. On Magnific, Seedance 2.5 Draft at 480p costs about $1.60 against $8.80 at 1080p.
+Switching modes. Dreamina’s Seedance 2.0 Mini draws 88 credits at 1080p during the current promotion (144 at the regular rate) against 328 for standard 2.0 and 728 for 2.5. Mode availability on 2.5 varies by platform.
+
+Unlimited access, for sustained iteration:
+
+Higgsfield currently advertises a 30-day unlimited Seedance 2.5 window at 720p on Scale. Separate Unlimited Models Marketplace passes are also available.
+Runway’s current Standard, Pro, and Max plans meter Seedance 2.5 through credits. Legacy Unlimited subscribers may still have Explore Mode temporarily, but Max is replacing that plan.
+
+One thing to check before generating on Higgsfield: the Unlimited toggle has to be switched on in the model menu. With it off, the generation spends credits as usual even when unlimited access is active.
+
+When Does an Unlimited Window Cost Less Than Credits?
+
+It comes down to how many clips you generate during it. The $49 Plus plan covers 7 clips a month at 1080p on credits. Additional generations or alternatives increase the total credit use. The 30-second video described earlier needs twelve generations, so a month of credits covers a little over half of one. During an unlimited window the number of attempts stops mattering, and what is left to plan around is clip length and resolution. To find the break-even point, divide the window price by $6.27, the credit cost of one 1080p clip on Plus. If you expect to run more generations than that during the window, unlimited costs less. Compare the window price with your normal cost per generation before upgrading.
+
+SEEDANCE 2.5 PRICING: FULL BREAKDOWN OF CREDITS, PLANS, AND COST PER CLIP
+Try Seedance 2.5

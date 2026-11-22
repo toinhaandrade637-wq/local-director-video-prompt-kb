@@ -1,0 +1,188 @@
+【项目】How to Generate Images, Voice, and Edit AI Video in One Place: The Higgsfield Workflow（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/generate-voice-edit-ai-video-one-place
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+How to Generate Images, Voice, and Edit AI Video in One Place: The Higgsfield Workflow
+Higgsfield
+Sep 2, 2026
+10 min
+
+Generating a full video and editing it in one place starts with picking the right tools for the project, then building everything up from there step by step. Reference images come first, followed by the audio track that sets the pacing. From there, a prompt pulls both together to generate the video, with editing handled right afterward, all inside Higgsfield.
+
+How Many Tools Do I Need to Make an AI Video?
+
+A single finished video usually passes through four or five separate tools: one for reference images, one for audio, one for the video generation itself, and one more to fix whatever comes out wrong. Sometimes a final tool gets added just to stitch everything back together.
+
+It gets trickier when those four or five tools live on different platforms. Every export between them costs a little consistency, a voice that stops matching the character, a color grade that shifts, a reference that reads slightly differently once it lands in the next app. What should be one continuous process turns into a chain of handoffs, each one a chance for something to drift.
+
+Which Tools Are Available on Higgsfield?
+
+Higgsfield is a creative suite built around 30+ models, spanning image, video, and audio generation in one account. For a connected workflow like this one, four tools cover the whole path:
+
+Image: Recraft or Soul, for design work or character consistency.
+Voice: Seed Audio, for dialogue, narration, or music.
+Video: Cinema Studio or Seedance, depending on how much direct camera control the shot needs.
+Edit: Genjutsu, for changing a specific detail in a generated clip without a reshoot.
+
+To choose the right model or tool, read our articles: Which AI model should I use? and Which Higgsfield tool should I use?
+
+Full Workflow: Generating in One Place
+
+Step 1: Open Higgsfield AI and pick the tools for the workflow. Which audio, video, and editing models fit the project.
+
+Step 2: Generate the reference image. A character, product, or location shot to guide the rest of the generation.  
+
+Step 3: Generate the audio. Build the voiceover, dialogue, or music track first, through Seed Audio 1.0 or another available audio model. Starting with audio matters, the pacing often dictates how long a shot needs to hold, and building video around a track that already exists keeps the two in sync from the start.
+
+00:10
+
+Step 4: Write the prompt and generate the video. Bring in the audio and reference from the steps above, then generate through Seedance 2.5 or another video model. 
+
+Step 5: Edit through Higgsfield Genjutsu. A generated clip rarely comes out perfect on the first pass. Describe what needs to change, or pick from 30+ presets, and the rest of the shot stays exactly as it was.  
+
+Step 6: Review and export. Confirm the fix landed cleanly, then export in the format the final placement needs.
+
+Pricing Breakdown for One Video
+
+A single video generated end to end runs through four separate costs, the audio track, the video generation itself, and any edit passes.
+
+Pricing Breakdown for One Video
+
+Stage
+
+	
+
+Model
+
+	
+
+Settings
+
+	
+
+Credits
+
+	
+
+Approx. Cost
+
+
+
+
+Reference Image
+
+	
+
+Recraft V4.1
+
+	
+
+4K
+
+	
+
+4
+
+	
+
+$0.20
+
+
+
+
+Audio
+
+	
+
+Seed Audio 1.0
+
+	
+
+10 sec, MP3
+
+	
+
+12
+
+	
+
+$0.60
+
+
+
+
+Video
+
+	
+
+Seedance 2.5
+
+	
+
+10 sec, 1080p
+
+	
+
+90
+
+	
+
+$4.50
+
+
+
+
+Editing
+
+	
+
+Higgsfield Genjutsu
+
+	
+
+Object Swap
+
+	
+
+99
+
+	
+
+$4.95
+
+
+
+
+Total
+
+	
+
+-
+
+	
+
+-
+
+	
+
+205 credits
+
+	
+
+$10.25
+
+Who This Is For
+
+Marketers producing ad variations get the most direct benefit, voice, video, and edits all coming from the same account, not three separate subscriptions and an export step between each on every revision.
+
+Agencies managing several client projects at once need a pipeline that stays predictable from client to client. A consistent workflow across audio, video, and editing means the process doesn't change every time a new brand comes in, only the inputs do.
+
+Social content creators need to move from an idea to a finished, edited clip quickly, without a separate editing pass in another app eating into the time a fast-turnaround post has.
+
+Solo entrepreneurs building out their own content without a production team get the most out of consolidating what would otherwise take three separate tools and three separate learning curves into one account.
+
+HOW TO GENERATE IMAGES, VOICE, AND EDIT AI VIDEO IN ONE PLACE: THE HIGGSFIELD WORKFLOW
+Try the Full Workflow

@@ -1,0 +1,6 @@
+{
+  "name": "@skill/fountain-screenplay",
+  "version": "1.1.3",
+  "description": "专业剧本格式：工作区里带场次轨和台词块的 .fountain。用户要「新建一个剧本」「新建剧本」「建一份专业剧本」、点名专业剧本格式或 .fountain、或正在改已有 .fountain 时调用。不用于分析、改写或视频工作流；未点名格式的「写剧本」不是本技能。",
+  "private": true
+}

@@ -1,0 +1,997 @@
+{
+ "generated": "2026-11-05",
+ "hit": 164,
+ "miss_total": 4,
+ "miss": [
+  "AI_FILM_FESTIVAL_A_PROPER_WOMAN_S_GUIDE_TO_MONSTER",
+  "ANERNEQ",
+  "HIGGSFIELD_ACADEMY_ASKAR",
+  "VENGEANCE_IS_MINE"
+ ],
+ "pids": {
+  "333": {
+   "folder": "58875109-9a2d-4eaa-b1dc-a83ad9be3c86",
+   "uuid": null,
+   "slug": "333",
+   "处": 1
+  },
+  "9091": {
+   "folder": "bc6b9357-fe63-4a52-906b-02498268824c",
+   "uuid": null,
+   "slug": "9091-ai-film-festival",
+   "处": 1
+  },
+  "100_MILLION_RAT": {
+   "folder": "4e1a96ba-b689-472b-bee8-66f84e21fc82",
+   "uuid": null,
+   "slug": "100-million-rat",
+   "处": 1
+  },
+  "14_DAYS": {
+   "folder": "e3d0e502-6114-4009-90ee-7d995c760a49",
+   "uuid": null,
+   "slug": "14-days",
+   "处": 1
+  },
+  "1916_WORLD_WAR": {
+   "folder": "2b8d96f7-c561-4499-8599-f30194bd06e0",
+   "uuid": null,
+   "slug": "1916-ww",
+   "处": 1
+  },
+  "AA_MEETING": {
+   "folder": "ef933c12-ebb6-476b-b824-39a2574047d9",
+   "uuid": null,
+   "slug": "aa-meeting",
+   "处": 1
+  },
+  "AFTER_HOURS": {
+   "folder": "f5b1e5c9-e1e3-4cec-bae3-f95f062d81e5",
+   "uuid": null,
+   "slug": "afterhours",
+   "处": 1
+  },
+  "AND_STILL_LIFE": {
+   "folder": "5d063207-8480-43d6-bd24-73cc3067f331",
+   "uuid": null,
+   "slug": "and-still-life",
+   "处": 1
+  },
+  "APEIROPHOBIA": {
+   "folder": "803b582d-ad05-44ac-9c5d-3c1ad2eeb00d",
+   "uuid": null,
+   "slug": "apeirophobia-teaser",
+   "处": 1
+  },
+  "APOCALYPSE_SQUAD": {
+   "folder": "0b4e2fc8-566d-4453-9860-061db2eee8ee",
+   "uuid": null,
+   "slug": "apocalypse-squad",
+   "处": 1
+  },
+  "ARKYN": {
+   "folder": "ead5b749-225c-407c-b30a-de23fd1ef608",
+   "uuid": null,
+   "slug": "arkyn",
+   "处": 1
+  },
+  "ASHES_OF_FREEDOM": {
+   "folder": "1068fa5c-9d36-4d08-a21a-db77884a2571",
+   "uuid": null,
+   "slug": "ashes-of-freedom",
+   "处": 1
+  },
+  "ATHERIA": {
+   "folder": "c4d525ac-ef2b-461e-8d79-fb45822066dd",
+   "uuid": null,
+   "slug": "aetheria-i",
+   "处": 1
+  },
+  "AZTEC_REVOLT_ESCAPING_TENOCHTITLAN": {
+   "folder": "64daf4b2-e174-46a1-85a6-7bb2c32dac23",
+   "uuid": null,
+   "slug": "la-noche-triste",
+   "处": 1
+  },
+  "A_LIFE": {
+   "folder": "a706ec89-fa44-48ae-abf8-aa50c33fccf6",
+   "uuid": null,
+   "slug": "a-life",
+   "处": 1
+  },
+  "A_LONG_LUNCH": {
+   "folder": "900b6b3b-07a2-4d93-a505-72a864a94660",
+   "uuid": null,
+   "slug": "a-long-lunch",
+   "处": 1
+  },
+  "A_YEAR_LATER": {
+   "folder": "81c6d91f-30ab-4d1c-98f6-79e55db3bb69",
+   "uuid": null,
+   "slug": "a-year-later",
+   "处": 1
+  },
+  "BEHIND_THE_LENS": {
+   "folder": "9bb98d21-11c8-4dc2-a50d-e5d792b13fa0",
+   "uuid": null,
+   "slug": "behind-the-lens",
+   "处": 1
+  },
+  "BIOSCOPE": {
+   "folder": "546cad9b-4297-4fb6-8d54-160e7254cd5e",
+   "uuid": null,
+   "slug": "ai-film-festival",
+   "处": 1
+  },
+  "BLACKPINE": {
+   "folder": "fa45ecde-17ca-4e8c-8567-51282db1e3d6",
+   "uuid": null,
+   "slug": "blackpine",
+   "处": 1
+  },
+  "BLESTYASHCHEE_NEVEZHESTVO": {
+   "folder": "495ea19d-d0f7-4313-8bb9-2aff35e11cfa",
+   "uuid": null,
+   "slug": "blestyashchee-nevezhestvo",
+   "处": 1
+  },
+  "BRAMBLE": {
+   "folder": "d9d43cae-4d0c-4c50-9531-bd1bf2f2f066",
+   "uuid": null,
+   "slug": "bramble",
+   "处": 1
+  },
+  "BRATIX": {
+   "folder": "1e74e880-3661-4e5c-978f-7c2c5caf9e35",
+   "uuid": null,
+   "slug": "bratix",
+   "处": 1
+  },
+  "BREATH": {
+   "folder": "ed2a9032-29c5-4ead-9154-b8399071003e",
+   "uuid": null,
+   "slug": "breath",
+   "处": 1
+  },
+  "BUCK": {
+   "folder": "c2864e02-1796-453b-8c95-cf25b074b0a7",
+   "uuid": null,
+   "slug": "hosts",
+   "处": 1
+  },
+  "CAMEL": {
+   "folder": "51c8019f-c7d5-4f2d-8fd9-be02bb79f7df",
+   "uuid": null,
+   "slug": "camel",
+   "处": 1
+  },
+  "CAMPING": {
+   "folder": "9c2f8815-1387-4372-b35b-4aa0a94b306b",
+   "uuid": null,
+   "slug": "camping",
+   "处": 1
+  },
+  "CHORNOS_THE_CHOSEN": {
+   "folder": "84ff67f9-8eaa-4309-9fa9-cb4db7faf0c9",
+   "uuid": null,
+   "slug": "chornos-the-chosen",
+   "处": 1
+  },
+  "CLEAR_INTENTION": {
+   "folder": "14fc0b29-b200-41b0-ac2f-912a49b29557",
+   "uuid": null,
+   "slug": "ai-film-festival-clear-intention",
+   "处": 1
+  },
+  "DEAD_ALIVE": {
+   "folder": "298d5e40-bbdb-4685-9920-8fdea6537253",
+   "uuid": null,
+   "slug": "dead-alive",
+   "处": 1
+  },
+  "DEAD_WATER": {
+   "folder": "741bd0ae-a56c-45e7-81fc-87e3a443bb62",
+   "uuid": null,
+   "slug": "dead-water",
+   "处": 1
+  },
+  "DEATH_CAME_TO_DINNER": {
+   "folder": "262246ce-a952-44b7-b212-9973a559e819",
+   "uuid": null,
+   "slug": "death-came-to-dinner",
+   "处": 1
+  },
+  "DEEP_CLEAN": {
+   "folder": "0cbe1230-7d33-43e0-8422-ea2961b2e440",
+   "uuid": null,
+   "slug": "deep-clean",
+   "处": 1
+  },
+  "DEMENTIA": {
+   "folder": "5fb2f0b7-5ad9-4e1f-851b-cd35632f6893",
+   "uuid": null,
+   "slug": "ai-film-festival-the-beqqart-project",
+   "处": 1
+  },
+  "DREAMER_THE_OTHER_YOU": {
+   "folder": "f7c793c9-63fb-41e6-9054-b01369f2720a",
+   "uuid": null,
+   "slug": "dreamer",
+   "处": 1
+  },
+  "EASY_TARGET": {
+   "folder": "c2170e71-1c01-458e-a2fa-cf08a66d520f",
+   "uuid": null,
+   "slug": "easy-target",
+   "处": 1
+  },
+  "ECLIPSE": {
+   "folder": "83a529ea-7ae4-4ebc-88e3-23176645f863",
+   "uuid": null,
+   "slug": "eclipse",
+   "处": 1
+  },
+  "EDEN": {
+   "folder": "0a7691f6-9d6b-4dc7-906a-be93aed7a37a",
+   "uuid": null,
+   "slug": "ai-film-festival",
+   "处": 1
+  },
+  "FLY": {
+   "folder": "f0179f7d-2176-4f88-8f53-e9ce5ec7fc1d",
+   "uuid": null,
+   "slug": "a-fly-in-the-room",
+   "处": 1
+  },
+  "FOUND_ME": {
+   "folder": "f45d51f9-87c2-4a05-bc27-35cb25e1aea6",
+   "uuid": null,
+   "slug": "found-me",
+   "处": 1
+  },
+  "GLITCH_DAY": {
+   "folder": "ec46a112-1e89-4cc8-8108-13583ba81bfb",
+   "uuid": null,
+   "slug": "glitch-day",
+   "处": 1
+  },
+  "GREEN_FLAG": {
+   "folder": "41b6258a-4f19-4cdf-8a29-2ed1c692472c",
+   "uuid": null,
+   "slug": "green-flag",
+   "处": 1
+  },
+  "H2O": {
+   "folder": "c442cc87-90ac-4d11-9dc9-269949785e0f",
+   "uuid": null,
+   "slug": "h2o",
+   "处": 1
+  },
+  "HERO": {
+   "folder": "4fbcd188-8485-4f79-90a6-207b8c07b0ed",
+   "uuid": null,
+   "slug": "hero",
+   "处": 1
+  },
+  "HERU_OUTSIDE_THE_FEED": {
+   "folder": "09650256-6a52-4e34-805c-81cf78b1db55",
+   "uuid": null,
+   "slug": "heru-out-of-his-time",
+   "处": 1
+  },
+  "HIGH_SCHOOL_TERROR": {
+   "folder": "45a1c44c-2ff6-4001-a653-796982057e88",
+   "uuid": null,
+   "slug": "high-school-terror",
+   "处": 1
+  },
+  "HONOR": {
+   "folder": "540a9c00-6b93-4d8f-aa29-dc2192b192d4",
+   "uuid": null,
+   "slug": "honnor",
+   "处": 1
+  },
+  "HOPE": {
+   "folder": "9304208c-ff8a-4fd5-bda6-b2f705960bbb",
+   "uuid": null,
+   "slug": "hope",
+   "处": 1
+  },
+  "HORSELESS": {
+   "folder": "fe8688fb-683e-434e-94a5-d54eb55981c6",
+   "uuid": null,
+   "slug": "the-horseless-carriage-1499",
+   "处": 1
+  },
+  "HUMAN_ERROR": {
+   "folder": "a6539e55-fb52-47b5-b907-881e3f2f15c5",
+   "uuid": null,
+   "slug": "human-error",
+   "处": 1
+  },
+  "HWANDO_SEOL": {
+   "folder": "2c5b9eb7-c43e-4ed8-9d76-830ddfb7433a",
+   "uuid": null,
+   "slug": "hwando-seol",
+   "处": 1
+  },
+  "ICONIC_BETA": {
+   "folder": "24576dbb-e840-4488-8da0-cc5c811205d4",
+   "uuid": null,
+   "slug": "ai-film-festival-iconic-beta",
+   "处": 1
+  },
+  "INDIGO": {
+   "folder": "965af137-83e5-4a20-9519-c140c45947ba",
+   "uuid": null,
+   "slug": "indigo",
+   "处": 1
+  },
+  "IN_S": {
+   "folder": "1cd7b3e5-dc76-419e-8f97-8f80bd492d81",
+   "uuid": null,
+   "slug": "ines",
+   "处": 1
+  },
+  "IT_S_ME": {
+   "folder": "7bebd46d-8806-4cc8-aaa8-5348c4bc9ce5",
+   "uuid": null,
+   "slug": "me",
+   "处": 1
+  },
+  "KADHAA_2155": {
+   "folder": "b3081b91-4767-43be-95e2-172563257d43",
+   "uuid": null,
+   "slug": "kadhaa-2155",
+   "处": 1
+  },
+  "KARKINOS": {
+   "folder": "e74306d3-5dfb-45e5-8550-4daaacc37f57",
+   "uuid": null,
+   "slug": "karkinos",
+   "处": 1
+  },
+  "KARNA": {
+   "folder": "35fb1d14-ef06-4a0a-8436-124204133f0b",
+   "uuid": null,
+   "slug": "karna",
+   "处": 1
+  },
+  "KNOCK_KNOCK_KNOCK": {
+   "folder": "ed9f4f5f-8981-4ded-8581-6475d6b609a9",
+   "uuid": null,
+   "slug": "knock-knock-knock",
+   "处": 1
+  },
+  "LONG_SIGH": {
+   "folder": "a0692f76-e267-4770-a623-472da8f453ce",
+   "uuid": null,
+   "slug": "long-sigh",
+   "处": 1
+  },
+  "MADSEASON": {
+   "folder": "e3ebb262-4649-4444-8e04-2d10cf37f840",
+   "uuid": null,
+   "slug": "madseason",
+   "处": 1
+  },
+  "MARCEL_S_HEART": {
+   "folder": "ae402654-83d4-47df-8829-a5c889324824",
+   "uuid": null,
+   "slug": "marcel-s-heart",
+   "处": 1
+  },
+  "MARCO_POLO": {
+   "folder": "e2690ee5-29b2-4878-9308-b80cbe030ec1",
+   "uuid": null,
+   "slug": null,
+   "处": 1
+  },
+  "MARIA_MARIA": {
+   "folder": "433ba39d-ecf4-47a3-b0ba-794730553151",
+   "uuid": null,
+   "slug": "mar-a-mar-a",
+   "处": 1
+  },
+  "MARUMAI_25": {
+   "folder": "4269f081-794c-4fed-ae12-407b2f40c67f",
+   "uuid": null,
+   "slug": "marumai-25",
+   "处": 1
+  },
+  "MEMORY_THIEF": {
+   "folder": "ec1d38f7-6b3f-4ed9-bbef-752b7b998a46",
+   "uuid": null,
+   "slug": "ai-film-festival-memory-thief",
+   "处": 1
+  },
+  "MEMORY_WORLD": {
+   "folder": "430d0beb-96d8-4027-92e7-f8805a88b553",
+   "uuid": null,
+   "slug": "memory-world",
+   "处": 1
+  },
+  "MINA_ONE_MORE_LIFE": {
+   "folder": "4bb86a6d-2670-4605-b451-518e71a2b0ce",
+   "uuid": null,
+   "slug": "mina-one-more-life",
+   "处": 1
+  },
+  "MODEL_CITIZEN": {
+   "folder": "e51b668b-f023-402b-af8c-715a865828cc",
+   "uuid": null,
+   "slug": "pay-display",
+   "处": 1
+  },
+  "MORTAL_KOMBAT_ARC_SERIES": {
+   "folder": "a3fec418-60c5-4a5c-a052-9dcf702154cb",
+   "uuid": null,
+   "slug": "mortal-kombat-arc-series",
+   "处": 1
+  },
+  "MY_WAY_NAVILLUS": {
+   "folder": "b8c2f663-97d8-4e9d-8802-2fca7b3663bc",
+   "uuid": null,
+   "slug": "my-way-navillus-teaser",
+   "处": 1
+  },
+  "NAHUAL_A_STORY_FROM_LA_HUASTECA": {
+   "folder": "b7bf2d96-ced0-460c-a833-175aa02645bc",
+   "uuid": null,
+   "slug": "el-poder-del-nahual",
+   "处": 1
+  },
+  "NAMED_FOR_HIM": {
+   "folder": "e5a753cf-6c7c-4d5c-9d60-bedfe0430d37",
+   "uuid": null,
+   "slug": "a-named-for-him",
+   "处": 1
+  },
+  "NAME_IS_COMET": {
+   "folder": "bf0f4400-96c4-4d4e-8655-1adc7a2a5390",
+   "uuid": null,
+   "slug": null,
+   "处": 1
+  },
+  "NATIVE": {
+   "folder": "38a52096-cd4e-4057-97e0-5e3586dcb554",
+   "uuid": null,
+   "slug": "ai-film-festival",
+   "处": 1
+  },
+  "NEUROVERSE_STILL_AGLOW": {
+   "folder": "14244b85-0a3a-4e21-868b-765e7a75d989",
+   "uuid": null,
+   "slug": "neuroverse-still-aglow",
+   "处": 1
+  },
+  "NINE_LIVES_AI_FILM_FESTIVAL": {
+   "folder": "6639e9ca-6753-4a59-990e-0816a50f2df3",
+   "uuid": null,
+   "slug": "nine-lives-ai-film-festival",
+   "处": 1
+  },
+  "NOKU": {
+   "folder": "0f6e8f64-dbc5-475d-a773-210a4771a18c",
+   "uuid": null,
+   "slug": "noku",
+   "处": 1
+  },
+  "NOTHING": {
+   "folder": "d823fab5-59e5-4678-849b-d84fde1a07f2",
+   "uuid": null,
+   "slug": "nothing",
+   "处": 1
+  },
+  "NOT_A_MONSTER_MOVIE_A_ONE_TAKE_FILM": {
+   "folder": "3b45d2b9-f399-45e1-96f7-734ae62a10b6",
+   "uuid": null,
+   "slug": "not-a-monster-movie",
+   "处": 1
+  },
+  "OCEAN": {
+   "folder": "f9311747-fd9d-4188-a8a6-a95334ee13f9",
+   "uuid": null,
+   "slug": "ocean",
+   "处": 1
+  },
+  "OEDIPUS": {
+   "folder": "00552aac-bedf-4030-883d-c850ac511ff8",
+   "uuid": null,
+   "slug": null,
+   "处": 1
+  },
+  "ONCE_A_KITTEN": {
+   "folder": "e375ea2f-aa16-4f6d-a230-cde7ce80fff4",
+   "uuid": null,
+   "slug": "once-a-kitten",
+   "处": 1
+  },
+  "ONE_DAY_AT_A_TIME": {
+   "folder": "9ff68438-46d5-47ad-b6be-5d430cd016f4",
+   "uuid": null,
+   "slug": "one-day-at-a-time",
+   "处": 1
+  },
+  "ONE_THE_MERCY_LEDGER": {
+   "folder": "710821ee-f1e4-43e7-a62e-c28995aa7e72",
+   "uuid": null,
+   "slug": "one-the-mercy-ledger",
+   "处": 1
+  },
+  "ON_THIN_ICE": {
+   "folder": "c25e7b64-2ad4-4bca-b983-d01fe4099bae",
+   "uuid": null,
+   "slug": "on-thin-ice",
+   "处": 1
+  },
+  "OOPS_FIRST_CONTACT": {
+   "folder": "725ab834-e510-47f6-a79e-9439f3401ba5",
+   "uuid": null,
+   "slug": "oops-first-contact",
+   "处": 1
+  },
+  "ORDER_OF_ASH": {
+   "folder": "825fa886-0d8a-4182-9679-bbefa70ada79",
+   "uuid": null,
+   "slug": "order-of-ash",
+   "处": 1
+  },
+  "ORDINARY_DAY": {
+   "folder": "f2cf9c19-33d4-4faa-8368-94be19ba8f36",
+   "uuid": null,
+   "slug": "ordinary-day",
+   "处": 1
+  },
+  "OUT_OF_CREDITS": {
+   "folder": "4c15a415-275d-49b3-96c4-7182e182317c",
+   "uuid": null,
+   "slug": "out-of-credits",
+   "处": 1
+  },
+  "OVERBOARD": {
+   "folder": "b48e86df-e2aa-42db-a11c-4d126e74700a",
+   "uuid": null,
+   "slug": "ai-film-festival",
+   "处": 1
+  },
+  "OVERCLOCK": {
+   "folder": "8d65fb9d-115a-43c7-8b6e-589e0e0c2223",
+   "uuid": null,
+   "slug": "overclock",
+   "处": 1
+  },
+  "PERSISTENCE": {
+   "folder": "05844c9d-5f1f-45b6-b714-7b6ac886b28f",
+   "uuid": null,
+   "slug": "persistence",
+   "处": 1
+  },
+  "PHOTO_IN_PARIS": {
+   "folder": "5f7db093-4b73-4d65-bc26-026f29faa225",
+   "uuid": null,
+   "slug": "photo-in-paris",
+   "处": 1
+  },
+  "PLAY_ANYWAY": {
+   "folder": "ff448882-5eef-470c-88f5-fb6bec12ceb6",
+   "uuid": null,
+   "slug": "play-anyway",
+   "处": 1
+  },
+  "PLUS_INTEREST": {
+   "folder": "05404ad4-2571-43f3-98b5-164aa963c04f",
+   "uuid": null,
+   "slug": "plus-interest",
+   "处": 1
+  },
+  "PON": {
+   "folder": "5b0c56aa-d513-4d80-9779-1584715f2dda",
+   "uuid": null,
+   "slug": "pon",
+   "处": 1
+  },
+  "PROPHECY_IN_2047": {
+   "folder": "96e749d2-58b8-41e8-ad8b-fd9b949d4a69",
+   "uuid": null,
+   "slug": "2047",
+   "处": 1
+  },
+  "QUEEN_NOIR": {
+   "folder": "a73d210c-3461-4b6e-8e65-2fab8f711804",
+   "uuid": null,
+   "slug": "queen-noir",
+   "处": 1
+  },
+  "RAYEN": {
+   "folder": "00bb2a36-ad74-4dcb-b81e-1b6074714211",
+   "uuid": null,
+   "slug": "war-i",
+   "处": 1
+  },
+  "RELIC": {
+   "folder": "6510c418-6e9c-4047-a19e-5ed07da202ef",
+   "uuid": null,
+   "slug": "relic",
+   "处": 1
+  },
+  "REROUTING": {
+   "folder": "341c5826-4863-4030-8c02-17eb6f5310e9",
+   "uuid": null,
+   "slug": "rerouting",
+   "处": 1
+  },
+  "REVELATION": {
+   "folder": "0e41b6e5-aa25-4600-9eda-e101c33c8c49",
+   "uuid": null,
+   "slug": "revelation",
+   "处": 1
+  },
+  "REVOLUTION": {
+   "folder": "a9365ca1-2b04-43e1-923a-e1d5fc876ad7",
+   "uuid": null,
+   "slug": "revolution",
+   "处": 1
+  },
+  "RIFT_RIDER": {
+   "folder": "70dbc1eb-a4c3-415a-8a07-9ab224b7257a",
+   "uuid": null,
+   "slug": "rift-rider",
+   "处": 1
+  },
+  "RISE_OF_AN_EMPIRE_BY_HOUSE_OF_DI_LORENZO": {
+   "folder": "436f8c21-cd6d-4e74-81c2-b6c12f3c73f5",
+   "uuid": null,
+   "slug": "rise-of-an-empire-by-house-of-di-lorenzo",
+   "处": 1
+  },
+  "ROAR": {
+   "folder": "bc0f2fd9-183b-4001-90b0-d3de0ccdc36d",
+   "uuid": null,
+   "slug": "roar",
+   "处": 1
+  },
+  "RUBY": {
+   "folder": "cd237c4a-2027-49dc-9b5e-2c06ba794416",
+   "uuid": null,
+   "slug": "ruby",
+   "处": 1
+  },
+  "SAMPO": {
+   "folder": "24028cdc-677a-422d-8c1a-0f55169a8d37",
+   "uuid": null,
+   "slug": "sampo",
+   "处": 1
+  },
+  "SEA_OF_FOG": {
+   "folder": "c49fb436-5247-4a3a-a6eb-70f94e4613e7",
+   "uuid": null,
+   "slug": "sea-of-fog",
+   "处": 1
+  },
+  "SHARDS_OF_WHEN": {
+   "folder": "172ebad6-da5d-4b3b-bb41-0f6d012e5681",
+   "uuid": null,
+   "slug": "shards-of-when",
+   "处": 1
+  },
+  "SIDE_B": {
+   "folder": "d503cc63-4cf6-4b52-9583-fa7ebd203aaa",
+   "uuid": null,
+   "slug": "side-b",
+   "处": 1
+  },
+  "SIDE_BY_SIDE": {
+   "folder": "d306e677-9800-495c-89ea-e0a673feba03",
+   "uuid": null,
+   "slug": "side-by-side",
+   "处": 1
+  },
+  "SITARA": {
+   "folder": "95cfbc32-b1a4-4b71-b061-3cb8b27668e1",
+   "uuid": null,
+   "slug": "sitara",
+   "处": 1
+  },
+  "SKIN_TRADE": {
+   "folder": "98ca9e2e-4d02-4300-855b-606de6d42364",
+   "uuid": null,
+   "slug": "skin-trade",
+   "处": 1
+  },
+  "SNAP": {
+   "folder": "7785f9a1-bb2f-4f34-a8ec-3421641bd037",
+   "uuid": null,
+   "slug": "snap",
+   "处": 1
+  },
+  "SPANNERGIRL": {
+   "folder": "066b2f5c-1bc2-4f99-abfa-32a64b5103dd",
+   "uuid": null,
+   "slug": "spanner-girl",
+   "处": 1
+  },
+  "STREET_FOOD": {
+   "folder": "ecdfd3bf-64f2-428d-9e07-970a189d4c49",
+   "uuid": null,
+   "slug": "street-food",
+   "处": 1
+  },
+  "STUFFY_SYNTH": {
+   "folder": "7e303b47-370a-4a6c-8d45-351a027ef442",
+   "uuid": null,
+   "slug": "ai-film-festival",
+   "处": 1
+  },
+  "SUMMONED": {
+   "folder": "334428de-72a4-48d7-8fbf-a4f88d0a57a2",
+   "uuid": null,
+   "slug": "summoned",
+   "处": 1
+  },
+  "SUNRISE_THE_PROLOGUE": {
+   "folder": "62a3315e-db92-4eab-b60c-29d95c41d218",
+   "uuid": null,
+   "slug": "sunrise",
+   "处": 1
+  },
+  "SUPER_SENIORS": {
+   "folder": "ad67099e-c2a4-492a-ade7-ed2d52ec87a4",
+   "uuid": null,
+   "slug": "super-seniors",
+   "处": 1
+  },
+  "S_T_E_V_E": {
+   "folder": "dac4fa25-aadf-46bf-a26f-23696b745105",
+   "uuid": null,
+   "slug": "s-t-e-v-e",
+   "处": 1
+  },
+  "TAGE_7": {
+   "folder": "6044817a-02a1-4df5-abf2-6f7d379db704",
+   "uuid": null,
+   "slug": "tage-7",
+   "处": 1
+  },
+  "THE_APPLE": {
+   "folder": "98db336b-4561-42fe-96e5-8258b29f3bfe",
+   "uuid": null,
+   "slug": "the-apple",
+   "处": 1
+  },
+  "THE_BALLOON": {
+   "folder": "2367ec4b-bb48-4bcd-8dd0-fef4cf871b86",
+   "uuid": null,
+   "slug": "the-balloon",
+   "处": 1
+  },
+  "THE_BREACH": {
+   "folder": "42d3e1b7-25e9-4b93-9e04-e4e110763153",
+   "uuid": null,
+   "slug": "the-breach",
+   "处": 1
+  },
+  "THE_COLLECTOR": {
+   "folder": "dbf595a4-9488-41db-871c-b5bc3948c8c1",
+   "uuid": null,
+   "slug": "choking-hazard",
+   "处": 1
+  },
+  "THE_DIVERGION": {
+   "folder": "7e1bbd5b-b456-4d09-af2e-27e3458b147b",
+   "uuid": null,
+   "slug": "divergen",
+   "处": 1
+  },
+  "THE_FESTIVAL": {
+   "folder": "cb64ab82-56e4-4960-ac10-6616126e7265",
+   "uuid": null,
+   "slug": "the-real-prize",
+   "处": 1
+  },
+  "THE_FILTER": {
+   "folder": "b9e29f18-8017-405b-91a1-4123725d38b3",
+   "uuid": null,
+   "slug": "the-filter",
+   "处": 1
+  },
+  "THE_GRAVE": {
+   "folder": "99b2aecf-99b7-4f12-b64a-8d039ab7a9ae",
+   "uuid": null,
+   "slug": "the-grave",
+   "处": 1
+  },
+  "THE_HOST": {
+   "folder": "3a30c400-fc28-4258-9826-b6104c7c0193",
+   "uuid": null,
+   "slug": "the-host",
+   "处": 1
+  },
+  "THE_LAST_BIT": {
+   "folder": "044c6d62-15e1-4953-a248-25a21bbd9c2f",
+   "uuid": null,
+   "slug": "the-last-bit",
+   "处": 1
+  },
+  "THE_LAST_OATH": {
+   "folder": "1d48fb23-d7d5-47a6-8284-376cecddbaf6",
+   "uuid": null,
+   "slug": "the-last-oath",
+   "处": 1
+  },
+  "THE_LAST_RIDE": {
+   "folder": "4fbd6492-5cad-440f-bc6b-30af7763fbba",
+   "uuid": null,
+   "slug": "the-last-ride-festival",
+   "处": 1
+  },
+  "THE_LAST_THING_SHE_HELD": {
+   "folder": "dee69eb6-f3d3-4851-bc31-10cea4ce62dc",
+   "uuid": null,
+   "slug": "the-last-thing-she-held",
+   "处": 1
+  },
+  "THE_LEGEND_OF_VANARA": {
+   "folder": "33a48f67-400f-4fbd-8b10-4b256228fbac",
+   "uuid": null,
+   "slug": "the-legend-of-vanara",
+   "处": 1
+  },
+  "THE_LOCKED_ROOM": {
+   "folder": "d45ea221-4d35-44ca-9a8d-635b32f1884f",
+   "uuid": null,
+   "slug": "the-locked-room",
+   "处": 1
+  },
+  "THE_MOUNTAIN_KEEPS": {
+   "folder": "ad6ae399-6e55-4517-afb7-7219b914d46e",
+   "uuid": null,
+   "slug": "the-mountain-keeps",
+   "处": 1
+  },
+  "THE_ONE_THAT_LOOKED": {
+   "folder": "c9706943-6ee0-4195-8659-2df7b5e34ce5",
+   "uuid": null,
+   "slug": "the-one-that-looked",
+   "处": 1
+  },
+  "THE_SECOND_HAND": {
+   "folder": "97d5be20-1d6d-4a89-970a-2bd5354baf29",
+   "uuid": null,
+   "slug": "the-second-hand",
+   "处": 1
+  },
+  "THE_SEVENTH_LOOP": {
+   "folder": "897f94e3-dcd4-49c9-a4c7-0dbb49df7043",
+   "uuid": null,
+   "slug": "the-seventh-loop-ai-film-festival",
+   "处": 1
+  },
+  "THE_WEEKEND": {
+   "folder": "cace0889-4fbd-4991-85b9-e9a54c0b3b36",
+   "uuid": null,
+   "slug": "the-weekend",
+   "处": 1
+  },
+  "THE_WORLD_WORTH_LIVING_IN": {
+   "folder": "065980c9-03af-4158-ba17-e3280dd452a0",
+   "uuid": null,
+   "slug": "the-world-worth-living-in",
+   "处": 1
+  },
+  "THE_ZERO_LINE": {
+   "folder": "4f27303e-0e6b-4a4f-ba6d-9c12c610fdc4",
+   "uuid": null,
+   "slug": "the-zero-line",
+   "处": 1
+  },
+  "TOKYO_4_17": {
+   "folder": "4777026f-6923-4cc5-a4bc-b445d5741fb8",
+   "uuid": null,
+   "slug": "tokyo-4-17",
+   "处": 1
+  },
+  "TOKYO_DRIFT": {
+   "folder": "1cd46692-800f-433a-a456-20c232653e5e",
+   "uuid": null,
+   "slug": "tokyo-drift",
+   "处": 1
+  },
+  "TOP_UP_CINEMATIC_AD_BREAKDOWN": {
+   "folder": "2fe23083-8d0f-47fb-bbcb-eac1f2cf9cfa",
+   "uuid": null,
+   "slug": "top-up",
+   "处": 1
+  },
+  "TO_LIVE_ANOTHER_MORNING": {
+   "folder": "87150a8c-4867-492e-8afc-b4ff9c43a6f5",
+   "uuid": null,
+   "slug": "to-live-another-morning",
+   "处": 1
+  },
+  "TWO_DAYS": {
+   "folder": "f8769f5a-0579-48f8-b86a-30b754ed2078",
+   "uuid": null,
+   "slug": "two-days",
+   "处": 1
+  },
+  "UNCOUNTED": {
+   "folder": "72cdf8c8-39d3-4907-8a30-2bfad1ca1b95",
+   "uuid": null,
+   "slug": "uncounted",
+   "处": 1
+  },
+  "UNHEARD": {
+   "folder": "f3ba954a-177d-4a97-a544-c0f9ff625bdd",
+   "uuid": null,
+   "slug": "unheard",
+   "处": 1
+  },
+  "UNSENT": {
+   "folder": "24451a6d-50c4-4f60-9186-6edd6b846095",
+   "uuid": null,
+   "slug": "unsent",
+   "处": 1
+  },
+  "VESPER": {
+   "folder": "77bd4d45-65ea-4f77-baee-4da8dff1b9f0",
+   "uuid": null,
+   "slug": "vesper",
+   "处": 1
+  },
+  "VORTEX": {
+   "folder": "b5ff1383-a9aa-4ddb-a240-43928f42d611",
+   "uuid": null,
+   "slug": "vortex",
+   "处": 1
+  },
+  "WELCOME_TO_THE_TEAM": {
+   "folder": "2cef094d-7e9e-48ae-8e86-5ea7cf6b2932",
+   "uuid": null,
+   "slug": "welcome-to-the-team",
+   "处": 1
+  },
+  "WHAT_DO_YOU_NEED_ME_FOR": {
+   "folder": "587a96e7-084d-4037-8bc9-499fcdc30fbe",
+   "uuid": null,
+   "slug": null,
+   "处": 1
+  },
+  "WHAT_IS_LEFT_IS_WIND": {
+   "folder": "b43d9249-db8a-4e4a-8158-69932aa6e56e",
+   "uuid": null,
+   "slug": "what-is-left-is-wind",
+   "处": 1
+  },
+  "WHERE_LETTERS_FALL": {
+   "folder": "0775070a-3a79-40b4-87ed-45d229593d5f",
+   "uuid": null,
+   "slug": "where-letters-fall",
+   "处": 1
+  },
+  "WITHIN": {
+   "folder": "5db28c04-887d-4e3d-9321-63402d0d9486",
+   "uuid": null,
+   "slug": "within",
+   "处": 1
+  },
+  "WORD_VS_WORLD": {
+   "folder": "fb815371-763d-4cd0-83de-50a69205ed43",
+   "uuid": null,
+   "slug": "word-vs-world",
+   "处": 1
+  },
+  "YINGNING": {
+   "folder": "4349d87c-7a82-4460-bd86-999d2a90f38b",
+   "uuid": null,
+   "slug": "yingning",
+   "处": 1
+  },
+  "YIN_YANG_AGENCY_THUNDER_RISING": {
+   "folder": "491c9c0b-2cdc-4a2b-aaa2-b9c7a6b37c15",
+   "uuid": null,
+   "slug": "yin-yang-agency-thunder-rise",
+   "处": 1
+  }
+ }
+}

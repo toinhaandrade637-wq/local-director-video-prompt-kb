@@ -1,0 +1,174 @@
+【项目】FACELESS YOUTUBE AI CHANNEL - FULL BREAKDOWN（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/faceless-youtube-ai-channel-full-breakdown
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+FACELESS YOUTUBE AI CHANNEL - FULL BREAKDOWN
+@sanjii
+506
+0
+1
+Before You Start
+
+This workflow needs three things before the first image exists: Claude Code installed on your computer, a Higgsfield account connected to it, and a finished voiceover. The whole trick sits in one idea — every timestamp in your voiceover becomes exactly one image, so the syncing work that normally eats hours happens automatically, before you ever open an editor.
+
+
+
+
+You connect the tools once. After that, every new video is the same loop: script, voiceover, timestamps, one master prompt — and Claude Code generates the entire image sequence through Higgsfield in the background.
+
+Stage 1 — The Setup
+
+Head over to Claude, download Claude Code for your operating system, install it, and open it.
+
+
+
+
+Then go to Higgsfield, create an account if you haven't already, and click MCP & CLI.
+
+You'll see your MCP connector — copy it.
+
+Back in Claude Code: click your profile, open Settings,
+
+go to Connectors and click "Add custom connector."
+
+Give it any name — Higgsfield works — paste the connector you copied, and click Save.
+
+That's the entire setup. Claude Code is now connected directly to Higgsfield, which means every time it needs to generate an image, it uses Higgsfield in the background automatically. You connect it once, and you're done.
+
+Stage 2 — The Script, the Voiceover, and the Timestamps
+
+Start with a finished script. History, space, aliens, animals — the workflow doesn't care about the niche. Write it yourself, generate it with AI, or hire someone; the only thing that matters is that the script is finished before you move on.
+
+Then record the voiceover. AI voices are faster for videos like this, but your own voice works just as well.
+
+
+
+
+Now the step that looks strange until it clicks. Go to TurboScribe, create an account, click "Transcribe Files," upload your voiceover, and transcribe it. You're not there for the transcript — you already have the script. You're there for the timestamps. The transcription comes back marked 0:00, 0:07, 0:15, 0:23, 0:29 — and every one of those timestamps is about to become its own image. Instead of manually deciding where each illustration should appear, the timestamps decide for you.
+
+Stage 3 — The Master Prompt
+
+Open a new chat in Claude Code. The master prompt below is the director of the entire video: it tells Claude Code to read the whole transcript first, understand every scene, and generate one image per timestamp through Higgsfield — each one matching the exact moment it appears in the narration.
+
+
+
+
+The second half of the prompt locks the style, because the style is the format: MS Paint-level drawings on a white background. The viewer isn't watching because the drawings are beautiful — they're watching because the story moves fast, and the visuals simply help tell it.
+
+
+
+
+You are going to generate images for a YouTube script, one image for every timestamp in the script.
+
+Your job is to read the script carefully and create a separate image for each timestamp. If the script has timestamps like 0:00, 0:03, 0:07, 0:10, 0:12, and 0:20, then you must generate one image for each of those timestamps.
+
+Each image must visually illustrate what the narrator is saying at that exact moment. The image should make sense with the story, the emotion, and the idea being explained. Do not create random images. Every image should feel like a simple visual explanation of the current line in the script.
+
+The images must be generated using ChatGPT Image 2.
+
+STYLE REQUIREMENTS:
+
+The image style must look like extremely simple beginner drawings made in MS Paint. It should look like someone who is not good at drawing created it quickly by hand.
+
+Use a very simple stickman / childish drawing style:
+
+White background
+• Thick, uneven black outlines
+• Wobbly hand-drawn lines
+• Stick figure humans with round heads and line bodies
+• Simple dot eyes or circle eyes
+• Very basic facial expressions
+• Flat colors only
+• No realistic shading
+• No 3D
+• No cinematic lighting
+• No realistic cartoon style
+• No Disney style
+• No anime style
+• No polished illustration style
+• No professional vector art
+• No highly detailed backgrounds
+• No complex textures
+• No realistic humans
+• No glossy or modern design
+
+The drawings should feel amateur, funny, simple, and intentionally "bad," like a noob drew them in Paint. Objects should be drawn with basic shapes: squares, circles, rectangles, arrows, simple tables, boxes, trees, rooms, signs, screens, stickmen, question marks, and very simple symbols.
+
+Use the same visual language as the references:
+
+Simple black line drawings
+• Mostly white empty space
+• Occasional flat colors like green, brown, gray, red, yellow, orange, and blue
+• Red arrows or red question marks when needed
+• Handwritten text only when it helps explain the idea
+• If text appears in the image, it must be spelled correctly, short, and easy to read
+• Keep compositions clear and simple
+
+FORMAT REQUIREMENTS:
+
+Every image must be horizontal 16:9 for YouTube video format.
+
+Generate each image as a wide YouTube frame, not vertical, not square.
+
+The image must be clean, readable, and centered. Do not crop important objects. Leave enough space around the characters and objects. Avoid glitches, broken anatomy, unreadable text, messy overlapping objects, or weird extra details.
+
+IMPORTANT:
+
+For every timestamp, create a different image that matches the script at that moment. The images should feel like they belong in the same video and same drawing style.
+
+Do not make the drawings look too good. Do not make them polished. Do not make them professional. The entire point is that they look like simple, funny, beginner MS Paint drawings.
+
+Here is the script with timestamps. Generate one image for each timestamp:
+
+[PASTE SCRIPT HERE]
+
+
+
+
+Paste your timestamped transcript where the prompt says so — the TurboScribe version, not the original script — and send. Claude Code reads everything, understands every timestamp, and starts generating through Higgsfield on its own.
+
+
+
+
+If the transcript has 40 timestamps, you get around 40 images; if it has 80, you get 80. One timestamp, one image, across the entire video — and because Claude Code knows the full context before generation even begins, the sequence stays consistent from the first image to the last. You're not writing 80 prompts. You already wrote the only one.
+
+
+
+
+When the images are finished, send one more message:
+
+
+
+
+Download every generated image into one folder on my computer, and rename each file to the timestamp of the line it illustrates — 0:00, 0:07, 0:15, and so on, in order.
+
+
+
+
+Random filenames become timestamps. It sounds like a small detail — it's actually the entire editing phase solved in advance.
+
+Stage 4 — The Edit
+
+Open your favorite editor and import the voiceover first. Then drag in the whole image folder. Every filename already tells you exactly where it belongs on the timeline: the 0:00 image starts the video, 0:07 replaces it at seven seconds, then 0:15, then 0:23, then 0:29, all the way to the end. You never guess where an image should appear, and you never rewatch the voiceover trying to sync things — Claude Code already did that work.
+
+
+
+
+Arrange the images, export, upload. The edit takes around ten minutes, and everything before it was the system working, not you.
+
+Ready To Make Your Own?
+
+Will this make $60,000 a month by tomorrow? Of course not. The channel behind this format didn't grow because of AI — it grew because it consistently published stories people actually wanted to watch. AI just collapses the production time, so you spend it on better ideas instead of syncing images by hand. That's where channels actually grow.
+
+
+
+
+And once this workflow exists, you're not making a video anymore — you're running a production system. Swap the story — history, space, science, animals — and everything else stays exactly the same. So open Claude Code, connect Higgsfield, and publish the first one. The sooner you start, the sooner the algorithm starts pushing you — and that's the only way to find out what actually works.
+
+
+
+
+READY TO MAKE YOUR OWN

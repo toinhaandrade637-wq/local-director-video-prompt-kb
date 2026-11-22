@@ -1,0 +1,176 @@
+【项目】Higgsfield Meets GPT Image 2.5: How It Works and What You Get（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/gpt-image-2-5-higgsfield
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Higgsfield Meets GPT Image 2.5: How It Works and What You Get
+Higgsfield
+Sep 9, 2026
+8 min
+
+GPT Image 2.5 is now available on Higgsfield. OpenAI's new state-of-the-art image model comes in two variants, Flare and Sunburst. Each built for a different kind of work. Flare handles most everyday generation at speed, while Sunburst is built for precise editing on premium campaign work. This guide covers what changed, how the two variants differ, and how the whole thing works on Higgsfield.
+
+What Is GPT Image 2.5 and How It Works?
+
+GPT Image 2.5 is OpenAI's latest image model, available on Higgsfield's creative suite. It's built for creating and editing visuals, from product shots and portraits to full campaign concepts. Start with a prompt or a reference image, generate, then refine the details from there. On Higgsfield, it ships in two variants, each tuned for a different job.
+
+Flare is the default choice for most tasks. It carries the same gains in quality, editing, and speed as the rest of the 2.5 generation, with higher output quality than GPT Image 2 at about 50% less latency. It fits social content, product visuals, fast prototyping, and generating a high volume of images quickly.
+Sunburst is built for premium work that needs precise control during edits. It's the fit for production-ready campaigns and polished product visuals. Generation takes longer here, the tradeoff for that extra precision.
+
+The settings are the same across both variants.
+
+What Is GPT Image 2.5 and How It Works?
+
+Setting
+
+	
+
+Options
+
+
+
+
+Reference images
+
+	
+
+Up to 16
+
+
+
+
+Aspect ratio
+
+	
+
+Auto + supported aspect ratios
+
+
+
+
+Quality
+
+	
+
+Low, Medium, High, Extra High, Max
+
+
+
+
+Resolution
+
+	
+
+1K, 2K, 4K
+
+What Changed From GPT Image 2?
+Detail reads sharper, light and texture look more natural across the board.
+Subjects from a reference photo hold up better when moved into a new scene or a new style.
+Edits land precisely, changing only what got asked for and leaving everything else in the frame untouched.
+Multi-step editing holds up, a change made three edits ago doesn't degrade as new edits stack on top of it.
+The model reads complex visual instructions more reliably, holding a specified style consistently.
+Visual choices like cinematic lighting and specific camera settings carry over from one generation to the next.
+What Each Variant Works Best For
+
+GPT Image 2.5 Flare fits fast, high-volume work:
+
+Social media content and quick concept posts
+Product visuals that don't need a full retouch pass
+Fast prototyping before committing to a direction
+Generating variations quickly at higher volume 
+
+GPT Image 2.5 Sunburst fits slower, precision work:
+
+Production-ready ad campaigns
+Polished product photography for a final deliverable
+Multi-step edits where every detail needs to hold
+Any job where precise control over the edit matters more than turnaround time
+Full Workflow: Step-by-Step Guide
+
+Both variants follow the same basic steps, the settings and reference options are identical, only the underlying model differs.
+
+Step 1: Open the image generator on Higgsfield and pick a variant. Flare for speed, Sunburst for precision.
+
+Step 2: Add a reference if the shot needs one. Up to 16 reference images, useful for keeping a subject, a product, or a style consistent.
+
+Step 3: Write the prompt. Describe the subject, the setting, the lighting, and the composition directly.
+
+Step 4: Set resolution and quality. Pick 1K, 2K, or 4K, and a quality tier from Low up to Max.
+
+Step 5: Generate and review.
+
+Pricing
+
+Pricing is identical for both variants, Flare and Sunburst.
+
+Pricing
+
+Resolution
+
+	
+
+Quality
+
+	
+
+Credits
+
+	
+
+Approx. Cost
+
+
+
+
+1K
+
+	
+
+Low
+
+	
+
+1.5
+
+	
+
+$0.075
+
+
+
+
+2K
+
+	
+
+High
+
+	
+
+5.5
+
+	
+
+$0.275
+
+
+
+
+4K
+
+	
+
+Max
+
+	
+
+26.5
+
+	
+
+$1.325
+
+HIGGSFIELD MEETS GPT IMAGE 2.5: HOW IT WORKS AND WHAT YOU GET
+Try GPT Image 2.5

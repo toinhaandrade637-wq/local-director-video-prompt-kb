@@ -1,0 +1,67 @@
+【项目】HIGGSFIELD GENJUTSUのワークフロー：男性のトーク動画を、口紅を紹介する女性の動画に（@digital_eraser_1035 · 创作者博客）
+【链接】https://higgsfield.ai/@digital_eraser_1035/blogs/genjutsu-lipstick-woman-workflow
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HIGGSFIELD GENJUTSUのワークフロー：男性のトーク動画を、口紅を紹介する女性の動画に
+@digital_eraser_1035
+79
+0
+0
+
+このガイドでは、私たちが制作した動画を再現します。座って話しているだけの男性の動画を、タワーマンションの部屋で口紅を紹介する女性の動画に変えます。口の動き、手の動き、カメラは撮影時のまま。最後に声を女性の声に変えれば完成です。
+
+
+
+
+必要なもの
+Higgsfieldのアカウント
+使用する動画（4〜30秒）
+参考画像：なりたい人物（向き違いで2〜3枚）、部屋、手に持つ物
+ステップ1．動画を撮影する
+カメラは置いたまま、座って話すだけでOKです。
+手には何か小さな物を持って話します。あとで、参考画像の物（今回は口紅）に置き換わります。
+振り返る、手を広げる、など目立つ動きをした秒数をメモしておくと、プロンプトに書けます。
+ステップ2．参考画像を準備する
+
+参考画像は、Higgsfieldの画像生成で作れます。
+
+人物：同じ人を、正面・少し上から・振り返り、のように向きを変えて用意すると、顔が最後まで安定します。
+部屋：部屋の全体と、動画と同じ角度から見た背景の2枚があると、背景が構図にぴったり合います。
+手に持つ物：向きを変えて何枚か用意します。
+ロゴや文字が入らないように作るのがポイントです。
+ステップ3．Genjutsuの設定
+Higgsfieldで「幻術（Genjutsu）」を開き、「オブジェクトが入れ替わる」を選びます。
+動画と参考画像をアップロードします。
+プロンプト欄で「@」を押すと、画像の番号が一覧で出ます。サムネイルを見て、どの画像が何番かを確かめてから、プロンプトの番号を合わせてください。
+ステップ4．プロンプト
+
+今回のプロンプトの要点です。@の部分は、「@」で出る一覧から選び直してください。
+
+NO SUBTITLES (must follow): no subtitles, no captions, no on-screen text at any moment.
+
+Replace the man in @video1 with the woman from @image6. @image3 and @image2 show the same woman from other angles. Replace the background with the high-rise apartment of @image7, exactly like @image1. Replace the small object in his hand with the lipstick of @image8. @image5 and @image4 show the same lipstick from other angles.
+
+LIP SYNC (most important): she talks from the first second to the last word. Copy the mouth movements of @video1 exactly, perfectly in sync with the audio. Keep the same head movements and expressions.
+
+SAME HAND, NOT MIRRORED: every gesture happens on the same side of the image and at the same moment as in @video1.
+
+CAMERA: keep the original camera exactly. One continuous take. No cuts, no zoom.
+
+FULL LENGTH: keep the full length of @video1. Do not end early.
+
+LIPSTICK: wherever the object is in @video1, the lipstick is there instead, in the same hand, even when it changes hands. It never disappears.
+
+KEY MOMENTS: around 18-20 seconds she points back at the window behind her and looks back (like @image2). Around 21.5-23 seconds she opens one hand to show the room.
+
+DO NOT: no logos, no brand names, no text anywhere. Do not add extra objects or people.
+ステップ5．仕上げ
+できた動画の声を、Higgsfieldで女性の声に変換します。話すタイミングはそのままに、声だけが変わります。
+元の動画と上下に並べると、変化がひと目で分かります。
+コツ
+「テロップを入れない」を一番上に書く。 話す動画では、これで画面に文字が入りません。
+口の動きを「一番大事」と書く。 最後の言葉まで口の形が合います。
+左右は「画面の左右」で書く。 鏡写しにならず、同じ手で物を持ちます。
+手に持った物も置き換えられる。「持ち替えても口紅のまま」と書くと、最後まで口紅のままです。

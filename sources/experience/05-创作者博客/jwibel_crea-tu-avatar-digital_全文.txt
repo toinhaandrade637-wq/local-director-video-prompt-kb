@@ -1,0 +1,256 @@
+【项目】CREA TU AVATAR DIGITAL（@jwibel · 创作者博客）
+【链接】https://higgsfield.ai/@jwibel/blogs/crea-tu-avatar-digital
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+CREA TU AVATAR DIGITAL
+
+Oct 27, 19:24 · 11 min
+
+CREA TU AVATAR DIGITAL
+JULIETA WIBEL
+@jwibel
+99
+1
+0
+UN AVATAR PARA TU PROYECTO ARTÍSTICO
+
+¡Holaaa! Aquí va el tutorial prometido: cómo crear un avatar digital para tu proyecto artístico en Higgsfield, sacarle una ficha completa para que la IA lo entienda a la perfección y darle vida con Genjutsu usando tu propia actuación. Tú grabas y tu avatar se mueve exactamente como tú.
+
+Para mí, un avatar no es un filtro: es otra versión de ti que vive dentro de tu mundo. Puede protagonizar tus vídeos, tus portadas o tus directos sin que tengas que poner tu cara. Pruébalo y etiquétame en lo que hagas.
+
+SÍGUEME EN INSTAGRAM: instagram.com/jwibel
+
+La idea en una frase: diseña un avatar que pertenezca a tu universo, sácale una ficha de vistas para que la IA no se pierda y préstale tu cuerpo con un vídeo tuyo.
+
+¿QUÉ VAS A NECESITAR?
+Una cuenta en Higgsfield.
+Una idea de avatar y referencias visuales. Fotos, un moodboard o unas fotos tuya si quieres que parta de tu cara.
+Un vídeo tuyo de 4 a 30 segundos, en una sola toma, para prestarle el movimiento.
+Opcional: Claude con Higgsfield conectado, si prefieres hacerlo todo hablando en un chat.
+PASO 01 · CREA TU AVATAR
+
+Antes de abrir Higgsfield, preparo dos fichas: una de mi cara y otra del look. Son las que le dicen a la IA quién es tu avatar y cómo viste, así que no improvises aquí.
+
+Antes de empezar: diseña el look
+
+Yo me curré en Milanote una guía de cómo quería el vestido: referencias, tejidos, siluetas y detalles. Después boceté varias versiones hasta dar con la que encajaba con mi proyecto. Ese boceto es la base de la ficha del outfit.
+
+
+
+
+Vestido Avatar LILA:
+
+Vestido Avatar Rosa:
+
+
+
+
+Prepara tus dos fichas
+
+Sube siempre la imagen de referencia en vez de describirla con palabras: la IA la entiende mucho mejor.
+
+Prompt para el face sheet de tu cara (sube una foto tuya de frente, de lado etc. con buena luz):
+
+Face reference sheet of the person in @image1. Exactly the same face, same features, same skin. Show the face from different angles in a 2x2 grid: front view, three-quarter left, three-quarter right, left profile. Hair pulled back, neutral expression, bare shoulders. Plain white seamless background, soft even studio light. Photoreal skin texture. No text, no labels.
+
+Qué cambiar: nada si lo haces con tu propia foto, sólo en mi caso que imaginaba este avatar más "anime" me agrande los ojos (sí, la refe es Cole Bennett <3), yo en mi caso también quise que el cabello y el maquillaje fuera distinto. Si quieres más ángulos, cambia la lista de vistas por right profile, low angle looking up o high angle looking down.
+
+
+
+
+
+
+
+
+
+
+Prompt para el outfit sheet (sube tu boceto elegido):
+
+Turn the outfit sketch in @image1 into a photoreal outfit reference sheet, displayed on a plain white faceless mannequin. Top row: front view, side view and back view, full length. Bottom row: close-up details of the corset bodice, the ruffled tulle skirt, the bow and the boots. Follow the sketch exactly: same silhouette, same pieces, same proportions. White fabric with realistic texture. Plain white background, soft even studio light. No person, no text.
+
+
+
+
+Qué cambiar: los detalles de la última fila por las piezas clave de tu look, y White fabric por el color y el tejido de tu diseño. Si tienes tu guía de Milanote exportada, súbela como @image2 y añade al final: Use @image2 as the style guide for fabrics and details.
+
+
+
+
+
+
+
+PASO 02 · SÁCALE UNA FICHA COMPLETA EN CINEMA STUDIO
+
+Este es mi truco y el que más cambia el resultado. Con una sola ficha, la IA tiene que adivinar cómo es tu avatar de perfil, desde abajo o de espaldas. Si giras la cabeza en tu vídeo, se lo inventa y la cara cambia. Así que antes de animar le saco un montón de vistas.
+
+Abre Cinema Studio en modo Imagen y elige Nano Banana 2, en formato 2:3.
+Sube la ficha del Paso 01 como referencia.
+Pega el prompt de la cara y genera varias tandas, cambiando los ángulos.
+Haz lo mismo con el outfit, con el segundo prompt.
+Guárdalo todo en una carpeta (la mía se llama FACE). Esas fotos son las que vas a subir a Genjutsu.
+
+
+
+
+Prompt para la ficha de la cara:
+
+Character reference sheet of the woman from @image1. Same face, same features, same makeup, same hair. Long straight pastel pink hair, very pale skin with freckles, red teary eyes, flushed pink cheeks. Show her from different angles in a 2x2 grid: front view, three-quarter left, three-quarter right, left profile. Bare shoulders, neutral serious expression. Plain white seamless background, soft even studio light. Photoreal skin texture. No text, no labels.
+
+Qué cambiar: la descripción de la segunda frase (pelo, piel, ojos, mejillas) por la de tu avatar, y la lista de ángulos en cada tanda. Prueba también right profile, low angle looking up, high angle looking down y lying down with hair spread around her head.
+
+
+
+
+
+
+
+Prompt para la ficha del outfit:
+
+Outfit reference sheet of the outfit worn in @image1, displayed on a plain white faceless mannequin. Top row: front view, side view and back view, full length. Bottom row: close-up details of the corset bodice, the ruffled tulle skirt, the bow and the boots. Exactly the same fabric, colours and construction. Plain white background, soft even studio light. No person, no text.
+
+Qué cambiar: los detalles de la última fila por las piezas clave de la ropa de tu avatar.
+
+Por qué funciona: cuantos más ángulos le das, menos se inventa. Con la cara y la ropa vistas desde todos lados, el avatar se mantiene igual aunque te muevas mucho.
+
+
+
+
+PASO 03 · CREA EL AVATAR EN INFLUENCER IA
+
+Abre Influencer IA y quédate en la pestaña Crear influencer.
+
+Sube tu foto: aquí va tu face sheet (la del personaje). Así el avatar parte de tu cara.
+Tipo de personaje: elige cuánto lo quieres transformar. Average es gente normal, Bold ya es excéntrico y Extreme va al límite.
+El look: en el apartado de la ropa sube tu outfit sheet, para que lleve exactamente el vestido que diseñaste.
+Rasgos: ajusta lo que quieras cambiar de ti. Yo elegí pelo largo rosa palo, piel muy pálida con pecas y ojos rojos como si acabara de llorar.
+Dale a Generar. Sale la ficha de tu avatar: primer plano de la cara y cuerpo entero sobre fondo blanco.
+
+
+
+
+PASO 04 · GRABA TU TOMA
+
+Genjutsu copia tu movimiento: gestos, expresiones, timing y cámara. La personalidad del avatar la pone tu actuación, así que aquí es donde te toca lucirte.
+
+De 4 a 30 segundos, una sola toma, sin cortes.
+Cámara quieta y un encuadre parecido al que quieres en el resultado. Plano medio o cuerpo entero funcionan muy bien.
+Movimiento con intención: una mirada lenta a cámara, un gesto con la mano en la cara, un giro de cabeza de golpe, un baile con cara seria.
+Fondo limpio y buena luz: yo grabé contra una pared blanca. Así el antes y el después se comparan mucho mejor.
+
+
+
+
+¿Sin ideas de movimiento? Entra en la Fábrica de contenido de Higgsfield Hola! Aprobado 
+
+https://higgsfield.ai/s/higgsfield-content-factory-ig-jwibel-pLGEIS: mira un viral, quédate con el gesto que engancha y grábalo tú.
+
+
+
+
+PASO 05 · DALE VIDA CON GENJUTSU
+
+Abre Genjutsu desde el menú de Higgsfield.
+
+Elige el modo: Motion transfer u Objects swap (te lo explico abajo).
+En Add a reference video, sube tu toma (de 4 a 30 segundos).
+En Add your characters, sube las fichas del Paso 02: las vistas de la cara y la del outfit. Admite hasta 30 imágenes, así que aprovecha.
+En el Prompt, llama a cada imagen con @: la cara es @image1, el outfit @image2.
+Quality: prueba en 720p y, cuando te guste, genera en 1080p.
+Generate.
+
+
+
+
+Add your characters.
+
+Modo
+
+	
+
+Cuándo usarlo
+
+
+
+
+Motion transfer
+
+	
+
+Se queda solo con tu movimiento y la cámara. El avatar, el escenario, la ropa y el color se rehacen a partir de tus imágenes. Ideal para llevar a tu avatar a otro mundo.
+
+
+
+
+Objects swap
+
+	
+
+Deja tu vídeo tal cual y cambia solo lo que eliges: tú por tu avatar. La habitación sigue siendo la tuya, así que el antes y el después se comparan muy fácil.
+
+Prompt para Objects swap (el que mejor funciona para el efecto "yo me convierto en mi avatar"):
+
+Replace the girl in the video with the character from @image1. Keep everything else from the original video: room, lighting, camera, framing and timing. Same moves, gestures and facial expressions. Her face, hair and makeup must match @image1: long straight pastel pink hair, very pale freckled skin, red teary eyes, flushed cheeks. Her outfit must match @image2: white corset dress with a ruffled tulle skirt. Photoreal skin, natural movement. No text.
+
+Prompt para Motion transfer:
+
+The character from @image1 performs exactly the same moves as the reference video. Same body motion, gestures, facial expressions, timing, camera and framing. Keep the character identical to @image1: long straight pastel pink hair, very pale freckled skin, red teary eyes, flushed cheeks. Same outfit as @image2: white corset dress with a ruffled tulle skirt. Plain white studio background. Photoreal skin, natural movement. No text, no subtitles.
+
+Qué cambiar en los dos: la descripción después de match @image1 / identical to @image1 (rasgos de tu avatar) y la de @image2 (su ropa). En Motion transfer cambia también Plain white studio background por el escenario de tu mundo.
+
+0:00 / 0:00
+0:00 / 0:00
+
+
+
+
+¿PREFIERES HACERLO CON CLAUDE?
+
+Yo lo hice así. Higgsfield también funciona dentro de Claude si conectas su conector: le hablas como a un asistente y él lanza las generaciones por ti.
+
+Conecta Higgsfield en Claude (higgsfield.ai/mcp) y abre un chat nuevo.
+Adjunta tu vídeo y las fichas de tu avatar. Si Claude te abre su cargador, puedes subir hasta 10 archivos: el vídeo y 9 fotos.
+Pega el prompt de abajo.
+Claude lanza dos versiones para que compares: una con Genjutsu y otra con Seedance 2.5 editando tu vídeo.
+Usa Higgsfield. Te adjunto un vídeo mío y las fotos de mi avatar: las vistas de la cara y la ficha del outfit.
+
+Quiero reemplazar a la chica del vídeo por el avatar de las fotos.
+
+Lanza dos versiones para que pueda compararlas: una con Genjutsu (sustitución de personaje) y otra con Seedance 2.5 editando el vídeo.
+
+Mantén la habitación, la luz, la cámara, el encuadre, los gestos, las expresiones y el timing. La cara, el pelo, el maquillaje y el vestido tienen que ser idénticos a las fotos. Piel realista, movimiento natural. Sin texto en pantalla. 1080p.
+
+Qué cambiar: la chica del vídeo por cómo salgas tú, y el vestido por la ropa de tu avatar. Si quieres otro escenario, sustituye la primera frase del último párrafo por el lugar donde quieres que aparezca.
+
+Si alguna foto da error al subir, dale a Retry failed antes de continuar. Una vista menos es una vista que la IA se inventa.
+
+PASO 05 · MONTA EL VÍDEO: DE TI A TU AVATAR
+
+Lo que más impacta es ver el cambio: primero tú y, de repente, tu avatar. Como Genjutsu respeta tu encuadre y tu timing, los dos clips encajan fotograma a fotograma.
+
+Opción A · La transformación (mi favorita)
+
+Empieza contigo: los primeros segundos son tu vídeo original, para que se vea que eres tú.
+Corta en un gesto: un giro de cabeza, una mano que tapa la cara o un parpadeo. En ese fotograma pasas al clip de tu avatar.
+Mismo punto exacto: pon los dos clips uno encima del otro en la línea de tiempo y alinéalos para que el movimiento siga sin saltos.
+Termina con tu avatar en pantalla completa en su pose más fuerte.
+
+
+
+
+TRUCOS FINALES
+Usa siempre las mismas fichas. Son las que mantienen la cara y la ropa iguales de un vídeo a otro.
+Cuantas más vistas, mejor. Si en tu toma te giras o miras hacia abajo, ten ese ángulo en la ficha.
+Genera 2 o 3 veces y quédate con la mejor, también te animo a probar otros modelos a parte de Genjutsu como Seedance 2.5. Descarta caras deformadas, manos raras o movimientos que se congelan.
+Prueba en 720p, termina en 1080p.
+Dale a tu avatar una forma de moverse propia: un gesto, una mirada, una manera de andar que se repita. Es lo que hace que la gente lo reconozca.
+Exporta en alta y activa la subida en máxima calidad en los ajustes de Instagram.
+
+Etiquétame en tus creaciones en Instagram: @jwibel. Quiero ver qué avatares salen de vuestros mundos. <3 XOXO
+
+
+
+
+W.

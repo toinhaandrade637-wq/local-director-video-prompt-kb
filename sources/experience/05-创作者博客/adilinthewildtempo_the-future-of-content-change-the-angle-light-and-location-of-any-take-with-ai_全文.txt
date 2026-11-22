@@ -1,0 +1,925 @@
+【项目】THE FUTURE OF CONTENT: CHANGE THE ANGLE, LIGHT AND LOCATION OF ANY TAKE WITH AI（@adilinthewildtempo · 创作者博客）
+【链接】https://higgsfield.ai/@adilinthewildtempo/blogs/the-future-of-content-change-the-angle-light-and-location-of-any-take-with-ai
+【提示词块】7
+【捕获】2026-11-03（浏览器全文抓取·创作者博客更新批）
+
+──────────────────────────────────────
+
+@adilinthewildtempo
+/
+The Future of Content: Change the Angle, Light and Location of Any Take With AI
+
+Oct 31, 04:59 · 5 min
+
+THE FUTURE OF CONTENT: CHANGE THE ANGLE, LIGHT AND LOCATION OF ANY TAKE WITH AI
+A
+@adilinthewildtempo
+5.7K
+18
+6
+
+Hey! Here is full workflow of the reel: the exact prompts, the assets and the order we ran them in.
+
+We filmed Adil at his desk with one static camera. From that single clip we changed everything else with Genjutsu and Seedance 2.5 on Higgsfield: the camera angle, the light, the location, his outfit, the props and the color. 
+
+
+
+
+Below is the full step-by-step guide, with every prompt we used in the video.
+
+
+
+
+How It Works
+Shoot one take. One wide, locked-off shot with clean audio and the whole person in frame. That is the only footage you actually need.
+Work in chunks of up to 30 seconds. Seedance 2.5 takes a video reference of up to 30 seconds, so we cut the take into short pieces and ran each tool on its own piece.
+Change one thing per generation. New camera, new light, new outfit, new prop: one change per pass, then chain the passes. Every prompt locks the performance (second N of the output equals second N of the original), so lips, hands and timing stay 1:1 and you can cut back to the real take on any frame.
+Let Claude write the long prompt. Describe the shot in a few lines, for example "after 2 s the camera orbits behind him and lands on his right profile at 7.5 s", and ask Claude to turn it into a full Seedance 2.5 prompt that locks the person, the room and the timing. Every prompt below came out of that loop, and each one ends with a list of failures to avoid, written after the takes that didn't work.
+
+
+
+
+01 · Add As Many Angles As You Like
+
+Turn your original take into any shot you want. Seedance 2.5 re-photographs the same take from a position that never existed: here, a silk-smooth orbit that starts on the original frame, glides around behind Adil and settles on his right profile, revealing parts of the loft the real lens never saw. His hands, lips and timing stay identical to the original in every frame.
+
+Full frame: the Seedance 2.5 result. Bottom right: the original take it was built from.
+
+
+
+
+The two stills we attached so the camera has something real to reveal:
+
+Still 1 · the window side of the loft.
+
+Still 2 · Adil's full outfit.
+
+Inputs (all three are in this section, and Recreate attaches them for you): original take · window side of the loft · Adil's full outfit
+
+Tap Recreate, then swap in your own take and stills. 
+
+Input video - the original take.
+
+Try to recreate with your footage:
+
+V2V on @Video 3 · 10s — the same take, re-photographed with one beautiful, silk-smooth camera move. The ONLY thing that changes is the viewpoint. Adil's whole performance — hands, fingers, arms, shoulders, torso, head, face, lips — moves EXACTLY as in the original, frame by frame, including his signature moment: the raised index finger twirling in the air and tapping his temple from 4.6 to 6.3 s. Played side by side with the original, his motion is identical in every frame; only the angle differs.
+The camera makes one clean, polished three-quarter orbit around him (about 270°), low at desk height:
+— It starts on the original front view and glides in low over the desk, already curving toward his left.
+— It swings around his left side and passes behind him.
+— It comes around his right side and settles low near his right profile at about 7.0 s, holding still to the end.
+Adil never notices the moving camera. His eyes stay fixed on one point in the room — the spot in front of the desk where the original camera stood — so the moment our camera starts to move, his eyes are no longer on our lens. Then, at 7.2 s, during his shrug, he turns his head to his right, exactly as in the original — and because the camera is resting right there, his eyes land straight on our lens. He looks at us. That is the payoff of the shot.
+The move reveals the real space around him. On his right: the window side of the loft with a white reflector panel, exactly as in @Image 1. On his left: a softbox, and beyond it a WIDE OPEN DOORWAY into a warm-lit NEXT ROOM. His full outfit is exactly as in @Image 2. Photoreal, filmed for real, 16:9, 25 fps.
+
+THE ORIGINAL — @Video 3 · 10s: 10.0 s, 250 frames, 25 fps, 3840×2160, one continuous static shot. A wide-angle lens (about 22 mm, slight barrel distortion at the edges), low at desk height, looking slightly up, centred and frontal; Adil small in the middle of a wide frame.
+Adil: dark curly hair, a moustache, small earrings. He sits at a wooden desk, looks straight ahead and talks with lively hand gestures.
+The room: a cozy loft home office at dusk, mixed light.
+— Left of frame (Adil's right side): a window with white blinds and cool light outside, a plant, a big red articulated desk lamp in the foreground, an orange notebook.
+— Behind him: a black metal staircase with vertical railings rising to the right, a dark wooden shelf with small objects and little glowing globe lamps, framed prints (a zebra pattern, a geometric shapes poster), an orange dome arc floor lamp glowing warm.
+— Right of frame (Adil's left side): a red brick column, a cork board with pinned notes, a laptop, stacked books, a cup of markers and pencils.
+— On the desk: an orange felt desk mat, a tablet, glasses, a small bobblehead figurine.
+Charcoal-grey walls, warm wood, warm orange-red accents.
+
+THE CAMERA MOVE — described here in words (there is no camera reference video; this text and Rule 1 are the whole brief):
+One continuous three-quarter orbit around Adil, about 270°, that starts on the original front view and ends low near his right profile.
+— Direction: from the front it curves toward HIS LEFT (screen-right in the opening frame), passes directly BEHIND him, then comes around HIS RIGHT side. It never goes around his right side first and never comes back to the front.
+— Height: the lens stays low, at desk height, the whole way, tilted slightly up, the horizon level.
+— Distance: a tight orbit, close to him (roughly 1 m): it skims in low over the desk, slips close past the laptop, passes just behind the back of his chair and lands near his right profile, slightly in front of him.
+— Aim: the lens always points at Adil; he stays in frame for the entire move.
+— Timing: the move lasts 7.0 s; from 7.0 to 10.0 s the camera holds completely still.
+Everything we see comes from @Video 3 · 10s, @Image 1, @Image 2 and this text.
+
+@Image 1 — THE RIGHT SIDE OF THE LOFT (Adil's right, the window side):
+TAKE from it ONLY the look of that side of the room:
+— Tall windows with soft white blinds and calm, overcast daylight.
+— A large green plant in a pot on a small stand by the window.
+— The white reflector: a white panel stretched on a slim grey metal frame, on stands, in front of Adil to his right, beyond the desk, turned toward him. The same size, shape, frame and position as in @Image 1 — not bigger.
+— A round white globe light on a stand to the left of the panel, glowing soft.
+— Warm wood floor, grey walls.
+DON'T TAKE Adil, his pose, the desk or the objects on it from @Image 1, and don't take its motion blur.
+
+@Image 2 — ADIL'S OUTFIT (wardrobe only):
+TAKE from it ONLY what he wears, head to toe:
+— A dark burgundy chunky-knit quarter-zip sweater with a silver zip, over a white crew-neck T-shirt.
+— Wide, loose, straight-leg BLUE denim jeans in a deep indigo wash, long, falling over his feet.
+— Black socks; silver rings on his fingers; small earrings.
+Whenever the camera sees below the desk — from the sides and from behind — his legs are in these exact blue jeans.
+DON'T TAKE his standing pose, the room, the posters or any text from @Image 2. He stays seated, exactly as in @Video 3 · 10s.
+
+────────────────────────
+RULE 0 — ADIL IS 1:1 WITH @Video 3 · 10s (THE MOST IMPORTANT RULE OF THIS SHOT — overrides everything, including the camera)
+— @Video 3 · 10s is a full-body performance capture. Adil's body is driven by it frame by frame for all 250 frames. In every frame, every part of him is in exactly the same 3D position as in the same frame of @Video 3 · 10s: head, neck, face, shoulders, chest, spine, elbows, wrists, every finger.
+— THE HANDS: both hands repeat the original 1:1 — the same gesture, the same hand shape, the same finger positions, the same height, the same distance from his body, the same start, the same end, the same speed, the same size. Right hand stays right hand, left hand stays left hand. (In the original frame his RIGHT hand is on screen-left, his LEFT hand on screen-right.)
+— THE BODY: the same posture, the same lean forward and back, the same shoulder rises and drops, the same torso twists, exactly when they happen in the original. He stays seated in the same spot; the chair does not swivel or slide.
+— THE HEAD AND FACE: the same head position, the same small tilts and nods while he talks, the same squints, eyebrow raises, blinks and expressions, the same mouth shapes in perfect sync with the original audio.
+— Nothing is added, removed, changed, simplified, calmed, smoothed, shortened, delayed, rushed, mirrored, swapped between hands or re-acted. No new gestures. No idle or resting hands where the original moves. No hands frozen on the desk. No body sway or head motion that is not in the original.
+— ONE real performance filmed by a moving camera. The camera move NEVER changes what his body does; it only shows the same 3D motion from other angles. From a new angle the gestures look different in 2D, but in 3D they are identical. When his body hides a hand from the camera (from behind), that hand keeps moving exactly as in the original and comes back into view in exactly the right place at exactly the right moment.
+— IDENTITY: the same Adil — face, curls, moustache, earrings — unchanged, not beautified; wearing the outfit of @Image 2.
+— TIME: 10.0 s, 250 frames, 25 fps. Nothing re-timed, sped up, slowed down or frozen.
+
+THE KEY MOMENT — THE FINGER TWIRL, 4.6–6.3 s (LOCKED HARDER THAN ANYTHING ELSE)
+This is the most beautiful gesture of the take and must be reproduced exactly as in @Video 3 · 10s, with his RIGHT hand (screen-left in the original):
+— 4.5–4.6 s: his right hand flicks up fast from his chest to beside his face.
+— 4.65–5.0 s: the hand at shoulder-to-cheek height, about a hand's width from his face; the INDEX FINGER points up and twirls small, playful circles in the air from the wrist. The other three fingers loosely curled, the thumb relaxed, a silver ring on his finger.
+— ~5.05 s: one quick loop — the hand swoops down in front of his chest and straight back up.
+— 5.1–5.25 s: the index finger comes to his TEMPLE, beside his eye — a quick tap pointing at his own head.
+— 5.3–5.5 s: the hand lifts away from the temple, the finger up again, twirling.
+— ~5.55 s: one more small, quick loop down and back up.
+— 5.6–6.3 s: the hand steady beside his cheek, the index finger pointing straight up, the fingertip twirling small, relaxed circles, round and round. His left hand stays low near the desk.
+— 6.35–6.6 s: the finger relaxes, the hand opens with fingers spread and comes in toward his chest.
+The twirl happens WHILE THE CAMERA COMES AROUND FROM BEHIND HIM TO HIS RIGHT SIDE:
+— From behind his right shoulder (~4.6–5.3 s): his raised right hand beside his curls — the flick up, the loop, the tap at his temple.
+— From his right side (~5.5–6.3 s): the hand clearly in profile next to his cheek, close to us, the finger drawing its little circles.
+It never stops, never freezes, never becomes a static point, never turns into a wave, never moves to the other hand, never drops early. Same finger, same loops, same temple tap, same height, same rhythm, same duration as the original.
+
+THE PERFORMANCE TRACK — follow it second by second (his right / his left, counted from Adil himself). Hands, body and head together:
+· 0.0–0.3 s: both hands up in front of his chest, fingers spread wide and curved, as if holding a big ball; head facing front, talking.
+· 0.4–0.5 s: the hands lower a little, still spread.
+· 0.6–1.1 s: both hands come together in front of his chest, crossing and rubbing against each other.
+· 1.2–1.5 s: both hands drop low to the edge of the desk, open.
+· 1.6–2.4 s: his right hand rises to chest height, fingers spread wide, palm down, and sweeps out to his right.
+· 2.6–2.9 s: his right hand up beside his face, palm forward, fingers spread.
+· 3.0–3.5 s: both hands come together low in front of his chest, fingertips touching in a roof shape.
+· 3.6–3.9 s: his right hand rises, palm flat, sweeping up toward his chin.
+· 4.0–4.5 s: his right hand, fingers curved, palm down, glides sideways in front of his chest toward his right.
+· 4.6–6.3 s: THE FINGER TWIRL — see THE KEY MOMENT.
+· 6.35–6.6 s: the hand opens, fingers spread, coming in toward his chest.
+· 6.8–7.0 s: both hands at his chest, fingers loosely open; at ~7.0 s his head tilts with a little squint.
+· 7.2–7.5 s: both hands open out to the sides, palms up, shoulders lifting — a big shrug; his head turns to his right, his eyes coming to our lens.
+· 7.6–7.8 s: the hands come back together at his chest; looking at us.
+· 8.0–8.7 s: hands clasped low at the edge of the desk; still looking at us.
+· 8.8–9.0 s: head comes back to the front; hands still clasped.
+· 9.2–10.0 s: both hands open and reach out toward his left, his head and shoulders turning left with them.
+Everything between these moments is also exactly as in @Video 3 · 10s.
+
+HIS GAZE — LOCKED TO ONE FIXED POINT IN THE ROOM (as strict as Rule 0)
+— THE FIXED POINT: in the original he talks to the camera standing in front of the desk. Here that spot — in front of the desk, at desk height — is a FIXED POINT IN THE ROOM. His eyes stay on that point exactly as they do in the original. They never travel with our camera.
+— THE START: in the opening frame our camera is still standing on that point, exactly as in the original. From the very next frame our camera starts gliding forward and to his left, away from that point — and his eyes do NOT come with it.
+  · 0.0–1.0 s: as we glide in over the desk, his eyes stay on the fixed point behind us, so they pass beside our lens, off to the left of the frame.
+  · 1.0–2.0 s: as we swing around his left side, his eyes stay on the fixed point, so we see him in 3/4 and then in profile, looking out of the left of the frame, away from us.
+  · The moment the camera starts to move and turn, there is NO eye contact, no glance at the lens, no head turn toward it.
+— 2.0–7.2 s: behind him and coming around his right side — his head and eyes stay on the fixed point in front of the desk, exactly as in the original. He never reacts to the camera.
+— 7.2–8.7 s — THE LOOK: during the shrug he turns his head to HIS RIGHT, exactly as in @Video 3 · 10s — same moment, same speed, same angle. The camera is resting right there, so his eyes land straight on our lens: he looks at us and holds it exactly as long as the original turn lasts. The turn itself comes ONLY from the original performance — same size, same timing, never bigger.
+— 8.8–10.0 s: exactly as in the original — head back to the fixed point in front, then the reach toward his left.
+
+────────────────────────
+RULE 1 — THE CAMERA: ONE SILK-SMOOTH THREE-QUARTER ORBIT
+— THE ROUTE (second by second):
+  · 0.0 s — THE OPENING FRAME: exactly the original front view — low at desk height, the red desk lamp on the left, the cup of pencils and the glasses in the foreground, Adil in the middle.
+  · 0.0–1.0 s: the camera glides in low over the desk toward him, already curving gently to screen-right (toward his left side).
+    — The cup of pencils, the glasses and the stacked books slide past beneath the lens.
+    — The red desk lamp slides out of the left edge of the frame.
+    — The camera is already off his straight-ahead line.
+  · 1.0–2.0 s: it swings around his LEFT side, slipping close past the laptop — its dark back sweeping across the right of the frame at ~1.5 s — and reaches his left profile at ~2.0 s.
+  · 2.0–3.0 s: it keeps curving around behind his left shoulder. Across the desk, the tablet and the red desk lamp on the left; the windows, the reflector panel and the globe light of @Image 1 on the right.
+  · 3.0–4.5 s: it passes directly BEHIND him, slow and steady. His back, his curls and the top of his chair are in the foreground; beyond them the desk, the laptop and the red desk lamp.
+  · 4.5–5.5 s: it comes around his RIGHT side, gliding around the back corner of his chair. The desk and the red desk lamp are on the right; the staircase side of the loft is on the left.
+  · 5.5–7.0 s: a long, gentle deceleration as it curves to his right profile.
+  · ~7.0 s: it comes to rest low near his RIGHT PROFILE, slightly in front of him — just before he turns.
+  · 7.0–10.0 s: completely still — a locked-off hold while Adil finishes exactly as in the original.
+    THE FINAL FRAME:
+    — Adil centre-left, his chair beside him;
+    — the desk with the glowing tablet, the phone and the laptop in the lower right;
+    — behind him, the brick column, the softbox and the wide open doorway with the warm-lit next room going deep into the background;
+    — the staircase and the orange arc lamp above.
+    At 7.2 s he turns his head and looks right into this lens.
+— THE SPEED — one smooth breath:
+  · A soft start that builds silkily as it glides in over the desk.
+  · A steady, flowing pace around his left side, at its quickest as it slips past the laptop.
+  · Slow and graceful as it passes behind him.
+  · A gentle lift in pace as it comes around his right side.
+  · A long ease-out that melts into stillness at about 7.0 s, like a feather landing.
+  No speed step anywhere — every frame moves just slightly more or slightly less than the frame before.
+— THE FEEL: a high-end motion-control rig gliding on one continuous, flowing curve — heavy, damped, weightless, fluid. Low at desk height the whole way, the horizon level, no roll, no zoom, the same wide ~22 mm lens character as the original. Not handheld, not a drone, not a gimbal correcting itself. No hitches, no stops, no catch-ups, no wobble, no shake, no micro-jitter, no bump, no overshoot, no bounce-back at the landing.
+— PHYSICAL: the camera passes close to the pencil cup, the books, the laptop and the back of his chair, but never touches anything and never passes through anything or through Adil. Real parallax: near objects rush past, far objects drift slowly. Natural filmic motion blur on near objects at speed; Adil and his hands stay sharp — the twirling finger crisp and readable.
+— One continuous take — no cuts, no dissolves.
+
+THE SET AROUND ADIL — real, fixed in place, standing just outside the original frame. The first frame is exactly the original; the set comes into view as the camera moves:
+— ON HIS RIGHT (window side) — exactly as in @Image 1: the white reflector panel on its slim metal frame, in front of him to his right, beyond the desk, turned toward him and bouncing soft light onto the right side of his face; the round globe light on its stand beside it; the windows with white blinds and the large plant.
+— ON HIS LEFT (brick side): one rectangular softbox, about 60×90 cm, on a black light stand about 1.5 m from him, slightly in front of him, at head height, angled at his face. Its white diffusion front glows softly; a black cable runs down the stand to the floor. It is the soft key light on the left side of his face. Beyond it, the open doorway into the next room. The camera passes on the inside, between him and the softbox, never touching it.
+— All of it stays fixed while the camera moves. The light on Adil shifts naturally with the viewpoint: the soft softbox glow on his left; the reflector bounce and the calm window daylight on his right; the warm practical lamps all around.
+— Nothing ever stands BEHIND him: no panel, no backdrop, no sheet behind his chair.
+— NO FILMING GEAR anywhere: no film camera, no tripod, no monitor, no rig.
+
+THE NEXT ROOM — ON ADIL'S LEFT (A MUST, THE DEPTH OF THE SHOT):
+— On Adil's LEFT side, just past the red brick column and the cork board, the loft's wall is NOT closed. It opens through a WIDE, tall, open doorway — about 2 m wide, no door, a simple dark wooden frame — into another room behind it.
+— THE NEXT ROOM: a real lived-in space at dusk, several metres deep, softly out of focus.
+  · Warm amber light from a couple of table and floor lamps.
+  · A wooden dining table with chairs, a tall bookshelf full of books, a large leafy plant.
+  · A framed picture on a dark wall, a soft patterned rug on a wooden floor.
+  · A second, smaller doorway further back, glowing faintly.
+— Its light is WARMER and a little brighter than the loft, so it glows through the doorway and clearly reads as a separate room. A soft spill of warm light falls through the doorway onto the loft floor.
+— LAYERS OF DEPTH: Adil and the desk → the brick column, the softbox and the loft → the open doorway → the warm next room deep in the background.
+— It fills the background behind him in the final held frame. Not visible in the opening frame.
+— Empty of people.
+
+THE ROOM — one real, solid space with real depth (the loft of @Video 3 · 10s, its window side as in @Image 1, its left side opening into the next room):
+— Every object and every light source stays where it is in the room and stays lit: the red desk lamp, the orange arc floor lamp, the small globe lamps on the shelf, the window light on Adil's right, the warm glow of the next room on his left. Nothing moves or jumps.
+— Everything not visible in @Video 3 · 10s or @Image 1 continues the loft in its exact style: charcoal-grey walls, warm wood floor, red brick, black metal, practical lamps, shelves, plants, art.
+— The only equipment in the whole space: the softbox on his left, and the reflector panel and globe light on his right. No other lights, stands, flags, crew or people — in this room or the next.
+
+LOOK: exactly like @Video 3 · 10s — the same colour, contrast, grain, sharpness and wide-angle lens character; the window side calm and softly bright as in @Image 1; the next room warm and softly out of focus with natural depth falloff. Warm, cinematic, filmed for real.
+
+FAILURE:
+— GAZE AT THE START: his eyes following the camera as it starts to move and turn; eye contact or a glance at our lens at any moment between the opening frame and 7.2 s; his head turning toward the camera as it swings around his left side.
+— GAZE AT THE END: NOT looking into our lens during his turn at 7.2–8.7 s; the turn coming early, late, bigger or held longer than in the original.
+— THE FINGER TWIRL (4.6–6.3 s): missing; shortened; the loops or the temple tap missing; frozen into a static pointing finger; turned into a wave, a shake or a different gesture; done with the left hand; at the wrong height; ending early; the circles too big, too slow or stopping; the hand dropping out of view; the finger blurred or melted.
+— HANDS: any gesture missing, changed, late, early, shortened, smaller, calmer, simplified, mirrored or done with the other hand; hands resting, frozen or idle where the original moves; extra gestures; hands drifting off the original track when the camera moves; a hand reappearing in the wrong place after being hidden; extra or fused fingers.
+— BODY AND HEAD: posture, lean, shoulders or torso not matching the original frame by frame; head tilts, nods or turns that are not in the original; the body swaying or re-acting with the camera; the chair swivelling or sliding; lipsync off.
+— Outfit: not matching @Image 2 — jeans not blue, a different sweater, different trousers.
+— THE NEXT ROOM: missing; a flat, closed wall on Adil's left; a closed door; a dark empty opening; a shallow niche instead of a deep room; the next room on the wrong side; people in the next room.
+— Camera smoothness: any hitch, step, speed jump, stutter, jitter, float or wobble; a jerky start; a sudden stop; a bump, overshoot, bounce-back or settle-wobble at the landing; handheld or drone feel.
+— Camera path: a different route, direction, height or end position than in Rule 1; going around his right side first; a full 360° back to the front; moving after ~7.0 s; touching or passing through the desk props, the chair, the softbox or Adil.
+— Set: the set visible in the opening frame; the reflector panel bigger than in @Image 1, behind him, on the wrong side or moving; a white backdrop behind his chair; the softbox missing, on the wrong side or moving; any film camera, tripod or filming gear; any other equipment, crew or people.
+— Room: the window side not matching @Image 1; the window light disappearing or jumping sides; the room changing, objects morphing, appearing or disappearing; doubled characters.
+— Look and text: waxy skin, AI look; any readable text, logos or subtitles; music.
+
+AUDIO: the original audio of @Video 3 · 10s, untouched, lip-synced word for word: "Solo shooting just hit a whole new level. This shot was filmed on one camera, but that's enough to make a full 360 orbit or any camera angle you want." Underneath, quiet room tone only. No music, no whooshes, no subtitles.
+
+ONE MORE TIME (same priority as Rule 0):
+— ADIL = @Video 3 · 10s, frame by frame, 1:1: every finger, hand, arm, shoulder, the torso, the head, the face, the lips — every movement at its exact moment, with the same hand, the same size, the same speed. Side by side with the original, his motion is identical; only the viewpoint differs. The camera never changes his performance.
+— THE FINGER TWIRL, 4.6–6.3 s: right hand beside his face, index finger up, twirling; a quick loop down at ~5.05 s; the finger tapping his temple at ~5.1–5.25 s; up again, another small loop at ~5.55 s, then steady twirling circles until 6.3 s — exactly as in the original, seen as the camera comes around from behind him to his right side.
+— HIS GAZE: locked to the fixed point in front of the desk where the original camera stood. The moment our camera starts moving, his eyes stay behind on that point and never follow us — no eye contact while the camera moves. Only at 7.2 s does the original turn to his right bring his eyes straight into our lens; he looks at us until ~8.7 s, then back to the front, exactly as in the original.
+— The camera = one three-quarter orbit, timed exactly as in Rule 1, one silk-smooth glide at desk height:
+  · the original front view;
+  · in low over the desk, already curving to his left;
+  · around his left side past the laptop;
+  · slowly behind him;
+  · around his right side;
+  · a feather-soft landing near his right profile at ~7.0 s;
+  · a locked-off hold to 10.0 s.
+— His outfit = @Image 2: burgundy knit quarter-zip, white T-shirt, wide blue jeans.
+— His right side = @Image 1. His left side = one softbox and, beyond it, the wide open doorway into the warm-lit next room. No filming gear anywhere, nothing behind him.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+02 · Change The Lighting
+
+Relight a take you’ve already shot. We changed the light to daylight, night, a dim room, studio portrait light and cold blue with snow and frost.
+
+
+
+
+Full frame: the relit result. Bottom right: the original take.
+
+
+
+
+Input: the original take, 15 s. It is right below, and Recreate attaches it for you.
+
+Settings: Seedance 2.5 · 16:9 · 15 s · 1080p. Tap Recreate to open the prompt with the original take attached, then swap in your own clip and shift the timecodes to match it.
+
+Input video - the original take, 15 s.
+
+Try to recreate with your footage:
+
+TASK
+
+Using @Video 5, generate a 14.9-second, 16:9 photoreal live-action video. Every movement, expression, gesture, gaze, tablet tap, lip movement and every timing of the man matches @Video 5 frame by frame: Camera B is like a second camera that was rolling at the same moment from another position, filming the same performance, not a re-enactment. Only three things change: from 00.9 to 12.4 s the shot switches to a high-angle wide camera (this camera is completely locked off and never moves); the lighting changes smoothly along the timeline (including the light on him rotating one full circle around him — only the light direction rotates, not the camera, and nothing new appears in the frame); and a frost-and-snow effect is added.
+
+@Video 5 is a complete performance capture: 14.92 seconds, 373 frames, 25 fps. Every second of the output = the same second of the original: camera changes and cuts never change his timing — no speeding up, slowing down, freezing, skipping or repeating any action. In every frame, every part of his body — head, face, eyes, shoulders, elbows, wrists, every finger — is in exactly the same position in space as in the same frame of the original; Camera B only sees the same action from another angle.
+
+Shot structure (strictly by time): 00.0–00.9 Camera A, only 0.9 s → 00.9–12.4 Camera B, 11.5 s → 12.4–14.9 Camera A, 2.5 s, all the way to the end.
+
+
+1. HOW TO USE THE REFERENCE VIDEO
+
+- @Video 5 is the only source for the character's appearance, performance, lines, lip sync and timing.
+- 00.0–00.9 and 12.4–14.9: camera position, framing and light are copied exactly from @Video 5 — identical to the original.
+- The original has no color grade; the daylight stays as it looks in the original.
+
+
+2. CAMERAS
+
+Camera A (00.0–00.9 and 12.4–14.9): same as @Video 5 — a low wide-angle camera at desk height, facing him head-on, with the objects on the desk in the foreground.
+
+Camera B (high-angle wide shot, 00.9–12.4): shoots from the front-right of the desk — that is, his front-left, about 45 degrees to the right of the head-on direction; about 4 m from him and about 2.7 m above the floor, tilted down about 35 degrees, wide-angle lens, completely locked off, aimed at him. The frame is fairly wide: the whole desk and a ring of floor around it are in frame; he is in the center of the frame, with his upper body and both hands fully visible. Frame contents, from front to back:
+- Foreground (lower half of the frame): a dark wooden desk runs diagonally across the frame, its top covered with an orange felt desk mat. Bottom-left is a white-and-grey mechanical keyboard; next to it a black mesh sticky-note box and a small bobblehead figure; along the bottom edge, black-framed glasses and a pen cup full of colored pencils and markers; on the left side of the desk an orange-red swing-arm desk lamp and a stack of orange notebooks (with a pencil on top); in the middle of the mat a white mouse, a white stylus and a tablet; at the bottom edge, right of center, an open black laptop with the back of its screen facing the camera; it does not block his hands or the tablet.
+- The man: he sits on a red chair behind the desk in the center of the frame, his head about 40% of the way down from the top of the frame, his upper body and both hands in frame; behind him to his left is a brown leather backpack.
+- Back wall (center-left of the frame): a white-framed double glass door with white venetian blinds lowered, a bit of the lawn outside showing below the bottom edge of the blinds; in front of the door a small round wooden side table with a large money tree plant on it; leaning beside the side table, a black-and-white poster "THE ESSENCE OF EARTH"; a rattan basket on the floor behind the desk lamp.
+- Left of the glass door (left side of the frame): a very large white backdrop, like a photo-studio backdrop stand, blocking the wall on this side.
+  - Stand: two vertical silver metal poles, left and right, on tripod legs; each pole has a silver metal clamp at the top holding a horizontal crossbar.
+  - Cloth: a roll of white backdrop cloth hangs from the crossbar. The very top is a horizontal white roll; the cloth hangs straight down from the roll all the way to the floor. The whole backdrop is a rectangle: top edge horizontal, left and right edges straight vertical lines, all four corners right angles.
+  - Surface: pure white, matte, flat, with a very fine vertical fabric grain, no wrinkles, no hot spots; the darker areas are a pale grey-white.
+  - Size and position: about 2.5 m wide, the roll almost touching the ceiling. It does not hang against the wall but stands at an angle: the right pole is right next to the left frame of the glass door, so the backdrop's right edge sits beside the door's blinds; its left edge angles out into the room by about 30 degrees, so the cloth faces the desk at an angle. It extends from the glass door to near the left edge of the frame, with the orange-red desk lamp and the rattan basket in front of it.
+  - It does not emit light itself; it is only lit by the light in the room.
+- Behind him to the right: a dark wooden bookshelf (books, candles, small warm lamps), two white globe lamps above the shelf, and above them a black-and-white zebra-stripe painting (with an orange-yellow circle); on the floor beside his shoulder, a white striped paper lantern.
+- Right wall: a low grey ledge runs along the wall, with an orange KAWS figure poster leaning on it, an orange ring vase, a tall yellow vase, a small green plant, a small photo frame and a few books; high on the wall a "BAUHAUS" geometric poster and a few small frames; the orange translucent round shade of an arc floor lamp hangs in the upper right of the frame.
+- Far right of the frame: a white corkboard on a rolling stand, pinned with notes, photos, stickers and a black poster "WHEN NOTHING GOES RIGHT GO LEFT"; next to it a dark wooden stool.
+- Light oak floor; grey-blue walls with a subtle texture.
+- His head and shoulders are against the light glass door and wall, with a clear silhouette; the dark bookshelf is behind him to his right, with a gap between it and him so it does not merge with him.
+- The blinds stay lowered and present in every lighting state; they are only lit by different light. There are no other curtains in the frame.
+- The tablet screen stays on from start to finish (a bright white interface) and must never be black.
+
+
+3. CHARACTER AND PERFORMANCE (MOST IMPORTANT)
+
+- Appearance copied exactly from @Video 5: young man, dark curly hair, mustache, earring; deep burgundy ribbed-knit half-zip sweater over a white T-shirt.
+- The performance is the most important requirement of this video, more important than the light and the snow. In every frame the direction of his head, his gaze, body posture, hand positions and finger movements are exactly the same as in the frame of @Video 5 at the same time; every action starts and ends at the same time, with the same speed, amplitude and direction — nothing added, removed or exaggerated; where he is still in the original, he is still here; where he moves in the original, he moves here at the same time. Where he looks at the camera in the original, here he looks toward the original camera position (straight in front of the desk).
+- Lip sync matches every word of the original. The only lines are those in the original, and each line is said only once; where he does not speak in the original (see "6. SOUND", especially 08.3–10.0 and 11.15–12.45), he makes no sound and does not move his mouth to speak here either; only at 12.1–12.4 does he open his mouth as in the original, getting ready to say the next line.
+- The light changes (including the light circling him) and the snow have no effect on his performance: he does not look at the snow, dodge the snow, hunch up or shiver, or brush snow off himself; he does not look at the light, squint or avoid the light. At 07.0–07.6 his glance to his left is an action already in the original — very small, at eye level, not looking at the light.
+- No matter how the weather changes, it does not affect him: the frost and snow and the relighting are post-production effects layered over the original performance. Think of it as first placing the original performance unchanged into this room, then adding the light and snow on top. From 08.0 it gets cold, starts snowing and frosting over, until the gust blows the snow away at 11.2; throughout this time he keeps moving exactly as in the original — especially at 08.0–10.3 his head and hand keep moving exactly as in the original: looking down at the tablet, his head first slowly turns to his left, then to his right, his right hand swipes on the tablet, moves to the right edge, then back to the middle. He does not freeze, stop or move less because of the cold.
+- The gestures at the start, 00.0–02.9, also follow the original, in an order that must not change: both hands open and raised outside his shoulders → hands come together, clasped in front of his stomach → looks up to the upper left → right hand rises to his chest, gesturing with pinched fingers → right index finger lands on the tablet and taps. Camera B starts at 00.9 and picks up exactly these actions: the clasp, the look to the upper left, the pinch gesture, the finger landing on the tablet.
+- After 11.1, also as in the original: at 11.1–11.5 he looks down at the tablet, his right hand just resting lightly on it; at 11.6 he looks up at the camera — he must not keep his head down tapping the tablet; at 12.0 his right hand lifts first, then both hands start a series of gestures (see the action beats below). During the gust (11.2–12.4) and at 12.4–14.9 the same applies: the shape, height, direction, order and timing of every gesture are the same as at the same second of the original: open spread hands, forearms crossed in front of the chest, hands spread out in front of the waist, hands as if holding a ball, fingertips touching in front of the stomach — none may be swapped, dropped or reordered.
+- Copy, don't interpret or adapt: do not add, remove, simplify or redesign any action, and do not swap left and right hands; whenever his hands move in the original, they move here too.
+- At the hard cuts at 00.9 and 12.4, the action continues in the next shot from the same position and at the same speed — no skipping, no repeating.
+- He stays seated the whole time. The size of his movements is exactly as in the original — not bigger, not smaller: wherever his head turns left and right, his hand moves across the tablet, or his upper body leans slightly in the original, it must happen here too; it must not turn into him sitting motionless.
+- Action beats (left and right are his own left and right):
+  - 00.0–00.5 both hands open and raised outside his shoulders, palms forward, fingers spread wide, elbows bent; looking at the camera and smiling, he says "Don't like the daylight?";
+  - 00.6–00.8 the two open hands move inward and come together in front of his chest;
+  - 00.9–01.4 his hands lower and come together in front of his stomach, fingers interlaced; his chin slowly rises, his head turns to his upper left, eyes looking up-left, a smile at the corners of his mouth;
+  - 01.5–01.9 his right hand leaves and rises to between chest and chin height, fingers pinched together pointing up, gesturing lightly; his left hand stays in front of his stomach; his head is still turned to his upper left; at 01.9 he starts saying "Let's make it night.";
+  - 02.0–02.2 his right index finger extends and drops onto the tablet; his head turns back and looks down at the tablet; his left hand goes to the edge of the desk;
+  - 02.2–03.9 looking down at the tablet, his right index finger taps and swipes on it again and again, smiling;
+  - 04.0–04.5 he looks up at the camera, his right hand rises to his chest and opens in a gesture, eyebrows raised, saying "Too dark?";
+  - 04.6–06.9 his right hand goes back to the tablet, head slightly lowered, tapping while looking at the tablet, smiling; he is also looking at the tablet when he says "Let's add some light.";
+  - 07.0–07.6 his head turns to his left, a level glance to the side (very small, not looking up); his right hand opens in front of his chest with a small wrist turn, then drops back to the tablet;
+  - 07.7–08.5 his right index finger drops back to the middle of the tablet, tapping and swiping, looking down at the tablet, saying "A little colder…";
+  - 08.5–09.3 still looking down at the tablet, his head slowly turns to his left, looking at the left side of the tablet, his right-hand fingers swiping lightly on the tablet;
+  - 09.4 his right hand lifts slightly off the tablet, fingers spread;
+  - 09.5–10.2 his head turns to his right and lowers, looking at the right side of the tablet; his right hand follows to the right edge of the tablet, fingers tapping and moving there; his upper body also leans slightly to his right; when he says "Oh" he is still looking down at that side;
+  - 10.3–10.6 he slowly lifts his head, his right hand moves back to the middle of the tablet and taps once;
+  - 10.6–11.1 he raises his eyes to the camera and says "that's too much.";
+  - 11.1–11.5 he looks down at the tablet, right-hand fingers spread, resting lightly on the tablet, left hand on the desk, not speaking;
+  - 11.6–11.9 he looks up at the camera (blinks at 11.7), both hands still in place, mouth closed;
+  - 12.0 his right hand leaves the tablet first and lifts;
+  - 12.1–12.4 both hands rise together to between chest and shoulder height, palms open facing forward, fingers spread wide, hands about a shoulder-width apart; eyebrows raised, mouth open; at 12.45 he starts the next line;
+  - 12.5–12.6 the open hands move inward and down;
+  - 12.7–12.9 his forearms cross in an X in front of his chest, palms down, fingers straight; his head tilts slightly to his left;
+  - 13.0–13.1 the crossed hands separate horizontally to both sides;
+  - 13.2–13.6 his hands spread out to both sides in front of his waist, palms down, fingers spread, holding there; his upper body leans slightly forward, smiling;
+  - 13.7–13.8 his hands rise again to between chest and shoulder height, palms facing each other, fingers spread, as if holding a big ball;
+  - 13.9–14.0 his hands come together toward the center;
+  - 14.1–14.6 his hands come together in front of his stomach, fingertips touching, fingers loosely interlaced, smiling at the camera as he talks;
+  - 14.7–14.9 his right hand leaves and rises next to his chin, fingers slightly curled; his left hand stays down.
+- Gaze (exactly as in the original): 00.0–00.8 at the camera; 00.9–01.9 to his upper left, head rising higher and higher; 02.0–04.0 down at the tablet; 04.0–04.5 toward the original camera position; 04.6–07.0 down at the tablet; 07.0–07.6 a level look to his left side; 07.7–10.2 down at the tablet, first at the left side, then at the right side, his head turning left and right with it; 10.3–10.6 slowly lifts his head; 10.6–11.1 toward the original camera position; 11.1–11.5 down at the tablet; from 11.6 on, always toward the original camera position (the lens). He never looks up at Camera B.
+
+
+4. FOUR LIGHTING STATES
+
+Light 1: Daytime
+- Soft, bright daylight comes in through the blinds; the glass door glows; the orange floor lamp and the small lamps are on. Same as the light in the original.
+- The white backdrop on the left is lit bright white by the daylight.
+
+Light 2: Night
+- The blinds glow with a saturated deep cyan-blue night light, an even field of color with no bright spots, flares or reflections; the outside visible below the blinds is almost completely black.
+- The white backdrop on the left has a faint blue-grey tint in the dark — only its outline is visible.
+- The whole room is in deep blue shadow; outlines are still readable, not pitch black.
+- Small warm points of light: the orange floor lamp (dimmed), the two white globe lamps above the bookshelf, the candles and small lamps in the bookshelf, and the striped paper lantern. The desk lamp is off.
+- The tablet screen is the brightest light source in the frame: it lights his fingers and a small patch of the desk mat around it, and lights his face from below, so his features are readable. Very dark overall.
+- After 03.0 there is an additional very weak soft light on him (the key light that circles him one full turn, described below): it leaves only a faint layer of light on his face, body and desk, dimmer than the tablet light; the room as a whole is still very dark (at 04.35 he still has to say "Too dark?").
+
+Light 3: Professional studio portrait lighting
+- Outside the window it is still night. His face is lit like a professional studio portrait — the brightest, most flattering part of the frame:
+  - Key light: a large, soft light from off-frame, natural skin, accurate skin tone. The direction of the key light is the light circling him one full turn, described below: at 05.8 it is turning from his right side toward straight in front of him; after 07.0 it stops on his left side, lighting him from the side;
+  - Soft fill on the other side, no harsh black shadows; bright catchlights in both eyes;
+  - The rim light is very soft and weak: only a faint backlight behind him, leaving a thin, soft bright edge on his hair and shoulders, much dimmer than the key — not glaring, not blown-out white, not overexposed, just separating him slightly from the background.
+- The room as a whole is also lifted by warm light; the orange floor lamp is on; the background is one stop darker than him; the white backdrop on the left is lit.
+- All this studio light comes from off-frame; no new light sources may appear in the frame: no new pendant lamps, light panels, spotlights or glowing squares on the ceiling, and no new light fixtures on the backdrop or in the room.
+
+Light 4: Cold tone + frost and snow
+- Grade: the whole frame in deep blue and cyan-blue tones, a layer of cold haze in the air; highlights cold white, shadows blue-tinted, not dead black; the blinds glow evenly with a pale cyan cold light.
+- The white backdrop on the left has a cold blue tint.
+- Warm accents stay: the orange floor lamp, the two globe lamps, the candles and the striped paper lantern still glow warm, contrasting with the cold blue.
+- He is mainly lit by the white light of the tablet, his face clear (before 10.5 there is also a side light on his left, see below).
+- Frost and snow (realistic, physically correct):
+  - The snow comes from above: fine snowflakes and ice crystals keep flying into the frame from beyond the top edge, drifting down from top to bottom, swirling in soft little eddies with the air currents, glittering like fine dust in the light, and finally landing on the desk and the objects on it, gently settling and building up;
+  - The desk gets a thin layer of white granular frost, like a dusting of fine sugar: white frost on the keyboard keys, the desktop, the notebooks and the sticky-note box; the orange desk mat is frosted over into a whitish pale pink; there is frost on the tablet bezel too, but the screen stays on; the frost does not affect his use of the tablet, and his fingers tap and swipe on it as usual;
+  - Very little snow on him: only a few scattered fine flakes and a hint of thin frost land in his curly hair, which stays dark; only a few scattered snow grains on the shoulders of his sweater, whose color does not change;
+  - When he talks, a puff of white breath comes from his mouth;
+  - The snow mostly lands on the desk and around him; no snow builds up on the floor — the wooden floor stays as it is; no snow on the walls. There is no frost on his face; his expressions are clearly readable.
+
+
+Key light circling him one full turn (03.0–10.5, layered on top of the lighting states above):
+- This is a post-production relight effect: there is nothing more in the room or in the frame than before; only the direction of the light falling on him changes. You cannot see where the light comes from; all you see in the frame is the highlights and shadows on him, the chair and the desk changing. The light falls only on him, the chair and the desk, leaving no light spots or reflections on the glass door, the blinds or the white backdrop. The light is neutral white.
+- Only the light rotates, not the camera: Camera B stays completely locked off from 00.9 to 12.4; the framing does not change by a single frame, and the camera does not orbit him.
+- 03.0–07.0: the light circles him one full turn (360 degrees) at a constant speed, a quarter turn per second, always in the same direction: his left side → behind him → his right side → straight in front of him → back to his left side. The highlights on him and the shadows he casts on the desk, chair and floor go around him one full turn along with it:
+  - 03.0 the light comes from his left side (frame right) and fades up very weakly: left cheek, left shoulder and left arm lit, shadow falling to his right (frame left). It is still night at this point (Light 2), and this layer of light is dimmer than the tablet light.
+  - 04.0 the light moves behind him (the back-wall side): a thin bright edge lights up around his hair and shoulders, his face and chest get a bit darker (the tablet still lights his face), and the shadow falls on the desk in front of him.
+  - 05.0 the light moves to his right side (frame left): right cheek and right shoulder lit, left cheek in shadow, shadow falling to his left (frame right).
+  - 05.8 the light is turning from his right side toward straight in front of him; at this point it switches to Light 3, and the light slowly brightens into the studio key light.
+  - 06.0 the light reaches straight in front of him (the original camera side): his whole face is evenly lit, and the shadow falls on the chair behind him.
+  - 07.0 the light returns to his left side (frame right) and stops, having made exactly one full turn: left cheek, left shoulder and left arm bright, the bridge of his nose and the center line of his face dividing light and shadow, right cheek in soft shadow but still readable.
+- 07.0–09.0: the light on his left stays where it is, not moving. When the whole frame becomes Light 4 at 08.0, the light on his left is still on, still neutral white.
+- 09.0–09.5: only this left-side light turns cold, becoming a slightly bluish cold light (just a faint blue, not a very saturated blue), and the light on his left cheek turns a faint cold blue with it.
+- 09.5–10.5: the left-side light slowly dims and smoothly disappears. All the other light in the room — the cold tone of Light 4, the small warm lamps, the white light of the tablet — stays unchanged. After 10.5 he is mainly lit by the white light of the tablet, as described for Light 4.
+- The whole process is smooth and continuous, with no flicker or jumps.
+
+
+5. TIMELINE (EVERY CHANGE IS LOCKED TO A LINE)
+
+1. 00.0–00.9 | Camera A | Light 1 | He says "Don't like the daylight?" (00.1–00.8).
+2. 00.9 | The instant he finishes saying "daylight?" and his open hands have just come together in front of him, hard cut to Camera B (no transition of any kind) | Light 1.
+3. 01.9–03.4 | "Let's make it night." (01.9–02.4) | The moment he starts saying "Let's," the light starts to change: Light 1 smoothly turns into Light 2 over 1.5 seconds.
+4. 03.0–05.8 | Light 2 | "Too dark?" (04.35–04.8) | From 03.0: the light on him fades up very weakly from his left side (frame right) (dimmer than the tablet; the room is still very dark) and starts circling him one full turn at a constant speed: at 04.0 it is behind him, at 05.0 on his right side (frame left); the highlights and shadows on him rotate along with it.
+5. 05.8–07.3 | "Let's add some light." (05.55–06.2) | When he says "add" (05.8), the light starts to change: Light 2 smoothly turns into Light 3 over 1.5 seconds, and his face gets brighter and brighter; the key light keeps rotating, reaches straight in front of him at 06.0, and at 07.0 returns to his left side (frame right) and stops, having made exactly one full turn, lighting his left cheek from the side.
+6. 07.3–08.0 | Light 3, the key light stopped on his left side | At 07.0–07.6 he turns his head left for a glance and opens his right hand in a small gesture, then looks down and says "A little colder…" (07.55–08.3).
+7. 08.0–09.3 | At the same moment he says "colder" (08.0) it starts getting cold: Light 3 smoothly turns into Light 4 over 1.5 seconds (until 09.5); the light on his left is still on and still neutral white; from 09.0 only this left-side light starts to turn cold and slightly bluish. Meanwhile he keeps moving as in the original: 08.0–08.5 looking down at the tablet, right index finger tapping and swiping in the middle of the tablet; 08.5–09.3 his head slowly turns to his left, looking at the left side of the tablet, right-hand fingers swiping on the tablet. The snow flies in from above; it does not appear out of nowhere:
+   - First, a few scattered snowflakes fly into the frame from beyond the top edge, carried by the air in soft swirls, slowly falling;
+   - Then more and more snow flies in from above, spinning as it drifts down, flake by flake landing on the desk, keyboard, notebooks and mat, gently settling and slowly building up;
+   - Frost grows bit by bit only where snow has landed, slowly joining into a thin layer of frost; only a few scattered grains land on his head and shoulders;
+   - Every flake has a complete path: flies in from the top of the frame → swirls down → lands on a surface and stays. No snow or frost pops up out of nowhere in the air or on the desk. The whole process is continuous, soft and physically realistic.
+8. 09.3–10.0 | Light 4; snow keeps slowly drifting down from above and landing on the desk. At 09.5 the left-side light is already a slightly bluish cold light, then starts to slowly dim; the other lights stay unchanged. He moves as in the original: at 09.4 his right hand lifts slightly off the tablet, fingers spread; from 09.5 his head turns to his right and looks down at the right side of the tablet, his right hand moves to the right edge of the tablet and taps and moves there, his upper body leaning slightly to the right.
+9. 10.0–11.15 | Light 4 | He says "Oh, that's too much." (10.0–11.15) — this line is said only once in the whole video, with white breath at his mouth. While he says it, everything stays as before: snow is still slowly drifting down from above, the frost is still on the desk, the cold haze is still there, the light is still Light 4 (the left-side light slowly disappearing before 10.5), and there is no gust yet. He moves as in the original: when he says "Oh" he is still looking down at the right side of the tablet; at 10.3 he slowly lifts his head and his right hand returns to the middle of the tablet for one tap; at 10.6 he raises his eyes to the camera and says "that's too much."
+10. 11.2–12.4 | Only after he finishes saying "too much" (11.2) does a strong gust suddenly blow up, lasting about 1 second (11.2–12.1): the snow in the air and the frost and snow on the desk and on him are suddenly swept up, scattering and swirling in all directions, quickly fading, vanishing into the air or flying out of the frame; the cold haze is blown away too. The gust blows away only the snow, frost and haze: the objects on the desk do not move, and his hair is at most lightly stirred by the wind; the gust is only a visual effect — he has no reaction to it, does not speak, and does not repeat any line because of it. Once the frost and snow are blown away, the desk, keyboard, mat, hair and sweater are dry, exactly as before the snow: no water drops, beads, water stains, wet reflections, or drizzle-like specks. At the same time, from 11.2 Light 4 turns back into Light 1 smoothly and at a constant rate, with brightness and color changing continuously, no sudden jumps, flicker or frame shake; by 12.4 Camera B is already in Light 1, with no frost, haze or snow. During the gust he performs as in the original, with no gesture missing: 11.2–11.5 looking down at the tablet, 11.6 looking up at the camera, 12.0 right hand leaving the tablet first, 12.1–12.4 both hands rising to his chest, open, fingers spread wide.
+11. 12.4 | The instant his hands are open and he is about to start the next line, hard cut back to Camera A (no transition of any kind), and the gesture continues in the new shot | Light 1, same as the original. From 12.4 to the end it is Camera A, identical to the original: at 12.45 he starts the next line; at 12.7 his forearms cross in an X in front of his chest; at 13.2 his hands spread out to both sides in front of his waist; at 13.7 his hands rise to his chest again as if holding a big ball; at 14.1 his fingertips touch in front of his stomach, smiling; at 14.7 his right hand rises next to his chin.
+
+
+6. SOUND
+
+- Use the original audio of @Video 5 completely, unaltered, continuous across both hard cuts, lip sync matching word for word.
+- He speaks only at these times: 00.1–00.8, 01.9–02.4, 04.35–04.8, 05.55–06.2, 07.55–08.3, 10.0–10.2, 10.65–11.15, and from 12.45 on; at all other times he makes no sound.
+- No music, no new voices or lines.
+
+
+7. IMAGE QUALITY
+
+Photoreal live action, cinematic, in sharp focus. All light changes are smooth, constant-rate transitions; lights come on and go off with gradual fades, no flicker, no jumps; the image stays stable and continuous throughout — no shake, no dropped frames, no sudden deformation or jumping of people or objects.
+
+
+8. REJECT CRITERIA
+
+1. The man is not the same person as in the original, or his clothes or hairstyle change.
+2. In any frame, his head direction, gaze, posture, hand positions, tablet-tap timing, speed or lip sync differ from the original at the same time; actions are made bigger or later (especially 07.0–07.6 turning into an outstretched arm or looking up at the ceiling); actions are made smaller or he is motionless, or he freezes because of the cold (especially if at 08.0–10.3 his head does not turn first left then right, or his right hand does not move on the tablet from the middle to the right edge and back); any line is said twice (especially "too much"), or he speaks or moves his mouth where he does not speak in the original; he reacts to the snow or the light in a way that is not in the original; the gestures at 00.0–02.9 differ from the original or come in the wrong order (open → clasp → look upper left → pinch gesture → index finger taps the tablet); at 11.1–12.4 he keeps his head down tapping the tablet instead of looking up at the camera at 11.6 and raising and opening both hands at 12.0; the gestures after 11.1 differ from the original, or their order or timing is wrong (open → crossed in front of the chest → spread in front of the waist → holding a ball → fingertips touching → right hand up next to the chin).
+3. A hard cut is early or late: cutting to Camera B only after 01.0, or still on Camera B after 12.4; a transition is used; the camera moves in Camera B (especially orbiting him or rotating along with the light); Camera B is not shooting from the front-right of the desk, the frame is not wide enough, or the laptop blocks his hands and the tablet.
+4. The room layout in Camera B differs from the description above, especially if the white backdrop on the left changes look, angle or position, disappears, becomes round or oval, or the left side becomes a wall or a door; new furniture or objects appear; other curtains appear.
+5. At 03.0–07.0 the highlights and shadows on him do not go one full turn around him (left side → behind → right side → front → left side) — only part of a turn, swinging back and forth, or changing direction partway — or they do not end up stopped on his left side (frame right); at 03.0–05.8 the light is too bright and the room no longer looks dark like night; at 09.0 the left-side light does not become a faint cold blue, or becomes a very saturated blue; the whole room darkens instead of only the left-side light disappearing; the left-side light vanishes suddenly or flickers; the tablet screen goes black; in Light 2 his face is not lit by the tablet; in Light 3 his face does not look like professional studio portrait lighting, or the rim light is too strong, blown-out white or glaring; any light fixture, light stand, softbox, bulb or glowing object appears in the frame (none next to him, on the ceiling or on the backdrop).
+6. The blinds disappear or are raised; round bright spots, flares or lamp reflections appear on the glass door or the blinds; any lights appear outside the window.
+7. Snow or frost appears out of nowhere in mid-air or on the desk, instead of flying in from the top of the frame, swirling down and settling on surfaces; the snow turns into heavy snowfall, snowdrifts or icicles; snow builds up on the floor; too much snow on his hair and sweater, or his hair turns white; the snow and frost melt away in place instead of being blown away by a gust; objects on the desk get blown around; water drops, water stains, wet reflections or drizzle-like specks appear as or after the frost and snow leave; there is still haze, snow or frost at 12.4.
+8. A light change starts late (especially the cold starting later than 08.0); the gust or the return to daylight starts before he finishes saying "too much," or the gust still hasn't come well after 11.2; when the light returns to daylight, the image shakes, drops frames, or brightness or color jumps suddenly.
+
+
+ONE LAST REMINDER (AS IMPORTANT AS THE PERFORMANCE)
+
+- He = @Video 5, frame by frame 1:1: every finger, head, eyes, mouth, every action at its original second; camera changes never change his timing.
+- Cameras: 00.0–00.9 Camera A → 00.9–12.4 Camera B → 12.4–14.9 Camera A.
+- The light changes start at 01.9, 05.8, 08.0 and 11.2, all smooth transitions; at 03.0–07.0 the light on him circles him one full turn (left side → behind → right side → front → left side) and at 07.0 stops on his left side (frame right), lighting him from the side — only the light direction rotates, no lamps are added to the frame, and Camera B does not move at all; at 09.0 only this left-side light becomes a slightly bluish cold light, then slowly fades out before 10.5; snow drifts down from above onto the desk and is blown away by a gust only after he finishes saying "too much" (11.2), while the light returns to daytime.
+- The weather does not affect him: while it snows and frosts over at 08.0–11.2 he keeps moving as in the original — especially at 08.0–10.3 his head turns first left, then right as in the original, and his right hand slides on the tablet to the right edge and back to the middle as in the original — no freezing, no stopping.
+- The opening also follows the original: 00.0 hands open → 00.9 hands clasped in front of his stomach, looking up to the upper left → 01.5 right hand rises to his chest in a pinch gesture → 02.0 right index finger drops onto the tablet and taps.
+- Original audio untouched; every line said only once.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+03 · Change The Location
+
+Move your take to any location. Genjutsu Motion transfer keeps every frame of the take and replaces only the world around Adil: his loft becomes a snowy summit, built from text alone. The desk, the chair and his whole performance stay exactly as filmed.
+
+
+
+
+First 16 seconds of the result. Bottom right: the original take.
+
+
+
+
+Tap Recreate, swap in your own clip, and generate.
+
+Input video · the original take, 29 s.
+
+Try to recreate with your footage:
+
+V2V — location swap, with no location reference image; the location is built entirely from the text below. Move the whole of @Video 7, unchanged, to a high-altitude snowy mountain: extreme cold, a violent wind, huge amounts of snow suddenly whipped up by the wind and flying everywhere; the sky is mostly rolling clouds and blowing snow, with only a few patches of blue showing. The whole thing looks like a film shot for real on the mountain with a cinema camera. He (his look, clothes, every movement, lip sync, the desk lamp in his hand), that desk and everything on it, the brown backpack beside the desk and the red chair all stay exactly as they are; only the room around them is replaced by the snowy mountain. This prompt only describes the world around him, not what he says or why he moves; if any sentence conflicts with him in @Video 7, @Video 7 wins. Output 29 seconds, 16:9, 1920×1080; frame n of the result = frame n of the original.
+
+
+
+
+Rule 0 — the camera, a pure copy: output frame n = frame n of @Video 7 — camera position, height, direction, field of view, shot size, speed and every handheld shake, in the same frame, with the same amplitude and in the same direction; no smoothing, no stabilizing, no re-centering, no stopping early; no movement that is not in the original; the wind does not move the camera. The first frame is the first frame of the original (he sits behind the desk, with the things on the desk in the foreground) — no wide establishing shot at the start; the last frame is also the same as in the original. Any frame framed differently from the original = rejected.
+
+
+
+
+Rule 1 — him: he comes 100% from @Video 7: his look, expressions, lip sync, every step, every gesture and the position of the desk lamp in his hand, all at the same times as in the original; nothing regenerated, added or removed. His clothes are the outfit from the original (dark brownish-red half-zip sweater, white T-shirt, blue wide-leg jeans); no jacket, hat, scarf or gloves added. The wind blows his clothes and hair hard: the windward side of the sweater is pressed tight against his body, the leeward side billows out and flaps and shakes violently, the sleeves and hem are pulled in the direction the wind is going, and the jeans flutter against his legs; his hair whips around, yanked to one side gust after gust. The gusts come suddenly, and his clothes and hair are yanked suddenly along with them, settling back a little when the wind drops. The wind only moves his clothes and hair; it does not change any of his movements, his position or his poses; he does not hunch, shield himself from the wind or shiver, and his expressions do not change because of the wind or the cold. Snow grains hit his hair and shoulders and are quickly blown away again.
+
+
+
+
+Rule 2 — breath: when he talks and breathes out, puffs of white warm breath come out in front of his mouth, spread around his face, and are immediately torn sideways by the wind, blown apart and carried off in the direction the wind is going. Only where he talks in the original, following the rhythm of each line: about 0.5–1.5, 3.5–4.7, 6.7–7.6, 8.8–11.7, 12.1–12.6, 14.9–16, 16.8–17.5 and 18.3–28.6 s; when he is not talking there is only a very faint white breath. The breath is semi-transparent and does not cover his face or mouth.
+
+
+
+
+Rule 3 — the desk and the things on it: the desk, everything on it (the same as in the original, nothing missing, nothing moved), the brown backpack beside the desk and the red chair all stand in the snow on the mountain, in their original positions and at their original sizes. The desk has been standing out here for a while and is a little frozen: a layer of snow has settled on the desktop and the things on it, thicker on the windward side, in the corners and around the bases of the objects; white frost and fine ice crystals have formed along the edges of the objects and of the desk, and a few short little icicles hang from the edge of the desk; a ring of frost has formed around the edges and corners of the tablet and the laptop, but the screens are still visible; a thin layer of snow and frost on the shade of the red desk lamp; snow built up on the top of the chair back and on the armrests. The desk legs and chair legs are sunk into the snow, with drifts piled up on the windward side. Gusts sweep the loose snow off the desktop again and again, but the objects themselves are not blown away and do not move; only the edges of the paper pages flutter in the wind. The desk lamp is on, as in the original.
+
+
+
+
+Rule 4 — the location (one continuous real space, not a flat backdrop pasted behind): a wind-hardened snowfield near the summit of a very high snowy mountain, surrounded by steep snowy peaks and rocky ridges.
+
+— Behind him in the original (where the back wall was): a huge, steep snowy peak a few kilometres away, ice and snow clinging to its rock faces, its summit half hidden by blowing snow and cloud; in front of it, a snow-covered ridge and a glacier.
+
+— On the left of the original frame (where the window was): the snowfield breaks away at its edge into a very deep valley filled with cloud; in the distance, rows of snowy mountains appear and disappear in the storm.
+
+— On the right of the original frame (where the cork board and the red brick column were): the snow slope rises to a rocky ridge, the rocks covered in wind-sculpted rime, with plumes of snow smoke torn off the top of the ridge by the wind.
+
+— Behind the original camera position (the side that was never visible): the edge of the snowfield, with more snowy peaks in the distance, fading into the snow haze.
+
+— Overhead: mostly fast-moving grey-white clouds and wind-whipped snow, with a few patches of deep blue sky in the gaps, growing and shrinking as the clouds move.
+
+— Underfoot: he, the desk and the chair share one patch of thick, wind-hardened snow, with wind ripples and snow ridges and a few black rocks showing through.
+
+— Not a single thing from the room remains: walls, windows, curtains, posters, bookshelves, cabinets and ornaments, plants, every lamp (the orange dome floor lamp, the globe lamps, the light tubes), the staircase, the ceiling, the cork board, the red brick column, the white backdrop and its stand, tripods, rugs, the wooden floor, cardboard boxes.
+
+— The distant mountains have a real size and distance, washed out by the blowing snow and the air; the horizon is at roughly lens height. When the camera moves, the nearby snow and rocks move fast, the ridges slowly, and the distant mountains barely at all (parallax). Wherever the camera turns, the scenery on that side was already there.
+
+
+
+
+Rule 5 — wind and snow (present the whole time, violent and sudden): a gale blows from the right of the original frame to the left (from where the red brick column was toward where the window was); its direction is fixed in the world and does not turn with the camera. The wind comes in sudden gusts: a few seconds of relative calm, then a violent gust suddenly whips large amounts of snow up off the ground and the ridges and sweeps it sideways across the frame, then dies down, then another gust suddenly comes. Snow grains stream in ribbons along the snowfield, past the desk legs and around his feet; there is always a lot of snow flying in the air — the snow close to the camera flies past as blurry white streaks, the snow far away forms layer upon layer of churning snow haze, with front-to-back layering and depth; in the strong gusts the distant mountains are mostly hidden by snow haze, but he, the desk and the things on it always stay clearly visible. No snow sticks to the lens.
+
+
+
+
+Rule 6 — light: only the natural sky light of the high mountains, no added lamps. Most of the time a soft, cold light filtered through cloud and blowing snow, blue-grey; the sky is brighter on the left side of the original frame — the same side the light on him comes from in the original — so the light on his face and body is as soft and clear as in the original, and he never turns into a silhouette. As the gaps in the clouds move, now and then a shaft of sunlight lands on the distant mountains. The desk lamp is on, as in the original, and does not light anything else.
+
+Integration: he, the desk, the chair and the snowy mountain are shot in the same take — the same light direction, the same color, saturation, motion blur, depth of field and grain, with contact shadows; looking cut out and pasted in, with glowing or hard edges, no contact shadows, or an inconsistent light direction = rejected.
+
+
+
+
+Rule 7 — cinematic feel: like a film shot on a cinema camera, not a phone video, not HDR, not CG-looking. Cool overall: the snow is a bluish white, the shadows blue-grey, the patches of blue sky deep blue; the only warm colors in the frame are the red desk lamp, the red chair, the orange desk mat and his deep red sweater, which stand out strongly against the cold palette. The snow highlights have gradation and are not clipped to pure white; there is detail in the shadows; layer upon layer of snow haze gives the air depth; natural contrast, light film grain; natural skin tones. No lens flares, no glow, no vignette.
+
+
+
+
+Fails: any frame framed differently from the original, or a wide establishing shot at the start; his movements, gestures, lip sync, expressions or position differ from the original, or are changed by the wind; his clothes and hair don't move or only flutter gently; a jacket or hat is added; big clouds of breath when he is not talking, or breath covering his face; objects on the desk blown away, missing or moved, or buried in snow beyond recognition; anything from the room still there; the mountains look like a flat picture pasted behind, with no parallax; the wind and blowing snow come and go, or the wind blows steadily with no gusts; snow sticking to the lens; extra people; subtitles, music.
+
+
+
+
+Sound: keep his original voice exactly as it is, not a single word changed, on top and clear; underneath it, the howl of a high-mountain gale — gust after gust suddenly rising, the pitch of the howl climbing, then falling away; the sound of his clothes flapping in the wind, and the hiss of snow grains hitting his clothes and the desktop. No music, no subtitles.
+
+
+
+
+Once more: he, the camera, the desk and the things on it, and the red chair = @Video 7, frame by frame 1:1, and the first frame is the first frame of the original; the surroundings = a high-altitude snowy mountain, continuous in 360 degrees; extreme cold, a gale blowing from the right of the original frame to the left, gust after gust suddenly whipping up large amounts of snow; his clothes and hair blown hard; white breath around his face when he talks; snow and frost on the desk; a few patches of blue sky overhead; a cinematic look.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+04 · Change The Objects
+
+Add or replace one thing and keep everything else frame-locked. On the mountain, Adil's burgundy knit becomes a blue alpine sweater with olive cargo pants and goggles, then the red desk lamp in his hand becomes an ice axe. Same face, same lips, same timing.
+
+The input for these two passes is the mountain take from section 03, so the new outfit and the ice axe land straight in the snow.
+
+Step 1 · Create the assets
+
+The outfit reference and the ice axe, each on a clean background so the model copies the object and nothing else.
+
+Outfit reference: sweater, cargo pants and goggles on a white background.
+
+Ice axe asset: the approved iteration from our project.
+
+Try to recreate with your footage:
+
+Photorealistic product asset photograph, 4:5 vertical, of a single modern mountaineering ICE AXE lying diagonally on a seamless light-grey studio cyclorama, isolated, nothing else in frame. Clean e-commerce / prop-asset look, every part sharp.
+
+
+
+
+THE ICE AXE:
+
+A technical alpine ice axe about 55 cm long. Shaft: slightly curved aluminium alloy tube, matte BLACK anodised, oval cross-section, with a moulded BLACK rubber grip on the lower third and a small raised orange rubber finger rest just above the grip. Head: forged steel, a gloss ORANGE powder-coated head with a serrated, slightly down-curved steel PICK on one side — the pick's teeth bare brushed steel, sharp — and a wide steel ADZE blade on the other side, also bare steel at its edge. Spike: a pointed hardened-steel ferrule at the bottom of the shaft. A black nylon wrist LEASH with a small orange sliding clip attached to the head, lying loosely beside the shaft. Small light scratches on the pick and spike tips as if used once; otherwise new. No logos, no brand marks, no text, no stickers.
+
+
+
+
+LAYOUT AND CAMERA:
+
+The axe lies flat on the floor running diagonally from upper left (head) to lower right (spike), centred, filling about 80% of the frame's diagonal with even grey margin around it. Camera directly overhead, perpendicular to the floor, no perspective tilt. The leash curls gently to one side without crossing the shaft.
+
+
+
+
+LIGHT AND FINISH:
+
+Large soft overhead softbox slightly from the upper left: a long soft highlight down the black shaft, crisp specular edges on the steel pick and adze, the orange head reading saturated and glossy, a soft short contact shadow under the whole tool onto the grey. Neutral white balance so the orange is a true, bright safety-orange and the black is deep but detailed. Medium-format sharpness, fine grain, real metal and rubber texture. Floor smooth, matte, even, curving softly out of focus at the frame edges with no visible seam or horizon.
+
+
+
+
+NEGATIVE:
+
+No people, hands, gloves or mountains. No snow, ice, ropes, crampons or other gear. No logos, text or labels. No extra colours beyond orange, black and bare steel. No render or illustration look, no fisheye, no shadows from the camera.
+
+See all
+Copy prompt
+Recreate
+Step 2 · Outfit Swap
+
+First 16 seconds of the result. Bottom right: the input it was built from.
+
+
+
+
+Inputs: the mountain take, 29 s (right below) · the outfit reference from Step 1. Recreate attaches both for you.
+
+Settings: Higgsfield Genjutsu - 29 s. Tap Recreate to open the prompt in Genjutsu with the take and the outfit reference attached, then swap in your own.
+
+Input video · the mountain take, 29 s. The outfit reference is the image in Step 1.
+
+
+
+
+Before you generate: Recreate opens Higgsfield Genjutsu in Motion transfer mode. Open the mode menu next to the model and switch it to Objects swap.
+
+V2V — change only the clothes, nothing else. The result is @Video 9: in every frame the camera, framing, location, snow, sky, light, the table and the things on it, the red chair, the desk lamp, the brown backpack, his face, eyes, eyebrows, skin, hair, expressions, lip sync, every movement and its timing are the same as in the same frame of @Video 9. The only change: he now wears the sweater and cargo pants from @Image 3 — oversized, good-looking, fashionable; the sport sunglasses from @Image 3 are pushed up on top of his head and do not cover his eyes; no hat. If any sentence conflicts with @Video 9, @Video 9 wins. Output 29 seconds, 16:9, 1920×1080; frame n of the result = frame n of the original.
+
+
+
+
+The previous version was rejected: his face was flat-lit, with no dimensionality — no shadow side, no shadows under the cheekbones, along the jawline or beside the nose; the contours and structure of the face disappeared, the face became wider and flatter, and the skin looked like a flat texture. This time the light and shadow on the face, its 3D structure and the face shape follow the original exactly.
+
+
+
+
+Source roles:
+
+— @Video 9: the only source for everything except the clothes and sunglasses — the camera, him (face, eyes, skin, curly hair) and his performance, the location, weather, table, objects, light and sound.
+
+— @Image 3: take only the sunglasses, the sweater and the pants (style, color, material, pattern, every detail). Do not take the burgundy knit beanie from the reference, the position of the sunglasses worn over the eyes in the reference, its grey-white background, the layout of the several images, or the poses the clothes are laid out in.
+
+
+
+
+The new outfit (worn from the first frame to the last, replacing the original's dark half-zip sweater, white T-shirt and blue jeans):
+
+— No hat: the only thing on his head is the pushed-up sunglasses; his curly hair shows as in the original.
+
+— Sunglasses pushed up on top of his head: large sport shield sunglasses (one big single lens, black frame, colorful mirrored coating — red-orange in the middle, fading to yellow, green and blue toward the sides) resting in the hair above his forehead like a headband, lens facing forward, the temples tucked into the curly hair on both sides; where the glasses press down, the curls are slightly flattened, and the rest of the curls are as in the original. They stay on top of his head from the first frame to the last, never slipping, falling off or going crooked with any movement or wind, and never covering his eyes or eyebrows. The lens reflects the sky. The pair of glasses lying on the table in the original stays on the table as it is.
+
+— Sweater: a cobalt-blue (royal blue) chunky hand-knit wool sweater with big, clearly visible stitches; extremely oversized, several sizes bigger than his build: shoulder seams dropped down onto the upper arms, a wide, boxy body, the hem reaching his hips, ribbed hem and cuffs; the collar is a very large, slouchy roll-neck turtleneck, bunched in rolls around his neck up to just under his chin, not covering his chin or mouth; a full row of off-white mountain motif across the chest (two jagged snowy-peak outlines); two off-white horizontal stripes on each upper sleeve; the sleeves are long and wide, bunching at the wrists, the cuffs covering a little of the backs of his hands, fingers still showing.
+
+— Pants: olive-green, ultra-loose cargo pants in cotton twill; the legs are very baggy and wide, like two big tubes, with a large flap pocket on the side of each thigh; the hems pool at the ankles, covering most of the top of the shoes. Shoes as in the original.
+
+— No hat, gloves, scarf or anything else that is not in the reference.
+
+
+
+
+His eyes and face are always clearly visible: eyes, eyebrows and the whole face fully uncovered; his look, blinks, raised eyebrows, smiles, and every expression and emotion while he talks, at every moment, are exactly the same as in the same frame of @Video 9 — not changed, not exaggerated, not stiff.
+
+
+
+
+Light, shadow and dimensionality on the face (as in the original, the same as the same frame of the original): the light comes from the left side of the original frame — the half of his face turned that way is bright, while the other half of the face, the jaw on that side, the ear and the neck fall clearly darker; the transition between the lit side and the shadow side is soft but clear, the shadow side much darker than the lit side, with gradation in the shadows, slightly warm, neither dead black nor flat grey. The nose casts its shadow toward the shadow side; there are shadows like in the original under the brow ridge, in the eye sockets, under the cheekbones, beside the nostrils, under the lower lip, under the chin and under the jawline. Soft highlights from the sky on the forehead, the bridge of the nose and the cheekbones. Face shape and the 3D structure of the features as in the original: the length and width of the face, the cheekbones, jawline, chin, nose bridge, brow ridge, and the shape and depth of the eye sockets are exactly the same; the outer contour of the face is clear against the background; it does not become wider, rounder or flatter. The big roll-neck of the new sweater casts shadows under the chin and on the neck; the sunglasses pushed up on his head cast a little shadow above his forehead; the blue of the sweater adds only a tiny bit of bounce light under the chin and does not change the light and shadow on the face.
+
+
+
+
+Real skin, no AI look: like a real person shot on a real cinema camera. The skin is his own skin: visible pores, fine texture and imperfections, stubble, natural variations in skin tone and a little oily sheen; in the cold wind the tip of the nose and the cheeks can have a very faint natural redness; the eyes are moist, with natural reflections from the sky, the whites of the eyes not glowing, eyelashes and eyebrows individually defined; natural teeth. No skin smoothing, no beautifying, no flat lighting, no fill light erasing the shadows, not plastic or waxy, not over-sharpened, not CG; the face does not flicker, deform or turn into someone else; natural fingers, the right number of them.
+
+
+
+
+Oversized and good-looking: the whole outfit has an oversized silhouette, styled like a fashion editorial — clean, with a designed feel (this refers only to the styling of the clothes, not to the lighting: the light is the natural light of the original, not flat studio light or beauty light); the cobalt sweater, the olive pants, the colorful mirrored lens on his head and his black curly hair stand out beautifully against the white snowy mountains; worn naturally, like his own clothes, not like a costume. The clothes must not become smaller or more fitted.
+
+
+
+
+Clothes and him: the clothes move naturally with every movement from the original — the chunky sweater bunches into thick folds at the shoulders and elbows, the wide sleeves slide down and bunch on the forearms when he raises his hands, the wide hem hangs forward when he leans forward, the baggy pant legs swing widely with his steps; the thickness and looseness of the clothes do not change any of his movements, hand positions, poses or timing. The wind follows the original's direction and strength: the windward side of the sweater is pressed against his body, the wide sleeves and hem billow in the wind; the baggy pant legs are blown flat to one side and flap hard; his curly hair is blown by the wind as in the original. Snow that lands on him in the original lands on the new clothes the same way, with a few white snow grains caught in the chunky yarn.
+
+
+
+
+Light and integration: the light on the new clothes and sunglasses is the light that falls on him in the original — same direction, same cold tone and brightness; the cobalt is vivid but not glowing, not sticker-like; the off-white pattern is no whiter than the snow; the yarn, ribbing and twill all have real texture and folds, with contact shadows; the sunglasses have contact shadows on the hair. Looking pasted on, with hard edges, no folds, or colors and light direction that don't match the frame = rejected.
+
+
+
+
+Fails: the sunglasses are worn over the eyes, or slip down and cover the eyes or eyebrows; the sunglasses disappear from his head or come and go; he wears a hat (including the knit beanie from the reference); the face is flat-lit, with no shadow side, no shadows and no dimensionality, or the face shape becomes wider, rounder or flatter; the skin is plastic-smooth, smoothed, beautified, waxy, with an AI look; the eyes and expressions differ from the original, or are stiff, exaggerated or distorted; the style, color or pattern of the clothes is wrong (the sweater is not cobalt blue or lacks the mountain motif and sleeve stripes, the pants are not olive cargo pants); the clothes become smaller or more fitted, not oversized enough; the collar covers the mouth; the clothes don't move with his movements and look like a texture; his face, hair, lip sync, movements or timing differ from the original; the camera, location, snow, sky, light, table and objects, desk lamp, chair or brown backpack differ in any way from the original; extra people; subtitles, music.
+
+
+
+
+Sound: keep the original audio track exactly as it is, completely unchanged.
+
+
+
+
+Once more: only change what he wears to the cobalt oversized sweater with the mountain motif and the olive ultra-wide cargo pants from @Image 3, with the colorful mirrored sport sunglasses pushed up on his head, not covering his eyes; his eyes, skin and every expression clear and real, and the light, shadow, dimensionality and shape of his face the same as in the original; no hat; apart from this, every frame = the same frame of @Video 9.
+
+See all
+Copy prompt
+Recreate
+Step 3 · Change The Props
+
+From 0:12 of the result, when he picks up the axe. Bottom right: the input.
+
+
+
+
+Tap Recreate to open it in Genjutsu, then swap in your own object.
+
+Input video · the re-dressed mountain take, 29 s. The ice axe is the image in Step 1.
+
+
+
+
+Before you generate: Recreate opens Higgsfield Genjutsu in Motion transfer mode. Open the mode menu next to the model and switch it to Objects swap.
+
+V2V — change only one thing: replace the red desk lamp in @Video 11 with the ice axe from @Image 4, and change nothing else. The result is @Video 11: in every frame the camera, framing, location, snow, sky, light, the table and the other things on it, the red chair, the brown backpack, his appearance, clothes, sunglasses, expressions, lip sync, every movement and its timing are the same as in the same frame of @Video 11. If any sentence conflicts with @Video 11, @Video 11 wins. Output 29 seconds, 16:9, 1920×1080; frame n of the result = frame n of the original.
+
+
+
+
+Source roles:
+
+— @Video 11: the only source for everything except the ice axe.
+
+— @Image 4: take only the look of this ice axe: an orange head, with a curved, serrated steel pick on one side and a flat steel adze on the other; a black, slightly curved shaft; an orange finger-guard ring lower down, a black grip with an anti-slip texture, and a steel spike at the very bottom; a black webbing wrist leash hanging from the head, with a small orange buckle. Real size, about 55 cm long; the metal has real reflections and signs of use. Do not take its grey background or the angle it is laid out at.
+
+
+
+
+The ice axe replaces the desk lamp from the first frame (same position, same moment; the lamp never appears):
+
+— Before 13.5 s: the ice axe lies flat on the table where the lamp was (on the left of the table in the foreground of the opening shot, later at the far end of the table), its wrist leash draped over the tabletop.
+
+— 13.5–14 s: he leans forward and reaches out with his right hand, gripping the shaft of the ice axe at the same moment and in the same place where he grabs the lamp in the original.
+
+— 14.3–14.5 s: he lifts the ice axe off the table, following the original lamp-lifting action.
+
+— 14.7–16.2 s: he walks back holding the ice axe, his hand and arm as in the original.
+
+— 16.2–29 s: the ice axe stays in his right hand, held just like the lamp in the original: his hand grips the middle of the shaft and the axe hangs vertically at his side — the orange head on top (near where the lampshade is in the original), the steel spike pointing down (near where the lamp base is in the original), the curved pick facing outward, away from his body; whenever the lamp tilts in the original (for example at 25 s), the ice axe tilts the same way with his hand.
+
+— The ice axe is rigid in his hand and moves together with the hand; only the wrist leash sways in the wind.
+
+— Every movement, position and timing of his hand, arm and body follows the original exactly, unchanged — only the object in his hand changes from the lamp to the ice axe.
+
+
+
+
+The desk lamp does not exist at all: in no frame is there any lampshade, bulb, lamp arm, lamp base or cord, and no lamp light — the lamp's warm glow from the original, its light on the table and the cord trailing across the snow are all removed; those areas show the tabletop, snow and background that are already in the original. The lamp and the ice axe never appear at the same time; the ice axe never floats in the air: before it is picked up it always lies on the table, and after it is picked up it is always in his hand.
+
+
+
+
+Light and integration: the light on the ice axe is the light at that spot in the original — same direction, same cold tone and brightness; the steel parts reflect the cold light of the snow and sky, with real highlights; the orange is vivid but not glowing, not sticker-like; there is a contact shadow when it lies on the table; in his hand, his fingers realistically wrap around the shaft. Looking pasted on, with hard edges, the hand not really gripping it, or the wrong size = rejected.
+
+
+
+
+Fails: any part of the lamp, its light or its cord is still in the frame; the look, color or size of the ice axe is wrong; the ice axe is in his hand before 13.5 s, or the timing and action of picking it up differ from picking up the lamp in the original; the position of his hand, his arm or his body movements differ from the original; the ice axe and the lamp appear at the same time; the ice axe floats, passes through his hand, or comes and goes; the camera, location, snow, sky, light, clothes, sunglasses, other things on the table or the chair differ in any way from the original; extra people; subtitles, music.
+
+
+
+
+Sound: keep the original audio track exactly as it is, completely unchanged.
+
+
+
+
+Once more: only replace the desk lamp with the ice axe from @Image 4 — at first lying flat on the table where the lamp was, picked up with his right hand at 13.5–14 s as in the original, then held vertically at his side the way the lamp is held in the original; no lamp, lamp light or cord; apart from this, every frame = the same frame of @Video 11.
+
+See all
+Copy prompt
+Recreate
+
+
+
+
+05 · Change The Color
+
+Color-grade your take in any palette you love. Seedance 2.5 matches the clip to one reference frame, with every color written as a HEX code: the lamp, the desk mat, the sweater, the skin, the shadows and the highlights. Adil, the room and the camera stay exactly as shot; only color and light change.
+
+Full frame: the regraded result. Bottom right: the original take.
+
+
+
+
+Tap Recreate to open the prompt with the original take attached, then swap in your own clip and your own HEX palette.
+
+Regrade and relight @Video 3 · 10s, and recolor the props in the room and his sweater, so this shot looks like it comes from the same film as the color reference described below: a calm teal-grey palette, deep blacks, overcast daylight coming in through the window.
+
+
+
+
+THE COLOR REFERENCE (described here in words; no reference image is attached):
+
+A frame from a muted, cinematic office drama. An open-plan office on a high floor, lit only by flat, overcast daylight from a wall of tall windows; the city outside is pale and hazy. The whole frame is cool teal-grey: grey-white walls and ceiling, grey-white metal desk lamps, shelves of slate-blue binders, white shirts that read as a cool white, dark charcoal suits, a dark carpet that sinks into near-black shadow in the foreground. Skin is neutral to slightly cool and soft, never orange. Saturation is low; the only warm note is one muted orange folder on a desk. Fine film grain, soft highlight roll-off, deep blacks that still hold detail.
+
+
+
+
+Keep unchanged: the same man, his face, features, hairstyle and mustache; every gesture, every mouth shape and expression, every moment of his speech; the layout of the room and the shape, size and position of every object; the camera position, framing, wide-angle view and every slight shake; one single shot for the whole clip, the same length. Only color and light change.
+
+
+
+
+The reference supplies only color and light: its office, its people, its binders and the city outside its windows do not belong in this video.
+
+
+
+
+PROPS AND CLOTHES RECOLOR (to match the reference)
+
+Red desk lamp → a cool grey-white metal desk lamp, lit side #95A19D, shadow side #697775, like the grey-white desk lamps in the reference office.
+
+Orange desk mat → a grey-blue felt desk mat, lit side #4A6171, shadow side #2D4154, the same blue as the binders in the reference.
+
+Shade of the orange floor lamp → cool grey-white, the same color as the desk lamp.
+
+His burgundy sweater → a deep slate grey-blue sweater #2C3238, as dark as the original; the white T-shirt underneath is a slightly cool white.
+
+Wooden desktop → a neutral dark grey-brown #4A4644, neither warm nor cool.
+
+Brick wall → remove the orange-red, turning it into dark grey-brown brick, about #3D3633, as dark as the original, with darker lines between the bricks.
+
+Cork board → grey-beige #6B6A5C.
+
+Posters on the wall, book spines, the pens in the pen cup, sticky notes → grey-blue, light grey and pale beige, very muted.
+
+Plants → a very muted grey-green.
+
+The orange notebook on the left of the desk → a dark orange #7A5442, the only warm color in the frame, like the orange folder in the reference.
+
+
+
+
+FACE AND HANDS (white balance to match the reference)
+
+Remove the orange cast from his face and hands in the original video and replace it with the reference's soft skin color, neither warm nor cool, leaning slightly cool: lit side around #887670, shadow side around #4B423E; natural color in the skin, never grey or blue.
+
+
+
+
+LIGHT (like the reference)
+
+All the lamps in the room are off: the desk lamp, the floor lamp, the small lamps on the shelf and the wall lamps are all unlit, their shades cool grey-white. The only key light is overcast daylight coming in through the window on the left of the frame: soft and cool, falling diagonally on him from left to right; the side of his face toward the window is lit, the other side falls into soft shadow; a very faint layer of cool white light falls from above. The window is the brightest part of the frame, close to #DCE4D8. The whole room is one stop darker than the original video; the desktop in the foreground and the objects on it fall into deeper shadow, and the bottom of the frame is near-black shadow.
+
+
+
+
+OVERALL COLOR (HEX reference values, taken from the reference)
+
+Deepest shadows #080609, shadows #0D0C0F, midtones #404646, highlights #89908A, brightest point #DCE4D8. Overall saturation half that of the original video. Large areas of warm color in the frame: zero. Contrast higher than the original: deeper blacks, soft highlight roll-off. Fine film grain, a clean, sharp image.
+
+
+
+
+KEEP UNCHANGED
+
+The man in @Video 3 · 10s, each of his movements and mouth shapes, the shape and position of every object, the camera and each of its movements are exactly the same as in the original video; not a single object is added to or removed from the frame — only the colors change.
+
+
+
+
+Sound: the original audio of @Video 3 · 10s, word for word, unchanged.
+
+See all
+Copy prompt
+Recreate
+Make Your Own
+
+Shoot one static take, pick one tool, and run its prompt on your own footage: swap in your take, keep the structure, and let Claude adapt the timecodes. Tag us in what you make. Restyle from the same reel is coming in the next update.
+
+
+
+
+
+
+
+START CREATING ON HIGGSFIELD 
+Try Seedance 2.5
+
+Comments6
+
+flashboys
+1d
+Dope 😎👊
+Reply
+disasup
+1d
+insane
+Reply
+xtremecreationstudio
+2d
+😮
+Reply
+faisal_automates
+2d
+That's a pretty fantastic shot's
+Reply
+escherpepper1718
+2d
+Looove it
+Reply
+d_arweesh
+2d
+Perfect 😋
+Reply

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "archived_date": "2026-10-18",
+  "thread_id": "01a11b93-0d5d-72b0-9a10-5b9fa386a1a1",
+  "source_user_record_line": 1657,
+  "original_message": {
+    "sha256_utf8": "7cba32c252319e5b1a838dd85878b17524661ec5900aef8850e90af9ea05ba52",
+    "utf16_length": 6889,
+    "path": "资料库/00_完整原始消息/用户新增案例原始消息_2026-10-18_对岸对白与构图参考.txt"
+  },
+  "fidelity": "按五次出现连续切片，保留重复版本、台词汉字、罗马字拼音、资产标记、空格与标点，不校正语言或图号。",
+  "reconstruction_verified": true,
+  "cases": [
+    {
+      "id": "P044",
+      "title": "对岸约定拉钩_花括号引用首版",
+      "path": "资料库/01_用户提示词原文/P044_对岸约定拉钩_花括号引用首版.txt",
+      "source_start_utf16": 0,
+      "source_end_utf16_exclusive": 1124,
+      "utf16_length": 1124,
+      "sha256_utf8": "5b416820dcaa6738b1816393611674d5cbb6b6790b8a8e16a41b3f0074865797",
+      "validation": "新增参考驱动对白结构样本，未单独确认生成结果。",
+      "reference_availability": "只有文字引用与部分资源数量/角色标签，未提供所指图像音频本体。",
+      "logical_group": "对岸约定拉钩，同一逻辑片段的引用形式/重复出现分别保留"
+    },
+    {
+      "id": "P045",
+      "title": "万花筒争夺与归还_五镜",
+      "path": "资料库/01_用户提示词原文/P045_万花筒争夺与归还_五镜.txt",
+      "source_start_utf16": 1124,
+      "source_end_utf16_exclusive": 2821,
+      "utf16_length": 1697,
+      "sha256_utf8": "26ca344ba8fe36fb992b81ec933b9b194e479a71bd8d6a6a75277a5e6719983e",
+      "validation": "新增参考驱动对白结构样本，未单独确认生成结果。",
+      "reference_availability": "只有文字引用与部分资源数量/角色标签，未提供所指图像音频本体。",
+      "logical_group": "万花筒争夺与归还"
+    },
+    {
+      "id": "P046",
+      "title": "对岸约定拉钩_纯编号与资源标记版",
+      "path": "资料库/01_用户提示词原文/P046_对岸约定拉钩_纯编号与资源标记版.txt",
+      "source_start_utf16": 2821,
+      "source_end_utf16_exclusive": 3937,
+      "utf16_length": 1116,
+      "sha256_utf8": "47d7aacd6edc7d3abbb6b9f1a8e5224aa0f01e0ceb50e896db9f4dff05f89642",
+      "validation": "新增参考驱动对白结构样本，未单独确认生成结果。",
+      "reference_availability": "只有文字引用与部分资源数量/角色标签，未提供所指图像音频本体。",
+      "logical_group": "对岸约定拉钩，同一逻辑片段的引用形式/重复出现分别保留"
+    },
+    {
+      "id": "P047",
+      "title": "打赌激将与起身反应_六镜",
+      "path": "资料库/01_用户提示词原文/P047_打赌激将与起身反应_六镜.txt",
+      "source_start_utf16": 3937,
+      "source_end_utf16_exclusive": 5766,
+      "utf16_length": 1829,
+      "sha256_utf8": "1f6718f42347ae0a40718bd0f6bc3bcde3c93f7bf2e878578f5d67fb96da66f1",
+      "validation": "新增参考驱动对白结构样本，未单独确认生成结果。",
+      "reference_availability": "只有文字引用与部分资源数量/角色标签，未提供所指图像音频本体。",
+      "logical_group": "打赌激将与反应"
+    },
+    {
+      "id": "P048",
+      "title": "对岸约定拉钩_再次提供",
+      "path": "资料库/01_用户提示词原文/P048_对岸约定拉钩_再次提供.txt",
+      "source_start_utf16": 5766,
+      "source_end_utf16_exclusive": 6889,
+      "utf16_length": 1123,
+      "sha256_utf8": "15ea52cff1450660e0c748c2ec611924892d768f3e5c999e86e973959c7e51d1",
+      "validation": "新增参考驱动对白结构样本，未单独确认生成结果。",
+      "reference_availability": "只有文字引用与部分资源数量/角色标签，未提供所指图像音频本体。",
+      "logical_group": "对岸约定拉钩，同一逻辑片段的引用形式/重复出现分别保留"
+    }
+  ]
+}

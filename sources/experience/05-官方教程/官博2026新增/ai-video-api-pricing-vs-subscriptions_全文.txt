@@ -1,0 +1,582 @@
+【项目】AI Video API Pricing vs Subscriptions in 2026: Which Is Cheaper at Scale（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/ai-video-api-pricing-vs-subscriptions
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+AI Video API Pricing vs Subscriptions in 2026: Which Is Cheaper at Scale
+Higgsfield
+Oct 13, 2026
+11 min
+Last updated: 2w ago
+
+At a few hundred clips a month, neither an API nor a subscription is automatically cheaper. The break-even depends on your plan, attempt rate, and whether your subscription can be used from code. Higgsfield, an AI-native creative suite with 35+ models and tools, offers both paths: plan credits reachable from code through MCP and CLI, and a separate Higgsfield API with its own US dollar balance.
+
+Two ways to pay for AI video at scale
+
+AI video providers generally charge through usage-based API billing or subscription credits, with some APIs billing per second and others per generation. The billing model decides how much of your monthly bill is fixed.
+
+Two ways to pay for AI video at scale
+
+Billing model
+
+	
+
+What you pay for
+
+	
+
+Where it is sold
+
+	
+
+What happens when volume grows
+
+
+
+
+API, pay per second
+
+	
+
+Each second of output at a published per-model rate, from a prepaid balance
+
+	
+
+Runway API, Google Gemini API (Veo), Kling developer platform, Luma API, fal, Higgsfield API
+
+	
+
+Cost scales linearly; volume discounts apply at some providers
+
+
+
+
+Credit subscription
+
+	
+
+A monthly fee that includes a credit allowance; each generation deducts credits by model and settings
+
+	
+
+Runway, Kling, Luma, Higgsfield website plans
+
+	
+
+Cost is flat until the allowance runs out, then top-ups are charged
+
+The practical difference is how much you pay upfront and how much changes with usage. API spend is entirely variable. A credit plan is fixed up to its allowance, and the price of one credit falls as the tier rises, which is what moves the break-even point.
+
+What 300 clips a month cost by provider
+
+The reference workload used in this article: 300 usable 8-second clips a month, two generations per usable clip, 720p. That is 600 generations and 4,800 seconds of output. The table uses each provider’s current-generation model at 720p, so the rows compare billing terms only. Rates come from each provider’s official pricing page or developer documentation.
+
+What 300 clips a month cost by provider
+
+Provider
+
+	
+
+Model
+
+	
+
+Rate
+
+	
+
+4,800 seconds
+
+	
+
+Technical failure
+
+	
+
+Usable but rejected output
+
+
+
+
+Higgsfield API
+
+	
+
+Kling 3.0 Standard, 720p, audio off
+
+	
+
+$0.084 per second
+
+	
+
+$403.20
+
+	
+
+Not charged, refunded to balance
+
+	
+
+Charged
+
+
+
+
+Kling developer platform
+
+	
+
+Kling 3.0, 720p, no native audio
+
+	
+
+$0.084 per second (0.6 units at $0.14)
+
+	
+
+$403.20, from prepaid packages starting at $700
+
+	
+
+Not stated on the pricing page
+
+	
+
+Charged
+
+
+
+
+fal
+
+	
+
+Kling 3.0 Standard, 720p, audio off
+
+	
+
+$0.084 per second
+
+	
+
+$403.20
+
+	
+
+Not charged, successful outputs only
+
+	
+
+Charged
+
+
+
+
+Runway API
+
+	
+
+Gen-4 Turbo, 720p
+
+	
+
+$0.05 per second (5 credits at $0.01)
+
+	
+
+$240.00
+
+	
+
+Refunded, except input moderation rejections
+
+	
+
+Charged
+
+
+
+
+Runway API
+
+	
+
+Gen-4.5, 720p
+
+	
+
+$0.12 per second (12 credits at $0.01)
+
+	
+
+$576.00
+
+	
+
+Refunded, except input moderation rejections
+
+	
+
+Charged
+
+
+
+
+Google Gemini API
+
+	
+
+Veo 3.1 Fast, 720p, audio included
+
+	
+
+$0.10 per second
+
+	
+
+$480.00
+
+	
+
+Not charged
+
+	
+
+Charged
+
+
+
+
+Google Gemini API
+
+	
+
+Veo 3.1, 720p, audio included
+
+	
+
+$0.40 per second
+
+	
+
+$1,920.00
+
+	
+
+Not charged
+
+	
+
+Charged
+
+
+
+
+Luma API
+
+	
+
+Ray3.2, 720p
+
+	
+
+$0.90 per 10-second generation, billed in 5-second blocks, so an 8-second clip is billed as 10
+
+	
+
+$540.00
+
+	
+
+Refunded by failure code
+
+	
+
+Charged
+
+Pricing checked on October 14, 2026. US list prices shown before applicable taxes and before launch or top-up discounts. Prices and plan details may change.
+
+Two things the table makes visible. The same model can cost the same per second at three different providers, so the choice between them is about billing mechanics, concurrency and tooling. And the last column matters more than the one before it: technical failures are refunded at most providers, but a clip that rendered correctly and still does not fit the brief is paid for everywhere. Additional generations or alternatives may increase the cost, and at two attempts per usable clip they double it.
+
+What the same clips cost on a Higgsfield subscription
+
+On the Higgsfield website, Kling 3.0 at 8 seconds and 720p costs 16 credits per generation. What a credit costs depends on the plan: Starter is $15 a month for 200 credits, Plus is $49 for 1,000, and Ultra is $129 for 3,000 with a slider up to 9,000.
+
+What the same clips cost on a Higgsfield subscription
+
+Plan
+
+	
+
+Monthly fee
+
+	
+
+Credits
+
+	
+
+Price per credit
+
+	
+
+Kling 3.0 8-second clip
+
+	
+
+Generations the allowance covers
+
+
+
+
+Starter
+
+	
+
+$15
+
+	
+
+200
+
+	
+
+$0.075
+
+	
+
+$1.20
+
+	
+
+12
+
+
+
+
+Plus
+
+	
+
+$49
+
+	
+
+1,000
+
+	
+
+$0.049
+
+	
+
+$0.78
+
+	
+
+62
+
+
+
+
+Ultra
+
+	
+
+$129
+
+	
+
+3,000
+
+	
+
+$0.043
+
+	
+
+$0.69
+
+	
+
+187
+
+The same clip on the Higgsfield API costs $0.67 at the list rate. So the API is cheaper per clip than Starter and Plus, and reaches parity with Ultra. The subscription still wins in two cases: when the plan is already paid for website work and scripting is added on top, and when the generations fit inside the allowance: if the plan is already paid for and you have unused credits, the batch may require no additional cash spend until those credits run out. For plan availability and current credit amounts in your region, check the Higgsfield pricing page.
+
+Break-even at 50, 150, 300 and 1,000 clips a month
+
+The table keeps the same workload (8 seconds, 720p, Kling 3.0, two attempts per usable clip) and shows what each volume needs on both billing models.
+
+Break-even at 50, 150, 300 and 1,000 clips a month
+
+Usable clips a month
+
+	
+
+Generations
+
+	
+
+API at $0.084 per second
+
+	
+
+Credits needed at 16 per generation
+
+	
+
+Plan that covers it
+
+	
+
+Subscription cost
+
+
+
+
+50
+
+	
+
+100
+
+	
+
+$67.20
+
+	
+
+1,600
+
+	
+
+Ultra, 3,000 credits
+
+	
+
+$129 a month
+
+
+
+
+150
+
+	
+
+300
+
+	
+
+$201.60
+
+	
+
+4,800
+
+	
+
+Ultra, 6,000 credits
+
+	
+
+$250 a month
+
+
+
+
+300
+
+	
+
+600
+
+	
+
+$403.20
+
+	
+
+9,600
+
+	
+
+Scale, 5 seats = 12,500 credits
+
+	
+
+$1,075 a month
+
+
+
+
+1,000
+
+	
+
+2,000
+
+	
+
+$1,344.00
+
+	
+
+32,000
+
+	
+
+Scale, 13 seats = 32,500 credits
+
+	
+
+$2,795 a month
+
+Where each model wins:
+
+Up to about 190 generations a month, an Ultra plan at $129 covers the batch and the same credits also pay for website work. The API costs less for the clips alone ($67.20 at 50 usable clips), but only if nothing else is generated that month.
+At 150 usable clips with two attempts each, Ultra with the slider at 6,000 credits costs $250 against $201.60 on the API. The gap is small, so one extra website project on the same credits tips the result back toward the plan.
+From 300 usable clips, the API is the cheaper path on price alone: $403.20 against $1,075 for the smallest team plan that covers the credits, and $1,344 against $2,795 at 1,000 clips. It also brings concurrency, a cost estimate before each run and a per-project breakdown.
+
+Multiply by your real attempt rate before deciding. The attempt rate moves most teams across the line more often than the per-second price does.
+
+Where a subscription is reachable from code
+
+Most subscriptions are not reachable from a script. Runway sells API credits separately in its developer portal. Kling sells developer access through prepaid resource packages that sit apart from web membership credits. Luma bills its API separately from plan credits. Google sells Veo only through the Gemini API and Vertex AI. In all four cases, the moment you automate, you pay API rates even if you already pay for a plan.
+
+Higgsfield works differently. Higgsfield MCP and CLI + Skills are how Higgsfield handles integration for people who already have a plan: a script or an AI agent generates on the credits of that plan, with no API key and no second balance.
+
+Higgsfield MCP at mcp.higgsfield.ai connects Claude, Cursor and any MCP-compatible agent to your account; generations deduct plan credits at the same cost as on the website.
+Higgsfield CLI + Skills installs three skills for coding agents with one command and signs in with your Higgsfield account; billing is the same plan credits.
+Soul Characters trained with Soul ID are available through MCP, so a scripted batch helps keep a consistent face across clips without re-uploading references.
+Supercomputer can run scheduled batches on the same credits when you want recurring automation without maintaining your own script.
+
+One rule applies to every automated path: Unlimited models and Free Generations on plans are accessible only on higgsfield.ai, not through MCP/CLI, Canvas or Supercomputer, so a scripted generation always deducts credits. Parallel generation on the website is also tiered by plan: up to 2 videos at a time on Starter, up to 6 on Plus, and unlimited paid parallel generations on Ultra. Setup details are in How to Generate AI Videos With AI Agents and Credits vs Unlimited.
+
+When you need the API
+
+Higgsfield API is a separate product with its own console at open.higgsfield.ai, its own prepaid US dollar balance and 35+ models and tools under one key. Plan credits and API balance do not mix, and neither can be transferred into the other. The API is the right choice in four situations:
+
+You are shipping your own product. Users of your app generate through your key, and you need per-project keys, team workspaces that share one balance and one invoice, and analytics by day, model and workflow.
+You need concurrency. API concurrency is tiered by funds added in the last 28 days: 2 concurrent requests below $25, 10 from $25, 20 from $100 and 40 from $1,000, with higher limits through sales. For comparison, Runway’s API moves from 1 concurrent video generation to 20 across five tiers that unlock at $50, $100, $1,000 and $5,000 purchased; Kling includes 20 concurrent requests with every prepaid package; fal starts Kling 3.0 endpoints at 1 concurrent request per user, with higher limits on request.
+You want to know the cost before you run. The estimate endpoint returns the price of a request with the same parameters before you submit it, so a batch can be budgeted before it runs.
+You want failures to cost nothing. Requests that end as failed or moderated are not charged, and any reserved amount is refunded automatically.
+
+Billing runs per second of video output and per image, with a few per-generation exceptions. New models land in the API on release day on the same endpoint. Outputs stay available for at least 7 days, so storing results is part of the integration. The flow is three calls: submit, poll the status URL, fetch the file, which is also why teams moving from fal or Replicate typically change one key and keep their pipeline. Generate AI Videos From the Higgsfield API covers the first request end to end.
+
+Provider notes: Runway, Veo, Kling, Luma, fal
+
+Runway API bills in API credits at $0.01 each, bought in the developer portal per project, with Gen-4 Turbo at 5 credits per second and Gen-4.5 at 12. ProRes and HDR output add per-second surcharges. Concurrency and daily generation caps rise through five usage tiers. Web-plan credits and API credits are separate balances, and API requests rejected by input moderation are not refunded.
+
+Google Veo 3.1 is sold per second through the Gemini API and Vertex AI with no free tier: Lite at $0.05 per second for 720p, Fast at $0.10 for 720p and $0.12 for 1080p, and the standard model at $0.40 for 720p or 1080p. There is no subscription route for developers, the standard model is the most expensive rate in this comparison, and generations are capped at 8 seconds.
+
+Kling’s developer platform prices Kling 3.0 at 0.6 units per second for 720p and 0.8 for 1080p, with a unit listed at $0.14, so $0.084 and $0.112 per second. Access is sold as prepaid resource packages from $700 for 5,000 units, valid 180 days with no rollover, each with 20 concurrent requests. Web membership credits cannot be used for API workloads, so developer access starts with that prepaid commitment.
+
+Luma API prices Ray3.2 per generation: $0.30 for 5 seconds and $0.90 for 10 seconds at 720p, $1.20 and $3.60 at 1080p, with HDR at two times and HDR plus EXR at three times the base rate. Failed generations are refunded by failure code. App subscriptions and API billing are separate, and pay-as-you-go capacity runs under rate limits with no latency SLA; dedicated capacity with an SLA is sold separately through sales.
+
+fal lists 1000+ endpoints under one key and bills per second with no minimum, with Kling 3.0 Standard at $0.084 per second and Pro at $0.112. Rates match the official Kling API for this model, so the choice between fal and the model vendor is about catalog breadth and tooling, and the same applies to Higgsfield API, which adds Soul ID, Genjutsu and Marketing Studio on the same key. Concurrency starts at 1 request per user on the Kling 3.0 endpoints and has to be raised on request for production workloads.
+
+AI VIDEO API PRICING VS SUBSCRIPTIONS IN 2026: WHICH IS CHEAPER AT SCALE
+Get Your API Key

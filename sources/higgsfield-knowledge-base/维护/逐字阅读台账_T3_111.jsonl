@@ -1,0 +1,277 @@
+{"project":"GUT_PUNCH_LOVE","idx":1,"sha8":"64ad3a97","len":2692,"nTasks":1,"models":"video_extension","read":true,"findings":"2,692c **cardboard 瓦楞纸风格锚四件套**：Cinematic short-film scene in handcrafted cardboard stop-motion style. **Textured cardboard, visible paper fibers, visible folds, glued edges, handmade miniature coffee shop props, tactile imperfections**. 16:9, 24fps…**HARD CUT directly from the previous scene**: Theo is already completely unconscious——纸纤维/折痕/胶边/触感瑕疵"}
+{"project":"GUT_PUNCH_LOVE","idx":2,"sha8":"61c915ba","len":574,"nTasks":1,"models":"null","read":true,"findings":"574c **角色表模板+十六进制色值**：Character reference sheet of a single consistent [man], maintain cardboard aesthetic, on a pure clean deep neutral grey **(#3a3a3c)** seamless studio background, clean editorial layout in **three vertical panels**: Left full-body front/Middle full-body back/Right large close-up——#3a3a3c 灰底+三联模板"}
+{"project":"GUT_PUNCH_LOVE","idx":3,"sha8":"a59edcc2","len":4661,"nTasks":1,"models":"default","read":true,"findings":"4,661c **cardboard↔anime 双态翻转**：handcrafted cardboard stop-motion style **mixed with exaggerated anime action cinematography**…Maintain exact continuity with the previous fantasy battle scene, including Theo and Kate's armor, **giant red battle flags, shields, battlefield**"}
+{"project":"GUT_PUNCH_LOVE","idx":4,"sha8":"cc6b72a9","len":5567,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":5,"sha8":"28ef1ad8","len":2886,"nTasks":1,"models":"video_extension","read":true,"findings":"2,886c ** violently and intermittently flips into**：craft cardboard stop-motion style…**that violently and intermittently flips into hyper-exaggerated anime action**: extreme dynamic angles, **dense speed lines, massive glowing energy auras and trails, swirling spiral motifs, over-the-top impact frames, absurd scale shifts**——双态翻转+anime 动作六件套"}
+{"project":"GUT_PUNCH_LOVE","idx":6,"sha8":"9a10f01e","len":4819,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":7,"sha8":"cc6b72a9","len":5567,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":8,"sha8":"3f201022","len":252,"nTasks":1,"models":"null","read":true,"findings":"252c **盾牌旗文案首现**：She is holding a flag that is trailing in the same direction as her cape. **Write on the flag in clear white text: WHAT IF I WERE A WORM??**——旗文字（如果是条虫会怎样？）"}
+{"project":"GUT_PUNCH_LOVE","idx":9,"sha8":"69a3ca78","len":842,"nTasks":1,"models":"default","read":true,"findings":"842c **时间码分镜+@Image 引用**：Use @[Image 1] for Kate's exact face, armor, and red flag. **0–1.5s: Kate at the peak of her jump, high in the sky, gripping the red flag. Eyes open, body coiled, charging up. Wind spirals around her. 1.5–2.5s: She releases a big c(harge)**——@Image 记法+秒区间"}
+{"project":"GUT_PUNCH_LOVE","idx":10,"sha8":"acc9a5d8","len":571,"nTasks":1,"models":"null","read":true,"findings":"571c **猫宇航员装备双态之一**：Character reference sheet of a single consistent **[cat with space pack and helmet]**——装备态"}
+{"project":"GUT_PUNCH_LOVE","idx":11,"sha8":"ad299736","len":573,"nTasks":1,"models":"null","read":true,"findings":"573c **装备双态之二**：**[cat with no space pack or helmet]**——无装备态（同角色双角色表）"}
+{"project":"GUT_PUNCH_LOVE","idx":12,"sha8":"33acbd2c","len":647,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":13,"sha8":"48290205","len":550,"nTasks":1,"models":"null","read":true,"findings":"550c **性别可换模板**：Character reference sheet of a single consistent **[man/woman]**——括号双性别模板"}
+{"project":"GUT_PUNCH_LOVE","idx":14,"sha8":"a11e7d48","len":4381,"nTasks":1,"models":"default","read":true,"findings":"4,381c **段名时间码**：**0:00–0:20 — THE LAUNCH**——段名+时间码（THE LAUNCH 发射段）"}
+{"project":"GUT_PUNCH_LOVE","idx":15,"sha8":"e150b0a3","len":28,"nTasks":1,"models":"null","read":true,"findings":"28c 清理参考：Clean the reference image up（×3 现 15/72…）"}
+{"project":"GUT_PUNCH_LOVE","idx":16,"sha8":"e836ccbf","len":135,"nTasks":1,"models":"null","read":true,"findings":"135c 旗波修正：Girl diving straight down with a flag, **make the wave of the flag correct flying in a trail backwards in the same direction as the cape**——旗波向后拖"}
+{"project":"GUT_PUNCH_LOVE","idx":17,"sha8":"f7c8f496","len":235,"nTasks":1,"models":"null","read":true,"findings":"235c **性别交换修正**：**Switch the male and the female**, have the male charge at a female holding a shield that reads \"HANG WITH FRIENDS!\" **in the same font, color, and text**——性别对调+同字体"}
+{"project":"GUT_PUNCH_LOVE","idx":18,"sha8":"f6b984eb","len":176,"nTasks":1,"models":"null","read":true,"findings":"176c **字体专用参考**：Man holding shield that says \"I GET DISTRACTED EASILY!\" Use first reference image for the primary image and **only use the second reference image to copy font and text and color**——字体/文本/颜色专用参考"}
+{"project":"GUT_PUNCH_LOVE","idx":19,"sha8":"41b6e521","len":131,"nTasks":1,"models":"null","read":true,"findings":"131c **impact frames pose/coloring 分离**：Design some **anime style impact frames** for the referenced image. **Use pose from <<<image_1>>>, coloring and style from <<<image_2>>>**——冲击帧设计双参考分离"}
+{"project":"GUT_PUNCH_LOVE","idx":20,"sha8":"41b6e521","len":131,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":21,"sha8":"0e4820cd","len":64,"nTasks":1,"models":"null","read":true,"findings":"64c **文本保护声明**：**Preserve the original design and change only the requested text.**——只改请求文本"}
+{"project":"GUT_PUNCH_LOVE","idx":22,"sha8":"4a0674b5","len":231,"nTasks":1,"models":"null","read":true,"findings":"231c 防御持盾：make the female hold the shield **defensively**. No helmet…Girl is positioned and **facing the left**"}
+{"project":"GUT_PUNCH_LOVE","idx":23,"sha8":"4d90d475","len":2288,"nTasks":1,"models":"video_extension","read":true,"findings":"2,288c **POV 睁眼+无边界**：Pick up from last scene <<<video_1>>> where **eyes are closed in POV format and open**. They slowly flutter and open, when they eyes open, **they go all the way without showing any boarder on the screen**——POV 睁眼过渡+全屏无边框"}
+{"project":"GUT_PUNCH_LOVE","idx":24,"sha8":"85c02f3c","len":3136,"nTasks":1,"models":"default","read":true,"findings":"3,136c **表情递进参考链首例**：Use <<<image_1>>> as the **primary identity lock** for Theo (exact face, hair, clothing, body proportions) <<<image_2>>>…<<<image_6>>> **in order are for only expression progression**…Additional expression references **(smile → mid-points → frown) control only the gradual facial change**——身份锁+六图表情递进"}
+{"project":"GUT_PUNCH_LOVE","idx":25,"sha8":"da364825","len":1723,"nTasks":1,"models":"video_extension","read":true,"findings":"1,723c **全片拼接声明+音乐渐强**：This is for a **full length short film, each segment will need to fit directly into the next one.**…the musical track **becomes more up beat and higher tempo as his spirits lift from this experience**——拼接制+情绪配乐联动"}
+{"project":"GUT_PUNCH_LOVE","idx":26,"sha8":"45a151a1","len":914,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":27,"sha8":"f6aa7a69","len":1699,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":28,"sha8":"3d4c09c8","len":2440,"nTasks":1,"models":"default","read":true,"findings":"2,440c **延续清单括号**：Continue directly from previous clip (use for **exact cat design, rocket pack, helmet, and the mixed cardboard + hyper-exaggerated anime style language**)——延续四项清单"}
+{"project":"GUT_PUNCH_LOVE","idx":29,"sha8":"e824ab74","len":1374,"nTasks":1,"models":"video_extension","read":true,"findings":"1,374c **剧本格式台词首例**：THEO **(Kitten)\"Meow?\"**——角色名+括号受话人+引号台词"}
+{"project":"GUT_PUNCH_LOVE","idx":30,"sha8":"368ce315","len":2272,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":31,"sha8":"67734672","len":2179,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":32,"sha8":"7543d9df","len":1047,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":33,"sha8":"44b6e3ca","len":759,"nTasks":1,"models":"default","read":true,"findings":"759c **双姿态引用+秒区间**：Use @[Image 1] as the **exact clash pose**: Theo and Kate colliding…Use @[Image 2] as the **exact landing pose**: both blown backward…**0–1s: Start**——对撞姿态+落地姿态"}
+{"project":"GUT_PUNCH_LOVE","idx":34,"sha8":"8a94baac","len":99,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":35,"sha8":"8a94baac","len":99,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":36,"sha8":"b623e42f","len":517,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":37,"sha8":"8a94baac","len":99,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":38,"sha8":"cf7ca0d9","len":1881,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"1,881c **Quindar tone 考据首例**：loud slow **Audible Quindar tone** spacecraft beeps pulse——NASA 通讯音效"}
+{"project":"GUT_PUNCH_LOVE","idx":39,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GUT_PUNCH_LOVE","idx":40,"sha8":"2c788613","len":1925,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":41,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GUT_PUNCH_LOVE","idx":42,"sha8":"7369eff7","len":1956,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":43,"sha8":"e10846ef","len":1851,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":44,"sha8":"2ca60b71","len":1841,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":45,"sha8":"1fa9c89c","len":1615,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":46,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GUT_PUNCH_LOVE","idx":47,"sha8":"e1f37572","len":1842,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":48,"sha8":"b9906cd1","len":297,"nTasks":1,"models":"null","read":true,"findings":"297c **冲击帧+无字声明**：Create an impact frame…he is visibly frustrated. **Do not add any characters or letters.**"}
+{"project":"GUT_PUNCH_LOVE","idx":49,"sha8":"46caade8","len":100,"nTasks":1,"models":"null","read":true,"findings":"100c **猫耳耳机**：Make the male wear a pair of headphones. Headphones have **triangular cat ears**. Headphones are orange——三角猫耳+橙色"}
+{"project":"GUT_PUNCH_LOVE","idx":50,"sha8":"03c8d8e9","len":1409,"nTasks":1,"models":"default","read":true,"findings":"1,409c **梦醒+会英语的猫**：it hard cuts to a man named Theo being woken up by his alarm clock and **his cat who speaks perfect English**. **Alarm is beeping loudly and constantly until Theo explicitly turns it off later in this scene**——闹钟持续响到明确关闭"}
+{"project":"GUT_PUNCH_LOVE","idx":51,"sha8":"03c8d8e9","len":1409,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":52,"sha8":"aba3f815","len":2030,"nTasks":1,"models":"default","read":true,"findings":"2,030c **地铁忧郁+No fantasy 声明**：Quiet, mundane, melancholy subway. **No fantasy. No comedy. No dialogue. No subtitles.**…Theo sits alone on a subway bench, **slightly slouched**. Quiet frown — sad, tired, downturned mouth, heavy eyes. **Train rocks gent(ly)**——四 No+微驼+车轻晃"}
+{"project":"GUT_PUNCH_LOVE","idx":53,"sha8":"03c8d8e9","len":1409,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":54,"sha8":"14109376","len":3194,"nTasks":1,"models":"video_extension","read":true,"findings":"3,194c **表情 overlay 法**：is the progression for his face **minus the background, use as overlay**——去背景叠加"}
+{"project":"GUT_PUNCH_LOVE","idx":55,"sha8":"039f2834","len":591,"nTasks":1,"models":"null","read":true,"findings":"591c **张嘴态补充**：**Show mouth open.** Character reference sheet…——角色表张嘴指令"}
+{"project":"GUT_PUNCH_LOVE","idx":56,"sha8":"48a7303e","len":606,"nTasks":1,"models":"null","read":true,"findings":"606c 女性带旗盾角色表：carrying red flag and shield"}
+{"project":"GUT_PUNCH_LOVE","idx":57,"sha8":"61c915ba","len":574,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":58,"sha8":"ccd2504a","len":3053,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":59,"sha8":"c855a74a","len":1053,"nTasks":1,"models":"default","read":true,"findings":"1,053c **双角色参考+跨镜一致**：<<<image_1>>> Character reference for Kate(female). <<<image_2>>> Character reference for male(Theo). Use references for exact Kate face, armor, red flag, and Theo face, armor, and shield. **Keep both characters identical across** (frames)"}
+{"project":"GUT_PUNCH_LOVE","idx":60,"sha8":"991ba98d","len":1609,"nTasks":1,"models":"video_extension","read":true,"findings":"1,609c **无发声声明+段名 THE WAIT**：**Absolutely no vocalizations, no spoken words, no meows, no dialogue of any kind. Only environmental and phone sounds. 0–12s — THE WAIT**——绝对无发声四连+等待段"}
+{"project":"GUT_PUNCH_LOVE","idx":61,"sha8":"b508b73a","len":4337,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":62,"sha8":"","len":0,"nTasks":1,"models":"video_edit","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GUT_PUNCH_LOVE","idx":63,"sha8":"5fabdd74","len":174,"nTasks":1,"models":"null","read":true,"findings":"174c **黑白彩条冲击帧**：add color in the style of <<<image_2>>>. The style is **black and white with color streaks** anime impact frame style. **No words or symbols.**——黑白+彩条+无字符号"}
+{"project":"GUT_PUNCH_LOVE","idx":64,"sha8":"830c8e88","len":208,"nTasks":1,"models":"null","read":true,"findings":"208c **负片冲击帧**：Create impact frames for diving screaming woman <<<image_1>>> **in negative**…**Negative inverted color.** No words or symbols——负片反色"}
+{"project":"GUT_PUNCH_LOVE","idx":65,"sha8":"87505c20","len":140,"nTasks":1,"models":"null","read":true,"findings":"140c **LEGO 风格否定**：Clean the reference image 1 up, **do not use LEGO style**. Make the male's cape on the left blue. **Do not change the character behind the shield**——积木风否定+盾后保持"}
+{"project":"GUT_PUNCH_LOVE","idx":66,"sha8":"f6b984eb","len":176,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":67,"sha8":"3cccebf1","len":89,"nTasks":1,"models":"null","read":true,"findings":"89c **字体对齐**：Line the font up with the shield——字体对齐盾面"}
+{"project":"GUT_PUNCH_LOVE","idx":68,"sha8":"0e4820cd","len":64,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":69,"sha8":"f6b984eb","len":176,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":70,"sha8":"e7223704","len":1922,"nTasks":1,"models":"video_extension","read":true,"findings":"1,922c **红旗问/盾蓝光答首例**：No spoken human dialogue — only nonverbal battle sounds. **Questions on red flags in huge white letters; answers as glowing blue projections from shields. 0–5s — KATE'S SECOND ATTACK**——问答视觉系统+段名"}
+{"project":"GUT_PUNCH_LOVE","idx":71,"sha8":"578559df","len":65,"nTasks":1,"models":"null","read":true,"findings":"65c **杆长 50% 修正**：Reduce the length of the pole by **50 percent**——百分比值"}
+{"project":"GUT_PUNCH_LOVE","idx":72,"sha8":"e150b0a3","len":28,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":73,"sha8":"e7223704","len":1922,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":74,"sha8":"e7223704","len":1922,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":75,"sha8":"8369274f","len":4232,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":76,"sha8":"28ef1ad8","len":2886,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":77,"sha8":"6610d035","len":3311,"nTasks":1,"models":"default","read":true,"findings":"3,311c **修错反馈复合**：There is supposed to be no vocalization by any human in this clip, **fix so that the girl at the beginning is not saying anything at all**. Also, **the scene for the coffee shop has the wrong start frame, use this reference frame(<<<image_1>>>) and regenerate the intro from there**. Where it says \"SO HANG WITH FRIENDS\" **at the 14 second mark**, the cape should be red——静音+首帧重生成+时刻点旗色三重修错"}
+{"project":"GUT_PUNCH_LOVE","idx":78,"sha8":"c855a74a","len":1053,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":79,"sha8":"ccd2504a","len":3053,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":80,"sha8":"eb19ac63","len":3105,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":81,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GUT_PUNCH_LOVE","idx":82,"sha8":"ccd2504a","len":3053,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":83,"sha8":"74db9384","len":946,"nTasks":1,"models":"default","read":true,"findings":"946c **表情 morph 视频首例**：**Seamless time-lapse morph of the man's face only**, transitioning gradually and continuously from the exact happy expression in the start frame to the exact sad expression in the end frame. **Mouth should be closed the entire time.** Background remains pure solid white **(#FFFFFF)** with **zero texture, shadows, or variation** throughout. Face stays perfectly centered——happy→sad 渐变+白底精确色值"}
+{"project":"GUT_PUNCH_LOVE","idx":84,"sha8":"da4032b2","len":2790,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":85,"sha8":"f30ece60","len":1666,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":86,"sha8":"6c9f23ec","len":5260,"nTasks":1,"models":"video_extension","read":true,"findings":"5,260c **冲击帧插帧规则首例**：**IMPORTANT: THIS SCENE HAS IMPACT FRAMES. DO NOT PAUSE ACTION FOR THE INSERTED FRAMES, THEY SHOULD COME IN AS SINGLE FRAME INSERTIONS. DO NOT ADD ANY SOUND EFFECTS FOR IMPACT FRAMES.**——单帧插入不停顿+无音效"}
+{"project":"GUT_PUNCH_LOVE","idx":87,"sha8":"e756e6ea","len":5232,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":88,"sha8":"e22eea26","len":4580,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":89,"sha8":"0049f233","len":4068,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":90,"sha8":"44dc1f24","len":346,"nTasks":1,"models":"null","read":true,"findings":"346c **店名=片名**：Name of the Coffee shop is **\"Gut Punch Love Coffee\"**, make sure the characters resemble the reference images——剧内命名"}
+{"project":"GUT_PUNCH_LOVE","idx":91,"sha8":"023cac98","len":342,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":92,"sha8":"62e322e4","len":235,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":93,"sha8":"03c8d8e9","len":1409,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":94,"sha8":"144ca392","len":3008,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":95,"sha8":"d7cb64e5","len":2993,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":96,"sha8":"4e5403d0","len":399,"nTasks":1,"models":"null","read":true,"findings":"399c **文本位置复刻**：use <<<image_1>>> for the font, color, and text. **Put the text in the same spot and the same text and font above the stove same as first reference.** <<<image_2>>> is a secondary reference for the font and color, **only use that part of that reference**. The blue text reads: **...Coffee sometime?**——同位置复刻+局部参考+蓝色短信文本"}
+{"project":"GUT_PUNCH_LOVE","idx":97,"sha8":"f688457e","len":175,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":98,"sha8":"f688457e","len":175,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":99,"sha8":"ca9f9173","len":16,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":100,"sha8":"78d95a25","len":258,"nTasks":1,"models":"null","read":true,"findings":"258c **streaky 残色冲击帧**：Create some black and white anime style impact frames…**slightly different poses and add some streaky very incomplete color while still having most of the image be white. Make sure the shot is only one frame.**——残色+单帧确认"}
+{"project":"GUT_PUNCH_LOVE","idx":101,"sha8":"78d95a25","len":258,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":102,"sha8":"9c4fa0cc","len":4994,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":103,"sha8":"6dc155e6","len":797,"nTasks":1,"models":"video_extension","read":true,"findings":"797c **片名三连爆+枪声节拍首例**：End credits scene. Use <<<image_2>>> for the text **verbatim, make sure the spelling is correct** and the same as the reference image. At the beginning the title comes up in **three bursts: GUT. PUNCH. LOVE. with a Gunshot beat after each word**, after the entire title is up it starts scrolling in an end credits style upwards——三连爆+每词枪声+逐字文本"}
+{"project":"GUT_PUNCH_LOVE","idx":104,"sha8":"825b8411","len":751,"nTasks":1,"models":"video_extension","read":true,"findings":"751c **片尾猫舞**：There is a cat <<<image_1>>> on the bottom of the credits **doing a funny dance as the credits roll**——字幕滚猫舞"}
+{"project":"GUT_PUNCH_LOVE","idx":105,"sha8":"03c8d8e9","len":1409,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":106,"sha8":"dff3b196","len":1932,"nTasks":1,"models":"default","read":true,"findings":"1,932c 角色表引用+太空漫游：<<<image_1>>> reference sheet for cat…tethered to a cardboard spacecraft"}
+{"project":"GUT_PUNCH_LOVE","idx":107,"sha8":"03c8d8e9","len":1409,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":108,"sha8":"a1cee282","len":1771,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":109,"sha8":"a1cee282","len":1771,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":110,"sha8":"e55d5904","len":220,"nTasks":1,"models":"null","read":true,"findings":"220c **pose/style 全大写否定分离**：Use <<<image_1>>> for the style, lighting, character. Use <<<image_2>>> for pose and screen position, **DO NOT USE ANIME STLYE, ONLY USE POSE FROM IMAGE 2**. Girl is diving holding a flag that reads \"WHAT IF I WAS A WORM??\"——全大写否定+只取姿态"}
+{"project":"GUT_PUNCH_LOVE","idx":111,"sha8":"a3fa0dff","len":276,"nTasks":1,"models":"null","read":true,"findings":"276c **发光粉字+距离括号**：A man pictured **30 feet away** from viewer…Add viewable text in **glowing pink(closer to viewer)**: \"I've got a lot going on right now\"——发光粉字+近大远小+心事文本"}
+{"project":"GUT_PUNCH_LOVE","idx":112,"sha8":"61c915ba","len":574,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":113,"sha8":"a662f566","len":66,"nTasks":1,"models":"null","read":true,"findings":"66c 白底提取：Replace scenery with plain white background **leaving male and text**"}
+{"project":"GUT_PUNCH_LOVE","idx":114,"sha8":"f30ece60","len":1666,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":115,"sha8":"fe2b5aed","len":63,"nTasks":1,"models":"null","read":true,"findings":"63c **环境参考提取**：Create an **environment reference from this image, no characters**——无角色环境盘"}
+{"project":"GUT_PUNCH_LOVE","idx":116,"sha8":"acc9a5d8","len":571,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":117,"sha8":"f978deaf","len":895,"nTasks":1,"models":"default","read":true,"findings":"895c **无配乐+黑淡入白开场**：**No background music and only include any sound effects OR vocalizations**…**Absolutely no background track.** The scene starts as a dream sequence, **Start with black that fades into white and then into a scene** where a man is sitting on a bench——无配乐二选一+黑白入景"}
+{"project":"GUT_PUNCH_LOVE","idx":118,"sha8":"a75b1736","len":1002,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":119,"sha8":"5c12b2fc","len":3227,"nTasks":1,"models":"video_extension","read":true,"findings":"3,227c **K.O. 解说**：only nonverbal battle cries and **the single \"K.O.!\" announcer**. Questions on red flags in huge white letters; answers as glowing blue projections. **Impact frames m(…)**——唯一解说员"}
+{"project":"GUT_PUNCH_LOVE","idx":120,"sha8":"8de690b7","len":604,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":121,"sha8":"cc6b72a9","len":5567,"nTasks":1,"models":"video_extension","read":true,"findings":"5,567c 幻想大战续接完整版（最长）"}
+{"project":"GUT_PUNCH_LOVE","idx":122,"sha8":"20eb1127","len":5419,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":123,"sha8":"a59edcc2","len":4661,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":124,"sha8":"adf87e21","len":152,"nTasks":1,"models":"null","read":true,"findings":"152c @image 记法+方向反转：Use the pose from @image1 and the lighting from @image2. **Zoom out and make the images proportionate.** Woman is flying **directly upward**——pose/lighting 分离+直接向上"}
+{"project":"GUT_PUNCH_LOVE","idx":125,"sha8":"cc6b72a9","len":5567,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":126,"sha8":"3f201022","len":252,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":127,"sha8":"679db5d1","len":76,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":128,"sha8":"679db5d1","len":76,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":129,"sha8":"679db5d1","len":76,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":130,"sha8":"679db5d1","len":76,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":131,"sha8":"c7d4cf65","len":124,"nTasks":1,"models":"null","read":true,"findings":"124c **恶魔笑负片**：Create a **negative impact frame of a dark character with a demonic grin**, add Large square flag in proportion to <<<image_2>>>——黑暗角色恶魔笑"}
+{"project":"GUT_PUNCH_LOVE","idx":132,"sha8":"c7d4cf65","len":124,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":133,"sha8":"c7d4cf65","len":124,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":134,"sha8":"c7d4cf65","len":124,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":135,"sha8":"00e8b5cd","len":88,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":136,"sha8":"00e8b5cd","len":88,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":137,"sha8":"00e8b5cd","len":88,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":138,"sha8":"00e8b5cd","len":88,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":139,"sha8":"48290205","len":550,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":140,"sha8":"6c4ece56","len":199,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":141,"sha8":"6c4ece56","len":199,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":142,"sha8":"f4078392","len":207,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":143,"sha8":"f4078392","len":207,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":144,"sha8":"f4078392","len":207,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":145,"sha8":"f4078392","len":207,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":146,"sha8":"fee3ea79","len":105,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":147,"sha8":"fee3ea79","len":105,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":148,"sha8":"4d689aaf","len":264,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":149,"sha8":"4d689aaf","len":264,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":150,"sha8":"3ede1159","len":180,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":151,"sha8":"55428068","len":114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":152,"sha8":"d4f1f992","len":138,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":153,"sha8":"84940d06","len":194,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":154,"sha8":"82e513c1","len":190,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":155,"sha8":"830c8e88","len":208,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":156,"sha8":"ef1cb9f2","len":4253,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":157,"sha8":"5fabdd74","len":174,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":158,"sha8":"309cc4e7","len":43,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":159,"sha8":"abc7aea5","len":2983,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":160,"sha8":"f688457e","len":175,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":161,"sha8":"c1ab1f95","len":453,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":162,"sha8":"e7223704","len":1922,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":163,"sha8":"497a5537","len":2858,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":164,"sha8":"b2a88008","len":1543,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":165,"sha8":"b2a88008","len":1543,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":166,"sha8":"3c5bff9c","len":1490,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":167,"sha8":"5c351436","len":1756,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":168,"sha8":"598e95db","len":1764,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":169,"sha8":"73ec4ae5","len":3279,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":170,"sha8":"73ec4ae5","len":3279,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":171,"sha8":"0cdfc223","len":1562,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":172,"sha8":"3f32c71e","len":3212,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":173,"sha8":"3f32c71e","len":3212,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":174,"sha8":"8f58767e","len":3214,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":175,"sha8":"ccd2504a","len":3053,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":176,"sha8":"0b47027a","len":2951,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":177,"sha8":"eb19ac63","len":3105,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":178,"sha8":"eb19ac63","len":3105,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":179,"sha8":"eb19ac63","len":3105,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":180,"sha8":"bd301040","len":2859,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":181,"sha8":"da4032b2","len":2790,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":182,"sha8":"eb19ac63","len":3105,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":183,"sha8":"4113cb84","len":2280,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":184,"sha8":"2bc7c4f8","len":1976,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":185,"sha8":"e80598d9","len":265,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":186,"sha8":"62392b1f","len":294,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":187,"sha8":"7ce1f959","len":508,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":188,"sha8":"935c36be","len":155,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":189,"sha8":"e23436b4","len":2969,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":190,"sha8":"aecf88b5","len":602,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":191,"sha8":"da4032b2","len":2790,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":192,"sha8":"38b8bce1","len":2790,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":193,"sha8":"da4032b2","len":2790,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":194,"sha8":"64cb0cc8","len":96,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":195,"sha8":"1d3ab4b1","len":2638,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":196,"sha8":"1d3ab4b1","len":2638,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":197,"sha8":"f30ece60","len":1666,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":198,"sha8":"da4032b2","len":2790,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":199,"sha8":"f30ece60","len":1666,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":200,"sha8":"02f9ab83","len":100,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":201,"sha8":"f30ece60","len":1666,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":202,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GUT_PUNCH_LOVE","idx":203,"sha8":"4cc0d49a","len":1640,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":204,"sha8":"ccd2504a","len":3053,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":205,"sha8":"4cc0d49a","len":1640,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":206,"sha8":"33b97857","len":79,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":207,"sha8":"6e664c32","len":5190,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":208,"sha8":"5bdc920f","len":5230,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":209,"sha8":"718e514d","len":4681,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":210,"sha8":"ab8153b6","len":4546,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":211,"sha8":"7491f715","len":3760,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":212,"sha8":"2d01539a","len":2020,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":213,"sha8":"f0fe0056","len":386,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":214,"sha8":"8583b8d2","len":2048,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":215,"sha8":"4d650874","len":3298,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":216,"sha8":"82545290","len":330,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":217,"sha8":"feda9cd2","len":372,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":218,"sha8":"62e322e4","len":235,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":219,"sha8":"bd125c72","len":1103,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":220,"sha8":"216d6517","len":1419,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":221,"sha8":"de4ff0a1","len":3651,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":222,"sha8":"ca07aa10","len":2042,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":223,"sha8":"c3d40286","len":2288,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":224,"sha8":"1a628884","len":1584,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":225,"sha8":"a003a38e","len":583,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":226,"sha8":"8a94baac","len":99,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":227,"sha8":"b4f8db9a","len":1310,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":228,"sha8":"098a7d26","len":299,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":229,"sha8":"3b849079","len":156,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":230,"sha8":"1d7b306a","len":428,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":231,"sha8":"13293b5c","len":271,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":232,"sha8":"f5a54714","len":198,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":233,"sha8":"847458f3","len":523,"nTasks":1,"models":"video_edit","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":234,"sha8":"e02f3119","len":1397,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":235,"sha8":"f229710c","len":510,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":236,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"GUT_PUNCH_LOVE","idx":237,"sha8":"77bc2b8e","len":1941,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":238,"sha8":"6b0db3bb","len":4506,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":239,"sha8":"e13e8b5e","len":103,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":240,"sha8":"fd419637","len":275,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":241,"sha8":"fb248790","len":136,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":242,"sha8":"1b4ec20e","len":22,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":243,"sha8":"95e2daf0","len":502,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":244,"sha8":"88fbd650","len":34,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":245,"sha8":"fd410fc3","len":427,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":246,"sha8":"ceca7b71","len":684,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":247,"sha8":"111bd8d4","len":685,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":248,"sha8":"b3172d5d","len":755,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":249,"sha8":"03c8d8e9","len":1409,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":250,"sha8":"a1cee282","len":1771,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":251,"sha8":"3aac5459","len":188,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":252,"sha8":"3aac5459","len":188,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":253,"sha8":"0fad1da1","len":576,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":254,"sha8":"61c915ba","len":574,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":255,"sha8":"3315dea3","len":1671,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":256,"sha8":"ad299736","len":573,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":257,"sha8":"a1cee282","len":1771,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":258,"sha8":"fa7f599b","len":1615,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":259,"sha8":"879dcd02","len":1029,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":260,"sha8":"a1cee282","len":1771,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":261,"sha8":"1c2a8714","len":796,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":262,"sha8":"d03548d8","len":160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":263,"sha8":"9c4fa0cc","len":4994,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":264,"sha8":"d35b90ef","len":986,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":265,"sha8":"69a3ca78","len":842,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":266,"sha8":"69a3ca78","len":842,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":267,"sha8":"69a3ca78","len":842,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":268,"sha8":"326d5d39","len":2059,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":269,"sha8":"dd518172","len":1723,"nTasks":1,"models":"video_extension","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":270,"sha8":"8bcb0415","len":1926,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":271,"sha8":"a9f2a860","len":264,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":272,"sha8":"4d6471ac","len":211,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":273,"sha8":"a2fd6b12","len":275,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":274,"sha8":"ea365992","len":104,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":275,"sha8":"0b21a924","len":82,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":276,"sha8":"4c515887","len":73,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"GUT_PUNCH_LOVE","idx":277,"sha8":"c855a74a","len":1053,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}

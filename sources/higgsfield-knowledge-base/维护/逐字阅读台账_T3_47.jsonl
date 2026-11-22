@@ -1,0 +1,150 @@
+{"project":"MISTER_M","idx":1,"sha8":"8f64fcce","len":315,"nTasks":1,"models":"null","read":true,"findings":"绅士俱乐部空景：na obrazie nie ma żadnych postaci——无角色空景（三版迭代 #1/#129/#130）+未熄雪茄烟雾氛围"}
+{"project":"MISTER_M","idx":2,"sha8":"a843e456","len":346,"nTasks":1,"models":"null","read":true,"findings":"黑蛇纹章大门：herbem, przestawiającym czarnego węża na srebrnym tle——银底黑蛇家徽（Mister M 符号）+@zamek 命名资产"}
+{"project":"MISTER_M","idx":3,"sha8":"0f643fd9","len":266,"nTasks":1,"models":"null","read":true,"findings":"Scotland Yard 老警长定义：siwy zakręcony elegancko wąsik——白发卷曲优雅胡+十九世纪制服"}
+{"project":"MISTER_M","idx":4,"sha8":"ec551041","len":222,"nTasks":1,"models":"null","read":true,"findings":"警探 2 定义：gęstą, czarną zadbaną brodę——黑胡须+棕色明眼"}
+{"project":"MISTER_M","idx":5,"sha8":"4fd9d981","len":417,"nTasks":1,"models":"null","read":true,"findings":"新哥特庄园全景：białe posągi młodych kobiet+krzewy czerwonych róż——白女雕像+红玫瑰丛（石化花园伏笔）"}
+{"project":"MISTER_M","idx":6,"sha8":"6885affa","len":891,"nTasks":1,"models":"default","read":true,"findings":"报纸头条叙事：The Unaccountable Disappearances of Young Women — Is a Serial Murderer Lurking Amongst Us??——报纸道具+stuka palcem w nagłówek（指敲头条）"}
+{"project":"MISTER_M","idx":7,"sha8":"183d1e52","len":721,"nTasks":1,"models":"default","read":true,"findings":"黑暗走廊进阶：nie palą się żadne światła——无灯走廊+群体恐惧行进"}
+{"project":"MISTER_M","idx":8,"sha8":"9018e21a","len":490,"nTasks":1,"models":"null","read":true,"findings":"1850 击发手枪全规格描述：LONDON 铭文+WILSON 锁板签名+mosiężne 黄铜配件清单——**武器规格级资产定义**"}
+{"project":"MISTER_M","idx":9,"sha8":"ea0aa64e","len":169,"nTasks":1,"models":"null","read":true,"findings":"绝望呐喊表情修正+手枪入镜：Dodaj bardziej wyrazistą ekspresję, ukazującą rozpaczliwy krzyk"}
+{"project":"MISTER_M","idx":10,"sha8":"f4d0dc06","len":881,"nTasks":1,"models":"default","read":true,"findings":"踢翻茶几+四名列举台词：monster, Basilisk, Medusa…Yet only one of them do I claim as my own"}
+{"project":"MISTER_M","idx":11,"sha8":"90a26c36","len":233,"nTasks":1,"models":"null","read":true,"findings":"警探 3 定义：kasztanowe włosy, delikatny wąsik i figlarne, jasne oczy——栗发小胡开朗"}
+{"project":"MISTER_M","idx":12,"sha8":"48f43c5c","len":538,"nTasks":1,"models":"default","read":true,"findings":"邀桌手势：gestem dłoni zaprasza——手势邀请"}
+{"project":"MISTER_M","idx":13,"sha8":"4fb2c209","len":534,"nTasks":1,"models":"null","read":true,"findings":"金链吊人雕部件房间：kilkadziesiąt części białych…ręce, nogi, korpusy, głowy——手/腿/躯干/头悬吊雕塑（恐怖室内设计）"}
+{"project":"MISTER_M","idx":14,"sha8":"43d8e8d8","len":237,"nTasks":1,"models":"null","read":true,"findings":"车夫角色定义：blade zapadnięte policzki, wodniste oczy——苍白凹陷颊+水汪眼+@karoca 车夫"}
+{"project":"MISTER_M","idx":15,"sha8":"74e844fa","len":725,"nTasks":1,"models":"default","read":true,"findings":"Murdered? 反问变体①：fotel po lewej（左椅版）"}
+{"project":"MISTER_M","idx":16,"sha8":"ffed3ee2","len":732,"nTasks":1,"models":"default","read":true,"findings":"Murdered? 反问变体②：fotel po prawej（右椅版）+niepokojącym śmiechem"}
+{"project":"MISTER_M","idx":17,"sha8":"f95eb096","len":480,"nTasks":1,"models":"default","read":true,"findings":"响指关门：pstryka palcami, zamykając drzwi——响指超能力关门"}
+{"project":"MISTER_M","idx":18,"sha8":"970e4df1","len":522,"nTasks":1,"models":"default","read":true,"findings":"酒渍礼服：duża plama, po czerwonym winie——红酒渍污点（道具记忆）"}
+{"project":"MISTER_M","idx":19,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"MISTER_M","idx":20,"sha8":"73604ecd","len":746,"nTasks":1,"models":"default","read":true,"findings":"It tickles 幽默恐怖：otrzepuje kurz…niewinnie mówi: Ow! It tickles——枪击无伤掸尘+That is precisely what I am counting upon 反派金句"}
+{"project":"MISTER_M","idx":21,"sha8":"4152ec34","len":824,"nTasks":1,"models":"default","read":true,"findings":"This time, do not miss：palcem wskazuje swoją pierś——指胸挑衅"}
+{"project":"MISTER_M","idx":22,"sha8":"a4d5b930","len":837,"nTasks":1,"models":"default","read":true,"findings":"What manner of creature 变体①：四名列举 monster, Basilisk, Medusa, Gorgon+双手搭肩"}
+{"project":"MISTER_M","idx":23,"sha8":"6ed4feda","len":477,"nTasks":1,"models":"default","read":true,"findings":"Murdered? 短版：zatrzymuje się i z rozbawieniem pyta"}
+{"project":"MISTER_M","idx":24,"sha8":"60e33de8","len":860,"nTasks":1,"models":"default","read":true,"findings":"What manner of creature 变体②：szeroko otwiera oczy——圆睁双眼新增"}
+{"project":"MISTER_M","idx":25,"sha8":"a36228ad","len":525,"nTasks":1,"models":"default","read":true,"findings":"Murdered? 变体②：podchodzi powoli——慢步逼近新增"}
+{"project":"MISTER_M","idx":26,"sha8":"fcd1add5","len":605,"nTasks":1,"models":"default","read":true,"findings":"You humans 变体①：fotel 右→左对话位置声明+I bestowed upon them immortality 不朽赋予台词"}
+{"project":"MISTER_M","idx":27,"sha8":"415f7179","len":568,"nTasks":1,"models":"default","read":true,"findings":"You humans 变体②：无座版"}
+{"project":"MISTER_M","idx":28,"sha8":"232bd051","len":548,"nTasks":1,"models":"default","read":true,"findings":"You humans 变体③：无座无场景版"}
+{"project":"MISTER_M","idx":29,"sha8":"e38d5df0","len":609,"nTasks":1,"models":"default","read":true,"findings":"You humans 变体④：背靠金门版"}
+{"project":"MISTER_M","idx":30,"sha8":"bb5b966a","len":745,"nTasks":1,"models":"default","read":true,"findings":"离开门坐椅：odchodzi od zamkniętych, złotych drzwi…siada——动作过渡版 Murdered"}
+{"project":"MISTER_M","idx":31,"sha8":"21fc92da","len":806,"nTasks":1,"models":"default","read":true,"findings":"开枪对峙变体①：naprzeciwko niego w oddali——远处对峙版"}
+{"project":"MISTER_M","idx":32,"sha8":"ab682515","len":797,"nTasks":1,"models":"default","read":true,"findings":"开枪对峙变体②：无 oddali 近距版"}
+{"project":"MISTER_M","idx":33,"sha8":"3540ab4c","len":770,"nTasks":1,"models":"default","read":true,"findings":"行为修正否定句：nie podchodzi już do——**「不再走近」否定式行为修正**"}
+{"project":"MISTER_M","idx":34,"sha8":"17572c42","len":980,"nTasks":1,"models":"default","read":true,"findings":"抓颈拖行：agresywnie trzymając za kark——抓后颈拖行+见雕像惊逃+拳击脸推椅"}
+{"project":"MISTER_M","idx":35,"sha8":"90a8ccd7","len":751,"nTasks":1,"models":"default","read":true,"findings":"递酒逼饮：z makabrycznym uśmiechem podaje kieliszek——递杯+Drink, Captain 命令"}
+{"project":"MISTER_M","idx":36,"sha8":"87b617f0","len":877,"nTasks":1,"models":"default","read":true,"findings":"What manner 变体③：chichocząc pod nosem——窃笑开场版"}
+{"project":"MISTER_M","idx":37,"sha8":"77143648","len":654,"nTasks":1,"models":"default","read":true,"findings":"You humans 变体⑤：pochyla się w jego kierunku——俯身逼近版"}
+{"project":"MISTER_M","idx":38,"sha8":"70cbd33d","len":663,"nTasks":1,"models":"default","read":true,"findings":"马车赴约：szarmancko pomaga wysiąść+obejmuje subtelnie w talii——扶下车+揽腰引路"}
+{"project":"MISTER_M","idx":39,"sha8":"85a2be1e","len":865,"nTasks":1,"models":"default","read":true,"findings":"背影镜头：kamera skierowana jest na ich plecy——**背影进屋镜头声明**+木警棍 Scotlant Yard（拼写原样）"}
+{"project":"MISTER_M","idx":40,"sha8":"f5a47680","len":611,"nTasks":1,"models":"default","read":true,"findings":"街边召马车：unosi dobroń, przyłość——抬手召车（打字错误原样 dobroń/prazed）"}
+{"project":"MISTER_M","idx":41,"sha8":"d974cccf","len":1133,"nTasks":1,"models":"default","read":true,"findings":"马车对坐：@ anna 命名残留+even nie zapytał jej o adres——未问地址悬念台词"}
+{"project":"MISTER_M","idx":42,"sha8":"df5ffce7","len":681,"nTasks":1,"models":"default","read":true,"findings":"车夫抬帽礼：leko unosi cylinder, przelotnie kiwając głową——抬帽点头礼"}
+{"project":"MISTER_M","idx":43,"sha8":"b0ad94bf","len":741,"nTasks":1,"models":"default","read":true,"findings":"雕像眼熟叙事①：niektóre posągi wydają jej się znajome——**雕像=失踪女子叙事**"}
+{"project":"MISTER_M","idx":44,"sha8":"feef870d","len":741,"nTasks":1,"models":"default","read":true,"findings":"王座观察：siada na tronie i obserwuje——王座观察者位+Are you a patron of the art→I should rather call myself an artist"}
+{"project":"MISTER_M","idx":45,"sha8":"c416e0cc","len":791,"nTasks":1,"models":"default","read":true,"findings":"瓶饮+逃脱失败：pije wino wprost z butelki——瓶饮失态+Truly, Captain? Will you sit down, or must I assist you"}
+{"project":"MISTER_M","idx":46,"sha8":"7fb3c8f0","len":713,"nTasks":1,"models":"default","read":true,"findings":"车夫开马车门：<<<e4c2a398>>> otwiera drzwi——车夫职责分工"}
+{"project":"MISTER_M","idx":47,"sha8":"f28e88f5","len":607,"nTasks":1,"models":"default","read":true,"findings":"马车穿门：przejeżdża przez otwartą <<<db49b216>>>——穿大门行进+车内窥雕像（przez oko 车窗）"}
+{"project":"MISTER_M","idx":48,"sha8":"6e89dea1","len":235,"nTasks":1,"models":"null","read":true,"findings":"警探 4 定义：kilka drobnych blizn——细小疤痕+不安绿眼"}
+{"project":"MISTER_M","idx":49,"sha8":"0edcd296","len":256,"nTasks":1,"models":"null","read":true,"findings":"维多利亚马车规格：cztery czarne konie o czarnych grzywach+zasłony fioletowe——四黑马黑鬃+紫帘"}
+{"project":"MISTER_M","idx":50,"sha8":"94ff5988","len":644,"nTasks":1,"models":"default","read":true,"findings":"俱乐部初遇场景：wykorzystaj zdjęcie 拍照引用+porcelanowej urodzie 瓷肌少女定义"}
+{"project":"MISTER_M","idx":51,"sha8":"ae58464b","len":647,"nTasks":1,"models":"default","read":true,"findings":"马车对坐②：uśmiechając się tajemniczo——神秘微笑沉默"}
+{"project":"MISTER_M","idx":52,"sha8":"8163bfce","len":532,"nTasks":1,"models":"null","read":true,"findings":"黑金走廊：czarną tapetą w złote liście——金叶黑墙纸+白衣全雕像无缺损+金框女性肖像画"}
+{"project":"MISTER_M","idx":53,"sha8":"a228931a","len":1093,"nTasks":1,"models":"default","read":true,"findings":"报纸头条完整版①：双重框架头（Wygeneruj…Wygeneruj——框架头重复残留）"}
+{"project":"MISTER_M","idx":54,"sha8":"5aeebad8","len":1260,"nTasks":1,"models":"default","read":true,"findings":"闻笑声齐转身：odwracają się gwałtownie twarzami——齐转身+四人对美杜莎持枪"}
+{"project":"MISTER_M","idx":55,"sha8":"e75263b2","len":680,"nTasks":1,"models":"default","read":true,"findings":"逃脱失败变体②：无 fotel 版"}
+{"project":"MISTER_M","idx":56,"sha8":"498c0a28","len":804,"nTasks":1,"models":"default","read":true,"findings":"报纸头条完整版②：bierze gazetę i powoli odchodzi——取报慢走回绿沙发"}
+{"project":"MISTER_M","idx":57,"sha8":"8f8d5141","len":617,"nTasks":1,"models":"default","read":true,"findings":"马车夜行版：jest noc——夜声明"}
+{"project":"MISTER_M","idx":58,"sha8":"138dc8ac","len":369,"nTasks":1,"models":"default","read":true,"findings":"红眼暗场收尾：przyciemna aż pogrąża się całkowitej ciemności widać tylko świecące na czerwono oczy——**渐暗至全黑只留红眼**+<<<image_1>>> 引用"}
+{"project":"MISTER_M","idx":59,"sha8":"1cb3f768","len":652,"nTasks":1,"models":"default","read":true,"findings":"逃脱失败变体③：座位声明开场（fotel po lewej/po prawej）"}
+{"project":"MISTER_M","idx":60,"sha8":"91ddf971","len":976,"nTasks":1,"models":"default","read":true,"findings":"报纸阅读+四重防错：nie ściąga okularów ani mu okulary nie spadają——**眼镜防掉预防性否定**+A ma usiąść na zielonym fotelu"}
+{"project":"MISTER_M","idx":61,"sha8":"89bbb09a","len":764,"nTasks":1,"models":"default","read":true,"findings":"开枪收尾版：smoke 落+It tickles 短版"}
+{"project":"MISTER_M","idx":62,"sha8":"790e8676","len":857,"nTasks":1,"models":"default","read":true,"findings":"开枪对峙变体③：śledzi wzrokiem——目光追踪版"}
+{"project":"MISTER_M","idx":63,"sha8":"e2008b6e","len":628,"nTasks":1,"models":"default","read":true,"findings":"首尾帧锁定法首例：scenę rozpocznij kadrem z poprzedniego filmu <<<image_1>>>…scenę zakończ kadrem z filmu <<<video_1>>>——**开场帧=上镜尾帧/尾帧=定帧衔接制！**"}
+{"project":"MISTER_M","idx":64,"sha8":"af678665","len":602,"nTasks":1,"models":"default","read":true,"findings":"Murdered 变体③：opiera się plecami o złote drzwi 开场"}
+{"project":"MISTER_M","idx":65,"sha8":"a58f713a","len":459,"nTasks":1,"models":"default","read":true,"findings":"首尾帧版②：zacznij od sceny <<<image_2>>>…Zakończ sceną z <<<image_1>>>——7s 短镜首尾帧"}
+{"project":"MISTER_M","idx":66,"sha8":"b5853110","len":706,"nTasks":1,"models":"default","read":true,"findings":"台词切断法：I made their beauty\"…urywa na chwilę, po czym z maniakalnym uśmiechem dodaje: eternal——**台词中断+停顿+续接表演化**"}
+{"project":"MISTER_M","idx":67,"sha8":"060071e4","len":974,"nTasks":1,"models":"default","read":true,"findings":"报纸阅读⑤：nie dodawaj melodii——**不加旋律否定**（音频预防）+zacznij sceną <<<image_1>>> 开场帧"}
+{"project":"MISTER_M","idx":68,"sha8":"02bd6fd3","len":586,"nTasks":1,"models":"default","read":true,"findings":"You humans 变体⑥：siedzący 版"}
+{"project":"MISTER_M","idx":69,"sha8":"a58f713a","len":459,"nTasks":1,"models":"default","read":true,"findings":"首尾帧版③：同 65 重生成"}
+{"project":"MISTER_M","idx":70,"sha8":"bb5b966a","len":745,"nTasks":1,"models":"default","read":true,"findings":"离门坐椅 Murdered 变体：ociężale（沉重地）→Roztrzęsiony 变词"}
+{"project":"MISTER_M","idx":71,"sha8":"755cf14a","len":754,"nTasks":1,"models":"default","read":true,"findings":"同 70 变体：ociężale 副词替换版"}
+{"project":"MISTER_M","idx":72,"sha8":"3c34021a","len":926,"nTasks":1,"models":"default","read":true,"findings":"走廊呼名：Ann!? Ann Bennett?!——呼喊台词+走廊深处嘲讽笑声回荡"}
+{"project":"MISTER_M","idx":73,"sha8":"2d88c78f","len":984,"nTasks":1,"models":"default","read":true,"findings":"What manner 变体④：spoza kadru——画外音提问"}
+{"project":"MISTER_M","idx":74,"sha8":"7e07c99b","len":849,"nTasks":1,"models":"default","read":true,"findings":"抓颈拖行完整版：władczym, zdecydowanym krokiem——威严步伐"}
+{"project":"MISTER_M","idx":75,"sha8":"f5cb285c","len":551,"nTasks":1,"models":"default","read":true,"findings":"拖行简版：wlecze go——拖拽动词"}
+{"project":"MISTER_M","idx":76,"sha8":"6071ec0b","len":656,"nTasks":1,"models":"default","read":true,"findings":"You humans 变体⑦：背门俯身版"}
+{"project":"MISTER_M","idx":77,"sha8":"db95c603","len":585,"nTasks":1,"models":"default","read":true,"findings":"Devil himself 台词：brutalnie stawia go na nogi——粗暴拉起+You are the Devil himself→Merely an artist who abhors being disturbed"}
+{"project":"MISTER_M","idx":78,"sha8":"8a337ed4","len":517,"nTasks":1,"models":"default","read":true,"findings":"同 77 重生成"}
+{"project":"MISTER_M","idx":79,"sha8":"3e6c684c","len":762,"nTasks":1,"models":"default","read":true,"findings":"蜡烛逐一亮起：Świeczki zapalają się jedna po drugiej——**全黑开场+蜡烛逐一揭示**+枪声画外+左右观察（#82a8c7ad/#27304de7 雕像）"}
+{"project":"MISTER_M","idx":80,"sha8":"774196ac","len":637,"nTasks":1,"models":"default","read":true,"findings":"蜡烛全亮变体：Nagle zapalają się wszystkie świece——同场「逐一→同时」变体"}
+{"project":"MISTER_M","idx":81,"sha8":"929cdc0b","len":648,"nTasks":1,"models":"default","read":true,"findings":"同 80 变体③：场景名开头"}
+{"project":"MISTER_M","idx":82,"sha8":"dfcdb3b9","len":619,"nTasks":1,"models":"default","read":true,"findings":"踢碎雕像变体①：klęczy pomiędzy…po lewej/po prawej——跪位声明+roztrzaskuje się（粉碎）"}
+{"project":"MISTER_M","idx":83,"sha8":"9ee33f40","len":572,"nTasks":1,"models":"default","read":true,"findings":"踢碎雕像变体②：左右排列互换"}
+{"project":"MISTER_M","idx":84,"sha8":"a23a5257","len":598,"nTasks":1,"models":"default","read":true,"findings":"踢碎雕像变体③：站位描述（stoją na środku）"}
+{"project":"MISTER_M","idx":85,"sha8":"f1de91f1","len":80,"nTasks":1,"models":"null","read":true,"findings":"波兰语修图微指令①：Dodaj wyraz rozpaczy i ślady łez na twarzy. Niech ręce będą opuszczone bezradnie——泪痕+垂手"}
+{"project":"MISTER_M","idx":86,"sha8":"698a9994","len":1122,"nTasks":1,"models":"default","read":true,"findings":"四警齐转身持枪：tyłem do 画室背对声明"}
+{"project":"MISTER_M","idx":87,"sha8":"bbbca617","len":91,"nTasks":1,"models":"null","read":true,"findings":"波兰语修图微指令②：Zmień kolor paska na biały——条纹改白+愤怒惊讶表情"}
+{"project":"MISTER_M","idx":88,"sha8":"623b7ae0","len":923,"nTasks":1,"models":"default","read":true,"findings":"呼名变体②：głęboki, diaboliczny śmiech——笑声定性词"}
+{"project":"MISTER_M","idx":89,"sha8":"5ae47686","len":674,"nTasks":1,"models":"default","read":true,"findings":"policjant4 占位名残留：角色命名系统占位符原样入 prompt+Ann Bennet 拼写变体"}
+{"project":"MISTER_M","idx":90,"sha8":"f5736501","len":954,"nTasks":1,"models":"default","read":true,"findings":"素描画像道具：przekazuje szkic, przestawiający twarz młodego mężczyzny…okrągłe okulary…czerwonych szkłach——**红镜片画像搜捕叙事**+呛酒起身"}
+{"project":"MISTER_M","idx":91,"sha8":"376251d2","len":708,"nTasks":1,"models":"default","read":true,"findings":"Klik. 单字成行：odciąga kurek…Klik.——**击锤声独立成行（声音分行法）**+Stand! Not another step!+约 2m 红眼+Potwór tylko się uśmiecha（怪物只微笑——叙事短句）"}
+{"project":"MISTER_M","idx":92,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"MISTER_M","idx":93,"sha8":"a1d87ddd","len":294,"nTasks":1,"models":"null","read":true,"findings":"角色→雕像资产转化指令：Na podstawie wizerunku <<<anna>>> stwórz posąg z kamienia który wygląda jak…cały szary——**石化资产生成令**"}
+{"project":"MISTER_M","idx":94,"sha8":"d9c87eb4","len":677,"nTasks":1,"models":"default","read":true,"findings":"黑暗走廊爬楼④：同 7 重生成"}
+{"project":"MISTER_M","idx":95,"sha8":"695e249b","len":718,"nTasks":1,"models":"default","read":true,"findings":"石化进行时目击：widzi zamienianą w szary kamień <<<anna>>>——**目击石化瞬间**+掩口+2m 红眼复现"}
+{"project":"MISTER_M","idx":96,"sha8":"fa0be0df","len":605,"nTasks":1,"models":"default","read":true,"findings":"微光壁炉导向：otwartymi drzwi lekko widać światło z przygasającego kominka——门缝微光导航"}
+{"project":"MISTER_M","idx":97,"sha8":"498c0a28","len":804,"nTasks":1,"models":"default","read":true,"findings":"报纸头条完整版③"}
+{"project":"MISTER_M","idx":98,"sha8":"9a28a3ad","len":722,"nTasks":1,"models":"default","read":true,"findings":"贵族威胁台词：What have you done, wench! This suit is worth more than your wretched life…And I know precisely how——礼服价值威胁+oblizuje wargi w sugestywny, pożądliwy way（舔唇欲望）"}
+{"project":"MISTER_M","idx":99,"sha8":"9bf93d0d","len":611,"nTasks":1,"models":"default","read":true,"findings":"马车门版③"}
+{"project":"MISTER_M","idx":100,"sha8":"1a7b5b60","len":675,"nTasks":1,"models":"default","read":true,"findings":"街召车②：którą kieruje <<<e4c2a398>>>——车夫操控声明"}
+{"project":"MISTER_M","idx":101,"sha8":"cbd477b3","len":745,"nTasks":1,"models":"default","read":true,"findings":"车夫礼节②：odwzajemnia gest——回礼"}
+{"project":"MISTER_M","idx":102,"sha8":"17d2b36e","len":812,"nTasks":1,"models":"default","read":true,"findings":"进屋④：同 39 重生成"}
+{"project":"MISTER_M","idx":103,"sha8":"303ff315","len":1046,"nTasks":1,"models":"default","read":true,"findings":"灯全灭+举手：unosi powoli ręce. Nagle gasną wszystkie światła——投降姿势+灯灭"}
+{"project":"MISTER_M","idx":104,"sha8":"74ec029f","len":791,"nTasks":1,"models":"default","read":true,"findings":"爬楼慢版：wspinają się powoli po schodach——缓登"}
+{"project":"MISTER_M","idx":105,"sha8":"72ad6e6c","len":597,"nTasks":1,"models":"default","read":true,"findings":"王座窃笑渐变：Powolutku chichot…zmienia się w kpiący, upiorny śmiech——**笑的渐变链**（窃笑→嘲讽→恐怖大笑）"}
+{"project":"MISTER_M","idx":106,"sha8":"d4bcf028","len":601,"nTasks":1,"models":"default","read":true,"findings":"We are too late：zrozpaczony szepta——绝望耳语+@pracownia 画室命名"}
+{"project":"MISTER_M","idx":107,"sha8":"00be6d3f","len":683,"nTasks":1,"models":"default","read":true,"findings":"石化完成态展示：przemienioną w posąg——喝威士忌看雕像+画外噪声翻白眼叹息"}
+{"project":"MISTER_M","idx":108,"sha8":"28171e70","len":662,"nTasks":1,"models":"default","read":true,"findings":"王座观察②：uśmiecha się tajemniczo——神秘微笑版"}
+{"project":"MISTER_M","idx":109,"sha8":"cb76f68c","len":745,"nTasks":1,"models":"default","read":true,"findings":"雕像眼熟②：anna czuje się zaniepokojona——姓名拼写嵌入"}
+{"project":"MISTER_M","idx":110,"sha8":"cb76f68c","len":745,"nTasks":1,"models":"default","read":true,"findings":"同 109 重生成"}
+{"project":"MISTER_M","idx":111,"sha8":"0a231313","len":621,"nTasks":1,"models":"default","read":true,"findings":"触碰欲止：chce go dotknąć, ale opuszcza dłoń——**想触又止**三女舞像+角眼观察（kątem oka 余光）"}
+{"project":"MISTER_M","idx":112,"sha8":"41c60143","len":1132,"nTasks":1,"models":"default","read":true,"findings":"灯全灭完整版：持枪对峙+灯灭"}
+{"project":"MISTER_M","idx":113,"sha8":"6c2762ea","len":809,"nTasks":1,"models":"default","read":true,"findings":"笑容渐熄：subtelnie uśmiech staje się niepewny i zagubiony——**笑容转变链**（欣悦→不确定→迷失）"}
+{"project":"MISTER_M","idx":114,"sha8":"30583a78","len":724,"nTasks":1,"models":"default","read":true,"findings":"摘眼镜石化触发：Z czułością podnosi podbródek…zsuwa swoje okulary. <<<anna>>> w ułamku sekundy zmienia się w biały, kamienny posąg——**摘镜瞬间石化（触发器）**+温柔托下巴+Do you find my art to your liking 台词"}
+{"project":"MISTER_M","idx":115,"sha8":"0a44580f","len":894,"nTasks":1,"models":"default","read":true,"findings":"进屋④：同 113 变体（uśmiech gaśnie 笑容熄灭短句）"}
+{"project":"MISTER_M","idx":116,"sha8":"e3dde081","len":624,"nTasks":1,"models":"default","read":true,"findings":"石化触发②：Ostrożnie podnosi——小心翼翼版+尾帧=房间"}
+{"project":"MISTER_M","idx":117,"sha8":"05687ed5","len":864,"nTasks":1,"models":"default","read":true,"findings":"笑容渐熄②：uśmiech gaśnie——短句版"}
+{"project":"MISTER_M","idx":118,"sha8":"ccacc05b","len":616,"nTasks":1,"models":"default","read":true,"findings":"马车门版④"}
+{"project":"MISTER_M","idx":119,"sha8":"963dc846","len":604,"nTasks":1,"models":"default","read":true,"findings":"半鞠躬邀客：szarmanckim półukłonie——**半鞠躬动作**"}
+{"project":"MISTER_M","idx":120,"sha8":"d4fc037f","len":943,"nTasks":1,"models":"default","read":true,"findings":"侠义介入+硬币抛掷：Zdecydowanie ściska nadgarstek…Wyjmuje kilka starych monet, którę arogancko rzuca——抓腕制服+旧币傲慢抛掷+三方位声明（右/左）"}
+{"project":"MISTER_M","idx":121,"sha8":"c27d1703","len":699,"nTasks":1,"models":"default","read":true,"findings":"未问地址台词版：You do not wish to know whither you are bound, sir?→I know precisely, madame——维多利亚式英语对答"}
+{"project":"MISTER_M","idx":122,"sha8":"c0b6ee21","len":868,"nTasks":1,"models":"default","read":true,"findings":"素描搜捕②：przestawiający okrągłe okulary o czerwonych szkłach——画像只画眼镜特征"}
+{"project":"MISTER_M","idx":123,"sha8":"585b6528","len":493,"nTasks":1,"models":"default","read":true,"findings":"俱乐部进门无引用版：odźwierny…kłaniając się elegancko——门房鞠躬开门+无 UUID 全文描述"}
+{"project":"MISTER_M","idx":124,"sha8":"eb27ac0e","len":216,"nTasks":1,"models":"default","read":true,"findings":"Gorgon 直接入词：Gorgon idzie zasnutą mgłą, ruchliwą ulicą wiktoriańskiego Londynu——**角色类型词+雾街+znudzenia/dezaprobata 表情定性**"}
+{"project":"MISTER_M","idx":125,"sha8":"0a688718","len":656,"nTasks":1,"models":"null","read":true,"findings":"Mister M 角色定义图：arystokratyczna, chłodna uroda+biała koszula miedzianą kamizelkę+czarną laskę z głownią w kształcie głowy węża——蛇头杖+**红镜片圆眼镜**全装束"}
+{"project":"MISTER_M","idx":126,"sha8":"c27d1703","len":699,"nTasks":1,"models":"default","read":true,"findings":"未问地址②：同 121 重生成"}
+{"project":"MISTER_M","idx":127,"sha8":"837eff87","len":916,"nTasks":1,"models":"default","read":true,"findings":"报纸阅读⑥：同 60"}
+{"project":"MISTER_M","idx":128,"sha8":"42c641a8","len":784,"nTasks":1,"models":"default","read":true,"findings":"报纸阅读⑦：nie dodawaj wąsów——**不加胡子预防性否定**+stoickim spokojem（斯多葛平静）"}
+{"project":"MISTER_M","idx":129,"sha8":"d44d9709","len":282,"nTasks":1,"models":"null","read":true,"findings":"俱乐部空景②"}
+{"project":"MISTER_M","idx":130,"sha8":"7dee99b6","len":123,"nTasks":1,"models":"null","read":true,"findings":"俱乐部空景③：最短版（基于 filmmów——打字错误）"}
+{"project":"MISTER_M","idx":131,"sha8":"cb8d7acf","len":688,"nTasks":1,"models":"null","read":true,"findings":"酒红大厅：bordową tapetą od podłogi aż po sufit——整墙酒红墙纸+三女牵手舞像（jakby tańczyły）+黑大理石大楼梯"}
+{"project":"MISTER_M","idx":132,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"MISTER_M","idx":133,"sha8":"ed19536c","len":954,"nTasks":1,"models":"default","read":true,"findings":"侍女搭话被无视：What shall I have the pleasure of serving you, sir?——侍女台词+ignoruje pytanie（无视提问）"}
+{"project":"MISTER_M","idx":134,"sha8":"0441347b","len":610,"nTasks":1,"models":"default","read":true,"findings":"You humans 变体⑧"}
+{"project":"MISTER_M","idx":135,"sha8":"98341dfe","len":553,"nTasks":1,"models":"default","read":true,"findings":"初遇观察②：w drugiej ręce trzymającego swoją czapkę——持帽细节"}
+{"project":"MISTER_M","idx":136,"sha8":"02f2cc40","len":821,"nTasks":1,"models":"default","read":true,"findings":"车夫礼③：milcząco lekko unosi cylinder——无声抬帽"}
+{"project":"MISTER_M","idx":137,"sha8":"3c4c227c","len":600,"nTasks":1,"models":"default","read":true,"findings":"You humans 变体⑨"}
+{"project":"MISTER_M","idx":138,"sha8":"493653f2","len":747,"nTasks":1,"models":"null","read":true,"findings":"画室全描述：misternie rzeźbiony, hebanowy tron…około trzydziestu kompletnych rzeźb…staromodna sztaluga…kilkanaście pustych płócien——**王座+三十雕像+画架+空画布**（艺术家之王房间）+跨时代裙装（różnych epok historycznych）"}
+{"project":"MISTER_M","idx":139,"sha8":"421f597f","len":306,"nTasks":1,"models":"null","read":true,"findings":"贵族角色定义②：ciemnofioletowy…zawadiacki błysk w niebieskich oczach——紫衣公子蓝眼"}
+{"project":"MISTER_M","idx":140,"sha8":"7abee997","len":283,"nTasks":1,"models":"null","read":true,"findings":"安娜角色定义图：porcelanowej urodzie, zielonych oczach…piegowatej buzi——瓷肌绿眼雀斑+深绿胸衣裙"}
+{"project":"MISTER_M","idx":141,"sha8":"6b6e9f4c","len":159,"nTasks":1,"models":"null","read":true,"findings":"醉酒警官定义：widocznie nadużywający alkoholu——酗酒定性"}
+{"project":"MISTER_M","idx":142,"sha8":"799c63e1","len":580,"nTasks":1,"models":"default","read":true,"findings":"逃脱失败④：podbiec（跑向）"}
+{"project":"MISTER_M","idx":143,"sha8":"96797686","len":1098,"nTasks":1,"models":"default","read":true,"findings":"灯全灭③：同 112"}
+{"project":"MISTER_M","idx":144,"sha8":"c53a210e","len":426,"nTasks":1,"models":"default","read":true,"findings":"牵手离开：podaję dłoń…łapie pod rękę——递手挽臂"}
+{"project":"MISTER_M","idx":145,"sha8":"1a7b5b60","len":675,"nTasks":1,"models":"default","read":true,"findings":"街召车③"}
+{"project":"MISTER_M","idx":146,"sha8":"0f5fba25","len":867,"nTasks":1,"models":"default","read":true,"findings":"开枪+红眼暗场合并：双尾（It tickles 组+暗场红眼组）——场景合并版"}
+{"project":"MISTER_M","idx":147,"sha8":"4f653d90","len":840,"nTasks":1,"models":"default","read":true,"findings":"płynna 流畅修饰：Wygeneruj płynna realistyczna scena——**「流畅」质量修饰词**+ śmieje się złowieszczo 尾加"}
+{"project":"MISTER_M","idx":148,"sha8":"8ce9d7fe","len":833,"nTasks":1,"models":"default","read":true,"findings":"同 147 无 płynna 版"}
+{"project":"MISTER_M","idx":149,"sha8":"fa300587","len":636,"nTasks":1,"models":"default","read":true,"findings":"召车③打字错误峰值版：Zatrzymuć sić/przyłość/krtórą/dobroń——错误群"}
+{"project":"MISTER_M","idx":150,"sha8":"efdebe3e","len":751,"nTasks":1,"models":"default","read":true,"findings":"王座观察③：coraz bardziej przerażona——渐怕递进+Atmosfera staje się odczuwalnie napięta（可感知紧张）"}

@@ -1,0 +1,761 @@
+【项目】How to Put Two Consistent Characters in One AI Video Scene（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/two-characters-one-scene-ai-video
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+How to Put Two Consistent Characters in One AI Video Scene
+Higgsfield
+Oct 13, 2026
+13 min
+
+Two AI characters are more likely to blend when their identities are not anchored separately. Giving each character its own reference sheet, named in the prompt, helps keep the two identities distinct. In Higgsfield, generate each sheet in Soul 2.0 and attach both as references in Cinema Studio 4.0. For recurring characters, Soul ID and Elements carry them across projects.
+
+Why two characters blend in one AI video scene
+
+Most character workflows are built around one identity at a time. When a scene adds a second person, the model usually gets one of three weak inputs: a text description of both people, one image with both faces in it, or a reference for only one of them. In each case the two identities share one anchor, and their features can mix.
+
+Blending. Both characters drift toward one average face.
+Swapping. Hair, outfits or props move from one character to the other between shots.
+Duplication. A multi-view reference sheet gets copied literally, and the same character appears twice.
+Scale drift. A child and a teenager end up the same height, or trade heights between shots.
+Shot-to-shot drift. The first shot looks right, and by the third shot the cast looks slightly different.
+Four ways to keep two characters apart on Higgsfield
+
+A reliable way to reduce blending is to give each character its own reference, fixed before you generate the scene. On Higgsfield there are four routes to a two-character scene, and the choice depends on where you start: an existing performance, a finished clip, a scene of your own, or characters that need to return.
+
+Four ways to keep two characters apart on Higgsfield
+
+Route
+
+	
+
+Use it when
+
+	
+
+Tools
+
+	
+
+What you need
+
+
+
+
+Motion transfer
+
+	
+
+You already have a two-person performance and want new characters to perform it
+
+	
+
+Genjutsu
+
+	
+
+A 4 to 30 second video you own or have rights to, character images
+
+
+
+
+Objects swap
+
+	
+
+The clip works, but one character needs to be replaced
+
+	
+
+Genjutsu
+
+	
+
+The clip and reference images of the new character
+
+
+
+
+Cinema Studio 4.0 with separate references
+
+	
+
+You are creating your own two-person scene
+
+	
+
+Soul 2.0, Cinema Studio 4.0
+
+	
+
+One character sheet per character, props, locations, scene prompts
+
+
+
+
+Soul ID and Elements
+
+	
+
+The same characters need to return across generations and projects
+
+	
+
+Soul, Elements, Cinema Studio 4.0 or Seedance 2.5
+
+	
+
+A trained Soul ID per character, saved as Elements
+
+This guide follows the third route end to end, then shows how to move the same cast to Soul ID and Elements when the characters need to come back, and covers the two Genjutsu routes as alternatives.
+
+How Higgsfield handles two characters in one scene
+
+A two-person scene touches several stages of production: building each character, building props and locations, generating the shots, and sometimes reworking footage you already have. Higgsfield is an AI-native creative suite, so these stages run in one place. Character sheets made in Soul 2.0 go straight into Cinema Studio 4.0 as references, and finished clips are available in Genjutsu for motion and character changes.
+
+Cinema Studio 4.0 is how Higgsfield handles cinematography: it takes up to 50 references per generation and generates multi-shot clips up to 30 seconds with native audio. Genjutsu is how Higgsfield handles reworking existing footage: it keeps the motion of a clip and changes who or what is in it.
+
+The example: a 60-second short with two siblings
+
+The workflow below follows one project: a 60-second short film about Jerry, 15, and his sister Lucy, 8. They find their father's old toys, press the button on a strange remote and jump from their bedroom to a jungle, a volcano and the North Pole before landing back home.
+
+The example: a 60-second short with two siblings
+
+Scene
+
+	
+
+Length
+
+	
+
+Location
+
+	
+
+References in the shot
+
+
+
+
+1. Bedroom
+
+	
+
+18 s
+
+	
+
+Bedroom
+
+	
+
+Jerry, Lucy, remote, toy box, bedroom
+
+
+
+
+2. Jungle
+
+	
+
+10 s
+
+	
+
+Jungle clearing
+
+	
+
+Jerry, Lucy, remote, panther, monkeys, jungle
+
+
+
+
+3. Volcano
+
+	
+
+10 s
+
+	
+
+Volcanic crater
+
+	
+
+Jerry, Lucy, remote, crater
+
+
+
+
+4. Arctic
+
+	
+
+14 s
+
+	
+
+North Pole sea ice
+
+	
+
+Jerry, Lucy, remote, ice
+
+
+
+
+5. Back home
+
+	
+
+8 s
+
+	
+
+Bedroom
+
+	
+
+Jerry, Lucy, remote, toy box, bedroom
+
+The siblings are deliberately similar: both have copper-red hair and freckles. Age, height and wardrobe colors keep them apart on screen, which makes this project a useful stress test for blending.
+
+Step 1: Create a character sheet for each character
+
+Each character gets one sheet, generated in Soul 2.0 at 16:9. Both sheets use the same three-panel layout:
+
+Left panel: full-body rear view, head and shoes in frame.
+Center panel: large frontal face close-up with the full hair silhouette.
+Right panel: full-body front view, head and shoes in frame.
+Same outfit in every panel, described down to colors and details, on a clean background with soft even light.
+
+The prompts spell out what separates the two characters: age markers, build, height and wardrobe palettes that do not overlap (mustard and denim for Jerry, purple and cream for Lucy).
+
+Jerry character sheet
+
+Create a photorealistic three-panel character reference sheet of one clearly 15-year-old schoolboy on a clean white seamless background. Landscape 16:9. AGE AND APPEARANCE:
+He must unmistakably look like a teenage boy, not an adult actor playing a teenager. A youthful face with softly rounded cheeks, a small chin, a gently defined jaw, a small nose, and slightly prominent ears. Slim adolescent proportions, narrow shoulders, and a naturally slight build without adult muscular definition.
+He has tousled copper-red hair, pale green eyes, and light skin with a scattering of small, FLAT, light-brown freckles across the bridge of his nose and upper cheeks. The freckles are subtle pigmentation, not raised spots, bumps, sores, or dark clusters.
+His under-eye skin is smooth and healthy, without blemishes, pronounced bags, or deep lines. At most, show two or three tiny, faint teenage blemishes near the upper forehead. His cheeks and under-eye areas remain clear. No facial hair, stubble, beard shadow, hollow cheeks, heavy brow, or strongly angular adult jaw.
+His expression is quietly curious and slightly shy. Natural, believable teenage appearance. CLOTHING, IDENTICAL IN EVERY PANEL:
+A plain mustard-yellow cotton crew-neck T-SHIRT worn UNDER faded indigo denim short overalls. The T-shirt fully covers his chest, back, shoulders, and upper torso. Its short sleeves extend to the middle of his upper arms. Yellow fabric is clearly visible around the neckline, across both shoulders, around both upper arms, along the sides of the torso, and across the upper back between the overall straps.
+The overalls have both straps fastened, small copper-colored buckles, a rectangular front bib pocket, and a small ochre repair patch on his anatomical right knee. Off-white canvas sneakers with beige rubber soles. LEFT PANEL, FULL-BODY REAR VIEW:
+He stands with his back directly toward the camera, head facing away. Show the complete head and both shoes.
+CRITICAL: the mustard-yellow T-shirt clearly covers his ENTIRE upper back and both shoulders beneath the denim straps. Both yellow short sleeves are visible. The straps lie ON TOP OF THE T-SHIRT, never against bare skin. Only his neck, forearms, and hands are exposed. CENTER PANEL, LARGE FRONTAL FACE CLOSE-UP:
+His youthful face fills most of the panel. Include the complete hair silhouette, both ears, chin, and a little neck. Show the yellow T-shirt neckline at the bottom. Prioritize his unmistakable teenage age, soft facial structure, subtle flat freckles, and clear under-eye skin. RIGHT PANEL, FULL-BODY FRONT VIEW:
+He faces the camera with a relaxed posture and arms slightly separated from his body. Show his complete head and both shoes. The yellow T-shirt is clearly visible beneath the front bib, around the neckline, across the shoulders, and on both upper arms. All three panels depict the same identical boy in the same complete outfit. Never remove the T-shirt in any panel.
+Natural portrait photography with soft, even daylight, realistic skin texture, and gentle shadows. No dramatic lighting that exaggerates facial lines. Natural proportions, no wide-angle distortion, no beauty-filter finish, no logos, captions, or panel labels.
+Copy
+Recreate
+
+Lucy character sheet
+
+A photorealistic casting reference sheet of one fictional eight-year-old girl named Lucy. The reference sheet features exactly three vertical panels, showing the same girl with identical facial features, hairstyle, clothing, and proportions across all panels. Lucy stands approximately 125 cm tall, with natural elementary school-age proportions: a relatively large head, narrow shoulders, small hands, and shorter limbs. She has fair skin with a warm peach undertone, natural fine freckles scattered across the bridge of her nose and upper cheeks, green-hazel eyes, light copper eyebrows, a small straight nose with a softly rounded tip, slightly prominent ears, and a gently defined cupid's bow. Her face features youthful, rounded cheeks, short facial proportions, a soft jaw, a small chin, clear under-eyes, and natural skin texture. She wears a tousled copper-red chin-length bob with a slight natural wave, soft uneven fringe, a few flyaway strands, and carries a curious, spontaneous gaze with a tiny mischievous smile. Wardrobe is identical in all three panels: a plain purple crew-neck sweatshirt with long sleeves and ribbed cuffs, cream straight-leg corduroy trousers ending at the ankles, purple-and-white striped socks, and white canvas sneakers with violet heel tabs. No logos, jewelry, or makeup. LEFT PANEL: full-body rear view, standing upright facing away, arms at sides, entire head and shoes visible. CENTER PANEL: large face close-up photographed at eye level, full hair silhouette, forehead, eyes, cheeks, chin, and some purple sweatshirt neckline. RIGHT PANEL: full-body front view, standing upright facing the camera, both feet flat, arms relaxed, entire head and both shoes visible. Clean white studio background, soft neutral daylight, gentle contact shadows beneath shoes. Natural portrait perspective, detailed hair, skin, and fabrics, no wide-angle distortion or interface elements. The subject is consistently depicted as an eight-year-old girl in all three panels.
+Copy
+Recreate
+
+The jungle scene adds two animal characters, a black panther and a capuchin monkey. They get sheets in the same three-panel format, so they stay consistent next to the siblings.
+
+Black panther character sheet
+
+Create a photorealistic three-panel animal reference sheet in landscape 16:9 on a neutral light-gray seamless background. Show the same adult melanistic jaguar, commonly called a black panther, in all three panels. LEFT PANEL, FULL-BODY REAR VIEW:
+The animal stands naturally on all four paws with its back toward the camera and head facing away. Show the complete head silhouette, rounded ears, muscular back, hindquarters, legs, and entire thick tail curved to one side. CENTER PANEL, LARGE FRONTAL FACE CLOSE-UP:
+A large, detailed frontal portrait showing both ears, amber-gold eyes, broad muzzle, whiskers, chin, and upper neck. The face fills most of the panel. The mouth is closed, and the expression is calm but intensely alert. RIGHT PANEL, FULL-BODY FRONT VIEW:
+The animal faces the camera in a grounded quadrupedal stance. Include the entire head, muscular torso, paws, and complete tail within the frame. The jaguar has a powerful low-slung body, a broad head, thick neck, rounded ears, heavy paws, and dense black fur. Subtle rosette patterns become visible where soft side light catches its coat. Its scale and anatomy clearly belong to a large wild jaguar, not a domestic cat. Preserve identical facial structure, fur pattern, body proportions, and eye color across all three views. Natural wildlife portrait photography with soft neutral studio daylight, realistic fur, and grounded contact shadows. Camera at animal eye level, 70mm full-frame-equivalent lens character, approximately 29-degree horizontal field of view, no distortion. No collar, accessories, clothing, people, other animals, captions, or panel labels.
+Copy
+Recreate
+
+Capuchin monkey character sheet
+
+Create a photorealistic three-panel animal reference sheet in landscape 16:9 on a neutral light-gray seamless background. Show the same adult capuchin monkey in all three panels. LEFT PANEL, FULL-BODY REAR VIEW:
+The monkey stands in a natural low quadrupedal stance, back toward the camera, head facing away. Show the complete head, back, hindquarters, limbs, hands, feet, and long tail curved gently to one side. CENTER PANEL, LARGE FRONTAL FACE CLOSE-UP:
+A large frontal portrait of the monkey's face. Include its complete head fur, both ears, eyes, muzzle, chin, and upper neck. The face fills most of the panel. Its expression is alert and inquisitive. RIGHT PANEL, FULL-BODY FRONT VIEW:
+The monkey faces the camera in a natural low quadrupedal stance. Keep the entire head, torso, all four extremities, and complete tail within the frame. No upright human-like posing. The animal has warm dark-brown body fur, lighter cream fur around its face and upper chest, a dark cap over its crown, small dark eyes, and a long flexible tail. Its body is slender and agile, with anatomically correct grasping hands and feet. Preserve identical facial markings, fur colors, body proportions, and tail length in all three panels. Natural wildlife portrait photography, soft neutral daylight, realistic fur and exposed facial skin, grounded contact shadows. Camera at animal eye level, 70mm full-frame-equivalent lens character, approximately 29-degree horizontal field of view, no distortion. No clothing, accessories, people, other animals, captions, or panel labels.
+Copy
+Recreate
+Step 2: Generate the props and locations
+
+For important props or locations that need to stay visually consistent across shots, create a separate reference. The remote is in every scene, so its prompt fixes the exact size, materials and a single button color.
+
+Teleportation remote
+
+Create a photorealistic film-prop photograph of one mysterious handheld device dominated by a single oversized Higgsfield-lime green button. Landscape 16:9.
+The device is approximately 16 centimeters long, 13 centimeters wide, and 4.5 centimeters thick. It fits across two cupped teenage hands and can rest securely on one open palm. Its silhouette is compact, broad, and slightly chunky, with rounded corners and a convincing sense of mechanical weight.
+Build the body from dark graphite metal with a worn brushed-aluminum upper rim. Recessed black rubber grip sections run along the two sides. Small scratches, rubbed edges, and slight discoloration around the seams make it feel like a real experimental machine discovered among old belongings. EXACTLY ONE BUTTON:
+A large circular mechanical push button sits precisely in the center of the upper face. It measures approximately 8 centimeters across and dominates the device.
+The ENTIRE button cap is vivid Higgsfield lime green, sRGB #D1FE17. This is the solid color of the physical button, not merely a glowing outline around a dark center.
+The cap is thick, slightly convex, and made from smooth semi-opaque molded resin. Its broad green surface is uninterrupted by symbols or lettering. A narrow dark-metal collar surrounds it, with a visible mechanical gap suggesting that the button can travel downward when pressed.
+The green cap rises slightly above its collar, making it immediately inviting to press. Preserve its saturated lime color under neutral light; do not turn it amber, orange, turquoise, or dark forest green.
+Four small recessed screws secure the upper casing. No additional controls, screens, tiny decorative buttons, antennas, cables, holograms, or exposed circuit boards.
+Photograph the complete device from an elevated front three-quarter angle, showing the green button, casing thickness, front edge, and one side grip. Use a 65mm full-frame-equivalent lens, approximately 31-degree horizontal field of view, with no distortion.
+A soft directional studio light reveals the resin, brushed metal, rubber, and restrained wear. Neutral gray background and a realistic contact shadow. Practical science-fiction film prop, tactile and mechanically believable. No hands, people, other objects, excessive glow, or glossy game-asset rendering.
+Copy
+Recreate
+
+Toy box
+
+Create a photorealistic film-prop photograph of a LARGE CUBIC cardboard box densely packed with a lifetime of childhood toys, landscape 16:9.
+The box measures approximately 60 × 60 × 60 centimeters. Its height is visibly equal to its width and depth. It is a substantial household moving carton made from thick brown corrugated cardboard, with broad square sides and four large top flaps folded outward.
+Show the full box from an elevated front three-quarter angle, clearly revealing its tall front wall, equally deep side wall, and crowded interior. The box dominates the composition. Preserve its substantial cubic proportions rather than making it shallow or elongated.
+The interior is densely filled with several dozen toys in overlapping layers. A faded teddy bear leans against the rear corner. A scuffed soccer ball is partly buried beneath a tangled pile. Red and blue toy vehicles, chunky plastic building blocks, a battered toy robot, a wooden train, plastic dinosaurs, a fabric dinosaur, a toy spaceship, puzzle pieces, and a tangled skipping rope fill the remaining space.
+Most toys are partly obscured by other toys. Some lean diagonally; others are wedged into gaps. A few objects rise slightly above the rim. The pile feels accumulated over many years, with varied sizes, materials, fading, and wear. Avoid neat rows, evenly spaced objects, identical toy scales, and an artificial display arrangement.
+The cardboard has bowed sidewalls from the contents, compressed lower corners, old tape repairs, small creases, and believable handling marks. A strip of masking tape on the front reads exactly "OLD TOYS" in casual black marker.
+Leave only small natural gaps between the toys. Do not create a clean empty compartment for the remote. Do not include the remote itself.
+Soft window-like light enters from upper-left. Use a 50mm full-frame-equivalent lens, approximately 40-degree horizontal field of view, with realistic perspective. Neutral warm-gray studio surroundings, grounded contact shadows, authentic cardboard, worn plastic, and soft fabric textures.
+This should look like a real overloaded toy-storage box photographed on a film set. No people, animals, hands, glossy CGI finish, shoebox proportions, separate fitted lid, or sparse decorative arrangement.
+Copy
+Recreate
+
+Each location is generated empty in Soul 2.0 at 16:9, with a fixed three-quarter camera and a clear open area where the characters will stand. The prompts exclude people and animals, so a location reference never adds an extra figure to the scene.
+
+Bedroom location
+
+Create an empty, lived-in American teenager's bedroom as a believable suburban coming-of-age film location. Landscape 16:9, cinematic editorial realism. MANDATORY CAMERA:
+A true three-quarter view. Place the camera near the front-right corner of the room, approximately 1.25 meters above the floor, looking diagonally toward the back-left corner at roughly 45 degrees to the rear wall. Clearly show the rear wall and left wall receding on different planes. Furniture must reveal front and side surfaces. Keep the horizon level and vertical lines upright. No frontal symmetrical composition and no Dutch angle. Use a 28mm full-frame-equivalent spherical lens, approximately 65-degree horizontal field of view, with clean rectilinear geometry and naturally proportioned furniture. The room is approximately four meters wide and five meters deep, with dusty-blue walls, off-white trim, a modest ceiling height, and a warm oak floor. It feels personal, slightly untidy, and comfortably ordinary. FRAME LEFT:
+The near corner of a narrow twin bed enters the foreground. The bed extends into the middle distance along the left wall. It has a honey-colored wooden frame, a rumpled navy-and-rust plaid comforter, and one cream pillow. A small bedside table holds a plain reading lamp. Above the bed are two original abstract space posters showing geometric planets and stars without writing or human figures. FRAME CENTER:
+A faded rectangular rug occupies the foreground and middle distance. Leave an unobstructed action area approximately two meters wide in front of the bed. The rear wall contains a white-framed sash window with half-open blinds and cream curtains. Through the window, show softly focused trees and part of a neighboring suburban roof. FRAME RIGHT:
+A compact wooden desk sits in the middle distance, with a simple chair pushed mostly underneath. A closed laptop, unmarked notebook, and pencil cup form one restrained group. A skateboard with an original abstract underside leans against a low shelving unit. Books are arranged with their page edges facing outward. Late-afternoon daylight enters through the rear window and falls diagonally across the bed and rug. The bedside lamp creates a small localized warm pool. Corners remain naturally darker without losing all detail. Preserve dusty-blue paint, warm brown wood, off-white trim, and independent fabric colors. Build contrast through depth and light direction, not a uniform orange or blue filter. No people, animals, silhouettes, mannequins, human-shaped reflections, portraits of people, or figures visible through windows or screens. Keep the central rug empty. Do not include the toy box, remote, portals, or magical light.
+Copy
+Recreate
+
+Jungle clearing location
+
+Create an empty tropical rainforest clearing as a cinematic adventure location. Landscape 16:9, cinematic editorial realism. MANDATORY CAMERA:
+A true three-quarter view across the clearing. Position the camera at its front-left edge, approximately 1.2 meters above the ground, looking diagonally toward the rear-right at roughly 45 degrees to the clearing's main axis. Reveal multiple sides of the buttress roots and both the broken end and long side of a fallen tree trunk. The clearing must have clear diagonal depth. Keep the horizon level. No centered frontal view and no Dutch angle. Use a 32mm full-frame-equivalent spherical lens, approximately 59-degree horizontal field of view, with natural proportions and no fisheye distortion. FRAME LEFT:
+Large dark-green leaves frame the lower foreground without covering the central ground. In the middle distance, a massive rainforest tree has broad buttress roots extending toward the clearing. Damp, deeply textured bark carries restrained moss on shaded surfaces. Slimmer trunks and tangled vines recede behind it. FRAME CENTER:
+A roughly four-meter-wide patch of firm, slightly damp earth forms the foreground and middle-distance action space. Scattered leaves and shallow roots add texture without creating obstacles. Keep enough flat ground for a standing teenager and a large house cat to remain clearly visible together. Beyond the open ground, maintain a narrow visual corridor approximately eight meters into the forest. A dark opening between roots and foliage remains visible at its far end, providing a clear position for a wild animal to appear later. FRAME RIGHT:
+Low ferns occupy the foreground edge. A heavy fallen trunk lies diagonally through the middle distance. Its broken near end faces partly toward the camera, while its length recedes toward the rear-right. A sturdy horizontal branch extends across the upper-right background, unobstructed and large enough to support two small monkeys. Filtered daylight enters through a canopy opening high on frame-left, illuminating parts of the clearing and selected leaves. The deeper forest remains shaded but layered. A thin atmospheric haze softens only the far background. Preserve brown soil, neutral dark bark, varied natural greens, and pale humid daylight. Green reflected light stays subtle and local. Realistic vegetation scale, grounded roots, and believable plant density. No people, animals, silhouettes, buildings, ruins, paved paths, props, portals, or artificial lighting. The clearing and branch remain empty for the separately referenced characters and wildlife.
+Copy
+Recreate
+
+Volcanic crater location
+
+Create a photorealistic cinematic image from deep inside an active volcanic crater, seconds before a major eruption. Landscape 16:9. The entire basin feels violently overheated, unstable, and ready to erupt.
+The camera is near the bottom of the crater, far below its rim. Enormous steep volcanic walls rise on both sides and curve around the background, enclosing a deep basin of boiling lava. The distant opening overhead is barely visible through rising smoke and ash. This is an interior view of the volcano, not a view of a mountain from outside.
+The lava basin is intensely active. Bright yellow-orange molten currents churn between dark fragments of cooling crust. Swollen bubbles rupture into short lava fountains. Incandescent droplets hang above the surface, and scattered vents release fierce jets of glowing volcanic material. Thick columns of smoke rise from the basin, illuminated fiery orange from below.
+The surrounding walls look scorched and unstable. Bright molten seams cut through sections of dark fractured rock. Small streams of lava descend through lower channels. Orange light reaches into deep crevices, while the upper walls disappear into red-lit smoke and suspended ash. Preserve visible black basalt and geological texture between the glowing areas.
+Several irregular rocks protrude from the lava at different distances. Their sizes, shapes, and spacing are uneven. Some are small jagged tips; others expose rough sloping surfaces. Boiling lava flows between them.
+ONE rock in the nearer middle ground is slightly larger than the others, forming a small island with approximately 5–6 square meters of exposed upper surface. It remains tiny compared with the surrounding crater. Its top is uneven, fractured, and asymmetric, with shallow hollows and a few neighboring patches offering plausible footing for a teenager and a cat. Leave it empty.
+The island rises only about one meter above the lava. Its edges catch a fierce orange glow, while its central surface remains solid dark basalt. It is not a tall pillar, broad platform, or flat stage. MANDATORY CAMERA:
+A genuine three-quarter view looking diagonally across the basin. Clearly reveal the island's uneven upper surface and two adjoining sides. Position the camera a few meters above the lava, looking slightly downward while retaining the towering walls above. Level horizon, 28mm full-frame-equivalent spherical lens, approximately 65-degree horizontal field of view, natural rectilinear perspective.
+Foreground: turbulent lava, incandescent spray, and small protruding rocks.
+Middle ground: the slightly larger island, isolated by molten lava on every side.
+Background and sides: immense crater walls, glowing fissures, rising smoke, and volcanic activity.
+Strong heat distortion stays above the hottest areas. Keep the island and crater geometry readable through the atmosphere. Photographic realism, intense source-driven firelight, deep charcoal shadows, and textured molten highlights.
+No people, animals, buildings, bridges, railings, props, portals, symmetrical rock formations, or calm lava surfaces.
+Copy
+Recreate
+
+North Pole blizzard location
+
+Create an empty Arctic sea-ice landscape at the geographic North Pole during a severe blizzard. Landscape 16:9, cinematic editorial realism. MANDATORY CAMERA:
+A true three-quarter view across the ice. Position the camera approximately 1.2 meters above the surface, looking diagonally toward a low pressure ridge at roughly 45 degrees to its main axis. The ridge recedes from the middle-left toward the rear-right. Reveal both front and side planes of its angular ice slabs. Keep the horizon level. No frontal symmetrical ridge, top-down view, or Dutch angle. Use a 35mm full-frame-equivalent spherical lens, approximately 54-degree horizontal field of view, with realistic scale and no distortion. This is a frozen ocean environment: flat pack ice, wind-carved snow, and low pressure ridges. There are no mountains, cliffs, land masses, trees, or buildings. FRAME LEFT:
+Shallow wind-carved snow ribs cross the foreground. Farther back, angular pale blue-gray ice slabs form a low pressure ridge. Snow gathers against their windward surfaces and streams from their upper edges. Keep the ridge well behind the central standing area. FRAME CENTER:
+A broad, nearly level patch of snow-covered sea ice occupies the foreground and middle distance. Keep it structurally intact, unobstructed, and large enough for a teenager and a house cat to stand together. Fine surface texture and faint wind-scoured patches distinguish the ground from the storm. No open cracks or footprints. FRAME RIGHT:
+Low snow drifts extend away from the central area. The pressure ridge diminishes into storm haze, retaining enough structure to establish diagonal depth. The far horizon almost disappears. Wind drives snow consistently from frame-left to frame-right. Show sharp nearby snow streaks, softer streams across the middle distance, and dense drifting haze farther away. Despite the storm, keep the central ground readable. Cloud-covered daytime light comes predominantly from upper frame-left. Snow remains off-white, ice pale blue-gray, and shaded crevices neutral gray. Avoid a saturated blue filter or clear sunny weather. Convey extreme cold through the wind, reduced visibility, snow texture, and exposed scale. No people, animals, silhouettes, polar bears, penguins, flags, expedition equipment, vehicles, footprints, props, or portals.
+Copy
+Recreate
+Step 3: Write each scene for two characters
+
+The scene prompt should reinforce which identity belongs to each character. All five use the same structure:
+
+A reference block. One line per reference: the tag, the character's name, age, height and key traits, followed by an instruction to preserve that character's reference identity.
+A count lock. "Show one Jerry and one Lucy," plus a line that the character sheets carry identity only, so the three panels never turn into three copies of a character.
+A scale lock. Both heights are fixed (163 cm and 125 cm), along with the ratio between them: Lucy is about 77% of Jerry's height.
+A position lock. The first frame puts each character on a fixed side of the screen, and hands stay consistent, for example the remote in Jerry's right hand.
+Timed shots. Each shot has a time range, shot size, camera height and field of view, with hard cuts between shots.
+Dialogue with voices. Quoted lines per character, a voice description for each, and an instruction to speak only the quoted lines.
+Locations as geography only. Each location line asks for new camera positions, so the location image sets the layout of the space and never becomes the opening frame.
+
+The prompts refer to the assets by tag:
+
+Step 3: Write each scene for two characters
+
+Tag
+
+	
+
+Asset
+
+
+
+
+@image1
+
+	
+
+Lucy character sheet
+
+
+
+
+@image2
+
+	
+
+Black panther character sheet
+
+
+
+
+@image3
+
+	
+
+Capuchin monkey character sheet
+
+
+
+
+@image4
+
+	
+
+Bedroom location
+
+
+
+
+@image5
+
+	
+
+North Pole blizzard location
+
+
+
+
+@image6
+
+	
+
+Jungle clearing location
+
+
+
+
+@image7
+
+	
+
+Volcanic crater location
+
+
+
+
+@image8
+
+	
+
+Jerry character sheet
+
+
+
+
+@image9
+
+	
+
+Teleportation remote
+
+
+
+
+@image10
+
+	
+
+Toy box
+
+Scene 1: Bedroom · 18 seconds · references @image8, @image1, @image9, @image10, @image4
+
+Create a cinematic live-action scene in 16:9. Two siblings examine their father's old toys and accidentally activate a teleportation device. Controlled multi-shot sequence, natural acting and real-time movement. REFERENCES
+@image8: Jerry, fifteen years old, 163 cm tall. Ginger hair, freckles, mustard T-shirt, denim short overalls, white sneakers. Preserve his reference identity and clothing.
+@image1: Lucy, eight years old, 125 cm tall. Copper-red bob, freckles, green-hazel eyes, purple sweatshirt, cream trousers, white sneakers. Preserve her reference identity and child proportions.
+@image9: the single teleportation remote: weathered metal casing, rubber side grips, four screws and one large lime-green button. Physical size approximately 16 × 13 cm.
+@image10: large cubic cardboard toy box, approximately 60 × 60 × 60 cm, packed with assorted old toys, four outward-folded flaps.
+@image4: bedroom geography, furniture, materials and daylight. Create new camera positions rather than reproducing the reference composition. Show one Jerry and one Lucy. Character sheets supply identity only, not a split-screen layout. When standing at equal camera distance, Lucy is approximately 77% of Jerry's height, her crown below his shoulders. LOCATION AND FIRST FRAME
+The bed is against the left wall, the window at the rear, the desk on the right. Both children are visible immediately on the rug between the bed and desk. Jerry is screen-left, holding the toy box; Lucy is screen-right, watching him. The remote is initially concealed among the toys. 0.0–5.5 SECONDS
+Three-quarter wide shot from beside the foot of the bed. Camera height 90 cm, approximately 3 m from the children, 84° diagonal field of view. Keep both at the same depth, comfortably inside the frame. Jerry bends his knees and lowers @image10 onto the rug with believable weight. He lifts an old toy briefly for Lucy to inspect. Jerry, warmly curious:
+"Look, Lucy. Dad's old toys. From the attic." Lucy, leaning forward with genuine interest:
+"Did he play with these?" 5.5 SECONDS: HARD CUT
+Three-quarter medium two-shot, 47° diagonal field of view, camera at the children's lowered eye level as they kneel beside the box. 5.5–11.5 SECONDS
+Jerry discovers @image9 beneath the toys and lifts it by the rubber side grips. His fingers remain clear of the button. He studies it with a puzzled frown; Lucy follows it with her eyes. Jerry:
+"What's this? Dad never mentioned it." 11.5 SECONDS: HARD CUT
+Low three-quarter wide shot, camera height 60 cm, 84° diagonal field of view. Both kneeling children, their hands and the rug between them remain visible. 11.5–15.0 SECONDS
+Jerry places the remote button-up on the rug between them and completely withdraws both hands. He turns briefly toward the box. Lucy studies the green button and extends her right index finger. Lucy, impulsively:
+"Let's find out." 15.0 SECONDS: INSERT CUT
+Close detail, 29° diagonal field of view, showing the remote and Lucy's small right hand. At 15.6 seconds, Lucy's right index finger visibly depresses the button once, then withdraws. Jerry's hand reaches toward HER WRIST too late. His hand never touches the device. Jerry, suddenly alarmed:
+"Lucy, no!" 16.0 SECONDS: HARD CUT
+Return to the low wide shot. Both children remain crouched; the remote lies visibly on the rug. The activation has a 0.7-second charging interval during which both children and the device remain solid. A lime-green pulse, matching the button color, surrounds both children AND the complete remote. All three then fragment into fine luminous particles and disappear together. Keep the metal casing visibly dissolving in frame. The pulse must not become an opaque white flash. Hold briefly on the empty rug: neither child nor remote remains. The toy box stays in the room. LIGHTING AND SOUND
+Warm window daylight from behind and to one side, soft room bounce, natural skin texture and restrained film grain. Cardboard creaks, toys rattle, clothing rustles, one mechanical button click, rising electrical charge and a short air-pressure thump. Jerry has a natural youthful American teenage voice. Lucy has a natural eight-year-old American girl's voice. Speak only the quoted lines with accurate lip sync. No narration, subtitles or music.
+Copy
+Recreate
+
+Scene 2: Jungle · 10 seconds · references @image8, @image1, @image9, @image2, @image3, @image6
+
+Create a cinematic live-action jungle encounter in 16:9. Two children materialize in a clearing, notice a stalking panther and escape before its leap reaches them. Controlled multi-shot sequence with clear geography and real-time action. REFERENCES
+@image8: Jerry, fifteen, 163 cm tall, ginger hair and freckles, mustard T-shirt, denim short overalls, white sneakers. Preserve his reference identity.
+@image1: Lucy, eight, 125 cm tall, copper-red bob and freckles, purple sweatshirt, cream trousers, white sneakers. Preserve her reference identity and child proportions.
+@image9: one 16 × 13 cm metal remote with rubber grips and a single large lime-green button.
+@image2: the black panther's appearance and anatomy.
+@image3: the monkeys' appearance and anatomy.
+@image6: jungle geography, vegetation, fallen trunk and filtered daylight. Use new cinematic viewpoints, not the reference camera composition. Show one Jerry and one Lucy. At equal distance, Lucy's standing height is approximately 77% of Jerry's. Preserve natural human and animal scale. LOCATION AND FIRST FRAME
+A massive buttress-root tree stands on the left of the clearing. A fallen trunk crosses the deeper background. The children occupy the left half of the clearing; the panther approaches from the right. The first frame already contains Jerry and Lucy crouched beside each other, their silhouettes completing a lime-green reconstruction. The entire remote @image9 reconstructs button-up on the dirt approximately 40 cm in front of them. Jerry's hands are empty. 0.0–2.8 SECONDS
+Low three-quarter wide shot, camera height 80 cm, 84° diagonal field of view. Both children and the grounded remote are visible. Two monkeys watch from branches; a third watches from the ground beside a root. Lucy looks up into the unfamiliar canopy:
+"Where are we?" Jerry scans the clearing:
+"Stay close." 2.8 SECONDS: HARD CUT
+Over-the-shoulder view past both children toward the right side of the clearing, 47° diagonal field of view. 2.8–4.4 SECONDS
+A low growl interrupts the monkey chatter. The panther @image2 emerges beside the fallen trunk approximately five meters away. BOTH children visibly turn their heads toward the sound and lock their eyes on the panther. Its body and their shared gaze direction are readable in the same composition. They recognize the threat before touching the remote. 4.4 SECONDS: HARD CUT
+Three-quarter reaction two-shot, 47° diagonal field of view. Keep their gaze directed toward the panther offscreen right. Remain on the same side of the attack axis. 4.4–6.5 SECONDS
+Lucy freezes, her expression changing from curiosity to fear. Lucy, quietly:
+"Jerry…" Jerry looks briefly down, visibly picks up the grounded remote with his RIGHT hand, and rises. Lucy rises beside his LEFT arm and grips his left sleeve. His right thumb rests above the button. Both immediately look back toward the panther. 6.5 SECONDS: HARD CUT
+Side wide shot, 84° diagonal field of view. Children screen-left, panther screen-right, the distance between them clearly visible. 6.5–10.0 SECONDS
+The panther lowers its body and gathers its hind legs. At approximately 7.0 seconds, Jerry presses the button once with his right thumb while the panther is still preparing to jump. A 0.7-second charge begins; children and remote remain solid during charging. The panther launches near the end of the charge. A lime-green pulse wraps Jerry, Lucy and the entire remote in Jerry's right hand. All three fragment and disappear while the panther is still short of their position. The remote's metal casing disappears with Jerry's hand; it is never dropped or left behind. Their departure pose is upright, Lucy beside Jerry's left arm, remote held in his right hand. The panther lands on the vacated dirt. Hold long enough to see that both children and the remote are gone. The monkeys and panther remain in the jungle. LIGHTING AND SOUND
+Filtered canopy light, believable green bounce, humid depth and natural skin exposure. Insects, distant birds, curious monkey calls, a distinct directional growl, clothing movement, button click, electrical charge, teleportation thump and the panther's heavy landing. Consistent youthful American voices: Jerry fifteen, Lucy eight. Only the quoted dialogue, accurate lip sync, natural fearful breathing. No narration, subtitles or music.
+Copy
+Recreate
+
+Scene 3: Volcano · 10 seconds · references @image8, @image1, @image9, @image7
+
+Create a cinematic live-action escape inside a violently active volcanic crater, in 16:9. Two children occupy a small jagged island surrounded by rising lava. Controlled multi-shot sequence with physically readable scale and hand movements. REFERENCES
+@image8: Jerry, fifteen years old, 163 cm tall, ginger hair, freckles, mustard T-shirt, denim short overalls, white sneakers. Preserve his reference identity.
+@image1: Lucy, eight years old, 125 cm tall, copper-red bob, freckles, purple sweatshirt, cream trousers, white sneakers. Preserve her reference identity and child proportions.
+@image9: one metal teleportation remote, 16 × 13 cm, rubber side grips, one large lime-green button.
+@image7: deep crater interior, towering enclosing walls, lava basin and scattered jagged outcrops. Use this reference for environment design, not as an opening frame or a fixed camera position. Show exactly one Jerry and one Lucy. Lucy is approximately 77% of Jerry's standing height at equal distance. Keep them human-sized within the crater. LOCATION AND FIRST FRAME
+The children stand near the center of ONE irregular rock island with only 5–6 square meters of usable surface. Its fractured, uneven top rises approximately one meter above the lava. Smaller rocks protrude nearby. The enclosing crater walls rise tens of meters overhead. The first frame already shows both children visibly reconstructing in green light. Lucy stands beside Jerry's LEFT arm. The complete remote reconstructs in Jerry's RIGHT hand. 0.0–2.5 SECONDS
+Three-quarter wide shot, 84° diagonal field of view, camera approximately 5.5 m from the children and 1.3 m above their footing. Jerry occupies roughly one-third of the image height. Show the island's edges, the surrounding lava and the enormous enclosing walls. Jerry startles and loses his grip on @image9. Show the complete fall: the remote lands underside-first, button-up, on a stable patch of the SAME continuous rock, approximately 40 cm ahead and to his right, safely inside the island's edge. The lava churns violently. Gas bursts, orange fountains and falling embers indicate an imminent eruption. 2.5 SECONDS: HARD CUT
+Three-quarter medium two-shot, 47° diagonal field of view. Frame both faces, Lucy's hands and Jerry's left forearm. 2.5–4.5 SECONDS
+A lava burst frightens Lucy. She grabs Jerry's LEFT forearm with both hands and holds tightly, keeping both feet planted on the rock. Her smaller body remains naturally proportioned; Jerry does not carry her. Lucy:
+"Jerry! The lava!" Jerry sees the remote on the rock and looks down toward it. Jerry:
+"Lucy, get down!" 4.5 SECONDS: HARD CUT
+Low side wide shot, camera height 45 cm, 84° diagonal field of view. Include both children, their feet, Jerry's right hand, the remote and the approaching lava in one composition. 4.5–7.2 SECONDS
+Jerry lowers into a deep crouch. Lucy crouches with him, still gripping his left forearm rather than hanging from it. He cautiously stretches his free RIGHT arm toward the grounded remote. His first reach stops just short. He lowers his weight further, finds secure footing and extends his right index finger the remaining distance. The remote remains button-up on the rock throughout this reach. 7.2–10.0 SECONDS
+Without a cut, Jerry visibly depresses the button with his RIGHT INDEX FINGER while the remote is still on the rock. During the 0.7-second charge, all three remain solid. Jerry releases the button, wraps his right fingers around the casing's side grips and lifts the SAME remote clear of the rock. This retrieval is visible before disintegration begins. A lime-green pulse surrounds both crouching children and the complete device in his right hand. All three dissolve into luminous particles and vanish together. Show the casing disappearing, leaving no remote on the island. Only after they are completely gone, a lava surge washes over their vacated footing and covers the island. LIGHTING AND SOUND
+Powerful flickering orange lava light from below and the sides, weak cool daylight from the high crater opening. Preserve detailed faces and dark rock texture, with heat distortion over the lava. Deep volcanic rumble, explosive gas bursts, metal striking rock, shoes scraping, frightened breathing, clear dialogue, one button click and the electrical teleportation pulse. Jerry's voice is fifteen; Lucy's is eight. Only the quoted lines. No narration, subtitles or music.
+Copy
+Recreate
+
+Scene 4: Arctic · 14 seconds · references @image8, @image1, @image9, @image5
+
+Create a cinematic live-action scene in 16:9. Two children materialize inside a violent Arctic whiteout. Jerry throws an overheated remote into the storm, loses sight of it, and searches while Lucy accidentally activates it during an ordinary walking step. REFERENCES
+@image8: Jerry, fifteen, 163 cm tall, ginger hair, freckles, mustard T-shirt, denim short overalls, white sneakers. Preserve his identity and clothing.
+@image1: Lucy, eight, 125 cm tall, copper-red bob, freckles, purple sweatshirt, cream trousers, white sneakers. Preserve her identity and child proportions.
+@image9: one 16 × 13 cm metal remote, rubber side grips, four screws and one large lime-green button.
+@image5: Arctic terrain, ice and pressure ridges only. Replace the reference's relatively clear visibility with an extremely dense, violent blizzard. Create new camera positions. Show one Jerry, one Lucy and one remote. Their physical heights remain 163 cm and 125 cm. Preserve realistic anatomy, contact with the ground and prop scale. WEATHER
+A severe whiteout, not decorative snowfall. Powerful horizontal gusts drive dense sheets of snow across the entire frame. Ground-level spindrift repeatedly erases the surface beneath their feet. Background landmarks disappear completely. Visibility fluctuates between approximately one and three meters. The children remain intermittently readable in the foreground through moving curtains of snow. They hunch against the wind, squint and shield their faces. Footprints and disturbed patches rapidly fill with blowing powder. 0.0–3.5 SECONDS: CONTINUOUS ARRIVAL SHOT
+Three-quarter wide shot, 84° diagonal field of view, camera approximately 2.8 m away and 90 cm above the snow. Level horizon, restrained operator movement with physical weight. For the first 0.25 seconds, show only the storm and an empty patch of snow. A lime-green distortion then forms TWO human silhouettes AND the complete remote held in Jerry's RIGHT hand. Jerry, Lucy and the held device reconstruct together, becoming fully solid by approximately 1.2 seconds. The remote must be visible as part of Jerry's arriving silhouette, never appearing separately afterward. They arrive balanced on their feet in low crouches and immediately begin straightening. They are not seated in the snow. Lucy releases Jerry's left forearm and shields her face from the wind. The remote's METAL CASING visibly develops a dull cherry-red heat glow, especially around its edges and screws. Its single button remains lime green. Jerry's fingers recoil from the heat. Jerry:
+"Ah! Hot!" He instinctively throws @image9 approximately two meters toward screen-right into an opaque curtain of blowing snow. Show it leaving his right hand. The camera stays with the children. The storm completely hides the remote before it lands. Neither the children nor the audience sees the landing point. Do not follow its flight, show a landing insert or reveal a glowing marker in the snow. 3.5 SECONDS: HARD CUT
+Low three-quarter wide shot, 84° diagonal field of view, remaining on the same side of the action. Maintain screen-right as the direction of the throw. 3.5–6.5 SECONDS
+Jerry moves one pace along the throw direction, drops onto his RIGHT knee with his LEFT foot planted, and begins digging through the nearest patch of snow with both hands. He knows the general direction but has not seen where the remote landed. Jerry, raising his voice over the wind:
+"Help me find it!" Lucy:
+"I can't see anything!" Lucy stays on her feet and walks farther along the same search direction, beyond Jerry's digging area. Her small steps are cautious but ordinary. She scans the snow while shielding her eyes. 6.5–10.5 SECONDS
+Hold the shot for four uninterrupted seconds. Jerry keeps digging and sweeping powder aside. Lucy keeps WALKING through the search area. She does not kneel beside him. Dense gusts conceal the ground and refill their cleared patches. The remote remains completely buried and invisible. Neither child discovers it, points toward it or deliberately approaches its button. 10.5–14.0 SECONDS: ACCIDENTAL ACTIVATION, NO CUT
+Keep a medium-wide composition showing both children and Lucy's feet. Lucy turns her head toward Jerry while taking her next normal walking step. Her RIGHT shoe happens to land on the concealed remote. Her ordinary heel-to-toe weight transfer depresses its button through the shallow powder. Do not make her aim, stomp, pause over the device or look at it before stepping. A mechanical click and green light beneath her shoe are the FIRST confirmation of the remote's location. Only now does the disturbed powder expose part of its casing. Both children freeze. Jerry remains kneeling and turns his head toward Lucy, lifting his hands slightly above the snow. LOCK THEIR DEPARTURE POSITIONS:
+Jerry is screen-left, right knee down, left foot planted, torso leaning forward, hands just above the ground.
+Lucy is upright approximately 0.9 m camera-right of Jerry and 0.4 m closer to the camera.
+Her right shoe rests on the remote; her left foot trails slightly behind.
+Lucy looks toward Jerry. Jerry looks toward Lucy. The button triggers once. During the 0.7-second charge, both children and the remote remain solid in these positions. A lime-green pulse surrounds both children AND the complete device beneath Lucy's shoe. Their bodies and the entire metal casing fragment into luminous particles and disappear together. Show the casing itself dematerializing; the remote does not remain in the snow. Hold briefly on the empty storm-covered ground. LIGHTING AND AUDIO
+Cold diffuse storm light, natural skin, dense layered snow at different distances. No clean, sunlit background. Relentless directional wind, clothing snapping, strained breathing, hands digging, muffled footsteps, one mechanical click and an electrical teleportation pulse. Jerry has a natural fifteen-year-old American voice; Lucy has a natural eight-year-old American voice. Speak only the quoted lines. No narration, subtitles or music.
+Copy
+Recreate
+
+Scene 5: Back home · 8 seconds · references @image8, @image1, @image9, @image10, @image4
+
+Create a cinematic live-action ending in 16:9. Two frightened siblings materialize in a quiet bedroom; the younger sister asks for secrecy, and her brother immediately calls for their mother. Controlled three-shot sequence with understated comedy. REFERENCES
+@image8: Jerry, fifteen years old, 163 cm tall, ginger hair, freckles, mustard T-shirt, denim short overalls, white sneakers. Preserve his reference identity.
+@image1: Lucy, eight years old, 125 cm tall, copper-red bob, freckles, purple sweatshirt, cream trousers, white sneakers. Preserve her reference identity and child proportions.
+@image9: one 16 × 13 cm metal remote with rubber side grips and a single lime-green button.
+@image10: large cubic cardboard box packed with old toys, four flaps folded outward.
+@image4: bedroom geography, furnishings, materials and warm window daylight. Use new cinematic camera positions rather than the reference image as a start frame. Show exactly one Jerry and one Lucy. Maintain their 163 cm / 125 cm scale relationship and natural anatomy. LOCATION AND FIRST FRAME
+Bed on the left, rear window, desk on the right, toy box open beside the rug. The first visible frame already contains Jerry kneeling on the rug and Lucy partly crouched on his RIGHT. Both are completing a lime-green reconstruction. The COMPLETE remote @image9 reconstructs on the rug directly beneath Lucy's right sneaker. Jerry's hands are empty. 0.0–3.5 SECONDS
+Three-quarter wide shot from beside the foot of the bed, camera height 90 cm, approximately 3 m away, 84° diagonal field of view. Green particles settle into solid bodies and the complete remote. A few snowflakes fall from their clothes onto the rug. The wind abruptly gives way to quiet room ambience. Lucy lifts her right shoe away from the remote. Its button springs back up without another activation. The device stays visibly on the rug. Jerry looks toward the bed, then the window, then the doorway beyond camera-right. His shoulders lower slightly as he realizes where they are. Lucy looks up at him and whispers:
+"Don't tell Mom." Leave a short hopeful pause after her line. 3.5 SECONDS: HARD CUT
+Jerry's three-quarter close-up, 29° diagonal field of view, camera at his kneeling eye level. Natural facial proportions, softly compressed bedroom background. 3.5–6.5 SECONDS
+Jerry holds still for a brief beat, inhales, then turns his eyes toward the doorway and calls at full volume: "MOOOOM!" The sustained shout sounds like a frightened fifteen-year-old, with a slight natural voice crack. He remains in place. 6.5 SECONDS: HARD CUT
+Lucy's three-quarter medium reaction, 47° diagonal field of view, camera at her eye level. Include part of Jerry at the edge of the frame to retain their physical relationship. 6.5–8.0 SECONDS
+Lucy briefly closes her eyes in quiet defeat, exhales and gives Jerry a small sideways look. Keep the reaction natural for an eight-year-old. The remote remains on the rug. The box stays open. Neither child handles the device or leaves the frame; the scene ends on Lucy's reaction. LIGHTING AND SOUND
+Warm directional window daylight, gentle shadow detail, realistic skin and fabric. Soft room ambience, settling clothes, faint falling snow and Jerry's shout reverberating into the hallway. Jerry retains his youthful American teenage voice; Lucy retains her natural eight-year-old American voice. Speak only the two quoted lines with accurate lip sync. No reply from the mother, narration, subtitles or music.
+Copy
+Recreate
+Step 4: Generate the scenes in Cinema Studio 4.0
+Open Cinema Studio, switch to Video and select Cinema Studio 4.0.
+Click + and add the references for the scene: the character sheets, props and location listed above the prompt.
+Paste the scene prompt and check that every tag in its reference block matches an attached image.
+Set the look in the Director's Panel (Film setup, Camera, Color palette, Lighting), then set 16:9, the scene duration and sound on.
+Click Generate. Cinema Studio 4.0 at 1080p costs 12 credits per second, so the 18-second bedroom scene costs 216 credits and the full 60-second film costs 720.
+Repeat for each scene with the same character and prop references, so the cast stays consistent across all five scenes.
+
+The same setup works in Seedance 2.5 on its own: open Video → Seedance 2.5 and add the images under References. For more on the studio, see Meet Cinema Studio 4.0.
+
+Step 5: Check both characters before you move on
+
+Review every clip against the character sheets before generating the next scene.
+
+Compare a close-up of each character with the center panel of their sheet.
+Check that the characters did not trade hair, clothing colors or props.
+Check the height difference in every wide shot.
+Count the characters in every shot: one of each.
+Watch each clip to the end: most consistency problems show up around the 5 to 8 second mark.
+If something is off, change one thing per retry: the prompt or a reference, never both at once.
+
+If one face drifts in an otherwise usable clip, replace only that character with Objects swap, described below.
+
+Keep the same characters across projects with Soul ID and Elements
+
+A character sheet holds a character within the generations you attach it to. When Jerry and Lucy need to return in a series, move them to Soul ID and Elements.
+
+Train a Soul ID for each character in Soul → Train new character on 20 to 80 images of that character.
+Trained Soul ID characters appear in Elements automatically. Save the remote as a prop and the bedroom as a location: open each image in Assets and select Create Element from the three-dot menu.
+In Cinema Studio 4.0 or Seedance 2.5, type @ in the prompt field to pick characters, props and locations by name.
+
+A Soul ID represents one identity. For scenes with two or more recurring characters, train a Soul ID for each and use the characters through Elements. Elements is how Higgsfield handles consistency for scenes with more than one character: each person, location and prop is created once and pulled into any shot by name. For how Soul ID trains a face, see How to Keep Your AI Character Consistent Across Every Generation.
+
+Alternative: repeat a clip's motion with Motion transfer
+
+Use this route when the motion already exists, for example a two-person performance you filmed yourself, and you want your two characters to repeat it.
+
+Open Video → Genjutsu and select Motion transfer.
+Add a reference video between 4 and 30 seconds long that you shot or have the rights to use.
+Add your characters: up to 30 images from Uploads, AI Influencer, Generations or Liked, for example the character sheets from Step 1.
+Turn on the prompt only if you need to describe a specific change.
+Choose quality (480p, 720p or 1080p) and click Generate.
+
+For a full overview of the tool, see Meet Higgsfield Genjutsu.
+
+Alternative: replace one of the two characters with Objects swap
+
+Use this route when the scene is finished and only one character needs to change: a drifted face, a different second character for a variant, or a recast for another market.
+
+Open Video → Genjutsu and select Objects swap.
+Add the finished clip.
+Add reference images of the new character and, optionally, a short description of which character to change.
+Generate. The rest of the frame, including the other character, stays as it was.
+
+For more ways to change one element in a finished clip, see How to Change One Element in a Finished AI Video Without Regenerating It.
+
+What the workflow costs
+What the workflow costs
+
+Step
+
+	
+
+Tool
+
+	
+
+Credits
+
+	
+
+Approx. price
+
+
+
+
+Character sheets (4)
+
+	
+
+Soul 2.0
+
+	
+
+0.5 (0.125 per image)
+
+	
+
+$0.03
+
+
+
+
+Props (2)
+
+	
+
+GPT Image 2.5 Sunburst
+
+	
+
+5.5 (2.75 per image)
+
+	
+
+$0.28
+
+
+
+
+Locations (4)
+
+	
+
+Soul 2.0
+
+	
+
+0.5 (0.125 per image)
+
+	
+
+$0.03
+
+
+
+
+Five scenes, 60 s total
+
+	
+
+Cinema Studio 4.0
+
+	
+
+720 (12 per second at 1080p)
+
+	
+
+$36.00
+
+
+
+
+Total
+
+	
+
+-
+
+	
+
+726.5
+
+	
+
+$36.34
+
+Prices are converted at 20 credits per $1.
+
+Cinema Studio 4.0, Seedance 2.5 and Genjutsu are available on Plus ($49/mo) and Ultra ($129/mo). Starter ($15/mo) includes Seedance 2.0 Fast and Seedance 2.0 Mini. Plan details can differ by region, so check the pricing page for your location.
+
+Pricing checked on October 12, 2026. US prices shown before applicable taxes, at the credit rates displayed on the Generate button at the time of checking. Prices and plan details may change.
+
+Where it falls short
+Two is easier than many. Two-character scenes are easier to control than larger casts. As more recurring characters share the frame, keeping identities, wardrobe and proportions separate becomes harder even with individual references.
+Small drift is still possible. References help keep each character recognizable, and extreme angles or heavy style shifts can still change details.
+Sheets hold within a project. For characters that return across projects, Soul ID and Elements are the next step.
+One identity per Soul ID. Two-person scenes with trained characters depend on Elements.
+Genjutsu and Soul ID. Motion transfer and Objects swap do not take trained Soul ID characters directly. Use character sheet images or AI Influencer characters.
+Rights to the reference. Use only footage and faces you own or have permission to use.
+Plan coverage. Starter does not include Cinema Studio 4.0 or Seedance 2.5.
+
+Related reading: 7 Tools for Consistent AI Characters Across Every Scene covers keeping one character consistent between scenes, and How to Create a Consistent AI Influencer covers building a character from scratch.
+
+HOW TO PUT TWO CONSISTENT CHARACTERS IN ONE AI VIDEO SCENE
+Try Cinema Studio

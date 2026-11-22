@@ -1,0 +1,6 @@
+{
+  "name": "@skill/suno-music-prompts",
+  "version": "5.5.0",
+  "description": "为 Suno / AI 音乐生成撰写高精度 Style、歌词结构与参数建议",
+  "private": true
+}

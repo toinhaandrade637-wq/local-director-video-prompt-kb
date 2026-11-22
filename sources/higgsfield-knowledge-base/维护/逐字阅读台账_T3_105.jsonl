@@ -1,0 +1,500 @@
+{"project":"MECHDRIVER_1","idx":1,"sha8":"8244adb2","len":106,"nTasks":1,"models":"null","read":true,"findings":"106c video_edit 开场：Remove the red 1 from the back of the foreground mech——生成后去标志修正"}
+{"project":"MECHDRIVER_1","idx":2,"sha8":"8244adb2","len":106,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":3,"sha8":"881e4863","len":7425,"nTasks":1,"models":"default","read":true,"findings":"7,425c **SEEDANCE 2.5 段头+PILOT PHOTOREALISM LOCK 首例**：**PILOT PHOTOREALISM LOCK**: Ahdeen must render at **the same photographic fidelity as any mech/environment work in this project — no softening, no stylization deviation**——人物渲染保真度与环境一致锁定（防人软机硬）+micro-expression/muscle twitch/eye-glint detail/**windshield water physics** fully legible"}
+{"project":"MECHDRIVER_1","idx":4,"sha8":"bf69b0de","len":332,"nTasks":1,"models":"null","read":true,"findings":"332c **Panavision C Series Anamorphic Lenses 真实镜头品牌锚定首例**：Using the sky in <<<image_1>>> as reference, create an image looking directly up…**Panavision C Series Anamorphic Lenses**. STYLE AND QUALITY: 100 percent photorealistic — **real lens/camera behavior including physical imperfections on the glass itself**——真实镜头品牌+玻璃物理缺陷"}
+{"project":"MECHDRIVER_1","idx":5,"sha8":"bf69b0de","len":332,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":6,"sha8":"6bd15c05","len":229,"nTasks":1,"models":"null","read":true,"findings":"229c **瞳孔反射迭代链首环**：Make the pupil, **the dark circle in the middle of her eye only**, take on a reflective manner like an animal, glinting light off of membrane——否定域精确（行 28 加 NOT THE IRIS）"}
+{"project":"MECHDRIVER_1","idx":7,"sha8":"6bd15c05","len":229,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":8,"sha8":"6bd15c05","len":229,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":9,"sha8":"6bd15c05","len":229,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":10,"sha8":"70cb7167","len":4967,"nTasks":1,"models":"default","read":true,"findings":"4,967c 机甲腿部走行细节：every joint, panel seam, and surface wear detail on the mech legs clearly designed and legible throughout the walk+**No CGI sheen — real material weathering, real ground interaction, real photographic imperfection**"}
+{"project":"MECHDRIVER_1","idx":11,"sha8":"507c6a7c","len":6057,"nTasks":1,"models":"default","read":true,"findings":"6,057c Ellis 版 PILOT PHOTOREALISM LOCK：every micro-expression, sweat detail, and **eye-line shift** on Ellis's face fully legible+**no softening, no stylization deviation**"}
+{"project":"MECHDRIVER_1","idx":12,"sha8":"3ab6d6d2","len":3298,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":13,"sha8":"3ab6d6d2","len":3298,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":14,"sha8":"18b1c168","len":6085,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":15,"sha8":"e100cde3","len":10753,"nTasks":1,"models":"default","read":true,"findings":"10,753c **SCENE CONTEXT 继接段**：Continuing directly from the hero landing…**a practical crane camera orbits** around the right side of the mech, rising and arcing around to arrive at a tight close-up **by roughly the ten second mark**——实体摇臂轨道+到达时刻声明"}
+{"project":"MECHDRIVER_1","idx":16,"sha8":"822e76d2","len":3026,"nTasks":1,"models":"default","read":true,"findings":"3,026c 碎片混乱中细节保持：clearly designed and legible **even amid the debris chaos**. Real, physically plausible impact physics throughout"}
+{"project":"MECHDRIVER_1","idx":17,"sha8":"d625f7d6","len":2946,"nTasks":1,"models":"null","read":true,"findings":"2,946c **SEEDANCE 2.5 — CRATED ROBOT PILOTS CLOSE-UP, HANDHELD AMBIENT SHOT (STARTING FROM CONFIRMED KEY FRAME)**——confirmed key frame 起点体系首例"}
+{"project":"MECHDRIVER_1","idx":18,"sha8":"ac4c4805","len":3220,"nTasks":1,"models":"null","read":true,"findings":"3,220c 低光细节保持：Even legible modeling on the foreground subjects **despite the low-key environmental lighting** — the design and decay detail are part of the storytelling"}
+{"project":"MECHDRIVER_1","idx":19,"sha8":"ac4c4805","len":3220,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":20,"sha8":"564549f9","len":232,"nTasks":1,"models":"video_edit","read":true,"findings":"232c video_edit 精确局部：Replace the patch on the African American man's arm with the patch seen in <<<image_1>>>…**Keep all remaining elements exactly the same including all text readable and accurate**"}
+{"project":"MECHDRIVER_1","idx":21,"sha8":"46d7c9cc","len":244,"nTasks":1,"models":"video_edit","read":true,"findings":"244c video_edit：Remove the green sign with the white words in the background of the upper righthand side——方位精确描述"}
+{"project":"MECHDRIVER_1","idx":22,"sha8":"16dc6a93","len":7636,"nTasks":1,"models":"default","read":true,"findings":"7,636c Ellis 座舱特写：windshield/glass damage state must be fully legible throughout——挡风玻璃损伤状态"}
+{"project":"MECHDRIVER_1","idx":23,"sha8":"868d45ef","len":8546,"nTasks":1,"models":"default","read":true,"findings":"8,546c **RIGID BODY LOCK 首例**：This is **down-and-dirty street-fighting energy transplanted into a sci-fi scenario** — nothing about this exchange is elegant or pretty **except one explicitly marked beat**. **RIGID BODY LOCK (repeated, non-negotiable throughout): both mechs are rigid metal machines — NO soft-body warping, NO melting/rubbery geometry, NO limb distortion**——街头打架能量移植+刚体锁定"}
+{"project":"MECHDRIVER_1","idx":24,"sha8":"ee1eaed8","len":7381,"nTasks":1,"models":"default","read":true,"findings":"7,381c **REVISED v2 版本标注首例**：AHDEEN CLOSE-UP COVERAGE, FIGHT EXCHANGE, **REVISED v2 (SAME TIMELINE AS WIDE TAKE, ~24s)**——版本演进+同时间线声明"}
+{"project":"MECHDRIVER_1","idx":25,"sha8":"d17bcfda","len":7346,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":26,"sha8":"72a37484","len":5182,"nTasks":1,"models":"default","read":true,"findings":"5,182c **手持真实感声明**：This shot should feel like **a real handheld camera, operated by a person in the middle of a battlefield, caught looking up in a stray unguarded moment — not a stabilized or digitally rendered sky**"}
+{"project":"MECHDRIVER_1","idx":27,"sha8":"72a37484","len":5182,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":28,"sha8":"85b2df80","len":243,"nTasks":1,"models":"null","read":true,"findings":"243c 瞳孔迭代二环：**NOT THE IRIS**——否定域再精确（行 32 简化版 pupils only）"}
+{"project":"MECHDRIVER_1","idx":29,"sha8":"85b2df80","len":243,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":30,"sha8":"85b2df80","len":243,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":31,"sha8":"85b2df80","len":243,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":32,"sha8":"b631f2f8","len":161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":33,"sha8":"3ab6d6d2","len":3298,"nTasks":1,"models":"null","read":true,"findings":"3,298c 机甲腿细节：**No CGI sheen, no render-clean plastic surfaces, no stylization of any kind — real material weathering, real dust interaction**"}
+{"project":"MECHDRIVER_1","idx":34,"sha8":"0f6ff49e","len":8388,"nTasks":1,"models":"default","read":true,"findings":"8,388c RIGID BODY LOCK 完整版（同 23）"}
+{"project":"MECHDRIVER_1","idx":35,"sha8":"d6be3089","len":156,"nTasks":1,"models":"null","read":true,"findings":"156c **一致性合并指令**：Remove the red 1…and **make the pilot's face in the other mech consistent with <<<uuid>>>**——去标志+跨图一致双任务"}
+{"project":"MECHDRIVER_1","idx":36,"sha8":"d6be3089","len":156,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":37,"sha8":"e96acaf2","len":8481,"nTasks":1,"models":"default","read":true,"findings":"8,481c RIGID BODY LOCK 变体"}
+{"project":"MECHDRIVER_1","idx":38,"sha8":"3f0baaa7","len":1518,"nTasks":1,"models":"null","read":true,"findings":"1,518c **人物身份保持全清单**：Keep the person from the reference photo **EXACTLY as they are. Do not change, beautify, slim, age, de-age or stylise the face in any way. Preserve precisely: face shape and bone structure, eyes and their colour and spacing, eyebrows, nose, mouth and lips, jawline, chin, ears, skin tone and skin texture including moles, freckles, scars and wrinkles, hairline, hair colour, hair le(ngth)**——六禁改+逐项五官清单"}
+{"project":"MECHDRIVER_1","idx":39,"sha8":"e6c72681","len":344,"nTasks":1,"models":"null","read":true,"findings":"344c 直视天空修正：looking directly **straight up** into the photorealistic overcast sky"}
+{"project":"MECHDRIVER_1","idx":40,"sha8":"e6c72681","len":344,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":41,"sha8":"f9073b2e","len":7208,"nTasks":1,"models":"default","read":true,"findings":"7,208c **eye-reflection detail** 版 PILOT LOCK：every micro-expression, muscle tremor, and the **critical eye-reflection detail below** must be fully legible"}
+{"project":"MECHDRIVER_1","idx":42,"sha8":"b631f2f8","len":161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":43,"sha8":"b631f2f8","len":161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":44,"sha8":"b631f2f8","len":161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":45,"sha8":"b631f2f8","len":161,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":46,"sha8":"f2d997f3","len":107,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":47,"sha8":"3ab6d6d2","len":3298,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":48,"sha8":"23507006","len":3284,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":49,"sha8":"23507006","len":3284,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":50,"sha8":"23507006","len":3284,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":51,"sha8":"23507006","len":3284,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":52,"sha8":"bb108854","len":3857,"nTasks":1,"models":"default","read":true,"findings":"3,857c REFERENCE IMAGES 多参考声明：— the **confirmed** wide graveyard environment——confirmed 参考体系"}
+{"project":"MECHDRIVER_1","idx":53,"sha8":"bb108854","len":3857,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":54,"sha8":"d625f7d6","len":2946,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":55,"sha8":"a5d2ebf5","len":2947,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":56,"sha8":"d625f7d6","len":2946,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":57,"sha8":"c6ba8643","len":3215,"nTasks":1,"models":"null","read":true,"findings":"3,215c **object/figure 实存感**：This should feel like a real, physically plausible **object/figure that could exist**"}
+{"project":"MECHDRIVER_1","idx":58,"sha8":"91ad5fa7","len":3200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":59,"sha8":"91ad5fa7","len":3200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":60,"sha8":"91ad5fa7","len":3200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":61,"sha8":"91ad5fa7","len":3200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":62,"sha8":"f26de9b6","len":4195,"nTasks":1,"models":"null","read":true,"findings":"4,195c 机器人骨架细节：every robot's **skeletal structure, joint, wiring path, and suit detail** clearly designed and legible rather than abstracted+**No cartoonish shading**"}
+{"project":"MECHDRIVER_1","idx":63,"sha8":"f26de9b6","len":4195,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":64,"sha8":"f0049d85","len":98,"nTasks":1,"models":"null","read":true,"findings":"98c 修正迭代：Remove the red glow from **only** the robots eyes（imge] 机读分拣错拼）"}
+{"project":"MECHDRIVER_1","idx":65,"sha8":"6c899aad","len":97,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":66,"sha8":"67a37494","len":3469,"nTasks":1,"models":"null","read":true,"findings":"3,469c **WIDE ESTABLISHING SHOT — ROBOT PILOT GRAVEYARD, CLOSE-VISIBLE DETAIL PASS**：Wide, slightly elevated establishing angle looking down **a long open corridor through the graveyard**, receding toward a distant lit city skyline…Camera height allows individual robots in the nearest 3-4 rows to read clearly, while distant rows blur into scale via fog/haze——**近景可读/远景雾化尺度**"}
+{"project":"MECHDRIVER_1","idx":67,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"4,547c **设计资产非叙事声明首例**：TASK: generate a detailed, clean design-reference image of a humanoid robot's **full endoskeleton**…**This is a design asset, not a narrative scene**, presented with clear, even lighting so every mechanical detail is legible——内骨骼设计图"}
+{"project":"MECHDRIVER_1","idx":68,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":69,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":70,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":71,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":72,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":73,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":74,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":75,"sha8":"ff2c8273","len":565,"nTasks":1,"models":"null","read":true,"findings":"565c **seamless addition** 声明：Add an upper rear view…match lighting, and color **for a seemless addition of new elements**（错拼）"}
+{"project":"MECHDRIVER_1","idx":76,"sha8":"c408e1c0","len":193,"nTasks":1,"models":"null","read":true,"findings":"193c 同时刻特写生成：Create a close up image of **the same moment as** <<<image_1>>> of the Mechs fist impacting the ground, use <<<uuid>>> as detail and texture reference"}
+{"project":"MECHDRIVER_1","idx":77,"sha8":"c408e1c0","len":193,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":78,"sha8":"a4a0d7bb","len":585,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":79,"sha8":"a89acc5f","len":1256,"nTasks":1,"models":"null","read":true,"findings":"1,256c **SEEDREAM EDIT — REMASTER PASS 首例**：**REMASTER PASS: DETAIL + PHOTOREALISM UPGRADE**. TASK: Take the attached image exactly as composed — same camera angle, same framing, same blocking/positions of every robot, crate, and light source — and re-render it with significantly increased detail and photorealism. **This is a quality/fidelity upgrade, NOT a redesign.**"}
+{"project":"MECHDRIVER_1","idx":80,"sha8":"a89acc5f","len":1256,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":81,"sha8":"729a63bc","len":120,"nTasks":1,"models":"null","read":true,"findings":"120c **服装单独参考表**：Create a reference sheet of **just the flight suit with no person in it**. For reference have both legs of the suit complete"}
+{"project":"MECHDRIVER_1","idx":82,"sha8":"729a63bc","len":120,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":83,"sha8":"a1cd7d70","len":4189,"nTasks":1,"models":"null","read":true,"findings":"4,189c **storyboard→photoreal key frame 锁定参考帧工作流首例**：TASK: convert the provided **hero-landing storyboard sketch** into a single photoreal key frame, **preserving its exact pose and composition, translated into the established photoreal design language** for this project. **This still will serve as the locked reference frame for a subsequent video shot** of the same landing"}
+{"project":"MECHDRIVER_1","idx":84,"sha8":"a1cd7d70","len":4189,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":85,"sha8":"a1cd7d70","len":4189,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":86,"sha8":"a1cd7d70","len":4189,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":87,"sha8":"a1cd7d70","len":4189,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":88,"sha8":"a1cd7d70","len":4189,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":89,"sha8":"29010555","len":5404,"nTasks":1,"models":"default","read":true,"findings":"5,404c **SCENE CONTEXT 正反打管理首例**：Close-up coverage of Ahdeen asking Scout where the destroyed enemy mech wreckage is meant to be taken. **Scout is not visible in this shot; her response is covered separately.** Partway through the line, Ahdeen glances back over her shoulder at the smoking, destroyed Mantis Mech she is dragging behind her, then looks back to Scout to finish her line——对白分别覆盖+中途回头动作"}
+{"project":"MECHDRIVER_1","idx":90,"sha8":"5b0f4b54","len":4996,"nTasks":1,"models":"default","read":true,"findings":"4,996c 正反打续：immediately after Scout's greeting (**which occurs off-screen relative to this shot** — Scout is not visible in this coverage)…tells Scout to stand down, gently mocks how silly the mechs look with their arms raised——**画外事件声明**"}
+{"project":"MECHDRIVER_1","idx":91,"sha8":"a291f2f5","len":5398,"nTasks":1,"models":"default","read":true,"findings":"5,398c Scout 敬礼戏：attempting a salute and **a rank she doesn't actually know**. Ahdeen, amused, corrects her——军衔不知道的细节"}
+{"project":"MECHDRIVER_1","idx":92,"sha8":"c895f7a8","len":1114,"nTasks":1,"models":"null","read":true,"findings":"1,114c **三视图转台表**：A professional mech design turnaround sheet on a single plain neutral gray background — **no studio, no equipment, no walls**. Three full-body views…front, 3/4, and back — same blue-grey base color, same cockpit/antenna/marking details, **same asymmetric arms**+**REFERENCE-SHEET LIGHTING (even, diffused)**"}
+{"project":"MECHDRIVER_1","idx":93,"sha8":"c895f7a8","len":1114,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":94,"sha8":"ac8305e2","len":5700,"nTasks":1,"models":"default","read":true,"findings":"5,700c 闪电打击光学：LENS: Panavision C Series Anamorphic Lenses — horizontal flare **on the lightning strike specifically**, oval bokeh on rain/embers, **true anamorphic falloff**"}
+{"project":"MECHDRIVER_1","idx":95,"sha8":"4f04e743","len":7665,"nTasks":1,"models":"default","read":true,"findings":"7,665c **动漫风格致敬声明首例**：Ahdeen's mech lands hard…dropping into a wide, low, **four-point braced crouch**, both clawed hands and both feet planted…**This is a deliberate anime-style homage and needs to land as an iconic, satisfying beat**, the physics of the impact d(….)"}
+{"project":"MECHDRIVER_1","idx":96,"sha8":"3064db60","len":3895,"nTasks":1,"models":"null","read":true,"findings":"3,895c storyboard 转换：convert the provided **hand-drawn storyboard sketch** into a single photoreal key frame…the storyboard sketch is **the primary compositional and pose reference**"}
+{"project":"MECHDRIVER_1","idx":97,"sha8":"3064db60","len":3895,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":98,"sha8":"3064db60","len":3895,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":99,"sha8":"3064db60","len":3895,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":100,"sha8":"2d15aeaa","len":5690,"nTasks":1,"models":"default","read":true,"findings":"5,690c 座舱 POV：Inside Ahdeen's cockpit, **forward-facing POV from just behind her**. She is exhausted — **breathing hard, running on fumes**…her hand trembling from sheer fatigue. Outside, through the windshield, the Mantis Mech watches and **repositions, studying her, anticipating what she's about to do**——敌方学习行为"}
+{"project":"MECHDRIVER_1","idx":101,"sha8":"70728126","len":6030,"nTasks":1,"models":"default","read":true,"findings":"6,030c **矢量瞄准屏内景**：Inside Oliver's cockpit, the **vector targeting screen** now showing its full tracked display — Ahdeen's mech in **green wireframe with red threat-highlighting, target brackets, and tactical readout text**. Oliver adjusts his aim…then **violently yanks back on his control sticks before thrusting them forward with equal force**"}
+{"project":"MECHDRIVER_1","idx":102,"sha8":"5ba99edf","len":7135,"nTasks":1,"models":"default","read":true,"findings":"7,135c **Scout 出场喜剧段**：a **deliberate tonal shift into comedy after the brutal combat that precedes it**. Scout stands at the checkpoint, **dancing with total abandon inside her mech to music only the audience will hear (added in post)** — and **her mech mimics every movement she makes, exaggerated through its mechanical body**——调性转换声明+机甲镜像动作"}
+{"project":"MECHDRIVER_1","idx":103,"sha8":"8ae879ea","len":4547,"nTasks":1,"models":"default","read":true,"findings":"4,547c **VOICE PROFILE (locked reference, full detail) 首例**：**SCOUT VOICE PROFILE (locked reference, full detail)**: Scout is a young woman, 21 years old, with a thick, clearly audible, unmistakab(le accent)——**角色声音档案锁定段**"}
+{"project":"MECHDRIVER_1","idx":104,"sha8":"abbd94db","len":2720,"nTasks":1,"models":"null","read":true,"findings":"2,720c **reframing/detail pass 非 recomposition**：This is **a reframing/detail pass, not a recomposition**. Ahdeen's exact pose, expression (eyes closed, exhausted), the 3/4 camera angle…are all preserved exactly"}
+{"project":"MECHDRIVER_1","idx":105,"sha8":"abbd94db","len":2720,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":106,"sha8":"abbd94db","len":2720,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":107,"sha8":"b1c3a6ae","len":422,"nTasks":1,"models":"null","read":true,"findings":"422c **虚构品牌道具产品照**：three quarter view product shot…of a classic 1940s era zippo that is worn out, chipped, and well use with an engraving that says **A&S EST. 2043**——1940s zippo+2043 年代刻字（混搭未来）+**must look like a real practical prop or product shot — no CG-render sheen**"}
+{"project":"MECHDRIVER_1","idx":108,"sha8":"bcc2213f","len":2942,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":109,"sha8":"020cea33","len":9998,"nTasks":1,"models":"default","read":true,"findings":"9,998c **情感核心无声表演段**：This is a huge, **largely wordless performance moment, the emotional core of the robot graveyard reveal**…the full weight of what she's seeing washes over her, **confusion, despair, disbelief, physical nausea, a moment of trying to steady herself**——五级情绪链"}
+{"project":"MECHDRIVER_1","idx":110,"sha8":"05699b20","len":562,"nTasks":1,"models":"null","read":true,"findings":"562c 距离修正：Create a version of this image **from further away from the Mantis Mech**…matching the base image's exact established quality, grade, and lighting"}
+{"project":"MECHDRIVER_1","idx":111,"sha8":"05699b20","len":562,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":112,"sha8":"bb78a116","len":7137,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":113,"sha8":"e8494861","len":84,"nTasks":1,"models":"null","read":true,"findings":"84c Remove the mech from the shot——空场景生成（修正迭代）"}
+{"project":"MECHDRIVER_1","idx":114,"sha8":"bb108854","len":3857,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":115,"sha8":"c3dec937","len":4387,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":116,"sha8":"d625f7d6","len":2946,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":117,"sha8":"5fc8ecaf","len":2989,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":118,"sha8":"ac4c4805","len":3220,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":119,"sha8":"c6ba8643","len":3215,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":120,"sha8":"91ad5fa7","len":3200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":121,"sha8":"91ad5fa7","len":3200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":122,"sha8":"6a95e46b","len":118,"nTasks":1,"models":"null","read":true,"findings":"118c 换背景中性色：Remove the background from behind the mech and **replace with a nuetral color**（错拼）. **Do not change any details about the mech**"}
+{"project":"MECHDRIVER_1","idx":123,"sha8":"c6ba8643","len":3215,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":124,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":125,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":126,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":127,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":128,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":129,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":130,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":131,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":132,"sha8":"0bfb201c","len":5460,"nTasks":1,"models":"default","read":true,"findings":"5,460c SCENE CONTEXT Ahdeen 问询正反打（同 89 变体）"}
+{"project":"MECHDRIVER_1","idx":133,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":134,"sha8":"82ef224c","len":5511,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":135,"sha8":"5e69ea40","len":5447,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":136,"sha8":"35e3110e","len":103,"nTasks":1,"models":"null","read":true,"findings":"103c Remove the mech and flying debris——机+碎片双移除"}
+{"project":"MECHDRIVER_1","idx":137,"sha8":"35e3110e","len":103,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":138,"sha8":"35e3110e","len":103,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":139,"sha8":"35e3110e","len":103,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":140,"sha8":"a1cd7d70","len":4189,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":141,"sha8":"a1cd7d70","len":4189,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":142,"sha8":"a1cd7d70","len":4189,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":143,"sha8":"a1cd7d70","len":4189,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":144,"sha8":"ffc169bb","len":10754,"nTasks":1,"models":"default","read":true,"findings":"10,754c 英雄落地起立续接（同 15 完整版）"}
+{"project":"MECHDRIVER_1","idx":145,"sha8":"bd7e0f1b","len":6725,"nTasks":1,"models":"default","read":true,"findings":"6,725c **INSERT 插入镜**：A **tighter insert shot within the rock face slide sequence**. The frame opens on a close, tracking view of the rock surface itself…before Ahdeen's mech slides into frame from the top edge, continuing the same fast, gravity-driven power slide established in the main slide shot. **All physics and directional rules** (…carry over)"}
+{"project":"MECHDRIVER_1","idx":146,"sha8":"6dffdd80","len":5698,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":147,"sha8":"d708f5cc","len":8516,"nTasks":1,"models":"default","read":true,"findings":"8,516c 高能动作拍：slides fast down a steep rock face…one claw and both feet **digging into the rock to fight for control against real resistance**, the whole mech reacting to every bump and impact of the descent, **Ahdeen visibly jostled inside the cockpit**——抗阻控制+座舱内颠簸"}
+{"project":"MECHDRIVER_1","idx":148,"sha8":"3a0f6288","len":5392,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":149,"sha8":"a97671ae","len":4029,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":150,"sha8":"0cd5ab2c","len":97,"nTasks":1,"models":"null","read":true,"findings":"97c 姿态修正：Have the taller mech's **hands closed in fists**"}
+{"project":"MECHDRIVER_1","idx":151,"sha8":"c9127661","len":3893,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":152,"sha8":"c9127661","len":3893,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":153,"sha8":"c9127661","len":3893,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":154,"sha8":"c9127661","len":3893,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":155,"sha8":"ae2f6910","len":4171,"nTasks":1,"models":"default","read":true,"findings":"4,171c **插入镜剪辑说明**：A close-up insert of Scout dancing inside her mech's cockpit, **to be cut into the wider checkpoint dance shot** — capturing her face and energy up close…**No Ahdeen, no interruption in this shot — pure, uninterrupted joy**——剪辑嵌入声明"}
+{"project":"MECHDRIVER_1","idx":156,"sha8":"70728126","len":6030,"nTasks":1,"models":"default","read":true,"findings":"6,030c Oliver 矢量屏（同 101）"}
+{"project":"MECHDRIVER_1","idx":157,"sha8":"e9c40af4","len":5852,"nTasks":1,"models":"default","read":true,"findings":"5,852c **击杀后吸烟三段动作**：Immediately after the kill…She retrieves a cigarette, lights it, lets the smoke fill the small space, then reacts, opens the hatch, **discards the cigarette, and leans forward coughing**——吸烟→烟雾充满→反应→开舱弃烟→咳嗽（喜剧动作链）"}
+{"project":"MECHDRIVER_1","idx":158,"sha8":"c2c9baf3","len":10031,"nTasks":1,"models":"default","read":true,"findings":"10,031c **NO MUSIC NO SCORE 声明**：This is a huge, largely wordless performance moment, **with NO MUSIC and NO SCORE**, just the emotional core of the robot graveyard reveal——无声段"}
+{"project":"MECHDRIVER_1","idx":159,"sha8":"c2c9baf3","len":10031,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":160,"sha8":"abbd94db","len":2720,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":161,"sha8":"a61084bc","len":118,"nTasks":1,"models":"null","read":true,"findings":"118c 挡风玻璃加宽：Extend the windshield to be **wider on the left side** of the image"}
+{"project":"MECHDRIVER_1","idx":162,"sha8":"ebe0b095","len":438,"nTasks":1,"models":"null","read":true,"findings":"438c 卡通机器人香烟道具：single cigarette with a small grey logo stamped on teh ciagarette above the filter of the **same cartoon robot seen in <<<image_1>>>**——道具图案跨图一致"}
+{"project":"MECHDRIVER_1","idx":163,"sha8":"ebe0b095","len":438,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":164,"sha8":"0e2de122","len":490,"nTasks":1,"models":"null","read":true,"findings":"490c **21:9 宽幅转换防挤压**：Change the view outside of the cockpit window…**Conform the image to the 21:9 aspect ratio without squashing it**"}
+{"project":"MECHDRIVER_1","idx":165,"sha8":"0e2de122","len":490,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":166,"sha8":"b1c3a6ae","len":422,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":167,"sha8":"020cea33","len":9998,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":168,"sha8":"316a9d69","len":2950,"nTasks":1,"models":"null","read":true,"findings":"2,950c 21:9 转换：Adapt teh image to a 21:9 format without squashing the image——姿态/位置/尺度/距离全部保持"}
+{"project":"MECHDRIVER_1","idx":169,"sha8":"316a9d69","len":2950,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":170,"sha8":"32dc813d","len":2888,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":171,"sha8":"e783bea4","len":5897,"nTasks":1,"models":"default","read":true,"findings":"5,897c **走入画+释放残骸**：The shot opens on the vista already visible and empty, and Ahdeen's mech **walks into frame from off-screen**…arriving at the cliff edge and **releasing the wrecked Mantis Mech she has been dragging**"}
+{"project":"MECHDRIVER_1","idx":172,"sha8":"e7ed40f5","len":7498,"nTasks":1,"models":"default","read":true,"findings":"7,498c **场景终拍+呼唤**：The scene's final physical beat, back out in a **wide two-shot after several close-ups**…Scout's growing panic finally **breaks through as she calls after Ahdeen, who doesn't stop and waves goodbye**"}
+{"project":"MECHDRIVER_1","idx":173,"sha8":"36682658","len":126,"nTasks":1,"models":"null","read":true,"findings":"126c 移除雨：remove the rain from the image——天气修正"}
+{"project":"MECHDRIVER_1","idx":174,"sha8":"f24ae8fc","len":85,"nTasks":1,"models":"null","read":true,"findings":"85c remove the mechs from the shot——双机移除"}
+{"project":"MECHDRIVER_1","idx":175,"sha8":"eff45144","len":7149,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":176,"sha8":"ea3a2164","len":554,"nTasks":1,"models":"null","read":true,"findings":"554c **手套手部三参考**：Using <<<image_2>>> and <<<image_1>>> and <<<image_3>>> as reference for the gloved hands, add the gloved hands holding the control sticks **in the first person pov shot**"}
+{"project":"MECHDRIVER_1","idx":177,"sha8":"a42ea32c","len":7106,"nTasks":1,"models":"default","read":true,"findings":"7,106c 场景终拍变体"}
+{"project":"MECHDRIVER_1","idx":178,"sha8":"b322f0b8","len":213,"nTasks":1,"models":"null","read":true,"findings":"213c ** windshield POV 生成**：create a first person POV **looking straight out of the windshield** of <<<uuid>>> onto the background in <<<image_1>>> match the new mech elements to the color and lighting"}
+{"project":"MECHDRIVER_1","idx":179,"sha8":"f7dfd0e9","len":432,"nTasks":1,"models":"null","read":true,"findings":"432c **透视正确合成声明**：Replace the checkpoint outpost building and replace the background…**Keep the perspective correct and accurate when combining the two elements**"}
+{"project":"MECHDRIVER_1","idx":180,"sha8":"f7dfd0e9","len":432,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":181,"sha8":"37b67ae2","len":218,"nTasks":1,"models":"null","read":true,"findings":"218c 悬崖站姿：Add <<<uuid>>> standing on the cliff from a **rear three quarter view looking over the vista of wreckage**"}
+{"project":"MECHDRIVER_1","idx":182,"sha8":"4b20aeaf","len":151,"nTasks":1,"models":"null","read":true,"findings":"151c **加悬崖边缘**：Add a small cliffs edge to the bottom righthand corner of the screen, match the existing lighting——前景元素添加"}
+{"project":"MECHDRIVER_1","idx":183,"sha8":"7241bb9b","len":3861,"nTasks":1,"models":"default","read":true,"findings":"3,861c **Shot A 续接**：Continuing directly from **Shot A's defensive block** — fire concentrates and blows off the Mantis Mech's leg, and it loses all coherent control, **staggering in disoriented erratic movement**——镜头字母编号（Shot A）"}
+{"project":"MECHDRIVER_1","idx":184,"sha8":"73628d4c","len":741,"nTasks":1,"models":"null","read":true,"findings":"741c **facial identity lock+scale reference 分工引用首例**：make the woman's head smaller to match the proper scale **use <<<uuid>>> for scale reference. Use <<<uuid>>> for facial identity lock**. 100% photorealistic **at the absolute highest standard in this entire project — this close-up, held for this long, demands more facial fidelity than any shot built so far**"}
+{"project":"MECHDRIVER_1","idx":185,"sha8":"7cc0f6bd","len":2673,"nTasks":1,"models":"default","read":true,"findings":"2,673c SEEDANCE 2.5 — SEATED ROBOT PILOT CLOSE-UP——坐姿飞行员特写"}
+{"project":"MECHDRIVER_1","idx":186,"sha8":"a1734800","len":3160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":187,"sha8":"a1734800","len":3160,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":188,"sha8":"91ad5fa7","len":3200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":189,"sha8":"91ad5fa7","len":3200,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":190,"sha8":"e8d41c41","len":596,"nTasks":1,"models":"null","read":true,"findings":"596c upper rear view 变体（exact center of the frame very close to the camera）"}
+{"project":"MECHDRIVER_1","idx":191,"sha8":"67a37494","len":3469,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":192,"sha8":"67a37494","len":3469,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":193,"sha8":"6c899aad","len":97,"nTasks":1,"models":"null","read":true,"findings":"97c 红光移除变体"}
+{"project":"MECHDRIVER_1","idx":194,"sha8":"e8d1831b","len":1242,"nTasks":1,"models":"null","read":true,"findings":"1,242c SEEDREAM EDIT — REMASTER PASS（同 79）"}
+{"project":"MECHDRIVER_1","idx":195,"sha8":"ff2c8273","len":565,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":196,"sha8":"67a37494","len":3469,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":197,"sha8":"67a37494","len":3469,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":198,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":199,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":200,"sha8":"a2b334d9","len":4547,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":201,"sha8":"c408e1c0","len":193,"nTasks":1,"models":"null","read":true,"findings":"193c 拳击地特写（同 76）"}
+{"project":"MECHDRIVER_1","idx":202,"sha8":"c408e1c0","len":193,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":203,"sha8":"99f83d77","len":202,"nTasks":1,"models":"null","read":true,"findings":"202c **extreme close up** 变体——特写强度升级"}
+{"project":"MECHDRIVER_1","idx":204,"sha8":"99f83d77","len":202,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":205,"sha8":"31ee3838","len":3019,"nTasks":1,"models":"default","read":true,"findings":"3,019c SEEDANCE 2.5 — ROBOT PILOT GRAVEYARD, HANDHELD AMBIENT SHOT"}
+{"project":"MECHDRIVER_1","idx":206,"sha8":"a4a0d7bb","len":585,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":207,"sha8":"ff2c8273","len":565,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":208,"sha8":"ff2c8273","len":565,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":209,"sha8":"e8d1831b","len":1242,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":210,"sha8":"12d30476","len":5419,"nTasks":1,"models":"default","read":true,"findings":"5,419c Ahdeen 问询正反打变体"}
+{"project":"MECHDRIVER_1","idx":211,"sha8":"843f6858","len":7692,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":212,"sha8":"4362cf55","len":115,"nTasks":1,"models":"null","read":true,"findings":"115c 机+飞行碎片移除"}
+{"project":"MECHDRIVER_1","idx":213,"sha8":"fa6080bb","len":83,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":214,"sha8":"fa6080bb","len":83,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":215,"sha8":"fa6080bb","len":83,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":216,"sha8":"fa6080bb","len":83,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":217,"sha8":"6b3bb0d2","len":5068,"nTasks":1,"models":"default","read":true,"findings":"5,068c Ahdeen 回应敬礼（同 90）"}
+{"project":"MECHDRIVER_1","idx":218,"sha8":"ae2f6910","len":4171,"nTasks":1,"models":"default","read":true,"findings":"4,171c Scout 舞蹈插入镜（同 155）"}
+{"project":"MECHDRIVER_1","idx":219,"sha8":"0cd5ab2c","len":97,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":220,"sha8":"0cd5ab2c","len":97,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":221,"sha8":"b8a881f6","len":2947,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":222,"sha8":"84648b19","len":6585,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":223,"sha8":"84648b19","len":6585,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":224,"sha8":"4d0f1acb","len":9546,"nTasks":1,"models":"default","read":true,"findings":"9,546c 吸烟三段动作完整版（同 157）"}
+{"project":"MECHDRIVER_1","idx":225,"sha8":"69c8930b","len":10237,"nTasks":1,"models":"default","read":true,"findings":"10,237c Scout 出场喜剧完整版（同 102）"}
+{"project":"MECHDRIVER_1","idx":226,"sha8":"2ae23f52","len":133,"nTasks":1,"models":"null","read":true,"findings":"133c 屏读数替换：Replace the large screen's readout in <<<image_1>>> with the readout from <<<image_2>>>"}
+{"project":"MECHDRIVER_1","idx":227,"sha8":"4a4d1132","len":5734,"nTasks":1,"models":"default","read":true,"findings":"5,734c 座舱 POV（同 100）"}
+{"project":"MECHDRIVER_1","idx":228,"sha8":"bac6096f","len":2863,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":229,"sha8":"bac6096f","len":2863,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":230,"sha8":"bac6096f","len":2863,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":231,"sha8":"a61084bc","len":118,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":232,"sha8":"e479564b","len":4675,"nTasks":1,"models":"default","read":true,"findings":"4,675c SCOUT VOICE PROFILE（同 103）"}
+{"project":"MECHDRIVER_1","idx":233,"sha8":"84fadcd9","len":591,"nTasks":1,"models":"null","read":true,"findings":"591c **NICOTINE BOT 虚构烟盒品牌**：cigarette pack that is the color orange with a picture of a **happy cartoon robot smoking a cigarette** with the logo below it that says in classic cigarette brand typeset font, **\"NICOTINE BOT\"** and below that in a smaller font **\"Class A cigarettes specially blend\"**——虚构品牌全案"}
+{"project":"MECHDRIVER_1","idx":234,"sha8":"84fadcd9","len":591,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":235,"sha8":"84fadcd9","len":591,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":236,"sha8":"84fadcd9","len":591,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":237,"sha8":"bac6096f","len":2863,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":238,"sha8":"5e0e7a02","len":10137,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":239,"sha8":"09f99a70","len":5812,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":240,"sha8":"8bae4ab3","len":4727,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":241,"sha8":"5dda886a","len":7318,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":242,"sha8":"ff5a22ba","len":5743,"nTasks":1,"models":"default","read":true,"findings":"5,743c **沉浸式 POV 段**：A **fully immersive first-person point of view shot** from inside Ahdeen's cockpit as her mech walks down the beacon-marked trail…**The goal of this shot is to put the viewer physically inside the mech, feeling its weight and motion through the cockpit itself, not just watching it from outside**+AHDEEN VOICE AND BRE(ATH…)"}
+{"project":"MECHDRIVER_1","idx":243,"sha8":"ea3a2164","len":554,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":244,"sha8":"6c3536d7","len":3726,"nTasks":1,"models":"default","read":true,"findings":"3,726c **火花限时爆发**：giving off **a brief, quick burst of sparks. Not a continuous stream of sparks, just a short, sharp flicker to reinforce that this wreckage is still electrically live and freshly destroyed**——短促火花（非连续流）+残骸通电声明"}
+{"project":"MECHDRIVER_1","idx":245,"sha8":"c3c2ff15","len":83,"nTasks":1,"models":"null","read":true,"findings":"83c 悬崖终点：At the far end of the trail lined with red lights **have it drop off at a cliffs edge**"}
+{"project":"MECHDRIVER_1","idx":246,"sha8":"7ee4f40c","len":389,"nTasks":1,"models":"null","read":true,"findings":"389c 背景替换透视正确"}
+{"project":"MECHDRIVER_1","idx":247,"sha8":"1abb1195","len":5689,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":248,"sha8":"044f6321","len":319,"nTasks":1,"models":"null","read":true,"findings":"319c 拖拽残骸声明：Have her **dragging the mantis wreckage behind her as seen as reference in <<<uuid>>>**——残骸拖拽跨镜一致"}
+{"project":"MECHDRIVER_1","idx":249,"sha8":"4b20aeaf","len":151,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":250,"sha8":"b5a87f30","len":641,"nTasks":1,"models":"null","read":true,"findings":"641c 头部比例修正：make the woman's head smaller to match the proper scale of her body use <<<uuid>>> for facial identity lock"}
+{"project":"MECHDRIVER_1","idx":251,"sha8":"b5a87f30","len":641,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":252,"sha8":"a06d4ad2","len":200,"nTasks":1,"models":"null","read":true,"findings":"200c **填充隐藏部位**：Remove the Mantis mech from <<<image_1>>> and use <<<uuid>>> to **fill in the previously hidden parts of the mech on the ground**——遮挡补全"}
+{"project":"MECHDRIVER_1","idx":253,"sha8":"efccfb18","len":5411,"nTasks":1,"models":"default","read":true,"findings":"5,411c Ahdeen 疲惫幽默台词：reacts with a small, unbothered **\"Uh huh,\"** then launches into a tired, dryly funny speech about just wanting to finish the job and go home"}
+{"project":"MECHDRIVER_1","idx":254,"sha8":"a70094df","len":4740,"nTasks":1,"models":"null","read":true,"findings":"4,740c **AUTHORITATIVE reference 声明**：the confirmed cockpit vector terrain screen — this is the **AUTHORITATIVE reference** for the screen's es(tablished design)"}
+{"project":"MECHDRIVER_1","idx":255,"sha8":"a70094df","len":4740,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":256,"sha8":"86b36cbc","len":5415,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":257,"sha8":"7b65857e","len":439,"nTasks":1,"models":"null","read":true,"findings":"439c **汗湿细节**：Make the woman's face sweaty and **have her front bangs damp from the sweat**…Real production-grade photographic lighting, real skin/sweat detail on Ahdeen at full fidelity"}
+{"project":"MECHDRIVER_1","idx":258,"sha8":"7b65857e","len":439,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":259,"sha8":"7b65857e","len":439,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":260,"sha8":"55c70918","len":2914,"nTasks":1,"models":"default","read":true,"findings":"2,914c Oliver 受击反应：Oliver reacts to a general jolt/shake as his mech takes an impact or loses ground in the fight"}
+{"project":"MECHDRIVER_1","idx":261,"sha8":"e8fde584","len":122,"nTasks":1,"models":"null","read":true,"findings":"122c 旋转残骸视角：Turn the wrecked mantis mech around so it's at a **rear three quarter rear view**"}
+{"project":"MECHDRIVER_1","idx":262,"sha8":"e8fde584","len":122,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":263,"sha8":"e8fde584","len":122,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":264,"sha8":"08198d0c","len":99,"nTasks":1,"models":"null","read":true,"findings":"99c 移除挡风玻璃"}
+{"project":"MECHDRIVER_1","idx":265,"sha8":"bbd9fbaf","len":211,"nTasks":1,"models":"null","read":true,"findings":"211c **手指精确计数**：Add the leather fingerless gloves…**Make sure each hand has 4 accurate fingers and 1 accurate thumb**——五指计数"}
+{"project":"MECHDRIVER_1","idx":266,"sha8":"02e85b92","len":8571,"nTasks":1,"models":"default","read":true,"findings":"8,571c **THE FILM'S OPENING SHOT 声明**：**THE FILM'S OPENING SHOT. This is the very first frame the audience sees — before any other footage, before any context.** Ahdeen's mech and the SHF Mantis Mech face off…a beat of coiled tension before violence erupts. **This shot's job is to establish stakes, danger, and character in a single unbroke(n shot)**——开场镜职责声明"}
+{"project":"MECHDRIVER_1","idx":267,"sha8":"910e90fc","len":4650,"nTasks":1,"models":"null","read":true,"findings":"4,650c **POV 眼平声明**：generate a first-person point-of-view image from inside Ahdeen's cockpit, **as if the camera were positioned exactly at her own eye level**, looking down and out through the lower portion of her cockpit's windshield glass **at a steep downward angle**"}
+{"project":"MECHDRIVER_1","idx":268,"sha8":"5769c7df","len":3958,"nTasks":1,"models":"null","read":true,"findings":"3,958c **Nano Banana 组合 regrade**：the confirmed **Nano Banana composition being regraded** — this is the base image…**critically — the scale and proportions of Ahdeen within the cockpit and the mech overall** are (preserved)——Nano Banana 模型产物"}
+{"project":"MECHDRIVER_1","idx":269,"sha8":"5769c7df","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":270,"sha8":"5769c7df","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":271,"sha8":"5769c7df","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":272,"sha8":"5769c7df","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":273,"sha8":"c562a2f6","len":3789,"nTasks":1,"models":"null","read":true,"findings":"3,789c **SOLE source 声明**：the **Seedream-regraded version** of the defensive-stance composite — this is the **SOLE source for Ahdeen's head angle, expression, and the cockpit lighting on her face**. This close-up must match that exact moment and its already-upgraded photoreal quality, **not a new pose**"}
+{"project":"MECHDRIVER_1","idx":274,"sha8":"c562a2f6","len":3789,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":275,"sha8":"c562a2f6","len":3789,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":276,"sha8":"c562a2f6","len":3789,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":277,"sha8":"f218c3e9","len":8196,"nTasks":1,"models":"default","read":true,"findings":"8,196c **败亡全弧光**：This shot covers **the full arc of the Mantis Mech's defeat: desperate defensive struggle, a leg lost to concentrated fire, disorientation as its pilot loses control, and its final collapse**——四段败亡弧"}
+{"project":"MECHDRIVER_1","idx":278,"sha8":"349e7a1c","len":8337,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":279,"sha8":"f3e776d2","len":8116,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":280,"sha8":"53e79f79","len":312,"nTasks":1,"models":"null","read":true,"findings":"312c 中弹火花：**bullets from the foreground weapon rip holes in it's chest and richochet sparks as other bullets bounce off**, the Mantis' mech should be dynamicaly posed mid assult（错拼连发）"}
+{"project":"MECHDRIVER_1","idx":281,"sha8":"53e79f79","len":312,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":282,"sha8":"53e79f79","len":312,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":283,"sha8":"53e79f79","len":312,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":284,"sha8":"4bcbffd6","len":3977,"nTasks":1,"models":"null","read":true,"findings":"3,977c **炮口设计锁定**：the confirmed close-up on Ahdeen's **transformed turret muzzle** — locks the exact **multi-barrel rotary muzzle design**, the blue/red arm housing behind it"}
+{"project":"MECHDRIVER_1","idx":285,"sha8":"4bcbffd6","len":3977,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":286,"sha8":"da7f8aba","len":132,"nTasks":1,"models":"null","read":true,"findings":"132c 移除背景角色：Remove all background characters behind the foreground mech and the mantic mech"}
+{"project":"MECHDRIVER_1","idx":287,"sha8":"0a4b7e35","len":425,"nTasks":1,"models":"null","read":true,"findings":"425c **REF-SCOUT-SALUTE-CLOSEUP 标签首例**：matching **REF-SCOUT-SALUTE-CLOSEUP's exact established quality**, real skin, hair, and freckle detail, **genuine micro-expression fidelity**——项目内引用标签"}
+{"project":"MECHDRIVER_1","idx":288,"sha8":"5c1f519d","len":5404,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":289,"sha8":"f3b5f194","len":4763,"nTasks":1,"models":"default","read":true,"findings":"4,763c **时长即喜剧首例**：This shot exists specifically **to let that coughing fit run long — well past the point a normal edit would cut away — until the sheer length of it becomes funny. This is a comedic beat built entirely on duration and commitment**——咳嗽时长喜剧"}
+{"project":"MECHDRIVER_1","idx":290,"sha8":"30ba36ca","len":6363,"nTasks":1,"models":"default","read":true,"findings":"6,363c **payoff 呼应声明**：the moment Ahdeen's turret fire punches through the front hull and strikes Oliver, the pilot. **This is the direct payoff of the earlier turret-firing beat in the exterior combat sequence**——剧情呼应"}
+{"project":"MECHDRIVER_1","idx":291,"sha8":"30ba36ca","len":6363,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":292,"sha8":"26841f99","len":3679,"nTasks":1,"models":"null","read":true,"findings":"3,679c **governs 谓词制**：<<<uuid>>>**govern the interior environment**, materials, and the established **sickly-green vector-screen lighting** — this shot is **a violent escalation of that same confirmed space, not a redesign of it**. <<<uuid>>> **governs Oliver's helmet exactly**+SHOT INTEN(SITY…)"}
+{"project":"MECHDRIVER_1","idx":293,"sha8":"62bd381b","len":3526,"nTasks":1,"models":"default","read":true,"findings":"3,526c **操纵杆抗阻微距**：An extreme macro insert…Ahdeen's gloved hand and forearm **fighting the control stick against tremendous mechanical resistance, building strain over time until a sudden external impact knocks her progress backward, forcing renewed effort**—— strain 积累→冲击倒退→再努力"}
+{"project":"MECHDRIVER_1","idx":294,"sha8":"cc7f36c0","len":792,"nTasks":1,"models":"null","read":true,"findings":"792c **[REF-OLIVER-COCKPIT-CONFIRMED] 方括号标签**：LIGHTING: the sickly green glow from the vector terrain screen remains the dominant, near-exclusive light source, **per [REF-OLIVER-COCKPIT-CONFIRMED]** — washing across the front of the helmet, **catching the visor slit with a cold green reflection/glow**"}
+{"project":"MECHDRIVER_1","idx":295,"sha8":"cc7f36c0","len":792,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":296,"sha8":"26841f99","len":3679,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":297,"sha8":"bff44b3d","len":2669,"nTasks":1,"models":"null","read":true,"findings":"2,669c **counter-shot 反打术语**：this front angle should read as **the natural counter-shot to that confirmed composition, same scene, same moment**"}
+{"project":"MECHDRIVER_1","idx":298,"sha8":"bff44b3d","len":2669,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":299,"sha8":"257dbd61","len":9741,"nTasks":1,"models":"default","read":true,"findings":"9,741c **Seedance 2.5 Prompt (ready to paste) 段头+冷开场**：**Seedance 2.5 Prompt (ready to paste)**. SCENE CONTEXT: **Hard smash cut — the film's cold open**. Ahdeen's mech is pinned by the SHF Mantis Mech in brutal close-quarters combat, its claw prying at her cockpit windshield. This chunk covers the pinned struggle through her **forearm's transformation into a turret**. **This is a life-or-death moment**"}
+{"project":"MECHDRIVER_1","idx":300,"sha8":"0d4239d8","len":9755,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":301,"sha8":"251b7c37","len":5925,"nTasks":1,"models":"null","read":true,"findings":"5,925c 躯干腔内视：governs the torso cavity's exterior silhouette/proportions that **this interior must plausibly fit within**——内外一致性"}
+{"project":"MECHDRIVER_1","idx":302,"sha8":"251b7c37","len":5925,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":303,"sha8":"251b7c37","len":5925,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":304,"sha8":"32dc813d","len":2888,"nTasks":1,"models":"null","read":true,"findings":"2,888c confirmed wide still being modified——基础图保持"}
+{"project":"MECHDRIVER_1","idx":305,"sha8":"bcc2213f","len":2942,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":306,"sha8":"1d28f80a","len":7468,"nTasks":1,"models":"default","read":true,"findings":"7,468c 悬崖释放残骸场景（同 171 完整版）"}
+{"project":"MECHDRIVER_1","idx":307,"sha8":"1a4a6fcc","len":537,"nTasks":1,"models":"null","read":true,"findings":"537c 手套参考双图（同 176 变体）"}
+{"project":"MECHDRIVER_1","idx":308,"sha8":"1a4a6fcc","len":537,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":309,"sha8":"b322f0b8","len":213,"nTasks":1,"models":"null","read":true,"findings":"213c windshield POV（同 178）"}
+{"project":"MECHDRIVER_1","idx":310,"sha8":"b322f0b8","len":213,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":311,"sha8":"b322f0b8","len":213,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":312,"sha8":"1eabc688","len":90,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":313,"sha8":"044f6321","len":319,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":314,"sha8":"7ee4f40c","len":389,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":315,"sha8":"37b67ae2","len":218,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":316,"sha8":"41dfb817","len":5012,"nTasks":1,"models":"default","read":true,"findings":"5,012c **release valve 声明**：**The adrenaline crashes** — Ahdeen, alone now, takes a moment inside her cockpit…**This is the sequence's release valve after the violence, and the beat**——肾上腺素崩溃+释放阀"}
+{"project":"MECHDRIVER_1","idx":317,"sha8":"73628d4c","len":741,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":318,"sha8":"73628d4c","len":741,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":319,"sha8":"bf1a256f","len":207,"nTasks":1,"models":"null","read":true,"findings":"207c **蓝屏占位合成法首例**：change the screen to a **solid blue color for compositing, no blue color or light bleed**, leave all other lighting and elements of the original image exactly the same——实体屏拍蓝屏后期合成"}
+{"project":"MECHDRIVER_1","idx":320,"sha8":"d4f673e7","len":97,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":321,"sha8":"3f9b349c","len":459,"nTasks":1,"models":"null","read":true,"findings":"459c 轻度汗湿变体：Make the woman's face **lightly** sweaty and have her front bangs be **slightly** damp——强度分级"}
+{"project":"MECHDRIVER_1","idx":322,"sha8":"3f9b349c","len":459,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":323,"sha8":"3f9b349c","len":459,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":324,"sha8":"3f9b349c","len":459,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":325,"sha8":"e8fde584","len":122,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":326,"sha8":"08198d0c","len":99,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":327,"sha8":"5705eca5","len":4876,"nTasks":1,"models":"default","read":true,"findings":"4,876c **对称抗阻镜像**：Oliver's gloved hand fighting his control stick against tremendous mechanical resistance, his mech's servos straining as it's pushed back by Ahdeen's mech. **This is the direct counterpart to Ahdeen's own control-stick strain beat, establishing the fight as a** (mutual struggle)——双方正打对称"}
+{"project":"MECHDRIVER_1","idx":328,"sha8":"910e90fc","len":4650,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":329,"sha8":"02e85b92","len":8571,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"8,571c seedance_2_0 开场镜（同 266）"}
+{"project":"MECHDRIVER_1","idx":330,"sha8":"695dbb86","len":4722,"nTasks":1,"models":"default","read":true,"findings":"4,722c 时长即喜剧（同 289）"}
+{"project":"MECHDRIVER_1","idx":331,"sha8":"5769c7df","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":332,"sha8":"5769c7df","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":333,"sha8":"4ee8e4c4","len":3798,"nTasks":1,"models":"null","read":true,"findings":"3,798c SOLE source medium close-up 变体"}
+{"project":"MECHDRIVER_1","idx":334,"sha8":"4ee8e4c4","len":3798,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":335,"sha8":"4ee8e4c4","len":3798,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":336,"sha8":"d86ba79b","len":8116,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"8,116c seedance 败亡弧（同 277）"}
+{"project":"MECHDRIVER_1","idx":337,"sha8":"84da74fc","len":8117,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":338,"sha8":"f218c3e9","len":8196,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":339,"sha8":"349e7a1c","len":8337,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":340,"sha8":"4205ae7b","len":3959,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":341,"sha8":"4205ae7b","len":3959,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":342,"sha8":"398f6540","len":6766,"nTasks":1,"models":"null","read":true,"findings":"6,766c **比例参考专用声明**：the dedicated cockpit-scale reference — **use this ONLY for Ahdeen's head/body proportion and scale relative to the cockpit and mech, NOT for camera** (framing)——参考用途限定"}
+{"project":"MECHDRIVER_1","idx":343,"sha8":"398f6540","len":6766,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":344,"sha8":"398f6540","len":6766,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":345,"sha8":"398f6540","len":6766,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":346,"sha8":"11414de4","len":8476,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":347,"sha8":"e8ea1a1e","len":462,"nTasks":1,"models":"null","read":true,"findings":"462c **extreme close up punch in**：just punched into an extreme close up, use <<<uuid>>> to **lock close up facial details and identity**…**Keep the woman's eyeline from image1**——视线方向保持"}
+{"project":"MECHDRIVER_1","idx":348,"sha8":"0274e24f","len":8446,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":349,"sha8":"752c4fea","len":4020,"nTasks":1,"models":"null","read":true,"findings":"4,020c 炮口锁定（同 284）"}
+{"project":"MECHDRIVER_1","idx":350,"sha8":"752c4fea","len":4020,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":351,"sha8":"02cd0e77","len":412,"nTasks":1,"models":"null","read":true,"findings":"412c likeness 一致（@占位机读残缺——同 287）"}
+{"project":"MECHDRIVER_1","idx":352,"sha8":"0a4b7e35","len":425,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":353,"sha8":"26a24a38","len":6138,"nTasks":1,"models":"default","read":true,"findings":"6,138c Scout 指路正反打：Scout points toward **the path marked by red beacon lights, her mech mirroring the gesture**——机甲镜像手势"}
+{"project":"MECHDRIVER_1","idx":354,"sha8":"5c84e786","len":6154,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":355,"sha8":"0678844f","len":4751,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":356,"sha8":"c80bc035","len":3863,"nTasks":1,"models":"null","read":true,"findings":"3,863c **material-realism regrade 非 recomposition**：Its composition, camera angle, **hull damage positions, spark placement, blood-impact location**, and Oliver's pose are **ALL ALREADY CORRECT** and must be preserved exactly. **This is a material-realism regrade, not a recomposition**"}
+{"project":"MECHDRIVER_1","idx":357,"sha8":"26841f99","len":3679,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":358,"sha8":"26841f99","len":3679,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":359,"sha8":"26841f99","len":3679,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":360,"sha8":"26841f99","len":3679,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":361,"sha8":"cc7f36c0","len":792,"nTasks":1,"models":"null","read":true,"findings":"792c [REF-OLIVER-COCKPIT-CONFIRMED]（同 294）"}
+{"project":"MECHDRIVER_1","idx":362,"sha8":"cc7f36c0","len":792,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":363,"sha8":"251b7c37","len":5925,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":364,"sha8":"251b7c37","len":5925,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":365,"sha8":"251b7c37","len":5925,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":366,"sha8":"251b7c37","len":5925,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":367,"sha8":"68b5fc4e","len":8208,"nTasks":1,"models":"default","read":true,"findings":"8,208c **五角度剪辑声明**：This block is **pure tension escalation: five confirmed angles cut together**, building from the wide pin down to an extreme close-up on Ahdeen's face, before the physical struggle intensifies in the ne(xt)——五 confirmed 角度"}
+{"project":"MECHDRIVER_1","idx":368,"sha8":"50bbec4f","len":3857,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":369,"sha8":"50bbec4f","len":3857,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":370,"sha8":"50bbec4f","len":3857,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":371,"sha8":"50bbec4f","len":3857,"nTasks":1,"models":"null","read":true,"findings":"3,857c **爪型几何转变**：full fidelity on the hand/claw geometry, which **transitions from a closed fist into an open slashing claw in this beat**"}
+{"project":"MECHDRIVER_1","idx":372,"sha8":"77015d5b","len":3554,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"3,554c **LOCATION MAP 段头**：this shot exists **to establish that the Mantis Mech moves with a speed and relentlessness Ahdeen's mech cannot match**+**LOCATION MAP: tight ex(…)**——速度差建立镜"}
+{"project":"MECHDRIVER_1","idx":373,"sha8":"77015d5b","len":3554,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":374,"sha8":"84e464a1","len":4132,"nTasks":1,"models":"null","read":true,"findings":"4,132c **双模型接力声明**：the confirmed wide OTS master still **(Nano Banana + Seedream hybrid pass)** — this is the SOLE source…**This shot punches in tighter on that exact confirmed moment, not a new pose**"}
+{"project":"MECHDRIVER_1","idx":375,"sha8":"84e464a1","len":4132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":376,"sha8":"b7efaea6","len":85,"nTasks":1,"models":"null","read":true,"findings":"85c 换机甲：Replace the woman's mech with the one in <<<uuid>>>"}
+{"project":"MECHDRIVER_1","idx":377,"sha8":"b7efaea6","len":85,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":378,"sha8":"b7efaea6","len":85,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":379,"sha8":"839d5edd","len":199,"nTasks":1,"models":"null","read":true,"findings":"199c **爪不刺玻璃修正**：Have the claw at the top of the screen **not puncturing the glass**, and slightly **scale the woman in the cockpit down but do not alter her likeness**"}
+{"project":"MECHDRIVER_1","idx":380,"sha8":"839d5edd","len":199,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":381,"sha8":"28a8a34b","len":5314,"nTasks":1,"models":"default","read":true,"findings":"5,314c **厂牌 vanity card 首例**：The **MACHINE MADE FILMS studio logo/vanity card**. A wall-mounted sign **built from scavenged mechanical parts and circuit-board letters, bolted between threaded rod bars, entwined with dead organic vines**, lit by a single hanging practical lamp. This is a **static, locked-off logo animation** — the mechanical arm at top-right activa(tes)"}
+{"project":"MECHDRIVER_1","idx":382,"sha8":"84a8476e","len":8853,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":383,"sha8":"73628d4c","len":741,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":384,"sha8":"f030d35f","len":5176,"nTasks":1,"models":"default","read":true,"findings":"5,176c **蓝屏占位实操版**：A practical plate shot of Oliver's cockpit — the main display screen **held as a clean blue-screen placeholder for compositing the vector targeting graphic in post**——实拍占位→后期合成"}
+{"project":"MECHDRIVER_1","idx":385,"sha8":"21ab267a","len":11926,"nTasks":1,"models":"default","read":true,"findings":"11,926c **静默 15 秒内心戏（全项目最长）**：A quiet, held breath in the middle of the fight…sweating, breathing hard, staring ahead at a threat that's already getting the better of her. **This is a deliberate tonal contrast to the sequence's surrounding chaos — fifteen seconds of pure stillness and interiority before what**(comes next)"}
+{"project":"MECHDRIVER_1","idx":386,"sha8":"4db96dfd","len":5778,"nTasks":1,"models":"default","read":true,"findings":"5,778c **In-world footage 首例**：**In-world footage from Oliver's cockpit vector targeting screen** — his targeting camera tracking Ahdeen's mech as it panning right to left, capturing her **small preparatory movements before the coming clash**——剧内屏幕素材"}
+{"project":"MECHDRIVER_1","idx":387,"sha8":"544b7f46","len":7989,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":388,"sha8":"30f6b15d","len":183,"nTasks":1,"models":"null","read":true,"findings":"183c **分色引用（调色专用）**：Remove the cockpit windshield from <<<image_1>>> and match image 1 to the color in <<<image_2>>>, **image 2 is ONLY for color grade reverence**（reference 错拼）——只取调色"}
+{"project":"MECHDRIVER_1","idx":389,"sha8":"30f6b15d","len":183,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":390,"sha8":"7b65857e","len":439,"nTasks":1,"models":"null","read":true,"findings":"439c 汗湿变体"}
+{"project":"MECHDRIVER_1","idx":391,"sha8":"60cffa71","len":3497,"nTasks":1,"models":"default","read":true,"findings":"3,497c Oliver 愤怒动作：Oliver **cracks his neck out of anger**, his body following that motion, then **jams his control sticks forward (below frame) with decisive force** — the cockpit jerking forward in response as his mech lurches"}
+{"project":"MECHDRIVER_1","idx":392,"sha8":"fec95e80","len":187,"nTasks":1,"models":"null","read":true,"findings":"187c **空座舱填充**：Remove the woman from the cockpit in <<<image_1>>> and use **the empty cockpit reference in <<<image_2>>> to fill in the space where the woman was**"}
+{"project":"MECHDRIVER_1","idx":393,"sha8":"fec95e80","len":187,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":394,"sha8":"e8fde584","len":122,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":395,"sha8":"e8fde584","len":122,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":396,"sha8":"910e90fc","len":4650,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":397,"sha8":"02e85b92","len":8571,"nTasks":1,"models":"default","read":true,"findings":"8,571c 开场镜 default 版（同 266）"}
+{"project":"MECHDRIVER_1","idx":398,"sha8":"910e90fc","len":4650,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":399,"sha8":"b8cd47e7","len":9675,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":400,"sha8":"84da74fc","len":8117,"nTasks":1,"models":"default","read":true,"findings":"8,117c 败亡弧 default 版"}
+{"project":"MECHDRIVER_1","idx":401,"sha8":"408eed03","len":7510,"nTasks":1,"models":"default","read":true,"findings":"7,510c **宽外角声明**：Played entirely from **a wide exterior angle on the mech, per the confirmed post-fight still**"}
+{"project":"MECHDRIVER_1","idx":402,"sha8":"4ee8e4c4","len":3798,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":403,"sha8":"4ee8e4c4","len":3798,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":404,"sha8":"4ee8e4c4","len":3798,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":405,"sha8":"4ee8e4c4","len":3798,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":406,"sha8":"5769c7df","len":3958,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":407,"sha8":"c562a2f6","len":3789,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":408,"sha8":"c562a2f6","len":3789,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":409,"sha8":"c562a2f6","len":3789,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":410,"sha8":"c562a2f6","len":3789,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":411,"sha8":"398f6540","len":6766,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":412,"sha8":"398f6540","len":6766,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":413,"sha8":"398f6540","len":6766,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":414,"sha8":"398f6540","len":6766,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":415,"sha8":"e8ea1a1e","len":462,"nTasks":1,"models":"null","read":true,"findings":"462c extreme close up lock（同 347）"}
+{"project":"MECHDRIVER_1","idx":416,"sha8":"752c4fea","len":4020,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":417,"sha8":"752c4fea","len":4020,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":418,"sha8":"752c4fea","len":4020,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":419,"sha8":"752c4fea","len":4020,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":420,"sha8":"752c4fea","len":4020,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":421,"sha8":"752c4fea","len":4020,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":422,"sha8":"9f85dd4f","len":140,"nTasks":1,"models":"null","read":true,"findings":"140c 双移除+换中性色"}
+{"project":"MECHDRIVER_1","idx":423,"sha8":"846cb348","len":314,"nTasks":1,"models":"null","read":true,"findings":"314c 面向修正：Have the smaller blue mech standing in the same spot, but **now facing the taller mech as the pilot <<<uuid>>> looks up at it**"}
+{"project":"MECHDRIVER_1","idx":424,"sha8":"846cb348","len":314,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":425,"sha8":"053ab7c8","len":178,"nTasks":1,"models":"null","read":true,"findings":"178c **SITE A/B 标识道具**：Create a close up image of thew **site a and site b signs and their light poles**——目的地标识+灯杆"}
+{"project":"MECHDRIVER_1","idx":426,"sha8":"053ab7c8","len":178,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":427,"sha8":"9656d0d9","len":3642,"nTasks":1,"models":"default","read":true,"findings":"3,642c **SITE B 推轨**：A short insert shot within the checkpoint dialogue sequence, **reinforcing the SITE B signage referenced in Scout and Ahdeen's dialogue**. A **practical camera dolly pushes in** toward the SITE B sign and its red beacon marker light——对白呼应道具+实体推轨"}
+{"project":"MECHDRIVER_1","idx":428,"sha8":"30ba36ca","len":6363,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":429,"sha8":"404a0242","len":6406,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"6,406c seedance 座舱中弹版"}
+{"project":"MECHDRIVER_1","idx":430,"sha8":"404a0242","len":6406,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":431,"sha8":"f7b065ac","len":6060,"nTasks":1,"models":"default","read":true,"findings":"6,060c Scout 指路正反打完整版"}
+{"project":"MECHDRIVER_1","idx":432,"sha8":"4bc431af","len":3477,"nTasks":1,"models":"default","read":true,"findings":"3,477c 操纵杆抗阻（同 293）"}
+{"project":"MECHDRIVER_1","idx":433,"sha8":"bff44b3d","len":2669,"nTasks":1,"models":"null","read":true,"findings":"2,669c counter-shot（同 297）"}
+{"project":"MECHDRIVER_1","idx":434,"sha8":"bff44b3d","len":2669,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":435,"sha8":"bff44b3d","len":2669,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":436,"sha8":"bff44b3d","len":2669,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":437,"sha8":"ad53eed0","len":123,"nTasks":1,"models":"null","read":true,"findings":"123c 头部转向：Move the pilots head so it's **looking at the large green readout screen**"}
+{"project":"MECHDRIVER_1","idx":438,"sha8":"26841f99","len":3679,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":439,"sha8":"8a20ed58","len":6086,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":440,"sha8":"77015d5b","len":3554,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":441,"sha8":"45d889c4","len":2984,"nTasks":1,"models":"null","read":true,"findings":"2,984c **ground truth 声明**：the confirmed interior cockpit render — this is **the primary and authoritative reference for every element in this prompt; treat it as the locked ground truth, not a starting point for reinterpretation**"}
+{"project":"MECHDRIVER_1","idx":442,"sha8":"45d889c4","len":2984,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":443,"sha8":"257dbd61","len":9741,"nTasks":1,"models":"default","read":true,"findings":"9,741c Seedance 2.5 冷开场（同 299）"}
+{"project":"MECHDRIVER_1","idx":444,"sha8":"5c1f519d","len":5404,"nTasks":1,"models":"default","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":445,"sha8":"a9336806","len":5687,"nTasks":1,"models":"default","read":true,"findings":"5,687c **孤立机制演示镜首例**：Isolated mechanical test shot — Ahdeen's mech's right forearm/hand **transforming from its standard clawed-hand configuration into a turret-gun configuration. No combat, no other characters, no chaos — a clean, legible demonstration of the mechanism itself**——变形机制演示"}
+{"project":"MECHDRIVER_1","idx":446,"sha8":"251b7c37","len":5925,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":447,"sha8":"1dcf261c","len":3911,"nTasks":1,"models":"null","read":true,"findings":"3,911c **Nano Banana Pro**：the confirmed **Nano Banana Pro composition** — this is the base image being regraded…**are ALL ALREADY CORRECT and must be p(reserved)**"}
+{"project":"MECHDRIVER_1","idx":448,"sha8":"50bbec4f","len":3857,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":449,"sha8":"50bbec4f","len":3857,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":450,"sha8":"6537a693","len":4270,"nTasks":1,"models":"null","read":true,"findings":"4,270c **reverse angle 连续场景感**：governs overall grade, lighting, environment, and the established beat (**this is the reverse angle of that same moment, so both should feel like they belong to the same continuous scene**)"}
+{"project":"MECHDRIVER_1","idx":451,"sha8":"6537a693","len":4270,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":452,"sha8":"6537a693","len":4270,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":453,"sha8":"6537a693","len":4270,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":454,"sha8":"d2d53772","len":8980,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":455,"sha8":"d2d53772","len":8980,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":456,"sha8":"d2d53772","len":8980,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":457,"sha8":"d2d53772","len":8980,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":458,"sha8":"84e464a1","len":4132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":459,"sha8":"84e464a1","len":4132,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":460,"sha8":"8f08f750","len":1930,"nTasks":1,"models":"pro","read":true,"findings":"1,930c **实体金属雕塑厂牌（pro 模型）**：Photorealistic photograph of **a physical metal sculpture spelling the words MACHINE MADE FILMS in a single horizontal line**. The sculpture is mounted against a clean neutral dark background — photographed straight on, isolated, no environment visible, **product photography lighting**. The letterforms are **welded together from salvaged materials**"}
+{"project":"MECHDRIVER_1","idx":461,"sha8":"84a8476e","len":8853,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":462,"sha8":"84a8476e","len":8853,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":463,"sha8":"84a8476e","len":8853,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":464,"sha8":"84a8476e","len":8853,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":465,"sha8":"fec0fa59","len":7467,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":466,"sha8":"fec0fa59","len":7467,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":467,"sha8":"8ace2ee5","len":5884,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":468,"sha8":"8ace2ee5","len":5884,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":469,"sha8":"8ace2ee5","len":5884,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":470,"sha8":"8f08f750","len":1930,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":471,"sha8":"8f08f750","len":1930,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":472,"sha8":"8f08f750","len":1930,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":473,"sha8":"8f08f750","len":1930,"nTasks":1,"models":"pro","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":474,"sha8":"8f08f750","len":1930,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":475,"sha8":"6309ad24","len":8979,"nTasks":1,"models":"null","read":true,"findings":"8,979c Scout checkpoint composite——确认合成基础"}
+{"project":"MECHDRIVER_1","idx":476,"sha8":"6309ad24","len":8979,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":477,"sha8":"6309ad24","len":8979,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":478,"sha8":"6309ad24","len":8979,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":479,"sha8":"6309ad24","len":8979,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":480,"sha8":"11edd84c","len":6906,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":481,"sha8":"11edd84c","len":6906,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":482,"sha8":"11edd84c","len":6906,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":483,"sha8":"11edd84c","len":6906,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":484,"sha8":"b8cd47e7","len":9675,"nTasks":1,"models":"default","read":true,"findings":"6,942c 吸烟三段（同 157/399）"}
+{"project":"MECHDRIVER_1","idx":485,"sha8":"a454de4b","len":291,"nTasks":1,"models":"null","read":true,"findings":"291c **软管→弹链替换**：Make the entire upper part of the taller mech's upper arm red that matches the existing red paint on the mech, **change the hoses on the backs on the arms to ammo belts** as seen in reference image"}
+{"project":"MECHDRIVER_1","idx":486,"sha8":"69e0aca1","len":682,"nTasks":1,"models":"null","read":true,"findings":"682c **实体搭建棚拍声明**：100% photorealistic composite, **shot as if this were a fully practical built set** — no CG-render sheen…Real production-g(rade)"}
+{"project":"MECHDRIVER_1","idx":487,"sha8":"69e0aca1","len":682,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":488,"sha8":"69e0aca1","len":682,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":489,"sha8":"48b5f4d5","len":2747,"nTasks":1,"models":"null","read":true,"findings":"2,747c **定格静帧 I2I 种子**：A single **freeze-frame still capturing the same beat** as <<<image_1>>> — **the moment of peak dirt/rock displacement mid-drag**. Use this for a storyboard-accurate still reference…, **as an image-to-image seed for the video pass**"}
+{"project":"MECHDRIVER_1","idx":490,"sha8":"48b5f4d5","len":2747,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":491,"sha8":"ac8f3f48","len":2775,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":492,"sha8":"48b5f4d5","len":2747,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":493,"sha8":"48b5f4d5","len":2747,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":494,"sha8":"a644ab68","len":185,"nTasks":1,"models":"null","read":true,"findings":"185c 红灯小径远景：a wide vista looking down from the top of a long sloping hill **a long trail lined by the red lights dipping down into the distance**"}
+{"project":"MECHDRIVER_1","idx":495,"sha8":"a644ab68","len":185,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":496,"sha8":"a644ab68","len":185,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":497,"sha8":"a644ab68","len":185,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}
+{"project":"MECHDRIVER_1","idx":498,"sha8":"a2d1df99","len":6942,"nTasks":1,"models":"default","read":true,"findings":"6,942c 夜行拖拽：night, along the red-beacon-lit trail…**She stops mid-journey, turns to look back at what she's dragging, then turns forward again and continues**"}
+{"project":"MECHDRIVER_1","idx":499,"sha8":"b1c00db2","len":3288,"nTasks":1,"models":"null","read":true,"findings":"3,288c **环境一致性参考声明**：Image-to-image off the Checkpoint Approach reference above, **for architectural/lighting consistency** — same checkpoint, now viewed from ground level, standing directly within it. **This is the environment reference the Ahdeen/Scout dialogue scene will be staged in, so it should show clear, legible space for two characters to occupy**"}
+{"project":"MECHDRIVER_1","idx":500,"sha8":"b1c00db2","len":3288,"nTasks":1,"models":"null","read":true,"findings":"同文重生成（见组首行）"}

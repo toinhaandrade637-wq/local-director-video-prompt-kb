@@ -1,0 +1,192 @@
+Explore
+Image
+Video
+Audio
+Edit
+Cinema Studio 4.0
+Marketing Studio
+3D Jutsu
+New
+MCP & CLI
+Supercomputer
+Academy
+Viral Presets
+Community
+Contests
+New
+Plugins
+Canvas
+Originals
+Pricing
+Enterprise
+Assets
+CREATOR HUB
+Help center
+Blog
+Changelog
+Case studies
+Search Creator Hub
+ON THIS PAGE
+What Is Higgsfield Games
+Game Settings Reference
+How to Create a Game Inside Supercomputer
+How to Create a Game From Claude via Higgsfield MCP
+A Few Things Worth Knowing Before You Start
+Play What the Community Already Built, or Post Your Own
+From a Sentence to Something People Actually Play
+Back
+Higgsfield AI Games: Build a Playable Game from One Prompt
+Higgsfield
+Jul 29, 2026
+8 min
+Last updated: 1w ago
+
+Building a game used to mean picking an engine, learning its logic, becoming or hiring a coder, and sourcing assets, before you even got to designing how the game feels to play. Higgsfield Games collapses that into one step: describe the game in a single detailed prompt, and AI handles the code, the assets, the deployment, and the multiplayer underneath it.
+
+What Is Higgsfield Games
+
+Games is a product that lives inside Supercomputer, Higgsfield's agentic workspace. You describe the game in plain language, an agent plans it, writes the code and logic, generates the assets, and deploys the result automatically. The game runs in the browser the moment it's ready, at a shareable link.
+
+Three things happen without any manual setup on your end. Deploy is handled for you: hosting, build, and a shareable URL are wired in automatically, no separate deployment step. Multiplayer is built in: flip the toggle on, and lobbies plus real-time state sync are already wired into the build. And worlds come from a sentence: pick a style like Pixel Art, Voxel, or 3D, and the agent generates the assets, environments, and characters directly into the game, no modeling, no asset hunting.
+
+Games can be built two ways: inside Supercomputer directly, or through Claude via Higgsfield MCP. Both run on the same underlying generation logic, and the create-a-game bar shows a model selector so you can choose which model actually builds the game for you.
+
+Game Settings Reference
+Game Settings Reference
+
+Setting
+
+	
+
+Options
+
+
+
+
+Genre
+
+	
+
+Shooter, Platformer, Novella, Hypercasual, Racing, Horror
+
+
+
+
+Style
+
+	
+
+Pixel Art, Minimalistic, ASCII, Voxel, Anime, 3D
+
+
+
+
+Setting (world)
+
+	
+
+Medieval, Cyberpunk, Retro, Modern, Space, Fantasy
+
+
+
+
+Multiplayer
+
+	
+
+On/Off toggle
+
+
+
+
+Model
+
+	
+
+Selectable per generation (Kimi K3 shown as the default in the interface)
+
+Genre, Style, and Setting each work as their own tag in the create-a-game bar, so you can combine them directly, a Horror game in a Space setting rendered in ASCII style is as valid a combination as a Racing game set in a Cyberpunk world in 3D. Multiplayer is a single toggle next to those tags, and the model selector sits right beside it if you want to swap which model handles the build.
+
+How to Create a Game Inside Supercomputer
+
+Step 1: Open Supercomputer and go to Gaming.
+
+Step 2: Pick a Genre. One tap from Shooter, Platformer, Novella, Hypercasual, Racing, or Horror.
+
+Step 3: Set the Style and Setting. Style covers the visual register, Pixel Art, Minimalistic, ASCII, Voxel, Anime, or 3D. Setting covers the world, Medieval, Cyberpunk, Retro, Modern, Space, or Fantasy.
+
+Step 4: Toggle Multiplayer if you want it. Off by default, flip it on before generating rather than trying to add it after the build is done.
+
+Step 5: Describe the game in the Create a Game field. The core mechanic, anything specific about how it should play, goes here alongside the tags you've already set.
+
+Step 6: Generate, and approve each stage as it builds. The build runs in stages rather than all at once. First the agent generates the visual assets, characters, environments, in the style you picked, and you approve that visual direction before it moves on. Then it generates audio, and you approve that too. Each stage that generates something, image, audio, and so on, deducts credits at that point rather than one lump sum at the very end. Once every stage is approved, code and logic assemble around the approved assets, and the game deploys automatically to a shareable link the moment it's ready.
+
+Step 7: Publish to the marketplace, or keep it private. Published games appear in the Higgsfield Games marketplace, where other users can find, play, and remix them.
+
+How to Create a Game From Claude via Higgsfield MCP
+
+If you'd rather build from inside a Claude conversation instead of the Higgsfield app, the flow is a one-time setup followed by asking Claude directly.
+
+Step 1: Copy the Higgsfield MCP URL. It's https://mcp.higgsfield.ai/mcp. Click the URL or the copy icon next to it, you'll need it in the next step.
+
+Step 2: In Claude, open Settings → Connectors. Add a custom connector, name it Higgsfield, and paste the URL you just copied. There's a direct "Add Higgsfield MCP" button that takes you straight there.
+
+Step 3: Connect and sign in. Connect the connector, then sign in with your Higgsfield account. Once that's done, just ask Claude to make a game, in plain language, the same way you'd describe it in the Supercomputer bar.
+
+A Few Things Worth Knowing Before You Start
+Write your prompt like a brief, not a wish. Naming the Genre, Style, and Setting tags upfront gets you closer to a usable first build than a vague one-liner typed straight into the Create a Game field.
+Multiplayer is a toggle, not a feature you build. Flip it on before generating rather than trying to add it after the fact.
+The model selector is worth checking before you generate. It defaults to a specific model in the interface, but you can swap it per project if a different one produces better results for your genre.
+If you know how to code, you're not locked out of the details. Open the generated project directly and edit it once the AI build gets you most of the way there.
+Games share the same publish limit as Apps and Websites inside Supercomputer, so if you're also building landing pages or tools, they draw from the same monthly cap.
+Play What the Community Already Built, or Post Your Own
+
+The Higgsfield Games marketplace isn't just where you publish, it's also where you can play what everyone else has already made. Browse published games from other users, try genre and style combinations you haven't built yourself yet, a Horror Novella in ASCII, a Racing game set in Fantasy, and remix a project directly if you know how to code and want to build on top of someone else's idea rather than starting from a blank prompt.
+
+The marketplace has only just launched, so there's naturally less on it right now than there will be later on. That tends to mean early publishers get more visibility simply because there isn't yet a wall of competing listings to sort through. A game published this week has less competing for attention than one published a few months from now, once more people have had time to publish their own.
+
+On average, building a single game starts at around 70 credits($3.50), though the exact cost depends on how many stages you regenerate before approving, a straightforward build that gets approved on the first pass at each stage costs less than one where you iterate on the visuals or audio a few times before locking them in.
+
+Generation for game builds uses your plan's regular credits, the same balance that covers image, video, and audio generation elsewhere on Higgsfield. Unlimited model access on the web platform does not extend to Supercomputer, so every step of a game build, including iterating on a prompt that didn't land the first time, draws from your credit balance as usual.
+
+From a Sentence to Something People Actually Play
+
+The gap between having a game idea and having a game anyone else can open in a browser used to be measured in weeks of learning an engine, or in a budget for a developer. Higgsfield Games closes that gap to the length of one detailed prompt, six genre options, six styles, six settings, a multiplayer toggle, and a few minutes of generation time.
+
+That doesn't make the creative part easier. A good game still needs a genre that fits the idea, a mechanic worth playing more than once, and a world that actually looks like something rather than a placeholder. What it removes is everything that used to sit between having that idea and anyone else being able to try it.
+
+For indie developers testing a concept, marketers building a branded game as a campaign asset, or anyone who's wanted to ship something playable without learning to code first, the marketplace being empty right now is the rare kind of timing that doesn't last.
+
+The building part is solved. What you do with a browser tab, six tags, and one good prompt is still entirely up to you.
+
+HIGGSFIELD AI GAMES: BUILD A PLAYABLE GAME FROM ONE PROMPT
+Build a Game
+GOT ANY QUESTIONS LEFT?
+Do I need to know how to code to build a game with Higgsfield?
+No. Plain language is enough, and setting the Genre, Style, and Setting tags gets you most of the way there. If you do know how to code, you can open the generated project afterward and edit it directly.
+Is multiplayer automatic, or do I have to set it up?
+You flip it on. Once enabled, lobbies and real-time state sync are already wired into the build, no separate multiplayer infrastructure to configure.
+Where does the game get hosted?
+Deployment is handled automatically. The game is hosted and live at a shareable URL the moment it finishes generating.
+How do I build games from Claude instead of the Higgsfield app?
+Copy the MCP URL (mcp.higgsfield.ai/mcp), add it as a custom connector in Claude under Settings → Connectors, connect and sign in with your Higgsfield account, then just ask Claude to make a game.
+What genres, styles, and settings are available?
+Genre: Shooter, Platformer, Novella, Hypercasual, Racing, Horror. Style: Pixel Art, Minimalistic, ASCII, Voxel, Anime, 3D. Setting: Medieval, Cyberpunk, Retro, Modern, Space, Fantasy. All three can be combined freely.
+Can I play games other people have made?
+Yes. The Games marketplace lists published games from every user, and you can browse and play them the same way you'd publish your own.
+How to Make a Short Film With AI: The Full Pipeline From Script to Final Cut
+7 Best Pika Alternatives for AI Video (Tested & Compared)
+Discover more
+View all
+Introducing Higgsfield Apps: Your Way to AI-Powered Apps with No Code
+9 min
+·
+Jul 10, 2026
+8 Best Automated Content Creation Tools (Tested)
+8 min
+·
+Jul 25, 2026
+How to build an App with Higgsfield?
+2 min
+·
+16 Jul, 2026

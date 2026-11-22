@@ -1,0 +1,323 @@
+【项目】Meet Higgsfield Playable Ads and Games: Create Interactive Experiences with AI（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/higgsfield-playable-ads-and-games
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Meet Higgsfield Playable Ads and Games: Create Interactive Experiences with AI
+Higgsfield
+Oct 26, 2026
+10 min
+
+Higgsfield introduces Playable Ads, a new Enterprise-only workflow for creating interactive ads with AI. Describe a game mechanic, choose a genre and dimension, add creative assets, and generate a playable experience in Manual or Auto mode. Higgsfield also offers Playable Games, a tool for creating mobile games available on all Higgsfield plans. Creators can generate games directly on Higgsfield or through Claude using Higgsfield MCP.
+
+What Are Higgsfield Playable Ads and Playable Games?
+
+Higgsfield Playable Ads applies interactive gameplay to advertising. Instead of watching a video, viewers can try a game mechanic as part of the ad experience. The Enterprise workflow includes additional generation controls and options for supplying existing creative assets.
+
+Playable Games lets you describe a game, choose a genre, add references, and generate a 2D or 3D experience. You can start with a simple concept, such as a cat jumping across rooftops, then define the controls, obstacles, and objective.
+
+Both are part of Higgsfield, the generative platform for creative production, with 35+ models and tools.
+
+What Are Higgsfield Playable Ads and Playable Games?
+
+Feature
+
+	
+
+Playable Ads
+
+	
+
+Playable Games
+
+
+
+
+Primary purpose
+
+	
+
+Create interactive game ads
+
+	
+
+Create playable games
+
+
+
+
+Plan access
+
+	
+
+Enterprise only
+
+	
+
+All Higgsfield plans
+
+
+
+
+Generation options
+
+	
+
+Enterprise Playable Ads workflow
+
+	
+
+On Higgsfield or through Claude with Higgsfield MCP
+
+
+
+
+Dimension options
+
+	
+
+2D, 3D, and 3D Fast
+
+	
+
+2D and 3D
+
+How Playable Ads Works for Enterprise
+
+Playable Ads is available exclusively on Higgsfield Enterprise plans. Its workflow starts with a game description and supports optional creative assets, genre selection, dimension settings, and stage approvals.
+
+How Playable Ads Works for Enterprise
+
+Setting
+
+	
+
+What It Controls
+
+
+
+
+Game description
+
+	
+
+The concept, player actions, and game mechanic
+
+
+
+
+Game genre
+
+	
+
+The type of game
+
+
+
+
+Dimension
+
+	
+
+2D, 3D, or 3D Fast
+
+
+
+
+Mode
+
+	
+
+Manual or Auto generation
+
+Manual mode lets you review and approve each stage before proceeding. Auto mode generates without intermediate approvals.
+
+Which Assets Can Be Uploaded to Playable Ads?
+
+All uploads are optional. Start from a description alone or supply assets to guide the look, sound, and game concept.
+
+Which Assets Can Be Uploaded to Playable Ads?
+
+Asset Type
+
+	
+
+Upload Limit
+
+
+
+
+Sprites, textures, and other images
+
+	
+
+Up to 40 images
+
+
+
+
+Video
+
+	
+
+One clip, 3–60 seconds, in MP4, MOV, or WebM
+
+
+
+
+Sound effects and music
+
+	
+
+Up to 20 audio files
+
+
+
+
+An existing game or playable
+
+	
+
+Up to three HTML or ZIP files
+
+These upload limits describe the Playable Ads workflow. They should not be treated as confirmed limits for Playable Games.
+
+Creating Your First Playable Ad
+
+Describe a short interaction that introduces the game mechanic quickly. Choose a genre and dimension, upload any relevant assets, then select Manual or Auto.
+
+Test the result for clear controls, readable visuals, and an understandable objective.
+
+How to Export Your Playable Ad
+
+Playable Ads exports your finished ad as a single .html file up to 5 MB, formatted for your selected advertising network. Choose the destination network and enter the Destination URL, the page users should reach when they click the ad’s call to action, before downloading.
+
+Nine export options are available: Generic MRAID, Moloco, AppLovin, Google App Campaigns, Unity Ads, Meta, Pangle (TikTok), Mintegral, and Liftoff. Once downloaded, upload the file to your advertising platform to set up the campaign.
+
+Which Game Genres Are Available?
+
+The genre selector offers eight categories:
+
+Which Game Genres Are Available?
+
+Genre
+
+	
+
+Example Concept
+
+
+
+
+Shooter
+
+	
+
+Aim at targets while avoiding enemies
+
+
+
+
+Runner
+
+	
+
+Move through traffic and collect coins
+
+
+
+
+Adventure
+
+	
+
+Explore a temple and navigate traps
+
+
+
+
+Action
+
+	
+
+Dodge hazards and overcome obstacles
+
+
+
+
+Strategy
+
+	
+
+Place defenses to protect a base
+
+
+
+
+Maze
+
+	
+
+Guide a ball through a winding route
+
+
+
+
+Puzzle
+
+	
+
+Sort colored liquids into matching bottles
+
+
+
+
+Simulation
+
+	
+
+Clean a muddy vehicle
+
+Choose the genre that best matches the main action. Your description should explain what the player does, how they control it, and what counts as success or failure.
+
+How to Create a Game with Higgsfield Playable
+
+This example creates a delivery scooter game with three traffic lanes, collectible coins, and a restart option.
+
+Step 1: Choose where to generate. Select Generate here to work directly on Higgsfield, or Generate in Claude to use Higgsfield MCP. For the Claude workflow, connect Higgsfield MCP before generating.
+
+Step 2: Describe your game. Write the objective, controls, obstacles, and ending. For example: 
+
+Create a three-lane runner where a delivery scooter moves through city traffic. Let the player tap left or right to switch lanes, collect coins, and avoid cars. Hitting a car ends the run. Display the score and a restart button. Use a bright cartoon style with clearly visible obstacles.
+Copy
+Recreate
+
+Step 3: Choose a dimension. Select 2D or 3D according to the visual style you want. For this example, choose 3D and request a camera positioned behind the scooter.
+
+Step 4: Select the genre. Choose Runner to match the movement and obstacle-dodging mechanic.
+
+Step 5: Add references if needed. Use Add reference to supply visual direction. For example, add an image of the scooter or the character you want to use. References are optional.
+
+Step 6: Generate and test. Click Generate, or Generate in Claude if you selected that workflow. Play through the result and check whether the controls, scoring, obstacles, and restart behavior match your description. Use what you learn from testing to refine your next version.
+
+Explore Existing Games
+
+Open Explore to browse examples and filter them by genre. Click Play to launch an example and try its gameplay. Where available, Recreate provides a starting point for your own version.
+
+The interface also includes My playables for accessing your creations.
+
+Higgsfield Playable Pricing and Access
+
+Playable Games is available on all plans. Playable Ads requires an Enterprise plan. Access and generation costs are separate: availability on a plan does not establish a fixed price per game or ad.
+
+Tips for a Better First Game or Ad
+Start with one mechanic. Give players one clear action to learn before introducing more complexity.
+Describe the controls. Specify tapping, swiping, dragging, or keyboard input rather than leaving the interaction undefined.
+Define the ending. Explain how the player wins, loses, or restarts.
+Give references a purpose. Identify which image should guide the character, object, or environment.
+Test the full interaction. Check the opening, gameplay, scoring, failure state, and restart.
+Use assets you have permission to use. This includes images, music, footage, and existing game files.
+MEET HIGGSFIELD PLAYABLE ADS AND GAMES: CREATE INTERACTIVE EXPERIENCES WITH AI
+Try Playable

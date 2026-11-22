@@ -1,0 +1,43 @@
+{
+ "generated": "2026-11-05",
+ "原则": "02区原件只读不写；本 overlay 记录恢复片段与出处，供读取管线合并与人工复核",
+ "patches": [
+  {
+   "file": "02_完整提示词数据包\\APEIROPHOBIA\\APEIROPHOBIA_all_prompts.jsonl",
+   "line": 6524,
+   "field": "prompt",
+   "idx": 5762,
+   "原文上下文": "s roughly 20��30% of the",
+   "恢复片段": "–40 cm",
+   "来源": "学习的影片全部提示词/APEIROPHOBIA/assets_full.jsonl"
+  },
+  {
+   "file": "02_完整提示词数据包\\PROPHECY_IN_2047\\PROPHECY_IN_2047_all_prompts.jsonl",
+   "line": 92,
+   "field": "prompt",
+   "idx": 1636,
+   "原文上下文": "e like film ��� spray\ncl",
+   "恢复片段": "— sodi",
+   "来源": "学习的影片全部提示词/PROPHECY_IN_2047/assets_full.jsonl"
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LAST_RIDE\\THE_LAST_RIDE_all_prompts.jsonl",
+   "line": 316,
+   "field": "prompt",
+   "idx": 86,
+   "原文上下文": "LLUSTRATION �� real 3D v",
+   "恢复片段": "— real",
+   "来源": "学习的影片全部提示词/THE_LAST_RIDE/assets_full.jsonl"
+  },
+  {
+   "file": "02_完整提示词数据包\\THE_LAST_RIDE\\THE_LAST_RIDE_all_prompts.jsonl",
+   "line": 386,
+   "field": "prompt",
+   "idx": 3214,
+   "原文上下文": " whole film ��� mentor e",
+   "恢复片段": "for he",
+   "来源": "学习的影片全部提示词/THE_LAST_RIDE/assets_full.jsonl"
+  }
+ ],
+ "count": 4
+}

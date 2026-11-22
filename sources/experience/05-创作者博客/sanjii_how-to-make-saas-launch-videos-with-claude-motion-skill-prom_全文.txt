@@ -1,0 +1,419 @@
+【项目】HOW TO MAKE SAAS LAUNCH VIDEOS WITH CLAUDE: MOTION SKILL + PROMPTS（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/zh/@sanjii/blogs/how-to-make-saas-launch-videos-with-claude-motion-skill-prompts
+【提示词块】32
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW TO MAKE SAAS LAUNCH VIDEOS WITH CLAUDE: MOTION SKILL + PROMPTS
+@sanjii
+10.6K
+15
+9
+Recreate Everything
+0:00 / 0:00
+
+What it does: One prompt for Supercomputer that runs this whole guide. It loads the skill, writes the brief and storyboard, animates all five scenes with every fix from Stage 3 baked in, and renders the 30-second video plus the 9:16 and 1:1 cutdowns. Swap [PRODUCT] for your product, or leave it for the demo from the video.
+
+Make me the 30-second SaaS launch video from this guide, built entirely in code and rendered at 60 fps.
+
+
+
+
+1. Download the launch-motion skill from https://d2ol7oe51mr4n9.cloudfront.net/user_3CP7fXM9245iqnzzAR3d5ZvCWkE/354354d6-77a7-4763-8f5b-b922c08bfe8e.zip, unzip it and follow its SKILL.md.
+
+2. Product: [PRODUCT]. If it's still in brackets, use the filled example brief and storyboard from the skill's references (the AI-agents demo). If I name my product, write a new brief and a 5-scene storyboard with the same templates: hook, problem, product, payoff, logo + CTA.
+
+3. Build the UI as crisp vector components, never screenshots, and animate every scene in Remotion by the skill's motion rules.
+
+4. Bake in every fix and polish: canvas locked to 1920x1080 and positioned from the center, fonts loaded before frame 0, count-ups that last about a second, agent cards that come in one by one and land before their checkmarks, eased camera moves, a soft red glow on the counter, a cursor that hesitates between tabs, a pulse on each card when it starts working, a checkmark cascade, and a camera pull-back when the counter hits zero.
+
+5. Render one still per scene and fix anything that overlaps or leaves the canvas. Then render the 1920x1080 mp4 with a music bed and light click sounds (no voiceover), plus the 9:16 and 1:1 cutdowns.
+
+查看全部
+复制提示词
+重新创作
+Stage 1 — The Inputs
+The Client Brief
+
+What it does: Fills in the client brief for your product: who it's for, the one message to land and what the video must show. If Supercomputer doesn't know your product yet, it asks three quick questions first. The same template is inside the skill.
+
+Fill in this client brief for my product. If you don't know my product yet, ask me three short questions first, then fill in every line.
+
+
+
+
+[PRODUCT] — 30-second launch video
+
+
+
+
+Company: [PRODUCT] is a [what it is, one line: who it helps and what it takes off their plate].
+
+Audience: [roles and company size].
+
+Goal: launch video for [Product Hunt / website hero / paid social].
+
+One message: [the single sentence the viewer should remember].
+
+
+
+
+Must show:
+
+1. The hook: [the pain in one image].
+
+2. The problem: [what the user does today, and why it hurts].
+
+3. The product: [the key feature, in the real UI].
+
+4. The payoff: [the result after the product does its job].
+
+5. Logo + CTA.
+
+
+
+
+Tone: confident, clean, fast. Premium SaaS launch, not cartoonish. No voiceover, music + SFX only.
+
+Deliverables: 30 s master in 16:9 (1920 × 1080, 60 fps), plus 9:16 and 1:1 cutdowns.
+
+Assets: Figma file with the UI screens, brand guide (colors, fonts), logo SVG, background images.
+
+Deadline: [date], before launch.
+
+查看全部
+复制提示词
+重新创作
+The Storyboard
+
+What it does: Turns your brief into the source of truth for scene order, timing, on-screen content and camera. Claude never reorders, adds or drops a scene from it. The example inside is the one used in the video, for a B2B AI-agents product.
+
+Write the storyboard for my launch video from my brief, in exactly this format: five scenes (hook, problem, product, payoff, logo + CTA), each with what's on screen, the motion, the camera and its frame range at 60 fps, adding up to 30 seconds. Follow this example:
+
+
+
+
+[PRODUCT] launch video — storyboard
+
+30.0 s · 1920 × 1080 · 60 fps · 1800 frames
+
+
+
+
+Scene 1 · Pile-up (hook) — 0:00–0:04, frames 0–240
+
+On screen: dark background. Task cards ("Update CRM", "Export leads", "Weekly report", "Sync invoices", "Chase approvals"…) drop in and stack into a pile. Counter top-right: "Open tasks 0 → 200". Kinetic headline: "200 tasks. Before lunch."
+
+Motion: cards drop with overshoot, staggered. Counter counts up over ~1 s. Headline word by word.
+
+Camera: slow push-in 100% → 106%.
+
+
+
+
+Scene 2 · Copy-paste grind (problem) — 0:04–0:11, frames 240–660
+
+On screen: three app windows: CRM, spreadsheet, inbox. Cursor copies a row in the spreadsheet, arcs over and pastes it into the CRM, hesitates, moves on to the inbox. Text: "Copy. Paste. Repeat."
+
+Motion: cursor on arcs, click presses, highlighted rows.
+
+Camera: easy-ease pan left → right, following the cursor.
+
+
+
+
+Scene 3 · Agents kick in (fix) — 0:11–0:19, frames 660–1140
+
+On screen: [PRODUCT] dashboard (Figma SVG). Cursor types "Hand off today's busywork" into the prompt bar and clicks Run. Four agent cards come in: CRM Agent, Data Agent, Inbox Agent, Report Agent. Tasks fly from the pile into the cards.
+
+Motion: Run button press. Cards staggered, each card works with a progress bar.
+
+Camera: zoom into the prompt bar on the click (≈130%), then ease back to 100% for the cards.
+
+
+
+
+Scene 4 · Payoff — 0:19–0:25, frames 1140–1500
+
+On screen: checkmarks appear on the agent cards. Counter drops 200 → 0. Text: "Zero busywork."
+
+Motion: counter counts down over ~1 s. Hold the clear board ≥ 1.5 s.
+
+Camera: pull back to reveal the whole board, clear.
+
+
+
+
+Scene 5 · Logo + CTA — 0:25–0:30, frames 1500–1800
+
+On screen: board scales away. [PRODUCT] logo builds. Tagline: "AI agents for the work nobody wants to do." CTA: "Live on Product Hunt · [product].com".
+
+Motion: logo build, tagline with offset, slow drift to the end.
+
+Camera: gentle push-in.
+
+查看全部
+复制提示词
+重新创作
+Brand, Backgrounds and UI
+
+What it does: Makes the brand colors, fonts, logo, backgrounds and UI the video needs. The UI comes out as SVG, not screenshots: when the camera zooms into a button, an SVG stays razor sharp and a screenshot turns into a blurry mess.
+
+Make the inputs for my launch video from my brief and storyboard:
+
+1. Brand: two or three colors with hex codes and one font pairing.
+
+2. Logo: a simple logo as SVG.
+
+3. Backgrounds: three clean 16:9 background images to sit behind the UI.
+
+4. UI: every screen the storyboard needs as SVG, not screenshots, so it stays sharp when the camera zooms in.
+
+Give me everything as files I can attach to the build prompt.
+
+查看全部
+复制提示词
+重新创作
+Stage 2 — The Prompting Framework
+
+Download the skill and add it to Claude: upload the zip in Claude's Skills settings, or unzip the launch-motion folder into ~/.claude/skills/ if you work in Claude Code.
+
+launch-motion.skill
+SKIL
+
+
+
+
+What's inside is everything a senior motion designer carries around in their head:
+
+Story. Grab attention, show the problem, show how the product fixes it, finish with the payoff. If a scene doesn't serve one of those, it's out.
+Timing. Anything important stays on screen for about a second and a half. Count-ups last about a second.
+Motion rules. Nothing moves linearly. Things come in over about half a second with a slight overshoot and leave faster than they came in. Every click gets a tiny press, and the cursor moves in an arc, like a real hand.
+The golden rule. Nothing should ever fully stop. Claude works the way you would in After Effects: related elements sit under one parent (a null object), keyframes are offset a couple of frames apart, and the next move starts before the last one has settled.
+Tech specs. 1920 × 1080 at 60 fps, everything positioned from the center, with safe zones so the 9:16 and 1:1 cutdowns keep everything important in frame.
+
+Two strict rules before you hit generate:
+
+
+
+
+Storyboard first, then animation. Without a storyboard Claude starts guessing: scenes in random order, everything moving at once, no story.
+If it's motion, you have to teach it. Feed Claude your UI components and brand, and let the skill define the easing and the baseline.
+Stage 3 — The Prompts
+
+Everything runs in one Claude chat, in this order. The first message carries the skill plus every input from Stage 1. The fixes below came from the first render of the storyboard above: swap the element names (task counter, agent cards) for yours. Each of these fixes is already baked into the skill's pre-render checklist, so with the skill you'll mostly need the polish prompts.
+
+Prompt 1 — Build the Video
+0:00 / 0:00
+
+What it does: Turns every storyboard scene into its own block of code, then renders the whole 30-second video frame by frame.
+
+Using the motion skill, build this storyboard as a 30-second launch video, scene by scene.
+
+复制提示词
+重新创作
+Fix 1 — Lock the Canvas
+0:00 / 0:00
+0:00 / 0:00
+
+What it does: Figma screens are designed 1440 px wide and the video is 1920. This stops the layout from exploding off the canvas.
+
+Lock the canvas to 1920 by 1080 and position everything relative to the center, not the edges.
+
+复制提示词
+重新创作
+Fix 2 — Load the Font
+0:00 / 0:00
+0:00 / 0:00
+
+What it does: Stops the font from falling back to Times New Roman on the first frames.
+
+Load the font before rendering anything.
+
+复制提示词
+重新创作
+Fix 3 — Counter Timing
+0:00 / 0:00
+0:00 / 0:00
+
+What it does: Turns a one-frame jump into a count-up you can actually read.
+
+Task counter: make the count-up last about a second. Long enough to read, but quick enough that it doesn't drag.
+
+复制提示词
+重新创作
+Fix 4 — Stagger the Cards
+0:00 / 0:00
+0:00 / 0:00
+
+What it does: Brings the cards in one at a time instead of stacking them all on the same frame.
+
+Agent cards: bring them in one by one, a few frames apart, and let each card land before its checkmark appears.
+
+复制提示词
+重新创作
+Fix 5 — Ease the Camera
+0:00 / 0:00
+0:00 / 0:00
+
+What it does: Slows a pan that's too fast to follow and softens its start and stop.
+
+Camera: slow down the pan and give it an easy ease, so it starts and stops softly.
+
+复制提示词
+重新创作
+Polish 1 — Counter Glow
+0:00 / 0:00
+
+What it does: Adds a soft red glow to the counter as the task count climbs.
+
+Give the task counter a soft red glow as it climbs.
+
+复制提示词
+重新创作
+Polish 2 — Cursor Hesitation
+0:00 / 0:00
+
+What it does: Makes the cursor pause between tabs, so the copy-paste grind feels human.
+
+Make the cursor hesitate between tabs for about a second, like you're losing track of what you were copying.
+
+复制提示词
+重新创作
+Polish 3 — Card Pulse
+0:00 / 0:00
+
+What it does: Gives each card a small pulse the moment it starts working.
+
+Give every agent card a small pulse when it starts working.
+
+复制提示词
+重新创作
+Polish 4 — Checkmark Cascade
+0:00 / 0:00
+
+What it does: Sends the checkmarks down the list one after another instead of all at once.
+
+Cascade the checkmarks down the list instead of showing them all at once.
+
+复制提示词
+重新创作
+Polish 5 — Camera Pull-Back
+0:00 / 0:00
+
+What it does: Pulls the camera back when the counter hits zero, so the payoff shows the whole clear board.
+
+When the counter drops back to zero, pull the camera back so we finally see the whole board clear.
+
+复制提示词
+重新创作
+Client Revision — One Line
+
+What it does: Shows why revisions take minutes here: one value changes in code and the video re-renders, with no project to reopen and no keyframes to fix.
+
+The client wants the task counter to go to 999 instead of 200. Update it and re-render.
+
+复制提示词
+重新创作
+Bonus — The Pitch Message
+
+This is the proposal that lands launch-video clients on Upwork, even without a portfolio. The first two lines are about their product, because that's all the client sees in the preview. The concept replaces the portfolio, and the small first milestone means the client takes almost no risk. The same template is inside the skill.
+
+
+
+
+Hi [Name],
+
+Just went through [Product]. The [specific feature, e.g. "AI search across all your docs"] is the moment that will sell this in a launch video. Here's how I'd do 30 seconds:
+
+0–5s: Hook. The problem in one line ("[pain point]"), bold kinetic type.
+5–20s: Product in action. [Feature] animated straight from your UI, with fast camera moves and no fluff.
+20–30s: Payoff. [Key benefit], your logo, and a clean CTA for [Product Hunt / your site].
+
+How it works:
+1. Storyboard and styleframes in [3–4] days, so you see exactly how it will look before any animation starts.
+2. Full animation in [X] days, with 2 revision rounds.
+3. Final delivery in 16:9, plus 9:16 and 1:1 cutdowns for socials.
+
+Milestone 1 covers only the storyboard and styleframes, so you can judge the look with minimal risk.
+
+Quick question: do you have the UI in Figma, or should we work from screenshots?
+
+[Your name]
+
+
+
+
+Before you apply, check four things: the client has payment verified, $10K+ spent and a hire rate above 50%; the post is less than 30 minutes old; there are fewer than 15 proposals and nobody is interviewing yet; and the company's site shows it's real, ideally freshly funded and about to launch.
+
+Ready To Make Your Own?
+
+Clients don't buy this because they care about code or keyframes. They buy a launch-ready video by the next day. Grab the skill, write a storyboard for your own product, run Prompt 1, then polish with one-line fixes.
+
+READY TO MAKE YOUR OWN?
+GO!
+目录
+Recreate Everything
+Stage 1 — The Inputs
+The Client Brief
+The Storyboard
+Brand, Backgrounds and UI
+Stage 2 — The Prompting Framework
+Stage 3 — The Prompts
+Prompt 1 — Build the Video
+Fix 1 — Lock the Canvas
+Fix 2 — Load the Font
+Fix 3 — Counter Timing
+Fix 4 — Stagger the Cards
+Fix 5 — Ease the Camera
+Polish 1 — Counter Glow
+Polish 2 — Cursor Hesitation
+Polish 3 — Card Pulse
+Polish 4 — Checkmark Cascade
+Polish 5 — Camera Pull-Back
+Client Revision — One Line
+Bonus — The Pitch Message
+Ready To Make Your Own?
+Ready To Make Your Own?
+
+评论9
+
+fibonacciraccoon1178
+4d
+How did you handle the sound design for this video? Did you use a specific prompt or follow a set of instructions to generate and sync the sound effects with the animations?
+1
+回复
+显示 1 条回复
+fibonacciraccoon1178
+4d
+How did you handle the sound design for this video? Did you use a specific prompt or follow a set of instructions to generate and sync the sound effects with the animations?
+回复
+nexusfutbol
+6d
+This is soooo good! Thank you!
+回复
+brutalistmushroom1968
+1w
+Hi! I’m also just learning about this. As far as I know, Claude has a connector to Higgsfield that uses an MCP link.
+回复
+显示 2 条回复
+laplacemantis1860
+1w
+Thank you so much for sharing this!
+
+I’d like to ask you a question. When I click here to use ChatGPT or Claude, do I also need to use Higgsfield? How does this integration work?
+
+And one more thing: do you have any tutorials, courses, or other learning materials where you teach more about these tools? I’d really love to learn more!
+……更多
+1
+回复
+显示 1 条回复
+
+© 2026 Higgsfield, Inc. 保留所有权利。
+
+帮助中心
+Cookie 声明
+条款
+隐私
+报告漏洞

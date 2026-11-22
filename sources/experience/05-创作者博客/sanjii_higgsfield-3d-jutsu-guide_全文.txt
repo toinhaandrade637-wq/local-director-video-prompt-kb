@@ -1,0 +1,135 @@
+【项目】HIGGSFIELD 3D JUTSU: GUIDE（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/higgsfield-3d-jutsu-guide
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HIGGSFIELD 3D JUTSU: GUIDE
+@sanjii
+26
+0
+0
+
+A buggy races through mud. The camera bounces with the terrain, the track bends ahead, and an explosion lands just as the vehicle passes it. Before generating the finished video, you need to decide where those things happen and what the camera sees.
+
+
+
+
+Higgsfield 3D Jutsu gives you a scene to work those decisions out. Describe the shot, review its layout and movement, and refine the parts that need attention before moving into final video generation.
+
+
+
+
+This guide starts with one short prompt and shows how to develop it into a clearer shot plan.
+
+What Is Higgsfield 3D Jutsu?
+
+3D Jutsu is Higgsfield's 3D workspace, with GPT-6 Astra available as one of the models driving its AI agent. It creates editable scenes with objects, lighting, cameras, and animation, and lets you adjust individual objects as you develop the shot. Higgsfield's release announcement.
+
+
+
+
+For the buggy example, that means deciding where the vehicle travels, how the camera follows the action, and where an effect should appear within the frame.
+
+Before You Start
+
+Open 3D Jutsu, choose GPT-6 Astra, and set a duration and aspect ratio for your scene. The browser workspace accepts plain-language instructions and requires no Blender installation or prior 3D experience. Official 3D Jutsu guide.
+
+For a first attempt, keep the idea to one continuous shot. A single camera move makes it easier to judge what needs changing.
+
+Stage 1 — Build the Starting Scene
+Start with the Buggy Prompt
+
+What it does: Gives the agent the subject, action, environment, and a starting camera direction.
+
+
+
+
+Copy into 3D Jutsu:
+
+POV camera, buggy racing through the mud.
+
+That short request leaves plenty of creative decisions open. Review how the agent interprets the point of view, the route, and the speed before adding more detail.
+
+In particular, decide what “POV” means for your shot. A camera inside the driver's position produces a different experience from a camera following another buggy. For this walkthrough, use the driver's view, with a little of the hood visible at the bottom of the frame.
+
+Make the Camera Direction Specific
+
+What it does: Clarifies the viewpoint and gives the movement a simple beginning, middle, and end. Use this as an optional follow-up to the starting prompt.
+
+Copy into 3D Jutsu:
+
+Refine this into one continuous driver's-POV shot from inside the buggy. Keep a small part of the hood visible at the bottom of the frame. The buggy accelerates along a muddy track, follows a gentle left bend, and exits onto a straight section. Keep the camera attached to the vehicle, with restrained movement over the bumps and a clear view of the track ahead.
+
+Watch the turn closely. The viewer should be able to anticipate the bend and follow the vehicle through it. If the camera movement obscures the road, reduce it before adding more action.
+
+Stage 2 — Place the Action
+Give Effects a Position and a Purpose
+
+An explosion needs a place in the sequence. Decide when it happens, which side of the road it occupies, and how long it remains visible.
+
+
+
+
+The original buggy prompt does not request an explosion. Add one explicitly if it belongs in your concept, and begin with a simple placeholder that lets you check its timing.
+
+
+
+
+What it does: Adds a proposed effect cue while preserving the route and camera direction.
+
+
+
+
+Copy into 3D Jutsu:
+
+Keep the current buggy route and camera path. Add a simple placeholder for one explosion beside the track as the buggy exits the left bend. Place it on the right, outside the driving line. Time the burst so it is visible ahead before the buggy passes it. Keep the road readable and the camera view unobstructed.
+
+Review the sequence at normal speed. The bend and the burst should be easy to understand in order. If both compete for attention at the same moment, move the effect farther along the track or delay it.
+
+Stage 3 — Check the Scene Before Exporting
+
+Before moving into final video generation, play the camera view from start to finish. Look for specific problems:
+
+Framing: Can you see enough of the road to follow the action?
+Movement: Does the buggy's route feel continuous through the turn?
+Geometry: Does the camera pass through the vehicle or surrounding objects?
+Timing: Is there enough time to notice the effect before passing it?
+
+Ask for a focused change when something fails. “Move the burst farther down the straight” gives the agent a clearer revision than “make the scene more cinematic.”
+
+Keep the parts that already work. Once the camera path is approved, use it as a constraint in later requests.
+
+Stage 4 — Turn the Plan into an AI Video
+
+Export the camera animation as an MP4 to create a moving reference, often called a previz. 3D Jutsu also supports still-frame and GLB exports. The same chat can use the preview and visual references to continue into video generation. Export and workflow details.
+
+
+
+
+For the buggy shot, choose references that establish the vehicle's appearance and the muddy environment. Explain which parts of the preview should guide the result: the driver's viewpoint, the left turn, and the position and timing of the burst.
+
+Keep the intended final appearance clear as well. A rough placeholder establishes where an effect belongs; the finished shot still needs convincing mud, lighting, materials, and motion.
+
+
+
+
+Review the generated video against the preview. Check whether it follows the intended camera movement and sequence of events before adding sound or placing it into a longer edit.
+
+How This Can Help You Use Credits More Deliberately
+
+Planning in 3D gives you a chance to catch an awkward camera angle or poorly timed action before requesting another finished video.
+
+
+
+
+That can reduce avoidable attempts, but savings depend on the work involved. Higgsfield charges credits for messages sent with specific models, including Astra; its guide lists Auto messages as free and says message estimates appear before sending. Check the displayed costs as you work. 3D Jutsu pricing explanation.
+
+A useful habit is to give each generation a clear question to answer. First check the route. Then check the camera. Then check the effect timing. Move to the final look once those decisions hold together.
+
+Ready to Build Your First Scene?
+
+Start with the buggy prompt, choose a clear point of view, and review one complete camera move. Develop the scene until its action is easy to follow, then use that plan to guide your finished video.
+
+Open Higgsfield 3D Jutsu

@@ -1,0 +1,707 @@
+【项目】HOW TO MAKE A VIDEO OF THE GIRL WITH A PEARL EARRING TAKING A KEYBOARD LESSON FROM BACH — HIGGSFIELD GENJUTSU（@shion_movie_creator · 创作者博客）
+【链接】https://higgsfield.ai/@shion_movie_creator/blogs/bach-higgsfield-genjutsu
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW TO MAKE A VIDEO OF THE GIRL WITH A PEARL EARRING TAKING A KEYBOARD LESSON FROM BACH — HIGGSFIELD GENJUTSU
+@shion_movie_creator
+638
+0
+1
+updated: 2026-10-04
+How to Make a Video of the Girl with a Pearl Earring Taking a Keyboard Lesson from Bach — Higgsfield Genjutsu
+
+I made this with Higgsfield Genjutsu. The Girl with a Pearl Earring takes a keyboard lesson from Bach, who's wearing sunglasses. Here's the whole build.
+
+
+
+
+
+
+
+Make original video with Higgsfield Genjutsu 
+
+Step 1. How to use Genjutsu
+
+Higgsfield Genjutsu lets you create a new video by preserving the motion, camera work, and timing of a reference video while replacing its characters, locations, clothing, and props with your own visual references.
+
+
+
+
+This guide explains the Motion transfer workflow shown in the accompanying screen recordings.
+
+About the interface 
+
+
+These screenshots were captured on September 25, 2026. Button names, placement, and credit costs may change as the service is updated.
+
+
+What You Need 
+A reference video whose motion you want to copy (the interface specifies 4–30 seconds)
+Reference images for the characters
+Reference images for the background or location
+Reference images for clothing and props, if needed
+A prompt describing the intended result
+
+
+
+
+You can add up to 30 reference images. However, too many images can make their relationships difficult to manage. For your first attempt, focus on the main characters, locations, and essential props.
+
+Workflow 
+Step 1. Open Genjutsu 
+
+Open Genjutsu from the top menu, select Create Video in the upper-left corner, and then choose Motion transfer.
+
+
+
+
+
+
+
+Use Motion transfer when you want to rebuild the performance or movement of a reference video with different characters or a different world. If you only need to replace a specific object, Objects swap may be the better option.
+
+Step 2. Add the Reference Video
+
+Click Add a reference video to extract motion and select the source video whose movement you want to reproduce.
+
+
+
+
+
+
+
+A clear reference works best: keep the main subject inside the frame, use readable motion, avoid long periods where the face or hands are hidden, and limit unnecessary cuts.
+
+Step 3. Add Character, Location, and Prop Images 
+
+Click the Add your characters, products, or clothes area and select the images you want to use. Previously uploaded assets can be selected together. Make sure every required image has a green check mark.
+
+
+
+
+
+
+
+
+
+
+The assets will later appear as Image 1, Image 2, and so on. Check their order after adding them.
+
+Step 4. Enable Prompt and Enter Your Instructions 
+
+Turn on the Prompt switch, then type or paste your instructions.
+
+
+
+
+
+
+
+
+
+
+For a clearer prompt, separate what should be preserved from the reference video, what should be replaced, the role of each reference image, what must not change, and the required frame-to-frame consistency.
+
+Step 5. Assign Each @ Mention to a Reference 
+
+Click an @ mention in the prompt and assign it to the appropriate Video 1, Image 1, Image 2, or another item from the menu.
+
+
+
+
+
+
+
+
+
+
+For example, you might use Video 1 for motion, camera work, timing, and cuts; Image 1 and Image 2 for locations; Image 3 for a prop; and Image 4 and Image 5 for characters.
+
+The numbering depends on the order in which you added the assets. Do not rely on the number alone—check each thumbnail before assigning it.
+
+Step 6. Select Higgsfield Genjutsu as the Model 
+
+Open Model and select Higgsfield Genjutsu.
+
+
+
+
+
+
+
+If it is already selected, you can leave the setting unchanged.
+
+すでに選択済みの場合は、そのままで構いません。
+
+Step 7. Choose the Output Quality 
+
+Open Quality and choose 480p, 720p, or 1080p based on your intended use.
+
+
+
+
+
+
+
+Use 480p for test generations, 720p for social-media previews, and 1080p for final output. Higher quality may require more credits, so it is usually best to validate the composition and replacements at a lower resolution first.
+
+Step 8. Start the Generation
+
+After checking the reference video, images, prompt, model, and quality, click Generate.
+
+
+
+
+
+
+
+The button displays the number of credits required for the current settings. Always check the amount before starting the generation.
+
+Step 9. Review the Result in History
+
+When the generation is complete, open History and play the finished video. Use the icons beside each result to download it or access additional actions.
+
+Step 2. Pick the trend video you'll build on
+Point
+
+The source is a video of two people making a track in a white studio with a small keyboard and a laptop. The person on the left plays the keyboard. The person on the right works the laptop and hypes things up. At the end, the two walk toward the camera.
+
+
+
+
+Use the original video whenever you can. Plenty of versions of this video have already been remade by other people with Genjutsu. I tried both kinds.
+
+
+
+
+Source video
+
+	
+
+Result
+
+
+
+
+Another account's Genjutsu remake (an old man with a long white beard and a small person)
+
+	
+
+The person on the left became the Pearl girl. The old man with the white beard stayed, and only his coat turned Bach's colour
+
+
+
+
+The original
+
+	
+
+Both people were fully replaced
+
+
+
+
+When you use a remake, the people drawn in it stay underneath as a base layer. It happens most when the old and new person look alike (here, both were "an older man with white hair").
+
+
+
+
+Once you've chosen the source, break it into frames every 0.5 seconds and read them one by one. Watching it play, you'll miss the small cuts. It's easy to hand the local video to Claude Code and have it lay out the 0.5-second frames in one image. Right around each cut, look even closer, in 0.03-second steps.
+
+
+
+
+
+
+
+
+
+
+My source is 4:3, 30.00 seconds, split into six shots.
+
+Shot
+
+	
+
+Seconds
+
+	
+
+Transition
+
+	
+
+Left person (→ Pearl girl)
+
+	
+
+Right person (→ Bach)
+
+
+
+
+A
+
+	
+
+0.00–3.40
+
+	
+
+—
+
+	
+
+Stands at the front-left corner of the table, plays the keyboard
+
+	
+
+Stands on the far side of the table. Raises an arm high and 
+
+
+
+
+points up at an angle at 2.6–3.3 s
+
+
+
+
+B1
+
+	
+
+3.40–7.62
+
+	
+
+Cut (slightly closer)
+
+	
+
+Bends forward and plays
+
+	
+
+Comes in beside her until their heads touch
+
+
+
+
+B2
+
+	
+
+7.62–11.19
+
+	
+
+Cut (wide)
+
+	
+
+Steps back from the keyboard, laughs and claps
+
+	
+
+Steps out past the right end of the table with an arm up, then goes back behind it
+
+
+
+
+B3
+
+	
+
+11.19–20.90
+
+	
+
+Cut (same close framing as A)
+
+	
+
+Plays standing upright
+
+	
+
+Talks with a hand on his chest, points from 19.5 s
+
+
+
+
+C
+
+	
+
+21.05–24.66
+
+	
+
+White flash
+
+	
+
+The camera circles round, so she's seen on the far side of the table
+
+	
+
+In front of the table, singing very close to the lens
+
+
+
+
+D
+
+	
+
+24.73–30.00
+
+	
+
+White flash
+
+	
+
+Facing each other and talking, starts walking at 25.5 s
+
+	
+
+Walks toward the camera side by side with her
+
+
+
+
+B1→B2 and B2→B3 are cuts where the camera keeps the same direction and only the framing and pose jump. On a white background they're easy to miss, so check them frame by frame.
+
+
+
+
+Write down where each person stands in every shot, too. If you don't write "which side of the table they're on" and "where the camera moves", the people drift out of place in the result. For arms, write "the arm on the screen-right side" instead of "the right arm". When someone faces the camera, their right arm is on the left side of the screen.
+
+Step 3. Character sheets
+Point
+
+Each person sheet has four panels: front, side, back and a close-up of the face. Add more panels and the face starts to drift.
+
+Show one person per sheet, standing only. If you add a panel of clothes laid out on the floor, or a flat-lay photo, Genjutsu reads it as "clothing to put on". Then the video just dresses the original person in new clothes.
+
+For Bach, I used Haussmann's 1748 portrait as the base. The right person in the source had a long white beard and a robe, so the sheet clearly shows "no beard, no cloak".
+
+I left the sunglasses out of the sheet and wrote "he's wearing them from 21.05 s" in the video prompt. One sheet keeps the face steadier than giving it two sheets of the same person (with and without sunglasses).
+
+For the Girl with a Pearl Earring, I reused a sheet from an earlier video. I made it twice and went with the second one (v2).
+
+I generated the images with GPT.
+
+The prompt I used (@cha_bach)
+
+
+
+
+Character reference turnaround sheet of ONE person, horizontal 16:9, four panels: full body front view, full body side profile, full body back view, and a close portrait. For identity, wardrobe and material lock. Photorealistic — a live-action studio photograph of one real man standing, not an illustration, not a painting, not a render.
+
+WHO
+Johann Sebastian Bach as he appears in the 1748 portrait by Elias Gottlob Haussmann, brought to life as a real man: about 63 years old, 178 cm tall, a sturdy heavy-set build with broad shoulders and a solid belly, a broad round face, full cheeks, a soft double chin, heavy eyebrows, a strong straight nose, a firm closed mouth with slightly downturned corners. Fair northern-European skin with real pores, light ruddiness on the cheeks and nose, fine wrinkles at the eyes and forehead.
+
+CLEAN-SHAVEN — CRITICAL
+His face is completely clean-shaven. There is no beard, no moustache, no goatee, no stubble, no sideburns below the ear. The chin, jaw, upper lip and throat are bare skin. Not a short beard, not a trimmed beard, not grey stubble.
+
+THE WIG
+A powdered off-white to pale-grey periwig of the 1740s: the hair is brushed straight back from the forehead with no fringe; at each side of the head, over and behind the ears, sits a stack of three horizontal rolled curls; behind them, the hair falls in soft tight curls to the top of the shoulders. The wig ends at the shoulders. It is not long flowing hair, not straight hair, not hair down the back, and it is never loose or windswept.
+
+
+WARDROBE — the structure, from inside out
+A white linen shirt; at the throat a plain white linen cravat tied in a simple soft knot, its ends tucked in.
+A knee-length waistcoat of very dark brown wool, closed down the front with a row of small cloth-covered buttons.
+Over it, a knee-length coat (justaucorps) of the same very dark brown, almost black, matte wool: fitted at the chest, flaring into stiff full skirts from the waist to the knee, with deep turned-back cuffs at the wrists and a single row of small cloth-covered buttons down the open front. The coat has NO collar, NO hood and NO cape.
+Black wool knee breeches, white wool stockings, black leather shoes with a plain square steel buckle.
+Every surface is plain cloth: no embroidery, no gold trim, no emblem, no medal, no pattern.
+
+NOT A WIZARD — CRITICAL
+He wears no cloak, no robe, no cape, no hood, no long grey gown, no wide hanging sleeves, no pointed hat, no scarf. He holds no staff, no stick, no cane. Hands are empty in every panel.
+
+THIS SHEET SHOWS ONE SINGLE PERSON
+One person seen from four angles. It is a PERSON reference, not a costume sheet: NO clothes laid out on the floor, NO flat-lay, NO separate objects, NO mannequin, NO person lying down, NO second person. He is standing in panels 1, 2 and 3.
+
+SHEET LAYOUT — four panels side by side, neutral seamless mid-grey studio background, identical soft flat lighting in all four
+Panel 1 — full body, front view, standing upright, arms relaxed at the sides.
+Panel 2 — full body, side profile facing screen-left, standing upright: the rolled side curls of the wig and the flare of the coat skirts clearly readable.
+Panel 3 — full body, back view, standing upright: the back of the wig ending at the shoulders and the back of the coat clearly visible.
+Panel 4 — close portrait, shoulders up, facing camera: the clean-shaven chin, the side curls and the cravat clearly readable.
+
+LIGHTING
+Soft even front-key studio lighting, low contrast, neutral daylight ~5600K. Identical in all four panels.
+
+REALISM LOCK
+Real aged skin with pores and fine wrinkles. A real powdered wig with individual hair strands and a faint matte powder. Real heavy wool with nap and weight; real linen with soft creases. No illustration, no oil-painting texture, no CG sheen, no plastic skin, no beauty filter, no costume-shop polyester.
+
+POSITIVE CONSTRAINTS
+Exactly ONE man, standing in panels 1-3. Same face, same wig, same coat in all four panels. Clean-shaven in all four panels. Hands empty. No text anywhere.
+The prompt I used (@cha_pearl_girl-v2)
+
+
+
+
+SCENE CONTEXT
+Character reference turnaround sheet of the young woman of Vermeer's "Girl with a Pearl Earring", reimagined as a photoreal live-action person, in three full-body views (front, profile, back) plus one close frontal portrait, for identity, wardrobe and material lock.
+
+CHARACTER ANCHORS
+Young woman around 20, oval face with soft full cheeks, large clear grey-blue eyes, a small straight nose, full lips slightly parted as if about to speak, luminous pale skin with natural texture. Slender build, quiet upright posture. No hair visible — the turban covers it completely.
+
+HAIR SPECIFICATION
+Fully covered. Ultramarine-blue linen turban wrapped close to the head, with a long tail of pale yellow-ochre cloth falling from the crown down behind the left shoulder to the shoulder blades.
+
+WARDROBE REFERENCE
+Plain ochre-brown wool jacket, unfitted, with a wide plain white linen collar folded flat. A long dark brown wool skirt to the floor, a plain linen apron. Simple dark leather shoes.
+
+ATTRIBUTES / PROPS
+One large teardrop pearl earring on the left ear, catching light with a single bright highlight — the only ornament.
+
+BODY AND PRESENTATION LOCK
+Her signature pose: body turned three-quarters away from camera, head turned back over the left shoulder to meet the viewer's eyes, lips parted. Same face, same turban, same pearl in every panel.
+
+SHEET LAYOUT
+Single reference sheet, four panels on a neutral seamless dark-grey studio background (dark, to match the painting's black ground), identical soft lighting across all panels.
+Panel 1 — full body, front view, neutral standing pose, face to camera, lips parted.
+Panel 2 — full body, profile view (screen-left facing), turban tail visible.
+Panel 3 — full body, back view, turban tail down the back.
+Panel 4 — close portrait, shoulders-up, the over-the-shoulder glance exactly as in the painting: body turned away, head turned back, pearl visible.
+
+LIGHTING
+Soft directional key from screen-left (window light), gentle fill, neutral daylight white balance (~5600K). The pearl and the lower lip each carry one small specular highlight.
+
+REALISM LOCK
+Real skin with pores and faint down, real linen with visible weave, real wool with nap, a real pearl with nacre and a true reflection. No painterly rendering, no CG-clean geometry, no plastic skin.
+
+POSITIVE CONSTRAINTS
+Same face, same turban colours (blue wrap, yellow tail), same collar, same single pearl across all four panels. No visible text, no picture frame, no painting in the image. Not a child — an adult woman around 20.
+Step 4. Location
+Point
+
+The background is Vermeer's studio. I made it a long room with light coming in from the windows on the left. In the last shot the two walk across the floor, so the floor needs to be clear in a straight line from the back of the room to the front.
+
+Keep people out of the background image. If there's a person in it, the video gets pulled toward that person's pose.
+
+I also made a second, blurred version of the background. In shot C, his face comes right up to the lens, so the background should be heavily out of focus. But even if the prompt says "blur the background", a sharp background image comes out sharp. Blur the background image itself before you upload it, and you get the blur. I had Claude Code blur a copy of the original image for me.
+
+The prompt I used (@loc_vermeer_room_clean)
+
+
+
+
+Photorealistic live-action recreation of the front room of Vermeer's house in Delft, 1660s, horizontal 16:9 — rendered as a REAL PHOTOGRAPH: captured on a full-frame cinema camera with a fast prime lens on a built practical set, true optics, true atmospherics, documentary-grade material fidelity. No people are present in this plate.
+
+REALISM LOCK — read first
+Indistinguishable from a still frame of a high-end historical feature film shot on a real built set. Real black-and-white marble floor tiles with chips, dull patches and grit in the joints; real whitewashed plaster walls with faint cracks; real leaded glass with bubbles and slight distortion; real wool and linen with weight; real dust in the window light. Natural muted colour response — no candy saturation. True photographic dynamic range, fine natural grain. BANS: no painterly strokes, no illustration, no CG sheen, no perfectly clean or symmetrical geometry, no video-game look.
+
+★ COMPOSITION LOCK — MANDATORY
+A long, high room seen from a seated eye level, looking down its length. Tall leaded windows on the left, the lower shutters half closed, pour cool silver daylight across the room — exactly Vermeer's light. Along both sides, several plain wooden tables at cafeteria spacing, holding open books, slates, sewing baskets, a Delft blue-and-white jug, a bowl of lemons — the tables leave a clear central aisle down the middle. A yellow wool curtain hangs at the near-left window; a chair with a blue cushion stands by the wall. A large map of the Netherlands hangs on the far white wall (lines only, no legible text). An easel near the window holds a canvas at the underdrawing stage — no recognisable face. The chequered marble floor down the central aisle is completely clear and clean, from the far wall to the camera — nothing lies on it, nothing has been spilled on it.
+
+LIGHTING — in-world sources only
+Cool north daylight from the left windows, soft fill from the white walls, no hard directional shaft, no candles.
+
+BANS
+No people, no modern objects, no legible text, no picture frame, no finished paintings with faces, no oversaturated colour.
+Step 5. Props
+Point
+
+The source has three props: a white table, a small keyboard and a laptop. I replaced them with a keyboard instrument from Vermeer's time, a virginal. It's based on the instrument in A Young Woman Standing at a Virginal. The landscape painted inside the lid is what makes it recognisable.
+
+I replaced the laptop with a handwritten music book standing on the music desk. Where Bach types on the laptop, he now runs his fingers along the music.
+
+Replace the table, keyboard and laptop together, as one object, table and all. If you replace the three separately, the white table stays, or the music book stands where the laptop screen was. When I wrote that the whole table becomes one instrument, neither the white table nor the laptop was left.
+
+Don't write "the same size as the original table" for the instrument. If you do, you get a mix of the old object and the new one. Write the instrument's own measurements (150 cm wide, keys 88 cm off the floor). All it takes from the original is the position and the direction.
+
+I put the music book in the same sheet as the instrument. The more prop images you add, the more things fall apart.
+
+The prompt I used (@prop_virginal)
+
+
+
+
+Object reference sheet of ONE antique musical instrument, horizontal 16:9, four panels: front view, three-quarter view, side view, and a close detail. Photorealistic — a live-action museum photograph of a real 17th-century Flemish virginal, not an illustration, not a painting, not a render.
+
+THE INSTRUMENT — built from the floor up
+A plain dark wooden trestle stand on four square legs, joined by low stretchers. The space between the legs is open: the floor is visible through it.
+On the stand rests a long rectangular wooden case, 150 cm wide, 50 cm deep and 25 cm tall, so that the keys sit 88 cm above the floor — the height for playing while standing.
+The outside of the case is painted in a soft grey-blue faux-marble finish with fine darker veins.
+The keyboard is set into the long front side of the case, toward the LEFT end: four octaves, natural keys of pale bone, sharps of black wood. To the right of the keyboard, the front of the case continues plain.
+Inside, a pale wooden soundboard with thin brass strings running left to right, decorated with a few small painted flowers.
+The lid is hinged along the back edge and stands open, leaning back at about 100 degrees. The INSIDE of the lid carries a painted landscape: a calm pastoral scene with soft green trees, a pale cloudy sky, distant blue hills and a small lake, painted in muted 17th-century oil colours across the whole inner surface of the lid.
+
+THE MUSIC BOOK — this replaces any screen
+Along the back of the keyboard runs a long, low wooden music desk. On its RIGHT half stands an open handwritten music manuscript book, 30 cm tall, leaning back slightly: two facing pages of hand-ruled staves filled with hand-written notes in faded brown ink, the paper aged cream with soft foxing. No title, no words, no legible lettering — only staves and notes.
+
+NOT MODERN — CRITICAL
+This is an acoustic wooden instrument. It is not an electronic keyboard, not a synthesizer, not a MIDI controller, not a digital piano. No laptop, no screen, no cable, no knob, no button, no white plastic, no silver metal anywhere. Not a table, not a white box, not a plinth.
+
+SHEET LAYOUT — four panels side by side, neutral seamless mid-grey studio background, identical soft lighting in all four
+Panel 1 — front view at standing eye level: the whole instrument on its stand, the keyboard at the left, the open lid with its landscape painting behind, the music book on the right half of the desk.
+Panel 2 — three-quarter view from the front-right, slightly above: the depth of the case, the soundboard and the open music book.
+Panel 3 — side view from the right end, the 50 cm depth and the 88 cm keyboard height readable.
+Panel 4 — close detail: the inside of the lid with the painted landscape, and the open handwritten pages.
+
+LIGHTING
+Soft even studio lighting, neutral daylight ~5600K, a soft contact shadow under each leg. Identical in all four panels.
+
+REALISM LOCK
+Real old wood, real painted faux marble with fine craquelure, real oil paint on the lid with age, real worn bone keys, real aged paper. No CG sheen, no plastic look, no illustration.
+
+POSITIVE CONSTRAINTS
+Exactly one instrument, the same in all four panels. No people, no hands. No text, no lettering, no inscription, no logo, no emblem anywhere — not on the lid, not on the case, not in the book.
+Step 6. The video prompt
+Point
+
+You upload one source video and five images.
+
+Five things in the prompt's structure made the difference.
+
+At the top, state that "only who, what and where change"
+Name the two original people by their cardigan colour once only. After that, call them "the person on the screen-left" and "the person on the screen-right"
+Map each original person's movements one-to-one onto the new person
+Put all the "don'ts" together once, at the end of the prompt
+Write the physics: feet stay on the floor, nobody walks through the instrument
+
+Avoid describing how the original people look (beard, long hair, clothing names) as much as you can. Writing "no beard" over and over actually makes a beard more likely. Instead, describe something that a beard would hide as "visible". Here I wrote "the white cravat and the buttons on his chest are visible in every shot".
+
+The exception is the Pearl girl's turban. To keep hair from showing under it, this is the one part I wrote in detail, in its own block near the top of the prompt.
+
+The shape of her head is a dome of cloth. The highest point and the widest point of her head are both cloth
+List every place hair must not show, one by one: forehead, temples, in front of and behind the ears, the nape…
+Name the shapes it turns into when it goes wrong: "not a headband", "not a bandana on top of hair"
+
+Write every cut time you measured in Step 2. For the white flashes, give a start and an end, like "20.90–21.05 s". Every transition came out within 0.11 seconds of the target.
+
+What didn't work was height. In the source, the person on the left is taller. I wrote "Bach 178 cm, Pearl girl 160 cm" in the prompt, but she came out at the original left person's height. Height follows the people in the source video. If you want it the other way round, the safest way is to decide it when you choose the source video.
+
+The prompt I used (full)
+CHARACTER, PROP AND LOCATION SWAP. Replicate the source video exactly — its timing, jump cuts, white flashes, camera, staging and energy — changing only WHO performs, WHAT stands between them and WHERE it happens.
+
+INPUTS — FIVE IMAGE REFERENCES: TWO PEOPLE, ONE INSTRUMENT AND TWO VIEWS OF ONE ROOM
+The source video (30.00 s, six shots): two performers at a narrow white table that stands diagonally, from the front-left to the back-right, with a small keyboard on its left end and an open laptop on its right end. The LEFT performer (dark grey cardigan) stands at the front-left corner of the table and plays the keyboard. The RIGHT performer (beige cardigan) stands on the far side of the table behind the laptop, works it, gestures, points and sings.
+@cha_pearl_girl-v2 = the young woman: keep her face, head wrap, pearl earring, body type and clothes exactly as in the image.
+@cha_bach = the man: keep his face, short white periwig, heavy body type and clothes exactly as in the image. He is the only reference for this man.
+@prop_virginal = the instrument, its stand and its open music book.
+@loc_vermeer_room_clean, @loc_vermeer_room_clean_bokeh = ONLY the architecture, floor material and light sources of the room; never a still frame, never the framing, camera, timing or duration.
+The source video has ZERO authority over how anyone looks — not faces, not hair, not facial hair, not clothing, not body outline. Do not blend the new people with the original performers.
+
+WHO REPLACES WHOM
+- LEFT performer → @cha_pearl_girl-v2, mapped one-to-one onto his full performance.
+- RIGHT performer → @cha_bach, mapped one-to-one onto his full performance.
+- The white table together with everything on it → @prop_virginal, as ONE object.
+- The white studio → the painter's studio.
+This is a full replacement of face, head, hair, body, build, outline, skin and clothing — not a change of costume and not a recolouring. The source performers are only an invisible skeleton of movement.
+
+CUT TIMING LOCK
+Shot A 0.00-3.40. Hard cut at 3.40 s to shot B1 (same angle, slightly closer) 3.40-7.62. Jump cut at 7.62 s to shot B2 (wider) 7.62-11.19. Jump cut at 11.19 s back to the closer framing, shot B3 11.19-20.90. A brief white flash 20.90-21.05 into shot C 21.05-24.66. A brief white flash 24.66-24.73 into shot D 24.73-30.00, which ends on the walk. The jump cuts are instant cuts, not dissolves; the two white flashes stay exactly as short as in the source. No shot is retimed, added or removed.
+
+ROLE LOCK — ABSOLUTE, IN EVERY SHOT
+Identity is bound to role and screen position, never to the source performer's gender, height, build or hair.
+- The person on the screen-LEFT who plays the keys from the first frame, bends over the keys at 3.40-7.62 s, steps back from the keys to laugh, wave her hands and clap at 7.62-11.19 s, plays upright at 11.19-20.90 s, plays at the far left end of the instrument behind it at 21.05-24.66 s, and walks on the screen-LEFT at 25.5-30.00 s = @cha_pearl_girl-v2, the young woman in the blue and yellow head wrap.
+- The person on the screen-RIGHT who stands on the far side of the instrument, raises the arm on the screen-right side to point up at 2.6-3.3 s, leans in until his head touches hers at 3.4-4.5 s, steps out past the right end of the instrument with his arm up at 7.6-8.4 s, rests a hand on his own chest while talking at 13-19 s, points at her at 19.5-20.9 s, is in front of the instrument close to the lens at 21.05-24.66 s, and walks on the screen-RIGHT at 25.5-30.00 s = @cha_bach, the heavy clean-shaven man in the short white periwig.
+The screen-left role is a young woman with a woman's face, build and clothes. The woman never wears the periwig; the man never wears the head wrap. If they are ever exchanged, that is an error.
+
+HEIGHT LOCK
+@cha_pearl_girl-v2 160 cm. @cha_bach 178 cm. HE IS THE TALLER ONE: the top of her head wrap reaches about the level of his mouth — even though in the source the left performer is the taller one. Do not stretch her to the source left performer's height; she stands on the floor in his place and the room continues naturally above her head. @cha_bach keeps his own height and heavy build in the right performer's place.
+
+HEAD WRAP — CRITICAL (before everything else about her)
+Her hair is replaced by cloth. Her ENTIRE head is wrapped in an ultramarine blue cloth — the forehead band, both sides and the back of the head — and over the crown sits a fold of ochre-yellow cloth whose long narrow tail hangs from the top of her head down behind her back to below the shoulder blades. The blue and the yellow are two separate cloths and never mix into one.
+SHAPE AND VOLUME: above her eyebrows, the shape of her head is a smooth dome of layered wrapped cloth. The highest point and the widest point of her head are cloth, never hair. The wrap rises about 4 cm above her crown and stands about 3 cm out at each side, a soft rounded mass with visible folds. Its front edge lies across her forehead about 3 cm above her eyebrows, and the cloth comes down over the tops of her ears and over the nape of her neck.
+NO HAIR, PLACE BY PLACE: not one hair of any colour is visible — not on the forehead, not at the temples, not in front of or behind the ears, not at the nape, not on the neck, not on the shoulders, not down the back, not on top of the cloth, not escaping from under the edge of the cloth. No fringe, no loose strands.
+FAILURE FORMS: it is NOT a headband with hair above it, NOT a bandana on top of a head of hair, NOT a scarf tied around a bun, NOT a hair accessory. A band of cloth across the forehead with hair showing above, behind or around it is an error.
+The short dark hair of the source left performer does not exist in this video and leaves nothing behind, not even at the edges of the cloth.
+The yellow tail swings behind her a beat late when she bends, dances and walks; it is one narrow length of cloth and never covers her shoulders.
+
+HIS OWN OUTLINE — CRITICAL
+@cha_bach has his own outline, taken from @cha_bach. His head is a compact rounded shape: a short powdered periwig ending at the top of his shoulders. Under his chin, his throat and a white linen cravat are always in view. Where his chest is in frame, the dark brown buttoned waistcoat and the row of small cloth buttons down the front of his coat are clearly visible from collar to waist — his chest is fully covered. Below his knees: white stockings and black buckled shoes.
+
+HIS FACE — CRITICAL
+A broad, round, fleshy face with pink skin, full cheeks with a ruddy flush, a soft double chin, heavy dark-grey eyebrows, a strong straight nose and a firm wide mouth. His chin, jaw, cheeks and upper lip are smooth bare skin.
+EYES BY TIME: from 0.00 s to the white flash at 20.90 s his small brown eyes are bare and clearly visible. From the first frame after the white flash at 21.05 s to the last frame he wears narrow oval black sunglasses in a thin black metal frame, tucked under the side curls of the periwig — already on when the shot appears, never put on or taken off on screen.
+
+PERIWIG — CRITICAL
+An off-white powdered periwig, brushed straight back from the forehead with no fringe. At each side of the head, over the ears, three horizontal rolled curls are stacked one above the other; behind them soft tight curls end at the top of the shoulders. A compact rounded mass about 6 cm out from the skull. When he bobs his head, the curls bounce as one stiff piece and keep their shape. In shot C, what swings in front of the lens is these off-white rolled curls.
+
+COSTUME
+@cha_bach: a knee-length coat of near-black dark brown matte wool, fitted at the chest and flaring into stiff skirts from waist to knee, deep turned-back cuffs, small cloth-covered buttons down the front; a matching buttoned waistcoat; a plain white linen cravat; black knee breeches, white stockings, black buckled shoes. The sleeves are fitted to the forearm: when he raises his arm, the turned-back cuff and the white shirt cuff show.
+@cha_pearl_girl-v2: a fitted ochre-yellow wool jacket with long sleeves, closed down the front; a wide flat white linen collar over the shoulders; a long cream linen apron tied at the waist reaching almost to the floor; a dark brown wool skirt to the floor; plain dark leather shoes. One large teardrop pearl hangs from her LEFT earlobe.
+
+THE TABLE BECOMES THE VIRGINAL — CRITICAL
+The white table, the small keyboard on it, the laptop on it and the laptop's upright screen are ONE object, and that whole object is replaced by the virginal of @prop_virginal standing on its own dark wooden stand on the floor, in the same place and on the same diagonal line, from the front-left to the back-right.
+The virginal: a long rectangular case, 150 cm long, on four legs; its keys 88 cm above the floor, at her waist. Its keyboard is set into the long front of the case at its LEFT end — the end nearest her, where the small keyboard was. Its right half, where the laptop was, carries the long music desk with the open handwritten music book, facing @cha_bach. The case is grey-blue painted marble. The lid is hinged along the BACK edge of the case and stands open behind the strings, showing the painted landscape of @prop_virginal — trees, a lake, distant blue hills, a pale sky. Nothing stands upright at the right end of the case.
+It is an acoustic wooden instrument with bone keys, one piece from the floor up.
+
+PROPS — who touches what
+@cha_pearl_girl-v2 plays the virginal keys with both hands, exactly where and when the source left performer plays; when she bends over the keys at 3.40-7.62 s, she leans forward over the keyboard from her waist.
+@cha_bach's hands do on the music book what the source right performer's hands do on the laptop: typing becomes his fingertips running along the written lines; a tap becomes turning a page or tapping a note; pointing is pointing at the music or at her.
+Nobody lifts the book. Nothing is held in anyone's hand at any time.
+
+LOCATION
+Everything happens in one Delft painter's studio of the 1660s: whitewashed plaster walls, tall leaded windows with small diamond panes and wooden shutters down the screen-LEFT side, a heavy ochre-yellow curtain at the nearest window, dark ceiling beams, a large old map on the far wall, a wooden easel, long dark wooden tables with open books, blue-and-white jugs, a tall dark cabinet on the right, and a polished chequered floor of grey and white marble. The instrument area and the final walking area are the same room; in shot D they walk down a clear open stretch of the marble floor, far from tables and chairs.
+
+LIGHT — one source for the whole video
+Cool, soft north daylight from the leaded windows on the screen-LEFT in every shot. Faces and shoulders are lit on their screen-left side; the screen-right side falls into soft cool shade. The whitewashed walls bounce a gentle pale fill. No candles, no lamps. The white flashes are the source's own brief white flashes, not a change of room light.
+
+INTEGRATION — CRITICAL
+Both people and the virginal are lit by this room, not by a studio, and sit in it naturally with matching light, shadows and film grain — not pasted on. Discard the flat white studio lighting of the source and of the references. Nobody is brighter, flatter or whiter than the room.
+
+PHYSICS, CONTACT SHADOW AND FLOOR REFLECTION — CRITICAL
+Feet always on the floor. Nobody steps onto, over or through the virginal, its legs or any furniture; when he steps out past its right end at 7.6 s and back behind it at 9.5 s, he walks around the end of the case. On the polished marble, every person and every leg of the virginal casts a soft dark contact shadow exactly where shoes, hem and legs meet the floor, darkest at the contact and fading within about 30 cm, falling toward the screen-RIGHT away from the windows, plus a faint soft reflection broken by the veining. @cha_bach's near-black coat and black shoes keep their dark shadow; his dark legs never look cut out. Nobody floats or slides.
+
+NO EMBLEMS — CRITICAL
+No crest, monogram, lettering, numbers, title, maker's name, logo or watermark anywhere. The map shows only coastlines and lines. The music pages carry only hand-drawn staves and notes.
+
+CAMERA AND OPTICS BY SHOT
+A 0.00-3.40 — about 40 mm, static. Both from the waist up, looking slightly down onto the diagonal instrument: she at its front-left end, he on its far side behind the music book. The far part of the studio behind them softly out of focus.
+B1 3.40-7.62 — about 40 mm, static, slightly closer than A.
+B2 7.62-11.19 — about 35 mm, static, wider: both from the thighs up with space above their heads; the whole instrument and the floor around its right end in view.
+B3 11.19-20.90 — about 40 mm, static, the same closer framing as A.
+C 21.05-24.66 — about 35 mm, ordinary natural perspective, handheld. The camera has moved round to the front-right of the instrument and low: the long front of the virginal lies across the bottom of the frame, she stands at its far left end behind it, and he stands on the near side, in front of its right end, close to the lens, partly soft with motion blur as his head moves. The focus sits on her. The room behind follows @loc_vermeer_room_clean_bokeh. The picture is a full rectangle filled with image into all four corners; straight lines stay straight.
+D 24.73-30.00 — about 35 mm, frontal, no instrument in view. From 24.73 s to 25.3 s a medium shot of the two facing each other; from 25.5 s the camera pulls back steadily as they walk toward it, until about 28.5 s, then keeps them at about the same small full-body size to the end. The long studio readable behind them.
+
+TIMELINE
+A 0.00-3.40 — @loc_vermeer_room_clean
+@cha_pearl_girl-v2 stands upright at the front-left end of the virginal, both hands on the keys, looking down, her head a smooth dome of blue cloth with no hair showing. @cha_bach stands on the far side of the instrument behind the music book, facing the camera, his round clean-shaven face and bare brown eyes fully visible, the white cravat and the buttons of his coat down his chest. From 0.5 s to 2.0 s he points at the music with the hand on the screen-left side, talking to her; from 2.6 s to 3.3 s he raises the arm on the screen-right side high and points up to the upper right; she glances up at it.
+
+B1 3.40-7.62 — @loc_vermeer_room_clean
+She bends forward over the keys from her waist and plays with both hands. From 3.4 s to 4.5 s he leans across from the far side until his periwig almost touches her head wrap, his fingertips running along the music, singing. From 5.0 s to 7.0 s he bobs and dances his hands in front of his chest, watching her; at 7.0-7.5 s he points at the keys, laughing.
+
+B2 7.62-11.19 — @loc_vermeer_room_clean
+Wider. She steps back from the keys and opens toward the camera, laughing, her apron and long brown skirt in view: at 8.5 s she waves both hands at face height, at 9.0 s one hand on her hip, looking up and laughing, at 9.4 s she claps in front of her chest, then sways with bent arms — her whole head still wrapped in the blue cloth with no hair at her forehead, ears or nape. From 7.6 s to 8.4 s he steps out past the right end of the virginal, raises the arm on the screen-right side straight up with one finger pointing and leans back; at 9.0 s he swings it out sideways; at 9.5 s he is back on the far side of the instrument; at 10.0-10.5 s he raises the arm overhead again; at 11.0 s he leans back with his eyes closed. The turned-back cuff and the white shirt cuff show whenever his arm is up.
+
+B3 11.19-20.90 — @loc_vermeer_room_clean
+The closer framing again. She stands upright at the front-left end and plays, looking down at the keys. He stands on the far side behind the music book: from 11.2 s to 12.5 s he talks with an open palm; from 13 s to 19 s he keeps one hand resting on his own chest and shoulder, eyebrows raised, talking; at 19.0 s he raises one finger; from 19.5 s to 20.9 s he points at her. At 20.0 s she lifts her face and sings; at 20.5 s she bends toward him.
+
+20.90-21.05 — brief white flash, as in the source.
+
+C 21.05-24.66 — @loc_vermeer_room_clean_bokeh
+Seen from the front-right: the long front of the virginal lies across the bottom of the frame. @cha_pearl_girl-v2 stands at its far left end, behind it, playing with one hand and gesturing with the other (a thumbs-up at 24.0 s), her blue and yellow head wrap — a smooth cloth dome with no hair visible — and the pearl at her left ear readable. @cha_bach stands on the near side, in front of the right end of the virginal, close to the lens, now wearing the narrow oval black sunglasses: at 21.5 s he looks into the lens, at 22.0 s he turns his face toward her and sings, at 22.5 s he leans toward the screen-left with his mouth wide open, and from 23.0 s to 24.5 s he bows his head and the off-white rolled curls of the periwig swing from side to side across the lens, keeping their shape. Visible in this close shot: his broad round clean-shaven face, ruddy cheeks, the soft double chin, the heavy dark-grey brows above the narrow sunglasses, the white cravat under his chin.
+
+24.66-24.73 — brief white flash, as in the source.
+
+D 24.73-30.00 — @loc_vermeer_room_clean
+No instrument in this shot. From 24.73 s to 25.3 s the two stand facing each other in a medium shot: she talks to him with her hands and points a finger at his chest; he looks up and listens. From 25.5 s they turn to the camera and walk toward it side by side down the open marble floor, dancing as they come, while the camera pulls back and they grow smaller: @cha_pearl_girl-v2 on the screen-LEFT, shorter than him, apron and skirt swaying, the yellow tail swinging behind her, her head fully wrapped; @cha_bach on the screen-RIGHT, taller, in the narrow sunglasses, his short white periwig, the white cravat and the buttoned front of his coat visible, the coat skirts swinging at his knees above white stockings and buckled shoes. Their contact shadows and soft reflections travel with them. They never walk backward or deeper into the room. The video ends on the walk.
+
+FINAL CONSISTENCY
+Preserve the source audio, the 30.00 s duration, the cuts at 3.40 s, 7.62 s and 11.19 s, the two brief white flashes, the camera moves and the timing.
+IDENTITY LOCK: every face stays the same face from first frame to last at every shot size — including shot C at 21.05-24.66 s where @cha_bach's face is closest to the lens: the same broad clean-shaven face, double chin and periwig as in shots A, B1, B2, B3 and D. The sunglasses do not change who he is.
+Photorealistic live action: real skin with pores, a real powdered wig, real wool, linen and dyed cloth, a real pearl, real painted wood, real bone keys, real aged paper, real polished marble. No illustration, no oil-painting look on the people, no CG sheen, no plastic skin.
+
+NEGATIVE
+Nothing of the original performers' appearance remains: no cardigan, no open V-neck, no pointed shirt collar, no short dark hair, no stubble, no trousers on her. Nothing of the original table remains: no white tabletop, no white plinth, no laptop, no laptop screen, no small electronic keyboard sitting on top of the virginal. No sunglasses before 21.05 s; no hair visible under her head wrap; no exchange of the two roles; no woman stretched to the source left performer's height; no one passing through the instrument; no white studio background; no extra people; natural hands with five fingers; no warping, flicker or cut-out edges; no writing, logos or watermarks; photoreal, not cartoon.
+Wrap-up
+
+The Girl with a Pearl Earring and Bach were both fully replaced from the first frame to the last. No hair shows from under the turban. Bach wears his sunglasses from the shot where he starts singing.
+
+What helped most was using the original video. On top of that, I read the source in 0.5-second frames and wrote down where everyone stands in every shot.
+
+Thanks for reading! If anything's unclear, let me know in the comments.
+
+
+
+
+Make original video with Higgsfield Genjutsu

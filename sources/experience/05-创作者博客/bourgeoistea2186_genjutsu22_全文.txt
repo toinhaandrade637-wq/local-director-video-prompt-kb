@@ -1,0 +1,194 @@
+【项目】自宅で撮った動画が、女性に変身してヨガスタジオへ!? GENJUTSUで映像を丸ごと変えてみた（@bourgeoistea2186 · 创作者博客）
+【链接】https://higgsfield.ai/@bourgeoistea2186/blogs/genjutsu22
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+自宅で撮った動画が、女性に変身してヨガスタジオへ!? GENJUTSUで映像を丸ごと変えてみた
+@bourgeoistea2186
+38
+0
+0
+
+普通に撮影した動画が、AIでまったく別の世界に！
+
+今回、Higgsfieldの Genjutsu（Object Swap） を使って、人物・アイテム・背景を変更する動画を制作してみました。
+
+自宅で撮影した1本の自撮り動画から、
+
+男性の僕が、架空の女性キャラクターに変身
+手に持ったアイテムが、ベリーのプロテインシェイクに
+いつもの部屋が、開放的なヨガスタジオに
+さらに背景が、昼のワイキキから夜のワイキキへ
+
+という変化を加えています。
+
+まずは完成動画をご覧ください！
+
+
+
+
+STEP 1｜元になる動画を撮影
+
+まずは、スマートフォンで自撮り動画を撮影します。
+
+今回は、カメラに向かって話しながら、手に持ったアイテムを紹介したり、手を叩いたり、指を鳴らしたりする動画を用意しました。
+
+ポイントは、AIで映像を切り替えたいタイミングに合わせて、動作を入れておくこと。
+
+例えば、指を鳴らした瞬間に背景が変わるようにすると、より自然で面白い演出になります。
+
+
+
+
+STEP 2｜参考画像を準備する
+
+次に、AIで変更したい要素の参考画像を用意します。
+
+今回準備したのは、以下の5種類です。
+
+女性キャラクター — 自然な顔立ちの架空の成人女性
+プロテインシェイク — ベリー系のピンク色のドリンク
+ヨガスタジオ — 大きな窓と自然光が印象的な空間
+昼のワイキキ — 青い海とヤシの木が広がるビーチ
+夜のワイキキ — 月明かりと街の灯りが美しい夜景
+
+
+
+
+参考画像を作るときは、何を変更したいのかが一目で分かる素材を用意するのがおすすめ。
+
+背景の画像は人物が写っていないものを使用し、昼と夜のワイキキは同じ場所に見えるようにしました。
+
+STEP 3｜Genjutsuで人物・アイテム・背景を変更
+
+
+
+
+HiggsfieldのGenjutsuを開いて、Object Swap を選択します。
+
+操作はシンプルです。
+
+元動画をアップロード
+参考画像を追加
+変更内容をプロンプトで指示
+Generateで動画を生成
+
+今回、特に意識したのは変更するタイミングを秒数で細かく指定すること。
+
+人物・背景・アイテムを、それぞれ異なるタイミングで変えるため、プロンプトも時間順に整理しました。
+
+今回のプロンプト
+
+以下は、今回の制作で使用した指示内容をもとに、重要な部分をまとめたものです。
+
+参照素材は、元動画を @Video1、女性を @Image1、シェイクを @Image2、ヨガスタジオを @Image3、昼と夜のワイキキを @Image4 と @Image5 に設定しています。
+
+TASK - VIDEO EDIT
+
+SOURCE: @Video1
+
+Preserve the original handheld camera movement,
+framing, perspective, body movements, gestures,
+speech timing, lip synchronization, and original audio.
+
+0.000–12.000s:
+Replace the original man with the fictional adult
+woman from @Image1.
+
+Match her facial appearance, hairstyle, and outfit.
+Keep the original performance and camera movement.
+
+0.000–14.000s:
+Replace the original room with the bright yoga
+studio from @Image3.
+
+Maintain realistic depth, perspective, lighting,
+and spatial consistency with the camera movement.
+
+At exactly 6.000s:
+Replace the original handheld item with the sealed
+berry protein shake from @Image2.
+
+Keep it naturally attached to the hand, following
+the original grip and movement.
+
+At exactly 12.000s:
+Switch the woman back to the original man
+from @Video1.
+
+Preserve his original face, hairstyle, and clothing.
+
+At exactly 14.000s:
+Switch the yoga studio back to the original room
+from @Video1.
+
+At exactly 14.500s:
+On the hand clap, change the man back into the same
+fictional woman from @Image1.
+
+At exactly 16.500s:
+On the finger snap, replace the background with
+daytime Waikiki Beach from @Image4.
+
+At exactly 18.000s:
+On the next finger snap, change the background
+to nighttime Waikiki Beach from @Image5.
+
+Maintain the same character appearance,
+camera framing, and original audio.
+
+All transitions must occur at the specified times.
+No extra people, text, logos, or unwanted objects.
+
+※これは制作時の指示を整理した参考プロンプトです。実際には複数回の生成と追加編集を組み合わせています。
+
+STEP 4｜自然な映像に仕上げる
+
+
+実際に制作してみると、人物やアイテムはうまく変更できても、背景が思いどおりに反映されない場面がありました。
+
+
+
+
+
+
+
+特に苦労したのが、ヨガスタジオへの背景変更。
+
+参考画像を複数の角度から作り直し、プロンプトも調整しながら制作しました。
+
+背景を自然に見せるために意識したのは、次の3つです。
+
+Perspective（遠近感）
+
+元動画のカメラアングルと、背景の奥行きを合わせること。
+
+Parallax（視差）
+
+カメラが動いたときに、手前と奥のものが自然に異なる動きをすること。
+
+Lighting（光の整合性）
+
+人物と背景の明るさや、光の方向が自然につながること。
+
+最終的には、Genjutsuで生成した映像に追加編集を組み合わせて完成させました。
+
+完成！Before / After
+
+元動画は、自宅で撮影したシンプルな自撮り映像。
+
+そこから人物・アイテム・背景を変更することで、まったく違う世界観の映像になりました。
+
+もちろん、AIですべてが一発で完成するわけではありません。
+
+でも、撮影したあとから、人物も場所も演出も変えられる。
+
+撮影した映像の可能性を、あとから広げられる。
+
+これが今回、Genjutsuを使って一番面白いと感じたことです。
+
+AIで映像制作がどこまで進化するのか、これからもいろいろ実験していきたいと思います！
+
+みなさんなら、どんな動画を作ってみたいですか？

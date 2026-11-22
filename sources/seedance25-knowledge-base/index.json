@@ -1,0 +1,374 @@
+{
+  "schema_version": 1,
+  "version": "0.1.2",
+  "latest_event": {
+    "id": "E20261029-001",
+    "occurred_at": "2026-10-30T15:04:12+08:00",
+    "type": "content-update",
+    "version": "0.1.2",
+    "summary": "内容优先：12页加入17段短例、精简写作参考与批次维护；同步完整来源文字及研究，P020仅保留转录，官方访问参数去敏。"
+  },
+  "entries": [
+    {
+      "id": "K01",
+      "title": "用户约定",
+      "path": "现行知识/01-用户约定.md",
+      "status": "trial",
+      "topics": [
+        "user-conventions",
+        "emphasis",
+        "scope"
+      ],
+      "sources": [
+        "U001",
+        "U002",
+        "U003",
+        "U004",
+        "F001",
+        "S001",
+        "U005",
+        "P001"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "de693db9f7ee35dd2f6a05ab499a1a5096003e2aa825fb6be1ace859f6bbd8d8"
+    },
+    {
+      "id": "K02",
+      "title": "通用结构与选用",
+      "path": "现行知识/02-通用结构与选用.md",
+      "status": "trial",
+      "topics": [
+        "structure",
+        "paragraphs",
+        "task-routing"
+      ],
+      "sources": [
+        "U001",
+        "U002",
+        "U004",
+        "P001",
+        "P002",
+        "P003",
+        "P020",
+        "P023",
+        "P026",
+        "P037",
+        "P043",
+        "P049",
+        "P054",
+        "U005",
+        "P041"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "c6955520cb5bdc254629965e82b46918bb2c7942f576ba612cdbe4dc2b0e7a38"
+    },
+    {
+      "id": "K03",
+      "title": "参考分工与主体一致性",
+      "path": "现行知识/03-参考分工与主体一致性.md",
+      "status": "trial",
+      "topics": [
+        "references",
+        "identity",
+        "input-migration"
+      ],
+      "sources": [
+        "U003",
+        "P002",
+        "P003",
+        "P024",
+        "P029",
+        "P044",
+        "P045",
+        "P046",
+        "P047",
+        "P048",
+        "P052",
+        "F001",
+        "U005"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "21cf506e812e652e37394ccfa9a76abff7ba7e39968b5aa156599279ffd44b72"
+    },
+    {
+      "id": "K04",
+      "title": "全局设定与本场发展",
+      "path": "现行知识/04-全局设定与本场发展.md",
+      "status": "trial",
+      "topics": [
+        "global-setting",
+        "scene-development",
+        "end-state"
+      ],
+      "sources": [
+        "U001",
+        "P001",
+        "P003",
+        "P005",
+        "P008",
+        "P017",
+        "P018",
+        "P019",
+        "P023",
+        "P026",
+        "P039",
+        "P042",
+        "F001",
+        "U005"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "cbf1ce1049a1145250b82da6276bb5299dce639acd8ff713da069ac070a56985"
+    },
+    {
+      "id": "K05",
+      "title": "表演、对白与方言",
+      "path": "现行知识/05-表演对白与方言.md",
+      "status": "trial",
+      "topics": [
+        "performance",
+        "dialogue",
+        "dialect"
+      ],
+      "sources": [
+        "U005",
+        "U001",
+        "U004",
+        "P025",
+        "P026",
+        "P027",
+        "P037",
+        "P038",
+        "P044",
+        "P045",
+        "P047",
+        "P050",
+        "P054",
+        "F001"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "63cc307958b6624a7845f70aa52cec2671dee9d896d313401109528fa28e61ce"
+    },
+    {
+      "id": "K06",
+      "title": "动作因果与打戏",
+      "path": "现行知识/06-动作因果与打戏.md",
+      "status": "trial",
+      "topics": [
+        "action",
+        "combat",
+        "physics",
+        "vfx"
+      ],
+      "sources": [
+        "U005",
+        "U001",
+        "P008",
+        "P011",
+        "P014",
+        "P016",
+        "P021",
+        "P023",
+        "P024",
+        "P030",
+        "P032",
+        "P033",
+        "P034",
+        "P035",
+        "P040",
+        "P041",
+        "P045",
+        "P049",
+        "F001"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "08266a8cdb7ae4e2c55c20e406b706f0c5abd3033ebde1d17992205d5dd2c0e1"
+    },
+    {
+      "id": "K07",
+      "title": "摄影运镜与空间",
+      "path": "现行知识/07-摄影运镜与空间.md",
+      "status": "trial",
+      "topics": [
+        "camera",
+        "spatial-layout",
+        "visibility"
+      ],
+      "sources": [
+        "U005",
+        "P001",
+        "P003",
+        "P039",
+        "P040",
+        "P042",
+        "P044",
+        "P047",
+        "P051",
+        "P054",
+        "O003",
+        "U001"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "29153a417805f91adf472d52f6a2e3c8e48943460b5b4da130f7295c594c81ea"
+    },
+    {
+      "id": "K08",
+      "title": "光影色彩材质与环境",
+      "path": "现行知识/08-光影色彩材质与环境.md",
+      "status": "trial",
+      "topics": [
+        "lighting",
+        "color",
+        "materials",
+        "environment"
+      ],
+      "sources": [
+        "U005",
+        "P001",
+        "P023",
+        "P027",
+        "P031",
+        "P039",
+        "P041",
+        "P043",
+        "P049",
+        "P050",
+        "P053",
+        "U001",
+        "U004",
+        "F001"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "eaa87ecccd7dc7e05cfed8a3616fabca13670de4d2d047349cce6eb899159cf7"
+    },
+    {
+      "id": "K09",
+      "title": "声音与跨镜衔接",
+      "path": "现行知识/09-声音与跨镜衔接.md",
+      "status": "trial",
+      "topics": [
+        "audio",
+        "dialogue-continuity",
+        "shot-connection"
+      ],
+      "sources": [
+        "P018",
+        "P037",
+        "P039",
+        "P041",
+        "P043",
+        "P044",
+        "P050",
+        "P054",
+        "O003",
+        "U001",
+        "U005",
+        "F001"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "525c4063a7614c7f3b2bac9be29a4d2846856d9bd3a3140d6c8039197264e8fa"
+    },
+    {
+      "id": "K10",
+      "title": "连续转场与阶段变化",
+      "path": "现行知识/10-连续转场与阶段变化.md",
+      "status": "trial",
+      "topics": [
+        "transitions",
+        "stage-rules",
+        "speed"
+      ],
+      "sources": [
+        "P002",
+        "P003",
+        "P021",
+        "P022",
+        "P029",
+        "P031",
+        "P052",
+        "O003",
+        "U001",
+        "U005",
+        "F001"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "769f5063a0c4e4319a08184649bbe4588c1c39f184d2b181dfdc9ffdd7e47169"
+    },
+    {
+      "id": "K11",
+      "title": "连续性约束与去重复",
+      "path": "现行知识/11-连续性约束与去重复.md",
+      "status": "trial",
+      "topics": [
+        "continuity",
+        "constraints",
+        "deduplication"
+      ],
+      "sources": [
+        "P001",
+        "P003",
+        "P021",
+        "P022",
+        "P023",
+        "P039",
+        "P041",
+        "P042",
+        "P051",
+        "O003",
+        "O004",
+        "U002",
+        "U003",
+        "U005",
+        "F001"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2027-04-27",
+      "body_sha256": "cd8efbd91914f91a25088e0814145d06166f0901172a9ff54de7a8d059c38ff0"
+    },
+    {
+      "id": "K12",
+      "title": "Seedance入口与平台差异",
+      "path": "现行知识/12-Seedance入口与平台差异.md",
+      "status": "trial",
+      "topics": [
+        "platform",
+        "input-modes",
+        "official-differences"
+      ],
+      "sources": [
+        "O001",
+        "O002",
+        "O003",
+        "O004",
+        "P024",
+        "U002",
+        "U003",
+        "U005"
+      ],
+      "updated": "2026-10-29",
+      "reviewed_on": "2026-10-29",
+      "review_after": "2026-11-28",
+      "body_sha256": "469b3aa026ed9ee09e5ee1a03b5aa6c857d1342752503d5421af39ae2309b167"
+    }
+  ]
+}

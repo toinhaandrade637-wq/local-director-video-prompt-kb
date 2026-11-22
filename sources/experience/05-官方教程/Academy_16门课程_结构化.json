@@ -1,0 +1,130 @@
+[
+ {
+  "title": "Blockbuster 4K: The AI Filmmaking Pipeline",
+  "desc": "One 40-minute tutorial — scripting, asset creation, and scene-by-scene prompt engineering — chaptered into sections you can follow along with, shot by shot.",
+  "type": "Movie making",
+  "level": "Intermediate",
+  "modules": 10,
+  "minutes": "40 min"
+ },
+ {
+  "title": "Build an Ultra-Realistic Short Film in 4K",
+  "desc": "A 33-minute director's masterclass. A football drama built shot by shot with Claude Fable 5 and Seedance 2.0 4K.",
+  "type": "Movie making",
+  "level": "Intermediate",
+  "modules": 19,
+  "minutes": "33 min"
+ },
+ {
+  "title": "Add AI VFX to Real Footage",
+  "desc": "Turn footage you shot on a normal camera into cinematic 4K VFX with Seedance 2.0 — world swaps, creatures, and full handheld showcase shots, one sentence at a time.",
+  "type": "Movie making",
+  "level": "Advanced",
+  "modules": 11,
+  "minutes": "12 min"
+ },
+ {
+  "title": "Make an AI Animated Short",
+  "desc": "Build one animated story across eight distinct visual worlds, from concept and scene design to a finished short.",
+  "type": "Movie making",
+  "level": "Intermediate",
+  "modules": 11,
+  "minutes": "17 min"
+ },
+ {
+  "title": "How to evaluate AI filmmaking demos",
+  "desc": "Learn to evaluate AI filmmaking demos by examining camera movement, performance, continuity, and delivery constraints.",
+  "type": "Movie making",
+  "level": "Beginner",
+  "modules": 11,
+  "minutes": "20 min"
+ },
+ {
+  "title": "The 3-Step Realistic AI Ad Workflow",
+  "desc": "Build a fully AI-generated commercial from scratch — lock every asset, turn a script into a connected shotlist with a Claude skill, then generate and stitch the final scenes.",
+  "type": "UGC & Social Content",
+  "level": "Intermediate",
+  "modules": 16,
+  "minutes": "36 min"
+ },
+ {
+  "title": "Build an AI Ad Agency with Claude + Higgsfield",
+  "desc": "Research a niche, shape an offer, build a varied ad portfolio, and test a small client pipeline with Claude and Higgsfield.",
+  "type": "UGC & Social Content",
+  "level": "Beginner",
+  "modules": 12,
+  "minutes": "22 min"
+ },
+ {
+  "title": "Seedance 4K: Cinematic Realism",
+  "desc": "Test Seedance 4K across hyper-detailed realism, wide crowd shots, real-footage VFX, animation, ads, games, and fast action.",
+  "type": "Movie making",
+  "level": "Intermediate",
+  "modules": 8,
+  "minutes": "14 min"
+ },
+ {
+  "title": "Build a Brand's Visuals with AI",
+  "desc": "Create a complete AI brand visual system, from the brand and products to try-ons, ads, social content, TV spots, and packaging.",
+  "type": "UGC & Social Content",
+  "level": "Intermediate",
+  "modules": 9,
+  "minutes": "26 min"
+ },
+ {
+  "title": "Make a Cinematic Ad End-to-End",
+  "desc": "Build a cinematic AI ad from reusable assets and a prompting framework through a 12-scene story, winning beat, and pack shot.",
+  "type": "UGC & Social Content",
+  "level": "Intermediate",
+  "modules": 10,
+  "minutes": "46 min"
+ },
+ {
+  "title": "Automate a Faceless Niche Channel",
+  "desc": "Build a faceless explainer channel with live research, monetizable scripts, video generation, localization, voice, packaging, and a release plan.",
+  "type": "Automate & Agents",
+  "level": "Intermediate",
+  "modules": 11,
+  "minutes": "10 min"
+ },
+ {
+  "title": "Build a Faceless Channel",
+  "desc": "Build and test a faceless AI channel by connecting Claude and Higgsfield, writing a script, generating a video, packaging it, and reading early results.",
+  "type": "UGC & Social Content",
+  "level": "Beginner",
+  "modules": 7,
+  "minutes": "14 min"
+ },
+ {
+  "title": "Mix AI with Real Footage",
+  "desc": "Combine AI edits with real footage by removing or adding elements, changing wardrobe and backgrounds, building transitions, reframing, and upscaling.",
+  "type": "UGC & Social Content",
+  "level": "Intermediate",
+  "modules": 10,
+  "minutes": "5 min"
+ },
+ {
+  "title": "Build 3D Games with MCP",
+  "desc": "Build and publish three no-code 3D game prototypes with an MCP-connected workflow, then compare output, cost, and early marketplace results.",
+  "type": "Automate & Agents",
+  "level": "Beginner",
+  "modules": 10,
+  "minutes": "12 min"
+ },
+ {
+  "title": "Direct a cinematic AI car commercial",
+  "desc": "Build a cinematic car commercial from reusable assets, controlled iterations, and continuity-aware editing.",
+  "type": "UGC & Social Content",
+  "level": "Intermediate",
+  "modules": 11,
+  "minutes": "35 min"
+ },
+ {
+  "title": "Direct AI fight scenes through controlled iteration",
+  "desc": "Build reusable action assets, diagnose failed generations, and direct scale, transformations, impacts, and cinematic coverage without losing geography or physics.",
+  "type": "Movie making",
+  "level": "Intermediate",
+  "modules": 5,
+  "minutes": "16 min"
+ }
+]

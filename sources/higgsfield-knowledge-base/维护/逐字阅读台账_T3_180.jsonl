@@ -1,0 +1,265 @@
+{"idx":1,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":2,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":3,"len":1675,"model":"null","sha8":"b9011fbd","findings":"海报化族首例——Transform this cinematic still into a film festival poster, extending the frame vertically to a 2:3 portrait poster+三行纵排标题（SHE/NEVER/LEFT stacked left-aligned+each line no wider than one third）+\"A film by Moussa\" 署名行"}
+{"idx":4,"len":5975,"model":"default","sha8":"57b85754","findings":"回忆讲述框架首例——PRESENT 摇椅夜谈+FLASHBACK 卧室工作室环灯线；Grade: DREAMY CINEMATIC GRAY（ONE warm amber island per frame+lifted milky blacks）调色宪法；VOICE LOCK 声样段头（aged male 75+young male 30）；CLEAN SKIN RULE（NO henna+NO jewelry）；她门缝含泪看子演出后轻掩门留台（leaving him his stage）"}
+{"idx":5,"len":6133,"model":"default","sha8":"fac0e3d7","findings":"**THE TIME-JUMP RULE 段头**——SAME PERSON at two ages（10 岁↔28 岁）；**鞋变长大法**：镜头沿身体下摇至鞋，两步间鞋无缝变大（the transformation happens at the FEET, never on the face）+**Eighteen years pass inside one tilt** 金句+**sonic time-jump**（脚步声由童声变沉=声音时间跳跃）；成人版=同款条纹衫 ADULT-SIZE 继承"}
+{"idx":6,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":7,"len":6439,"model":"default","sha8":"73842050","findings":"童年辛工段——擦挡风玻璃+扫理发店被斥（scolding 无对白 unintelligible）+哭一息即止（cries for exactly one breath+forearm wipes in one hard practiced motion）；documentary cameraman living inside the memory 手持拟态"}
+{"idx":8,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":9,"len":3231,"model":"default","sha8":"54da5618","findings":"劳工童一日压缩段——**NO running anywhere in this shot — everything is slow, heavy, worn** 全段禁跑声明+红绳勒痕（rope-mark on his neck）+红灯亮门先开（the door opens BEFORE his knuckles land）；`...but the streets were never my home.` 金句"}
+{"idx":10,"len":4083,"model":"default","sha8":"c64ba9f3","findings":"框架叙事开篇板——frame-within-frame 自暗廊望向灯池（like a memory seen from outside）+婴儿床前景滑过轻植入（quietly plants the crib without pointing at it）+macro 转场入瞳（halation bloom→白化→过去）；`<<<image_3>>> is the color law — it wins over any conflicting instruction` **色彩权威参考制**"}
+{"idx":11,"len":2970,"model":"null","sha8":"84d3944c","findings":"MOUSSA JSON 三板角色表——**血统参考制**：reference_instruction \"the attached image is the character's FATHER at the same age — the son must be generated as a clear blood relative…inheriting its key features\"+CRITICAL FAMILY RESEMBLANCE IMMEDIATELY read father and son+**NO mole — the mole belongs to the father only 痣归属声明**；expression_baseline 泪红眼版"}
+{"idx":12,"len":3080,"model":"null","sha8":"f948dd0c","findings":"MOUSSA 表健康眼版——clear, natural, healthy eyes / no redness, no tears, no glassiness 表情基线双版制"}
+{"idx":13,"len":1832,"model":"null","sha8":"4a2adb3b","findings":"卧室海报板——**反射换魂构图金句**：Where the man's reflection should be in the glass, instead, the window shows the softly luminous reflection of an Egyptian mother（窗中映出亡母而非本人）+床叠 tarha+蓝石榴条纹童衫道具叙事"}
+{"idx":14,"len":1832,"model":"null","sha8":"4a2adb3b","findings":"同文重生成（首现行13）"}
+{"idx":15,"len":1832,"model":"null","sha8":"4a2adb3b","findings":"同文重生成（首现行13）"}
+{"idx":16,"len":1832,"model":"null","sha8":"4a2adb3b","findings":"同文重生成（首现行13）"}
+{"idx":17,"len":1260,"model":"null","sha8":"9619f40c","findings":"海报化 Lamp 版（下三分之一居中标题+mirror frame 背景）"}
+{"idx":18,"len":7209,"model":"default","sha8":"64c39021","findings":"**15 段头体系全案**（SCENE CONTEXT/ACTIVE REFERENCES/LOCATION MAP/FORMAT MODE/PERFORMANCE/PHYSICS/LIGHTING/COLOR GRADE/AUDIO/STYLE/OUTPUT SETTINGS/POSITIVE LOCKS）+tremor 2-3cm 量化+29°/47° 角度制+haze 30%/40%+3200K/5600K/8500K；`life lost its taste` 丧母失味开场+SHOT 8 **But she never left, habibi. She's here. Every day.** 点题金句"}
+{"idx":19,"len":7939,"model":"default","sha8":"e8827705","findings":"医院诀别板——8 shot 决别链（冲刺→跪求→摘氧气面罩 farewell smile→flatline→hysteria→推开医生→denial 平线不散）；63° observational+12° tele-detail whip+I'm taking you home 否认期台词；she speaks no words in the entire scene — her farewell is the mask, the smile and the hand squeeze only"}
+{"idx":20,"len":1638,"model":"videotape-alpha","sha8":"bd7ec952","findings":"**静默信全文制**——手写信件逐字烧录（\"My dear Karim, Take care of your brothers and sisters…Wait for me there. Your mother, Sahar\" 16 行全文 reads exactly）；蓝石榴条纹童衫+10-degree tilt 俯拍"}
+{"idx":21,"len":1638,"model":"null","sha8":"bd7ec952","findings":"同文重生成（首现行20）"}
+{"idx":22,"len":1955,"model":"videotape-alpha","sha8":"b61b8eae","findings":"葬礼灵柩（naash）JSON 两板道具表——**NO people 道具板**+completely BARE unadorned 素木六禁（no carvings/engravings/patterns/drawings/ornaments/cloth）"}
+{"idx":23,"len":1596,"model":"videotape-alpha","sha8":"2a913861","findings":"**Qarafa 死人城空景板**——qarafa — the City of the Dead in Cairo+**a city of the departed sleeping inside the city of the living 金句**+Anchor object: the small stone bench（**Anchor object 锚物尾标制首例**）"}
+{"idx":24,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":25,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":26,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":27,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":28,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":29,"len":1408,"model":"null","sha8":"87eeca65","findings":"shaabi 街空景板（Anchor object: the vegetable cart）+ONE patch of warm amber sunlight 单暖岛"}
+{"idx":30,"len":1483,"model":"null","sha8":"41056fdd","findings":"shaabi 街散文改写版——as if the image is a memory in the process of being forgotten 尾注"}
+{"idx":31,"len":5037,"model":"default","sha8":"d4b5fe6f","findings":"**FIRST FRAME / BLOCKING 段头首例**（Frame 1: the kitchen door easing shut…）+夜哭→晨报喜双拍板（Nour's pregnant. It's a boy.+We're naming him Moussa 命名=Sahar 纪念）；Lasts 4 seconds 切内时长标注"}
+{"idx":32,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":33,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":34,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":35,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":36,"len":1955,"model":"null","sha8":"b61b8eae","findings":"同文重生成（首现行22）"}
+{"idx":37,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":38,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":39,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":40,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":41,"len":1596,"model":"null","sha8":"2a913861","findings":"同文重生成（首现行23）"}
+{"idx":42,"len":1899,"model":"null","sha8":"526bb88c","findings":"**COLOR PALETTE (derived from master reference) 前置块首例**——母板衍生调色板段落整体贴于 location still 之前（muted dusty-mauve+drained faded-rose floral+no pure black anywhere）；ICU 夜景+monitor 绿波形=frame 最亮点（waveform imagery only, no readable text）"}
+{"idx":43,"len":1137,"model":"null","sha8":"7677d859","findings":"Cairo 夜街空景板（Anchor: the single glowing streetlamp——单灯暖岛）×4 连跑首现"}
+{"idx":44,"len":1137,"model":"null","sha8":"7677d859","findings":"同文重生成（首现行43）"}
+{"idx":45,"len":1137,"model":"null","sha8":"7677d859","findings":"同文重生成（首现行43）"}
+{"idx":46,"len":1137,"model":"null","sha8":"7677d859","findings":"同文重生成（首现行43）"}
+{"idx":47,"len":1915,"model":"null","sha8":"765b8383","findings":"诊所 CT 板——frosted glass partition 磨砂隔断前后景分层+glowing blue chest CT scan（imagery only）+cold dreamlike atmosphere of dread 情绪尾注"}
+{"idx":48,"len":1915,"model":"null","sha8":"765b8383","findings":"同文重生成（首现行47）"}
+{"idx":49,"len":1915,"model":"null","sha8":"765b8383","findings":"同文重生成（首现行47）"}
+{"idx":50,"len":1915,"model":"null","sha8":"765b8383","findings":"同文重生成（首现行47）"}
+{"idx":51,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":52,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":53,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":54,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":55,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":56,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":57,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":58,"len":6999,"model":"default","sha8":"e3b5337f","findings":"**ZERO-ERROR BLOCK — HIGHEST PRIORITY 段头首例**（faces identical no morphing/hands correct anatomy five fingers/eye-lines precise/no melting objects）+**refined cinematic handheld** 手持第二态（alive but never chaotic, never jarring+clean headroom, rule-of-thirds）+对视两秒后开口（holding the gaze a full two seconds before speaking）+SLOW measured delivery 慢台词律"}
+{"idx":59,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":60,"len":6618,"model":"default","sha8":"8eb2bfbf","findings":"硬币版归家板——pours a handful of METAL COINS down onto the folded pale gray tarha（钱落头巾上）+**batbata 拍背律**（pats his back in a slow rhythm (the batbata)——埃及母亲拍背术语入 prompt）+**笑容崩落慢律**：the smile-collapse happens DURING her turn away from the door, without stopping at the coins — slow and continuous, never a jump；**the grief of a mother whose ten-year-old carries a man's day 金句**；Metal coins, never paper money"}
+{"idx":61,"len":5883,"model":"default","sha8":"fdad43ee","findings":"纸币版归家板（crumpled banknotes on the tarha+presses them once to her chest）——与行60 硬币版成对；**henna fingertips 版**（与行60 plain hands 冲突实录）；smile drains facing the door 版"}
+{"idx":62,"len":3285,"model":"default","sha8":"e04c5790","findings":"batbata 全技板——tilts it up, reads the exhaustion in one glance+两拍颊+lifts the box's rope over his head；**Mirror Shot #1 编号+回归预约制**（framed clean — it returns reversed later in the film）；`you're still a kid. Kids are supposed to laugh.`；**cadr 源内笔误**（Low cinematic cadr）+尾部用户残留 \"No text anywhere.his clothes for karim\""}
+{"idx":63,"len":3666,"model":"default","sha8":"3ef9bd05","findings":"街头一日板——Top-down crane-style opening+**a child island in the moving city 金句**（动城静童环绕弧）+**His eyes are tired in a way that doesn't belong to a ten-year-old 金句**+电梯铁笼旁纸板过夜+雨终"}
+{"idx":64,"len":3018,"model":"null","sha8":"e3763da8","findings":"MOUSSA 角色表 16:9 版（3018c 缩进变体）"}
+{"idx":65,"len":2970,"model":"null","sha8":"84d3944c","findings":"同文重生成（首现行11）"}
+{"idx":66,"len":2970,"model":"null","sha8":"84d3944c","findings":"同文重生成（首现行11）"}
+{"idx":67,"len":1504,"model":"null","sha8":"abd2d69c","findings":"海报化 Lamp 三行纵排版 ×2 首现"}
+{"idx":68,"len":1504,"model":"null","sha8":"abd2d69c","findings":"同文重生成（首现行67）"}
+{"idx":69,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":70,"len":691,"model":"null","sha8":"4ee4167e","findings":"**横版 16:9 cover 版**（Transform this cinematic still into a horizontal 16:9 film cover——海报长宽两态）"}
+{"idx":71,"len":1260,"model":"null","sha8":"9619f40c","findings":"同文重生成（首现行17）"}
+{"idx":72,"len":1406,"model":"null","sha8":"0d99df26","findings":"**镜中亡母海报版**——In the blurred mirror frame behind his right shoulder, add a soft luminous reflection that does not belong to the room: an Egyptian mother…subtly translucent like light through a curtain（**she appears only in the mirror, not in the room 镜外禁在声明**——quiet presence, not a ghost effect）"}
+{"idx":73,"len":1260,"model":"null","sha8":"9619f40c","findings":"同文重生成（首现行17）"}
+{"idx":74,"len":7875,"model":"default","sha8":"df4c0ee7","findings":"读信终章板——**六闪回 joy-grief 交替**（10.5-16.5s 六个一秒碎片 alternating joy and grief, each under a second, silent）+**tear lands ON THE PAPER**（the tear falls…darkening a small spot 泪落纸渍）+thumb brushes once across \"Your mother, Sahar\"（指腹擦名）+**HER SMILE RETURNS**（her exact farewell smile settles onto his face——亡母微笑还魂于子）+对照片点头 as if answering her；18° natural portrait 新角度值；3800K"}
+{"idx":75,"len":1103,"model":"null","sha8":"f92fdea4","findings":"镜中亡母海报 A24 版——like an A24 drama poster 风格锚+**like she is made of the lamp light 金句**"}
+{"idx":76,"len":1103,"model":"videotape-alpha","sha8":"f92fdea4","findings":"同文重生成（首现行75）"}
+{"idx":77,"len":1469,"model":"videotape-alpha","sha8":"898eac61","findings":"信件道具换元版——striped shirt→**plain gold medal on a ribbon**（灵床信件旁道具从童衫换金牌）"}
+{"idx":78,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":79,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":80,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":81,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":82,"len":1596,"model":"videotape-alpha","sha8":"2a913861","findings":"同文重生成（首现行23）"}
+{"idx":83,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":84,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":85,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":86,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":87,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":88,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":89,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":90,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":91,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":92,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":93,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":94,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":95,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":96,"len":1483,"model":"null","sha8":"41056fdd","findings":"同文重生成（首现行30）"}
+{"idx":97,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":98,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":99,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":100,"len":1105,"model":"null","sha8":"74098b30","findings":"黎明街板（Anchor: the delivery handcart+stray cat-sized patch of warm light——猫大小暖斑比喻）"}
+{"idx":101,"len":1483,"model":"null","sha8":"41056fdd","findings":"同文重生成（首现行30）"}
+{"idx":102,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":103,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":104,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":105,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":106,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":107,"len":1899,"model":"null","sha8":"526bb88c","findings":"同文重生成（首现行42）"}
+{"idx":108,"len":1899,"model":"null","sha8":"526bb88c","findings":"同文重生成（首现行42）"}
+{"idx":109,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":110,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":111,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":112,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":113,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":114,"len":2326,"model":"null","sha8":"bf257115","findings":"**客厅母景板 ×4 连跑首现**（2326c）——the safe harbor at the end of a long remembered life 尾注+frayed pale gray scarf subtly luminous（头巾微光=圣物标记）"}
+{"idx":115,"len":2326,"model":"null","sha8":"bf257115","findings":"同文重生成（首现行114）"}
+{"idx":116,"len":2326,"model":"null","sha8":"bf257115","findings":"同文重生成（首现行114）"}
+{"idx":117,"len":2326,"model":"null","sha8":"bf257115","findings":"同文重生成（首现行114）"}
+{"idx":118,"len":1394,"model":"null","sha8":"4b87a61c","findings":"黎明街散文版 ×4 连跑首现（1394c）——like the city's soul gently stirring awake 尾注"}
+{"idx":119,"len":1394,"model":"null","sha8":"4b87a61c","findings":"同文重生成（首现行118）"}
+{"idx":120,"len":1394,"model":"null","sha8":"4b87a61c","findings":"同文重生成（首现行118）"}
+{"idx":121,"len":1394,"model":"null","sha8":"4b87a61c","findings":"同文重生成（首现行118）"}
+{"idx":122,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":123,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":124,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":125,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":126,"len":3562,"model":"default","sha8":"5c98b281","findings":"晨报喜板（15 段头体系+FIRST FRAME / BLOCKING 段头——phone stays in his left hand 道具手侧锁）"}
+{"idx":127,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":128,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":129,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":130,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":131,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":132,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":133,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":134,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":135,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":136,"len":1483,"model":"null","sha8":"41056fdd","findings":"同文重生成（首现行30）"}
+{"idx":137,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":138,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":139,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":140,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":141,"len":1899,"model":"null","sha8":"526bb88c","findings":"同文重生成（首现行42）"}
+{"idx":142,"len":1858,"model":"null","sha8":"78a2d282","findings":"肿瘤病房板 ×4 连跑首现（1858c）——bedside glass of water+smartphone+**folded pale gray scarf subtly luminous**（头巾入病房）；heavy tender stillness 尾注"}
+{"idx":143,"len":1858,"model":"null","sha8":"78a2d282","findings":"同文重生成（首现行142）"}
+{"idx":144,"len":1858,"model":"null","sha8":"78a2d282","findings":"同文重生成（首现行142）"}
+{"idx":145,"len":1858,"model":"null","sha8":"78a2d282","findings":"同文重生成（首现行142）"}
+{"idx":146,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":147,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":148,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":149,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":150,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":151,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":152,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":153,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":154,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":155,"len":1908,"model":"null","sha8":"8823e316","findings":"**产科房例外暖房板 ×4 连跑首现**（1908c）——DREAMY CINEMATIC GRAY grade with ONE exception…**the only room in this world where warmth wins 金句**+the single brightest memory of a life+粉色近褪（the pink almost pastel-gray——色彩律内新生例外）"}
+{"idx":156,"len":1908,"model":"null","sha8":"8823e316","findings":"同文重生成（首现行155）"}
+{"idx":157,"len":1908,"model":"null","sha8":"8823e316","findings":"同文重生成（首现行155）"}
+{"idx":158,"len":1908,"model":"null","sha8":"8823e316","findings":"同文重生成（首现行155）"}
+{"idx":159,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":160,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":161,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":162,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":163,"len":1880,"model":"null","sha8":"219ea07e","findings":"**母亲遗物卧室板 ×4 连跑首现**（1880c）——rusted tin biscuit box 半抽床下入光带（锈饼干盒=未启秘密锚物）+**the room feels like it is holding its breath 尾注**"}
+{"idx":164,"len":1880,"model":"null","sha8":"219ea07e","findings":"同文重生成（首现行163）"}
+{"idx":165,"len":1880,"model":"null","sha8":"219ea07e","findings":"同文重生成（首现行163）"}
+{"idx":166,"len":1880,"model":"null","sha8":"219ea07e","findings":"同文重生成（首现行163）"}
+{"idx":167,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":168,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":169,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":170,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":171,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":172,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":173,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":174,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":175,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":176,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":177,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":178,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":179,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":180,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":181,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":182,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":183,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":184,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":185,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":186,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":187,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":188,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":189,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":190,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":191,"len":1074,"model":"null","sha8":"f740bae7","findings":"贫困客厅板（CRT 电视+tableya——Anchor object: the worn floral sofa facing the old television）"}
+{"idx":192,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":193,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":194,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":195,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":196,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":197,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":198,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":199,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":200,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":201,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":202,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":203,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":204,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":205,"len":919,"model":"videotape-alpha","sha8":"c7e2850d","findings":"一室家板（tableya+煤油炉+绳晾衣——Anchor: the low wooden tableya beneath the hanging bulb）"}
+{"idx":206,"len":5246,"model":"default","sha8":"a45657b1","findings":"**三拍绝望板**——玻璃后无声宣判（the doctor's mouth moving without sound+**The silence of the glass makes it final. 金句**）→夜街拖行（**a man forgetting how to walk 金句**+3 km/h 跟拍速度量化+sodium 2200K）→厨房门滑跪掩泣（slides 20 cm down the door 滑落量化+sobs punch through a clamped hand 哭声压制力学）"}
+{"idx":207,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":208,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":209,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":210,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":211,"len":1222,"model":"null","sha8":"6f2e3d66","findings":"大理石楼梯黎明板（纸板睡位+cage elevator 铁笼电梯+drizzle 飘入破窗——Anchor: the cardboard sleeping spot）"}
+{"idx":212,"len":1074,"model":"videotape-alpha","sha8":"f740bae7","findings":"同文重生成（首现行191）"}
+{"idx":213,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":214,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":215,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":216,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":217,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":218,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":219,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":220,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":221,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":222,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":223,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":224,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":225,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":226,"len":1663,"model":"null","sha8":"7d2fec24","findings":"对位客厅板 ×2 首现（sofa directly FACING the CRT TV——轴线家具声明）"}
+{"idx":227,"len":1663,"model":"videotape-alpha","sha8":"7d2fec24","findings":"同文重生成（首现行226）"}
+{"idx":228,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":229,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":230,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":231,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":232,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":233,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":234,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":235,"len":3663,"model":"null","sha8":"aa92f98c","findings":"SAHAR 病瘦版 JSON 三板——**化疗两版体型实录之一**：THIN and gaunt, hollowed sunken cheeks+wilted+**NO eyebrows — completely fallen out from chemotherapy 无眉条款**+**she is sick, never pitiful 尊严条款**+**eyes that say goodbye while the lips still comfort 金句**+tarha PALE LIGHT-GRAY signature object+faint luminous quality"}
+{"idx":236,"len":2612,"model":"videotape-alpha","sha8":"47ba2c2f","findings":"MOUSSA Karim 之子版——STRONG family resemblance to the young Karim reference（无父参考图版血统声明）"}
+{"idx":237,"len":2772,"model":"null","sha8":"4c989338","findings":"SAHAR 健康版三板——the archetypal warm Egyptian mama+eyes that smile before her lips do+tarha 亮辉签名"}
+{"idx":238,"len":2382,"model":"null","sha8":"f965a8ab","findings":"童装平铺表——**10-12 细条纹版**（MANY THIN VERTICAL stripes…10 to 12 narrow pinstripe-width stripes+NO crest NO logo NO sponsor NO number NO lettering）"}
+{"idx":239,"len":919,"model":"videotape-alpha","sha8":"c7e2850d","findings":"同文重生成（首现行205）"}
+{"idx":240,"len":3498,"model":"null","sha8":"539a3031","findings":"SAHAR 病肿版——**化疗两版体型实录之二**：SWOLLEN and PUFFY, rounded bloated cheeks+puffy heavy eyelids+waxy——与行235 瘦版冲突实录"}
+{"idx":241,"len":2292,"model":"null","sha8":"9fae63ac","findings":"童装平铺表——**bold blaugrana 宽条纹版**（bold vertical stripes alternating deep blue and garnet red (blaugrana colors)——与行238 细条纹冲突实录）"}
+{"idx":242,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":243,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":244,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":245,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":246,"len":2891,"model":"null","sha8":"f2eaa552","findings":"KARIM 10 岁卷发版三板（×3 连跑首现）——**儿童比例三件**：NOT a teenager and NOT a shrunken adult+bigger eyes relative to the face+rounder softer features, smaller nose"}
+{"idx":247,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":248,"len":3498,"model":"null","sha8":"539a3031","findings":"同文重生成（首现行240）"}
+{"idx":249,"len":2891,"model":"videotape-alpha","sha8":"f2eaa552","findings":"同文重生成（首现行246）"}
+{"idx":250,"len":3288,"model":"null","sha8":"9c497946","findings":"SAHAR 病瘦披版（wrapped more loosely+gold band now loose——婚戒变松细节）"}
+{"idx":251,"len":2621,"model":"null","sha8":"937a0c1e","findings":"KARIM 10 岁简写版（小写 mole 声明）"}
+{"idx":252,"len":3121,"model":"null","sha8":"e1f6c3c5","findings":"KARIM 60 岁老年版——**expression_note 键**：his face shows a man who started with nothing and ended with everything except the one person he wanted to share it with（**一生总结句**）+quiet understated wealth, never flashy（wealth shows in fabric quality and grooming, not flashiness 财不外露律）"}
+{"idx":253,"len":2891,"model":"null","sha8":"f2eaa552","findings":"同文重生成（首现行246）"}
+{"idx":254,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":255,"len":2073,"model":"null","sha8":"6bdc481e","findings":"KARIM 10 岁直发版——**发卷双版冲突**：soft smooth straight black hair falling naturally over his forehead（与 246 卷发版冲突）+tired eyes that are older than his face, but a stubborn half-smile of dignity"}
+{"idx":256,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":257,"len":2247,"model":"null","sha8":"b3a986cc","findings":"KARIM 10 岁卷发瘦版（2247c ×2 连跑首现）"}
+{"idx":258,"len":2763,"model":"null","sha8":"6d12769b","findings":"KARIM 60 岁老年简版（2763c——notes 缩减变体，对行252）"}
+{"idx":259,"len":2247,"model":"null","sha8":"b3a986cc","findings":"同文重生成（首现行257）"}
+{"idx":260,"len":6699,"model":"default","sha8":"ca0390e6","findings":"**joy-dread 同息板**——出生/病危同一呼吸（And the day you were born…was the day everything came at once）；**takes the weight like glass 金句**+**terror arriving in a body still holding new life 金句**+smile dies mid-breath（笑容半息而死）+tremor rising from 2 cm to 4 cm through the shot（颤幅升级量化）"}
+{"idx":261,"len":5109,"model":"default","sha8":"8eb7f27e","findings":"荣誉授勋板——gold medal plain smooth gold disc on a ribbon with a clean blank polished surface（**无字奖牌声明**）+**clapping fast and off-rhythm the way mothers do 金句**+**like she is holding all the years at once 金句**+bodies rock 2 cm on impact of the hug（拥抱冲击量化）"}
+{"idx":262,"len":4787,"model":"default","sha8":"5bbdd890","findings":"荣誉授勋板道具换元版——gold medal→**crystal award**（水晶奖杯双版）"}
+{"idx":263,"len":9141,"model":"default","sha8":"7d6a4b01","findings":"**HANDHELD TENSION = 情绪载体板（9141c 全项目最长）**——the instability is emotional（婚礼暖摆 nervy undercurrent→诊所 anxious micro-shakes→forced trembling near-calm→present quiet unsettled breathing——四段颤幅情绪谱）；**HARD TONAL CUT** 段内换调声明；**the frame walks backward before them, trembling faintly, barely holding itself together — like him 镜头拟人金句**；**That was the day I learned how heavy a smile can be 重磅金句**；**双层表演声明**（Karim performs happiness for his mother while dying inside — the audience sees both layers）+Sahar never speaks — her unawareness is silent+BRIDE soft-focus only（face NEVER sharp, NEVER in focus——三不聚焦族：新娘/宾客/医生）+zaghareet 婚乐=di-egetic through haze, not as score+WARDROBE RULE — ADULT KARIM 段头（quiet refined elegance/understated success — quality fabrics, perfect fit, no logos）+tea glass in BOTH hands throughout 全程捧茶+婚舞首献母（the first dance was hers）"}
+{"idx":264,"len":8348,"model":"default","sha8":"831c8bf1","findings":"婚礼-诊所变体板（8348c——首舞+确诊双闪回 B 版）"}
+{"idx":265,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}

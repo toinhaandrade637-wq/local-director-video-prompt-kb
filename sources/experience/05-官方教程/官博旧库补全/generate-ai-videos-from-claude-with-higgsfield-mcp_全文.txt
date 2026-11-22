@@ -1,0 +1,771 @@
+【项目】Generate-AI-Videos-From-Claude-with-Higgsfield-MCP（官方博客 · Title-Case 重抓 2026-11-04）
+【链接】https://higgsfield.ai/blog/Generate-AI-Videos-From-Claude-with-Higgsfield-MCP
+【提示词块】1（2026-11-05 原始大小写 curl 复核；1 块已存 官博提示词块全集_63篇402块.jsonl 附录）
+【捕获】2026-11-04（Title-Case 重抓·替换旧 404 墓碑）
+
+──────────────────────────────────────
+
+How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)
+
+Higgsfield
+
+Explore
+
+Image
+
+Video
+
+Audio
+
+MCP
+
+API
+
+Genjutsu
+New
+
+Content Factory
+New
+
+Playable
+New
+
+Mangaka
+New
+
+AI Influencer
+
+Academy
+New
+
+Katana
+
+ChatGPT Plugin
+
+Ads Studio
+
+Effects
+
+Cinema Studio
+
+Contests
+
+Marketing Studio
+
+Supercomputer
+
+Edit
+
+Community
+
+Plugins
+
+Canvas
+
+Originals
+
+Creator Hub
+
+Creator Hub
+
+Help center
+
+Blog
+
+Changelog
+
+Customer Stories
+
+Search Creator Hub
+
+On this page
+
+What Is the Higgsfield MCP Connector?
+
+How Does the Connector Work?
+
+How Do You Connect Higgsfield to Claude?
+
+How Do You Generate Your First Video in Claude?
+
+What Kinds of Videos Can You Make in Claude?
+
+How Much Does Generating Video in Claude Cost?
+
+What If Something Goes Wrong?
+
+Is the Higgsfield MCP Connector Worth Setting Up?
+
+Blog
+
+/
+
+Guides
+
+/
+
+How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)
+
+Back
+
+How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)
+
+Higgsfield
+
+Oct 27, 2026
+
+7 min
+
+To generate AI videos in Claude, add Higgsfield as a custom connector in Claude, sign in to your Higgsfield account, and describe the video in a chat. Claude picks a Higgsfield model, sets the parameters, runs the generation and returns the clip in the conversation. Each generation uses Higgsfield credits. This guide covers setup, your first video, what you can make, what it costs, and how to fix common problems.
+
+TL;DR
+
+Add Higgsfield as a custom connector in Claude with the URL 
+https://mcp.higgsfield.ai/mcp
+, then sign in to Higgsfield. No API key is needed.
+
+Describe the video in plain language. Claude chooses the model, or you can name one in the prompt.
+
+Every generation through the connector uses credits. Unlimited models and free generations don’t apply.
+
+What Is the Higgsfield MCP Connector?
+
+MCP (Model Context Protocol) is an open standard that lets AI assistants use external tools. The Higgsfield MCP connector gives Claude access to Higgsfield’s video, image and audio tools, so you can generate from a chat instead of switching to the Higgsfield site.
+
+What Is the Higgsfield MCP Connector?
+
+You need
+
+Details
+
+A Claude account
+
+claude.ai or Claude Desktop. On the Free plan, Claude allows one custom connector.
+
+A Higgsfield subscription
+
+Generations use the credits on your plan.
+
+Permission to add connectors
+
+On Team plans, an Owner or Primary Owner adds the connector in Organization settings → Connectors. On Enterprise plans, people with a custom role that includes Manage access to Libraries can add it too. Members then connect it in Customize → Connectors.
+
+Higgsfield also works with ChatGPT, Cursor, Claude Code and other compatible AI agents. The setup differs by client: Claude uses a custom MCP connector, ChatGPT uses the Higgsfield plugin, Cursor adds it from its Marketplace, and coding agents such as Claude Code can use the Higgsfield CLI.
+
+How Does the Connector Work?
+
+Three parts share the work. Claude turns your request into generation settings, MCP connects Claude to Higgsfield’s tools, and Higgsfield runs the generation and saves the result to your account. You sign in on Higgsfield’s own page, so Claude never sees your Higgsfield password.
+
+Claude
+ reads your request and the conversation, picks a model and settings, and writes the prompt. In our test, it split a one-paragraph brief into four shots before generating.
+
+MCP
+ is the open standard that lets Claude call Higgsfield’s tools. You connect once with the connector URL, and no API key is needed.
+
+Higgsfield
+ runs the model, generates audio when the model supports it, and returns the clip to the chat. The same clip is saved in History and Assets on 
+higgsfield.ai
+.
+
+How Do You Connect Higgsfield to Claude?
+
+You set it up once.
+
+Step 1: Open Connectors.
+ In 
+claude.ai
+ or Claude Desktop, go to 
+Customize → Connectors
+.
+
+Step 2: Add a custom connector.
+ Click 
++ Add
+, then 
+Add custom connector
+, name it Higgsfield and paste the URL:
+
+https://mcp.higgsfield.ai/mcp
+
+Step 3: Sign in.
+ Click 
+Connect
+. A Higgsfield window opens: sign in and authorize access. If you’re already signed in on 
+higgsfield.ai
+, this happens automatically.
+
+Step 4: Check the connector.
+ Higgsfield now appears in your list of connectors. In a chat, open the 
++
+ menu → 
+Connectors
+ and make sure Higgsfield is turned on.
+
+Step 5: Test the connection.
+ Open a new chat and ask, “What is my Higgsfield credit balance?” or “List my recent Higgsfield generations.” If Claude answers using Higgsfield, the connection is working. If it answers without calling Higgsfield, check that the connector is turned on and reconnect it.
+
+Claude Code
+ connects through the Higgsfield CLI instead of the connector URL:
+
+npm i -g @higgsfield/cli
+higgsfield auth login
+npx skills add higgsfield-ai/skills
+
+How Do You Generate Your First Video in Claude?
+
+Open a new chat and describe the video: the subject, the action, the camera and the length. You don’t need to name a model, but you can, for example “Use Seedance 2.5”.
+
+Our prompt:
+
+Make a 10-second 16:9 video with Seedance 2.5 in 1080p. A young guy in a blue t-shirt and white pants rides a black bike down a palm-lined city boulevard at sunset, weaving between cars and taxis. He rides along the roof of a black stretch limo past an old theater marquee, then drops back onto the street. A quick POV shot shows his front wheel racing over the asphalt, then he leans into the lens with a smile and rides off into the sun. Before you generate it, tell me how many credits it will cost.
+
+Copy
+
+Recreate
+
+Before generating, Claude split the prompt into four shots, showed the cost (160 credits) and asked for confirmation. After we approved, it ran the generation and returned the clip in the chat.
+
+Your browser does not support the video.
+
+Every generation is also saved to your Higgsfield account, in the History tab of the Video page and in Assets, where you can reuse past results as references.
+
+To change the result, reply in the same chat: ask for another camera move, a different model, or a few variants of the same shot.
+
+What Kinds of Videos Can You Make in Claude?
+
+Through the connector, Claude can use Higgsfield’s video and image models, including Seedance, Kling, Veo and MiniMax Hailuo.
+
+What Kinds of Videos Can You Make in Claude?
+
+Task
+
+What to ask Claude
+
+A video from a text description
+
+Describe the scene, action and camera
+
+A video from your image
+
+“Open the Higgsfield upload window so I can add my image, then animate it.”
+
+The same shot on several models
+
+“Run this on Kling and Seedance and show me both”
+
+Video ads from a product link
+
+Use Marketing Studio
+
+New versions of an existing ad with new characters, clothing, locations or objects
+
+Use Ad Multiplier
+
+The same character in different scenes
+
+Train a Soul Character from photos
+
+Restyle a video or swap objects in it
+
+Use Genjutsu: Motion Transfer, Object Swap or Restyle
+
+Movement from a reference video
+
+Use Kling Motion Control
+
+A voiceover or translation
+
+Ask Higgsfield Audio for a voiceover, voice change or translation
+
+Vertical or horizontal versions
+
+Ask to expand the video to 9:16 or 16:9
+
+Higher resolution
+
+Ask to upscale the video to 4K
+
+Claude can’t use images attached to the chat. For a reference image or video, ask Claude to open the Higgsfield upload window, upload the file there, wait for confirmation, and then describe how to use it.
+
+Ready-made workflows for marketing, UGC and faceless content are on the 
+Higgsfield Skills
+ page. For workflows inside desktop software, see the 
+Production Skills Bundle
+: 11 workflows for Blender, Premiere Pro, After Effects, Photoshop, Illustrator, TouchDesigner and DaVinci Resolve Studio. The apps need to be installed on your computer.
+
+How Much Does Generating Video in Claude Cost?
+
+Every generation through the connector deducts credits, regardless of your plan. Unlimited models and free generations work only on 
+higgsfield.ai
+, not through MCP.
+
+The cost depends on the model, resolution and length:
+
+How Much Does Generating Video in Claude Cost?
+
+Model
+
+Settings
+
+Credits
+
+≈ Cost
+
+Seedance 2.5
+
+720p, 10 sec
+
+70
+
+$3.43
+
+Seedance 2.5
+
+1080p, 10 sec
+
+160
+
+$7.84
+
+Approximate costs use the rate of $49 for 1,000 credits.
+
+The connector has no built-in spending limit. To keep control, ask Claude in the chat to show the plan and wait for your approval before each generation. Upscaling is the exception: it doesn’t show the cost in advance.
+
+Don’t confuse the MCP connector with the Higgsfield API: the API is a separate product with its own billing.
+
+Prices verified October, 2026.
+
+What If Something Goes Wrong?
+
+What If Something Goes Wrong?
+
+Problem
+
+What to do
+
+Authorization failed
+
+Disconnect the Higgsfield connector, then connect and authorize again
+
+Claude doesn’t use Higgsfield
+
+Start a new chat, mention Higgsfield in the prompt, and check that the connector is turned on for this chat
+
+Generation completed, but no video appears
+
+Wait up to 60 seconds, then check Manage Account → Usage to confirm the generation ran. If credits were deducted but no result appears, contact support with the generation ID and time.
+
+Is the Higgsfield MCP Connector Worth Setting Up?
+
+The Higgsfield MCP connector is worth setting up if you already work in Claude and want to generate video without switching to the Higgsfield site. Setup takes five steps and no API key. Every generation uses credits, so ask Claude to show the cost before it runs.
+
+Use it for
+ quick text-to-video clips, running one brief on several models, and image-to-video with files added through the Higgsfield upload window.
+
+Check the cost first
+ for longer or higher-resolution clips: a 10-second Seedance 2.5 clip costs 70 credits at 720p and 160 at 1080p.
+
+How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)
+
+Connect Higgsfield to Claude
+
+Got any questions left?
+
+Do I need an API key?
+
+No. Add the MCP URL in Claude and sign in to your Higgsfield account.
+
+Do I need a paid plan to use Higgsfield in Claude?
+
+Yes. Generations through the connector use the credits on your Higgsfield plan.
+
+Does Unlimited work through MCP?
+
+No. Every generation through the connector uses credits. Unlimited models and free generations work only on higgsfield.ai.
+
+Can I use Higgsfield in Claude Code?
+
+Yes, through the Higgsfield CLI: install it with 
+npm i -g @higgsfield/cli
+, sign in with 
+higgsfield auth login
+, then add the skills with 
+npx skills add higgsfield-ai/skills
+.
+
+Can I use Higgsfield in ChatGPT?
+
+Yes, through the Higgsfield plugin at 
+chatgpt.com/plugins/higgsfield
+. Open it, sign in to your Higgsfield account, and Higgsfield appears in the ChatGPT sidebar.
+
+Where are my videos saved?
+
+In the chat and in your Higgsfield account: the History tab of the Video page and Assets. You can reuse past results as references in new generations.
+
+by Higgsfield
+
+Higgsfield AI vs Magnific 2026: Features and Pricing Compared
+
+5 Best Platforms to Access Kling 4.0 in 2026
+
+Discover more
+
+View all
+
+Comparisons
+
+10 Best AI Video MCP Servers for Claude, ChatGPT and Cursor in 2026
+
+14 min
+
+·
+
+Oct 20, 2026
+
+Comparisons
+
+The 10 Best AI Video Models in 2026, Tested and Compared
+
+10 minutes
+
+·
+
+Oct 20, 2026
+
+Comparisons
+
+Higgsfield Pricing Explained: Plans, Credits, and What’s Included
+
+8 min
+
+·
+
+Oct 24, 2026
+
+Comparisons
+
+11 Best AI Video Ad Generators
+
+14 min
+
+·
+
+Oct 20, 2026
+
+Guides
+
+How To Create a Talking AI Avatar in Claude with Higgsfield MCP (Full Workflow + Prompts)
+
+9 min
+
+·
+
+Aug 12, 2026
+
+Editorials
+
+Meet Higgsfield Unlimited MCP: How It Works and What You Get
+
+8 min
+
+·
+
+Jul 28, 2026
+
+AI-native creative suite
+
+Create
+
+AI Video
+
+AI Video Effects
+
+AI Image
+
+Edit Image
+
+Inpaint
+
+Upscale
+
+AI Video Upscaler
+
+Mixed Media
+
+AI Face Swap
+
+AI Influencer
+
+Apps
+
+Video Models
+
+Seedance 2.5
+
+Seedance 2.0
+
+Kling 3.0
+
+Sora 2 Introduction
+
+Veo 3.1 Introduction
+
+WAN 2.6
+
+Grok Imagine 1.5
+
+Gemini Omni Flash
+
+Image Models
+
+Nano Banana
+
+Flux 2
+
+Seedream 5
+
+GPT Image 2
+
+Ideogram 4.5
+
+Studios
+
+Cinema Studio
+
+Marketing Studio
+
+Lipsync Studio
+
+Higgsfield Popcorn
+
+Higgsfield Canvas
+
+Higgsfield Mangaka
+
+Soul
+
+Soul 2.0
+
+Soul ID Character
+
+Soul Cinema
+
+Platform
+
+Supercomputer
+
+AI Motion Designer
+
+MCP/CLI
+
+API
+
+Collab
+
+Games
+
+Reference Extension
+
+Resources
+
+Blog
+
+Help Center
+
+Academy
+
+Prompt Guide
+
+Company
+
+About
+
+Trust
+
+Report a vulnerability
+
+Enterprise
+
+Team
+
+Pricing
+
+Careers
+
+Contact
+
+Community
+
+Community
+
+Contests
+
+Creative Partners
+
+X / Twitter
+
+Youtube
+
+LinkedIn
+
+Tiktok
+
+Discord
+
+Create
+
+AI Video
+
+AI Video Effects
+
+AI Image
+
+Edit Image
+
+Inpaint
+
+Upscale
+
+AI Video Upscaler
+
+Mixed Media
+
+AI Face Swap
+
+AI Influencer
+
+Apps
+
+Video Models
+
+Seedance 2.5
+
+Seedance 2.0
+
+Kling 3.0
+
+Sora 2 Introduction
+
+Veo 3.1 Introduction
+
+WAN 2.6
+
+Grok Imagine 1.5
+
+Gemini Omni Flash
+
+Image Models
+
+Nano Banana
+
+Flux 2
+
+Seedream 5
+
+GPT Image 2
+
+Ideogram 4.5
+
+Studios
+
+Cinema Studio
+
+Marketing Studio
+
+Lipsync Studio
+
+Higgsfield Popcorn
+
+Higgsfield Canvas
+
+Higgsfield Mangaka
+
+Soul
+
+Soul 2.0
+
+Soul ID Character
+
+Soul Cinema
+
+Platform
+
+Supercomputer
+
+AI Motion Designer
+
+MCP/CLI
+
+API
+
+Collab
+
+Games
+
+Reference Extension
+
+Resources
+
+Blog
+
+Help Center
+
+Academy
+
+Prompt Guide
+
+Company
+
+About
+
+Trust
+
+Report a vulnerability
+
+Enterprise
+
+Team
+
+Pricing
+
+Careers
+
+Contact
+
+Community
+
+Community
+
+Contests
+
+Creative Partners
+
+535 Mission St, 14th floor, San Francisco, CA, 94105
+
+X / Twitter
+
+Youtube
+
+LinkedIn
+
+Tiktok
+
+Discord
+
+© 
+2026
+ Higgsfield, Inc.
+
+ 
+All rights reserved.
+
+Help center
+
+Cookie Notice
+
+Terms
+
+Privacy
+
+Report a vulnerability

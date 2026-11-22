@@ -1,0 +1,545 @@
+Explore
+Image
+Video
+Audio
+Edit
+Cinema Studio 4.0
+Marketing Studio
+Viral Presets
+MCP & CLI
+Supercomputer
+Academy
+Community
+Contests
+New
+Plugins
+Canvas
+Originals
+Pricing
+30% OFF
+Enterprise
+Assets
+@adilinthewild
+/
+Swap Anything Into Your Video With One Photo: The Full Seedance 2.5 V2V Guide
+Contents
+Swap Anything Into Your Video With One Photo: The Full Seedance 2.5 V2V Guide
+@adilinthewild
+Aug 27, 2026
+843
+0
+
+
+
+
+Before You Start
+
+This whole video is one real 23-second drone shot of Adil riding a bike on a beach. Everything else — the purple dusk, the wheelie, the dog, the pirate ships, the kraken, the tribal horde — was swapped in with Seedance 2.5 video-to-video. No reshoots, no VFX team. You upload your footage, drop in reference photos for the things you want to add or swap, and describe the rest.
+
+
+
+
+Build your references first. The model pulls identity, weather and character design from them, so one good photo per element is what keeps everything consistent across the whole ride. Face reference and creature designs were plain photos; the dusk plate sets the entire color grade. Below you'll find every final prompt, ready to recreate.
+
+
+
+
+higgsfield-seedance-prompt-builder.md
+MD
+
+
+
+
+Scenes
+Part 1, Scene 1 — The Base Take
+
+The backstory: we wanted the whole hook as one continuous shot — Adil holding the camera himself, a real handheld selfie that releases and flies away while he rides. But pulling that off for real means flying a drone right next to his face on a moving bike: unsafe, and the hand-to-drone release is nearly impossible to nail in one take. So we shot what was safe — a clean wide take of him riding, with the camera pulling away like a drone shot — and let Seedance change the shot itself: this prompt rebuilds the source into a selfie take, generating the camera into his hand and the physical release that flies back into our real wide framing. 
+
+
+
+
+What it does: turns the wide footage into one continuous 5-second take — Adil holds the camera, speaks to it, releases it, and it settles exactly on the supplied end frame of the real shot. This generated clip then became the source video we attached as the asset for every identity swap below.
+
+
+Assets
+
+Real Footage
+
+
+
+
+@Video 1 · 5s controls the beach, bicycle motion, dialogue timing, lighting and color. Its audio plays continuously and unchanged: "Watch this. With just one photo, I can swap myself into whoever I want." @Video 2 · 2s is an ENDING REFERENCE only; finish on its LAST FRAME, matching the supplied end frame. @Image 1 is Adil's face identity.
+
+
+
+
+ONE continuous 5-second cinema take. Adil is the ONLY person in the entire clip. There are no character swaps, no transformations, no other identities, no bald man, no jelly figure and no material changes. He stays the same man, in the same beige open shirt, white tee and light trousers, on the same bicycle, from the first frame to the last.
+
+
+
+
+IDENTITY LOCK: Adil matches @Image 1 in every readable frame — oval face, warm olive skin, dark almond eyes, straight nose, thick dark chevron moustache, dense short black curls, small silver hoop earrings. His face stays stable and recognizable under the close wide-angle selfie perspective and remains identical after the camera pulls back. No identity drift, no face wobble, no age or feature shift between the close view and the wide view.
+
+
+
+
+CAMERA: the first frame is already a close wide-angle selfie view with the camera gripped in Adil's RIGHT hand while his LEFT hand steers. Subtle realistic hand-held life: low-amplitude irregular tremor from grip tension, breathing, pedaling and uneven sand, tiny wrist rotations, delayed shoulder pulses and natural corrective settling — never digital jitter. He then performs a real physical release: fingers open one by one, the palm flattens, the camera lifts away with the residual velocity of his arm and tilts briefly before a stabilizer levels it, and his freed right hand travels down a visible physical path and closes on the handlebar grip. The hand never fades, stretches, thins away or vanishes. The camera then flies backward in one long smooth deceleration arc and returns exactly to @Video 1 · 5s's original frontal tracking angle, height, distance and centered composition. Level horizon, no roll, no whip pan, no framing jump. Continuous background parallax proves real forward travel — sand, puddles and horizon slide past without pause and the bicycle never pedals in place. Focal length, depth of field and background blur stay constant.
+
+
+
+
+PERFORMANCE: Adil delivers the whole line himself with precise lip-sync to @Video 1 · 5s's audio — correct mouth shapes per consonant and vowel, visible teeth and tongue on plosives, natural lateral and rotational jaw motion, breath between words, never mechanical flapping. He adds a couple of confident playful head accents on the beats — a quick tilt or snap of the head to the side and back with the neck leading, shoulders following a beat later and his curls lagging and settling with real inertia — but his identity never changes; it is only body language. Living face: brow movement, orbicularis tension, cheek lifts, nostril flare on breath, asymmetric mouth corners, irregular blinking, saccadic gaze shifts, squinting into sun and wind, and expression that evolves through the line.
+
+
+
+
+SKIN AND EYES: unretouched documentary realism — zone-varying pores, fine vellus hair in sunlight, oil sheen on nose, forehead and cheekbones, dry matte cheeks, uneven pigmentation, faint capillaries, moles, small blemishes, sun redness, subsurface scattering in ears, nostrils and lips, chapped lip texture, light sweat from riding. Eyes with wet corneas reflecting sky, sea and sand, iris fiber detail and daylight pupil size. No beauty filter, plastic sheen, pore-free cheeks, airbrushing, glowing complexion or dead doll stare.
+
+
+
+
+LIGHT AND ENVIRONMENT: keep @Video 1 · 5s's exact sun — same direction, height, hardness, shadow length and softness, same sky fill, same warm bounce off bright sand under the jaw, nose and forearms — constant from the first frame to the last, with no flattening toward the end. Correct moving contact shadow under the bicycle and accurate reflections in wet sand and puddles. Match exposure, white balance, contrast curve, highlight rolloff, grade, lens distortion, grain, chromatic aberration and motion blur to the source. Sea wind moves his curls and open shirt in the source direction; the fabric has real weight, folds and flutter.
+
+
+
+
+RIGID ANCHORS: the bicycle never changes — identical frame geometry and green paint, handlebar shape and grips, front basket, wheels, spokes, saddle and pedals from first to last frame, no bending, thickening, recoloring, wobbling or dissolving. Hands always physically wrap the grips with separated fingers, visible knuckles and contact pressure, correct five-finger anatomy; no hand melts into or passes through the handlebar and no fused fingers.
+
+
+
+
+MANDATORY END LOCK: settle exactly onto the LAST FRAME of @Video 2 · 2s and the supplied end frame. BOTH hands on the handlebar, Adil centered, riding almost directly toward camera in a medium-wide full-body view, bicycle frontal, LEFT leg at the bottom of the pedal stroke and RIGHT leg bent at the top, head level, open beige shirt trailing in the wind. Match identity, pose, camera height, distance, cyclist scale, bicycle angle, horizon level, beach geometry, puddles, exposure, depth of field, light direction and color exactly. The last frames stay stable, level and clean with continuous forward travel and no reframing, drift, zoom or dive, so the clip cuts seamlessly in an editing timeline.
+
+
+
+
+One unbroken take. No duplicate limbs, extra people, text, logos or added voices. Preserve wheel rotation, tire contact with sand and pedaling physics.
+
+Copy
+Recreate
+
+
+
+
+
+
+
+Part 1, Scene 2 — The Pearl Earring Girl
+
+
+
+
+What it does: replaces the rider with the woman from the painting reference for the whole clip — same camera, same swipe, precise lip-sync, and a from-scratch relight into the real beach so she never reads as a sticker.
+
+
+
+
+Assets
+
+Character
+
+
+
+
+Source video
+
+
+
+
+EDIT @Video 3 · 5s. REPLACE the rider with the woman from @Image 2 for the ENTIRE clip, first frame to last — she is the only person, in both the selfie close-up and the wide riding shot. PRESERVE everything else exactly: full camera trajectory (handheld eye-level selfie close-up, the right-hand palm SWIPE across the lens right-to-left at the exact source moment with its horizontal motion blur, the reveal into the low-angle wide shot, and the backward dolly tracking that keeps the cyclist centered to the end), bicycle motion, pedal phase, beach, puddles, horizon, lighting, color grade, original audio and dialogue timing.
+
+
+
+
+She is the pearl-earring girl from @Image 2: young pale woman, blue headwrap tight over her hair with a long mustard-yellow scarf tail streaming behind in the sea wind, rust-brown wool jacket with real weave and folds over a white collar, one large pearl earring swinging with the ride and reflecting the beach — sky above, sand below, a moving sun glint — hazel eyes, full lips. She performs every action of the source rider with the same timing: direct eye contact in the close-up, speaking "Watch this. With just one photo, I can swap myself…" with precise delicate lip-sync, the right-palm swipe across the lens, then riding the wide shot with both hands on the grips, finishing "…into whoever I want" while glancing to camera with a soft smile at the source moment.
+
+
+
+
+SCENE INTEGRATION — any PNG-sticker look is a failure: relight her from scratch with the source sun from behind-right — warm rim light on her headwrap, scarf and shoulders exactly like the source rider's hair rim; same lit side, shadow side and terminator line; identical shadow length, density and softness; contact shadow and ambient occlusion at tires, saddle and grips; warm sand bounce under her jaw and forearms; cool sky fill; her reflection in wet sand and puddles with correct perspective and blur; same sea haze and airborne sand; identical exposure, white balance, contrast, grade, lens distortion, depth of field, grain, chromatic aberration and motion blur — grain sits ON her, not only the background.
+
+
+
+
+Skin stays documentary-real: pores, faint freckles, wind flush, natural eye moisture, no beauty filter, no porcelain plastic. The bicycle never changes — same green frame, handlebar, basket, wheels, saddle, pedals; her hands physically wrap the grips with separated fingers. One unbroken take, no extra people, no text, no logos, no identity drift between the close and wide views.
+
+Copy
+Recreate
+
+Result:
+
+
+
+
+Part 1, Scene 3 — The Animated Teen
+
+
+
+
+What it does: recreates the clip with an original cel-shaded teenager built in the design language of a style-master video — a stepped, hand-inked character riding inside smooth live-action footage.
+
+
+
+
+Assets
+
+Source video
+
+
+
+
+@Video 3 · 5s is the structural source: a 5-second live-action beach clip — handheld selfie close-up, a right-hand palm swipe across the lens, then a low-angle wide frontal tracking shot of a man riding a green bicycle. @Image 3 is the CHARACTER MASTER: the rider is replaced by EXACTLY this character — same face, same hair, same wardrobe, same proportions, same render style, 1:1, as if his own animation studio lent the finished asset to this shot. Never alter his design, never borrow any other character, costume, mask, logo, emblem or story element.
+
+
+
+
+TASK: recreate @Video 3 · 5s in full, first frame to last — same camera trajectory, selfie framing and micro-shake, the palm swipe on the source path and timing, the pull-back into the wide tracking shot, same beach, puddles, horizon, green bicycle, motion timing, original audio and dialogue for all 5 seconds — while replacing the rider with the character from @Image 3.
+
+
+
+
+CHARACTER 1:1 FROM @Image 3: a stylized animated teenager around sixteen — tousled chestnut hair with lighter caramel streaks, swept up in chunky sculpted locks with a messy fringe, never individual photoreal strands; large expressive amber-brown eyes with bold graphic lid shapes; strong simple brows that snap between expressions; soft angular jaw, light freckles across the nose and cheeks, fair matte skin; a tiny silver stud earring in the left ear. Same identity every frame, zero drift toward the source rider's face, zero photoreal conversion. His face is fully visible — no mask.
+
+
+
+
+WARDROBE exactly as @Image 3: a crimson-red jacket with wide notched lapels worn open, reading as soft matte leather with simplified graphic folds; a black hoodie underneath, hood out, red-tipped drawstrings bouncing with the ride; dark slim jeans with rolled cuffs; black-and-white low-top sneakers with NO brand marks, swooshes, lettering or emblems anywhere.
+
+
+
+
+RENDER PIPELINE — identical to @Image 3 on the character: high-end feature-animation 3D — clean sculpted forms with appealing exaggeration, matte painterly skin with subtle print-like texture, soft art-directed shading with gentle color bounce, hair as glossy sculpted clumps with painted highlight shapes, fabric with simplified bold folds; NO photoreal pores, NO hyperreal speculars, NO uncanny realism. His facial acting is pose-to-pose and graphic: crisp readable expressions, snappy in-betweens, one brow arching independently, a cocky asymmetric grin — animated-feature acting, not muscle simulation. A subtle smear on the fast palm swipe; everything else moves smooth and natural in the live-action timing.
+
+
+
+
+TOON-IN-LIVE-ACTION INTEGRATION: the world of @Video 3 · 5s stays completely real — real beach, real light, real grain. The animated teen sits in it like a practical composite: relit by the real sun from behind-right, the warm rim translated into a soft painted rim along his hair and jacket shoulders exactly where the source rider's rim was; his shadow side aligned to the real sun direction; a firm real contact shadow under him and the bicycle; his stylized reflection in the wet sand and puddles; the plate's film grain and motion blur sitting on top of his stylized surfaces; sea haze between him and the lens. No cutout look, no floating, no mismatched contrast.
+
+
+
+
+PERFORMANCE with exact source timing and audio: selfie phase — direct playful eye contact, living graphic eyes (pupils tracking the lens, snappy saccades, blinks with drawn lid shapes), speaking "Watch this. With just one photo, I can swap myself into whoever I want…" with precise lip-sync built from crisp stylized mouth shapes; the right palm sweeps across the lens on the source trajectory with a stylized smear. Wide phase — he rides the unchanged green bicycle, both hands on the grips, pedaling at the source cadence, the open red jacket flapping in simplified graphic folds, finishing "…into whoever I want" with a wide young grin, holding the source's final composition to the last frame.
+
+Copy
+Recreate
+
+
+
+
+Result: 
+
+
+
+
+Part 1, Scene 4 — The Knight
+
+
+
+
+What it does: swaps the rider for a full plate-armour knight. The polished steel mirrors the actual moving beach — sky, sand, the sliding horizon — which is what sells him as really being there.
+
+Assets
+
+Character
+
+
+
+
+
+
+
+Source video
+
+EDIT @Video 3 · 5s. REPLACE the rider with the knight from @Image 4 for the ENTIRE clip, first frame to last — he is the only person, in both the selfie close-up and the wide riding shot. PRESERVE everything else exactly: full camera trajectory (handheld eye-level selfie close-up, the right-hand SWIPE across the lens right-to-left at the exact source moment with its horizontal motion blur, the reveal into the low-angle wide shot, and the backward dolly tracking that keeps the cyclist centered to the end), bicycle motion, pedal phase, beach, puddles, horizon, lighting, color grade, original audio and dialogue timing.
+
+
+
+
+He is the knight from @Image 4: full polished steel plate armour with a fluted breastplate, engraved gilded borders, large pauldrons, articulated arms and gauntlets, chainmail at the joints, a crimson under-layer, brown leather belts, a closed helmet with a raised comb and a black feather plume, and a long dark fur-lined cloak streaming behind in the sea wind. In the selfie close-up his helmet fills the frame, living eyes visible inside the visor slit catching the sky, the plume whipping in the wind. He speaks "Watch this. With just one photo, I can swap myself…" with exact source timing, his voice carrying a slight boxed metallic helmet resonance while the jaw plate and cheek region move with the words. His steel gauntlet performs the swipe across the lens with spread articulated finger plates and a metallic ring, then in the wide shot both gauntlets grip the handlebar as he pedals at the source cadence, finishing "…into whoever I want" with a glance to camera.
+
+
+
+
+ARMOUR LAW — the metal is an environment mirror and proves he is really there: polished steel reflects the actual moving beach — bright sky and a travelling sun hotspot on upward plates, warm sand tones on lower plates, the horizon line sliding across the breastplate and pauldrons, the green bicycle frame and his own gauntlets reflected in the chest. Real anisotropic scratches, hammer marks, tarnish, sand dust and salt spray dull the edges. Plates clatter and shift with the pedaling, chainmail sways with weight, the heavy fur cloak drags with delayed follow-through, the plume lags and flutters. His armoured weight compresses the saddle and tires; the pedaling is heavy and deliberate.
+
+
+
+
+SCENE INTEGRATION — any PNG-sticker look is a failure: relight him from scratch with the source sun from behind-right — warm rim along the pauldrons, helmet comb and plume exactly like the source rider's hair rim; same lit side, shadow side and terminator line; identical shadow length, density and softness; contact shadow and ambient occlusion at tires, saddle and grips; warm sand bounce on the lower plates; cool sky fill on the helmet; his reflection in wet sand and puddles; same sea haze and airborne sand; identical exposure, white balance, contrast, grade, lens distortion, depth of field, grain, chromatic aberration and motion blur — grain sits ON the armour, not only the background. The bicycle never changes — same green frame, handlebar, basket, wheels, saddle, pedals. One unbroken take, no extra people, no text, no logos, no identity drift between the close and wide views.
+
+Copy
+Recreate
+
+
+
+
+Result:
+
+
+
+
+Part 1, Scene 5 — The Cow
+
+
+
+
+What it does: an 8-second swap into a deadpan yellow cow that carries the dialogue through the selfie-to-wide flow and delivers the "teleport to a completely new location" line — the bridge into Part 2.
+
+
+
+
+Assets
+
+Character
+
+
+
+
+
+
+
+Source Video 
+
+
+
+
+EDIT @Video 3 · 5s (8 seconds, one daylight beach location for the whole clip). Replace the rider with the deadpan yellow cow from @Image 5 for the ENTIRE video. The clip is one single continuous shot with one gorgeously smooth flow between its two phases — that flow is the star of the edit.
+
+
+
+
+THE FLOW: the shot opens close on the cow's face in the handheld selfie view, alive and talking. His big hoofed hand sweeps across the lens exactly as in the source — same path, same speed, same timing — and the view pours seamlessly into the wide riding shot in one liquid, weightless motion: the framing melts open, the beach spreads, and he is already rolling toward us on the little green bicycle, still mid-sentence, while the camera glides backward in step with him. The whole passage between phases feels like silk — one breath, one current, butter-smooth, with the sweep of the hand, the widening of the frame, the flowing sand and the constant level horizon all belonging to one uninterrupted movement. The camera keeps living inertia after the reveal, easing gently as it settles into pace with the bike. Light, warmth and exposure flow continuously through the passage — one sun, one grade, one world on both sides, so the eye slides through without ever catching on anything.
+
+
+
+
+CONTINUITY OF THE CHARACTER THROUGH THE FLOW: the same cow, the same fur, the same face, the same relaxed body groove carries straight through — his speech never pauses, his rhythm never resets, the pedal cadence he rolls in with feels like the natural continuation of the energy he had in the selfie. He occupies the source rider's exact screen space at every moment, and the bicycle, beach, puddles and horizon are the source's own, untouched.
+
+
+
+
+LIVING EYES: his eyes are alive in every frame. Pupils hold the lens and counter-rotate against every bob of his head so the gaze stays locked on camera; quick small saccades between words; one slow bored half-blink mid-line with soft lid tension and skin drag around the orbit; moist corneas carrying a moving glint of the bright sky; daylight pupils. In the wide phase the eyes keep glinting, blinking and re-aiming at the lens as the bike bobs. Sleepy attitude means slow-moving eyes, never motionless ones.
+
+
+
+
+PLATE-PERFECT INTEGRATION: the cow inherits the plate's photography completely. His sharpness never exceeds the background's; the plate's film grain, sensor noise and motion blur sit ON his fur and nose in every frame. He is lit only by the scene: hard warm sun from behind-right with a strong golden rim along his shoulder, ears, horns and fur edge; clear lit and shadow sides across the muzzle; warm sand bounce from below; cool sky tone on top. A firm dark contact shadow with ambient occlusion rides under both tires, the pedals and his body at all times, matching the sun; his hooves shade the pedals. The mirror-wet sand and every puddle he passes carry his yellow reflection and the green bike with correct perspective and blur; the chrome handlebar and rims flash with sky glints; sea haze and drifting sand float between him and the lens. He reads as a practical creature filmed on location — no cutout edge, no halo, nothing cleaner than the plate, especially along the fur silhouette against the sky.
+
+
+
+
+THE COW: exactly @Image 5's stylized design — tall anthropomorphic cow in dense mustard-yellow fur with a pale cream chest, huge glossy pink nose with bumpy pores and oval nostrils, heavy half-closed sleepy eyelids over amber eyes, two small dark curved horns, floppy ears, braided fur band across the brow. Not a real cow. Fur flows in the sea wind as one continuous silky surface, never flickering.
+
+
+
+
+PERFORMANCE: deadpan and unimpressed, exact source dialogue timing and audio unchanged. Close phase: "Watch this. With just one photo, I can swap myself into whoever I want. Or…" — soft muzzle lips shaping each phoneme, teeth glimpsed on plosives, pink nose flexing subtly, ears twitching lazily. Wide phase: "…teleport to a completely new location" with a fully animated mouth and a slow unimpressed glance into the lens — the same beach rolling on, which is the joke. Riding groove: hooves locked to the pedals in smooth continuous circles, wheels rolling in exact step with the ground, tires pressing glistening tracks, ears and jowls with soft secondary motion over the bumps — everything cycles, nothing hesitates.
+
+
+
+
+The bicycle keeps its exact source design — green frame, handlebar, basket, wheels, saddle, pedals — hoofed fingers wrapped on the grips with visible pressure. One location, one take, one continuous flow. No extra people, no text, no logos.
+
+Copy
+Recreate
+
+
+
+
+Result:
+
+
+
+
+Part 2 — The Chaos Ride
+
+
+
+
+What it does: takes the real 23-second drone shot of the ride and layers in, one element at a time: a jump-cut into purple dusk, a sustained wheelie, a barking dog, two breaching galleons, a colossal kraken and a growing tribal hunt — then cuts back to the untouched source. The camera lock at the top forces the output camera to copy the input camera frame-for-frame, so everything lands inside real footage instead of a regenerated shot.
+
+Assets
+
+Character
+
+
+
+
+Location
+
+
+
+
+Dog
+
+
+
+
+Source Video
+
+CAMERA = INPUT CAMERA, FRAME-FOR-FRAME, ALL 23 SECONDS — THIS OVERRIDES EVERYTHING BELOW. COPY ITS MOTION EVEN IF EVERYTHING ELSE FAILS.
+
+
+
+
+V2V on @Video 11 · 23s — TRANSFORMATION OVERLAY, NOT a regeneration. Keep the real man, his bike, his riding, the beach geography and the CAMERA 1:1; duration matches source (~23s). We ADD, strictly ONE THING AT A TIME: a jump-cut to the purple dusk of @Image 7 (~1s) → a WHEELIE (4–10s) → the dog of @Image 8 in at 5s, scared off at 11s → two galleons breaching (11–15s) → the colossal kraken (15–19s) → tribal hunters entering mid-ground left in growing waves (14–21s) → jump-cut back (21s–end).
+
+
+
+
+═ ACTIVE REFERENCES ═
+
+@Image 1 — ADIL'S FACE ONLY: identity lock for his face every frame, every angle, no drift. Take NOTHING else from it — wardrobe and bike stay per @Video 11 · 23s (cream linen suit over white tee, pale bike with basket).
+
+@Image 7 — WEATHER / GRADE ASSET: after the ~1s jump-cut the world becomes EXACTLY this dusk — deep violet sky grading through purple into a soft rose band at the horizon, thin dark cloud streaks, first stars, the calm sea in layered purple wave-lines, dark wet mirror sand carrying the sky's reflection, deep soft foreground shadow. Match palette, exposure, contrast and mood 1:1, hold until 21s. He is RE-LIT into it: purple ambient on the suit, soft rose rim, wet reflection under the tires.
+
+@Image 8 — THE DOG (design lock): this exact rough-coated JACK RUSSELL TERRIER — compact white body, tan-brown patches on the head and ears and at the tail base, white blaze down the forehead, wiry scruffy coat, bearded muzzle, dark round eyes, stubby upright tail. Appearance only — in the scene he is graded INTO the dusk (purple ambient on the white coat, never bright-white against the plate, wet reflections, contact shadows).
+
+
+
+
+═ RULE #0 · CAMERA — QUADRUPLE LOCK (highest; every conflict resolves in its favor) ═
+
+LOCK 1 — COPY: output camera = input camera, 100% frame-for-frame, all 23s: position, framing, focal length, every drift, acceleration, deceleration, timing — INCLUDING the input's natural micro-imperfections: its tiny drift noise and organic sway are part of the motion, never smoothed, never stabilized, never idealized.
+
+LOCK 2 — DESCRIBED: one continuous drone flight — 【0–2s】 backward retreat in front of the rider; 【2–6s】 ARC-OUT to his side, pulling back and rising, frontal → profile; 【6–16.5s】 frozen LATERAL PARALLEL TRACK at his speed, distance and height locked, world scrolling out the left edge; 【16.5–23s】 smooth DECELERATION to near-static as the white cabin enters frame-right.
+
+LOCK 3 — CHECKPOINTS (mismatch = failure): t=0 frontal, rider ≈55% height; t=2 frontal ≈35%; t=4 three-quarter ≈18%; t=6 SIDE PROFILE ≈12%, horizon top third; t=8/10/12/14/16 identical — profile ≈10%, pinned x≈30%, background scrolling left at constant rate; t=16.5 cabin enters right edge; t=18 cabin ≈x60%; t=21 near-static, cabin ≈x65%; t=23 static, rider beside the cabin, ≈10% height.
+
+LOCK 4 — FORBIDDEN: no push-in, pull-back, zoom, pan, tilt, reframe, shake, stabilization, smoothing or speed change for ANY added element — not for the dog's entry, not for the ships' breach, not for the kraken, not for the hunters; jump-cuts switch content only — the camera continues mid-phase through them; rider's scale never grows after 6.0s (re-growth = failure); horizon level every frame. The camera does not know the added elements exist. CAMERA = INPUT, START TO END.
+
+
+
+
+═ RULE #1 · MOTION QUALITY LAW — NO SLOP MOVEMENT, EVER ═
+
+WEIGHT: every body, paw, hull and tentacle accelerates and decelerates through real mass — nothing starts or stops instantly, nothing glides at constant speed. GROUND TRUTH: every step and paw-fall makes real contact — heel-strike, weight transfer, sand deformation, kicked clods, wet splashes; nothing slides, floats or moonwalks. NO LOOPS: no repeated gait cycles, no metronome rhythms, no mirrored or synced motion between any two beings; speeds fluctuate, paths wander and self-correct. ALIVE: heads scan, faces change through the take, chests breathe, cloth and hair answer the body a half-beat late, small mistakes get corrected in ugly human ways. WATER: splashes fall under gravity and drain, foam persists and drifts. One second of robotic, looped, floaty or synced movement anywhere = total failure.
+
+
+
+
+═ RULE #2 · COLOR & LIGHT MATCH — EVERY ADDED PIXEL ═
+
+Everything added is graded INTO the @Image 7 dusk: purple-violet ambient base; warm light ONLY from visible practicals (deck fires, torches, muzzle flashes) reaching only as far as real light would; rose rims from the horizon band; true contact shadows; wet-sand reflections under every paw, foot and hull; correct haze and focus falloff per depth; matched grain and exposure. Nothing brighter, sharper, cleaner or differently white-balanced than the plate. One mismatched element = pasted = failure.
+
+
+
+
+═ ONE CONTINUOUS RIDE ═ The ride is continuous; the ONLY cuts are the world jump-cuts (~1s, ~14s, ~21s) — single-frame switches, him mid-pedal in the same screen position. The dog and hunters enter PHYSICALLY through frame edges, never by cut, never spawning mid-frame. No other cuts, no dissolves, no morphs.
+
+
+
+
+═ SOURCE LOCK (the man) ═ Same man 1:1 — face per @Image 1, wardrobe and bike per @Video 11 · 23s. Riding path, speed and body motion per source EXCEPT the trick window (4–10s), then seamless re-sync. He stays COOL: at most one lazy glance over the shoulder. Identity drift or panic = failure.
+
+
+
+
+═ STAGING MAP (hard positions) ═
+
+- THE DOG enters and exits ONLY through the BOTTOM-LEFT frame edge (near-foreground sand).
+
+- THE HUNTERS enter ONLY through the LEFT frame edge in the MID-GROUND — along the sandbar and shallow tide channel behind his riding line, at his depth or slightly deeper toward the water.
+
+- The near-foreground sand (bottom-left) is used ONLY by the dog — no hunter ever enters or crosses the foreground; after the dog flees it stays EMPTY to the end.
+
+- Ships and kraken live offshore only; splashes reach the sand, bodies never do.
+
+
+
+
+═ TIMELINE (one thing at a time) ═
+
+【~1s · JUMP-CUT TELEPORT】 ONE HARD CUT into the @Image 7 world: violet-to-rose dusk, first stars, layered purple wave-lines, wet mirror sand, deep soft foreground shadow. Same screen position, same pace, re-lit per the reference. Clean blink, no transition FX. Grade holds until 21s.
+
+【4–10 · THE WHEELIE】 He compresses, pulls the FRONT WHEEL UP into a clean sustained WHEELIE — riding the rear wheel, arms taut, jacket flapping, visible wrist-level balance corrections, rear tire carving one line in the wet sand — holds ~4 seconds, drops the front wheel with a soft compression, rolls seamlessly back into the source line. No spins, no flourishes. Real weight per RULE #1. The camera does NOT adjust.
+
+【5–11 · THE DOG — IN ON THE WHEELIE, SCARED OFF BY THE SHIPS】 At ~5.0s, just as the front wheel lifts, the @Image 8 Jack Russell bursts INTO frame through the BOTTOM-LEFT edge — asymmetric bouncy terrier gallop, head bobbing out of phase, tongue flapping, ears flying independently — catches up beside the bike and BARKS at him nonstop: irregular rhythm (two sharp, a skipped beat, a grumble, a volley), head throwing up on the big ones, beard bouncing, little wet-sand splashes off his paws, path wandering — surging, drifting wide, cutting back, one sideways skip-hop. At ~11.0s, on the FIRST surge-roar of the breaching ships, he SPOOKS: ears flatten, tail tucks, a scrambling panicked turn with kicked sand — and he bolts OUT through the bottom-left edge, gone for good. Never touches the bike, never crosses the front wheel. Conveyor-belt dog = failure.
+
+【11–15 · THE SHIPS — BUOYANT BOUNCE】 Two huge pirate galleons (different silhouettes, one nearer one farther, ragged sails) BREACH offshore like released buoys: sea bulges → hull SURGES past its waterline — hangs — SINKS BACK past equilibrium — BOBS twice, diminishing, settles into a gentle pitch. Water avalanches off the decks each bob, rigging snaps taut, masts sway with inertia, displacement rings reach the shore as taller wave sets. Settled, they exchange ONE broadside each — real flashes, rolling smoke, geysers — then hold, small deck fires guttering in the wind. Fires and flashes their only warm light. Buoyancy, never rubber; never fade-in, never on the horizon. The camera does NOT look at them.
+
+【15–19 · THE KRAKEN — COLOSSAL, AFTER THE SHIPS】 Only once both ships settle: the sea between them RISES in a hill-sized bulge and TENTACLES ONLY (body never shown) climb out — each THICKER THAN THE GALLEON'S HULL, rising TWO-THREE mast-heights, suckers the size of ship's boats, waterfalls pouring off, shadow across the whole nearer ship; wet skin picking up only purple sky and fire glints. Slow BECAUSE of the size — sagging, deforming where they grip — they wrap the nearer galleon like a hand around a toy and drag it down in one continuous heave: deck tilting, fires sliding, foam wall; the far ship holds fire and lists in the swell. Whirlpool wide as both ships; waves reach the sand. The galleon reads SMALL in the grip. Fast/thin tentacles or weightless ship = failure. The camera does NOT tilt.
+
+【14–21 · THE HUNT — MID-GROUND LEFT, GROWING WAVES, REAL PEOPLE】 On one hard cut-beat at ~14s: THREE-FOUR tribal hunters burst INTO frame through the LEFT edge in the MID-GROUND — running in along the sandbar and tide channel behind his line — locked on HIM: pointing at him, spears leveled toward the bike, a barked order sending two to flank. The pack GROWS in waves: 3–4 more at ~16s, another 6–8 at ~18s, a horde of 20–25 by ~20s — all entering left mid-ground, never the foreground, never spawning mid-frame; thin front → deep tail stretching back along the sandbar. Woven grass-and-cloth attire, carved spears, torches (their only warm light; purple ambient on skin and cloth; individual shadows; wet reflections underfoot). ALIVE per RULE #1: speeds fluctuating, paths wandering around the tide pools, heads turning to shout and glance at the kraken, faces changing through the take, chests heaving, one stumble on soft sand recovered in two ugly human steps, gestures relayed down the line. ONE comedy beat: one hunter face-plants into a tide pool, somersaults, pops up running while the nearest one cackles. They gain along the sandbar, never reach him, never touch him, true mid-ground scale always — never enlarged, never foreground. The camera does NOT reframe.
+
+【21s–end · THE RETURN】 ONE HARD CUT back: pastel daylight, empty calm beach — nothing added remains, no residue — the source plate continuing untouched to the white cabin. Last ~2s pure original footage.
+
+
+
+
+═ CLEAR PATH ═ Nothing ever crosses his front wheel; no added element ever overlaps his body; the near-foreground stays empty except the dog's entry and exit.
+
+
+
+
+═ RULES ═ CAMERA per the quadruple lock, micro-imperfections copied, checkpoints hit, zero reaction to every event (outranks all); face per @Image 1 only; weather/grade per @Image 7 1–21s; dog per @Image 8, in at 5s bottom-left, barking beside him, spooked at 11s by the ships' first roar, out bottom-left, never returns; hunters ONLY left mid-ground along the sandbar, waves 3–4 → 20–25, hunting HIM; MOTION QUALITY LAW on everything (one second robotic/looped/floaty/synced = failure); max TWO added systems in motion at once (dog exits at 11 as the ships rise; far ship passive when the kraken rises); jump-cuts only at ~1s/~14s/~21s; voiceover 1:1; wheelie only, 4–10s; exactly 1 dog, 2 ships, 1 kraken (tentacles only), hunters per waves; color & light match on every added pixel; no gore, no logos, no readable text, no IP. No slop. And once again: the camera is the input camera, untouched, start to end.
+
+
+
+
+═ AUDIO ═ Original voiceover timeline 1:1. Under it, one layer at a time: <cut ~1s: evening surf + far town hum>; <the wheelie: tire carving wet sand, soft front-wheel touchdown>; <the dog: quick uneven paws + nonstop irregular terrier barking beside him — then at 11s a frightened yelp, scrambling paws, barking dopplering away and gone>; <the breach: two colossal water-avalanche surges + creaking bobs, one exchange of cannon THOOMs, fires crackling>; <the kraken: sub-bass groan, waterfall columns, slow timber crush, whirlpool wash>; <the hunt: footfalls multiplying wave by wave along the water, ragged shouts AT him, a flank order, one SPLAT + cackle>; <cut 21s: instant dry daytime wind + gulls>. No music, no subtitles.
+
+Copy
+Recreate
+
+Result: 
+
+
+
+
+Ready To Make Your Own?
+
+Upload your own clip, gather one photo per swap, and let the skill write the prompt. The preservation frame keeps your footage yours — everything else is up to you.
+
+
+
+
+SWAP ANYTHING INTO YOUR VIDEO
+Try Seedance 2.5
+
+by @adilinthewild
+
+Share article
+
+Before You Start
+Scenes
+Part 1, Scene 1 — The Base Take
+Assets
+Part 1, Scene 2 — The Pearl Earring Girl
+Assets
+Part 1, Scene 3 — The Animated Teen
+Assets
+Part 1, Scene 4 — The Knight
+Assets
+Part 1, Scene 5 — The Cow
+Assets
+Part 2 — The Chaos Ride
+Assets
+Ready To Make Your Own?
+SWAP ANYTHING INTO YOUR VIDEO
+Discover more
+View all
+How I Turned Classic Internet Memes Into an AI Video
+By @bearoncada
+5
+Sep 5, 2026
+Marketing Studio: 4 Ways to Turn a Product into an Ad
+By @jellyfortuna
+8 min
+Sep 4, 2026
+Rentrer dans le jeu vidéo de mon enfance
+By @durbanzworld
+Sep 4, 2026
+
+Comments
+
+No comments yet. Be the first to comment!
+
+© 2026 Higgsfield, Inc. All rights reserved.
+
+English
+Help center
+Cookie Notice
+Cookie Settings
+Terms
+Privacy

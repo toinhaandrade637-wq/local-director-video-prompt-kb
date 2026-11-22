@@ -1,0 +1,98 @@
+【项目】HOW I MADE MALFOID & POTTAH - THE RIVAL PART 2 WITH HIGGSFIELD（@shishirdotai · 创作者博客）
+【链接】https://higgsfield.ai/@shishirdotai/blogs/how-i-made-malfoid-pottah-the-rival-part-2-with-higgsfield
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I MADE MALFOID & POTTAH - THE RIVAL PART 2 WITH HIGGSFIELD
+shishir
+@shishirdotai
+23
+0
+0
+
+I told Higgsfield Supercomputer what I wanted and it built the thing. That's the honest summary. Here's the part that actually took work.
+
+Start with the idea, not the settings
+
+I handed over the whole short as text: five scenes, timings, the Japanese lines with translations, who's in it, how it should look. No clever prompt engineering at that stage, no model research. Just "here's the script, it doesn't change, only the cut is mine."
+
+That works better than starting from a prompt. If the writing is already done, the job is translation.
+
+Design the characters once, save them as Elements
+
+You don't want to describe a character in every prompt. You want to design them once and save them as Elements, then drop that element into a prompt and get the same person back.
+
+Seven characters, seven Elements, reused across twenty clips.
+
+One thing worth checking: my token list had eight entries for seven characters. One had been pasted twice. Ten minutes of checking against the library saved the whole thing.
+
+Test cheap, then render properly
+
+First shot at 480p. Always. It costs almost nothing and tells you whether your scene, your camera and your character references actually work.
+
+I ran the same twelve seconds on two models and watched them side by side. Then I worked out the real price from the credit balance, not the pricing page. The published rates were wildly off what I was actually charged.
+
+Once the test looked right, the batch went out at 720p. About 7 credits per second, which came to roughly 1,200 credits for 172 seconds of footage. Then Topaz Gaia to 4K for around 230 credits. Upscaling gives you real resolution and cleaner edges, but it can't invent detail that was never in the frame. That's fine for anime line art.
+
+Ask for the acting
+
+This is the bit people forget. Left alone, models play everything flat. You have to ask for emotion, in physical terms: jaw drops, irises shrink, cheeks flush, one eyebrow twitches twice, hair bounces on the stop, hand slaps against the chest.
+
+Same with the camera. Naming the shot size and the angle for every beat is what stops a scene feeling like a slideshow.
+
+Backgrounds are the honest weak spot
+
+Characters hold up well now. Backgrounds still don't. The same courtyard drifts between clips. A bench moves, the light changes, an archway quietly redesigns itself.
+
+You can reduce it with a background plate and clear staging notes, but you can't fully fix it up front. It gets fixed in review: watch the cut, spot the shot where the room changed, re-render that one clip. Which means extra credits and extra time. I'd rather say that plainly than pretend it's solved.
+
+Prompts I actually used
+
+A shot list instead of a paragraph:
+
+
+
+
+Keeping a character passive. Instructions didn't work; framing did:
+
+FRAMING RULE FOR THE BOY: only his head, neck and shoulders are ever in
+frame. His arms and hands are never visible in any shot - he keeps his
+hands clasped behind his back. The girl alone does the touching.
+
+
+No duplicates:
+
+EXACTLY THREE PEOPLE exist in this video. The courtyard is otherwise
+completely empty - no background students, no extras, and never two
+copies of any character in the same shot.
+
+
+Cover art, with the typography treated as part of the design:
+
+IDENTITY LOCK: reproduce this exact character from @Image1 - same face,
+hair, uniform. Do not redesign.
+TYPOGRAPHY: one lockup, optically centred in the middle band, in the
+clear space between the two girls' heads. Line 1 smaller, letter-spaced
+serif: "Malfoid & Pottah". Thin gold rule beneath. Line 2 dominant, bold
+serif in warm gold: "The Rival, Part 2".
+
+
+
+
+
+
+
+
+All these prompts were written by Higgsfield Supercomputer, i just said what i wanted.
+
+If you're starting today
+
+Write the script out properly. Save your characters as Elements and check them. Test one shot at 480p. Ask for the expressions by name. Expect to re-render a handful of shots for background drift, and budget for it.
+
+The rest is just patience.
+
+If you want to try it
+
+If you end up giving this a go, using my referral link is a nice way to support the work: https://higgsfield.ai?fpr=redriot

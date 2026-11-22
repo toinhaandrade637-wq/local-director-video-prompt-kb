@@ -1,0 +1,107 @@
+【项目】16 CREDITS A DAY: HOW I CLEAR ACTIVITY REWARDS AND TURN THE LEFTOVERS INTO AN EXPLAINER REEL（@0xgrey · 创作者博客）
+【链接】https://higgsfield.ai/@0xgrey/blogs/16-credits-a-day-how-i-clear-activity-rewards-and-turn-the-leftovers-into-an-explainer-reel
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+16 CREDITS A DAY: HOW I CLEAR ACTIVITY REWARDS AND TURN THE LEFTOVERS INTO AN EXPLAINER REEL
+0
+Sergei Dovydov | 0xGrey
+@0xgrey
+19
+4
+0
+
+Activity Rewards Season 1 runs until December 12. I clear the daily tasks every day and wanted them to produce something I'd use anyway, at the lowest cost I could get. Here is the exact setup, with the prompts, and what the generations turned into.
+
+
+
+
+What counts toward the tasks
+
+The daily tasks are worth 45 XP: 10 images (+10), 3 videos (+15), one download (+5) and one generation through Claude or ChatGPT (+15, optional, it doesn't affect your streak).
+
+What I learned the hard way:
+
+Only generations paid with credits count. Unlimited and free generations don't.
+Only the models listed under the "i" icon count. For images: Nano Banana 2, 2.1 and Pro, Seedream 5.0 Pro, GPT Image 2.0 and 2.5. For video: Seedance 2.5 and 2.0, Genjutsu, Minimax H3 and H3 Max, Kling 3.0, Kling Motion Control. Kling 3.0 Turbo is not on the list. I lost a video task to it on day 2.
+The download only counts through the Download button in Assets. Saving the file from a direct link doesn't count.
+
+
+
+
+The cheapest set that counts: 16 credits
+
+10 images, 2.5 credits. GPT Image 2.5, Flare, quality Low, 1K costs 0.25 credits per image. Low quality looks rough on photos, so I don't make photos with it. I make line-art sprites on a pure black background. They look clean even at Low, and black cuts out perfectly later.
+
+Single open padlock with the shackle unlocked, thin white technical line-art with fine hatching, lime-green glow inside the keyhole, pure black background, centered, isolated object, isometric, no text
+
+Copy prompt
+Recreate
+
+
+
+
+Five of the day's ten sprites. GPT Image 2.5 Flare, Low, 1K, 0.25 credits each
+
+
+
+
+The template stays the same every day, only the object changes: "Single <object>, thin white technical line-art with fine hatching, lime-green accent on <detail>, pure black background, centered, isolated object, isometric, no text". I pick objects from the scripts I'm writing that week.
+
+3 videos, 13.5 credits. Kling 3.0, std mode, 3 seconds, sound off costs 4.5 credits. With sound it's 6, and a 3-second insert doesn't need sound anyway. Turbo costs the same 4.5 and doesn't count.
+
+A horizontal progress bar filling up with lime-green light and passing level markers, thin white technical line-art on a dark graphite background, minimal, no text
+
+Copy prompt
+Recreate
+
+
+
+
+The day's three Kling 3.0 clips: progress bar, coin stack, calendar. 3 seconds, std, no sound
+
+
+
+
+Same style as the sprites, so the clips sit next to them in one edit.
+
+Download: free. Assets → open any of today's generations → Download.
+
+2.5 + 13.5 = 16 credits a day.
+
+What the sprites became
+
+I run a channel that explains how payments and security work under the hood. The day's sprites became a 42-second explainer on how an authenticator app shows a code with no internet: the phone in airplane mode opens the video, the key is the shared secret from the QR code, the stopwatch is the 30-second window, and the server checks the same six digits.
+
+
+
+
+Seven sprites cost 1.75 credits. Black backgrounds came off with a simple brightness key, no background removal needed. The voiceover is ElevenLabs inside Higgsfield, about 0.15 credits a line. The reel itself is in Russian for my audience, so in this post you only see what it was built from.
+
+Let Claude do it
+
+The Claude task is optional, but it's 15 XP for something I'd do anyway. Higgsfield has an MCP connector for Claude, so I give Claude one message and it runs all 13 generations itself:
+
+Close today's Higgsfield Activity Rewards tasks: 10 images in GPT Image 2.5 Flare, Low, 1K and 3 videos in Kling 3.0 std, 3 seconds, sound off, no Turbo. Images: line-art sprites on pure black for my next reel about <topic>. Then show me how many credits you spent.
+
+Then I open the rewards page, download one generation and press Claim. Two minutes a day.
+
+Why 16 credits a day is worth it
+
+The rewards track gives 100, 300, 1,000 and 10,000 credits at levels 2, 6, 11 and 14: 11,400 credits. Levels 4, 8 and 10 give 85 community rating points instead. Most XP comes from streak bonuses: +100 on day 3, +150 on day 7, +250 on day 10, +500 on day 14, +700 on day 21, +1,000 on day 28, +2,000 on day 35. There is also +4,000 on day 50, but if you start now, day 50 falls after the season ends.
+
+
+
+
+Level 14 needs 5,000 XP. At 45 XP a day you have around 3,960 XP on day 28, and only the day-35 bonus pushes you over. The season ends December 12, so day one of your streak has to be November 7 or 8 at the latest, with no missed days. The day closes at 00:00 UTC.
+
+Then there's the community rating. At 100 rating points Higgsfield gives another 5,000 credits. The season gives you 85; a profile (+3), Discord (+5), the Academy beginner course (+15), your first remix (+2) and your first open project (+4) add 29 more. That's 114. Skip the Academy course and you stop at 99.
+
+
+
+
+Over the season that's about 800 credits spent and up to 16,400 back. Bonus credits do expire (my level-6 credits last about a month), so plan to use them.
+
+Numbers as of October 26, 2026. The program is in beta, so check your own rewards page before you start.

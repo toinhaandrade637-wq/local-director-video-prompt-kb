@@ -1,0 +1,92 @@
+【项目】HIGGSFIELD API: HOW I BUILT MY OWN SEEDANCE 2.5 APP IN ONE AFTERNOON (NO SUBSCRIPTION, PAY PER SECOND)（@brunobenetti · 创作者博客）
+【链接】https://higgsfield.ai/@brunobenetti/blogs/higgsfield-api-my-own-seedance-2-5-app-no-subscription
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HIGGSFIELD API: HOW I BUILT MY OWN SEEDANCE 2.5 APP IN ONE AFTERNOON (NO SUBSCRIPTION, PAY PER SECOND)
+B
+@brunobenetti
+60
+0
+0
+
+Higgsfield just launched its own API. Same models as the platform (Seedance 2.5, Kling 3.0, MiniMax H3, Wan, Kling Omni, the Soul image models), no subscription, and you pay only for the seconds you generate. I took the docs, opened Claude, and in one afternoon I had my own Seedance 2.5 app running inside my students' portal. This post is the full breakdown: the real prices, the console flow, the exact prompt I used to build the tool, and how the API calls work.
+
+Watch the full video (Portuguese, with English auto dub) on my YouTube channel: youtube.com/@br_benetti
+
+What I built
+
+My students already had a "Fal.ai Studio" inside the portal (Acelera Vídeo, Acelera Estúdio, Acelera Áudio). Now they have a Higgsfield Studio next to it: pick a model, pick the mode (text to video, image to video, reference, video edit, extend), write the prompt, upload a reference, see the price in dollars BEFORE generating, generate, and keep a history of every job with the estimated cost.
+
+28 models and 77 modes, read live from the Higgsfield catalog
+"How much does it cost?" button that calls the estimate endpoint before spending anything
+BYOK: every student pastes their own API key, so the credit is theirs, in their wallet. I do not make a cent on top of it
+Built in one afternoon with Claude writing the code, from the official docs
+
+👉 Want to make videos like this? Create your Higgsfield account through my link and you get a discount plus bonus credits on your first generations.
+
+The price math (this is why the video exists)
+
+Every week someone tells me "Higgsfield is expensive, go to fal.ai". Here is the honest math, with the public prices as of September 17 and 18, 2026.
+
+Higgsfield Ultra subscription: US$ 99 per month (annual plan), 3,000 credits, every month, whether you use them or not
+fal.ai, Kling 3.0 Pro: US$ 0.168 per second
+Higgsfield API, Kling 3.0 Pro: US$ 0.084 per second with the launch discount (50% less)
+Higgsfield API, Seedance 2.5 (720p): from US$ 0.0864 per second with the launch discount
+Without any discount the API list price is the same as fal.ai. Worst case you tie, best case you pay half
+
+A 10 second video on Kling 3.0 through the API costs about US$ 0.84. Twenty of those in a month is less than US$ 17. The subscription is US$ 99. But if you generate every day, if you make shorts and commercials and burn the 3,000 credits, the subscription still wins, because the credit inside is cheaper and you get the unlimited modes. The API is for people who generate little, who want to pay only for what they use, and above all for people who want to build a tool on top of it.
+
+The console flow (3 minutes)
+Create your account through my link (it gives 15% off every model and US$ 15 of credit when you verify a business email): higgsfield.ai/s/higgsfield-api-yt-br_benetti-PNecHT
+In the first week, pick 3 models with up to 50% off: 1 image model and 2 video models, then click "Claim selected models". I picked Seedance 2.0 for my students, because most of them prefer native 4K and 5 to 15 second cuts over 30 second 720p takes
+Add funds (pay as you go, no monthly fee)
+Open the Pricing page and the "Compare prices with others" tab: it shows the Higgsfield price next to fal.ai for the same model
+API keys: create a key. You get an ID and a SECRET. The secret is shown once, never put it on screen
+How the API works (the short version)
+Base URL: https://api.higgsfield.ai, docs at docs.higgsfield.ai
+Header: Authorization: Key ID:SECRET
+One POST per model slug (for example POST /seedance-2.5 with the mode and the parameters), the answer gives you a request id and a status_url
+Poll the status_url until it is completed, then download the result
+Before generating, POST /estimate/<slug> with the same body: it returns credits and USD. That is the "How much does it cost?" button of my tool
+Reference images and videos go through files/generate-upload-url, then a PUT of the bytes, then you pass the file URL in the request
+There is no balance endpoint and no library endpoint (I probed 20 routes, all 405). Keep your own history on your side, like my tool does
+The prompt that built the tool
+
+This is the whole trick. Put the documentation in a folder, open Claude (or Cowork, or ChatGPT Astra, or Codex), attach screenshots of the Higgsfield interface you want to copy, and paste this. If you want a local page instead of a portal, ask for a single HTML file.
+
+"I do not want to pay the Higgsfield subscription anymore. I want to pay only for what I use."
+"Build me a page in HTML that I can open in my local browser, with a field for my Higgsfield API key."
+"Let me pick every model available in the platform, the mode, the duration, the resolution, the format, and show me the price before generating."
+"Make it look and work like the Higgsfield app. Here are the screenshots. Copy everything, no mercy."
+"Keep the key only in my browser. When you finish, tell me, and I will double click the file."
+
+The more information you give (screenshots, a screen recording, the docs), the closer it gets. It is a huge prompt, and that is fine. It works better on a computer than on a phone.
+
+A real request, and what the tool does with it
+
+Text to video, 15 seconds, with my model sheet as reference. The tool first calls the estimate endpoint and shows the price, then generates. Kling 3.0, 15 s: US$ 1.26. Seedance 2.5, 15 s at 720p: US$ 2.31. Kling 3.0 Standard, 5 s: US$ 0.32. This is the prompt, on Seedance 2.5:
+
+A man swimming in outer space, floating through the Milky Way, slow graceful strokes, stars and nebulae drifting past him, cinematic wide shot, soft rim light from a distant sun, photoreal, 15 seconds.
+
+Copy prompt
+Recreate
+What broke and how I fixed it
+Seedance 2.5 is token metered: the estimate endpoint returns a pricing description instead of a fixed USD number. The tool falls back to the public price table (dollars per second times duration) so the button never shows a blank
+Optional integer fields (like the number of frames on Wan 3.0) were not being sent, and the estimate failed. Now the tool always sends the catalog defaults, required or not
+The catalog JSON is big (3 pages, 77 modes). I store it once on the server and read it from there, instead of hitting the catalog on every page load
+The secret is stored per user and masked in the interface. In the video the key never appears on screen
+What this unlocks
+
+Once the key works inside a page you control, you can put generation anywhere: a WhatsApp bot where a client types a command and gets a video back, a page inside your own website, a tool for your production company that pays per second instead of per month, or a product you sell. Higgsfield calls it "build your own Higgsfield". That is exactly what I did, in cinema quality, with Seedance 2.5 and Kling 3.0 running on my own screen.
+
+If you talk to the Higgsfield sales team in the first week, according to them, you lock the discounted price for 12 months.
+
+Instagram: @brbenetti. Built with the Higgsfield API, Claude and a lot of coffee.
+
+Watch the full video and grab the 15% discount link in the description Watch on YouTube
+
+MAKE YOURS ON HIGGSFIELD. THROUGH MY LINK YOU GET A DISCOUNT PLUS BONUS CREDITS.
+Try Higgsfield (discount + bonus)

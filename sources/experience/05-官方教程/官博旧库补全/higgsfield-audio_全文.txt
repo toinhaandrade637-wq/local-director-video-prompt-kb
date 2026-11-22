@@ -1,0 +1,305 @@
+【项目】Higgsfield Audio: Voice, Music and Sound Effects for AI Video（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/higgsfield-audio
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Higgsfield Audio: Voice, Music and Sound Effects for AI Video
+Higgsfield
+Aug 1, 2026
+10 min
+
+Higgsfield gives you six audio models. They cover speech generation, voice swapping, translation, and multi-speaker scenes. All of it sits inside the same platform as Video and Image, without jumping between tools. There's no separate account or export cycle to manage. This guide shows what each tool is actually for.
+
+What Audio Generation on Higgsfield Covers
+
+Speech generation is the core of what's available, six models spanning:
+
+Single-narrator fidelity
+Multi-speaker scenes with ambience
+Emotionally specific delivery
+Multilingual reach
+Long-form narration built for audiobooks and podcasts
+
+Between them, they cover most of what a video production actually needs from its audio track, without requiring six different subscriptions or six different interfaces to learn.
+
+Change Voice and Translation extend that same generation logic to video you've already made:
+
+Swap a voice or translate dialogue without regenerating the clip itself
+Useful when the visual work is finished and locked but the audio still needs to change, a different market, a different voice actor, a revised script
+Models and Settings Reference
+Models and Settings Reference
+
+Model
+
+	
+
+Best for
+
+	
+
+Key capability
+
+
+
+
+Seed Audio 1.0
+
+	
+
+Multi-speaker scenes
+
+	
+
+Speech and ambience generated together
+
+
+
+
+Eleven v3
+
+	
+
+Emotionally specific delivery
+
+	
+
+Emotion and delivery control via inline tags
+
+
+
+
+Qwen Audio 3.0
+
+	
+
+General natural speech
+
+	
+
+Voice, style, and emotion control together
+
+
+
+
+MiniMax Speech 2.8 HD
+
+	
+
+Single-voice narration
+
+	
+
+High-fidelity output
+
+
+
+
+Seed Speech
+
+	
+
+Multilingual content
+
+	
+
+30+ languages
+
+
+
+
+VibeVoice
+
+	
+
+Long-form narration
+
+	
+
+Built for audiobooks and podcasts
+
+Seed Audio 1.0
+
+Built for multi-speaker scenes, generating ambience alongside the dialogue rather than one isolated clean voice sitting on silence, so a conversation reads like people sharing the same physical space rather than stacked audio tracks with nothing connecting them. This is the model to reach for whenever a scene has two or more characters trading lines, since it handles the room tone and spacing between speakers as part of the generation itself rather than requiring each voice to be generated separately and layered in afterward through a manual editing pass. A two-person dialogue scene, a group conversation, or anything where the sense of shared physical space matters as much as the words being spoken all fall squarely into what this model was built to handle.
+
+Seed Audio 1.0
+
+Setting
+
+	
+
+Options
+
+
+
+
+Prompt
+
+	
+
+Free-form sound description, @ to reference attachments
+
+
+
+
+Voice Preset
+
+	
+
+50+
+
+
+
+
+Sample Rate
+
+	
+
+8000-48000 Hz, default 24000 Hz
+
+
+
+
+Speed / Volume
+
+	
+
+Numeric, default 0.5 / 1.0
+
+
+
+
+Output Format
+
+	
+
+mp3, wav (default), opus
+
+Eleven v3
+
+The pick when a line needs a specific emotional delivery, sarcasm, hesitation, urgency, warmth, since inline tags give direct control over tone rather than leaving delivery to the model's own interpretation of the text. This matters most when the words alone don't carry the performance, when how something is said matters as much as what's being said, the difference between a line read flat and the same line read with the specific emotional weight a scene actually calls for. A dramatic monologue, a sarcastic aside, or any line where tone is doing real narrative work benefits from the direct control this model gives over delivery rather than hoping the model infers the right register on its own.
+
+Settings: Inline emotion tags, delivery style, voice selection.
+
+Qwen Audio 3.0
+
+Handles natural speech generally, with voice, style, and emotion controlled together in one pass rather than requiring separate adjustments for each. A reasonable default when the job doesn't have a specialized requirement, a straightforward narration or dialogue line that needs to sound natural without a specific emotional register or a multi-speaker scene to manage. For general-purpose voice work that doesn't call for one of the more specialized models on this list, this is the one to reach for first, since it handles the common case well without requiring you to think through which specialized feature actually applies.
+
+Qwen Audio 3.0
+
+Setting
+
+	
+
+Options
+
+
+
+
+Language
+
+	
+
+Auto detect: 13+ languages
+
+
+
+
+Voice Preset
+
+	
+
+Selectable
+
+
+
+
+Speed / Volume / Seed
+
+	
+
+Numeric
+
+
+
+
+Output Format
+
+	
+
+mp3 (default), wav, opus
+
+
+
+
+Sample Rate
+
+	
+
+8000-48000 Hz, default 24000 Hz
+
+MiniMax Speech 2.8 HD
+
+Built for a single narrator voice at the highest fidelity, the right choice for a clean product voiceover, a presentation, or anything where the voice itself is the entire deliverable and needs to sound as polished as possible, since there's no video or visual to distract from any rough edges in the audio. When the audio has to carry a project entirely on its own, an explainer voiceover, a corporate presentation, an ad read with no visual to lean on, this is the model built specifically for that level of scrutiny.
+
+Settings: Voice selection, fidelity and quality tier.
+
+Seed Speech
+
+Built for reach across 30+ languages when the same content needs to go out in more than one market, useful for a brand running the same campaign across regions without recording or generating each language separately from scratch, or a creator whose audience genuinely spans multiple language communities. Rather than treating each language as a separate production, this model lets the same script scale across a language list in one pass.
+
+Settings: Language selection across 30+ languages, voice selection.
+
+VibeVoice
+
+Specifically for long-form narration, an audiobook chapter or a full podcast episode, where the voice has to stay natural and consistent over a much longer stretch than a typical video clip, since maintaining quality, pacing, and vocal character across ten or twenty minutes of continuous narration is a fundamentally different problem than getting a fifteen-second dialogue line right. This is the model to reach for specifically when the deliverable is long-form audio content on its own, not a voice track sitting under a video.
+
+Settings: Voice selection, narration pacing, long-form consistency controls.
+
+How to Generate Audio Step by Step
+
+Step 1: Open the Audio tab. It sits alongside Image, Video, and Cinema Studio in the main navigation.
+
+Step 2: Pick the feature that matches your job. Voiceover if you're generating speech from text with nothing existing yet, the most common starting point for a fresh project. Change Voice if a video already has dialogue but the voice itself needs to change, without touching the visual content at all, useful when a client wants a different spokesperson or the original voice recording didn't land right. Translation if the video's dialogue needs to exist in another language for a different market, which keeps the timing and visual content identical while changing what's actually being said.
+
+Step 3: Choose the model based on what the audio actually needs to do. Use the model breakdown above, a multi-speaker scene calls for a genuinely different model than a single narrator voiceover or a long-form audiobook chapter, and picking the wrong one upfront usually means redoing the generation once the delivery doesn't land right. This is worth spending a moment on before generating rather than after, since the six models aren't interchangeable despite all technically producing speech.
+
+00:21
+
+Step 4: Write or upload what the voice needs to say. For Voiceover, this is a text script, written out in full rather than a loose description of the intended tone, since the model generates from the actual words rather than a summary of what the delivery should feel like. For Change Voice or Translation, this is the existing video the audio needs to be applied to, so the original dialogue and timing are already established before generating anything new on top of it.
+
+Step 5: Generate and review. Check the delivery, the pacing, and, for multi-speaker scenes specifically, that each voice reads as a distinct character rather than blending together into something that sounds like one person doing different registers. This is also the point to check emotional delivery on models like Eleven v3, where the inline tags need to actually produce the tone intended rather than something adjacent to it, a line meant to sound urgent shouldn't come out simply louder.
+
+00:38
+
+Step 6: Bring it back into the video workflow. Since audio lives in the same platform as video generation, there's no export-and-reimport cycle to sync it back to the picture, no separate file format to reconcile, and no version mismatch between video generated last week and audio generated today. The finished audio sits in the same project as the video it belongs to, rather than as a separate file that needs to be tracked down and matched up manually before anything can be finished.
+
+How to Generate the Video Around Audio, Without Jumping Between Tools
+
+There's a second way to sequence this worth knowing, especially useful when the audio needs to actually drive the video's motion rather than sit underneath it as an afterthought.
+
+Step 1: Generate the audio in Seed Audio 1.0 first. Describe the dialogue, ambience, or sound the scene needs, and generate it as a standalone clip. Review and adjust it on its own.
+
+00:08
+
+Step 2: Confirm the pacing and length work for the shot you're planning. Since the video comes second in this sequence, this is the point to make sure the audio's rhythm actually fits the motion you're about to describe, a longer line of dialogue needs a longer shot than a quick reaction sound does.
+
+Step 3: Attach the finished audio as a reference input in your video model. Cinema Studio, Seedance 2.0, and Kling 3.0 all accept a generated audio clip as a reference alongside whatever else is feeding the generation, a character, a location, a style image. Attach it the same way you'd attach any other reference.
+
+Step 4: Generate the video with the audio reference in place. The model generates the motion with that audio already factored in, so a gesture, a reaction, or a piece of movement has a real chance of landing in step with the sound, instead of the two drifting apart the way audio added after the fact often does.
+
+Step 5: Review the combined result. Check that the video's motion and the audio's timing actually agree with each other before treating the clip as final. If they don't line up, it's usually faster to regenerate the video against the same audio reference than to manually shift either track afterward.
+
+What This Guide Actually Covers
+
+Speech generation is the core of what's available: single-narrator fidelity, multi-speaker scenes with ambience, emotionally specific delivery, multilingual reach across 30+ languages, and long-form narration built for audiobooks and podcasts. Change Voice and Translation extend that same logic to video you've already made, swapping a voice or translating dialogue without regenerating the clip.
+
+“Two workflows cover how audio actually gets made: the standard path, where you pick a feature and generate speech directly, and the reversed path, where the audio comes first and the video's motion is generated to match it.”
+
+The standard path starts in the Audio tab: pick Voiceover, Change Voice, or Translation, choose the right model for the job, write the script, generate, and bring it back into the video project. The reversed path starts with the sound instead: generate the audio first in Seed Audio 1.0, then attach it as a reference input in Cinema Studio, Seedance 2.0, or Kling 3.0, so the motion lands in step with sound that already exists.
+
+One honest limit worth flagging: there's no dedicated music or sound-effects generator working independently of dialogue yet. Ambience comes bundled into multi-speaker scene generation specifically, not as its own standalone feature.
+
+HIGGSFIELD AUDIO: VOICE, MUSIC AND SOUND EFFECTS FOR AI VIDEO
+Open Higgsfield Audio

@@ -1,0 +1,161 @@
+【项目】How to Edit Photos with AI on Higgsfield: Step-by-Step Guide（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/edit-photos-with-ai-higgsfield
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+How to Edit Photos with AI on Higgsfield: Step-by-Step Guide
+Higgsfield
+Aug 18, 2026
+10 min
+
+Higgsfield Edit handles photo editing entirely through AI, nine tools cover everything from removing a background to splitting an image into layers to changing the camera angle. Three of them just launched: Layer Decomposition, Edit Text, and Remove Background. This guide covers what each one does and how to use it.
+
+What's New in Higgsfield Edit
+
+Higgsfield Edit is the AI image editor built into the platform, and it now covers nine tools total under Edit Image, from background removal to portrait retouching to full camera angle changes. Three of them just launched: Layer Decomposition, Edit Text, and Remove Background.
+
+Layer Decomposition takes a flat image, a product shot, a poster, a scene with several objects in it, and separates it into its component pieces: a background, a subject, and other distinct elements. Each one returned as its own independently editable layer instead of one locked-together file. Resolution runs 1K, 1.5K, or 2K, mode is Standard or Fast, and the layer count defaults to 5 but can be set higher or lower.
+
+Edit Text solves a narrower problem: text that's already baked into an image but needs to say something different, a price, a headline, a translated label. Instead of rebuilding the image from scratch, the tool runs Detect text first, which finds every line of text on the image and lists it. From there, any line can be changed to new wording, and generating the result puts that new text into the original design, matching the font, color, and placement it replaced.
+
+Remove Background does exactly what it says: it strips the background out of an image, and the result drops directly into the project instead of downloading as a separate file. That matters most when the next step is dropping the subject into a different scene or background, since there's no re-upload required to keep working.
+
+What's New in Higgsfield Edit
+
+Tool
+
+	
+
+What It Does
+
+
+
+
+Layer Decomposition
+
+	
+
+Splits a flat image into independently editable elements
+
+
+
+
+Edit Text
+
+	
+
+Finds text on an image and regenerates it with your replacement
+
+
+
+
+Remove Background
+
+	
+
+Strips the background and drops the result into the project for further editing
+
+How to Use These Tools: Step by Step Guide
+
+Layer Decomposition
+
+Step 1: Open an image asset and select Layer Decomposition from Edit Image.
+
+Step 2: Set resolution, mode, and layer count. Resolution runs 1K, 1.5K, or 2K. Mode is Standard or Fast. Layer count is a number field, 5 by default.
+
+Step 3: Generate. The tool separates the image into layers, background, subject, and other distinct elements, each shown as its own thumbnail.
+
+Edit Text
+
+Step 1: Open an image asset and select Edit text from Edit Image.
+
+Step 2: Run Detect text. The tool finds text already on the image and lists each line.
+
+Step 3: Change any line to the new wording.
+
+Step 4: Generate. A new image comes back with the replacement text set into the original design.
+
+Remove Background
+
+Step 1: Open an image asset and select Remove background from Edit Image.
+
+Step 2: Generate. The background strips out and the result drops straight into the project. 
+
+Pricing
+
+Editing costs credits too. Each tool has its own price.
+
+Pricing
+
+Tool
+
+	
+
+Settings
+
+	
+
+Cost
+
+
+
+
+Layer Decomposition
+
+	
+
+2K, 8 separate layers
+
+	
+
+24 credits ($1.20)
+
+
+
+
+Edit Text
+
+	
+
+Text detection+ editing
+
+	
+
+3.5 credits ($0.18)
+
+
+
+
+Remove Background
+
+	
+
+Subject Detection + Removal
+
+	
+
+1 credit ($0.05)
+
+What Other Tools Are Available on Higgsfield Edit
+
+These three are new, but Higgsfield Edit already covers several other tools worth knowing about.
+
+Expand & Crop extends or crops a canvas, filling the new space with AI-generated content instead of leaving it blank.
+Upscale increases photo and video quality from 2x up to 16x, covering 1080p through 8K across multiple engines.
+Color Grading applies color grading directly to an image.
+Enhancer, also called AI Skin Enhancer, handles pro-level portrait retouching by rebuilding facial geometry across three enhancement modes.
+Relight repositions light on an existing image with director-style, 3D-aware control.
+Angles changes the camera perspective of an image, covering a full 360-degree rotation with 12 auto-views and lighting control.
+
+What to Keep in Mind
+
+Layer Decomposition, Edit Text, and Expand & Crop all carry a "New" tag under Edit Image, the other six tools listed there already existed.
+Layer Decomposition separates an image by resolution (1K, 1.5K, 2K), mode (Standard or Fast), and a set layer count, 5 by default. Separating layers costs 15 credits.
+Edit Text runs Detect text first, listing every line found on the image, before generating the replacement. Detection costs 0.5 credits.
+Remove Background's output drops straight into the project, so it's ready for the next step without a separate download and re-upload.
+A general prompt bar at the bottom of the editor handles custom edits outside the nine listed tools.
+
+HOW TO EDIT PHOTOS WITH AI ON HIGGSFIELD: STEP-BY-STEP GUIDE
+Try Higgsfield Edit

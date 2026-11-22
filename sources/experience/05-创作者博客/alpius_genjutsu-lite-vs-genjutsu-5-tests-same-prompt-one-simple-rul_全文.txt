@@ -1,0 +1,88 @@
+【项目】GENJUTSU LITE VS GENJUTSU: 5 TESTS, SAME PROMPT, ONE SIMPLE RULE（@alpius · 创作者博客）
+【链接】https://higgsfield.ai/@alpius/blogs/genjutsu-lite-vs-genjutsu-5-tests-same-prompt-one-simple-rule
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+GENJUTSU LITE VS GENJUTSU: 5 TESTS, SAME PROMPT, ONE SIMPLE RULE
+@alpius
+100
+6
+0
+
+Genjutsu Lite dropped this week. At 720p it costs 2 credits a second. Full Genjutsu costs 7. The first question in our Discord was the obvious one: what do the extra 5 credits actually buy?
+
+I didn't want to answer that from vibes, so I ran a fair test. Five new clips, both models, the same source, the same reference images, the same prompt, 720p on both, one take each. Then I measured everything I could measure and had Gemini review every pair blind.
+
+Short version: Lite holds up on looks. Full holds up on timing. The rest of this post is the evidence.
+
+What Lite is
+
+Lite sits in the same Genjutsu panel. Same two modes, Motion transfer and Objects swap, same prompt box. What changes is the price, the limits, and (it turns out) how strictly your clip's timing is kept.
+
+The limits matter before anything else. Lite only takes clips from 4 to 15 seconds and up to 10 images. Anything longer, or a bigger reference set, is a full Genjutsu job no matter what.
+
+To switch: open Video, pick Genjutsu, then click Try Higgsfield Genjutsu Lite under Quality (or change the Model row). The banner turns into GENJUTSU LITE and Quality drops to 720p or 1080p.
+
+How I tested
+
+My rule was the same source, the same references and the same prompt, so the model is the only thing that changes.
+
+Five new 10 second Seedance 2.5 clips at 720p and 24 fps, each built to stress something different.
+Reference images from Nano Banana Pro on a flat grey background, plus frame grabs where I wanted to keep a real person.
+Prompts written with my Alchemist V1 rules: name every beat you care about, map every practical to its replacement, and anchor per-shot changes to real timestamps.
+Both models submitted within two seconds of each other, so they shared the same queue.
+Gemini watched each pair with the source on top and the two results labelled A and B, without knowing which was which. I checked every claim it made against full-res frames and ffmpeg numbers.
+
+Total spend was 819 credits, sources included. The Genjutsu half was 357. The Lite half was 102.
+
+The five tests
+01 Dance recast: Lite wins
+
+A dancer in a laundromat becomes a grandma in her living room. Washing machines become china cabinets, the folding table becomes a floral sofa, the vending machine becomes a grandfather clock. Both models kept the whole routine and placed every swap. The difference is in the crouch at 8 seconds: full Genjutsu turned her pleated skirt into a solid block, while Lite's skirt drapes like cloth. Gemini picked Lite clearly, and the frames back that up.
+
+02 Headphone swap: full wins
+
+Objects swap on a product his hands touch: white headphones become red retro ones. Full Genjutsu nailed it and stayed frame-locked to the source. Lite came back 11.0 seconds long from a 10.1 second clip and cut 0.44 seconds early. That sounds small until you play it: he puts the headphones on a beat behind the original, and the copied audio no longer lines up with the picture.
+
+03 Gorilla rage quit: Lite wins
+
+An office worker slams the desk, sweeps it clean, kicks his chair and storms out, recast as a silverback in the same shirt and tie. Both kept every beat, and the papers, mug, chair and door all did what they did in the source. From behind, though, full Genjutsu's head drifts into shaggy human hair and the glass door opens onto a night street that was never there. Lite's gorilla stays a gorilla.
+
+04 BMX four worlds: full wins
+
+The hardest one: a fast drone chase with three hard cuts, and a different world on every shot. Canyon, snow forest, jungle temple, Mars, all from one prompt with no images except a frame grab of the rider. Both models put every world on the right shot, which still impresses me. Full hit every cut on the exact frame. Lite's canyon road and Mars ridge followed the prompt more closely, but it stuttered for about a second on the temple steps (duplicated frames, then jumps) and drew a much longer staircase.
+
+05 Face hold and lip sync: Lite wins
+
+A woman talks to camera in her living room. I gave both models a frame grab of her face and a ramen bar plate, and asked them to keep her and move her. Both held her face and her lip sync. Lite swapped every practical, sake bottles included, and its cuts landed exactly. Full left her living-room house plants on the shelves. If you've read my Genjutsu post, you know this one: whatever you don't name as replaced can survive.
+
+What the numbers say
+
+Looks went 3 to 2 for Lite. The measurements tell a different story, and that's where the real choice is.
+
+Timing. Full Genjutsu kept the source frame rate, the source length and every cut within one frame, on all five tests. Lite always gave me 30 fps and exactly 10.00 seconds. Its cuts landed up to 4 frames off, plus the one swap that came back almost a second long.
+Audio. Both models copy your clip's sound unchanged. I checked: the waveform matches the source exactly on all ten renders. That's great for lip sync, but it means any timing drift on Lite shows up as picture against sound.
+Speed. Lite was not faster for me. With all ten jobs in one queue, full averaged about 8 minutes and Lite about 11. Your queue may differ, but don't pick Lite for speed.
+Price. 3.5x cheaper at 720p, 5x cheaper at 1080p. Lite at 1080p (4 credits a second) still costs less than full at 720p (7).
+Which one should I use
+
+My rule after these five: use Lite for anything that lives in one scene, and pay for full when the cut has to land. Recasts, creature swaps, identity holds and talking heads under 15 seconds are Lite jobs now. Object swaps, multi-cut edits on a beat, music videos, anything over 15 seconds, and anything going into a 24 fps timeline stay on full.
+
+A good workflow is to iterate on Lite at 720p, where a reroll costs 20 credits, and only rerun the winning prompt on full if the timing has to be frame-perfect.
+
+One caveat: this is one roll per model per test. Seed variance can flip a close call, so read it as five honest data points, not a law.
+
+Everything is open
+
+Every source, reference image, prompt and render is in the project, with a folder per test and the side-by-sides inside:
+
+Genjutsu vs Genjutsu Lite: 5 Tests
+
+The guide with the comparison table, the decision table, the UI steps and all five prompts ready to paste is attached here as a PDF, and it's going up in the Discord learning hub too.
+
+Genjutsu-vs-Genjutsu-Lite-Guide.pdf
+PDF
+
+If you're new to Genjutsu, start with how I learned it in the first place: How I Mastered Genjutsu in a Week. Every prompting rule I used here comes from that week.

@@ -1,0 +1,356 @@
+【项目】ONE CHARACTER, ONE WORLD: HOW I FIXED AI VIDEO CONSISTENCY WITH A 5-SECOND REFERENCE（@hochbar · 创作者博客）
+【链接】https://higgsfield.ai/@hochbar/blogs/one-character-one-world-how-i-fixed-ai-video-consistency-with-a-5-second-reference
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+ONE CHARACTER, ONE WORLD: HOW I FIXED AI VIDEO CONSISTENCY WITH A 5-SECOND REFERENCE
+H
+Hochbar
+@hochbar
+15
+1
+0
+
+The prompt wasn't the only problem. The reference video was teaching the AI to repeat my mistakes.
+
+
+
+
+THE CHALLENGE: MAKING AN AI ANIMATION FEEL LIKE ONE FILM
+
+
+
+
+I wanted to create a short animated film for Art House, a creative school.
+
+
+
+
+The story was simple: a little orange fox comes to life inside a painting, jumps into an art studio, discovers a table of colored pencils, and sets off a magical sequence that ends with the ART HOUSE title.
+
+
+
+
+But turning that idea into a coherent film was much harder than generating beautiful individual shots.
+
+
+
+
+The fox needed to maintain the same appearance. The studio had to remain recognizable. Camera movement, lighting, and actions needed to flow naturally.
+
+
+
+
+My original edit was approximately 26 seconds long, assembled from six generated segments. It had five noticeable discontinuities.
+
+
+
+
+The most important thing I learned: visual consistency isn't just about character references. It's also about temporal continuity.
+
+
+
+
+WHAT DIDN'T WORK
+
+
+
+
+I experimented with reference images, scene planning, Blender previsualization, and different approaches to AI video generation.
+
+
+
+
+Blender helped me plan the physical space and camera movement, but building increasingly detailed previews wasn't solving the problem efficiently.
+
+
+
+
+I also tried using the assembled video as a motion reference for Seedance 2.5.
+
+
+
+
+The instruction was clear: no cuts, no sudden camera changes, one continuous shot.
+
+
+
+
+Yet the generated test repeated a discontinuity from the reference at approximately five seconds.
+
+
+
+
+That was the turning point.
+
+
+
+
+The model was using a reference that already contained the very transitions I wanted to eliminate.
+
+
+
+
+A prompt asking for continuity wasn't enough to override a discontinuous visual reference.
+
+
+
+
+THE APPROACH THAT WORKED
+
+
+
+
+I changed the inputs instead of endlessly rewriting the instructions.
+
+
+
+
+STEP 1: USE A CLEAN MOTION REFERENCE
+
+
+
+
+Rather than feeding the entire edited video into the model, I extracted the first five seconds — a continuous opening without internal cuts.
+
+
+
+
+This gave the model a more consistent starting point for the scene, lighting, environment, and camera behavior.
+
+
+
+
+STEP 2: ADD A SEPARATE VISUAL REFERENCE
+
+
+
+
+I selected a sharp still frame from approximately 8.5 seconds in the original video.
+
+
+
+
+Its purpose was different from the motion reference: preserve the fox's appearance, colors, proportions, and the visual identity of the studio.
+
+
+
+
+One reference guided the opening motion. The other reinforced visual details.
+
+
+
+
+STEP 3: GENERATE A LONGER SEQUENCE
+
+
+
+
+I used Higgsfield Supercomputer with Seedance 2.5 in Omni Reference mode.
+
+
+
+
+My recorded generation settings:
+
+• Model: Seedance 2.5
+
+• Mode: Omni Reference
+
+• Duration: 26 seconds
+
+• Aspect ratio: 9:16
+
+• Resolution: 480p
+
+• Bitrate mode: High
+
+• Generated audio: Off
+
+• Inputs: One clean video reference and one image reference
+
+
+
+
+The resulting generated sequence was approximately 26 seconds long, with no hard scene cuts detected by the analysis used in this project.
+
+
+
+
+That doesn't mean the model will always produce a perfect continuous take. It means that, in this particular experiment, replacing the discontinuous reference made a meaningful difference.
+
+
+
+
+THE DIRECTING INSTRUCTIONS
+
+
+
+
+The goal was to create a connected sequence of events rather than a collection of unrelated visual moments.
+
+
+
+
+The fox appears inside the painting, moves into the studio, approaches the table, and reacts as the colored pencils come alive. Their colorful movement develops into a swirling paint vortex that leads to the final title.
+
+
+
+
+Here is a simplified reconstruction of the direction used in the project — not the exact original prompt:
+
+
+
+
+"Use the clean reference clip as the beginning of the same animated scene. Preserve the fox's appearance, teal scarf, proportions, studio environment, lighting, and color palette.
+
+
+
+
+Create one visually continuous camera movement. Avoid sudden camera changes, cuts, lighting shifts, and character replacement.
+
+
+
+
+The fox emerges from the painting, crosses into the studio, approaches the table, and watches the colored pencils come alive. Their movement develops into one colorful paint vortex that fills the frame.
+
+
+
+
+Maintain coherent spatial relationships and a recognizable character throughout the sequence."
+
+
+
+
+The exact wording matters less than the underlying structure: consistent references, a clear sequence of actions, and understandable camera direction.
+
+
+
+
+ONE MORE MISTAKE: THE FINAL TITLE
+
+
+
+
+Even after fixing the larger continuity problem, I encountered another issue.
+
+
+
+
+The generation instructions contained the wrong title: "ART NAME" instead of "ART HOUSE".
+
+
+
+
+I didn't want to regenerate the entire sequence to fix a title.
+
+
+
+
+Instead, I reused the correct title material from the earlier video and created a local transition through the paint vortex, a fade to white, and the final title reveal.
+
+
+
+
+This stage was assembled using FFmpeg.
+
+
+
+
+The result was then upscaled and exported through CapCut.
+
+
+
+
+The final exported film was approximately 24.4 seconds long, in a vertical 1440 × 2560 format at 30 fps.
+
+
+
+
+The higher export resolution came from post-production upscaling, not from a native high-resolution Seedance generation.
+
+
+
+
+FIVE LESSONS I'LL USE IN MY NEXT PROJECT
+
+
+
+
+Inspect the reference before changing the prompt.
+If the source contains unwanted cuts or sudden changes, the model may reproduce them.
+Separate motion guidance from visual identity.
+A clean video reference and a detailed still image can serve complementary purposes.
+Don't overbuild the previsualization.
+Blender is valuable when precise spatial planning is necessary, but an existing usable reference may provide a faster starting point.
+Check the output, not just the model's description of it.
+Inspect transitions frame by frame. Automated scene-cut detection is useful, but it cannot replace visual review.
+Fix local problems locally.
+If the film works and only the ending is wrong, consider editing the ending before paying for another full generation.
+
+FINAL THOUGHTS
+
+
+
+
+This project changed how I think about AI filmmaking.
+
+
+
+
+At first, I focused on finding the perfect model and writing a more detailed prompt.
+
+
+
+
+Now I pay much more attention to what the model actually receives: the reference video, the character image, the sequence of actions, and the camera logic.
+
+
+
+
+For this project, a carefully selected five-second reference proved more useful than a much longer, imperfect source.
+
+
+
+
+The biggest lesson wasn't that AI can generate a beautiful animated scene.
+
+
+
+
+It was that directing AI means controlling the information you give it — and knowing when not to generate again.
+
+
+
+
+Have you ever had an AI video model repeat an unwanted camera cut or visual mistake from your reference? I'd love to hear how you solved it.
+
+
+
+
+Created by @hochbar | AI Video Direction & Cinematic Storytelling
+
+
+
+
+#Higgsfield #AIFilmmaking #AIAnimation #Seedance #CreativeWorkflow
+
+
+
+
+
+
+
+BEFORE — 8-second test. The original reference still causes a visible jump around 00:05.
+
+
+
+
+AFTER — 26-second continuous take, generated from a clean five-second reference. The final title was refined in post-production.
+
+
+
+
+Watch the five-second side-by-side BEFORE / AFTER transition comparison

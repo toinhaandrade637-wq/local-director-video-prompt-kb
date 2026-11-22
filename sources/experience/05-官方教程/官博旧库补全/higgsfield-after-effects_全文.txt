@@ -1,0 +1,152 @@
+【项目】Higgsfield Inside Adobe After Effects: AI Footage Straight to Your Timeline（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/higgsfield-after-effects
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Higgsfield Inside Adobe After Effects: AI Footage Straight to Your Timeline
+Higgsfield
+Jul 22, 2026
+10 min
+
+Higgsfield's After Effects plugin generates AI video and images, removes backgrounds, reframes, and upscales directly on your timeline, with no browser round-trips. It installs as one panel covering both After Effects and Premiere Pro, runs on your existing Higgsfield credits, and can be driven by an AI agent through Supercomputer or Claude via MCP.
+
+What the Plugin Actually Does
+
+The Higgsfield Adobe plugin ships as a single installer covering both Premiere Pro and After Effects. Everything lives in one panel at Window → Extensions → Higgsfield AI. The panel includes the five core plugins plus two generation tools.
+
+What the Plugin Actually Does
+
+Tool
+
+	
+
+What it does
+
+
+
+
+Generate AI Video
+
+	
+
+Create any clip from a natural language prompt: scenes, characters, B-roll, camera moves. The result drops straight into the timeline
+
+
+
+
+Generate AI Image
+
+	
+
+Any visual from a prompt: backgrounds, overlays, title cards, scene elements
+
+
+
+
+Reframe
+
+	
+
+Crop any clip to 9:16, 16:9, 4:3, 3:4, 21:9, or 1:1 with one click. Smart subject tracking keeps the focal point centered
+
+
+
+
+Remove Background
+
+	
+
+Pull a clean key from any footage without a green screen: sharp edges, soft hair detail, pure alpha channel
+
+
+
+
+Draw to Edit
+
+	
+
+Sketch directly on the frame to remove objects, add elements, or replace areas with a brush stroke
+
+
+
+
+Upscale
+
+	
+
+Boost any clip up to 4K or 8K with real detail recovery, not just pixel stretching
+
+
+
+
+Edit Video
+
+	
+
+Prompt-based editing in natural language
+
+Generate AI Video and Generate AI Image handle creation. Reframe, Remove Background, Draw to Edit, and Upscale handle the finishing work that normally requires a separate tool. Edit Video applies a described change to existing footage without rebuilding the shot.
+
+Why This Matters for a Real Production
+
+Consider a VFX shot that needs an AI-generated background plate composited behind live-action footage. The traditional workflow: describe the background in a browser, generate it, download, switch to After Effects, import, mask the subject, adjust the composite, realize the lighting does not match, go back to the browser, regenerate, download again, re-import, re-composite. Each round trip is five to ten minutes of pure logistics before any creative work happens.
+
+Inside the plugin, that task collapses into: open the panel, generate the background with a lighting description that matches your footage, and the result appears directly in your project, ready to drop onto a layer. If the lighting is off, regenerate from the same panel without leaving the composition. The iteration loop shortens from minutes to seconds.
+
+This matters even more for tasks that are tedious without AI assistance: rotoscoping-free background removal, reframing a clip without manually repositioning the subject frame by frame, or fixing one area of a shot through Draw to Edit instead of building a mask by hand.
+
+The Workflow: Generate, Composite, Finish
+
+Generate the footage or scene elements directly from the panel with a plain-language description. Pull the result directly into your composition, no export or import step in between. Composite, mask, and layer as usual. Use Reframe, Remove Background, Upscale, or Draw to Edit on any layer as the shot comes together, without leaving the timeline.
+
+For AI-generated B-roll, backgrounds, or element replacement, the plugin handles generation directly from the After Effects workspace. For more complex needs where you want the full range of Higgsfield's video models, generate on the web platform and bring the results into your project through the same panel.
+
+Driving After Effects Through Supercomputer and MCP
+
+The plugin can also be driven by an AI agent through Supercomputer or through Claude via MCP. In both cases, the agent works directly with compositions, layers, keyframes, effects, and scripts, not just generation requests.
+
+What the agent can do inside a live composition:
+
+Build effects and animations from a description, directly inside the active composition
+Recreate a design from an image reference, and an animation from a video reference
+Generate expressions from a plain-language description
+Import Higgsfield generations directly into the composition
+
+Describe a light streak effect, a logo reveal with a specific easing curve, or a camera shake expression, and the agent builds it in the composition rather than requiring you to hand-code the expression or manually animate each property.
+
+How to connect: For MCP, install the Adobe plugin first, then add the connector in Claude using the URL bridge.higgsfield.ai/mcp. For Supercomputer, install the plugin and Supercomputer detects it automatically, no additional configuration needed. MCP puts the capability inside the AI assistant you already use for other work. Supercomputer is the dedicated Higgsfield agentic workspace where this sits alongside every other generation tool.
+
+How to Install
+
+macOS:
+
+Step 1. Download the .dmg from higgsfield.ai/plugins/after-effects. The installer is a universal binary for Apple Silicon (M1 through M4) and Intel, no helper app required.
+
+Step 2. Open the .dmg, drag Higgsfield to Applications, double-click to launch. It detects After Effects automatically.
+
+Step 3. Launch After Effects and go to Window → Extensions → Higgsfield.
+
+Windows:
+
+Step 1. Download and install the free ZXP Installer from aescripts.com/learn/zxp-installer.
+
+Step 2. Download the Higgsfield .zxp file and drag it onto the open ZXP Installer window.
+
+Step 3. Open After Effects and go to Window → Extensions → Higgsfield.
+
+Requirements: After Effects 2024 (24.0) or newer, on Windows 10/11 (64-bit) or macOS. Older versions are not supported. An internet connection is required for every generation since AI inference runs on Higgsfield's servers, and the result is sent back into your timeline.
+
+What It Costs
+
+The plugin runs on the same Higgsfield credits as the web platform. You will not need a separate account, a separate credit pool, or pay any markup for using the Adobe integration instead of the web interface. If a model is on your plan's Unlimited list, it generates without consuming credits through the plugin the same way it does on higgsfield.ai.
+
+Who This Is Actually For
+
+The plugin is built for people already living inside Adobe's ecosystem who do not want to leave it for generation work. If your daily workflow runs through After Effects for compositing, motion graphics, or VFX, and you have been treating AI generation as an external tool, this collapses that into one workspace. It matters less if your generation work happens entirely outside a compositing context: the Higgsfield web app gives you the same power without After Effects open at all.
+
+For teams, the Supercomputer and MCP integration adds value for repetitive tasks across many similar shots: generating a batch of consistent effects or expressions across a project without re-keyframing each one by hand. The same installer also covers Premiere Pro, and Higgsfield ships separate plugins for Photoshop, DaVinci Resolve, and Figma.
+
+HIGGSFIELD MEETS DAVINCI RESOLVE: GENERATE B-ROLL RIGHT IN YOUR EDIT
+Get the Plugin

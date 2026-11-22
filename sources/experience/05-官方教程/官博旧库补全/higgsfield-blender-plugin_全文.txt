@@ -1,0 +1,142 @@
+【项目】Higgsfield for Blender: Features, Installation, and MCP Bridge Setup（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/higgsfield-blender-plugin
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Higgsfield for Blender: Features, Installation, and MCP Bridge Setup
+Higgsfield
+Aug 21, 2026
+8 min
+
+The Higgsfield Blender plugin brings AI image, video, 3D, animation, and scene-building tools into the Blender viewport. You can generate from a floating bar, add supported results directly to the open scene, and use your existing Higgsfield account and credits. This guide explains the tools, installation, costs, and Blender Bridge setup.
+
+What Is Blender and How It Works with Higgsfield
+
+Blender is a free, open-source 3D creation platform. The kind of tool where you build a model, rig it, animate it, and light the final render. It covers the entire pipeline from a single object to a full animated scene. That is why studios, indie animators, and game developers all use it.
+
+Higgsfield is an AI-native creative suite. The plugin sits inside Blender itself, showing up as a floating bar over the 3D viewport, so a model, an image, a video, or a whole scene generates straight into the file you already have open.
+
+What the Plugin Does
+What the Plugin Does
+
+Tool
+
+	
+
+What It Does
+
+
+
+
+Scene Builder
+
+	
+
+Describe a set and objects, layout, and light are placed directly in your Blender scene as real, editable geometry, not a rendered image. Move it, scale it, or delete it like any other object. This can also feed directly into a Video generation, which renders it into a finished shot
+
+
+
+
+3D Model
+
+	
+
+Type a prompt or drop a reference, and a mesh lands at the 3D cursor with clean topology (quads, unwrapped UVs) and materials already included, PBR maps arrive linked and ready to light
+
+
+
+
+Character Animation
+
+	
+
+Comes with a rig included (armature fitted and weighted, no manual skinning), describe the move in plain language and keyframes land on the timeline, built on standard Blender bones and actions so the curves are yours to edit like any mocap
+
+
+
+
+Image
+
+	
+
+Renders at native 4K resolution without an upscale step, any model per shot, Nano Banana Pro, Seedream, and the full catalogue one dropdown away, viewport in, frame out
+
+
+
+
+Video
+
+	
+
+Seedance 2.5 fed straight from your viewport, with an Anti-Slop mode built to reduce the melted hands and jelly physics common in generated video, generation to clip in about a minute
+
+
+
+
+Camera
+
+	
+
+Camera movement is set by physically moving your phone, the scene camera follows in real time as you frame the shot, producing natural handheld motion without keyframing it by hand
+
+
+
+
+Asset
+
+	
+
+Every generation lives in one library, 3D, images, and clips side by side. One click drops it into the open scene as an object, a plane, or a texture, with a folder shortcut to the raw files on disk
+
+The bar covers seven tabs: Scene Builder, 3D Model, Character Animation, Image, Video, Camera, and Asset. Pick a tab, pick a model, set resolution and fps, and the cost shows directly on the Generate button before you press it.
+
+How It Works
+
+The actual process is simple, the same handful of steps every time no matter which tab you're in. Choose a tab → type a prompt or drop in a reference → pick the model and settings → check the credit cost on the Generate button → generate → the result lands in the scene.
+
+Full Video Workflow: From Blockout to Finished Shot
+
+Here's an example of how a finished video comes together, building up in layers.
+
+Step 1: Start with the bare scene. Scene Builder places the objects, layout, and light, plain geometry standing in for what the final shot will look like.
+
+Step 2: Add a character. Character Animation drops a rigged character in and animates the move described in plain language.
+
+Step 3: Texture the location. 3D Model or Image fills in the surfaces, materials, and set dressing that was still missing.
+
+Step 4: Generate the finished video. Video renders everything built up so far into the final shot. 
+
+When Creators Can Use It in Production
+
+A director or lead wants to see three lighting options before the team commits a whole day to one of them. Generate all three from the viewport and pick a direction in minutes.
+A deadline is close and half the shots need small, non-critical objects filling out the background, describe them instead of pulling someone off the main work to build filler props.
+A pitch or a client review needs something to look at tomorrow, not next week, a rough camera move or a piece of concept art generated on the spot.
+
+How to Install
+
+Step 1. Download the .zip from higgsfield.ai/plugins/blender. It's one signed file, no installer to run, and no helper app required.
+
+Step 2. Drag the .zip onto any open Blender window. It installs and enables itself. You can also install it manually from Edit → Preferences → Add-ons → Install. Keep the downloaded file zipped because Blender installs the archive directly.
+
+Step 3. The Higgsfield bar now floats over your viewport. Sign in and start typing.
+
+Requirements: Blender 5.1 or later, on Windows or macOS. You need an internet connection and an active Higgsfield account to generate. AI generation runs in the cloud, so a powerful GPU is not required for generation, although your hardware still affects local Blender rendering. Files already saved in your project or on disk remain available offline.
+
+What It Costs
+
+The number on the Generate button is the credit price, visible before you press it, and the variants counter multiplies it if you're generating more than one at a time. Your balance and plan are one click away in the bar itself. Everything runs on the same Higgsfield credits as the web platform, one download, one sign-in, and your credits are already there.
+
+An Agent in Your Scene
+
+Higgsfield MCP can generate assets through an AI assistant on its own, giving that assistant access to Higgsfield generation directly. The Blender Bridge is a separate connection: it adds access to the installed Blender add-on specifically, letting the assistant work with the scene that's currently open, not just generate an asset in isolation.
+
+Step 1. Copy the bridge URL: bridge.higgsfield.ai/mcp.
+
+Step 2. Add the Bridge through your assistant's MCP or connector settings, name it Higgsfield Bridge, and paste the URL.
+
+Step 3. Sign in when prompted, then ask for a scene directly, something like "Build me a calibration bay blockout in Blender."
+
+HIGGSFIELD FOR BLENDER: FEATURES, INSTALLATION, AND MCP BRIDGE SETUP
+Download for Blender

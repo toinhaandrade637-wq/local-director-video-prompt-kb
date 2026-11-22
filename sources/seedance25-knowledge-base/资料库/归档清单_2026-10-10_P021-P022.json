@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "archived_date": "2026-10-10",
+  "thread_id": "01a11b93-0d5d-72b0-9a10-5b9fa386a1a1",
+  "source_user_record_line": 626,
+  "original_message": {
+    "sha256_utf8": "a248e5fc9a9fd16c2e10a1767e8f8e2fbe77d6b776238afc6f8858460d43ac6b",
+    "utf16_length": 3673,
+    "path": "资料库/00_完整原始消息/用户新增案例原始消息_2026-10-10_足球与风格穿越.txt"
+  },
+  "fidelity": "原始用户消息连续切片；未清理标点、反斜杠、占位符或文字；所有媒介条目保留。",
+  "reconstruction_verified": true,
+  "cases": [
+    {
+      "id": "P021",
+      "title": "男孩足球_四镜与速度切换",
+      "path": "资料库/01_用户提示词原文/P021_男孩足球_四镜与速度切换.txt",
+      "source_start_utf16": 0,
+      "source_end_utf16_exclusive": 749,
+      "utf16_length": 749,
+      "sha256_utf8": "67a38afc6930331456efcfbe4d964dacc0bb4a1bd0ad59361ff533f4009ebfd0",
+      "validation": "用户于2026-10-10新增提供的结构案例；本条生成结果未被单独说明或附视频。"
+    },
+    {
+      "id": "P022",
+      "title": "MULTIVERSE_LUNGE_双主体环绕与媒介变化",
+      "path": "资料库/01_用户提示词原文/P022_MULTIVERSE_LUNGE_双主体环绕与媒介变化.txt",
+      "source_start_utf16": 749,
+      "source_end_utf16_exclusive": 3673,
+      "utf16_length": 2924,
+      "sha256_utf8": "2d6478526f034d130a4c1961b7ddc8992add76a2eec4f96dc14b25b62013c04d",
+      "validation": "用户于2026-10-10新增提供的结构案例；本条生成结果未被单独说明或附视频。"
+    }
+  ]
+}

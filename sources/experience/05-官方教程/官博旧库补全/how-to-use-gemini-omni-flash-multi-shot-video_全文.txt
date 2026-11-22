@@ -1,0 +1,103 @@
+【项目】How to Use Gemini Omni Flash for Multi-Shot AI Video Production（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/how-to-use-gemini-omni-flash-multi-shot-video
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+How to Use Gemini Omni Flash for Multi-Shot AI Video Production
+Higgsfield
+Jul 1, 2026
+8 min
+
+To generate with Gemini Omni Flash, you give the model text, photos, and video in a single prompt and it reasons across all three at once. Most multimodal models process each input separately. This one connects them into a coherent output, which is what makes multi-shot production from reference materials actually work. This guide covers how to run it on Higgsfield across four workflows.
+
+What Gemini Omni Flash Actually Is
+
+Gemini Omni Flash sits in Google's Gemini family with one job: handle text, images, audio, and video as a single unified input, not as separate signals the model weighs against each other.
+
+The "Flash" part means it is built for speed. Faster than Pro-tier, lower latency, lower cost per call. For video workflows where you might send dozens of requests to get a sequence right, that matters. The "Omni" part is what actually changes what you can build. Earlier multimodal models accepted multiple input types but processed them in separate passes. Omni Flash reasons across all of them at once. Feed it a photo of a character, a reference image of a location, and a text description of what happens next, and it connects those three things into one coherent clip rather than averaging them or picking the strongest signal.
+
+On Higgsfield, Gemini Flash is one model in a 15+ model stack. That matters for hybrid workflows: generate a scene with Gemini Flash, switch to Kling 3.0 for a shot that needs more physical realism on a human subject, run the final output through Veo 3.1 for native audio, all without leaving the workspace or rebuilding the character reference between models.
+
+Clips max out at 10 seconds at 720p. Fast enough to iterate on in real time.
+
+What It Can Do
+
+Multimodal input in one call. Text, photos, and video go into the same generation request. The model figures out how they relate and produces a scene that incorporates all three without manual compositing on your end.
+
+Character consistency across edits. Face, clothing, and voice hold across multiple generations. Revising a line of dialogue, swapping the background, or changing the timing does not reset the character. On Higgsfield, pair this with Soul ID for a trained identity that carries the same face across Gemini Flash and every other model on the platform automatically.
+
+Physics that behave correctly. Gravity, weight, collisions, fluid behavior, all generated as part of the clip. A glass falls the way a glass falls. For product advertising where the object needs to behave like a physical thing rather than a rendered asset, this removes a lot of correction work.
+
+Plain-language video editing. Describe the change. The model makes it. "Move the product to the left side of the frame" or "remove the lamp in the background" are direct edits on the existing clip, not rewrites that regenerate everything from scratch. On Higgsfield, Cinema Studio extends this with explicit camera control across every model, so the camera logic you establish in one clip carries into the next.
+
+Video analysis. Feed in existing footage. The model can identify the strongest segments, describe what is happening scene by scene, or pull edit points against criteria you define.
+
+Four Cases Where Gemini Flash Is the Right Choice
+
+Multi-reference scene assembly. Character photo plus location image equals a generated keyframe. The model places the character in the location without you wiring the two together. Faster path from reference materials to a usable clip than any workflow that treats each input separately.
+
+Iterative dialogue and layout editing. A spokesperson delivering ten slightly different versions of the same line. A product shot with minor layout adjustments across variants. Natural-language edits on a fixed clip instead of full regenerations for each revision. On Higgsfield, Marketing Studio extends this into a full URL-to-ad pipeline where the same spokesperson, trained once in Soul ID, anchors every variant automatically.
+
+Brand-constrained ad production. State the constraints explicitly in the prompt: "The label color stays consistent across all cuts. The product shape does not distort." The model treats explicit constraints as locks rather than suggestions.
+
+Presenter video from photo and voice reference. Photo of the presenter plus voice sample. The model generates video of that person speaking, lip sync driven by the audio rather than approximated from text. For multilingual versions, swap the audio track and feed it alongside the same photo reference. On Higgsfield, LipSync Studio handles this across 8+ languages with the same trained Soul ID face holding across every language version.
+
+How to Generate With Gemini Omni Flash: Step by Step
+
+Step 1. Prepare your inputs.
+
+Gemini Flash accepts up to three input types simultaneously, with support for up to 7 images per prompt.. Decide which combination fits the shot: text only for pure generation, text plus a character photo for placed subjects, text plus character and location for a full scene, or existing video plus text for an edit pass.
+
+Step 2. Write a structured prompt.
+
+Subject and action first. Setting and constraints second. Camera behavior third. Example:
+
+"@character_photo standing at a rain-slicked market stall at dusk, looking directly at camera, slow dolly in, warm tungsten light from the stall, shallow depth of field."
+
+Label reference inputs explicitly in the prompt body. "@character_photo" tells the model which input is the character and how it relates to the action description.
+
+Step 3. Select Gemini Flash on Higgsfield.
+
+Go to higgsfield.ai/ai/video, select Gemini Flash from the model list, upload your reference inputs, and paste the prompt.
+
+Step 4. Generate and validate.
+
+Run at 720p to validate composition, character placement, and camera behavior.
+
+Step 5. Edit in plain language.
+
+If the output is close but not right, describe the specific change. "Move the subject slightly left" or "the background is too bright, darken it." One precise instruction per edit pass. Change one variable at a time so you can identify what worked.
+
+Step 6. Export.
+
+Once the prompt produces the right result, export. For sequences, validate all shots before exporting anything.
+
+Here is what the generation looks like when a detailed prompt describes the scene precisely: the location, lighting, camera move, and action. The model interprets all of it and produces a clip without additional references.
+
+
+Prompt used:
+
+“A cinematic mix of live-action and 3D CGI. A hand presses a key on a laptop, and a small, blue, furry cartoon character wearing pink glasses and a Hawaiian shirt jumps out of the screen. The character multiplies rapidly, flooding the desk and then a busy city intersection. A yellow taxi hits one of the small creatures, causing it to magically grow into a giant, Kaiju-sized monster. The giant blue furry creature stomps through the city streets, pressing its huge hands against a glass office building while people run away. A young Asian man in a purple hoodie stands on the street, pulls out a glowing pink and green box, and opens it. A magical pink light beams out, sucking the giant monster and all the small creatures into the box like a vacuum. Cinematic lighting, dynamic camera angles, blockbuster movie VFX.”
+
+Gemini Flash on Google Studio vs Gemini Flash on Higgsfield
+
+The model is the same. What surrounds it is not.
+
+Google Studio gives you direct model access with strong API documentation. For developers who want the fastest, lowest-friction way to start experimenting with AI video generation, that is a reasonable starting point. What is missing: no character consistency that persists across sessions, no switching to a different model when Flash is not the right fit for a specific shot, no production tooling in the same workspace.
+
+On Higgsfield you get the same fast, flexible core model minus the integration overhead, plus the tools Google Studio does not give you on its own. Soul ID trains a persistent identity from photos that carries across every model on the platform without re-uploading per session. When a shot calls for Kling 3.0 for human subjects, Seedance 2.0 for a commercial with multiple references, or Veo 3.1 for native audio, you switch without leaving the workspace or rebuilding the character. Cinema Studio applies camera control logic across all models. Marketing Studio turns a product URL into a finished ad using whichever model fits the job.
+
+When Gemini Flash Is Not the Right Model
+
+Clips longer than 10 seconds require a different model or a stitched sequence. Kling 3.0 generates multi-shot sequences of up to six connected scenes in one pass. Seedance 2.0 accepts first-and-last-frame inputs to generate transitions between clips.
+
+For highest-fidelity photorealistic output with native audio, Veo 3.1 is stronger. Gemini Omni Flash is faster and more flexible on multimodal input, but Veo 3.1 produces better overall image quality with ambient sound, dialogue, and atmospheric audio generated alongside the visual in the same pass.
+
+For human subjects that need to look completely natural in motion, skin tones, body movement, micro-expressions, Kling 3.0 handles these more accurately.
+
+All of these models run under the same credit balance on Higgsfield. No separate subscription, no new workspace. Gemini Flash for fast multimodal iteration, Veo 3.1 for highest fidelity, Kling 3.0 for human subjects and multi-shot sequences, Seedance 2.0 for commercial work with multiple references.
+
+HOW TO USE GEMINI OMNI FLASH FOR MULTI-SHOT AI VIDEO PRODUCTION
+Try Gemini Omni Flash

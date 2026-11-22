@@ -1,0 +1,303 @@
+【项目】CHANGE TIMELINE（@johnssatellite13 · 创作者博客）
+【链接】https://higgsfield.ai/@johnssatellite13/blogs/change-timeline
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+CHANGE TIMELINE
+@johnssatellite13
+69
+0
+0
+
+
+
+
+Step 1 : Reference vedio & Assets 
+
+
+
+
+
+
+
+
+
+
+Vedio Prompts 
+
+FACE IDENTITY REPLACEMENT WITH THE ORIGINAL SHOT SEQUENCE PRESERVED.
+
+Replace only the lead performer’s visible facial identity with the person in <<>>.
+
+
+
+
+CRITICAL DISTINCTION
+
+The source <<>> intentionally changes costumes and locations through match cuts. PRESERVE ALL OF THESE EXISTING CHANGES at their exact original times.
+
+“Preserve clothing” means preserve the clothing in EACH CORRESPONDING SOURCE FRAME. It does NOT mean keeping one outfit throughout the video.
+
+“Preserve the location” means preserve the location in EACH CORRESPONDING SOURCE FRAME. It does NOT mean keeping one location throughout the video.
+
+Only facial identity remains consistent across the montage. Clothing, hairstyle, accessories, and location follow the source video shot by shot.
+
+
+
+
+REFERENCE IMAGE
+
+Use <<>> exclusively for facial features and identity. Ignore all reference clothing, including collars, necklines, shoulders, hoods, jewelry, and tiny visible fragments of fabric. Do not transfer the reference hairstyle, background, lighting, or pose.
+
+
+
+
+EXACT SOURCE TIMELINE
+
+All timestamps are seconds from the beginning of the complete input video. Each interval starts at the stated start time and ends immediately before the next interval.
+
+The descriptions below identify EXISTING footage. They are not instructions to generate new scenes or redesign costumes. Preserve the actual source details wherever a description is incomplete.
+
+
+
+
+00.00–02.52
+
+LOCATION: L1 — minimalist luxury fashion-show backstage
+
+WARDROBE: W1 — light icy-blue translucent organza outer layer, white tailored mini skirt ensemble, pearl accessories
+
+Preserve the original backstage/stage-wing energy, black-curtain / equipment / crew logic adapted into this luxury backstage environment.
+
+Preserve the existing microphone movement and raised-arm action.
+
+Preserve the exact shot rhythm and opening movement.
+
+02.52–03.20
+
+LOCATION: L2 — rooftop fashion-show entrance under golden sunset light
+
+WARDROBE: W2 — graphite gray structured cropped top, titanium-silver relaxed wide trousers
+
+The wardrobe and location change immediately at 02.52.
+
+Preserve the source raised-arm pose and its alignment with the preceding shot.
+
+Keep the exact outdoor transition timing and movement continuity.
+
+03.20–03.88
+
+LOCATION: L3 — rain-soaked mirrored stage in the middle of a sea of clouds
+
+WARDROBE: W3 — deep red phoenix-embroidered battle robe, dark-gold detailing, black leather bracers
+
+The dramatic costume and rainy environment begin immediately at 03.20.
+
+Preserve the dark, stormy, high-impact stage feeling.
+
+Preserve the crowd/supporting-figure logic in a way that suits this cloud-stage world.
+
+03.88–06.04
+
+LOCATION: L4 — massive futuristic metropolitan LED concert venue
+
+WARDROBE: W4 — black metallic performance jacket, graphite cargo pants, dark burgundy cap
+
+Preserve the source performance feeling, crowd energy, and camera movement.
+
+Maintain the nighttime concert atmosphere and phone-light / audience illumination logic in a futuristic LED venue.
+
+06.04–09.52
+
+LOCATION: L5 — transparent glass skywalk between modern skyscrapers
+
+WARDROBE: W1 — light icy-blue translucent organza outer layer, white tailored mini skirt ensemble, pearl accessories
+
+Restore this W1 design exactly at 06.04.
+
+Preserve the elevated runway logic, forward movement, and large urban perspective.
+
+Maintain the source pacing and stride rhythm.
+
+09.52–10.20
+
+LOCATION: L6 — concrete runway within a monumental brutalist architectural complex
+
+WARDROBE: W3 — deep red phoenix-embroidered battle robe, dark-gold detailing, black leather bracers
+
+Preserve the rear-facing running movement and exact match-cut alignment.
+
+Keep the dark overcast mood and huge-scale crowd-facing runway feeling translated into this brutalist environment.
+
+10.20–10.88
+
+LOCATION: L7 — golden dry grassland with distant wind turbines
+
+WARDROBE: W5 — mint-green windbreaker, silver-gray utility pants, black boots
+
+Preserve the bent-forward movement, rear-view motion, and microphone logic.
+
+Keep the open-runway / open-landscape feeling.
+
+10.88–12.92
+
+LOCATION: L8 — central runway of a large outdoor fashion-music festival
+
+WARDROBE: W1 — light icy-blue translucent organza outer layer, white tailored mini skirt ensemble, pearl accessories
+
+The crowd-filled daylight festival runway begins exactly at 10.88.
+
+Preserve the crowd energy and source runway movement.
+
+Keep the W1 design identical to the earlier W1 appearances.
+
+12.92–15.16
+
+LOCATION: L9 — white salt-flat runway surrounded by distant mountains
+
+WARDROBE: W2 — graphite gray structured cropped top, titanium-silver relaxed wide trousers
+
+Preserve the running steps and turn toward the camera.
+
+Maintain the bright natural openness and exact source movement progression.
+
+15.16–16.56
+
+LOCATION: L5 — transparent glass skywalk between modern skyscrapers
+
+WARDROBE: W1 — light icy-blue translucent organza outer layer, white tailored mini skirt ensemble, pearl accessories
+
+Return to the identical L5 and identical W1 design.
+
+Preserve the turn and kicking movement at the cut.
+
+Maintain the original match-cut energy and stride phase.
+
+16.56–18.32
+
+LOCATION: L10 — rain-washed European fashion street lit by warm street lamps
+
+WARDROBE: W6 — pearl-white long tailored coat, black silk long skirt, soft off-white scarf
+
+Preserve the rear view and original movement.
+
+Maintain the night-street atmosphere, spectators, smoke / atmospheric haze logic, and warm cinematic feeling.
+
+18.32–18.72
+
+LOCATION: L4 — massive futuristic metropolitan LED concert venue
+
+WARDROBE: W4 — black metallic performance jacket, graphite cargo pants, dark burgundy cap
+
+Return to the identical L4 and identical W4 design.
+
+Preserve the raised-arm pose and performance beat.
+
+18.72–19.08
+
+LOCATION: L5 — transparent glass skywalk between modern skyscrapers
+
+WARDROBE: W1 — light icy-blue translucent organza outer layer, white tailored mini skirt ensemble, pearl accessories
+
+Return to the identical L5 and identical W1 design.
+
+Preserve the raised-arm match cut exactly.
+
+19.08–19.88
+
+LOCATION: L8 — central runway of a large outdoor fashion-music festival
+
+WARDROBE: W1 — light icy-blue translucent organza outer layer, white tailored mini skirt ensemble, pearl accessories
+
+Return to the identical L8 and identical W1 design.
+
+Preserve the original arm movement, crowd-facing performance, and framing.
+
+19.88–29.44
+
+LOCATION: L11 — same location family as L7: golden dry grassland with distant wind turbines
+
+WARDROBE: W5 — mint-green windbreaker, silver-gray utility pants, black boots
+
+Preserve the full source fiery mushroom-cloud visual effect, followed by advancing dust and debris.
+
+Preserve the complete effect progression, movement, and increasing obscuration exactly.
+
+Do not import a crowd, city, backstage, or concert setting into this sequence.
+
+Keep it in the open grassland world of L11.
+
+Keep the source intensity and timing of the blast, dust, and visibility loss.
+
+29.44–END
+
+Preserve the original dark ending and black frames exactly.
+
+Add no person, no face, no location, and no wardrobe after this point.
+
+MATCH-CUT RULES
+
+At every listed boundary, preserve the source cut on the exact original frame.
+
+Preserve the performer’s position, scale, pose, movement direction, and action phase on both sides of every cut.
+
+Do not delay or soften the original changes.
+
+The abrupt costume and location transitions are intentional and must remain crisp.
+
+IDENTITY RULE
+
+The lead performer must read as the same woman across the entire montage through facial identity only.
+
+Her face must consistently match <<>> throughout all visible-face shots.
+
+Do not drift away from that identity.
+
+PRIORITY ORDER
+
+Exact source timing, edit rhythm, movement, camera logic, and cut points
+
+Exact face identity from <<>> for the lead performer
+
+Exact wardrobe replacement according to W1–W6
+
+Exact location replacement according to L1–L11
+
+Preserve audio, effects, ending black frames, and all unspecified source logic
+
+For every output frame, follow the corresponding source frame’s motion, pacing, and cinematic structure, while replacing the lead face, wardrobe, and location exactly as specified above.
+
+
+
+
+
+
+
+MATCH-CUT RULES
+
+At every listed boundary, preserve the source cut on the exact original frame. Preserve the performer’s position, scale, pose, movement direction, and action phase on both sides of the cut.
+
+Do not blend costumes or locations across cuts. Do not extend an outfit beyond its source interval. Do not delay, remove, reorder, or smooth out the original changes.
+
+FACE-ONLY EDIT
+
+Modify only the visible facial region. Preserve each shot’s original hair, headwear, neck, body, hands, garments, and accessories.
+
+Retain the source expressions, gaze, mouth movements, head angles, and timing. Match the face to the existing lighting and motion blur.
+
+When the face is hidden, turned away, or obscured, preserve the original image without inventing a visible face. Keep all other people unchanged.
+
+Preserve the original audio, camera movement, frame order, duration, aspect ratio, text, and visual effects.
+
+FINAL PRIORITY
+
+For every output frame, everything except the lead performer’s visible facial identity must match the corresponding input frame. Preserve the original montage and every intentional costume and location change.
+
+
+
+
+See all
+Copy prompt
+Recreate

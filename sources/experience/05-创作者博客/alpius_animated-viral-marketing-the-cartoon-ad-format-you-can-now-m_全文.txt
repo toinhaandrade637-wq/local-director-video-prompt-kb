@@ -1,0 +1,152 @@
+【项目】ANIMATED VIRAL MARKETING: THE CARTOON AD FORMAT YOU CAN NOW MAKE ON HIGGSFIELD（@alpius · 创作者博客）
+【链接】https://higgsfield.ai/@alpius/blogs/animated-viral-marketing-the-cartoon-ad-format-you-can-now-make-on-higgsfield
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+ANIMATED VIRAL MARKETING: THE CARTOON AD FORMAT YOU CAN NOW MAKE ON HIGGSFIELD
+@alpius
+31
+6
+0
+
+There's an ad format all over TikTok right now that doesn't look like an ad. A 3D cartoon, the kind of thing you'd expect from a big animation studio. Someone gets doubted, they hit a low point, a product turns it around, and they win in front of the person who doubted them. Then the picture cuts to real phone footage and a URL. By the time you know it's an ad, you've already watched it.
+
+The account that put this format on my radar, @vinted.resellss, posted 21 of these cartoons between September 19 and October 16 that each passed 1.5M views. About 83M views combined. The top one did 19.9M.
+
+A year ago a cartoon like that meant a 3D studio, or weeks in Blender. I wanted to know if one person could make one on Higgsfield in a night, for a real business, from a free skill. So I built the skill and tested it on a made-up brand. Here's the result.
+
+42 seconds, 542.5 credits. Paidly is a fictional invoicing app I made up for this test. The "Real footage goes here" card is the spot where a real business drops in its own footage.
+
+The short version
+The format: a 40 to 45 second cartoon story in a square box inside a 9:16 frame, then a hard cut to real footage and a card with the URL.
+On Higgsfield: character sheets, location plates and props on GPT Image 2.5, then Seedance 2.5 clips driven by those references only. No start frames, no Blender.
+Seedance spoke every line word perfect, lip synced, with the brand name pronounced right.
+Cost: 542.5 credits for the whole test. Budget about 570 for a 45 second piece with two takes of everything.
+The free skill below does the story, script, storyboard, shot list, every prompt and the edit.
+Why this format works
+
+I broke down 30 of the account's posts, beat by beat. The hits all follow the same spine:
+
+A few numbers stood out:
+
+The first line is spoken at 0 seconds. 18 of the 21 hits start with dialogue inside the first second, often with a number in it: a deadline, a debt, a bill.
+The product shows up late. The median turn lands at about 42% of the video. The first half is pure story, so it doesn't feel like an ad.
+It's 84% cartoon and 16% real. The switch from the letterboxed cartoon to full-frame phone footage is the trick. It says "this actually happened."
+The proof is modest. The 16.7M hit showed five small sales, not a fortune. Believable beats big.
+The cartoon doesn't need to be perfect. The 19.9M video downloads at just 576 x 1024, and the characters changed design between episodes. The story did the work.
+
+The account sells a reselling course, but the format works for anything with a problem and a fix: an app, a restaurant, a coach, a product. The skill has worked examples for all four.
+
+The 7-step workflow
+
+The skill runs in 7 steps. Each step ends on a gate where you approve before anything paid happens.
+
+1. Story. Find the doubter, the deadline and the low point in your business. For Paidly: rent is due Friday, three clients still owe her, and her landlord says freelancing isn't a real job. The skill writes a pitch card and offers two or three loglines.
+
+2. Script. A timed beat sheet with every line. Short lines, one speaker per shot, the hook line at 0 seconds.
+
+3. Storyboard and animatic. One panel per shot, a printable HTML board and a rough animatic cut to time. This is where you cut shots, because paper is free.
+
+4. Assets. Every character sheet, location plate and prop, with full prompts. Each location gets a plate for each side you'll shoot from, so the reverse angles match.
+
+5. Clip prompts. One paragraph per Seedance clip, 3 to 4 shots each, every second claimed, every line inside a timed window.
+
+6. Generate. Stills first, then clips, two takes of each, with the cost quoted before every stage.
+
+7. Post. UI inserts, captions, music, the real footage tail and the end card, assembled by the skill's own scripts, then checked for frozen frames and loudness.
+
+The recipe
+
+These are the settings that worked in the test.
+
+Stills. GPT Image 2.5, high quality, 2K. I tested it against Seedream and Nano Banana for the look. GPT Image 2.5 gave the most feature-film read: fine hair, real skin, real lashes. Seedream came out the most cartoony, with glossy sculpted hair.
+
+Three character sheets, three location plates and one props sheet. These drive every clip.
+
+Clips. Seedance 2.5 in References mode (omni_reference), 1:1, 720p, Sound On. Every clip is driven by the sheets, plates and props alone. No start frames.
+
+Each clip prompt is one unbroken paragraph in a fixed order:
+
+1. The style sentence and "multi-shot with hard cuts, 4 shots".
+
+2. One sentence per character, bound to their sheet.
+
+3. The props.
+
+4. The place: which plate is which view, where everyone stands, and which side of frame each character stays on.
+
+5. The lighting sentence, pasted word for word into every clip of that scene.
+
+6. The shots, each with its time range, framing and timed action. Every line sits in a window: starting at 0.1s ... finishing at 2.3s.
+
+7. A line that pins the cuts to the written times.
+
+8. One fixed voice description per character.
+
+9. The sound sentence: a list of every sound allowed, ending in "no background music, no subtitles, no on-screen text".
+
+Here's the first clip, straight out of Seedance, before the edit:
+
+Clip 1, take 1. References only. The dialogue, lip sync and room tone are all native Seedance.
+
+The brand name. I added one line to every prompt that says the name: "Paidly is pronounced PAYD-lee". It came out right every time.
+
+Music. Seedance gives you dialogue and room tone, no music, because the sound sentence says so. The score is from ElevenLabs on my own plan, built as five cues that follow the story: tense, sad, a swell, an upbeat pulse on the tap, a warm finish.
+
+What it cost
+
+542.5 credits in total. 462 of that is the seven clip takes. 16.5 went on start frames I made before switching to references only, so a clean run skips that. For your own 45 second piece with two takes of everything, budget about 570 credits. Plans differ, so the skill quotes the price before every stage.
+
+What I learned
+
+The first test taught me nine things, and they're all written into the skill now. The big ones:
+
+Close-ups lose the location unless you name it. Martin's close-ups came out against a plain blue wall. Write what's behind them: "behind him the sunlit corridor with the green runner".
+Keep a shared prop out of the other person's close-up. Otherwise the phone looks like it jumps from one hand to the other.
+Screens don't change on their own. "The phone lights up" never happened. Give it a cause, or do the screen as an insert in the edit.
+Say what a screen shows. The phone Maya holds up at the door came out blank white. That's the most visible flaw in this video, and I left it in so you can see it.
+Cut on the real cuts. Seedance's hard cuts land 0.2 to 0.6 seconds off the times you write. The skill finds the real cuts and times the captions to the speech.
+Captions go low. Close-ups put faces low in the square, so captions sit near the bottom of the box, below the faces.
+Quiet music disappears under dialogue. Check each cue's level and lift the quiet ones.
+Label it
+
+If it sells something, tag it #ad (or use the platform's paid partnership label), add an AI-content label, and only put real, true footage in the tail. The skill flags get-rich claims and studio names before you generate anything.
+
+Get the skill
+
+Everything from this test is in a free Claude skill, pitch-drama. Give it your business and it:
+
+finds the story and writes the pitch card,
+writes the script, storyboard, animatic, shot list and assets list,
+writes every image and Seedance prompt, ready to paste or run through the Higgsfield MCP,
+assembles the final video with captions, music, the real footage tail and the end card,
+and checks it for frozen frames, loudness and risky claims.
+
+The full Paidly project is inside as a worked example: storyboard, shot list, every prompt and the stills.
+
+pitch-drama-skill.zip
+ZIP
+
+Install
+
+1. In Claude Code, unzip the folder into ~/.claude/skills/. In the Claude app, upload the zip under Skills in Settings.
+
+2. Start a chat and describe your business, your offer and what real footage you have.
+
+What to ask it
+
+"Make a pitch drama for my pizzeria. Family tray, delivered in 25 minutes."
+"Give me three story ideas for a dog grooming van."
+"Write the storyboard only, no generating yet."
+"Here's my approved storyboard. Write the asset and clip prompts."
+"These are my four picked clips. Cut the final."
+
+The skill stops at every gate and asks before it spends a credit.
+
+Credits
+
+The format study is based on 30 public posts by @vinted.resellss on TikTok. Their videos aren't embedded here; go watch them on their account. The pipeline is built on Higgsfield's own Passport Rush and Emily Wallace's Blender + Higgsfield Animation Pipeline Breakdown. I swapped their Blender step for storyboards, references and written camera moves.
+
+Every sheet, plate, prop, clip and prompt from this post is in my open project: Animated Viral Marketing.

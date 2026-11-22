@@ -1,0 +1,406 @@
+【项目】Kling 4.0 on Higgsfield: Features, Settings, and Pricing（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/kling-4-0-on-higgsfield
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Kling 4.0 on Higgsfield: Features, Settings, and Pricing
+Higgsfield
+Oct 21, 2026
+10 min
+
+Kling 4.0 is now available on Higgsfield AI with longer generations, expanded reference support, and more control over each scene. Create videos from 3 to 30 seconds at up to 1080p with stereo audio. Use up to 10 keyframes to control key moments in a video, or combine up to 15 references to guide the scene. This guide explains its features, settings, workflow, and credit pricing.
+
+What Is Kling 4.0?
+
+Kling 4.0 is Kling’s latest video model, built for realistic motion, stable camera movement, and improved visual and audio quality. It handles fast action such as fights, sports, and large-scale scenes, and it keeps characters recognizable across scenes and variations. Higgsfield is an AI-native creative suite with 35+ models and tools, and Kling 4.0 is available there alongside Kling 3.0 and other video models.
+
+What Is Kling 4.0?
+
+Setting
+
+	
+
+Kling 4.0 on Higgsfield
+
+
+
+
+Modes
+
+	
+
+Text-to-video, image-to-video, first and last frames, multi-keyframes, Omni Reference, video editing
+
+
+
+
+Duration
+
+	
+
+3 to 30 seconds
+
+
+
+
+Resolution
+
+	
+
+720p and 1080p
+
+
+
+
+Aspect ratio
+
+	
+
+Auto, 21:9, 16:9, 9:16, and 1:1
+
+
+
+
+Keyframes
+
+	
+
+Up to 10
+
+
+
+
+Audio
+
+	
+
+Stereo, with two channels
+
+
+
+
+Voice languages
+
+	
+
+Chinese, English, Japanese, Korean, Spanish, Portuguese, German, French, Hindi, and others
+
+
+
+
+Accents and dialects
+
+	
+
+American, British, Indian, and other English accents; several Chinese dialects
+
+
+
+
+On-screen text
+
+	
+
+Nine languages, plus emoji and logos
+
+
+
+
+Prompt length
+
+	
+
+Up to 8,000 tokens
+
+
+
+
+References
+
+	
+
+Up to 15
+
+
+
+
+Video editing input
+
+	
+
+Up to 5 clips (1 main), each 3 to 30 seconds, with a combined length of up to 30 seconds
+
+Kling 4.0 vs Kling 3.0: What's New?
+
+Kling 4.0 doubles the maximum length of a generation, adds keyframes across the whole video, and accepts more kinds of references than Kling 3.0. It also introduces Creative Recreation and expands editing options for existing videos.
+
+Kling 4.0 vs Kling 3.0: What's New?
+
+Feature
+
+	
+
+Kling 3.0
+
+	
+
+Kling 4.0
+
+
+
+
+Duration
+
+	
+
+3 to 15 seconds
+
+	
+
+3 to 30 seconds
+
+
+
+
+Keyframes
+
+	
+
+First and last frame
+
+	
+
+Up to 10 keyframes across the video
+
+
+
+
+References
+
+	
+
+Up to 7
+
+	
+
+Up to 10 images and 5 videos
+
+
+
+
+Working from existing video
+
+	
+
+Video editing through Omni workflows
+
+	
+
+Integrated multimodal editing with more flexible reference inputs and targeted changes
+
+
+
+
+Audio
+
+	
+
+Built-in audio
+
+	
+
+Stereo audio with two channels
+
+
+
+
+Voice languages
+
+	
+
+Chinese, English, Japanese, Korean, Spanish, and others
+
+	
+
+Adds Portuguese, German, French, Hindi, and more
+
+
+
+
+On-screen text
+
+	
+
+Readable text
+
+	
+
+Nine languages, plus emoji and logos
+
+
+
+
+Aspect ratio
+
+	
+
+16:9, 1:1, and 9:16
+
+	
+
+Adds 21:9
+
+
+
+
+Prompt length
+
+	
+
+Not specified
+
+	
+
+Up to 8,000 tokens
+
+
+
+
+Motion
+
+	
+
+Multi-shot and motion physics
+
+	
+
+More stable in fast scenes such as fights, sports, and character interaction, with stronger camera work
+
+Both versions support text-to-video and image-to-video.
+
+How to Generate With Kling 4.0 on Higgsfield
+
+Step 1: Open Create Video. Go to Video, then Create Video.
+
+Step 2: Select the model. In Model, choose Kling 4.0.
+
+Step 3: Choose a mode. Select References, Frames, or Edit video, depending on whether you want to generate from references, define keyframes, or edit an existing clip.
+
+Step 4: Add your inputs.
+
+References: Use images, videos, or other supported assets to guide characters, products, motion, and visual style.
+Frames: Define key visual moments, such as the first and last frames, or additional keyframes where supported in Higgsfield.
+Edit video: Start with an existing clip and describe what you want to change.
+
+Step 5: Write the prompt. Describe the scene step by step. If you use keyframes, let the keyframes set the key moments, and use the prompt to describe the action and the camera movement between them.
+
+Step 6: Set duration, resolution, and aspect ratio. Choose a length from 3 to 30 seconds, 720p or 1080p, and the aspect ratio that fits your channel, including 21:9 for wide cinematic frames.
+
+Step 7: Check the cost and generate. The exact credit cost shows on the Generate button before you start.
+
+Step 8: Review and refine. If something doesn't look right, change one element at a time, such as the prompt, a reference, or the duration, and compare the results.
+
+Kling 4.0 Pricing on Higgsfield
+
+Kling 4.0 generations use credits, and the exact cost shows on the Generate button before you start.
+
+The cost depends on the resolution and the length of the clip. The table shows the cost in credits for a 5-second clip and for the maximum length of 30 seconds at each resolution.
+
+Kling 4.0 Pricing on Higgsfield
+
+Resolution
+
+	
+
+Duration
+
+	
+
+Credits
+
+	
+
+Approx. Cost
+
+
+
+
+720p
+
+	
+
+5 sec
+
+	
+
+13.75
+
+	
+
+ $0.67
+
+
+
+
+720p
+
+	
+
+30 sec
+
+	
+
+82.5
+
+	
+
+ $4.04
+
+
+
+
+1080p
+
+	
+
+5 sec
+
+	
+
+20
+
+	
+
+ $0.98
+
+
+
+
+1080p
+
+	
+
+30 sec
+
+	
+
+120
+
+	
+
+ $5.88
+
+Approximate costs are calculated using Higgsfield’s mid-tier Plus plan at $49 per month for 1,000 credits, equivalent to $0.049 per credit.
+
+The credit cost may vary depending on the number of reference inputs you add.
+
+When to Use Kling 4.0
+Fast action and large-scale scenes. Fights, sports, and scenes with several characters interacting benefit from more stable motion and stronger camera work.
+Scenes that need more time. Generate up to 30 seconds in one clip, giving actions and interactions more time to develop before another generation is needed.
+Characters that carry across scenes. With references, including images, videos, voice, and Elements, you can keep a character recognizable across scenes and variations.
+Reworking an existing video. Creative Recreation uses an existing video’s tempo, composition, and motion to guide a new scene. Video Editing lets you change a character, product, background, camera angle, or visual style in an existing clip.
+Scenes with dialogue and on-screen text. Stereo audio and multilingual voice support suit dialogue-driven scenes. The model also supports on-screen text in nine languages, plus emoji and logos.
+KLING 4.0 ON HIGGSFIELD: FEATURES, SETTINGS, AND PRICING
+Try Kling 4.0

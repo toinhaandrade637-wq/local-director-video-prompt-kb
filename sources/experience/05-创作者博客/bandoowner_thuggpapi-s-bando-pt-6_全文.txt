@@ -1,0 +1,153 @@
+【项目】THUGGPAPI'S BANDO PT. 6（@bandoowner · 创作者博客）
+【链接】https://higgsfield.ai/@bandoowner/blogs/thuggpapi-s-bando-pt-6
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+THUGGPAPI'S BANDO PT. 6
+
+Sep 26, 08:00 · 14 min
+
+THUGGPAPI'S BANDO PT. 6
+@bandoowner
+286
+2
+0
+
+https://higgsfield.ai/s/thuggpapi-thuggpapi-GhUvoi - u can recreate that here.
+
+
+
+
+A giant sneaker sits on a garage lift. A police chase pauses at a pedestrian crossing. A tow truck pulls an entire front stoop down the street while people stay seated on the steps.
+
+For this Thug Papi film, I used small reversals and oversized objects to turn familiar street scenes into visual jokes. A man searches a police officer. Dollar bills hang on a washing line. A child eats from a bowl while two suited men lean across the table.
+
+The finished montage runs 25.75 seconds. This breakdown recreates its twelve scenes with two timed prompts. These are new prompts reconstructed from the video, not the original production prompts.
+
+Before you start
+
+The full video fits within a 30-second limit, but two shorter prompts give each generation fewer scenes to handle. The natural split is 00:12.25, after the shark scene and before the nighttime pickup truck.
+
+Generate 15 seconds for each part. Keep 12.25 seconds from Part 1 and 13.50 seconds from Part 2. Both prompts include extra footage at the end for trimming.
+
+The final title stays over the picture. The child is still moving a photograph across the table as the film ends, so there is no separate black title card to add.
+
+Stage 1 — Prepare the visual anchors
+
+The look combines 4:3 framing, visible film grain, slightly soft detail and natural skin texture. Outdoor scenes use warm daylight. Interiors have darker corners and practical lamps, while the nighttime parking lot keeps its bright storefront against a dark sky.
+
+For a reference-led recreation, prepare stills for the difficult arrangements: the oversized sneaker on the lift, the roadside bar, the coat displaying dental grills, the detached stoop, the shark in the small pool and the movable service booth. Establish the arrangement before adding motion. A starting image can show how large the sneaker is or where the towing chain attaches.
+
+The shirtless runner and pursuing officer return after the bar insert. Keep their appearance consistent across those two scenes. If you use reference images, reuse the same character references for both appearances.
+
+Stage 2 — Split the montage
+Part 1, original 00:00–00:12.25: sneaker garage, police chase, bar in traffic, crossing-light pause, dental-grill display, towed stoop and shark with cash.
+Part 2, original 00:12.25–00:25.75: pickup towing a service booth, reversed police search, scratch card at a confessional, banknotes on a clothesline and the child at the table.
+
+Keep the opening inserts brief. Their unusual details should be visible immediately. Give the final scene its full 4.79 seconds so the camera can approach the child and leave time for the photograph.
+
+Set both generations to 15 seconds and 4:3 where those settings are available. The source is 1024 × 768 at 24 fps. Each prompt starts its own timeline at zero; its cut positions are rounded to hundredths of a second. Check those positions in the generated footage and adjust them during assembly.
+
+Stage 3 — The two prompts
+Prompt 1 — Oversized objects and interrupted routines
+
+Original footage covered: 00:00–00:12.25. Generate 15 seconds; keep the first 12.25 seconds.
+
+
+
+
+What it does: Creates seven scenes, including the chase interrupted by a traffic light, the moving stoop and the shark in a children's pool.
+
+Style header: Each prompt includes its own look, camera direction and timing. Copy the complete block for each generation and add the music during editing.
+
+STYLE AND CAMERA
+A photorealistic street-comedy music-video montage with visible analog film grain, slightly soft detail, warm daylight, muted colors and natural skin texture. Use worn garages, ordinary sidewalks, brick homes and modest yards. Interior practical lights create warm pools against darker surroundings. People behave as if the surreal objects belong in their everyday world. Camera movement has a handheld operator's weight, with wide-angle proximity in the opening and natural motion blur during the chase.
+
+EDITING RULE
+Follow the seven timed scenes in order, using an immediate HARD CUT at every marked boundary. The opening frame already contains the mechanic and giant sneaker. Keep each location and its props separate. At 0.88–2.46s and 3.63–5.88s, preserve the same shirtless runner in a black durag, gray shorts, heavy silver chains and gold dental grills, and the same short-haired officer in a dark uniform.
+
+0.00–0.88s — SHOT 1 — THE SNEAKER GARAGE
+From a close, wide-angle first-person view at an open garage entrance, a smiling Black mechanic in dark work overalls and a black durag reaches forward to greet the camera-holder with a quick hand clasp. Behind him, an enormous white sneaker rests on a raised scissor-lift platform, its long white lace dangling toward the floor. Other workers, red tool cabinets and overhead fluorescent strips establish the repair shop. Move toward the greeting hand while keeping the giant shoe visible over his shoulder. End as the hands meet.
+
+0.88–2.46s — SHOT 2 — HARD CUT — THE CHASE
+A shirtless athletic Black man in a black durag and gray shorts runs past a glass-fronted building. Heavy silver chains bounce against his chest, and oversized gold dental grills show between his lips. A uniformed officer runs behind him. Track tightly alongside the runner from a front three-quarter view, then swing toward his profile and shoulder as the background streaks past. Keep foot contact, breathing effort and necklace inertia grounded. End close beside the runner as he continues forward.
+
+2.46–3.63s — SHOT 3 — HARD CUT — A BAR IN TRAFFIC
+A full wooden bar stands on a narrow traffic island at a busy red-light intersection, surrounded by stopped cars. Bottles line the polished counter. A customer in a long brown fur coat waits beside a stool while a bartender in a dark jacket and pale head covering works a metal cocktail shaker. Begin from the perspective of an approaching car, with a sliver of dashboard low in frame, then move closer to the counter. The bar remains firmly planted as normal traffic surrounds it. End on the bartender, bottles and fur-coated customer.
+
+3.63–5.88s — SHOT 4 — HARD CUT — WAITING FOR THE CROSSING
+Seen from behind, the shirtless runner and uniformed officer have both stopped at a pedestrian crossing beneath a red hand signal. The runner stands at screen-right with hands on his hips; the officer at screen-left glances down at his phone. An elderly woman with a small shopping trolley waits ahead. Hold a wide street-level view with the figures' full bodies and signal visible. The signal changes to a white walking figure. The woman pushes her trolley forward, and the two men resume running across the road, their shadows stretching behind them. End with the chase moving away into the crossing.
+
+5.88–7.08s — SHOT 5 — HARD CUT — THE DENTAL-GRILL DISPLAY
+In an alley beside dark dumpsters, a Black man in a camel-colored overcoat opens its front toward a younger man in a shiny black puffer jacket. A dark display panel beneath the coat holds dozens of small gold dental grills arranged in neat rows, each shaped like a short curved set of teeth. Move quickly from the two men into the open coat. Keep the individual dental pieces fixed to the panel and visibly separate. End close on the rows of gold teeth framed by the man's hands and coat lapels.
+
+7.08–9.33s — SHOT 6 — HARD CUT — TOWING THE STOOP
+A tow truck pulls a detached brick-and-concrete front stoop along a residential road using a thick chain attached at its base. The stoop is a complete section of steps with side walls, metal railings, potted plants and a small cooler. Four people remain seated on the upper steps as it moves. Track alongside, starting wide enough to show the truck, taut chain and occupied staircase, then move lower toward the bottom steps scraping along the asphalt. Keep the structure rigid; grit shifts beneath its base, leaving a dark scraped strip behind. End close to the steps and chain with the seated group still above.
+
+9.33–12.25s — SHOT 7 — HARD CUT — CASH FOR THE SHARK
+A large gray shark rests in a tiny bright-blue plastic children's pool in a modest yard, wearing a thick gold chain. Two Black men in pale-blue short-sleeve shirts and gold jewelry stand beside it. Begin close to a hand holding a dollar bill at the shark's open mouth. Its jaws close around the offered paper as the hand withdraws; keep the interaction focused on the note. The shark stays inside the pool. Tilt upward from its head to one man's face as he turns toward the lens and smiles, showing gold teeth. End on his relaxed portrait with the second man behind him.
+
+12.25–15.00s — CONTINUE THE FINAL PORTRAIT
+Remain with the smiling man beside the pool. Allow small natural head and shoulder movement while preserving his clothing and jewelry. This is extra tail footage for trimming; add no new scene.
+
+[Audio]
+No music, spoken dialogue or narration. The continuous track will be added to the completed montage.
+
+HOLD THROUGHOUT
+Preserve the ordered cuts and the recurring runner and officer's appearance.
+Keep the giant sneaker, dental-grill panel, detached stoop and shark confined to their scenes.
+Chains carry weight, feet contact the ground and the stoop remains a solid structure.
+Keep the film texture and matter-of-fact performances. Leave titles and captions out of the image.
+Prompt 2 — Reversed roles and the final photograph
+
+Original footage covered: 00:12.25–00:25.75. Generate 15 seconds; keep the first 13.50 seconds. Local zero is the first frame of the nighttime pickup scene.
+
+
+
+
+What it does: Creates five scenes, ending with the child eating, placing a photograph on the table and pointing to it.
+
+STYLE AND CAMERA
+A photorealistic street-comedy music-video montage with visible analog film grain, slightly soft detail, natural skin texture and muted colors. Preserve the distinct lighting of each location: illuminated storefronts against a dark parking lot, warm daytime streets, dim amber light inside a wooden confessional, sunny backyard light and a single bare bulb over a dark metal table. People treat the strange situations calmly. Use physically grounded camera movement and readable hand actions.
+
+EDITING RULE
+Follow the five timed scenes in this exact order. Each HARD CUT moves immediately to its new location with the central subject already visible. Keep props and characters inside their assigned scene. The final table scene is one continuous shot with a forward move and a small widening at the end to include the child's last gesture.
+
+0.00–1.58s — SHOT 1 — THE MOVING SERVICE BOOTH
+At night outside a brightly lit commercial building, a black pickup rolls toward screen-right. Two masked men in black clothing and heavy chains stand in its bed. A thick towing chain connects the truck to a small glass-fronted service booth mounted on a low square platform. The booth slides away from the facade with a seated employee still inside, a potted plant and red-rope stanchions traveling on the platform beside it. The main building stays fixed. A hand holding a blurred black controller occupies the lower foreground. Track right with the truck to reveal the moving booth and chain. End with the booth clearly separated from the stationary facade.
+
+1.58–3.33s — SHOT 2 — HARD CUT — SEARCHING THE OFFICER
+Beside a red brick street corner, a young Black man in an oversized white T-shirt, dark blue durag and long chain faces a uniformed officer wearing sunglasses. The officer stands against the wall with his hands held slightly away from his body. The young man pats across the front of the officer's vest, then checks an upper pocket with deliberate, casual movements. Hold a medium side view that keeps both faces and their hands visible. Other people sit on nearby steps with a patrol vehicle behind them. End on the young man's hands at the vest while the officer remains still.
+
+3.33–6.42s — SHOT 3 — HARD CUT — A SCRATCH CARD AT CONFESSION
+A Black man in a dark satin shirt, silver-gray durag, heavy bright chain and several gold rings sits beside the wooden lattice of a church confessional. A robed figure is partly visible beyond the grille. A red-bordered scratch card slides through a low opening onto the wooden ledge. He picks it up and rubs the coated boxes with a small coin, then gives a small smile while looking at the ticket. Make a gentle forward drift toward his profile, ringed hands and the card. Warm dim light catches the jewelry and polished wood. End with the ticket held in view and his attention still on its scratched surface.
+
+6.42–8.71s — SHOT 4 — HARD CUT — HANGING OUT THE MONEY
+In a sunny backyard, a Black man in a beige patterned tracksuit and heavy necklaces uses a wooden clothespin to fasten a wet dollar bill to a clothesline beside one already hanging there. An older woman in a house dress hangs an ordinary pale-blue garment on a parallel line behind him. A laundry basket containing more notes sits low in the foreground. Frame the hands, pegs and bills, then move closer as he releases the newly attached note. Water drips from the paper, which flutters lightly while each peg keeps its grip. End on the two separate banknotes against the soft backyard background.
+
+8.71–13.50s — SHOT 5 — HARD CUT — BREAKFAST AT THE TABLE
+In a dim gray room beneath a single hanging bare bulb, a small boy wearing a black durag, dark green puffer jacket and gold chain sits at the far end of a metal table with a bowl of cereal and a spoon. Two adult men in dark suits lean over the table from opposite sides, their palms planted on its surface. Begin wide enough to establish all three figures, then push toward the child. He takes a spoonful, lowers the spoon and looks steadily ahead. Around local 12.0 seconds, he brings a small printed photograph into view and lays it face-up at screen-left of the bowl. He then points to it. Widen slightly to keep his face, the bowl and his pointing hand readable together; the suited men remain at the table edges.
+
+13.50–15.00s — CONTINUE THE TABLE VIEW
+Hold the same close composition after the photograph has been placed. The boy keeps his hand near it, with subtle breathing and eye movement. The bowl, photograph and men's hands remain in place. This is extra tail footage for trimming.
+
+[Audio]
+No music, spoken dialogue or narration. The continuous track will be added to the completed montage.
+
+HOLD THROUGHOUT
+Preserve the five locations and their ordered hard cuts.
+Keep the main building fixed while the pickup pulls the service booth and its platform.
+Keep the officer stationary during the search and the banknotes individually clipped to the line.
+Preserve the child's final sequence: spoon, photograph placed on the table, pointing gesture.
+Maintain the film texture and stable faces, hands and objects. Leave titles and captions out of the image.
+Assemble the 25.75-second film
+
+Keep the first 12.25 seconds of Part 1, ending on the smiling man beside the shark. Cut directly to Part 2 and keep its first 13.50 seconds, including the child's photograph and pointing gesture. Remove the extra footage from both generations.
+
+At 24 fps, those sections are 294 frames + 324 frames = 618 frames, matching the source's 25.75 seconds. Overlay the white “thug PAPI” title near the end of the table scene. Let the action continue beneath it through the final frame.
+
+Lay one continuous rap track across the montage and keep it running through the join. Match grain and contrast between the two parts while preserving each location's lighting.
+
+Before exporting, check the jokes that depend on a precise action: the chase resumes only after the signal changes, the seated group travels with the stoop, the service booth moves while the building stays fixed, and the child finishes placing and pointing to the photograph. Those details make the scenes readable at this pace.

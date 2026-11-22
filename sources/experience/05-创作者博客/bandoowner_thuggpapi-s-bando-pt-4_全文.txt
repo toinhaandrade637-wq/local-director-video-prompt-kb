@@ -1,0 +1,162 @@
+【项目】THUGGPAPI'S BANDO PT.4（@bandoowner · 创作者博客）
+【链接】https://higgsfield.ai/@bandoowner/blogs/thuggpapi-s-bando-pt-4
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+THUGGPAPI'S BANDO PT.4
+
+Sep 22, 07:22 · 14 min
+
+THUGGPAPI'S BANDO PT.4
+@bandoowner
+105
+0
+0
+
+https://higgsfield.ai/s/thuggpapi-thuggpapi-GhUvoi - you can recreate this stuff here!
+
+
+
+
+Cash burns on a backyard grill. An arm cast is wrapped in dollar bills. A woman runs a gold chain through a sewing machine. Later, an elephant wears jewelry and a pink lowrider sits underwater.
+
+For this Thug Papi film, I wanted the neighborhood to feel familiar even when the objects inside it became impossible. People keep doing ordinary things: cooking, getting a haircut, waiting for the bus, exercising. The strange detail is already there when we arrive.
+
+The finished film runs about 36.3 seconds. Here is a two-prompt reconstruction that preserves all fourteen scenes and their order, with each generation comfortably below the 30-second limit. These are newly written prompts based on the finished edit, rather than the original production prompts.
+
+Before you start
+
+Use two 20-second generations. The split belongs at 00:18.25, immediately after the gold-bar vest and before the turquoise car. That gives the first part eight scenes built around money, clothing and neighborhood details. The second part has six scenes, with larger subjects and a longer final action.
+
+Twenty seconds is the generation length for each part, not the amount to keep. The prompts include a little extra footage at the end for trimming. The final title is added during editing.
+
+Stage 1 — Prepare the look
+
+The visual anchors are a square-ish 4:3 frame, visible film grain, warm skin tones, hard afternoon sunlight and dark green interior shadows. Gold catches the light, but the surrounding streets and rooms stay worn and ordinary.
+
+For a reference-led recreation, collect stills for the difficult arrangements: the cash cast, chain at the sewing machine, puppy inside the safe, gold hair, gold-bar vest, raised turquoise car, underwater lowrider and excavator grip. Each reference should make the central idea readable before anything moves. Use references to guide appearance; the prompts below also work as self-contained descriptions without invented asset tags.
+
+Keep the materials distinct. Dollar bills have layered paper edges. Gold is rigid and reflective. A heavy chain sags between contact points. Underwater movement has drag. The unusual objects can be impossible; their contact with hands, clothing and the ground should still make sense.
+
+Stage 2 — Divide the timeline
+
+The two sections have different rhythms:
+
+Part 1, original 00:00–00:18.25: burning cash, cash cast, sewing a chain, wheel-rim wreath, puppy in a safe, portrait at a bus stop, gold haircut and gold-bar vest.
+Part 2, original 00:18.25–00:35.33: raised turquoise car, alligator on a leash, elephant in the courtyard, underwater lowrider, car inside a church and excavator pull-ups.
+
+The first part moves through quick visual jokes. The second opens the frame and gives the excavator scene more than seven seconds to develop. Splitting here preserves that change in scale and keeps both the opening fire sequence and the final exercise sequence intact.
+
+The timestamps inside each prompt start at zero. They are target cut positions, rounded to hundredths of a second. This is a dense montage, especially the eight-scene opening, so the shortest scenes begin with their subject and action already visible. Check the generated cuts against the timeline and tighten them in the edit if needed.
+
+Set each generation to 20 seconds and 4:3 where those controls are available. The original delivery is 1024 × 768 at 24 fps. The model used for the original film is not identified here.
+
+Stage 3 — The two prompts
+Prompt 1 — Money, gold and everyday rituals
+
+Original footage covered: 00:00–00:18.25. Generate 20 seconds; keep the first 18.25 seconds.
+
+
+
+
+What it does: Creates the first eight scenes as a timed montage, ending on the reflective gold-bar vest.
+
+Style header: Each prompt contains its own visual treatment, timing and material rules. Copy the whole block for each generation; add the music during editing.
+
+STYLE AND CAMERA
+A photorealistic neighborhood music-video montage with a grainy analog film look, slightly soft detail, warm highlights, deep green shadows and natural skin texture. Modest homes, worn furniture and ordinary street life surround surreal displays of money and gold. Exterior scenes have directional afternoon sunlight; the sewing room and safe have warm practical light against dark interiors. People remain absorbed in their activities. Use grounded camera movement and natural proportions.
+
+EDITING RULE
+Follow the eight timed scenes in this exact order. At each boundary marked HARD CUT, move immediately to the new location with its subject already visible. Keep the locations and objects separate across cuts. Within each scene, follow the specified camera move. The opening frame already shows the grill, cash and cook.
+
+0.00–4.79s — SHOT 1 — CASH ON THE GRILL
+In a fenced backyard, a Black man in a white T-shirt, black apron and gold chains stands behind a black barbecue grill. A thick stack of dollar bills rests directly on the grate. He brings a lighter to its edge; orange flames rise around the paper. Move close to the burning stack, showing individual paper layers and firelight between the metal bars, then rise toward his apron and chest as he holds more cash. Keep the stack on the grate and the flame moving upward. End with the cook and fire still occupying the frame.
+
+4.79–6.21s — SHOT 2 — HARD CUT — THE CASH CAST
+Two young Black men in white T-shirts sit against sunlit tan house siding. The man on the left wears a dark cap and gold chain; his forearm is encased in a thick cast wrapped in overlapping dollar bills, with his fingers exposed. The man on the right wears a black durag and writes on the cast with a blue marker. Move from a medium two-shot toward the supported forearm. End on the marker touching the layered paper while the wrapped arm remains still.
+
+6.21–8.33s — SHOT 3 — HARD CUT — SEWING THE CHAIN
+In a dim green room, an older Black woman sits at an old cream-colored sewing machine under a task lamp. A shirtless young man in a dark cap sits beside her, supporting the raised end of a thick gold chain. She guides its links beneath the needle area as if working on an ordinary sewing project. Push from the seated pair toward her hands, the machine and the illuminated links; red thread and scissors sit on the table. The solid links retain their shape and hang under their own weight. End close on the chain and her steady hands.
+
+8.33–9.79s — SHOT 4 — HARD CUT — A WHEEL-RIM WREATH
+Look up a short flight of outdoor steps toward a blue-green front door in a brick facade. A shiny chrome wheel rim hangs on the door like a wreath, tied with a large red bow and long ribbon tails. Black iron railings frame the approach. Make a short forward move up the center of the steps. End with the rim and bow prominent against the door, catching warm sunlight.
+
+9.79–12.13s — SHOT 5 — HARD CUT — THE PUPPY'S SAFE
+An open dark metal safe stands in a narrow closet beneath a bare warm bulb, with clothing hanging on both sides. A small dark puppy wearing a gold chain sleeps on a folded pale towel inside. Neat stacks of dollar bills line the sides and rear of the compartment. The heavy door is fully open toward screen-right. Push into a close view of the sleeping puppy between the cash stacks. Gentle breathing is the only animal movement. End with its face and the towel clearly visible.
+
+12.13–13.50s — SHOT 6 — HARD CUT — THE BUS-STOP PORTRAIT
+A glass bus shelter holds two seated young Black men in dark casual clothing. Behind them hangs a large old-fashioned painted portrait in an ornate gold frame, replacing the usual advertising panel. A pigeon stands on the shelter roof. Make a slight frontal approach; one man looks down at food in foil while the other, wearing a cap and long chain, looks to the side. End with the framed portrait clearly readable above the bench.
+
+13.50–15.25s — SHOT 7 — HARD CUT — GOLD WAVES
+Outdoors in bright sunlight, a Black man sits beneath a black barber cape with his head inclined forward. His close-cropped wave hairstyle is metallic gold, with sculpted ripples and a sharply defined hairline. A barber brushes the surface, holding a pale cloth alongside the brush. Push quickly from the seated portrait into the wave pattern. The gold surface stays rigid as reflected sunlight travels across its ridges. End close enough to read the rippled texture.
+
+15.25–18.25s — SHOT 8 — HARD CUT — THE GOLD-BAR VEST
+A muscular Black man in a black durag wears a dark vest whose front and shoulder straps are covered in rectangular gold ingots, with loose gold chains over them. He looks down and makes small movements through his shoulders and torso, his arms lowered at his sides. Men stand behind him beside a metal railing. Start on his upper body and push toward the vest. Keep the ingots fixed to their supporting garment; the necklace swings slightly with his movement. End in a tight view of the polished bars and chain.
+
+18.25–20.00s — CONTINUE THE FINAL CLOSE-UP
+Stay on the gold-bar vest with small natural body movement and changing reflections. This is extra tail footage; introduce no new scene.
+
+[Audio]
+No music, spoken dialogue or narration. The soundtrack will be added to the assembled film.
+
+HOLD THROUGHOUT
+Preserve the ordered hard cuts and each scene's central object.
+Keep faces, hands, clothing and prop geometry stable within each scene.
+Paper remains layered and flexible; metal remains solid and weighted.
+Maintain the grain, warm highlights and natural performances. Leave titles and captions out of the image.
+Prompt 2 — Bigger objects, wider streets
+
+Original footage covered: 00:18.25–00:35.33. Generate 20 seconds; keep approximately the first 17.08 seconds. Its local zero is the first frame of the turquoise car.
+
+
+
+
+What it does: Creates the remaining six scenes, moving from oversized cars and animals to the final excavator pull-ups.
+
+STYLE AND CAMERA
+A photorealistic neighborhood music-video montage with a grainy analog film look, slightly soft detail, warm highlights, deep green shadows and natural skin texture. Everyday streets and worn buildings surround surreal displays of scale and wealth. Exterior scenes use directional sunlight and grounded camera movement. The underwater scene has green-blue water, softened contrast and moving light patterns. People treat the unusual situations as ordinary life.
+
+EDITING RULE
+Follow the six timed scenes in this exact order. At each boundary marked HARD CUT, reveal the new location and main subject immediately. Each setting remains separate. The opening frame already contains the complete turquoise car and its oversized wheels. The final scene remains one continuous view that moves from wide to close.
+
+0.00–2.13s — SHOT 1 — THE RAISED TURQUOISE CAR
+A turquoise vintage two-door coupe cruises slowly along a residential street on an extremely raised chassis with enormous chrome wheels. All four tires remain in contact with the asphalt. The driver rests an elbow outside the window. Track at a low front three-quarter angle, keeping the high body and complete wheels visible. Small houses, trees, a fire hydrant and a passing cyclist establish the normal scale around it. Late sunlight reflects from the chrome. End with the tall car still moving steadily along the road.
+
+2.13–3.00s — SHOT 2 — HARD CUT — WALKING THE ALLIGATOR
+Begin with a young Black man already walking an enormous alligator on a thick gold chain leash beside brick row houses. He wears a white T-shirt, dark cap, loose jeans and gold necklaces. Frame the alligator's broad head in the foreground and the man's full body to screen-right; its body and tail extend behind. Track backward slightly for one readable walking beat. The leash stays connected and the reptile's weight stays close to the pavement. End on the pair still moving together.
+
+3.00–5.25s — SHOT 3 — HARD CUT — THE ELEPHANT IN THE COURTYARD
+A large elephant stands side-on in a cracked asphalt courtyard, wearing an oversized gold chain. Four young men sit calmly on its back. At screen-right, an older woman sits on a bench with a snack bag and extends her free hand toward the elephant. Small orange-yellow snacks lie scattered below. Make a slow approach from a wide view, with warm low sunlight behind the animal and worn brick buildings surrounding the courtyard. Its trunk sways gently; the offered food remains a small gesture. End with the elephant, riders and seated woman still readable together.
+
+5.25–8.21s — SHOT 4 — HARD CUT — THE UNDERWATER LOWRIDER
+A bright pink lowrider is fully submerged in green-blue water above a pale bottom. Track beside its front fender, chrome bumper and wire-spoke whitewall wheel. Barefoot swimmers pass around it, their legs and hands drifting through the foreground with slow underwater resistance. Suspended particles, small bubbles and rippling light establish that the camera and car are underwater. Keep the car's body, wheel and paint stable as limbs pass in front. End with a swimmer crossing the wheel area while the pink body remains visible behind.
+
+8.21–9.75s — SHOT 5 — HARD CUT — A CAR AT CHURCH
+From outside a church, look straight across broad entrance steps into three open doorways. A pink-purple sedan faces the camera in the central opening. Seated congregation members fill the side openings; white-robed clergy stand behind the car with raised hands beneath a stained-glass window. Make a restrained forward approach with balanced frontal framing. The car remains parked and the people hold their ceremonial positions. End with the vehicle centered beneath the colored glass.
+
+9.75–17.08s — SHOT 6 — HARD CUT — EXCAVATOR PULL-UPS
+At a demolition site, a shirtless muscular Black man in a black durag, loose dark trousers and layered gold chains hangs by both hands from the open steel jaws of a yellow excavator grapple. His hands grip separate fixed edges overhead; the machinery stays open and clear of his torso. Men below watch and point upward. Start wide and low, showing the tracked excavator at screen-left and the stripped concrete building behind. He bends his elbows to raise his body, then extends his arms under control, with a small swing in his legs and necklaces. Strong backlight creates a sun flare around the steel. Around local 13.45 seconds, push rapidly closer to his upper body and grip. End on the exertion in his shoulders, his hands against the steel and the bright sky behind.
+
+17.08–20.00s — CONTINUE THE FINAL CLOSE-UP
+Maintain the close framing as the man holds his grip with subtle breathing and body movement. Keep the grapple fixed and open. This is extra tail footage; introduce no new location or title.
+
+[Audio]
+No music, spoken dialogue or narration. The soundtrack will be added to the assembled film.
+
+HOLD THROUGHOUT
+Preserve the six scenes and their ordered hard cuts.
+Keep each vehicle, animal and person within its assigned location.
+Keep the turquoise car's tires grounded, chains weighted and underwater movement visibly resisted by water.
+In the final scene, the man's hands support his body on the open grapple; the machine stays fixed.
+Maintain the film texture and leave titles and captions out of the image.
+Assemble the finished film
+
+Keep the first 18.25 seconds from Part 1, ending on the gold vest. Cut directly to the first frame of Part 2 and keep its first 17.08 seconds, ending on the excavator close-up. Remove the extra tail footage from both generations.
+
+Add the white “thug PAPI” title over the end of the excavator scene, then cut the picture to black while retaining the title for approximately 0.96 seconds. With the cut points rounded above, the assembled video is about 36.29 seconds long. The title treatment belongs in the editor so its lettering stays consistent.
+
+Lay one continuous rap track across both parts and the ending. Let it run across the join at 18.25 seconds. Match the grain, contrast and black levels between the generations, then check the details that make the scenes work: the exposed fingers outside the cash cast, the sleeping puppy's face, the raised car's contact with the road, the underwater movement and the man's grip on the excavator.
+
+The short inserts should arrive fully formed. The longer opening and ending give their actions room to develop. That difference in timing is what lets fourteen ideas fit into the film without giving every scene the same weight.

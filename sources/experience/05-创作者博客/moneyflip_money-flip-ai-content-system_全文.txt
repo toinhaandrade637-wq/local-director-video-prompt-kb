@@ -1,0 +1,115 @@
+【项目】MONEY FLIP AI CONTENT SYSTEM（@moneyflip · 创作者博客）
+【链接】https://higgsfield.ai/@moneyflip/blogs/money-flip-ai-content-system
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+MONEY FLIP AI CONTENT SYSTEM
+Money Flip
+@moneyflip
+19
+0
+0
+Money Flip AI Content System — My Personal Workflow for AI Video
+
+I’ve been refining an AI video workflow around how I like to build scenes, work with references, and direct movement. I’ve now packaged it into one reusable skill: Money Flip AI Content System.
+
+You bring an idea, an image, or a set of references. The skill helps turn them into a clear scene and a prompt you can actually use.
+
+It covers the process from developing the concept and preparing visual assets to directing the shot and fixing what comes back.
+
+What It Helps You Do
+Develop a scene from a rough idea. Define what happens, what the viewer should notice, and how the action develops.
+Prepare a first frame for animation. Build an image around the intended movement, with readable poses, useful framing, and room for the action.
+Work with multiple references. Assign separate roles to identity, clothing, products, locations, and visual style.
+Build character reference sheets. Establish consistent views, proportions, clothing, and important details for later shots.
+Direct movement and camera behavior. Describe timing, speed, contact, weight, and camera motion in concrete terms.
+Repair failed generations. Identify the main problem and revise the relevant instructions while preserving what already works.
+The Principles Behind It
+
+Start with what the viewer needs to see. Give every reference a clear purpose. Keep one main idea per shot. Separate the character’s appearance from their movement. Check the entire clip, then change one main variable at a time.
+
+The skill also includes a dedicated Seedance 2.5 prompt framework covering shot timing, reference mapping, wardrobe, environment, camera direction, audio, dialogue, and POV.
+
+Try Asking It
+
+“Turn this idea into a 10-second scene. Choose the approach and write the complete prompt.”
+
+“Use the first image for identity, the second for clothing, and the third for the location. Build a first frame and a matching motion prompt.”
+
+“The character stops walking halfway through the clip. Revise the prompt to keep the walk continuous while preserving the camera and visual style.”
+
+You can start with a simple description. The skill helps organize the production decisions around it.
+
+Getting Started
+
+Download the attached file and add it to an AI assistant that supports custom skills. Then describe your scene and attach any relevant references.
+
+The skill provides the workflow and instructions. Image and video generation depend on the tools available in your setup.
+
+A Few Things I Use in My Own Workflow
+1. Research the Behavior Before Generating
+
+Before generating a scene, I often ask the AI to search the web for real-world examples of the behavior I want to show.
+
+That might mean researching how two birds interact, how waves break against rocks, or how a particular material moves.
+
+For example:
+
+“Look up how two birds of this species behave around each other in this situation. Find reference footage and describe their movements, distance, pauses, and reactions. Link the sources.”
+
+Or:
+
+“Find reference footage of waves breaking on a rocky shore in these weather conditions. Describe the sequence: the approach, impact, spray, foam, and retreat.”
+
+I then ask the AI to turn those observations into visible actions for the generation prompt.
+
+The important part is to specify the situation. What species are the birds? Are they courting, feeding, or competing? Is the water calm or rough? Is the shoreline sandy or rocky?
+
+Those details give the research a useful direction—and give me something concrete to compare the result against.
+
+2. Give the Camera a Physical Presence
+
+To make my videos feel alive, I often include the imperfections of someone actually operating a camera.
+
+Depending on the scene, I might use:
+
+Handheld shake.
+Focus drifting briefly, then catching up.
+The movement and uneven rhythm of an operator walking.
+A slightly tilted horizon.
+Characters or objects placed off-center.
+
+I like the camera to feel responsive to what is happening. The operator takes a step, adjusts the framing, or catches up with the subject.
+
+A direction I might use:
+
+“Filmed handheld by an operator walking alongside the subject. Footsteps introduce small uneven movements. Focus briefly drifts and recovers. The horizon sits at a slight angle, and the subject stays off-center with room ahead of their movement.”
+
+I adjust the intensity to the scene. Sometimes a small focus correction or a little movement in the framing is enough.
+
+3. Use References to Build the Prompt
+
+For still images, I often attach references to ChatGPT or Claude so they can understand the visual direction I’m aiming for: lighting, framing, color, texture, camera character, and atmosphere.
+
+Then I ask the assistant to translate those observations into a self-contained generation prompt.
+
+For the actual generation, I ask it to use the prompt alone, without attaching those reference images.
+
+A request I might use:
+
+“Analyze the attached references and identify the visual qualities that matter for my idea: composition, lighting, palette, texture, camera character, and atmosphere. Translate those qualities into a detailed, self-contained prompt describing the new image. Then generate using only that text prompt. Do not attach or pass the reference images to the image generator.”
+
+This lets me use references to communicate a direction while exploring a new image through the prompt.
+
+I only pass a reference into the generation itself when I need to preserve something specific, such as a particular face, outfit, product, or location. When I do, I define exactly what that reference controls.
+
+This is the version shaped around my own preferences, and I’m sharing it for other creators to explore and adapt.
+
+Download the attached Money Flip AI Content System skill file below.
+
+If you try it, I’d love to see what you make—and hear which parts help your workflow.
+
+Money-Flip-AI-Content-System-SKILL.md
+MD

@@ -1,0 +1,60 @@
+【项目】HOW I STOPPED VOICES DRIFTING IN SEEDANCE 2.5（@grandryzeproductions · 创作者博客）
+【链接】https://higgsfield.ai/@grandryzeproductions/blogs/how-i-stopped-voices-drifting-in-seedance-2-5
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I STOPPED VOICES DRIFTING IN SEEDANCE 2.5
+G
+@grandryzeproductions
+19
+0
+0
+
+This cost me about a week on TRIBE. If it saves you a day, the post did its job.
+
+Here's the problem. Same character, same prompt, three fires, three different men. I'd write "deep, warm, gravelly" and get a 60-year-old preacher on Monday and a 25-year-old radio host on Tuesday. Adjectives don't hold. An adjective is a lottery ticket.
+
+
+
+
+I'm a father, and I'm the founder and CEO of GrandRYZE Productions in Seattle. I make video for a living, so I can't hand a client a lottery ticket. I started treating a voice like a piece of gear I had to spec, the same way I'd spec a lens, and that's when it held.
+
+Pitch is a number, not a word.
+
+I measured the first take I liked (any free pitch tracker will do it) and wrote that number straight into the voice block. Momma sits at 192 Hz. The Officer sits at 88. Every fire after that lands within a few Hz of it. Now, I don't think the number itself steers the model that much. What it does is force you to describe the instrument that makes that number: chest size, where the vowels sit, how the phrases end. You stop writing the mood and start writing the throat. That's the whole trick.
+
+The block is the asset.
+
+Once a voice block worked, it got pasted word for word into every shot that character speaks in. I reworded Momma's once "to improve it." Cast a different actor. Different woman, same name. I put the old block back and never touched it again. If you're the type who likes to polish, polish something else.
+
+Instrument and delivery live in different paragraphs.
+
+The voice block says what the throat is. A separate DELIVERY line says what this one line does: "slower on hold, lands on end, never rises." Keep them apart. Mixing them is how you end up with a character whose voice changes every scene, because you told the model to be a different instrument every time the emotion changed.
+
+Give the voice somebody to talk to.
+
+This one I almost didn't figure out. Every Momma line came back with a narrator pull, that audiobook thing, talking to nobody. I tried "not a narrator." Didn't work; negatives never do. What worked was one sentence: "she is always talking to somebody who is right there in the room." A narrator has no listener. Give her a listener and narration becomes impossible. Best single fix I found in 86 written laws.
+
+The engine is a variable.
+
+The same block on Seedance 2.0 came back about two semitones higher than on 2.5. If you switch engines mid-film, re-measure. Don't assume.
+
+And one that isn't about voice but bit me the same way.
+
+If a prompt and an attached element describe the same thing differently, you don't get either one. You get the average. Chuma's iron weapons came back as wood three times before I opened the old element description and found "wooden club" sitting underneath everything I'd written. The element wins every time you don't read it.
+
+
+
+
+That's it. No secret model and no plugin. A number instead of an adjective, a block you don't touch, and somebody in the room for her to talk to.
+
+I've got two more of these coming (the diff rule, and the one law I wrote for my kids). 
+
+
+
+
+If you want to see what all this produced, the film is on my profile: https://higgsfield.ai/@grandryzeproductions/projects/tribe-the-story-of-freedom . 160-plus shots about one family on one night.
+
+Questions in the comments. I'll answer every one.

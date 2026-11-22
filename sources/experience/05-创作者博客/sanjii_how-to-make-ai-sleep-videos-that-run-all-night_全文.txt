@@ -1,0 +1,581 @@
+【项目】HOW TO MAKE AI SLEEP VIDEOS THAT RUN ALL NIGHT（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/how-to-make-ai-sleep-videos-that-run-all-night
+【提示词块】11
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW TO MAKE AI SLEEP VIDEOS THAT RUN ALL NIGHT
+S
+@sanjii
+167
+0
+0
+Recreate Everything
+
+What it does: One prompt that runs this whole guide in Supercomputer. It generates the scene, turns it into a 30-second loop with its own rain sound, writes the piano music, makes the thumbnail and assembles a 3-hour video with a title and description ready to upload. Swap the scene for the café or the medieval village to run the other two niches.
+
+Make me a 3-hour sleep video for YouTube in the Rain + Fireplace niche, the way this guide does it.
+
+
+
+
+1. Generate the scene in Higgsfield with Nano Banana 2.1, 16:9, 4K: a cozy rustic attic bedroom at night, heavy rain streaming down a large panoramic window, a warm fireplace in the corner, soft blankets and a steaming ceramic mug on a wooden table, no people. Make three variations and keep the best one.
+
+2. Animate it with Seedance 2.5: 16:9, 30 seconds, audio on, with the scene as both the first and the last frame. Locked-off camera, and only the rain, the fire and the steam move, so the clip loops without a seam. Ambient sound: steady rain on glass and a soft fire crackle. Run a 480p draft first, check that the last frame matches the first, then upscale that same draft to 1080p.
+
+3. Write and run a Python script that makes a 3-minute calm piano track that loops seamlessly: slow, soft, no drums. Export it as a WAV.
+
+4. Make the thumbnail from the scene: warmer and slightly brighter, a richer glow from the fireplace, crisp raindrops on the glass and the bold text "FALL ASLEEP FAST" in the upper left.
+
+5. Loop the clip and the piano to 3 hours with ffmpeg, with the piano at half volume under the rain, and export a 1080p MP4.
+
+6. Write the title as Promise + No Mid-Roll Ads + Scene + Purpose, and the first lines of the description from the keywords fireplace ambience, rain on window and sleep sounds.
+
+7. Give me the video, the thumbnail, the title and the description, plus the upload settings: pre-roll ads on, mid-roll ads off, AI content label on.
+
+See all
+Copy prompt
+Recreate
+Why sleep videos break the algorithm
+
+Sleep videos win on the one metric YouTube rewards most: average view duration. On a normal video, holding someone for four minutes is a big win. With a sleep video, the viewer clicks play, turns off the lights and lets it run all night.
+
+Most YouTube gurus tell you to hustle nonstop, burn through AI credits and fight for every second of watch time. This corner of YouTube skips that fight. This guide covers the whole process, from picking a niche to uploading a finished two-hour video. Every visual is made inside Higgsfield, and the music comes from code Claude writes for you. Every prompt is included, ready to copy.
+
+The money math
+
+One sleep video with over 540 million views has earned at least $810,000, even at a deliberately low $1.50 per thousand views.
+
+540,000,000 views ÷ 1,000 × $1.50 = $810,000
+
+That is about ten years of a middle manager's salary, sitting inside one video file. And the video is still earning: it pulls around 7,000 views every hour while its creator sleeps.
+
+Period
+
+	
+
+Views
+
+	
+
+Revenue at $1.50 per 1,000
+
+
+
+
+1 hour
+
+	
+
+~7,000
+
+	
+
+$10.50
+
+
+
+
+1 day
+
+	
+
+~168,000
+
+	
+
+~$250
+
+
+
+
+1 month
+
+	
+
+~5 million
+
+	
+
+~$7,500
+
+The channel behind it, Soothing Relaxation, does about 40,000 views an hour across its catalogue. At the same rate that is roughly $61 an hour and $1,460 a day.
+
+Step 1: Pick a niche with high demand and low competition
+
+The biggest search term is almost always a trap. Beginners chase the highest-volume keywords; the money is where monthly searches are large and competition (scored 0 to 100) sits near the bottom.
+
+vidIQ keyword research, October 2026 · 10 keywords
+
+Two kinds of keywords look tempting and fail:
+
+Overheated. "White noise", "rain sounds" and "relaxing jazz" have huge volume, but legacy giants like Relaxing White Noise (4.5 million subscribers) have locked them down.
+Too small and shrinking. "Spaceship ambience" has low competition, but search interest just dropped 71%. "Medieval tavern ambience" scores only 18 on competition, yet interest is down 39%.
+
+Low competition on its own is useless. A niche is worth entering only when three things hold at once:
+
+High search volume: hundreds of thousands of searches a month.
+Low competition: every winning keyword below scores 35 or less.
+Positive growth: search interest rising over the last 30 days.
+The three niches to target right now
+
+Rain + Fireplace, Cozy Jazz and Fantasy Worlds all pass the three tests, and small channels in each are already pulling close to a million views per video.
+
+Niche
+
+	
+
+Keywords to own
+
+	
+
+Growth, last 30 days
+
+	
+
+Proof
+
+	
+
+What sells the click
+
+
+
+
+Rain + Fireplace
+
+	
+
+fireplace ambience, autumn ambience, rain sounds for sleeping no ads
+
+	
+
+fireplace ambience +31%
+
+	
+
+Cozy Dream Window, 3,900 subscribers: one video at 803K views
+
+	
+
+Pure audio atmosphere
+
+
+
+
+Cozy Jazz
+
+	
+
+cozy jazz
+
+	
+
++30%
+
+	
+
+Tiny Café Jazz, 4,000 subscribers: "Cozy Rainy Autumn Café" at 1.1M views
+
+	
+
+Warm instrumental music
+
+
+
+
+Fantasy Worlds
+
+	
+
+fantasy music
+
+	
+
++19%
+
+	
+
+Fantasy Medieval Journey, created this year, 4.85M channel views: night village video at 902K
+
+	
+
+Escapism: worlds only AI can create
+
+Timing matters too. In the last 30 days, searches for fireplaces rose 26%, "fireplace ambience" 31% and "cozy jazz" 30%. Fall and winter are peak season for cozy content, and the season is only starting.
+
+Step 2: Build the video in four generations
+
+Every video in these niches comes from the same four generations. Three of them run in Higgsfield; only the music is made with code Claude writes. Here is the full build for Rain + Fireplace.
+
+Scene: one 16:9 still image (Nano Banana 2.1 or Soul Location).
+Live Loop: a 30-second seamless clip with built-in ambient sound (Seedance 2.5).
+Sound Stack: a soft music bed layered under the ambience (Claude).
+Thumbnail: a punchier version of the scene with two to four words of text (Higgsfield image generation).
+
+After that you loop the clip to 1.5–3 hours, package it and upload.
+
+Generation 1: The Scene
+
+The scene is your product: viewers buy it with their eyes. Open Higgsfield, set the aspect ratio to 16:9 and use Nano Banana 2.1 at 4K resolution, or the Soul Location model.
+
+Three golden rules for the scene:
+
+The window rule. Inside is warm and safe; outside is raw weather. "Rain on window" gets 338,000 searches a month on its own, because that contrast triggers deep comfort.
+One story anchor. Add a single object that brings the room to life: a sleeping cat, an open book on a blanket or a steaming ceramic mug.
+Zero people. An empty room lets viewers project themselves into the space.
+
+What it does: Generates the room your viewers fall asleep in: rain on a big window, a fire and nobody in the frame. Above is the scene from our own Rain + Fireplace video, the same one the loop in Generation 2 is made from.
+
+Generate this image in Higgsfield with Nano Banana 2.1, 16:9, 4K:
+
+
+
+
+Cozy rustic attic bedroom at night, heavy rain and water droplets streaming down large panoramic window, warm burning fireplace in the corner, soft blankets, steaming ceramic mug on wooden table, cinematic moody lighting, hyper-realistic interior, ultra cozy atmosphere --ar 16:9
+
+Copy prompt
+Recreate
+
+Generate two or three variations and keep the best one. Look for warm lighting, clearly defined raindrops on the glass and deep shadows.
+
+Generation 2: The Live Loop
+
+Seedance 2.5 turns the still into a 30-second clip that loops forever. Of the 40+ models in Higgsfield, it is one of very few that does 30-second videos, first-and-last-frame looping and audio generation in a single pass.
+
+Setting
+
+	
+
+Value
+
+
+
+
+First frame
+
+	
+
+Your scene image
+
+
+
+
+Last frame
+
+	
+
+The same scene image
+
+
+
+
+Length
+
+	
+
+30 seconds
+
+
+
+
+Aspect ratio
+
+	
+
+16:9
+
+
+
+
+Audio
+
+	
+
+On
+
+0:00 / 0:00
+
+What it does: Turns the still into a 30-second clip that loops forever, with the rain and fire sound generated in the same pass. Above is the loop from our own Rain + Fireplace video, with the piano from Generation 3 mixed in.
+
+Animate my scene in Higgsfield with Seedance 2.5: 16:9, 30 seconds, audio on, with my scene image as both the first and the last frame.
+
+
+
+
+Locked-off static camera, no camera movement at all. Rain streams down the window glass, the fire flickers gently in the fireplace, thin steam rises from the mug. Calm and slow, seamless loop: the last frame matches the first. Ambient sound: steady heavy rain on glass and roof, soft fire crackle.
+
+See all
+Copy prompt
+Recreate
+
+Save credits with Draft mode:
+
+Run a cheap 480p draft first.
+Check the seam: put the last frame next to the first and look for any jump.
+When the seam is smooth, upscale that same draft to 1080p. Do not run a fresh 1080p generation: it produces a different video, breaks the loop and costs more credits.
+
+The loop is seamless because the camera is locked and only micro-elements move: raindrops on the glass, flickering fire, rising steam. The last frame lands back on the first with no visible cut.
+
+Generation 3: The Sound Stack
+
+A high-retention soundtrack has two layers, and neither needs a paid audio subscription.
+
+Ambience. The rain on glass and the fireplace crackle that Seedance 2.5 generated together with the video. You already have it.
+Music. A soft piano bed generated by code that Claude writes for you. Ask for the track, run the code, and you get a continuous melody matched to your scene.
+
+What it does: Has Claude write and run the code for a soft piano bed that loops without a seam. It is the piano you hear under the rain in the loop above.
+
+Write a Python script that makes a 3-minute calm piano track for sleep videos. Slow and soft, no drums, and it should loop seamlessly. Save it as a WAV file and tell me how to run it.
+
+Copy prompt
+Recreate
+
+Rain plus gentle piano is one of the most proven pairings on YouTube. It powers recent hits like Melodies of Calmora's piano and rain video (600K+ views), RainwoodPiano's (300K+) and one from Relaxing Sleep Music (240K+). Rain alone is calming; with soft piano layered underneath, it becomes a deep-sleep atmosphere.
+
+Generation 4: The Thumbnail
+
+The thumbnail is the scene, pushed harder, with two to four words of clean text. Go back to Higgsfield image generation and attach your scene image as a reference.
+
+What it does: Pushes the scene into a thumbnail: warmer, brighter, with three words of bold text. All four above came from one frame of our loop and this prompt.
+
+Generate this image in Higgsfield with Nano Banana 2.1, with my scene image attached as the reference:
+
+
+
+
+Use the reference image as a YouTube thumbnail. Keep the same room and composition. Make it warmer and slightly brighter, a richer stronger glow from the fireplace, crisp sharp raindrops on the window glass, cozy and inviting. Add short bold clean text in the upper left: "FALL ASLEEP FAST". High contrast, no extra objects, no people. 16:9.
+
+See all
+Copy prompt
+Recreate
+
+Put your thumbnail next to the top-ranking videos for your keyword. Then upload three variations to YouTube's Test & Compare and keep the one that wins.
+
+Step 3: Assemble a 1.5–3 hour video
+
+You do not need a 10-hour file. The 803K-view Rain + Fireplace video is only 1 hour 31 minutes long, and other recent top performers run about 3 hours.
+
+Take your loop and your music into any editor (CapCut, Premiere) and repeat them along the timeline until you reach two to three hours. Or ask Claude to run two ffmpeg commands for you:
+
+# 1. Re-encode the 30-second loop at 8 Mbps (takes seconds)
+ffmpeg -i loop.mp4 -c:v libx264 -b:v 8M -c:a aac loop_8m.mp4
+
+# 2. Repeat video and music to 3 hours, piano mixed under the rain
+ffmpeg -stream_loop -1 -i loop_8m.mp4 -stream_loop -1 -i piano.wav -filter_complex "[0:a][1:a]amix=inputs=2:weights=1 0.5[a]" -map 0:v -map "[a]" -c:v copy -c:a aac -t 3:00:00 video_3h.mp4
+
+Three hours at 1080p comes out around 11 GB. It exports fast and will not overload your machine.
+
+Step 4: Package and upload
+
+The same packaging formula works for all three niches. The title is Promise + No Mid-Roll Ads + Scene + Purpose:
+
+Fall Asleep in 5 Minutes (No Mid-Roll Ads) Cozy Bedroom Rain & Fireplace Glow for Deep Sleep & Relaxation
+
+Upload field
+
+	
+
+Setting
+
+
+
+
+Description, first lines
+
+	
+
+Your keyword cluster: "fireplace ambience", "rain on window", "sleep sounds"
+
+
+
+
+Pre-roll ads
+
+	
+
+On
+
+
+
+
+Mid-roll ads
+
+	
+
+Off
+
+
+
+
+AI content (altered or synthetic)
+
+	
+
+Yes
+
+
+
+
+Mid-roll ads off is what keeps the title honest. Claim "No Ads" and then play a pre-roll, and viewers feel misled. "No Mid-Roll Ads" is 100% true, and nobody gets blasted awake by an ad at 3 AM.
+
+One video can be enough to get monetized. The YouTube Partner Program needs 1,000 subscribers and 4,000 watch hours. The 803K-view video, even at a modest 10-minute average view duration, generated over 130,000 watch hours: more than 30 times the threshold.
+
+Keep each upload distinct: change the room, the weather and the angle rather than reposting the same scene.
+
+Speedrun: the other two niches
+
+The same four generations work for Cozy Jazz and Fantasy Worlds; only the prompts change. Settings, Draft mode, assembly and upload stay exactly as above.
+
+Cozy Jazz
+
+514,000 searches a month, up 30%. Tiny Café Jazz's rainy café video hit 1.1 million views.
+
+Scene:
+
+Generate this image in Higgsfield with Nano Banana 2.1, 16:9, 4K:
+
+
+
+
+Cozy café interior at night during autumn rain, large window looking out onto a wet cobblestone street with warm glowing street lamps, raindrops streaming down the glass, a steaming cup of coffee on a wooden table by the window, a vintage vinyl record player with a spinning record on the counter, a small corner fireplace with a warm fire, warm amber lighting, empty café, no people, cinematic, hyper-realistic interior, ultra cozy atmosphere, 16:9
+
+See all
+Copy prompt
+Recreate
+
+Live Loop (Seedance 2.5):
+
+0:00 / 0:00
+
+Animate my scene in Higgsfield with Seedance 2.5: 16:9, 30 seconds, audio on, with my scene image as both the first and the last frame.
+
+
+
+
+Locked-off static camera, no camera movement at all. Steam drifts from the coffee cup, the vinyl record spins slowly, raindrops slide down the window, the fire flickers. Calm and slow, seamless loop: the last frame matches the first. Ambient sound: soft rain on glass, gentle fire crackle.
+
+See all
+Copy prompt
+Recreate
+
+Music (Claude):
+
+Write a Python script that generates a 3-minute smooth jazz track for a rainy café: soft piano, brushed drums and upright bass, slow and relaxed, no sudden loud notes. The end must flow back into the beginning so the track loops seamlessly. Export a WAV file, and tell me exactly how to install and run it.
+
+Copy prompt
+Recreate
+
+Title:
+
+Rainy Autumn Café: Warm Jazz & Fireplace Glow for Study, Sleep & Relaxing
+Fantasy Worlds
+
+371,000 searches a month, up 19%. Fantasy Medieval Journey has 4.85 million views.
+
+Scene:
+
+Generate this image in Higgsfield with Nano Banana 2.1, 16:9, 4K:
+
+
+
+
+Medieval fantasy village deep at night, cobblestone square with timber-framed houses, glowing lanterns along the street, soft mist drifting low between the houses, warm golden light spilling from the tavern windows, smoke from the chimneys, light snow falling, dark forest and mountains under a starry sky, no people, magical and peaceful, cinematic, hyper-realistic, ultra cozy atmosphere, 16:9
+
+See all
+Copy prompt
+Recreate
+
+Live Loop (Seedance 2.5):
+
+0:00 / 0:00
+
+Animate my scene in Higgsfield with Seedance 2.5: 16:9, 30 seconds, audio on, with my scene image as both the first and the last frame.
+
+
+
+
+Locked-off static camera, no camera movement at all. Lanterns flicker, chimney smoke rises, fireflies drift through the air, light snow falls. Calm and slow, seamless loop: the last frame matches the first. Ambient sound: soft wind, distant crackling hearth.
+
+See all
+Copy prompt
+Recreate
+
+Music (Claude):
+
+Write a Python script that generates a 3-minute calm fantasy medieval track: lute, harp, soft flute and warm strings, slow and peaceful, no percussion and no sudden loud notes. The end must flow back into the beginning so the track loops seamlessly. Export a WAV file, and tell me exactly how to install and run it.
+
+Copy prompt
+Recreate
+
+Title:
+
+The Quiet Night in a Medieval Village: Relaxing Fantasy Music for Sleep & Study
+The whole formula on one screen
+
+Screenshot this table; it is the entire playbook.
+
+Part
+
+	
+
+What to do
+
+
+
+
+Niche
+
+	
+
+Rain + Fireplace, Cozy Jazz or Fantasy Worlds
+
+
+
+
+Generations
+
+	
+
+Scene, Live Loop (Seedance 2.5) and Thumbnail in Higgsfield; music from Claude-written code
+
+
+
+
+Length
+
+	
+
+1.5 to 3 hours
+
+
+
+
+Title
+
+	
+
+Promise + No Mid-Roll Ads + Scene + Purpose
+
+
+
+
+Ads
+
+	
+
+Pre-roll on, mid-roll off
+
+
+
+
+AI content label
+
+	
+
+Yes
+
+The cozy season is peaking right now. A cozy Halloween café video did 478,000 views in under a month, and RainwoodPiano, a channel started in August, is already close to a million views. Pick one of the three niches, run your first four generations in Higgsfield, and get your video live on YouTube today.
+
+READY TO TRY IT YOURSELF

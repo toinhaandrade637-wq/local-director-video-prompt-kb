@@ -1,0 +1,250 @@
+【项目】Meet the Higgsfield API: How It Works and What You Get（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/higgsfield-api
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Meet the Higgsfield API: How It Works and What You Get
+Higgsfield
+Sep 17, 2026
+7 min
+
+The Higgsfield API is a self-serve API for developers that provides direct access to more than 50 current video and image generation models with pay-as-you-go billing in US dollars. There is no subscription: you top up a balance, pay per generation at published rates, and spending stops automatically at zero. The sections below cover billing, models, pricing, and setup.
+
+What Is the Higgsfield API
+
+The Higgsfield API gives developers programmatic access to a curated catalog of video and image generation models. If you are building a product that generates video or images, you normally assemble model access from several providers, each with its own billing logic, expiration rules, and rate structures. Estimating what a month of production traffic will cost becomes a separate task. The Higgsfield API is built around a different setup: one key, one balance in US dollars, and a public price list, so you can calculate your costs on your own volume before you commit to anything.
+
+The API is a separate product from the higgsfield.ai website. A plan on higgsfield.ai does not affect API access, and API usage is billed independently.
+
+Which Models Are Available
+
+The Higgsfield API provides access to more than 50 current video and image generation models. The catalog includes the Seedance, Kling, Wan, MiniMax, LTX, PixVerse, Recraft, Ideogram, and Grok families, along with Higgsfield's own models: Soul 2, Soul Cinema, DoP, and Marketing Studio Image.
+
+The catalog stays compact on purpose. It carries the current versions of the models most creators and businesses already work with, across both video and image generation, so picking a few models from one catalog can cover most of a production pipeline. Each model page includes:
+
+Published price, supported resolutions, durations, and release date
+Ready code samples and a Copy for agent option
+A quick model overview and a comparison table of related models
+
+Choosing a model for a specific task takes minutes: the overview and comparison table on each model page narrow the options before you write any code.
+
+How to Get Started
+
+Setting up access takes four steps:
+
+Create an account and choose between personal and company use.
+Add a payment method and top up your balance.
+Create your first API key. The key is shown once at creation, so store it securely. Creating a key unlocks 20 concurrent requests.
+Integrate using the Python or TypeScript SDK, or call the REST API directly from any language with an HTTP client. Each model page includes ready code samples, plus prepared setup prompts for Claude Code, Cursor, and ChatGPT (Codex) that configure the integration from a single instruction.
+
+Generation requests run asynchronously: you submit a request and receive a request ID right away, while the generation runs in the background. Poll the status or wait for a webhook, then download the completed output.
+
+Setup, billing, and storage details are collected in the Help Center guide.
+
+What Generation Costs
+
+Video generation on the Higgsfield API starts at a few cents per second of output, and image generation is priced per image. Each model has a fixed published rate for every configuration. The table below shows starting rates for several popular models from the catalog. Rates vary with resolution and audio, and the pricing page lists current rates for every model and configuration.
+
+What Generation Costs
+
+Model
+
+	
+
+Type
+
+	
+
+Starting rate
+
+
+
+
+Marketing Studio Image
+
+	
+
+Image
+
+	
+
+$0.0059 / image
+
+
+
+
+Soul 2
+
+	
+
+Image
+
+	
+
+$0.0032 / image
+
+
+
+
+Soul Cinema
+
+	
+
+Image
+
+	
+
+$0.0032 / image
+
+
+
+
+DoP
+
+	
+
+Video
+
+	
+
+$0.125 / generation
+
+
+
+
+Kling 2.5
+
+	
+
+Video
+
+	
+
+$0.042 / sec
+
+
+
+
+Kling 2.6
+
+	
+
+Video
+
+	
+
+$0.07 / sec
+
+
+
+
+Seedance 2.5
+
+	
+
+Video
+
+	
+
+$0.0738 / sec
+
+
+
+
+Kling 3.0
+
+	
+
+Video
+
+	
+
+$0.112 / sec
+
+
+
+
+PixVerse 6
+
+	
+
+Video
+
+	
+
+$0.115 / sec
+
+
+
+
+MiniMax H3
+
+	
+
+Video
+
+	
+
+$0.13 / sec
+
+
+
+
+LTX 2.5 Pro
+
+	
+
+Video
+
+	
+
+$0.17 / sec
+
+
+
+
+Wan 3.0
+
+	
+
+Video
+
+	
+
+$0.20 / sec
+
+
+
+
+Seedance 2.0
+
+	
+
+Video
+
+	
+
+$0.9332 / sec
+
+At these rates, a 10-second clip on Kling 3.0 costs $1.12, and the same clip on Kling 2.6 costs $0.70. Failed requests are not charged: billing applies only to successful completions, and the cost of a failed generation is refunded automatically. Teams that already run generation workloads elsewhere can put these rates against their own traffic and see the comparison on real volume.
+
+How Billing Works
+
+The Higgsfield API is billed in US dollars per generation, with no subscription at any level. The billing model follows five principles:
+
+Billing is per request. You add a payment method, top up a balance, and each generation deducts its cost from the balance. Access does not require a plan or a seat fee.
+The balance is held in US dollars. Every price is listed in dollars as well, so the rate on the pricing page is the rate you pay.
+Prices are public. Every model's rate is listed openly: video models are priced per second of output, image models per image.
+Self-serve pricing follows the published model rates. The price per generation is the rate on the pricing page, at any top-up amount.
+Spending stops at zero. When the balance runs out, requests pause until the next top-up, and the balance cannot go negative. An auto top-up option keeps production workloads running without interruption.
+
+Because every rate is published, cost planning happens before integration: multiply a listed rate by your expected volume, and you have your monthly estimate. The same calculation works for teams that already run generation workloads and want to see the numbers on their own volume first.
+
+Where the API Fits
+
+Higgsfield is an AI-native creative suite, and the API is its entry point for developers. The API is how Higgsfield handles integration: generation running inside your own product, billed in dollars. Teams that prefer a visual workflow use the same models on the higgsfield.ai website. For agent workflows, Higgsfield connects to AI agents through MCP and plugin integrations, so you can pick the agent you already work with. The API is the developer option: it gives a product direct programmatic control over generation.
+
+MEET THE HIGGSFIELD API: HOW IT WORKS AND WHAT YOU GET
+Get Your API Key

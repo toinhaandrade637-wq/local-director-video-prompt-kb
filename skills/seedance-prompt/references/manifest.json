@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "knowledge_version": "0.1.2",
+  "skill_version": "0.1.2",
+  "generation_validation": "not-executed",
+  "normalization": "UTF-8 without BOM, LF line endings",
+  "files": [
+    {
+      "source": "现行知识/01-用户约定.md",
+      "reference": "01-用户约定.md",
+      "source_sha256": "aee65b3af2163053c7a61394058b4584d1bb10ccca6925dde6460481493cb895",
+      "reference_sha256": "0b9b27b8082fb782c1ac052c200f411e858d96b3e1feac177bb13037cde3aa5c"
+    },
+    {
+      "source": "现行知识/02-通用结构与选用.md",
+      "reference": "02-通用结构与选用.md",
+      "source_sha256": "81c8d6ab0a55ba665b001c247b958711cfe60f9355a1ae6c0141f466f9d61ee0",
+      "reference_sha256": "fce3396cfd389a9e2e85a97557fc38994b6b735b9e48c9949861bfa195449926"
+    },
+    {
+      "source": "现行知识/03-参考分工与主体一致性.md",
+      "reference": "03-参考分工与主体一致性.md",
+      "source_sha256": "fad3db95531047924680a0219463bdf41b3f5ac488efe664ff509b602a6d9b89",
+      "reference_sha256": "1e8959df7a5d52ff118ebe2b6f2baaa581425e70435d76b29a8fd5c6d97340ca"
+    },
+    {
+      "source": "现行知识/04-全局设定与本场发展.md",
+      "reference": "04-全局设定与本场发展.md",
+      "source_sha256": "1a2bcef43fcf7defd8acdc129a3155bfb087ec4f22b713311dcced0f1fa76f6d",
+      "reference_sha256": "bd29cd59add8d3b331f12d26b77e67062f6a0ed3c2dc9e06ee3391821392dbc0"
+    },
+    {
+      "source": "现行知识/05-表演对白与方言.md",
+      "reference": "05-表演对白与方言.md",
+      "source_sha256": "cd342756bdaa4c97db87c3fc6be3a6352baaf0f16dd02d953af66f1cfdb180e6",
+      "reference_sha256": "3c0c3ede03fbd9ad89b396e15d99bd3c1e07b534d109c780a2ef477f3d05773d"
+    },
+    {
+      "source": "现行知识/06-动作因果与打戏.md",
+      "reference": "06-动作因果与打戏.md",
+      "source_sha256": "cf6ff2b8e6265ceb591b62ff58746742d350f40d4354b000b8840f46fa9056cc",
+      "reference_sha256": "a838628cd909a1290ac12b2fbfb6dcba5620527584612bde1e1d9b4254a4da84"
+    },
+    {
+      "source": "现行知识/07-摄影运镜与空间.md",
+      "reference": "07-摄影运镜与空间.md",
+      "source_sha256": "fc42f61aab23ebe663b5cafbec73679de90e691c8b1294c7b74b0d4cdbf6bd5c",
+      "reference_sha256": "268b5961acbabb7b78af773c064d7e2af7e9e3988d77e5f6a2b5d73113510fcc"
+    },
+    {
+      "source": "现行知识/08-光影色彩材质与环境.md",
+      "reference": "08-光影色彩材质与环境.md",
+      "source_sha256": "333c8e36b95950b1498f4de1d3a5cdbe91f23e2927412518ba08c21c7ae65c9e",
+      "reference_sha256": "dc3a6900865530cdda8924f787ed0bfacbbb324d5996429828145c6741e16dcf"
+    },
+    {
+      "source": "现行知识/09-声音与跨镜衔接.md",
+      "reference": "09-声音与跨镜衔接.md",
+      "source_sha256": "072c0c2929fddb4ee30388c1ae711ba66b1e8ea4a93e38944717f58f44328d3a",
+      "reference_sha256": "87cfbb13f1cb2d0cd8534bdda72b1930d821e5cc07244c5aafe2ad2b7d775dcc"
+    },
+    {
+      "source": "现行知识/10-连续转场与阶段变化.md",
+      "reference": "10-连续转场与阶段变化.md",
+      "source_sha256": "8a124d02fb9d6e9c85a60b95062154d10851c80040da84326432e5d71df5dff1",
+      "reference_sha256": "461485ab70f5345e8c70e3448dcff6a7cd088ce419dfc1cb2678d5cebb4aa253"
+    },
+    {
+      "source": "现行知识/11-连续性约束与去重复.md",
+      "reference": "11-连续性约束与去重复.md",
+      "source_sha256": "83e5c6b821a5501a48fb3f233da5883c9981fc50ce1ac2ec703530f3f99ae4ea",
+      "reference_sha256": "dfea02f9a79a2c6be3af310239c78f55eeaf3a6b246ba65f4951c9c18fe164de"
+    },
+    {
+      "source": "现行知识/12-Seedance入口与平台差异.md",
+      "reference": "12-Seedance入口与平台差异.md",
+      "source_sha256": "76cc5f6318c8d2fe53055a881838849f94a78aac729ba8078890dc2c563714ac",
+      "reference_sha256": "739d9ed0a05a6211f95974c30ae0e76c7edac27bc9a88bfe616dfc5624384fb5"
+    },
+    {
+      "source": "资料库/来源登记.md",
+      "reference": "source-registry.md",
+      "source_sha256": "7cbccd647fdcd98a6389d83bd04cb177530d2e98ccef82edb7af99e38142d92d",
+      "reference_sha256": "5c7cbd119e5e1d00d4e01b5d38cc09a4fd9463521912f45cab1f30fc4f3c8f67"
+    }
+  ]
+}

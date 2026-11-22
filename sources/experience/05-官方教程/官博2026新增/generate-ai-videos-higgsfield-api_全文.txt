@@ -1,0 +1,355 @@
+【项目】How To Generate AI Videos Straight From the Higgsfield API（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/generate-ai-videos-higgsfield-api
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+How To Generate AI Videos Straight From the Higgsfield API
+Higgsfield
+Sep 17, 2026
+9 min
+
+To generate an AI video straight from the Higgsfield API, you need three parts: an API account with a funded US dollar balance, an API key from console.higgsfield.ai, and an HTTP request with a model identifier sent to api.higgsfield.ai. This walkthrough covers the setup, then builds one character-driven clip through three models, step by step.
+
+What Is an API?
+
+An API, or application programming interface, is a way for one program to use another program's functions through requests. In video generation this means your code sends a request with a prompt and parameters, the provider's servers run the model, and the response returns a finished file. No web interface is involved, so generation can run inside an app, a backend job, or a script, on schedule or on user action.
+
+What Is the Higgsfield API?
+
+The Higgsfield API gives developers direct access to more than 50 video and image generation models through its own curated catalog. Higgsfield is an AI-native creative suite, and generation in it runs three ways: through the interface on higgsfield.ai, from a Claude chat through the MCP connector, and through the API, where each model is an endpoint your code calls directly. The release post Meet the Higgsfield API covers the product in full, from billing to organizations; this guide walks the generation workflow end to end.
+
+The API model catalog covers video and image generation:
+
+Video models: the Seedance, Kling, Wan, MiniMax, LTX, PixVerse, and Grok families, plus Higgsfield's DoP.
+Image models: Recraft, Ideogram, Qwen, and Higgsfield's own Soul 2, Soul Cinema, and Marketing Studio Image.
+Catalog scope: the API runs its own curated catalog, so its lineup can differ from the model list on higgsfield.ai.
+
+To connect to the Higgsfield API:
+
+Create an API account, as an individual or a company.
+Register a payment method and top up your US dollar balance.
+Generate an API key in the dashboard at console.higgsfield.ai. The key has two parts, an ID and a secret, and is shown in full only once, at creation, so store it securely.
+Send requests through the Python or TypeScript SDK, or plain REST from any language.
+
+Reference documentation, quickstarts, and code examples are at docs.higgsfield.ai, and setup, billing, and storage details are collected in the Help Center guide. For integration through a coding agent, each model page carries ready setup prompts for Claude Code, Cursor, and ChatGPT (Codex).
+
+What You Can Build With the API
+
+One key and one request pattern cover the whole catalog, and billing counts requests, so an integration pays only for the models it calls. Typical builds:
+
+A generation feature inside your product. A user types a prompt or uploads an image in your app, your backend sends the request, and the finished video returns into your interface.
+A batch pipeline for creatives. A script runs tens or hundreds of requests in parallel, for example one product shot animated in several formats and durations for ad testing.
+A multi-model workflow. Different stages run on different models: stills on an image model, motion on a video model, drafts on a cheaper engine and finals on a stronger one. Switching models is a change of one identifier in the request.
+
+Each model page lists which inputs the model accepts (text-to-video, image-to-video, frame control), which durations and resolutions it supports, and whether it outputs sound. Since video is billed per second, duration is set per request.
+
+How Does the API Pipeline Work on Higgsfield?
+
+There is no fixed pipeline: each stage is an independent request, so you pick the models that fit the goal and chain as many as the shot needs. The stack in this walkthrough is one way to run a character-driven clip:
+
+How Does the API Pipeline Work on Higgsfield?
+
+Stage
+
+	
+
+Model
+
+	
+
+What it does
+
+
+
+
+Character
+
+	
+
+Soul 2
+
+	
+
+Generates a high-aesthetic character still
+
+
+
+
+Cinematic frame
+
+	
+
+Soul Cinema
+
+	
+
+Turns the still into a graded, composed film frame
+
+
+
+
+Motion
+
+	
+
+Kling 3.0
+
+	
+
+Animates the frame into a clip, sound and multiple shots included
+
+Every stage is swappable: a product photo can replace the generated still, and the motion stage runs on a different video model by changing the identifier, with the rest of the pipeline untouched.
+
+Step-by-Step: From Character Still to Finished Clip
+
+The full pipeline in one line: generate the character, make the frame cinematic, animate it, collect the file.
+
+Step 1: Generate the character or product
+
+In Soul 2 one image request produces a character still at $0.0032 per image, cheap enough to generate a batch in parallel and pick the strongest face. The prompt sets the person, the framing, and the light; the response returns the still as a downloadable file that feeds the next stage. This step depends on what the clip is built around: for a person, Soul 2 covers the character still; for a product shot, Marketing Studio Image does the same job at $0.0059 per image, and the rest of the pipeline stays the same.
+
+Step 2: Make the frame cinematic with Soul Cinema
+
+The character still from step 1 goes through Soul Cinema to set lighting, composition, and grade. The video model animates whatever frame it receives, so the closer that frame is to the final look, the more of the finished clip is already decided before motion enters.
+
+Step 3: Animate the frame with a video model
+
+An image-to-video request turns the frame into motion. This example runs on Kling 3.0, which supports sound, multi-prompt sequences, and multiple shots in one generation, so a single request can carry a short scene with several beats. Any video model in the catalog fits this slot: the same request with a different identifier runs on Seedance, Wan, or MiniMax, and the overview and comparison table on each model page help match the engine to the shot.
+
+Step 4: Check status and collect the file
+
+Requests are asynchronous: submission returns a request identifier with a status URL immediately, and generation completes in the background. Poll the status URL or receive a webhook, then download the clip. Files stay available for at least 7 days, so the last step of any pipeline is saving the output to your own storage.
+
+What Does It Cost?
+
+Billing runs pay-as-you-go from a prepaid US dollar balance, with no subscription. Every model has a published rate: video models are priced per second of output, image models at a flat rate per image. The table shows list rates for a representative model from each family and the full Higgsfield lineup; current rates for every model and configuration are listed on the model pages in the catalog. Self-serve pricing follows the published model rates at any top-up amount.
+
+What Does It Cost?
+
+Model
+
+	
+
+Type
+
+	
+
+Rate
+
+
+
+
+Seedance 2.5
+
+	
+
+Video
+
+	
+
+$0.0738 / sec
+
+
+
+
+Kling 3.0
+
+	
+
+Video
+
+	
+
+$0.112 / sec
+
+
+
+
+Wan 3.0
+
+	
+
+Video
+
+	
+
+$0.20 / sec
+
+
+
+
+MiniMax H3
+
+	
+
+Video
+
+	
+
+$0.13 / sec
+
+
+
+
+LTX 2.5 Pro
+
+	
+
+Video
+
+	
+
+$0.17 / sec
+
+
+
+
+PixVerse 6
+
+	
+
+Video
+
+	
+
+$0.115 / sec
+
+
+
+
+Grok Imagine Video 1.5
+
+	
+
+Video
+
+	
+
+$0.25 / sec
+
+
+
+
+DoP
+
+	
+
+Video
+
+	
+
+$0.125 / generation
+
+
+
+
+Soul 2
+
+	
+
+Image
+
+	
+
+$0.0032 / image
+
+
+
+
+Soul Cinema
+
+	
+
+Image
+
+	
+
+$0.0032 / image
+
+
+
+
+Marketing Studio Image
+
+	
+
+Image
+
+	
+
+$0.0059 / image
+
+
+
+
+Grok Imagine 2.0
+
+	
+
+Image
+
+	
+
+$0.06 / image
+
+
+
+
+Ideogram 4.0
+
+	
+
+Image
+
+	
+
+$0.06 / image
+
+
+
+
+Recraft 4.1
+
+	
+
+Image
+
+	
+
+$0.035 / image
+
+
+
+
+Qwen Image 3
+
+	
+
+Image
+
+	
+
+$0.03 / image
+
+Almost all of the cost sits in the video stage. The pipeline above lands under $1.30 for a 10-second clip: one Soul 2 still, one Soul Cinema frame, and 10 seconds of Kling 3.0, with the image stages close to free by comparison. The balance cannot go below zero: when it empties, new requests wait for the next top-up, or auto top-up keeps production traffic running. Failed requests are not billed, and their cost returns to the balance automatically. Because every rate is published, a monthly estimate is one multiplication: rate times expected volume.
+
+A Few Things Worth Knowing Before You Run This
+The API and a higgsfield.ai account are separate products with separate billing. Website plans, plan credits, and Unlimited access do not extend to the API, and API charges never touch them.
+Build polling or webhooks in from the start. Every generation is asynchronous by design, and the request identifier is how your service tracks it.
+Keep the API key server-side. It authenticates every call and should never appear in browser or mobile code.
+Download outputs as part of the pipeline. Generated files stay available for at least 7 days.
+Top-ups have a shelf life. Funds stay valid for one year after they are added to the balance.
+
+Assembling this stack across separate providers used to mean separate contracts, separate keys, and a different request format at every stage, with integration work eating the time the pipeline was supposed to save. Here the three stages ran through one key and one request pattern, and swapping any stage is a one-string change.
+
+Who Is the Higgsfield API For?
+Products that generate video for users. Generation runs on the product's triggers, and the finished file returns into the product's own interface.
+Backends that batch-produce creatives. Volume scales with parallel requests, and cost scales with the requests actually sent.
+Internal tools and automated flows. Generation slots in as one stage of a larger pipeline, next to the systems that trigger it and store the output.
+
+If the work is exploratory and conversational, the same catalog is reachable without code through the Higgsfield interface or an agent connection.
+
+HOW TO GENERATE AI VIDEOS STRAIGHT FROM THE HIGGSFIELD API
+Get Your API Key

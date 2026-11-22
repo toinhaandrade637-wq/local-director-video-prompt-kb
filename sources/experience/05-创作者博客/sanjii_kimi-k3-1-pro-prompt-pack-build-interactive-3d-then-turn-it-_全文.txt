@@ -1,0 +1,190 @@
+【项目】KIMI K3.1 PRO PROMPT PACK: BUILD INTERACTIVE 3D, THEN TURN IT INTO AI VIDEO（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/kimi-k3-1-pro-prompt-pack-build-interactive-3d-then-turn-it-into-ai-video
+【提示词块】5
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+KIMI K3.1 PRO PROMPT PACK: BUILD INTERACTIVE 3D, THEN TURN IT INTO AI VIDEO
+S
+@sanjii
+96
+0
+0
+Before You Start
+
+Kimi K3.1 Pro is Moonshot AI's new flagship model, launched October 23, 2026. What makes it different for creators: it doesn't paint a picture of a 3D scene, it writes and runs the code that builds one. Three.js for interactive websites, Blender and CAD for models, Unity, Unreal and Godot for games. This pack gives you the exact prompts for four builds, plus three Higgsfield shots that turn those builds into AI video.
+
+
+
+
+What the numbers actually say:
+
+On Terminal-Bench 4.0, run independently by Artificial Analysis, it jumped from 13% with Kimi K3 to 67%.
+On BenchCAD, a 3D-reconstruction test, Moonshot's own numbers put it within a few points of Claude Opus 5.5 and GPT-6 Astra, and level with Opus 5.5 when neither model uses tools.
+It always thinks before it answers, and it thinks long on big jobs. Artificial Analysis puts it at about $2 per task, roughly a third of what Opus 5.5 costs on the same tests.
+
+Where each prompt runs:
+
+Reference images: Higgsfield, Nano Banana Pro.
+Websites and printable models: kimi.ai → 3D Make, which has 3D webpage, 3D modeling and 3D printing modes.
+Blender and Godot builds: Kimi Code on your own computer, so Kimi can open Blender and Godot and check its own work. K3.1 Pro in Kimi Code needs the Plus plan or higher.
+Video: Higgsfield, Seedance 2.5.
+
+Build the references first. Kimi reads proportions from an image far better than from a paragraph, and the same reference then feeds the website, the Blender scene and every video shot. That's what keeps the car looking like one car from the first build to the final clip.
+
+Stage 1 — The References
+Car Reference Sheet
+
+
+
+
+What it does: Generates a clean technical sheet of an original sports car, four orthographic views plus a hero angle with real dimensions, for Kimi to build from.
+
+Technical reference sheet of an original two-door mid-engine sports car called HALCYON GT, no real brand logos. One sheet, five views: front, left side, rear and top as true orthographic views, plus a three-quarter hero view in the top-right corner. Light grey background, thin black construction lines, every view at the same scale, a 1-metre scale bar under the side view. The car: satin graphite paint, orange brake calipers, sharp wedge profile, low glasshouse, large side air intakes, split rear diffuser, five-spoke 20-inch wheels. Neat small labels: length 4.50 m, width 1.98 m, height 1.15 m, wheelbase 2.70 m. Flat even studio light, no cast shadows, no perspective in the orthographic views, crisp high-resolution engineering-drawing look.
+
+See all
+Copy prompt
+Recreate
+Phone Stand Sketch
+
+What it does: Generates a dimensioned industrial-design sketch of a phone stand for filming vertical video. It's the input for the 3D Make build.
+
+Hand-drawn industrial design sketch on white paper, black fineliner with light grey marker shading: a desktop phone stand for filming vertical video. Three views on one sheet: front, side and three-quarter. One solid piece: a flat base 90 mm wide and 110 mm deep, a back support angled at 65 degrees, a 12 mm front lip that holds the phone, and a 14 mm cable slot cut through the lip and base. Clear dimension arrows with numbers in millimetres on the front and side views. Rounded edges, clean minimal shape, grey shading only, no background objects, the whole sheet in frame.
+
+See all
+Copy prompt
+Recreate
+Stage 2 — The Prompting Framework
+The Kimi 3D Brief
+
+What it does: The structure behind every build prompt in this pack. Copy it to build something of your own: fill in the brackets and keep the PROCESS line as it is.
+
+GOAL: [what you are building and where it will be used]
+SUBJECT: [object or scene], using the attached reference for proportions and part layout.
+PARTS: build it from named parts grouped in a hierarchy: [main groups]. Name every part.
+INTERACTION: [sliders, toggles, hover, click, camera presets]
+LOOK: [materials], [lighting], [background], [colour palette], [UI typography]
+TECH: [Three.js single HTML file / Blender 4 Python script / Godot 4 project]. 60 fps on a laptop, usable at phone width.
+DELIVER: [source files and exports: HTML, .blend, GLB, STL, MP4]
+PROCESS: before building, list the parts and your assumptions about anything the reference doesn't show, and ask me if something is unclear. Then build, run it, check the result from at least three camera angles, fix what is broken, and only then hand it over.
+
+The rules that save you time and money:
+
+Plan first. Big builds run for a while and cost a couple of dollars each. A wrong plan costs cents; a wrong build costs the full run.
+Dimensions are parameters. Ask for every size as an editable value, so one change rebuilds the whole model.
+Ask for the source and the export, then open both. Materials can drop out when a model is exported to GLB, so check before you use it.
+Check at phone width. A control panel that works on a laptop can cover the whole model on a phone.
+One change per revision. Use the revision template below and keep everything else locked.
+The Revision Template
+
+What it does: Changes one thing without letting Kimi touch the rest. Use it for every tweak after the first build.
+
+Change only this: [one change].
+Keep everything else exactly as it is: geometry, materials, lighting, camera and UI.
+Show me the before and after from the same three camera angles, give me the revised file as a separate download, and list everything you changed.
+Stage 3 — The 3D Builds
+Build 1 — Exploded-View Car Website
+
+What it does: Kimi models the car part by part in Three.js and wraps it in a one-page site where a slider explodes it in real time, with X-ray, wireframe and part labels on hover.
+
+Run it in: kimi.ai → 3D Make → 3D webpage, with the car reference sheet attached.
+
+Build a single-page interactive website for an original sports car called HALCYON GT, no real brand logos. Use the attached reference sheet for proportions: 4.50 m long, 1.98 m wide, 1.15 m tall, 2.70 m wheelbase.
+
+MODEL: build the car procedurally in Three.js from named, grouped parts. Aim for over 1,000, counting bolts, spokes, vents, pistons and brake pads, and use instancing for repeated parts. Groups: body panels (hood, roof, doors, fenders, bumpers, side intakes, diffuser), chassis and subframes, engine (block, pistons, camshafts, intake, exhaust), gearbox, suspension (wishbones, springs, dampers), brakes (discs, calipers, pads), wheels and tyres, interior (seats, steering wheel, dashboard), glass and lights. Every part gets a name, a group and a one-line description.
+
+EXPLODED VIEW: a slider from 0 to 100% moves every part outward from the car's centre along its own direction, in stages: body panels first, then interior, then drivetrain, then suspension and wheels. Smooth easing, no parts intersecting at full explode. A Play button runs the whole explode and reassembly as an animation.
+
+INTERACTION: orbit, zoom and pan. Hover a part to highlight it and show its name; click to isolate it and dim everything else. Toggles for X-ray (see-through body), wireframe, and engine running (pistons move, wheels spin, exhaust glows). A live counter shows how many parts are on screen. Four camera presets: front three-quarter, side profile, top-down, engine bay.
+
+LOOK: dark studio with a soft gradient floor and reflections, three-point lighting with a warm rim light, physically based materials (satin graphite paint, brushed aluminium, carbon fibre, rubber, glass), subtle bloom on the lights. Minimal UI in a thin sans-serif with small-caps labels and one orange accent colour.
+
+TECH: one self-contained HTML file, Three.js from a CDN, no external model files. 60 fps on a laptop, UI usable at phone width, rendering paused when the tab is hidden.
+
+PROCESS: start by listing the part groups with their part counts and any assumptions about hidden geometry. Then build it, open it, and check all four camera presets at 0, 50 and 100% explode. Fix any overlaps or broken controls before you hand over the final file.
+Build 2 — 3D Make: Sketch to Printable Stand
+
+What it does: Turns the phone stand sketch into a parametric model you can tweak in the browser, download for 3D printing and export as a turntable video.
+
+Run it in: kimi.ai → 3D Make → 3D printing, with the phone stand sketch attached.
+
+Turn the attached sketch into a printable, parametric desktop phone stand for filming vertical video.
+
+KEEP: the 90 x 110 mm base, the back support at 65 degrees, the 12 mm front lip, and the 14 mm cable slot through the lip and base. Keep the clean, rounded look of the sketch with 3 mm fillets on every outside edge.
+
+PARAMETERS: base width, back angle (55 to 75 degrees), lip height and slot width as editable values, so changing one rebuilds the whole model.
+
+PRINTING: one solid piece with a flat underside, walls at least 2.5 mm thick, and no overhang more than 45 degrees from vertical, so it prints without supports on a standard FDM printer. A phone up to 85 mm wide and 12 mm thick must fit.
+
+PROCESS: before building, tell me your assumptions about anything the sketch doesn't show, especially the back, and ask if something is unclear. When it's done, give me the printable download, a turntable video, and a list of the parameters with their current values.
+Build 3 — Blender Scene Blockout
+
+What it does: Kimi writes and runs a Blender script that blocks out a rainy neon street with the car, lights and a camera move, then renders clay and lit frames to use as start frames for video.
+
+Run it in: Kimi Code, in an empty folder on a computer with Blender 4 installed. Drop the car reference sheet into the folder as reference.png. No Kimi Code? Ask kimi.ai for the script and run it in Blender → Scripting.
+
+Write and run a Blender 4 Python script that blocks out a cinematic night scene for a car commercial. Save the result as scene.blend and render the frames listed at the end.
+
+SET: a narrow, wet city street at night, 40 m long. Asphalt with puddles, kerbs, two rows of low-poly buildings with lit windows, shop signs as emissive panels in teal and magenta, street lamps every 8 m, a few parked cars as simple blocks, and light rain as a particle system. Keep everything procedural and low-poly: this is a blockout, not final art.
+
+HERO: a sports car in the middle of the street built from primitives (body, cabin, four wheels, headlights and tail lights as emissive strips), 4.5 m long, satin graphite paint. Match its proportions to reference.png in this folder.
+
+LIGHT: cool moonlight key from high left, warm sodium street lamps, the signs bouncing colour onto the wet road, thin volumetric fog.
+
+CAMERA: 35 mm lens, low angle at bumper height, a 5-second slow push-in from 12 m to 6 m in front of the car, 24 fps.
+
+ORGANISE: name every object, put the set, hero, lights and camera in separate collections, and expose street length, rain amount and sign colours as variables at the top of the script.
+
+RENDER: Eevee at 1920x1080. Render frames 1 and 120 twice, once as a flat grey clay pass and once fully lit, and save them as clay_001.png, clay_120.png, lit_001.png and lit_120.png. Look at the renders yourself; if anything is clipping, floating or too dark, fix it and render again.
+Build 4 — Godot Test Track
+
+What it does: Kimi creates a complete Godot 4 project, a drivable sports car on a test track with a chase camera and lap timer, built entirely from code with no imported assets.
+
+Run it in: Kimi Code, in an empty folder on a computer with Godot 4 installed, with reference.png in the folder.
+
+Create a complete Godot 4 project: a drivable third-person test track for a sports car, built entirely from code and primitives so it runs without any imported assets.
+
+TRACK: a closed loop about 600 m long with two long straights, a hairpin and an S-bend, red-and-white kerbs, a start/finish gantry, barriers and low hills around it. Golden-hour sky with long shadows.
+
+CAR: a box-and-cylinder sports car on a VehicleBody3D with four VehicleWheel3D nodes, its proportions matched to reference.png in this folder. Tune it to feel fast but controllable: strong acceleration and braking, steering that gets calmer at high speed, a light drift on the handbrake. A chase camera that lags slightly and pulls back as speed rises.
+
+GAMEPLAY: lap timer, best lap, speedometer, and a reset-to-track key. WASD or arrow keys to drive, Space for handbrake, R to reset, C to switch between chase and bumper camera.
+
+DELIVER: the full project folder, ready to open and play in Godot 4 with no errors. Run it headless once to catch script errors, fix them, then tell me the exact steps to open and play it.
+Stage 4 — From 3D to AI Video
+
+Your builds give Seedance 2.5 exactly what it needs: a fixed shape and a fixed camera move. Seedance adds the realism.
+
+Shot 1 — Studio Hero Orbit
+
+What it does: Re-renders a turntable of the car as a photoreal studio hero shot, keeping the shape and the camera move. Upload a screen recording of the Build 1 site, or a video exported from 3D Make, as the video reference.
+
+Style header: The first sentence of every video prompt locks the look: lens, light, floor and grade. Reuse it word for word in every shot of the same sequence so the clips cut together. There's no music in any prompt on purpose. Keep just engine and ambient sound, and add your own track in the edit.
+
+Photoreal car commercial, 50 mm lens, black studio, one soft overhead light and a warm rim light, glossy black floor with mirror reflections, rich contrast, filmic grade. Use the reference video for the car's exact shape and the camera move. Re-render it as a real satin graphite sports car with orange brake calipers, deep paint reflections, real glass and rubber. The camera keeps the reference's slow orbit, and the headlights switch on halfway through. No text, no logos, no music, only a low engine idle and the soft hum of the studio.
+
+See all
+Copy prompt
+Recreate
+Shot 2 — Exploded-View Reveal
+
+What it does: Animates the car coming apart in mid-air. Use a screenshot of the Build 1 site at 0% explode as the start frame and the same camera preset at 100% as the end frame.
+
+Photoreal car commercial, 50 mm lens, black studio, one soft overhead light and a warm rim light, glossy black floor with mirror reflections, rich contrast, filmic grade. Start on the assembled sports car from the first frame. The car lifts slightly off the floor and slowly comes apart in mid-air: body panels peel away first, then the interior, then the engine, gearbox and suspension separate in clean layers, until every part floats in place exactly as in the last frame. Locked-off camera. Slow, precise, weightless motion, metal parts catching the rim light as they turn. No text, no music, only soft mechanical clicks and air whooshes.
+
+See all
+Copy prompt
+Recreate
+Shot 3 — Blockout to Rainy Night Street
+
+What it does: Turns the lit Blender frame from Build 3 into a finished rainy night shot. Upload lit_001.png as the start frame.
+
+Photoreal night car commercial, 35 mm lens, low angle at bumper height, wet asphalt, teal and magenta neon reflections, warm sodium street lamps, light rain, filmic grade with soft halation. Use the first frame for the layout of the street, the car's position and the lighting. Turn the grey blockout into a real city street and a real satin graphite sports car. The camera pushes in slowly toward the front of the car as the headlights flare on and rain streaks through the beams; the car rolls forward a few metres. No text, no music, only rain, a deep engine rumble and distant city sound.
+
+See all
+Copy prompt
+Recreate
+Ready To Make Your Own?
+
+Start with one object. Make the reference in Nano Banana Pro, let Kimi K3.1 Pro build it in 3D, then film it with Seedance 2.5. Every prompt here is a template: swap the car for your product, your character's ride or your dream room, keep the structure, and the same reference will carry it from the first build to the final shot.

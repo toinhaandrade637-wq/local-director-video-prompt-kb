@@ -1,0 +1,320 @@
+【项目】GRAND HOTEL FÓRMAN. LOBBY Z LAT 30. NAKRĘCONE W MOIM SALONIE（@bartformanai · 创作者博客）
+【链接】https://higgsfield.ai/@bartformanai/blogs/grandhotel
+【提示词块】5
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+GRAND HOTEL FÓRMAN. LOBBY Z LAT 30. NAKRĘCONE W MOIM SALONIE
+B
+bartformanai próbki
+@bartformanai
+34
+0
+0
+
+Portier w pudrowym fraku, wiśniowe lobby, mosiężne lampy i zegar nad głową. Całość nagrałem w małym salonie, na statywie, za zwykłą białą komodą. Lampy to butelki z wodą z filiżankami zamiast abażurów, a dzwonek to ceramiczny kubek. Resztę zbudowało Higgsfield Genjutsu. Niżej masz cały proces: kolejne kroki, ustawienia i prompty, które naprawdę wpisałem.
+
+
+
+
+Zasada jest prosta: gram ja, świat dokłada AI. Genjutsu Motion Transfer bierze z wideo każdy ruch głowy, dłoni i ust, a podmienia pokój, kostium i światło. Dlatego najważniejsza część pracy dzieje się przed kamerą. Prompt tylko opisuje świat, do którego ma trafić to, co zagrałem.
+
+
+
+
+Workflow ma pięć kroków:
+
+
+
+
+Nagrywam scenę w domu, z rekwizytami w miejscach przyszłych przedmiotów.
+Robię kartę postaci portiera, która zamraża twarz, fryzurę i kostium.
+Z klatki nagrania buduję planszę lobby.
+Ożywiam ją w Genjutsu Motion Transfer.
+Dokładam przebitki, czyli zbliżenia na dłonie i przedmioty.
+
+Na planie: biała komoda, butelki z filiżankami, kubek i koło światła na ścianie.
+
+Po Genjutsu: ten sam kadr. Butelki zostały lampami, kubek dzwonkiem, a koło światła zegarem.
+
+Krok 1: Nagranie w salonie
+
+Mój salon jest mały, a w tle był aneks kuchenny. Zamiast budować scenografię, ustawiłem proste rekwizyty dokładnie tam, gdzie w hotelu mają stać prawdziwe przedmioty. Model dostaje z nagrania kształt i położenie. Jeśli lampa ma stać przy mojej lewej dłoni, na planie musi tam coś stać, bo inaczej dłoń „przejdzie” przez pustkę.
+
+Na planie
+
+	
+
+W hotelu
+
+
+
+
+Biała komoda
+
+	
+
+Mahoniowa lada recepcji z mosiężną listwą
+
+
+
+
+Butelki z wodą z odwróconymi filiżankami
+
+	
+
+Mosiężne lampy z plisowanymi różowymi abażurami
+
+
+
+
+Ceramiczny kubek
+
+	
+
+Mosiężny dzwonek recepcyjny
+
+
+
+
+Koło światła z lampy ze spotem
+
+	
+
+Podświetlany zegar ze złotymi cyframi
+
+
+
+
+Zwykły klucz od mieszkania
+
+	
+
+Mosiężny klucz hotelowy z wiśniowym chwostem
+
+Komoda, która gra ladę recepcji.
+
+Podgląd z kamery, czyli kadr, który później idzie do Genjutsu.
+
+Krok 2: Karta postaci portiera
+
+Karta postaci trzyma moją twarz, fryzurę i kostium w każdym ujęciu. Ma trzy panele: kostium z przodu i z tyłu bez głowy oraz portret. Zapisałem ją w Higgsfield jako element @bartgrandhotel i podpinam do każdej planszy i każdej generacji w Genjutsu.
+
+
+
+
+Jedna lekcja z tej karty: opis włosów musi pochodzić ze zdjęć, a nie z wyobraźni modelu. Pierwsza wersja dostała krótkie włosy zaczesane na pomadę. Dopiero po dopisaniu, że są długie, zaczesane do tyłu matową pastą, z lokami na karku i za uszami, karta zaczęła wyglądać jak ja.
+
+Karta postaci @bartgrandhotel.
+
+Referencja: @bartformanai, moja postać zbudowana ze zdjęć twarzy. Format 16:9. Podmień tag na swoją postać.
+
+Three-panel character reference sheet on one seamless canvas, based on @bartformanai — a 1930s grand-hotel concierge. Replicate his face 1:1 from @bartformanai: exact same facial structure, eyes, eyebrows, nose, lips, skin tone and facial hair exactly as in @bartformanai. His hair is long and dark with no grey at all, lightly styled back with a matte styling paste — soft natural hold with visible strand texture, no gloss, no wet look. The hair sweeps back over the crown and sides, and the lower lengths end in soft natural curls at the nape, gently curling behind the ears. Calm confident expression with a hint of a polite smile.
+
+
+
+
+Build: adult man about 180 cm tall and about 85 kg, solid medium build, broad straight shoulders, slight natural chest, waist only moderately narrower than the shoulders, legs about 47% of total height, upright hotel-service posture.
+
+
+
+
+Outfit: tailored double-breasted concierge frock coat in powder-blue wool gabardine, cut to mid-thigh, peak lapels faced in dusty salmon-rose satin, thin mustard-yellow piping along the lapel edges and cuffs, two columns of three polished brass buttons, a small brass key-shaped pin on the left lapel, a folded white cotton pocket square; crisp white cotton shirt with a rounded club collar; mustard-yellow silk tie in a small tight knot; matching powder-blue flat-front trousers with a narrow salmon-rose stripe down the outer seam, pressed crease, hem just touching the shoe; black polished leather cap-toe oxford shoes. No watch, no rings, no glasses, no hat.
+
+
+
+
+Panel layout, left to right:
+
+LEFT — full-body FRONT view of the outfit, headless: no head, no hair and no face visible above the collar, the collar sitting empty and open at the top of the garment (ghost-mannequin style). Weight on one leg, one arm slightly away from the body so the coat's cut and button columns read clearly.
+
+CENTER — full-body BACK view of the outfit, headless: no head, no hair and no face visible above the collar, the collar sitting empty and open at the top of the garment (ghost-mannequin style). Shows the back vent, seams and trouser stripe.
+
+RIGHT — tight close-up portrait of his face, neck and shoulders only, looking straight into camera, face identical 1:1 to @bartformanai. His long dark hair is lightly swept back with matte paste, soft textured strands, the curled ends visible at the nape and gently curling behind both ears; white club collar and mustard tie visible. No headwear, no helmet, no hat, no mask anywhere in this panel — not worn, not held, not resting nearby.
+
+
+
+
+Identical outfit, proportions and lighting across all three panels. Clean dark-grey studio background, soft even softbox lighting from high camera-left with a soft white bounce filling camera-right, subtle contact shadow on the floor under each figure, thin divider lines between panels. Photoreal, 8K, natural skin texture, organic color, soft contrast, fine organic film grain at very low intensity.
+
+
+
+
+Skin: pore-level realism confined to the face only — fine pores, vellus hair and capillary warmth on the cheeks, nose and forehead. The neck, hands and wrists render as smooth firm taut skin with an even tone and no visible pore texture, no mottling, no crepe, no slack.
+
+
+
+
+No text, no watermarks, no size tags, no grid lines, no measurement marks, no logos, no readable lettering of any kind.
+
+
+
+
+16:9 aspect ratio.
+
+See all
+Copy prompt
+Recreate
+Krok 3: Plansza lobby z klatki nagrania
+
+Wycinam z nagrania jedną ostrą klatkę i na niej buduję hotel. Dzięki temu kadr, wysokość kamery i moja poza są takie same jak w wideo. Pierwszą wersję lobby zrobiłem w pistacjowej zieleni, dla porównania wygenerowałem wiśniową i przy niej zostałem.
+
+
+
+
+Przy kolejnych scenach dokładam jako drugą referencję zatwierdzoną planszę. Model ustawia wtedy lobby pod nowy kadr, ale zachowuje ten sam projekt: zegar, przegródki z kluczami, lampy i ladę.
+
+
+
+
+Kiedy nowa plansza, a kiedy ta sama
+Ten sam statyw, obiektyw i wysokość: ta sama plansza.
+Inna ogniskowa, wysokość albo kąt, nawet niewielka zmiana: nowa plansza z klatki tego ujęcia plus stara jako wzór wyglądu.
+Przebitki i zbliżenia: zawsze osobna plansza (krok 5).
+
+
+
+
+Zanim odpalę wideo, sprawdzam, czy lampy stoją dokładnie na butelkach, a zegar na kole światła. Nowa plansza kosztuje 2 kredyty. Nieudany przebieg Genjutsu kosztuje wielokrotnie więcej.
+
+Klatka z nagrania sceny z kluczem, czyli @image1.
+
+Gotowa plansza, Nano Banana Pro.
+
+Referencje w kolejności wgrywania: @image1 klatka z nagrania, @image2 zatwierdzona plansza lobby, @bartgrandhotel karta postaci. Model: Nano Banana Pro, 16:9.
+
+Photoreal cinematic film still of a 1930s grand-hotel lobby in deep raspberry and crimson tones, emphatically symmetrical one-point-perspective composition. Exactly the same camera position, camera height, lens, perspective and framing as @Image 1: a level camera facing the reception counter squarely, the counter top running across the lower third of the frame. The man from @bartgrandhotel stands behind the counter in exactly the pose of @Image 1: leaning forward on his forearms, hands loosely clasped at the centre of the counter top, head slightly tilted, looking straight into the lens. Keep his identity exactly: long dark hair swept back with matte paste, soft curls at the nape curling behind the ears, no grey hair, full dark beard on the chin. He wears his concierge uniform from @bartgrandhotel: powder-blue double-breasted jacket with pink satin lapels trimmed in thin gold piping, white shirt, mustard-gold tie, small gold key pin on the lapel. The interior has exactly the same design, materials and colours as @Image 2: raspberry panelled walls, pigeonhole key cabinets with brass keys on both sides, the polished reception counter with its brass edge rail and raspberry front panel. A large round clock face with gold numerals sits on the wall exactly where the round disc of light is in @Image 1, its hands still. Two brass table lamps with pleated pink silk shades stand exactly where the two bottles stand in @Image 1, and a small brass service bell stands exactly where the cup stands in @Image 1. An ornate antique brass room key with a crimson silk tassel lies flat on the counter exactly where the small key lies in @Image 1. Warm practical light from the lamps, soft frontal fill, gentle film grain. Only one person, no text.
+
+See all
+Copy prompt
+Recreate
+Krok 4: Ożywienie w Genjutsu
+
+Tu znika salon. Moje nagranie steruje każdym ruchem, a obrazy ustawiają świat, twarz i kostium.
+
+
+
+
+Otwórz Create Video → Higgsfield Genjutsu i wybierz Motion transfer. Objects swap się tu nie nadaje, bo podmienia jeden obiekt albo ubranie, a tło zostawia z salonu.
+Wgraj nagranie w pole wideo. Genjutsu przyjmuje klipy od 4 do 30 sekund.
+W polu Add your characters, products, or clothes dodaj planszę z kroku 3 i kartę postaci. Kolejność wgrywania to numeracja: pierwszy plik to @image1.
+Włącz Prompt i wklej opis poniżej.
+Model: Higgsfield Genjutsu Lite na próby, pełne Genjutsu na finał, jeśli Lite nie wystarczy.
+Quality: 720p na szkic, 1080p na finał. Kliknij Generate.
+
+Panel Genjutsu z wgranym nagraniem.
+
+Zostaje z nagrania
+
+	
+
+Buduje Genjutsu
+
+
+
+
+Każdy ruch głowy, mrugnięcie i spojrzenie
+
+	
+
+Lobby, ladę, lampy, zegar
+
+
+
+
+Gesty dłoni, podniesienie klucza, uderzenie w dzwonek
+
+	
+
+Kostium portiera i fryzurę z karty
+
+
+
+
+Timing i ruch ust, oryginalny dźwięk
+
+	
+
+Światło lamp reagujące na dłonie
+
+
+
+
+Referencje: @image1 plansza lobby, @bartgrandhotel karta postaci. Wideo: nagranie sceny z kluczem, 11 s.
+
+@bartgrandhotel performs exactly the motion, gestures and lip movement of the video behind the reception counter of @Image 1, lifting and showing the brass key with the crimson tassel, then pressing the brass bell; everything in @Image 1 stays in place and the clock hands stay still.
+
+Copy prompt
+Recreate
+
+Prompt do Genjutsu jest celowo krótki, jedno albo dwa zdania. Wygląd niosą referencje, a ruch nagranie. Dopisuję tylko to, co model łatwo pomyli: tu klucz, dzwonek i nieruchome wskazówki zegara.
+
+
+
+
+Ile to kosztuje
+
+Model
+
+	
+
+1080p, 4 s
+
+
+
+
+Higgsfield Genjutsu Lite
+
+	
+
+16 kredytów
+
+
+
+
+Higgsfield Genjutsu
+
+	
+
+80 kredytów
+
+
+
+
+Wszystkie próby robię na Lite. Cenę widać na przycisku Generate, zanim cokolwiek się wygeneruje.
+
+Góra: nagranie z salonu. Dół: wynik Genjutsu Lite.
+
+Krok 5: Przebitka z kluczem
+
+Zbliżenie to zupełnie inny kadr, więc dostaje własną planszę, robioną od zera. Jedyną referencją jest klatka z nagrania. Nie podpinam karty postaci ani szerokiej planszy lobby. Przy wcześniejszym zbliżeniu na księgę oba te obrazy sprawiały, że model za każdym razem dorysowywał mnie w całości. Ladę i rękawy opisuję tekstem, tak żeby pasowały do planu ogólnego.
+
+Klatka ze zbliżenia, czyli @image1.
+
+Plansza zbliżenia, Nano Banana Pro.
+
+Referencje: tylko @image1, klatka ze zbliżenia. Model: Nano Banana Pro, 16:9.
+
+Photoreal cinematic close-up film still of the reception counter of a 1930s grand hotel decorated in deep raspberry and crimson tones. Exactly the same camera position, height, downward angle, lens, focus plane, shallow depth of field and framing as @Image 1: a high camera looking down onto the counter top, the far edge of the counter near the top of the frame and the front edge running across the lower third, with the front panel of the counter visible below it. Replace the furniture from @Image 1 completely: the counter top is richly polished dark mahogany with a fine visible grain and deep warm reflections, finished along its front edge with a slim polished brass rail, and the front panel below the edge is glossy raspberry lacquer with a thin gold inlay line. Exactly two hands of one man, in exactly the same positions, finger poses and spacing as the two hands in @Image 1: the hand that touches the key in @Image 1 presses an ornate antique brass hotel room key flat onto the counter with its fingertips, exactly where the small key lies in @Image 1, and the other hand rests flat on the counter exactly where it rests in @Image 1. Only the hands and the very ends of the sleeves are visible, no face, no body, no third hand. The sleeves are a powder-blue wool concierge jacket with pink satin cuffs trimmed with thin gold piping, with white shirt cuffs just showing. The key has an ornate looped bow, a long shank and a crimson silk tassel ending in a small plain oval brass fob. Beyond the far edge of the counter, the background falls into soft out-of-focus raspberry panelled wall with warm glowing bokeh from a brass table lamp. Warm lamp light from the side, soft reflections in the polished wood, a faint crimson bounce, fine film grain. No other people, no text.
+
+See all
+Copy prompt
+Recreate
+
+Genjutsu, Motion transfer. Referencje: tylko plansza zbliżenia jako @image1. Wideo: nagranie zbliżenia, 4,5 s.
+
+The hands and powder-blue sleeves from @Image 1 perform exactly the hand motion of the video on the polished mahogany counter of @Image 1: sliding the brass room key with the crimson tassel and brass fob toward the camera, then letting go and withdrawing; only two hands visible, the tassel and fob dragging naturally behind the key.
+
+Copy prompt
+Recreate
+
+Scena powitania, Genjutsu Lite 720p. Cienie na abażurach reagują na podniesione ręce.
+
+
+
+
+
+
+
+Jeśli coś nie działa u Ciebie, napisz do mnie na Instagramie @bartformanai. Chętnie zobaczę, co zbudujesz w swoim mieszkaniu.

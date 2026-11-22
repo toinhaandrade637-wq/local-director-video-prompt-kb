@@ -1,0 +1,82 @@
+【项目】Inside Higgsfield #1: How We Built Cinema Studio（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/how-we-built-cinema-studio
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Inside Higgsfield #1: How We Built Cinema Studio
+Higgsfield
+Aug 13, 2026
+10 min
+
+“Stories about how we build our products, told by the people who create them.”
+
+Cinema Studio is Higgsfield's AI filmmaking tool: an original interface with cameras, optics, and focal lengths, curated by a former director of photography and built on top of interchangeable video models. It was made by a team that includes around 200 people from the film industry. Five versions shipped in the first six months. Here is how it happened, from the inside.
+
+It all started with a kangaroo
+
+In November 2025, an image model came out that changed the market. Releases like that trigger a standard procedure here: the entire creative team tests the model to understand what it can do and where to apply it. Sula, one of our creatives, was doing exactly that when he noticed that everyone around him was generating in 3:4 and 4:3.
+
+"I'm scrolling Twitter, where all the creators live, and nobody is generating in 21:9 at all," he says, so he tried it, built a frame in the cinema format and animated it. The picture came out noticeably different, richer and more cinematic, and to see how far it went he started writing the names of real cameras into his prompts. To his surprise, it worked.
+
+By lunchtime there was a finished clip: a kangaroo squaring up for a fight inside an octagon. It passed a million views in a couple of days. When the team first saw it, there was no doubt about what to do next. This had to become a product, and urgently. The only problem was that nobody else could reproduce it.
+
+"I tried what I thought was the exact same thing," says Axultan, our product lead, "and what I got was slop." So the prompt engineers took Sula's prompts apart line by line, and found them unusually heavy with technical terms, not about the scene or the story but about cameras, optics, and light. One word in particular kept coming up, and Axultan laughs that he didn't even know, at the time, that it was a camera brand.
+
+Top models train on enormous volumes of video, decades of cinema included, so the cinematic visual language is already inside them; a prompt naming a specific camera and lens lands more precisely than asking, in ordinary words, for something beautiful. Sula didn't invent the magic. He found the right way to reach it.
+
+That is the whole idea behind Cinema Studio. Instead of describing a look in words, you build the frame the way a cinematographer would, picking a camera, mounting a lens, setting the focal length, with the knowledge that makes those choices work already baked in underneath. And when it came time to actually build that, we had an advantage most companies don't.
+
+The 200 people you don't see
+
+Film was always part of Higgsfield. Long before Cinema Studio, we were hiring people from the film industry – directors, cinematographers and editors, and today the creative team is around 200 people. So the question of how an ordinary person could learn to speak like a cinematographer never went off to research studies and surveys; we worked it out internally, with the people who speak that language every day. Most of that work went into a part of the product no user would ever notice.
+
+Out of everything a cinematographer touches on set – the cameras, optics, light, filters and movement, the first version kept three settings: camera, lens, and focal length. Everything else was cut, and deciding what to cut was harder than it sounds, because working out what a person genuinely needs takes far longer than listing everything they might want. That job fell to Danil Kim, our creative team lead, who spent years as a director of photography and, before Higgsfield, used to deliver camera equipment to real film sets. He didn't choose the cameras in the pool from a catalog.
+
+"I didn't trust only myself," Danil says, and the way he worked shows it. Together with the prompt engineers, he ran combinations of cameras and optics through the model and reviewed the results, then sent the footage to working camera operators he knew and asked them directly: does this look AI to you? Whatever failed that check was out, and some of what failed were legendary lenses whose names carried real weight, dropped the moment the model couldn't reproduce their effect.
+
+Then came the harder part. Early on, nearly every lens looked the same in generation, which is a problem for a product whose entire premise is that the choice of lens matters. A cinematographer picks a specific lens for a specific feeling, and that feeling wasn't coming through.
+
+So the team went through the lenses one at a time, pulled the character out of each piece of glass, and amplified it, in places exaggerated it, until the difference was visible and choosing one lens over another changed the shot. "Obviously it's not the same as shooting on a real camera and real optics," Danil says. "So we looked for each lens's character, and we amplified it." No one who uses Cinema Studio will ever know that a lens was tuned by hand, and that is exactly the outcome we wanted.
+
+Around those settings, two more people built the parts you actually touch. Assylzhan, our product designer, put them into a switcher: open the camera picker, roll the wheel, match a lens to the camera and a focal length to the lens. It was built to feel like loading a real rig, and it does.
+
+Kuanysh, a software engineer, built tracing, so the settings and metadata of a generation are saved and travel with the image; drop that frame in as the start of a video and the whole look carries over. With help from film-industry operators, we then added camera movement and slow motion, defining how the camera should move within each frame.
+
+That’s how the first version of Cinema Studio shipped on December 18, 2025.
+
+The version we'd take back
+
+Nobody planned to stop at the first version. Version 1.5 came quickly, adding aperture as a fourth core control alongside a set of recommended camera presets. Then, in versions 2 and 2.5, we added Elements, 3D Scene, Character Motions, locations, and Soul Cinema, moving the product from a single strong frame toward whole scenes. The rhythm was steady, right up until April, when the market lost its mind.
+
+A new state-of-the-art video model came out, and the entire industry rushed to integrate it at once, everyone wanting the maximum out of it and preferably by yesterday. Our 3.0 release landed right at the start of that chaos. We knew it wouldn't go smoothly, and we decided to ship anyway; and it didn't go smoothly. Given how we rolled it out, 3.0 became the most turbulent release in the product's history, and we didn't like some of those decisions afterward. Once we saw how 3.0 had landed, we did not spend much time trying to defend it; the team went back to work and started building a better version.
+
+The only real answer to a rough release, though, is a better version, and the reason we could build one fast is the work we had banked months earlier. The cameras, the lenses, the character of the glass, everything Danil had pulled out of generations, none of it was welded to a particular model. The core model underneath changed, and the craft stayed exactly where it was, which is why version 3.5 shipped just ten days after 3.0, open to everyone, without a single preset breaking. Those ten days meant 3 a.m. syncs with the team and coffee at ten, though that was not far from an ordinary week for us. It was simply the work.
+
+From a frame to a film
+
+Version 3.5 gathered everything the team had learned in those months, and almost every change in it grew out of a single fact: the new model could generate long scenes made of several shots.
+
+In a multishot like that, one continuous camera movement no longer covered anything, so camera control had to move up a level; now you choose a genre, and the camera moves the way that genre moves, cutting like action or holding like drama. The same fact produced video-first generation, because if the model can carry a full scene, there is no reason to make a still and then animate it. You set the camera, lens, focal length, and aperture, and shoot straight to video.
+
+The person behind much of this is Sabatovsky, an R&D prompt engineer who thinks about the product through the person using it. People come in with prompts that are three words long or physically impossible; his favorite is "generate me a 50-shot battle scene in 15 seconds." The enhancer he builds exists for one outcome: "You come in, you don't strain yourself much, and you get something delicious on the first batch. Fourth at worst." Without it, a user burns credits iterating blindly.
+
+That philosophy grew, in 3.5, from a frame to a whole film, which is how projects appeared. They work the way a shoot does, where a cinematographer settles on an equipment package before production and carries it through the film; start a project, a 90s action movie or a western, and the light, optics, and tempo hold across every generation inside it, so the style is chosen once.
+
+The one thing we didn't remove was the old versions. The plan had been to retire them as new ones shipped, but users asked to keep generating on 2.5, and that request, brought in by Gani, who leads our Discord community, is why version selection lives inside the tool today. Somewhere in that release, Cinema Studio stopped being a generator of nice frames and became a system for making films, with work created through it now featured in Higgsfield Originals.
+
+What we're actually betting on
+
+As Cinema Studio evolved, the question changed to “What kind of cinema could people make with it?”
+
+Ask Axultan which director he'd want on the next version, and the person who nine months earlier didn't recognize a camera brand answers without a pause: Nolan. "I think we approach creation in a similar way." Then he adds Damien Chazelle: "He makes very alive films. Useful experience for us, how to make the living out of the lifeless," he laughs. On the question that hangs over the whole industry, whether we've built a tool that kills art, his answer has been ready a while.
+
+"We didn't kill art. We changed who gets the right to make it. Making a film has always meant commanding serious capital, cameras, crews, distribution, and the gatekeeping in cinema was never creative. It was financial." Models and compute cost money too, he grants, but the gap between a studio and one person shrinks every year, and asked whether we'll one day watch only AI films, he thinks the question won't survive the decade. "The tools become invisible. We stop noticing where the AI was, the way we stopped noticing whether something was shot on film or digital. Every time the cost of creation drops, there is more art, not less. There'll be a huge wave. Most of it forgotten. The best of it made by people we haven't heard of yet."
+
+Nobody on the team thinks everyone is about to become a director. The bet is quieter: one person, with taste and patience and a tool that speaks the language of cinema, makes a genuinely good film start to finish. With every version, Cinema Studio has brought that possibility closer, moving from a kangaroo generated at five in the morning to a complete filmmaking system.
+
+Closing that gap also meant taking more of the technical work off the filmmaker. AI Director, introduced in 3.5, began doing exactly that. It eventually outgrew Cinema Studio and became a separate product: Supercomputer. And that is the next Inside Higgsfield story.
+
+INSIDE HIGGSFIELD #1: HOW WE BUILT CINEMA STUDIO
+Try Cinema Studio

@@ -1,0 +1,222 @@
+【项目】Meet Higgsfield Unlimited MCP: How It Works and What You Get（官方博客 · 旧库补全批次）
+【链接】https://higgsfield.ai/zh/blog/unlimited-mcp
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·旧库补全）
+
+──────────────────────────────────────
+
+Meet Higgsfield Unlimited MCP: How It Works and What You Get
+Higgsfield
+Jul 29, 2026
+8 min
+
+Higgsfield just launched Unlimited access for MCP, and it's the first time unlimited generation has worked directly inside Claude and ChatGPT rather than only on the web. New users can claim a free 24-hour trial until July 31. Here's how it works, which models are included, what's worth knowing before you start generating, and exactly how to connect it.
+
+How Unlimited MCP Works and What Models Are Included
+
+Once activated, the trial unlocks unlimited generation across eleven image models, five audio models, and seven video models, usable both on the web platform and directly inside Claude or ChatGPT through MCP. The generation itself works the same way it always has, you describe what you want, the model produces it, the only difference is that nothing gets deducted from your credit balance for the length of the trial.
+
+Resolution and duration vary by model. Images generally cap at 2K. Video runs shorter, most clips landing around 7 to 8 seconds, at either 1080p or an unspecified resolution. Audio is the one category with a real gap between surfaces: unlimited audio generation works on the web and through Claude, but not through ChatGPT, only image and video do there. And regardless of what you're creating or which surface you're on, Unlimited runs one generation at a time by design, image, video, or audio, rather than several running in parallel, which is part of how the trial stays free for every model included.
+
+This is different from the two Unlimited offers that already existed: All Unlimited on paid plans, Plus and above, and the Unlimited Models Marketplace bundle. Those were both web-only and stay that way, on the same terms as before, untouched by this launch. Neither one ever included MCP. What's actually new here is Claude and ChatGPT entering the picture for the first time, that's the real story, not unlimited generation itself, which has been available on the web for a while already.
+
+How Unlimited MCP Works and What Models Are Included
+
+Category
+
+	
+
+Models
+
+	
+
+Specs
+
+	
+
+Availability
+
+
+
+
+Image
+
+	
+
+Seedream 5.0 Pro, Seedream 5.0 Lite, Seedream 4.5, Nano Banana Pro, Nano Banana 2, Nano Banana, Kling O1 Image, GPT Image 2, GPT Image (High), Soul 2.0, Flux.2 Pro
+
+	
+
+Up to 2K
+
+	
+
+Web, Claude, ChatGPT
+
+
+
+
+Audio
+
+	
+
+Seed Audio 1.0, Eleven v3, MiniMax Speech 2.8 HD, VibeVoice, Seed Speech
+
+	
+
+n/a
+
+	
+
+Web, Claude
+
+
+
+
+Video
+
+	
+
+Seedance 2.0
+
+	
+
+1080p, 8 sec
+
+	
+
+Web, Claude, ChatGPT
+
+
+
+
+Video
+
+	
+
+Seedance 2.0 Mini
+
+	
+
+8 sec
+
+	
+
+Web, Claude, ChatGPT
+
+
+
+
+Video
+
+	
+
+Seedance 2.0 Fast
+
+	
+
+8 sec
+
+	
+
+Web, Claude, ChatGPT
+
+
+
+
+Video
+
+	
+
+Kling 3.0
+
+	
+
+1080p, 8 sec
+
+	
+
+Web, Claude, ChatGPT
+
+
+
+
+Video
+
+	
+
+Kling 3.0 Motion Control
+
+	
+
+1080p, 8 sec
+
+	
+
+Web, Claude, ChatGPT
+
+
+
+
+Video
+
+	
+
+Wan 2.7
+
+	
+
+1080p, 8 sec
+
+	
+
+Web, Claude, ChatGPT
+
+
+
+
+Video
+
+	
+
+Gemini Omni Flash
+
+	
+
+7 sec
+
+	
+
+Web, Claude, ChatGPT
+
+Eleven models cover the image side alone, spanning several different generation styles from Seedream's photorealism to Nano Banana's stylized output to Soul 2.0 for character-consistent generation, plus GPT Image and Flux.2 Pro for general-purpose work and Kling O1 Image for its own distinct look. The five audio models cover voice generation and speech synthesis, from Eleven v3 to MiniMax Speech and VibeVoice, giving you a real choice of voice character rather than one default option. The seven video models range from Seedance 2.0's standard tier through its Mini and Fast variants, each trading some capability for speed, up to Kling 3.0 and its Motion Control variant for more deliberate camera and movement direction, Wan 2.7, and Gemini Omni Flash, each with its own resolution and duration ceiling as shown above.
+
+The practical upshot of having this many models included rather than just one or two: the trial isn't really built around testing a single generation type, it's built around testing whether unlimited access across a whole stack changes how you'd actually use Higgsfield day to day. Twenty-four hours across eleven image models and seven video models is enough room to compare a few different approaches to the same brief rather than committing to one model before you've actually seen what the alternatives produce.
+
+How to Connect Higgsfield to Claude or ChatGPT
+
+Setting this up takes a few minutes on either assistant, and it's a one-time process.
+
+Connecting to Claude: copy the connector URL, https://mcp.higgsfield.ai/mcp. In Claude desktop or claude.ai, go to Customize → Connectors, add a new connector, name it Higgsfield, and paste the URL in. Connect, sign in with your Higgsfield account, and ask Claude to generate an image or video the same way you'd ask for anything else in a normal conversation.
+
+Connecting to ChatGPT: find Higgsfield in the Plugins Directory and add it to your account. Sign in with your Higgsfield account, then ask ChatGPT to generate an image or video. Worth remembering here: audio isn't part of this connection, only image and video generation work through ChatGPT specifically.
+
+Activating the trial itself: connecting MCP and activating the trial are two separate steps, having the connector installed doesn't automatically start the trial. Once MCP is connected on either assistant, accept the trial offer that appears and add your card details. Nothing is charged that day, the card is only there in case the trial converts into a paid plan later without you cancelling first.
+
+Cancellation, Renewal, and Upgrading
+Cancel auto-renewal any time during the trial by sending "I want to cancel the trial" directly in the Claude or ChatGPT chat, or on the web through Manage Account → Subscription → Cancel auto-renewal, whichever is easier for you.
+If you don't cancel, the trial converts into a Plus monthly plan automatically once the 24 hours are up, with no separate confirmation needed on your end.
+Cancelling doesn't shorten the trial in any way. You keep full unlimited access through the end of the 24-hour period regardless of exactly when during that window you cancel.
+Want to upgrade before the trial even ends? That's just as simple, you can do it directly through Claude or ChatGPT in the same conversation, or from the Pricing page on the web if you'd rather compare plans first.
+Why This Trial Is Worth Claiming Now
+
+Unlimited generation on Higgsfield has been available on the web. What's genuinely new is that it now works the same way inside Claude and ChatGPT too, so generating an image, a voiceover, or a video clip can happen right inside a conversation you're already having, without switching tabs or opening a separate app to go find the right tool. That's the actual shift here, not unlimited access itself, but where you're able to use it.
+
+The mechanics stay simple on purpose. Eleven image models, five audio models, seven video models, all included in one 24-hour window, free to activate, with the one real asterisk being that audio only works through the web and Claude, not ChatGPT. Connecting takes a few minutes on either assistant: copy the URL, add the connector, sign in, and you're generating. Activating the trial is just as straightforward, accept the offer, add a card that won't be charged that day, and the clock starts.
+
+What you do with those 24 hours is the actual test. It's enough room to compare a few models against the same brief rather than committing to one before seeing what the alternatives produce, and enough time to find out whether generating from inside Claude or ChatGPT changes your workflow in a way the web interface never did. If it does, upgrading is one message away in the same chat, or a click away on the Pricing page. If it doesn't, cancelling is just as easy, one line in the chat or one click in account settings, and you keep everything through the end of the trial regardless of when you cancel.
+
+The offer runs until July 31. For new users, especially anyone who already spends most of their day inside Claude or ChatGPT rather than a browser tab, this is the version of Higgsfield's unlimited access that was missing until now.
+
+MEET HIGGSFIELD UNLIMITED MCP: HOW IT WORKS AND WHAT YOU GET
+Connect MCP

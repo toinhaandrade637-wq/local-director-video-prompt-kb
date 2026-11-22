@@ -1,0 +1,112 @@
+【项目】UNPROMPTED / A world of obsolete generations（@shestak · 社区项目）
+【链接】https://higgsfield.ai/zh/@shestak/projects/unprompted
+【数据】计数未取到（见项目页）
+【捕获】2026-10-28（浏览器"项目简报"面板）
+
+──────────────────────────────────────
+
+Everything that gets rejected has to go somewhere.
+
+
+
+
+UNPROMPTED is a wordless horror set in the dimension where discarded output collects. Every prompt that was refused, every generation that came out wrong, every frame deleted before anyone saw it. None of it disappears. It settles. And over time enough of it accumulated to become a place, populated by the beings the models of 2015 to 2023 left behind.
+
+This world runs on its own physics. Hands grow the wrong number of fingers. These are not defects here. They are the laws, and everyone living under them obeys without question.
+
+Nothing in this film was recorded. You have never heard a place that sounds like this, because no place does.
+
+No dialogue. No explanation. This is not a film that uses AI to look like other films. It goes the other way, all the way down into what generative models actually are, and comes back with something that does not behave like cinema is supposed to behave.
+
+So I go the other way — I take current models and make them reproduce what they were trained out of. I make them interact with the old ones.
+
+Are you ready for that?
+
+
+
+Film still. Extreme wide, locked-off, eye level. A palace corridor runs away from the camera and stops being finished: the far third of the frame loses structure — the moulding smears into flat unresolved paste, the floor pattern gives up and becomes an even blur, the far wall is not a wall but unpainted canvas where the world has not been drawn yet. The boundary is not a line but a gradient of decreasing detail. Two chairs stand near the transition, one fully rendered, the other reduced to a soft brown mass with a suggestion of legs. Light: overcast daylight from a window behind the camera, flat and directionless, no fill, underexposed by half a stop; the unfinished zone holds no shadows at all because nothing there casts. Dye-density color: dominant bone grey-white, one cutting accent of muddy umber in the dissolving furniture, matte. Underexposed 16mm, uncoated lens, low microcontrast, living grain that continues evenly across both the finished and unfinished areas, film weave. No text, no people, no vignette framing of the blur, no lens-blur look, no HDR.
+
+查看全部
+复制提示词
+重新创作
+
+
+
+
+✨ Context
+
+This film exists only because AI exists. No other technology could reproduce the authenticity of AI from inside AI itself — everything else would be an impression of it, a set built to resemble a glitch. Here the glitch is not depicted. It is generated, by the same class of system that produced the original failures.
+
+The project climbs into the guts of the machine to understand how it is built. Not as critique, not as celebration — as examination. What does a generative model actually contain, underneath the polish it has learned to apply? What did it look like before it got good, and where did all of that go?
+
+The form matches the subject. Current models are used to reconstruct the failures of their predecessors. A film about the place where discarded generations end up is itself made of generation.
+
+
+
+
+
+
+🎭 Narrative
+
+No dialogue. No voiceover. No opening crawl explaining the world. Nothing is clarified for the viewer, because the world is the content. Dread comes from deviation and duration, not from events. There are no jump scares.
+
+The idea underneath it: a precise prompt makes you a prisoner of your role, a vague one gives you freedom and defect at the same time. Here those are the same thing.
+
+Three audiences, each entering through a different door:
+
+Horror. Slow, wordless, atmospheric. A world with rules that are never explained but never broken — which is where the fear comes from.
+
+AI. Anyone who has spent time generating will name every artifact on sight and recognise which era each one belongs to. For them the film is a catalogue of things they personally tried to prompt away.
+
+Cinema. The project examines what a film is at all, and what it becomes when a machine makes it. Not AI used to imitate cinema, but cinema interrogated through AI.
+
+🎨 Visuals
+
+Written against default AI beauty: no teal-orange, no HDR crispness, no golden hour, no glossy skin, no hero centre-frame composition. Those are the reflexes of a model trained on advertising, and every prompt in this project is built to break them rather than hope the model understands the mood.
+
+
+
+
+
+
+
+🎬 Production
+
+Made by one person.
+
+The method is expressionist: a feeling exists first, then an image is built to enlarge it. AI is not used here to save money or to replace a crew — it is used because it is the only instrument that responds to a sensation rather than to a budget. The pipeline is fully generative, image and sound alike. Nothing was recorded.
+
+Sound is diegetic. Room tone loops carry a deliberately audible splice seam at a fixed second, and the seam moves between passes — the world reassembling itself while you listen.
+
+Six locations have finished camera passports: the enfilade, the banquet hall, the winter garden, the material-transition space, the mirror hall, and the edge of the world. Spaces are generated from every architecture the models were fed — palaces, cathedrals, airports, apartments — and are permitted to flow into one another mid-shot.
+
+The tooling is deliberately overloaded. Most work with these models uses a handful of reference images; here every available reference slot is filled — dozens per frame, pushed to the ceiling of what the system accepts. This is not thoroughness for its own sake. Feed a model a few clean references and it obediently interpolates between them. Fill it to capacity with conflicting material and it stops interpolating and starts colliding: architectures that do not belong together fuse, eras bleed into one another, surfaces inherit properties from things that were never in the same room. That collision is the world. The abstraction this film needs cannot be described in words — it has to be produced by giving the machine more than it can reconcile.
+
+
+
+Film still. Extreme wide, locked-off, eye level, dead center down the nave of a gothic cathedral, empty. Twenty metres in, without a wall or a door, the building becomes an airport departure gate: the stone piers thin into steel columns mid-height, the ribbed vault flattens into a corrugated metal ceiling, the flagstone floor turns to grey terrazzo mid-slab with the stone joint continuing across both materials. Rows of joined blue vinyl gate seating stand in the far half, all facing the altar. Nobody is present. A hanging departure board shows rows of pseudo-alphabetic characters that never resolve into words, but the times beside them are legible numerals and every row reads 10:10.
+
+One shaft of cold daylight from a high clerestory window falls across the transition line; the gate area has no working ceiling light and sinks into dense smoky shadow. No fill. Local clipping in the window. Dye-density color: dominant cold stone grey, one cutting accent of dead cobalt blue in the seating, matte, heavy muted midtones.
+
+Shot on Super 16mm, 500-speed tungsten negative exposed in daylight without correction and pushed one stop, hand-processed and printed dark: coarse living grain thicker in the shadows and boiling slightly, uncorrected cool cast, visible film weave, occasional print flicker. Lens: a single-coated 1960s cine prime, 21mm, at T2.8 — low microcontrast, heavy veiling glare washing down from the clerestory, halation around the window edge, spherical softness that keeps edge structure, chromatic fringing in the corners, mild field curvature. Focus set once at 7 metres and never touched. Camera locked off on a tripod at 1.55 metres, no movement, one take. Underexposed by one stop, no fill.
+
+No readable words, no logos, no people, no fluorescent glare, no gloss, no HDR.
+
+查看全部
+复制提示词
+重新创作
+
+
+
+
+🚀 Status
+
+Current progress, blockers, and next steps.
+
+🔗 Resources
+
+Script, moodboard, storyboard, schedule, and assets.
+
+📝 Notes
+
+Key decisions, updates, and project history.

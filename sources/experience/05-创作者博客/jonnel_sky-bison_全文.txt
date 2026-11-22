@@ -1,0 +1,633 @@
+【项目】YIP YIP: FLY ABOVE THE CLOUDS ON YOUR OWN SKY BISON（@jonnel · 创作者博客）
+【链接】https://higgsfield.ai/@jonnel/blogs/sky-bison
+【提示词块】10
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+YIP YIP: FLY ABOVE THE CLOUDS ON YOUR OWN SKY BISON
+Jonnel Cayabyab
+@jonnel
+54
+0
+0
+
+Here's exactly how I made it, shot by shot, with every prompt I used. The quick version, where you put yourself straight into my finished video with one selfie, is coming to this page soon.
+
+What you need
+A clear, unfiltered selfie and a full-body photo of yourself
+GPT Image 2.5 for the two reference images and Seedance 2.5 for the videos, all on Higgsfield
+Step 1: Make your character sheet
+
+This keeps you looking like you in every shot. Add your selfie as @Image1 and a full-body photo as @Image2. I'm a firebender on my page, so I'm riding in my oxblood firebender jacket instead of airbender robes. Make a few and pick the one that looks most like you.
+
+References in order: @Image 1 your real selfie (face and hair), @Image 2 a real full-body photo of you (build and proportions only). Use unfiltered photos.
+
+
+
+
+A two-panel character reference sheet photographed like a real wardrobe fitting, on a plain mid-grey paper backdrop in soft, flat, overcast window daylight. No studio key light, no rim light, no dramatic shadows. Natural skin texture, real fabric. Exactly two views of the same person, nothing else on the sheet: no text, no labels, no colour swatches, no extra heads.
+
+LEFT PANEL (about 40% of the width): full body, standing relaxed at a three-quarter angle, feet fully visible on the floor, arms loose, weight slightly on one leg.
+
+RIGHT PANEL (about 60% of the width): a large three-quarter face close-up from mid-chest up, head turned slightly, chin slightly lowered, direct eye contact with the camera, calm natural expression, lips closed.
+
+
+
+
+YOU: exactly the person in reference image 1. Keep their real face exactly as in the photo: face shape, nose, eyes, brows, lips, jaw, skin tone and any moles or marks where they are. Their real hair, exactly as in the photo.
+
+BUILD: match reference image 2 exactly for visible build, height and proportions. Do not add muscle and do not make them slimmer, taller or shorter than the photo.
+
+
+
+
+COSTUME (modern designer streetwear from a world where fire-people wear black, deep red and gold; real clothes you could buy):
+
+- A deep oxblood-red heavyweight cotton-twill overshirt jacket, slightly oversized, with a short stand-up mandarin collar and an asymmetric diagonal wrap front that fastens at the right side with three small matte brass toggles. A small, subtle flame emblem embroidered tone-on-tone in dull gold thread on the left chest. Sleeves pushed a little up the forearms. The red is deep and dull, not bright or shiny.
+
+- A plain black crew-neck T-shirt underneath, visible at the collar, with a bare neck.
+
+- Loose black cotton trousers with a straight, open, uncuffed hem.
+
+- Black leather low-top trainers with off-white rubber soles, lightly worn.
+
+No chain, no necklace, no jewellery of any kind. No robes, no armour, no belt sash, no gloves, no topknot, no hat.
+
+Photographic, like a 35mm film still: natural colour, soft grain, true-to-life proportions. Not a 3D render, not an illustration, not glossy skin, not a costume-shop look.
+
+See all
+Copy prompt
+Recreate
+Step 2: Make your sky bison
+
+One reference image for the bison keeps it the same animal in every shot: the fur, the arrow on its head, the horns and the saddle. Nobody is riding it in the sheet, so it doesn't add a stranger to your shots.
+
+A two-panel real photograph reference sheet of an enormous gentle flying creature and its saddle, shot like documentary wildlife photography in soft flat overcast daylight over a pale grey sky. No studio light. No text, no labels.
+
+
+
+
+THE CREATURE (a giant flying bison): as big as a city bus. A huge, soft, round body covered in thick, shaggy, cream-white fur with a darker tan tuft down the spine; six short, thick legs with big padded feet; a very broad, flat, paddle-shaped tail like a beaver's, covered in fur; a wide flat gentle face with small dark kind eyes, a big wet dark nose and a wide mouth; a large brown arrow-shaped marking of darker fur starting on the forehead and pointing forward, running back over the top of the head; two short, thick, pale horns curving outward and slightly up from the sides of the head. Real fur with weight, clumping and wind movement, real skin at the nose. Not cartoonish, not a toy.
+
+
+
+
+THE SADDLE: a large flat wooden-framed saddle platform strapped on its back with thick leather harness straps under the belly; low polished wooden rails around the edge; worn saffron and deep orange canvas cushions and padded bench seats for about six passengers; brass fittings; reins running forward to the head.
+
+
+
+
+
+
+
+LEFT PANEL: three-quarter view from slightly above, the whole creature flying over open water, saddle visible, nobody riding it, fur rippling in the wind.
+
+RIGHT PANEL: the view from inside the saddle, seated at passenger height, looking forward over the wooden front rail: the top of the creature's furry head with the brown arrow marking, and the two horns, open sky and far water beyond.
+
+Photographic, 35mm film look, natural colour, soft grain. Not a 3D render, not an illustration.
+
+See all
+Copy prompt
+Recreate
+Step 3: Generate each shot
+
+Settings for every shot: Seedance 2.5, 4:3, 480p, 5 seconds (7 for the last one). I made each one as a draft, ran it two or three times and kept the best take. Every prompt uses the same three references in this order: @Image1 your character sheet, @Image2 the bison sheet, @Image3 your selfie. If you're not a guy, change he and his in the prompts to fit you.
+
+I turned the sound off. Even when I wrote "no music" in the prompt, Seedance kept adding music to the clips, so I generated the picture only and added the wind and the bison sounds myself.
+
+1. Past the sun: a super long lens, your silhouette crossing the setting sun.
+
+SCENE
+
+You fly home alone on your sky bison at the end of the day, high above the clouds in a fantasy world. Calm and peaceful, like a memory. One continuous 5-second shot. 4:3.
+
+SCENE GOAL: you want nothing more than to enjoy the last of the sunset on the long flight home; in this shot: crossing the face of the setting sun.
+
+
+
+
+REFERENCES
+
+@Image 1 (YOU, the only person; your character sheet): costume and build only: exactly as in the sheet: an oxblood-red long-sleeve jacket with a crossover front, mandarin collar and brass toggles, black T-shirt, black trousers. The sheet's backdrop and lighting are not part of the video.
+
+@Image3 (YOUR REAL SELFIE, face and hair identity only): your real face and hair exactly as in this photo.
+
+@Image 2 (HIS GIANT FLYING BISON): the flying bison exactly as in @Image 2, but a full-grown ADULT: longer than a city bus, its head alone wider than a car, each curved grey horn as long as a man's arm; you looks small on its back. Cream-white fur with the broad brown arrow marking from the forehead down the back, thick, clean, well-kept and windblown. One wide flat paddle tail like a beaver's with short, dense, groomed fur. The wooden-framed saddle with worn orange leather cushions, brass fittings and leather straps; a leather harness at the horns with long reins.
+
+
+
+
+SKY AND CLOUDS (varied, never a flat sea)
+
+A layered, three-dimensional cloudscape: huge towering cumulus columns with sunlit tops and shadowed sides, lower rolling banks with deep valleys and gaps, thin wisps drifting at mid height, and high streaks of cirrus far above. Near clouds are crisp, far clouds pale and soft in haze. Gentle natural colour, a touch more than plain white: warm gold sunlight on the cloud tops, soft peach and rose in the high cirrus and the sky near the sun, cool blue-violet in the cloud shadows and valleys, a pale blue sky overhead. Natural and filmic, never saturated, neon or fantasy-coloured.
+
+
+
+
+LOOK
+
+Exposed for the bright sky like a real film camera near a late sun: the sun flares into the lens and veiling glare washes part of the frame; you and the bison sit slightly under, never brighter or crisper than their surroundings. Soft contrast, lifted blacks, soft out-of-focus vapour in the foreground where it fits. Nothing glows except the sun; the fur and arrow marking are plain fur. Live-action footage on 35mm motion picture film in the 1990s: vintage lenses, soft edges, gentle vignetting, Kodak colour negative, halation around the sun, very fine grain. Not CGI, not a video game, not animation.
+
+
+
+
+SHOT (0.0s‚Äì5.0s), PAST THE SUN. Extreme telephoto, 4¬∞ field of view, from very far away, the camera low over distant cloud tops looking WEST straight into the huge setting sun. The sun is a giant orange-gold disc filling much of the frame, sitting just above layered cloud: a dark band of near cloud tops below, a tall cloud tower to one side edged in gold, thin rose cirrus above. The bison and you are a crisp dark silhouette gliding slowly across the face of the sun from frame right to left, its tail beating once, your small silhouette upright in the saddle. Heat shimmer and halation around the disc. The camera pans very slowly to keep them crossing.
+
+
+
+
+PHYSICS
+
+The bison always flies head-first: head and horns lead, the tail trails behind, the clouds stream from head to tail. Its body glides level like a ship, never rocking or rolling; it rises a little on each tail downstroke and settles. The tail beats slowly strictly up and down in a vertical plane, never twisting or swinging sideways. Cloud is matte dry vapour, never glossy or liquid. Hair, jacket, reins and fur move in the wind. Real time, no slow motion.
+
+
+
+
+ACTING
+
+you is unhurried and at ease: relaxed shoulders, soft eyes, a small closed-mouth smile, small real adjustments with imperfect timing. No wide eyes, no posing.
+
+Whenever his face is visible, the camera is at or slightly above his eye level, never below his chin.
+
+LOCKS
+
+Nobody speaks. Exactly one person, you, and exactly one bison. The oxblood jacket stays on. No text on screen. No music. No fire.
+
+your
+
+See all
+Copy prompt
+Recreate
+
+2. Out of the cloud: the bison bursts out of a cloud into the sunset.
+
+SCENE
+
+You fly home alone on your sky bison at the end of the day, high above the clouds in the Avatar world. Calm and peaceful, like a memory. One continuous 5-second shot. 4:3.
+
+SCENE GOAL: you want nothing more than to enjoy the last of the sunset on the long flight home; in this shot: bursting out of the cloud into the sunset he was flying toward.
+
+
+
+
+REFERENCES
+
+@Image 1 (YOU, the only person; your character sheet): costume and build only: exactly as in the sheet: an oxblood-red long-sleeve jacket with a crossover front, mandarin collar and brass toggles, black T-shirt, black trousers. The sheet's backdrop and lighting are not part of the video.
+
+@Image3 (YOUR REAL SELFIE, face and hair identity only): your real face and hair exactly as in this photo.
+
+@Image 2 (HIS SKY BISON): the sky bison exactly as in @Image 2, but a full-grown ADULT: longer than a city bus, its head alone wider than a car, each curved grey horn as long as a man's arm; you looks small on its back and the saddle sits on it like a small boat. Cream-white fur with the broad brown arrow marking from the forehead down the back, thick, clean, well-kept and windblown. One wide flat paddle tail like a beaver's, covered in short, dense, groomed fur. The wooden-framed saddle with worn orange leather cushions, brass fittings and leather straps; a leather harness at the horns with long reins.
+
+
+
+
+LOOK (this is what makes it real)
+
+Exposed for the bright sky, like a real film camera pointed near a late sun: the sun is high-ish behind the subject and flares into the lens, washing part of the frame to soft cream with veiling glare; the sky blows out; you and the bison sit about a stop under, never brighter or crisper than their surroundings. Low contrast, lifted milky blacks, a restrained palette of cream, pale gold and grey-blue, never saturated orange or pink. Real depth layers: soft out-of-focus vapour drifting in the foreground, the subject in the middle, the cloud sea far behind fading into haze. Tactile detail close to the lens where it fits: worn leather, brass, straps, fur. Nothing glows except the sun; the fur and the arrow marking are plain fur with no light, sparkle or magic on them.
+
+CAMERA: a real camera operator flying alongside, heavy camera, slow reactive moves with parallax, asymmetric framing, the cloud horizon tilted and never centred; nothing of the operator or their ride is ever in frame; no added shake, no motion blur effect.
+
+
+
+
+SHOT (0.0s‚Äì5.0s), OUT OF THE CLOUD. 35¬∞ lens. The camera flies just behind and to the left of the bison. 0.0‚Äì1.4s: the frame is soft grey-white vapour streaming past, the huge dim shape of the bison's back and saddle ahead. 1.5s: the vapour thins and tears, the low sun flares in and washes the frame cream. 2.0‚Äì5.0s: out in the open, seen from behind and slightly to the side, the enormous bison glides west into the sun, long ribbons of vapour peeling off its fur and saddle and rolling behind in a slow puff as its tail beats down once. you, small in the saddle, lifts a hand to shade his eyes against the light, then lets it drop. The bison's back fills the lower half of frame, showing its size.
+
+
+
+
+PHYSICS
+
+The bison always flies head-first: its head and horns lead, the tail always trails behind, and the clouds stream from head to tail. Its body glides level and steady like a ship and never rocks, rolls or wobbles side to side; it only rises a little on each tail downstroke and settles again. The tail beats slowly and powerfully strictly up and down in a vertical plane; it never twists, rotates, swings sideways or waves diagonally. Its legs hang relaxed and paddle lazily. Cloud is matte dry vapour, never glossy or liquid; it tears into soft wisps where anything passes through it. Hair, jacket hem, reins and fur move in the wind. Real time, no slow motion.
+
+
+
+
+STYLE
+
+Live-action footage shot on 35mm motion picture film in the 1990s: vintage spherical lenses, soft edges, gentle vignetting, Kodak colour negative, soft highlight roll-off, strong film halation around the sun, very fine grain. Not CGI, not a video game, not animation.
+
+ACTING
+
+you is unhurried and at ease, a man who has done this flight a hundred times: relaxed shoulders, soft eyes, a small closed-mouth smile that comes and goes, small real adjustments with imperfect timing. No grin, no teeth, no wide eyes, no posing.
+
+Whenever his face is visible, the camera is at or slightly above his eye level, never below his chin.
+
+LOCKS
+
+Nobody speaks. Exactly one person, you, and exactly one bison anywhere in frame. The oxblood jacket stays on. No text on screen. No music. No fire.
+
+
+
+
+See all
+Copy prompt
+Recreate
+
+3. Between the horns: the view over your shoulder, the horns framing the sun.
+
+SCENE
+
+You fly home alone on your sky bison at the end of the day, high above the clouds in the Avatar world. Calm and peaceful, like a memory. One continuous 5-second shot. 4:3.
+
+
+
+
+SCENE GOAL: you want nothing more than to enjoy the last of the sunset on the long flight home; in this shot: watching the sun sink ahead as he steers home.
+
+
+
+
+REFERENCES
+
+@Image 1 (YOU, the only person; your character sheet): costume and build only: exactly as in the sheet: an oxblood-red long-sleeve jacket with a crossover front, mandarin collar and brass toggles, black T-shirt under it, black trousers. The grey studio backdrop and studio lighting of this sheet are NOT part of the video; he is lit only by the sky in this scene.
+
+@Image3 (YOUR REAL SELFIE, face and hair identity only): your real face and hair exactly as in this photo.
+
+@Image 2 (HIS SKY BISON): the giant six-legged sky bison exactly as in @Image 2, about the size of a city bus: cream-white fur with a broad brown arrow marking from the forehead down the back, two curved grey horns, a wide flat beaver-like tail, a wooden-framed saddle with worn orange leather cushions, a leather harness at the horns with long leather reins. Its fur is long, matted and windblown, slightly grubby and uneven, with loose tufts tearing off in the wind, never clean or plush.
+
+
+
+
+WORLD AND LIGHT
+
+High above a real cumulus cloud sea at the end of the day: irregular cloud towers, domes and deep gaps, thin haze layers between near and far clouds, the far clouds paler and softer than the near ones. The sun is low in the WEST; the bison always flies WEST. One light source only, the sun (plus his flame where written). Exposure like a real film camera pointed near the sun: the sun and the brightest cloud edges clip and bloom; anything facing away from the sun sits about a stop under, with soft detail in the shadows. He gets exactly the same light, haze, softness and grain as the clouds around him; he is never crisper, brighter or more saturated than his surroundings, and nothing lights only him. Wisps of vapour and haze pass between the lens and him.
+
+
+
+
+SHOT (0.0s‚Äì5.0s), BETWEEN THE HORNS. 28¬∞ lens on a small camera rig bolted to the front rail of the saddle, just behind your right shoulder at head height, looking WEST over his shoulder along the bison's head: the two curved horns frame the low sun and the cloud sea ahead. The rig is fixed to the animal, so the whole frame lifts and settles with each tail stroke and buzzes faintly. you is a dark backlit shape in the near foreground, the edges of his hair glowing gold, face unseen, one hand resting the reins on his knee. At 2.0s a loose flock of about twenty small dark birds crosses far ahead in front of the sun, flapping, scattering slightly. Haze and halation around the sun; the near fur on the bison's head streams in the wind.
+
+Whenever his face is visible, the camera is at or slightly above his eye level, never below his chin.
+
+
+
+
+PHYSICS
+
+The bison flies by slow heavy strokes of its flat tail; each stroke lifts its mass a little and it settles again; its legs hang and paddle lazily. Cloud is matte dry vapour, never glossy, liquid or wet, no droplets: it tears into wisps and rolls slowly like dry-ice fog where anything passes through it. Hair, jacket hem, reins and fur move constantly in the wind. Real time, no slow motion.
+
+
+
+
+STYLE
+
+Live-action footage shot on 35mm motion picture film in the 1990s: vintage spherical lenses, soft edges, gentle vignetting, Kodak colour negative, soft highlight roll-off, slightly lifted milky blacks, warm restrained colour, real skin texture, strong film halation around the sun and bright cloud edges, very fine grain, veiling flare when the sun is near frame. Imperfect, asymmetric framing; the horizon is never level or centred. Not CGI, not a video game, not animation.
+
+
+
+
+ACTING
+
+you is unhurried and at ease, a man who has done this flight a hundred times. Behaviour only, small and real: relaxed shoulders, half-lidded soft eyes, a small closed-mouth smile that comes and goes, small adjustments with imperfect timing. No grin, no teeth, no wide eyes, no posing.
+
+
+
+
+LOCKS
+
+Nobody speaks; no vocal sounds. Exactly one person, you, and exactly one bison in frame. The oxblood jacket stays on. No text on screen. No music. No music.
+
+
+
+
+See all
+Copy prompt
+Recreate
+
+4. Hand on its head: you lean forward and rub the fur on its head.
+
+SCENE
+
+You fly home alone on your sky bison at the end of the day, high above the clouds in the Avatar world. Calm and peaceful, like a memory. One continuous 5-second shot. 4:3.
+
+SCENE GOAL: you want nothing more than to enjoy the last of the sunset on the long flight home; in this shot: giving his bison an affectionate rub on the head as they glide.
+
+
+
+
+REFERENCES
+
+@Image 1 (YOU, the only person; your character sheet): costume and build only: exactly as in the sheet: an oxblood-red long-sleeve jacket with a crossover front, mandarin collar and brass toggles, black T-shirt, black trousers. The sheet's backdrop and lighting are not part of the video.
+
+@Image3 (YOUR REAL SELFIE, face and hair identity only): your real face and hair exactly as in this photo.
+
+@Image 2 (HIS SKY BISON): the sky bison exactly as in @Image 2, but a full-grown ADULT: longer than a city bus, its head alone wider than a car, each curved grey horn as long as a man's arm; you looks small on its back and the saddle sits on it like a small boat. Cream-white fur with the broad brown arrow marking from the forehead down the back, thick, clean, well-kept and windblown. One wide flat paddle tail like a beaver's, covered in short, dense, groomed fur. The wooden-framed saddle with worn orange leather cushions, brass fittings and leather straps; a leather harness at the horns with long reins.
+
+
+
+
+LOOK (this is what makes it real)
+
+Exposed for the bright sky, like a real film camera pointed near a late sun: the sun is high-ish behind the subject and flares into the lens, washing part of the frame to soft cream with veiling glare; the sky blows out; you and the bison sit about a stop under, never brighter or crisper than their surroundings. Low contrast, lifted milky blacks, a restrained palette of cream, pale gold and grey-blue, never saturated orange or pink. Real depth layers: soft out-of-focus vapour drifting in the foreground, the subject in the middle, the cloud sea far behind fading into haze. Tactile detail close to the lens where it fits: worn leather, brass, straps, fur. Nothing glows except the sun; the fur and the arrow marking are plain fur with no light, sparkle or magic on them.
+
+CAMERA: a real camera operator flying alongside, heavy camera, slow reactive moves with parallax, asymmetric framing, the cloud horizon tilted and never centred; nothing of the operator or their ride is ever in frame; no added shake, no motion blur effect.
+
+
+
+
+SHOT (0.0s‚Äì5.0s), HAND ON ITS HEAD. 40¬∞ lens. The camera is low and close behind and to the right of the saddle, just above the fur of the bison's back, looking forward toward the sun, which is high-ish at frame left and flares across the lens. The bison flies toward frame right; its huge head and one curved horn fill the lower right of frame, soft vapour drifting past in the foreground. you leans forward over the front rail of the saddle, his weight on one arm, reaches down and slowly runs his open hand over the thick fur on top of the bison's head, fingers sinking in and the fur parting and springing back under his hand. A small closed-mouth smile. The bison answers with a slow deep breath that lifts its head a little. The camera drifts slowly closer with parallax over the fur.
+
+
+
+
+PHYSICS
+
+The bison always flies head-first: its head and horns lead, the tail always trails behind, and the clouds stream from head to tail. Its body glides level and steady like a ship and never rocks, rolls or wobbles side to side; it only rises a little on each tail downstroke and settles again. The tail beats slowly and powerfully strictly up and down in a vertical plane; it never twists, rotates, swings sideways or waves diagonally. Its legs hang relaxed and paddle lazily. Cloud is matte dry vapour, never glossy or liquid; it tears into soft wisps where anything passes through it. Hair, jacket hem, reins and fur move in the wind. Real time, no slow motion.
+
+
+
+
+STYLE
+
+Live-action footage shot on 35mm motion picture film in the 1990s: vintage spherical lenses, soft edges, gentle vignetting, Kodak colour negative, soft highlight roll-off, strong film halation around the sun, very fine grain. Not CGI, not a video game, not animation.
+
+ACTING
+
+you is unhurried and at ease, a man who has done this flight a hundred times: relaxed shoulders, soft eyes, a small closed-mouth smile that comes and goes, small real adjustments with imperfect timing. No grin, no teeth, no wide eyes, no posing.
+
+Whenever his face is visible, the camera is at or slightly above his eye level, never below his chin.
+
+LOCKS
+
+Nobody speaks. Exactly one person, you, and exactly one bison anywhere in frame. The oxblood jacket stays on. No text on screen. No music. No fire.
+
+
+
+
+See all
+Copy prompt
+Recreate
+
+5. The 360 selfie: you lift your camera on a long stick and arc it around the sky.
+
+SCENE
+
+You fly home alone on your sky bison at the end of the day, high above the clouds in the Avatar world. Calm and peaceful, like a memory. One continuous 5-second shot. 4:3.
+
+SCENE GOAL: you want nothing more than to enjoy the last of the sunset on the long flight home; in this shot: showing off the view with his pocket camera, still amazed by this world.
+
+
+
+
+REFERENCES
+
+@Image 1 (YOU, the only person; your character sheet): costume and build only: exactly as in the sheet: an oxblood-red long-sleeve jacket with a crossover front, mandarin collar and brass toggles, black T-shirt, black trousers. The sheet's backdrop and lighting are not part of the video.
+
+@Image3 (YOUR REAL SELFIE, face and hair identity only): your real face and hair exactly as in this photo.
+
+@Image 2 (HIS SKY BISON): the sky bison exactly as in @Image 2, but a full-grown ADULT: longer than a city bus, its head alone wider than a car, each curved grey horn as long as a man's arm; you looks small on its back. Cream-white fur with the broad brown arrow marking from the forehead down the back, thick, clean, well-kept and windblown. One wide flat paddle tail like a beaver's with short, dense, groomed fur. The wooden-framed saddle with worn orange leather cushions, brass fittings and leather straps; a leather harness at the horns with long reins.
+
+
+
+
+SKY AND CLOUDS (varied, never a flat sea)
+
+A layered, three-dimensional cloudscape: huge towering cumulus columns with sunlit tops and shadowed sides, lower rolling banks with deep valleys and gaps, thin wisps drifting at mid height, and high streaks of cirrus far above. Near clouds are crisp, far clouds pale and soft in haze. Gentle natural colour, a touch more than plain white: warm gold sunlight on the cloud tops, soft peach and rose in the high cirrus and the sky near the sun, cool blue-violet in the cloud shadows and valleys, a pale blue sky overhead. Natural and filmic, never saturated, neon or fantasy-coloured.
+
+
+
+
+LOOK
+
+Exposed for the bright sky like a real film camera near a late sun: the sun flares into the lens and veiling glare washes part of the frame; you and the bison sit slightly under, never brighter or crisper than their surroundings. Soft contrast, lifted blacks, soft out-of-focus vapour in the foreground where it fits. Nothing glows except the sun; the fur and arrow marking are plain fur. Live-action footage on 35mm motion picture film in the 1990s: vintage lenses, soft edges, gentle vignetting, Kodak colour negative, halation around the sun, very fine grain. Not CGI, not a video game, not animation.
+
+
+
+
+SHOT (0.0s‚Äì5.0s), HIS OWN CAMERA. This is the footage recorded by a small pocket action camera on a long extended selfie stick that you holds, reframed to a normal flat 4:3 view: ultra-wide, the horizon gently curved, a soft dark vignette in the corners, slightly crisp digital detail. No circular image and no black border; the stick itself is barely visible. 0.0‚Äì1.2s: the camera hangs forward past the front of the saddle, looking back at the bison's huge face and horns from just above and in front, its eyes blinking slowly, fur streaming. 1.2‚Äì5.0s: you raises the stick up high and slowly arcs it around in a wide half circle over his head: we see him from slightly above in the saddle, smiling a real, delighted closed-mouth smile at the camera as if to say look at this, then the arc continues past him to reveal the whole sky around them: towering clouds, the sun, the bison's long back below. The movement is slow and a little uneven, a real hand on a long stick.
+
+
+
+
+PHYSICS
+
+The bison always flies head-first: head and horns lead, the tail trails behind, the clouds stream from head to tail. Its body glides level like a ship, never rocking or rolling; it rises a little on each tail downstroke and settles. The tail beats slowly strictly up and down in a vertical plane, never twisting or swinging sideways. Cloud is matte dry vapour, never glossy or liquid. Hair, jacket, reins and fur move in the wind. Real time, no slow motion.
+
+
+
+
+ACTING
+
+you is unhurried and at ease: relaxed shoulders, soft eyes, a small closed-mouth smile, small real adjustments with imperfect timing. No wide eyes, no posing.
+
+Whenever his face is visible, the camera is at or slightly above his eye level, never below his chin.
+
+LOCKS
+
+Nobody speaks. Exactly one person, you, and exactly one bison. The oxblood jacket stays on. No text on screen. No music. No fire.
+
+
+
+
+See all
+Copy prompt
+Recreate
+
+6. Overhead: lying back in the saddle, mountains showing through the clouds far below.
+
+SCENE
+
+You fly home alone on your sky bison at the end of the day, high above the clouds in the Avatar world. Calm and peaceful, like a memory. One continuous 5-second shot. 4:3.
+
+SCENE GOAL: you want nothing more than to enjoy the last of the sunset on the long flight home; in this shot: lying back and watching the world pass far beneath.
+
+
+
+
+REFERENCES
+
+@Image 1 (YOU, the only person; your character sheet): costume and build only: exactly as in the sheet: an oxblood-red long-sleeve jacket with a crossover front, mandarin collar and brass toggles, black T-shirt, black trousers. The sheet's backdrop and lighting are not part of the video.
+
+@Image3 (YOUR REAL SELFIE, face and hair identity only): your real face and hair exactly as in this photo.
+
+@Image 2 (HIS SKY BISON): the sky bison exactly as in @Image 2, but a full-grown ADULT: longer than a city bus, its head alone wider than a car, each curved grey horn as long as a man's arm; you looks small on its back. Cream-white fur with the broad brown arrow marking from the forehead down the back, thick, clean, well-kept and windblown. One wide flat paddle tail like a beaver's with short, dense, groomed fur. The wooden-framed saddle with worn orange leather cushions, brass fittings and leather straps; a leather harness at the horns with long reins.
+
+
+
+
+SKY AND CLOUDS (varied, never a flat sea)
+
+A layered, three-dimensional cloudscape: huge towering cumulus columns with sunlit tops and shadowed sides, lower rolling banks with deep valleys and gaps, thin wisps drifting at mid height, and high streaks of cirrus far above. Near clouds are crisp, far clouds pale and soft in haze. Gentle natural colour, a touch more than plain white: warm gold sunlight on the cloud tops, soft peach and rose in the high cirrus and the sky near the sun, cool blue-violet in the cloud shadows and valleys, a pale blue sky overhead. Natural and filmic, never saturated, neon or fantasy-coloured.
+
+
+
+
+LOOK
+
+Exposed for the bright sky like a real film camera near a late sun: the sun flares into the lens and veiling glare washes part of the frame; you and the bison sit slightly under, never brighter or crisper than their surroundings. Soft contrast, lifted blacks, soft out-of-focus vapour in the foreground where it fits. Nothing glows except the sun; the fur and arrow marking are plain fur. Live-action footage on 35mm motion picture film in the 1990s: vintage lenses, soft edges, gentle vignetting, Kodak colour negative, halation around the sun, very fine grain. Not CGI, not a video game, not animation.
+
+
+
+
+SHOT (0.0s‚Äì5.0s), OVERHEAD, MOUNTAINS BELOW. A camera directly above, flying with them, looking straight down, nothing of it in frame. The bison's long back and the saddle fill the middle of the frame, its head and horns pointing toward the TOP of the frame, which is the direction of travel; the tail is at the bottom edge. you lies on his back in the saddle with both hands behind his head, his feet toward the bison's head, relaxed, eyes on the sky. Far beneath them, around the edges of the bison, broken cloud slides from the top of the frame to the bottom; through gaps in the cloud, dark snow-dusted mountain ridges and valleys are visible far below, small and hazy, partly covered by drifting cloud that keeps veiling and revealing them. Long low sunlight from one side throws the bison's shadow onto the clouds below.
+
+
+
+
+PHYSICS
+
+The bison always flies head-first: head and horns lead, the tail trails behind, the clouds stream from head to tail. Its body glides level like a ship, never rocking or rolling; it rises a little on each tail downstroke and settles. The tail beats slowly strictly up and down in a vertical plane, never twisting or swinging sideways. Cloud is matte dry vapour, never glossy or liquid. Hair, jacket, reins and fur move in the wind. Real time, no slow motion.
+
+
+
+
+ACTING
+
+you is unhurried and at ease: relaxed shoulders, soft eyes, a small closed-mouth smile, small real adjustments with imperfect timing. No wide eyes, no posing.
+
+Whenever his face is visible, the camera is at or slightly above his eye level, never below his chin.
+
+LOCKS
+
+Nobody speaks. Exactly one person, you, and exactly one bison. The oxblood jacket stays on. No text on screen. No music. No fire.
+
+
+
+
+See all
+Copy prompt
+Recreate
+
+7. From behind: gliding over a tower of cloud toward the sun.
+
+SCENE
+
+You fly home alone on your sky bison at the end of the day, high above the clouds in the Avatar world. Calm and peaceful, like a memory. One continuous 5-second shot. 4:3.
+
+SCENE GOAL: you want nothing more than to enjoy the last of the sunset on the long flight home; in this shot: gliding over a towering cloud into the sun.
+
+
+
+
+REFERENCES
+
+@Image 1 (YOU, the only person; your character sheet): costume and build only: exactly as in the sheet: an oxblood-red long-sleeve jacket with a crossover front, mandarin collar and brass toggles, black T-shirt, black trousers. The sheet's backdrop and lighting are not part of the video.
+
+@Image3 (YOUR REAL SELFIE, face and hair identity only): your real face and hair exactly as in this photo.
+
+@Image 2 (HIS SKY BISON): the sky bison exactly as in @Image 2, but a full-grown ADULT: longer than a city bus, its head alone wider than a car, each curved grey horn as long as a man's arm; you looks small on its back and the saddle sits on it like a small boat. Cream-white fur with the broad brown arrow marking from the forehead down the back, thick, clean, well-kept and windblown. One wide flat paddle tail like a beaver's, covered in short, dense, groomed fur. The wooden-framed saddle with worn orange leather cushions, brass fittings and leather straps; a leather harness at the horns with long reins.
+
+
+
+
+LOOK (this is what makes it real)
+
+Exposed for the bright sky, like a real film camera pointed near a late sun: the sun is high-ish behind the subject and flares into the lens, washing part of the frame to soft cream with veiling glare; the sky blows out; you and the bison sit about a stop under, never brighter or crisper than their surroundings. Low contrast, lifted milky blacks, a restrained palette of cream, pale gold and grey-blue, never saturated orange or pink. Real depth layers: soft out-of-focus vapour drifting in the foreground, the subject in the middle, the cloud sea far behind fading into haze. Tactile detail close to the lens where it fits: worn leather, brass, straps, fur. Nothing glows except the sun; the fur and the arrow marking are plain fur with no light, sparkle or magic on them.
+
+CAMERA: a real camera operator flying alongside, heavy camera, slow reactive moves with parallax, asymmetric framing, the cloud horizon tilted and never centred; nothing of the operator or their ride is ever in frame; no added shake, no motion blur effect.
+
+
+
+
+SHOT (0.0s‚Äì5.0s), FROM BEHIND, OVER THE CLOUD TOWER. 30¬∞ lens. The camera follows just above and behind the bison, looking WEST toward the low sun ahead. The enormous bison flies away from camera over the top of a towering sunlit cumulus, you a small dark figure in the saddle. Its flat paddle tail with short groomed fur fills the lower foreground and beats slowly strictly up and down. Around the sun a faint 22-degree halo ring (the real ice-crystal halo seen around the sun) sits in the sky. The body glides perfectly level; no rocking.
+
+
+
+
+PHYSICS
+
+The bison always flies head-first: its head and horns lead, the tail always trails behind, and the clouds stream from head to tail. Its body glides level and steady like a ship and never rocks, rolls or wobbles side to side; it only rises a little on each tail downstroke and settles again. The tail beats slowly and powerfully strictly up and down in a vertical plane; it never twists, rotates, swings sideways or waves diagonally. Its legs hang relaxed and paddle lazily. Cloud is matte dry vapour, never glossy or liquid; it tears into soft wisps where anything passes through it. Hair, jacket hem, reins and fur move in the wind. Real time, no slow motion.
+
+
+
+
+STYLE
+
+Live-action footage shot on 35mm motion picture film in the 1990s: vintage spherical lenses, soft edges, gentle vignetting, Kodak colour negative, soft highlight roll-off, strong film halation around the sun, very fine grain. Not CGI, not a video game, not animation.
+
+ACTING
+
+you is unhurried and at ease, a man who has done this flight a hundred times: relaxed shoulders, soft eyes, a small closed-mouth smile that comes and goes, small real adjustments with imperfect timing. No grin, no teeth, no wide eyes, no posing.
+
+Whenever his face is visible, the camera is at or slightly above his eye level, never below his chin.
+
+LOCKS
+
+Nobody speaks. Exactly one person, you, and exactly one bison anywhere in frame. The oxblood jacket stays on. No text on screen. No music. No fire.
+
+
+
+
+See all
+Copy prompt
+Recreate
+
+8. Into the sun (7s): the bison glides away and gets smaller against the sun.
+
+SCENE
+
+You fly home alone on your sky bison at the end of the day, high above the clouds in the Avatar world. Calm and peaceful, like a memory. One continuous 7-second shot. 4:3.
+
+SCENE GOAL: you want nothing more than to enjoy the last of the sunset on the long flight home; in this shot: heading home into the last of the light.
+
+
+
+
+REFERENCES
+
+@Image 1 (YOU, the only person; your character sheet): costume and build only: exactly as in the sheet: an oxblood-red long-sleeve jacket with a crossover front, mandarin collar and brass toggles, black T-shirt, black trousers. The sheet's backdrop and lighting are not part of the video.
+
+@Image3 (YOUR REAL SELFIE, face and hair identity only): your real face and hair exactly as in this photo.
+
+@Image 2 (HIS SKY BISON): the sky bison exactly as in @Image 2, but a full-grown ADULT: longer than a city bus, its head alone wider than a car, each curved grey horn as long as a man's arm; you looks small on its back and the saddle sits on it like a small boat. Cream-white fur with the broad brown arrow marking from the forehead down the back, thick, clean, well-kept and windblown. One wide flat paddle tail like a beaver's, covered in short, dense, groomed fur. The wooden-framed saddle with worn orange leather cushions, brass fittings and leather straps; a leather harness at the horns with long reins.
+
+
+
+
+LOOK (this is what makes it real)
+
+Exposed for the bright sky, like a real film camera pointed near a late sun: the sun is high-ish behind the subject and flares into the lens, washing part of the frame to soft cream with veiling glare; the sky blows out; you and the bison sit about a stop under, never brighter or crisper than their surroundings. Low contrast, lifted milky blacks, a restrained palette of cream, pale gold and grey-blue, never saturated orange or pink. Real depth layers: soft out-of-focus vapour drifting in the foreground, the subject in the middle, the cloud sea far behind fading into haze. Tactile detail close to the lens where it fits: worn leather, brass, straps, fur. Nothing glows except the sun; the fur and the arrow marking are plain fur with no light, sparkle or magic on them.
+
+CAMERA: a real camera operator flying alongside, heavy camera, slow reactive moves with parallax, asymmetric framing, the cloud horizon tilted and never centred; nothing of the operator or their ride is ever in frame; no added shake, no motion blur effect.
+
+
+
+
+SHOT (0.0s‚Äì7.0s), GLIDING INTO THE SUN. 30¬∞ lens. The camera starts close behind and slightly to the right of the bison, low over a flat sea of cloud tops, looking WEST into the low sun just above the cloud horizon. The enormous bison glides head-first toward the sun in a calm, steady line, its tail beating slowly up and down, you sitting relaxed in the saddle. The operator gradually eases off, so over seven seconds the bison pulls ahead and grows smaller against the sun, its silhouette softening into the glare and haze, the low cloud tops streaming past below. Steady, majestic, unhurried.
+
+
+
+
+PHYSICS
+
+The bison always flies head-first: its head and horns lead, the tail always trails behind, and the clouds stream from head to tail. Its body glides level and steady like a ship and never rocks, rolls or wobbles side to side; it only rises a little on each tail downstroke and settles again. The tail beats slowly and powerfully strictly up and down in a vertical plane; it never twists, rotates, swings sideways or waves diagonally. Its legs hang relaxed and paddle lazily. Cloud is matte dry vapour, never glossy or liquid; it tears into soft wisps where anything passes through it. Hair, jacket hem, reins and fur move in the wind. Real time, no slow motion.
+
+
+
+
+STYLE
+
+Live-action footage shot on 35mm motion picture film in the 1990s: vintage spherical lenses, soft edges, gentle vignetting, Kodak colour negative, soft highlight roll-off, strong film halation around the sun, very fine grain. Not CGI, not a video game, not animation.
+
+ACTING
+
+you is unhurried and at ease, a man who has done this flight a hundred times: relaxed shoulders, soft eyes, a small closed-mouth smile that comes and goes, small real adjustments with imperfect timing. No grin, no teeth, no wide eyes, no posing.
+
+Whenever his face is visible, the camera is at or slightly above his eye level, never below his chin.
+
+LOCKS
+
+Nobody speaks. Exactly one person, you, and exactly one bison anywhere in frame. The oxblood jacket stays on. No text on screen. No music. No fire.
+
+
+
+
+See all
+Copy prompt
+Recreate
+Step 4: Put it together
+
+Cut each clip down to its best two to four seconds and open on the silhouette crossing the sun. Lay a slow, nostalgic song over it, and keep a little wind and the bison's breathing underneath so it never feels silent. End on the bison gliding away into the sun and hold the last frame.
+
+What made it look real
+Expose for the bright sky, not for you. The sun sits behind you and washes part of the frame, you sit a little darker than the sky, and everything shares the same haze. If you're crisp and evenly lit against a soft sky, it looks like a green screen.
+Give every camera a real place to be: a long lens from far away, a camera fixed to the saddle, or a person flying alongside. A camera floating a few metres from you in open sky is what makes it feel fake.
+Make the clouds three-dimensional: tall towers, layers, gaps and a little colour in the shadows. A flat white sea of cloud looks like a render.
+Say how big the bison is. Unless you tell it "longer than a bus, head wider than a car", it comes out looking like a baby.
+A sky bison flies head-first, glides level without rocking, and its flat tail beats only up and down. Writing those three things fixed most of the weird motion.
+Never write "glowing" for anything except the sun. One "glowing" in my prompt made the fur light up like magic.
+
+Tag @jnl.creatives if you make one, I want to see it. Yip yip!
+
+Want to remix just one shot? Every shot from this video, with its prompt, is on the project page: higgsfield.ai/@jonnel/projects/flying-bison

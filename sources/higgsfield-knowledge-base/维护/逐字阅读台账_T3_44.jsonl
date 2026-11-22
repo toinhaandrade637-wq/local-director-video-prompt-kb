@@ -1,0 +1,258 @@
+{"project":"THREE_STEPS","idx":1,"sha8":"2c5483ae","len":906,"nTasks":1,"models":"default","read":true,"findings":"movement 引用制首现：<<<movement:uuid>>> 运动参考视频文件引用（全片 30+ 现——与 audio_N 同族不同形态）"}
+{"project":"THREE_STEPS","idx":2,"sha8":"ea30d61f","len":1007,"nTasks":1,"models":"default","read":true,"findings":"@ 资产命名体系详谱：@char_john_full/@apartman_kitchen_front——轨道前缀分类法（char_/loc_/prop_/场景名）"}
+{"project":"THREE_STEPS","idx":3,"sha8":"d31059dd","len":68,"nTasks":1,"models":"null","read":true,"findings":"微指令：delete theright side coat. on the table, in the bowl have one apple（拼写+双指令）"}
+{"project":"THREE_STEPS","idx":4,"sha8":"495bc9c9","len":434,"nTasks":1,"models":"null","read":true,"findings":"  A scene from a point of view that was once right"}
+{"project":"THREE_STEPS","idx":5,"sha8":"999efacc","len":432,"nTasks":1,"models":"default","read":true,"findings":"slow-motion 摔倒：leaps forward toward camera but stumbles mid-action——向镜扑+绊倒反转"}
+{"project":"THREE_STEPS","idx":6,"sha8":"12118c2b","len":827,"nTasks":1,"models":"default","read":true,"findings":"身体力学叙事：leans with his left shoulder blade pressed into the corner…pushes himself off the wall — the movement costs him——肩胛抵墙+代价感"}
+{"project":"THREE_STEPS","idx":7,"sha8":"5d88bcf9","len":192,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":8,"sha8":"f5310ee6","len":90,"nTasks":1,"models":"default","read":true,"findings":"极简运镜：The camera dolly back in the tunnel——dolly back 微指令"}
+{"project":"THREE_STEPS","idx":9,"sha8":"6ddf8a34","len":416,"nTasks":1,"models":"default","read":true,"findings":"black liquid tunnel 开洞：In the center of the stair open a black liquid covered tunnel——楼梯开洞母题"}
+{"project":"THREE_STEPS","idx":10,"sha8":"881320ce","len":435,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+黑液母题+隧道+楼梯"}
+{"project":"THREE_STEPS","idx":11,"sha8":"e2aff2f7","len":343,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+黑液母题+隧道+楼梯"}
+{"project":"THREE_STEPS","idx":12,"sha8":"53a7580d","len":152,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID 群引用：<<<03a5078f>>>+<<<0dde9e98>>>——裸图引用（无标签）"}
+{"project":"THREE_STEPS","idx":13,"sha8":"e08fa24c","len":1043,"nTasks":1,"models":"default","read":true,"findings":"恐怖长 prompt（1,100c 级）：Dozens of formless, dripping black fluid arms…desperately clawing through the viscous floor to grab his flailing ankles+flickering torchlight"}
+{"project":"THREE_STEPS","idx":14,"sha8":"30033813","len":86,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+隧道+楼梯"}
+{"project":"THREE_STEPS","idx":15,"sha8":"52d13c29","len":707,"nTasks":1,"models":"default","read":true,"findings":"手部微距系列①：two desperate human hands…clawing and scraping…Their actions are futile — a gradual but persistent backward motion（手挣扎微距 6 现）"}
+{"project":"THREE_STEPS","idx":16,"sha8":"7d22b668","len":134,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID+手部微距：We see both hands side view, very close"}
+{"project":"THREE_STEPS","idx":17,"sha8":"68e7e3d7","len":66,"nTasks":1,"models":"default","read":true,"findings":"黑液母题+隧道+楼梯"}
+{"project":"THREE_STEPS","idx":18,"sha8":"a3287880","len":676,"nTasks":1,"models":"default","read":true,"findings":"黑液母题+慢动作+手部"}
+{"project":"THREE_STEPS","idx":19,"sha8":"99c329e4","len":83,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+隧道"}
+{"project":"THREE_STEPS","idx":20,"sha8":"8f545d0e","len":1117,"nTasks":1,"models":"default","read":true,"findings":"tiptoes 潜行：walking entirely on his tiptoes…hugging the wall+liquid ripples cascading outwards from the footfall——脚步涟漪扩散"}
+{"project":"THREE_STEPS","idx":21,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":22,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":23,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":24,"sha8":"363b0368","len":300,"nTasks":1,"models":"default","read":true,"findings":"赤脚下床：bare feet descending onto the floor from the edge of a bed——脚部微距开场"}
+{"project":"THREE_STEPS","idx":25,"sha8":"9a6deb34","len":1113,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+黑液母题+楼梯+慢动作+潜行"}
+{"project":"THREE_STEPS","idx":26,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":27,"sha8":"de86e3e4","len":95,"nTasks":1,"models":"default","read":true,"findings":"cracks 渐裂：Many cracks appear on the stairs, and black liquid pour from them——裂缝渗液"}
+{"project":"THREE_STEPS","idx":28,"sha8":"8125c90e","len":426,"nTasks":1,"models":"null","read":true,"findings":"  A scene from a point of view that was once right"}
+{"project":"THREE_STEPS","idx":29,"sha8":"6cdc0ca0","len":79,"nTasks":1,"models":"null","read":true,"findings":"delete the left side coat and hanger. on the table"}
+{"project":"THREE_STEPS","idx":30,"sha8":"b3e63599","len":1001,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+手部"}
+{"project":"THREE_STEPS","idx":31,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":32,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":33,"sha8":"05a352da","len":829,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+手部"}
+{"project":"THREE_STEPS","idx":34,"sha8":"e77387b2","len":169,"nTasks":1,"models":"default","read":true,"findings":"穿墙坠落：fall through the upper wall and try to escape——穿墙叙事"}
+{"project":"THREE_STEPS","idx":35,"sha8":"5715e2e6","len":39,"nTasks":1,"models":"default","read":true,"findings":"隧道"}
+{"project":"THREE_STEPS","idx":36,"sha8":"1ab355c6","len":177,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID+黑液母题+楼梯"}
+{"project":"THREE_STEPS","idx":37,"sha8":"4b398ded","len":127,"nTasks":1,"models":"default","read":true,"findings":"墙手挤压：The hands on the wall try to squeeze the man——墙手互动变体"}
+{"project":"THREE_STEPS","idx":38,"sha8":"eb5817ca","len":146,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+隧道+手部"}
+{"project":"THREE_STEPS","idx":39,"sha8":"4ffe02a5","len":35,"nTasks":1,"models":"default","read":true,"findings":"隧道+楼梯"}
+{"project":"THREE_STEPS","idx":40,"sha8":"ba377c9b","len":1054,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+黑液母题+楼梯+手部"}
+{"project":"THREE_STEPS","idx":41,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":42,"sha8":"63130009","len":28,"nTasks":1,"models":"default","read":true,"findings":"隧道+楼梯"}
+{"project":"THREE_STEPS","idx":43,"sha8":"30033813","len":86,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+隧道+楼梯"}
+{"project":"THREE_STEPS","idx":44,"sha8":"ee995d9b","len":154,"nTasks":1,"models":"null","read":true,"findings":"单手微距变体：We see only just his right hand, very close, macro view, sideway"}
+{"project":"THREE_STEPS","idx":45,"sha8":"09f08290","len":133,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID+黑液母题+手部"}
+{"project":"THREE_STEPS","idx":46,"sha8":"09f08290","len":133,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID+黑液母题+手部"}
+{"project":"THREE_STEPS","idx":47,"sha8":"09f08290","len":133,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID+黑液母题+手部"}
+{"project":"THREE_STEPS","idx":48,"sha8":"5c9c016a","len":1030,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+黑液母题+楼梯+慢动作+潜行"}
+{"project":"THREE_STEPS","idx":49,"sha8":"0299260e","len":58,"nTasks":1,"models":"null","read":true,"findings":"Slow zoom out——极简运镜微指令（高频）"}
+{"project":"THREE_STEPS","idx":50,"sha8":"d04b3a72","len":1492,"nTasks":1,"models":"null","read":true,"findings":"手墙隧道设计长 prompt（1,400c 级）：countless barely recognizable human hands, frozen in pleading, desperate, and grasping positions+cobwebs hang heavy with grime+monochromatic mix of deep grayish-blues"}
+{"project":"THREE_STEPS","idx":51,"sha8":"9382e19f","len":1484,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+隧道+手部"}
+{"project":"THREE_STEPS","idx":52,"sha8":"cae46aa3","len":970,"nTasks":1,"models":"default","read":true,"findings":"第一人称 POV 照片：first-person point-of-view photograph from an extreme low angle, ground level——地面 POV 手部拖拽"}
+{"project":"THREE_STEPS","idx":53,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":54,"sha8":"8b2af14e","len":369,"nTasks":1,"models":"default","read":true,"findings":"camera on the ground move backwards follow the hands——地面后撤跟拍"}
+{"project":"THREE_STEPS","idx":55,"sha8":"c417570d","len":321,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+黑液母题+手部"}
+{"project":"THREE_STEPS","idx":56,"sha8":"24103d64","len":1593,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+隧道+手部"}
+{"project":"THREE_STEPS","idx":57,"sha8":"6ffb4f1b","len":156,"nTasks":1,"models":"default","read":true,"findings":"micro 道具起点：A macro shot @wood-fiber which a small part of the stair——木纤维微距"}
+{"project":"THREE_STEPS","idx":58,"sha8":"a570ae34","len":696,"nTasks":1,"models":"default","read":true,"findings":"micro→macro 穿越转场首见：camera pulling backward through the tunnel…passing directly between the tight wood fibers, @wood-fiber seamlessly transitioning out of the microscopic nightmare wood grain to reveal the full staircase——**微距木纹→宏观楼梯无缝穿越论！**"}
+{"project":"THREE_STEPS","idx":59,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":60,"sha8":"8eb17814","len":44,"nTasks":1,"models":"default","read":true,"findings":"场景资产+楼梯+微距"}
+{"project":"THREE_STEPS","idx":61,"sha8":"0d8770e6","len":663,"nTasks":1,"models":"default","read":true,"findings":"穿越转场再现+faster moving backward（速度变化插入）"}
+{"project":"THREE_STEPS","idx":62,"sha8":"4584e84f","len":684,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+隧道+楼梯+微距"}
+{"project":"THREE_STEPS","idx":63,"sha8":"02011a10","len":313,"nTasks":1,"models":"default","read":true,"findings":"墙手抓衣：the hands from the wall, try to grab, but he shaking it and move forward——甩手前进"}
+{"project":"THREE_STEPS","idx":64,"sha8":"ed83c1d7","len":413,"nTasks":1,"models":"null","read":true,"findings":"木纤维微距独立图：Directional raking side-light accentuates the fibrous, porous texture——侧光纤维纹理"}
+{"project":"THREE_STEPS","idx":65,"sha8":"1b56d467","len":43,"nTasks":1,"models":"null","read":true,"findings":"微距"}
+{"project":"THREE_STEPS","idx":66,"sha8":"961ac378","len":676,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+隧道+楼梯+微距"}
+{"project":"THREE_STEPS","idx":67,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":68,"sha8":"afe64fe4","len":1556,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+隧道+手部"}
+{"project":"THREE_STEPS","idx":69,"sha8":"afe64fe4","len":1556,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+隧道+手部"}
+{"project":"THREE_STEPS","idx":70,"sha8":"afe64fe4","len":1556,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+隧道+手部"}
+{"project":"THREE_STEPS","idx":71,"sha8":"9eb8c55b","len":297,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+黑液母题+手部"}
+{"project":"THREE_STEPS","idx":72,"sha8":"afe64fe4","len":1556,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+隧道+手部"}
+{"project":"THREE_STEPS","idx":73,"sha8":"3b2aacd1","len":131,"nTasks":1,"models":"null","read":true,"findings":"微指令+补元素：Move a kamera backwards（拼写 kamera 原样）. Add them more giant, sharp wooden splinters"}
+{"project":"THREE_STEPS","idx":74,"sha8":"206b9870","len":854,"nTasks":1,"models":"null","read":true,"findings":"手墙隧道+木刺变体：hands reaching out desperately, half-formed heads, and torsos——半成形头躯"}
+{"project":"THREE_STEPS","idx":75,"sha8":"206b9870","len":854,"nTasks":1,"models":"null","read":true,"findings":"隧道+手部"}
+{"project":"THREE_STEPS","idx":76,"sha8":"206b9870","len":854,"nTasks":1,"models":"null","read":true,"findings":"隧道+手部"}
+{"project":"THREE_STEPS","idx":77,"sha8":"961a0328","len":107,"nTasks":1,"models":"null","read":true,"findings":"元素覆盖指令：Cover the wall giant, sharp wooden splinters"}
+{"project":"THREE_STEPS","idx":78,"sha8":"95c43ccc","len":64,"nTasks":1,"models":"null","read":true,"findings":"元素替换指令：Remove all wooden splinters add more black liquid covered hands——**加减迭代**"}
+{"project":"THREE_STEPS","idx":79,"sha8":"206b9870","len":854,"nTasks":1,"models":"null","read":true,"findings":"隧道+手部"}
+{"project":"THREE_STEPS","idx":80,"sha8":"206b9870","len":854,"nTasks":1,"models":"null","read":true,"findings":"隧道+手部"}
+{"project":"THREE_STEPS","idx":81,"sha8":"02fad06a","len":977,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID+黑液母题+楼梯+潜行"}
+{"project":"THREE_STEPS","idx":82,"sha8":"02fad06a","len":977,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID+黑液母题+楼梯+潜行"}
+{"project":"THREE_STEPS","idx":83,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":84,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":85,"sha8":"8b79062b","len":996,"nTasks":1,"models":"default","read":true,"findings":"被拖拽地面照：Multiple grotesque black hands are clamped firmly onto his legs, pulling him backward and upward towards the stairs——多手拖拽"}
+{"project":"THREE_STEPS","idx":86,"sha8":"4edd423e","len":1011,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+黑液母题+楼梯+手部"}
+{"project":"THREE_STEPS","idx":87,"sha8":"8ca52b79","len":614,"nTasks":1,"models":"default","read":true,"findings":"slow motion 尾注：He is falling slow motion——句尾慢动作标注"}
+{"project":"THREE_STEPS","idx":88,"sha8":"0200a2bd","len":160,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+黑液母题+楼梯+微距"}
+{"project":"THREE_STEPS","idx":89,"sha8":"f10a301c","len":906,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+手部"}
+{"project":"THREE_STEPS","idx":90,"sha8":"1dc6d608","len":1062,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+手部"}
+{"project":"THREE_STEPS","idx":91,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":92,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":93,"sha8":"17dfb1c9","len":79,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID+地面覆盖：the floor covered with black liquid"}
+{"project":"THREE_STEPS","idx":94,"sha8":"be3473da","len":248,"nTasks":1,"models":"null","read":true,"findings":"三 UUID 同场：<<<91d4b3ed>>>+<<<9ba81a79>>>——场景+角色双引"}
+{"project":"THREE_STEPS","idx":95,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":96,"sha8":"82c941c0","len":28,"nTasks":1,"models":"null","read":true,"findings":"Rotate the camera 90 degree——旋转微指令"}
+{"project":"THREE_STEPS","idx":97,"sha8":"075020ba","len":200,"nTasks":1,"models":"null","read":true,"findings":"趴地转面：Lying in his belly front of the stairs, facing to the camera——趴姿转面"}
+{"project":"THREE_STEPS","idx":98,"sha8":"10250762","len":198,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+隧道+手部"}
+{"project":"THREE_STEPS","idx":99,"sha8":"099c0e69","len":46,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+楼梯"}
+{"project":"THREE_STEPS","idx":100,"sha8":"099c0e69","len":46,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+楼梯"}
+{"project":"THREE_STEPS","idx":101,"sha8":"a5030614","len":65,"nTasks":1,"models":"default","read":true,"findings":"黑液母题+隧道+楼梯"}
+{"project":"THREE_STEPS","idx":102,"sha8":"4355ea37","len":235,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+黑液母题+楼梯+手部"}
+{"project":"THREE_STEPS","idx":103,"sha8":"a38560c4","len":138,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID+黑液母题+手部"}
+{"project":"THREE_STEPS","idx":104,"sha8":"b7e3c559","len":181,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID+黑液母题+手部"}
+{"project":"THREE_STEPS","idx":105,"sha8":"99c329e4","len":83,"nTasks":1,"models":"null","read":true,"findings":"黑液母题+隧道"}
+{"project":"THREE_STEPS","idx":106,"sha8":"68e7e3d7","len":66,"nTasks":1,"models":"default","read":true,"findings":"黑液母题+隧道+楼梯"}
+{"project":"THREE_STEPS","idx":107,"sha8":"99033a53","len":159,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID+黑液母题+微距"}
+{"project":"THREE_STEPS","idx":108,"sha8":"602b20d5","len":590,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+黑液母题+慢动作"}
+{"project":"THREE_STEPS","idx":109,"sha8":"4696c233","len":359,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+黑液母题+楼梯+微距"}
+{"project":"THREE_STEPS","idx":110,"sha8":"41f5a41b","len":79,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产"}
+{"project":"THREE_STEPS","idx":111,"sha8":"908db895","len":69,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产"}
+{"project":"THREE_STEPS","idx":112,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":113,"sha8":"6127d883","len":1043,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+黑液母题+楼梯+微距"}
+{"project":"THREE_STEPS","idx":114,"sha8":"a5ff2f66","len":1135,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+黑液母题+楼梯+慢动作+潜行"}
+{"project":"THREE_STEPS","idx":115,"sha8":"9ce3d752","len":537,"nTasks":1,"models":"default","read":true,"findings":"120fps 表情微距：ultra slow motion (120fps). His expression shifts from creeping dread into overwhelming, paralyzing terror…mouth stretches wide open into a silent, desperate scream——**表情渐变 120fps 立法**"}
+{"project":"THREE_STEPS","idx":116,"sha8":"8c07c6e6","len":590,"nTasks":1,"models":"default","read":true,"findings":"跳时液爆：attempts a massive jump upward…black liquid erupts violently beneath his feet"}
+{"project":"THREE_STEPS","idx":117,"sha8":"de71d41c","len":466,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":118,"sha8":"febff917","len":428,"nTasks":1,"models":"null","read":true,"findings":"A-pose 三视图 turnaround 首现：Full body character sheet turnaround…three angles side-by-side: front view, 90-degree side profile view, and full back view…Neutral standing A-pose——**A-pose 三视图立法！**"}
+{"project":"THREE_STEPS","idx":119,"sha8":"","len":0,"nTasks":1,"models":"video_edit","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":120,"sha8":"853350fb","len":278,"nTasks":1,"models":"default","read":true,"findings":"颤手抓床单：trembling right hand…convulsively clutching the wrinkled bedsheets"}
+{"project":"THREE_STEPS","idx":121,"sha8":"dd76e18a","len":267,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+手部"}
+{"project":"THREE_STEPS","idx":122,"sha8":"584c2f04","len":151,"nTasks":1,"models":"default","read":true,"findings":"参考视频机位法首现：Use the reference video for camera motion（高频 5 现）"}
+{"project":"THREE_STEPS","idx":123,"sha8":"b4a1cbf1","len":610,"nTasks":1,"models":"default","read":true,"findings":"coughs blood 命运钩：coughs up a spray of dark red blood…Instantly, grotesque black liquid hands burst outward——咳血+黑手反转"}
+{"project":"THREE_STEPS","idx":124,"sha8":"61ebe058","len":305,"nTasks":1,"models":"default","read":true,"findings":"渗水→黑液两阶段：More clear water begins to seep…Gradually, distinct droplets of thick, opaque black liquid emerge——**渐现两阶段**"}
+{"project":"THREE_STEPS","idx":125,"sha8":"7c77f765","len":698,"nTasks":1,"models":"default","read":true,"findings":"手数范围：six or seven grotesque hands——数量模糊范围"}
+{"project":"THREE_STEPS","idx":126,"sha8":"d2f094e9","len":136,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":127,"sha8":"17cb3423","len":11055,"nTasks":1,"models":"null","read":true,"findings":"场景文档九段制首现（11K 字符）：Main Prompt+Detailed Feature Breakdown+Negative Prompt+Prompt 1-4 分区+Final Composite+Scene Overview+Detailed Asset Breakdown+Nano Banana 2 Lite Technical Parameters——**工业级场景重建文档**！PBR 材质+色温数值（$6500K/$2700K LaTeX 残留）+ACEScg+24-28mm——色温 LaTeX 残留形态首现+Hungarian 语残留（fali horgok）+Negative Prompt 块含台阶数否定（two steps, four steps, five steps）"}
+{"project":"THREE_STEPS","idx":128,"sha8":"7c86addb","len":2357,"nTasks":1,"models":"null","read":true,"findings":"Primary Generation Prompt\nWide-angle cinematic int"}
+{"project":"THREE_STEPS","idx":129,"sha8":"af7c0a8d","len":124,"nTasks":1,"models":"null","read":true,"findings":"裸 UUID+黑液母题+楼梯"}
+{"project":"THREE_STEPS","idx":130,"sha8":"789e1c9a","len":132,"nTasks":1,"models":"default","read":true,"findings":"场景资产+楼梯+参考机位"}
+{"project":"THREE_STEPS","idx":131,"sha8":"6f37eb11","len":116,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+楼梯"}
+{"project":"THREE_STEPS","idx":132,"sha8":"12986100","len":116,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+楼梯"}
+{"project":"THREE_STEPS","idx":133,"sha8":"6e773e91","len":144,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":134,"sha8":"03906d16","len":118,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":135,"sha8":"43c9a8c7","len":467,"nTasks":1,"models":"default","read":true,"findings":"场景资产+黑液母题+楼梯+微距"}
+{"project":"THREE_STEPS","idx":136,"sha8":"0cbca707","len":430,"nTasks":1,"models":"default","read":true,"findings":"眼部狂搜微距：eyes dart frantically back and forth…shaky, hand-held energy——抖手持机+眼搜"}
+{"project":"THREE_STEPS","idx":137,"sha8":"a04076f2","len":448,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+脸部资产+场景资产"}
+{"project":"THREE_STEPS","idx":138,"sha8":"6db03403","len":440,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+脸部资产+场景资产"}
+{"project":"THREE_STEPS","idx":139,"sha8":"df77e81b","len":46,"nTasks":1,"models":"video_edit","read":true,"findings":"video_edit 单光源：In the ceiling just one neon light source has——光源数量修正"}
+{"project":"THREE_STEPS","idx":140,"sha8":"e71a1ee6","len":314,"nTasks":1,"models":"default","read":true,"findings":"参考机位+俯视：Overhead shot, looking down a long, steep staircase——顶视长梯"}
+{"project":"THREE_STEPS","idx":141,"sha8":"15502020","len":683,"nTasks":1,"models":"default","read":true,"findings":"扑克牌雨：A surreal shower of playing cards slowly begins to flutter and fall down——超现实道具雨+看向镜头收尾"}
+{"project":"THREE_STEPS","idx":142,"sha8":"cc0cc01a","len":135,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":143,"sha8":"8e56fec0","len":184,"nTasks":1,"models":"default","read":true,"findings":"单眼微距：Macro camera on his right eye…The colors low light, muddy only lightsource is from top——单光源 muddy"}
+{"project":"THREE_STEPS","idx":144,"sha8":"789e1c9a","len":132,"nTasks":1,"models":"default","read":true,"findings":"场景资产+楼梯+参考机位"}
+{"project":"THREE_STEPS","idx":145,"sha8":"65ed736f","len":1356,"nTasks":1,"models":"null","read":true,"findings":"百分百保真声明：his exact, unmodified facial features…preserved with 100% accuracy+屏字时间锚（Text on laptop screen: 23:47）"}
+{"project":"THREE_STEPS","idx":146,"sha8":"cc0cc01a","len":135,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":147,"sha8":"f3e4f1f2","len":142,"nTasks":1,"models":"default","read":true,"findings":"barely 动作群：stand up barely…and falls against the right wall——barely 起身（高频）"}
+{"project":"THREE_STEPS","idx":148,"sha8":"3e47b4a6","len":245,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID+微距"}
+{"project":"THREE_STEPS","idx":149,"sha8":"4f00f245","len":187,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+楼梯"}
+{"project":"THREE_STEPS","idx":150,"sha8":"30052a6d","len":46,"nTasks":1,"models":"null","read":true,"findings":"采集指令"}
+{"project":"THREE_STEPS","idx":151,"sha8":"3282270d","len":96,"nTasks":1,"models":"null","read":true,"findings":"素材采集 batch 族：Generate a full frontal image about a modern shop. The front of the entrance have 3 steps stair——门前三步采集（shop/London 变体）"}
+{"project":"THREE_STEPS","idx":152,"sha8":"7c960cdd","len":89,"nTasks":1,"models":"null","read":true,"findings":"采集指令"}
+{"project":"THREE_STEPS","idx":153,"sha8":"3397883f","len":96,"nTasks":1,"models":"null","read":true,"findings":"楼梯+微距"}
+{"project":"THREE_STEPS","idx":154,"sha8":"3397883f","len":96,"nTasks":1,"models":"null","read":true,"findings":"楼梯+微距"}
+{"project":"THREE_STEPS","idx":155,"sha8":"566a908c","len":96,"nTasks":1,"models":"null","read":true,"findings":"楼梯+微距"}
+{"project":"THREE_STEPS","idx":156,"sha8":"06c2a37d","len":65,"nTasks":1,"models":"null","read":true,"findings":"五官采集族：Generate a front, side very close macro shot just from the mouth（mouth/nose/eyes 三件）"}
+{"project":"THREE_STEPS","idx":157,"sha8":"77a71846","len":103,"nTasks":1,"models":"null","read":true,"findings":"采集指令"}
+{"project":"THREE_STEPS","idx":158,"sha8":"35c2af08","len":78,"nTasks":1,"models":"null","read":true,"findings":"Roll the camera. Top-down overhead shot of the three steps, centered in frame"}
+{"project":"THREE_STEPS","idx":159,"sha8":"263f103c","len":60,"nTasks":1,"models":"null","read":true,"findings":"楼梯+微距+采集指令"}
+{"project":"THREE_STEPS","idx":160,"sha8":"6652271d","len":48,"nTasks":1,"models":"null","read":true,"findings":"楼梯+采集指令"}
+{"project":"THREE_STEPS","idx":161,"sha8":"ac79845f","len":46,"nTasks":1,"models":"null","read":true,"findings":"楼梯+微距"}
+{"project":"THREE_STEPS","idx":162,"sha8":"099da15e","len":258,"nTasks":1,"models":"default","read":true,"findings":"backzoom 复合调度：Create a simple backzoom…walk out the kitchen and walk towards to the camera, and when close to the bed, sit down on——走位+坐下复合"}
+{"project":"THREE_STEPS","idx":163,"sha8":"4e3b9bba","len":113,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":164,"sha8":"a7d64005","len":78,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+楼梯"}
+{"project":"THREE_STEPS","idx":165,"sha8":"898aa341","len":93,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID+微距"}
+{"project":"THREE_STEPS","idx":166,"sha8":"d74abc2d","len":480,"nTasks":1,"models":"default","read":true,"findings":"鞋部染色：As one shoes makes contact with the floor, a subtle, disturbing splash occurs…instantly ripple and stains the shoes——鞋染液"}
+{"project":"THREE_STEPS","idx":167,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":168,"sha8":"3d08ceec","len":595,"nTasks":1,"models":"default","read":true,"findings":"Match the exact camera movement from the reference——机位匹配变体"}
+{"project":"THREE_STEPS","idx":169,"sha8":"363b0368","len":300,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+黑液母题"}
+{"project":"THREE_STEPS","idx":170,"sha8":"5181e3c9","len":1135,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+黑液母题+楼梯+慢动作+潜行"}
+{"project":"THREE_STEPS","idx":171,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":172,"sha8":"4bb57d3d","len":139,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+黑液母题+楼梯+微距"}
+{"project":"THREE_STEPS","idx":173,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":174,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":175,"sha8":"1c3b6d05","len":206,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+脸部资产+场景资产+慢动作"}
+{"project":"THREE_STEPS","idx":176,"sha8":"702e4fa4","len":585,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+黑液母题+楼梯+潜行"}
+{"project":"THREE_STEPS","idx":177,"sha8":"febff917","len":428,"nTasks":1,"models":"null","read":true,"findings":"A-pose 三视图再现"}
+{"project":"THREE_STEPS","idx":178,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":179,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":180,"sha8":"ca8de28d","len":138,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID"}
+{"project":"THREE_STEPS","idx":181,"sha8":"8eeb592a","len":189,"nTasks":1,"models":"default","read":true,"findings":"脸部资产"}
+{"project":"THREE_STEPS","idx":182,"sha8":"76d181f1","len":335,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+手部"}
+{"project":"THREE_STEPS","idx":183,"sha8":"b068131d","len":107,"nTasks":1,"models":"default","read":true,"findings":"脸部资产"}
+{"project":"THREE_STEPS","idx":184,"sha8":"ff633bf5","len":71,"nTasks":1,"models":"default","read":true,"findings":"The men lying in the bed wrapped up. Made some mov"}
+{"project":"THREE_STEPS","idx":185,"sha8":"85605713","len":131,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID+楼梯"}
+{"project":"THREE_STEPS","idx":186,"sha8":"bf5436c5","len":170,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":187,"sha8":"324660cb","len":3009,"nTasks":1,"models":"null","read":true,"findings":"场景文档二件（Master Generation Prompt+Step & Door Focal Prompt (High-Priority Re-weight)——**重加权标注**）+Negative Prompt 台阶数全列（two steps, four steps, five steps）"}
+{"project":"THREE_STEPS","idx":188,"sha8":"4b34cc99","len":3021,"nTasks":1,"models":"null","read":true,"findings":"Prompt 1: Scene & Composition\nA wide-angle, eye-le"}
+{"project":"THREE_STEPS","idx":189,"sha8":"17cb3423","len":11055,"nTasks":1,"models":"null","read":true,"findings":"楼梯"}
+{"project":"THREE_STEPS","idx":190,"sha8":"17cb3423","len":11055,"nTasks":1,"models":"null","read":true,"findings":"楼梯"}
+{"project":"THREE_STEPS","idx":191,"sha8":"03906d16","len":118,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":192,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":193,"sha8":"344c2a2c","len":115,"nTasks":1,"models":"default","read":true,"findings":"全身资产"}
+{"project":"THREE_STEPS","idx":194,"sha8":"12986100","len":116,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+楼梯"}
+{"project":"THREE_STEPS","idx":195,"sha8":"12986100","len":116,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+楼梯"}
+{"project":"THREE_STEPS","idx":196,"sha8":"2667ec57","len":469,"nTasks":1,"models":"default","read":true,"findings":"场景资产+黑液母题+楼梯+微距"}
+{"project":"THREE_STEPS","idx":197,"sha8":"8588fd32","len":308,"nTasks":1,"models":"default","read":true,"findings":"脸部资产+场景资产"}
+{"project":"THREE_STEPS","idx":198,"sha8":"904e15a8","len":566,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+脸部资产+场景资产"}
+{"project":"THREE_STEPS","idx":199,"sha8":"ef6abfcc","len":430,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+脸部资产+场景资产"}
+{"project":"THREE_STEPS","idx":200,"sha8":"9a5dc862","len":135,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":201,"sha8":"f6a5ba65","len":296,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+楼梯"}
+{"project":"THREE_STEPS","idx":202,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":203,"sha8":"681fc093","len":140,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+脸部资产+场景资产"}
+{"project":"THREE_STEPS","idx":204,"sha8":"2d31590d","len":287,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+脸部资产+全身资产+场景资产+手部"}
+{"project":"THREE_STEPS","idx":205,"sha8":"ac6164dc","len":84,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID+微距"}
+{"project":"THREE_STEPS","idx":206,"sha8":"b57ab119","len":118,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+楼梯+微距"}
+{"project":"THREE_STEPS","idx":207,"sha8":"733c772e","len":302,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID+楼梯+参考机位"}
+{"project":"THREE_STEPS","idx":208,"sha8":"8cf5550b","len":174,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID+微距+手部"}
+{"project":"THREE_STEPS","idx":209,"sha8":"065db994","len":265,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+参考机位"}
+{"project":"THREE_STEPS","idx":210,"sha8":"6d0d20bd","len":202,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID+微距+手部"}
+{"project":"THREE_STEPS","idx":211,"sha8":"17e81e11","len":642,"nTasks":1,"models":"default","read":true,"findings":"撞门运镜：It surges forward fast and low, climbing the stairs dynamically, the door growing rapidly to fill the frame…crashes close to the painted surface——撞门收尾+Ambient sound 内联（hollow footstep echo, buzzing fluorescent tube）"}
+{"project":"THREE_STEPS","idx":212,"sha8":"b3ab4b58","len":81,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+楼梯+微距"}
+{"project":"THREE_STEPS","idx":213,"sha8":"e24940cf","len":139,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":214,"sha8":"347ce7f6","len":85,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+楼梯"}
+{"project":"THREE_STEPS","idx":215,"sha8":"24878fd3","len":41,"nTasks":1,"models":"null","read":true,"findings":"楼梯"}
+{"project":"THREE_STEPS","idx":216,"sha8":"cf3da405","len":64,"nTasks":1,"models":"null","read":true,"findings":"微距+采集指令"}
+{"project":"THREE_STEPS","idx":217,"sha8":"adeaa200","len":102,"nTasks":1,"models":"null","read":true,"findings":"Rotate the camera 180 degree——旋转半圈"}
+{"project":"THREE_STEPS","idx":218,"sha8":"8a5ccd11","len":122,"nTasks":1,"models":"null","read":true,"findings":"Put under the coat a curver like dark color basket"}
+{"project":"THREE_STEPS","idx":219,"sha8":"bc2c0f66","len":103,"nTasks":1,"models":"null","read":true,"findings":"Put the camera to the door and look down. Top-down"}
+{"project":"THREE_STEPS","idx":220,"sha8":"40770ce4","len":64,"nTasks":1,"models":"null","read":true,"findings":"微距+采集指令"}
+{"project":"THREE_STEPS","idx":221,"sha8":"566a908c","len":96,"nTasks":1,"models":"null","read":true,"findings":"楼梯+微距"}
+{"project":"THREE_STEPS","idx":222,"sha8":"c5d662ca","len":48,"nTasks":1,"models":"null","read":true,"findings":"Make a frontal image from the kitchen furniture."}
+{"project":"THREE_STEPS","idx":223,"sha8":"ac79845f","len":46,"nTasks":1,"models":"null","read":true,"findings":"楼梯+微距"}
+{"project":"THREE_STEPS","idx":224,"sha8":"c0534f71","len":260,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+参考机位"}
+{"project":"THREE_STEPS","idx":225,"sha8":"126bcad8","len":254,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产+楼梯"}
+{"project":"THREE_STEPS","idx":226,"sha8":"681fc093","len":140,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+脸部资产+场景资产"}
+{"project":"THREE_STEPS","idx":227,"sha8":"b5afc66c","len":85,"nTasks":1,"models":"default","read":true,"findings":"裸 UUID+微距"}
+{"project":"THREE_STEPS","idx":228,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":229,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":230,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":231,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":232,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":233,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":234,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":235,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":236,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":237,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":238,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":239,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":240,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":241,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":242,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":243,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":244,"sha8":"61240754","len":527,"nTasks":1,"models":"default","read":true,"findings":"开门绊倒：As the door begins to swing open…Unexpectedly, he loses his footing…stumbling into the space beyond the threshold——门槛绊倒"}
+{"project":"THREE_STEPS","idx":245,"sha8":"364ee8d9","len":143,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":246,"sha8":"6263883b","len":128,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":247,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":248,"sha8":"e0bb4782","len":119,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":249,"sha8":"fe67391d","len":120,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":250,"sha8":"e0bb4782","len":119,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":251,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":252,"sha8":"274798e6","len":423,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+黑液母题+楼梯+微距"}
+{"project":"THREE_STEPS","idx":253,"sha8":"9d77ed45","len":475,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产"}
+{"project":"THREE_STEPS","idx":254,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt"}
+{"project":"THREE_STEPS","idx":255,"sha8":"1db61e93","len":438,"nTasks":1,"models":"default","read":true,"findings":"全身资产+场景资产+黑液母题+楼梯+微距"}
+{"project":"THREE_STEPS","idx":256,"sha8":"a1299da3","len":424,"nTasks":1,"models":"default","read":true,"findings":"dolly zoom 醒来：slow, deliberate dolly zoom in towards him…he draws the blanket down with his dolly zoom 醒来（her/his 混用原样）"}
+{"project":"THREE_STEPS","idx":257,"sha8":"849bd710","len":360,"nTasks":1,"models":"default","read":true,"findings":"movement 引用+场景资产+黑液母题+楼梯+微距"}
+{"project":"THREE_STEPS","idx":258,"sha8":"1cceeb07","len":216,"nTasks":1,"models":"default","read":true,"findings":"Dolly out 术语：Create a simple backzoom Dolly out——backzoom+Dolly out 双术语"}

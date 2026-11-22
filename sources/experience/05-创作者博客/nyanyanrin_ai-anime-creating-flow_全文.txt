@@ -1,0 +1,1538 @@
+【项目】AI ANIME CREATING FLOW（@nyanyanrin · 创作者博客）
+【链接】https://higgsfield.ai/@nyanyanrin/blogs/ai-anime-creating-flow
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+AI ANIME CREATING FLOW
+
+Oct 25, 18:24 · 20 mins
+
+AI ANIME CREATING FLOW
+@nyanyanrin
+40
+0
+0
+
+Here are the prompts you’ve been asking for!
+
+I wanted to share my AI anime workflow for if it was me. In this post, you’ll find how I approach the story, shots, and character movement, along with a few prompt examples you can try.
+
+My goal is to create animation with natural emotions and a cinematic feel. There are a few details I pay particular attention to, so I’ll use the two scenes from this project to walk you through them.
+
+
+
+
+1. Start with the story and character design sheets
+
+First, I work out the relationships between the characters and how their emotions change throughout each scene.
+
+In the first scene, the girl gathers the courage to confess her feelings. After being rejected, she discovers that her childhood friend witnessed everything. Her emotions shift from hope to hurt, then embarrassment and defensiveness.
+
+In the second scene, she initially resists his attempt to get close, before finally breaking down in his arms. He comforts her while keeping his own feelings hidden.
+
+
+
+
+Character design sheets
+
+So, I prepare the character design sheets first, establishing consistent hairstyles, hair colors, outfits, and distinctive features. Along with front views, side and back views are useful for keeping the characters consistent across different shots.
+
+For me, knowing what a character is thinking gives their expressions and movements a clear direction.
+
+
+
+
+
+
+
+2. Break the story into clear shots
+
+For every shot, I want to know who the audience should be looking at, what they should notice, and which emotion the shot should convey.
+
+During the confession, for example, I use a close-up of the girl with Boy 2’s hair out of focus in the foreground. This keeps the attention on her expression as she waits for his answer.
+
+Character entrances and movements also need a clear sequence. For Boy 1’s entrance around the corner, I can describe it like this:
+
+HARD CUT to the corridor corner.
+
+SHOT 2 — 0:04.2–0:06.4
+
+Medium shot tightening into the childhood friend’s reaction through composition.
+
+He arrives at the corner and stops abruptly after hearing the confession.
+
+His lips part as if he had been about to call her name. He immediately closes his mouth and retreats behind the wall.
+
+His hand tightens around his schoolbag strap.
+
+He looks down, hesitates, then cautiously looks around the corner.
+
+
+
+
+HARD CUT to the camera holds on boy 1 near profile and shoulder. 
+
+SHOT 3 — 0:06.4–0:10.2 
+
+The girl and Boy 2 remain softly out of focus behind him. Boy 1 grips his schoolbag strap and keeps still, listening.
+
+This separates the action into distinct steps: walking out, noticing, turning away, and stepping aside. It helps communicate that he needs to enter the frame, rather than already be standing there when the shot begins.
+
+That’s something I always check: how did the character get into this position? The beginning, progression, and end of the movement should all be clear on screen.
+
+
+
+
+
+
+
+
+
+
+I also explicitly write HARD CUT between each shot.
+
+My aim is to cut directly to the next composition without having the AI invent an unwanted transition, such as the camera suddenly orbiting a character, the background sliding around, or a character rotating like a 3D model.
+
+That unnatural, 3D-like movement is exactly what I want to avoid in this style of 2D anime. It can interrupt both the animated feel and the emotion of the scene.
+
+Along with HARD CUT, I specify what the camera does within each shot. If it should stay still, I write “fixed framing.” I only ask for movement where I actually want a follow shot or a pullback.
+
+Use fixed framing and crisp hard cuts between shots. Cut on a glance, a reaction, or a decisive movement. Avoid automatic camera orbiting, floating camera moves, and 3D-like rotational transitions.
+
+3. Express emotion through close-ups and small movements
+
+The girl’s line, 「……そっか。」—“…I see.”—is one of my favorite examples.
+
+It’s a very short line, but the framing and movement can show her trying to accept the answer before she has fully processed how she feels.
+
+I frame it as an extreme side close-up. She slowly lowers her head, and her fringe hides her eyes, leaving her mouth, cheek, and front hair strands visible. As she speaks, a fine strand slips downward with the movement of her head, then gently settles.
+
+Here’s how I describe it in the prompt:
+
+Extreme side close-up of the girl’s lower face. She slowly lowers her head, and her fringe obscures her eyes.
+
+Girl:「……そっか。」
+
+As she speaks, one fine front strand slips slightly lower beside her cheek, remaining attached, then gently settles. Her mouth relaxes after the line. Keep her cheeks dry and hold briefly before cutting.
+
+She isn’t crying yet. Her mouth losing its composure, her head slowly lowering, and the hair settling a little later already communicate her disappointment.
+
+That’s the moment I want to hold onto: she is still trying to keep herself together. Her tears only fall after Boy 2 leaves, giving the emotion room to build.
+
+
+
+
+4. Build a cinematic feel through lighting and atmosphere
+
+For this story, I chose warm after-school sunlight paired with deeper, cooler shadows to give the characters clear light-and-shadow definition.
+
+I concentrate the soft glow around the hair, eyes, and illuminated edges while keeping facial features, linework, and shadows readable. A few sparkling particles can add depth, but the expressions should remain clear.
+
+Soft cinematic glow with strong contrast between warm sunlight and cool shadows. Preserve clear facial details, deep shadow areas, and a delicate rim light along the hair.
+
+I really like the combination of soft light and defined shadows. It gives the image a gentle quality while preserving its emotional weight.
+
+At the end of the second scene, the background gradually fades into white, leaving only the two characters embracing. The attention stays on that embrace and the feelings the boy never says out loud.
+
+
+
+
+5. Make the animation expressive while keeping a sense of weight
+
+When designing movement, I like to remind myself:
+
+“What makes 2D anime different from live action is those movements people wouldn’t normally make in real life.”
+
+For me, this means animation can amplify everyday reactions through more expressive poses, facial expressions, and timing, making an emotion immediately readable.
+
+For example, Boy 2 firmly presses his palms together and gives a wink. That slightly exaggerated apology reveals how casually he brushes off the situation.
+
+
+
+
+The girl gripping Boy 1’s shirt, saying “It’s so frustrating,” and then breaking into loud sobs is another clear sequence of emotional actions.
+
+These movements need supporting physical reactions. When her fingers tighten, the shirt gathers into folds. When a head turns, the hair follows a moment later.
+
+For hair physics, I might include:
+
+The head leads the movement. Larger hair sections follow, then the tips. Use a small overshoot, a gentle rebound, and natural settling.
+
+The follow-through, rebound, and gradual settling are small details I care about. They help exaggerated movement retain a natural sense of weight.
+
+
+
+
+6. Leave room for pauses so the audience can feel the hesitation
+
+Another detail I want to share is simply giving the characters a moment to wait.
+
+In the second scene, after Boy 1 sits down, the girl pauses before moving away. When he notices the distance she has created, he also waits before approaching her.
+
+Those two pauses give the audience time to read her defensiveness, along with his hesitation and concern.
+
+After he sits, hold a quiet beat before she shifts away. He waits through another pause before moving closer. Keep both pauses clearly visible.
+
+Sound should support that timing too. His breathing after running, her sleeves brushing against her face, the fabric moving as she grips his shirt, and her eventual crying all make the emotions feel more tangible.
+
+
+
+
+
+
+
+
+
+
+I also clearly label his thoughts as “internal voice-over” and specify that his mouth stays still. This distinguishes what he says aloud from what he keeps inside.
+
+
+
+
+
+
+
+
+
+
+After generating the footage, I check the character designs, positions, action sequences, dialogue, and emotional pacing. Then I adjust the parts of the prompt that weren’t clear enough. Each detail I describe more precisely brings the result closer to what I want the story to express.
+
+Prompt of Scene 1
+
+SCENE CONTEXT
+
+A 30-second modern 2D anime school romance drama in a quiet school corridor after class.
+
+A girl confesses to Boy 2.
+
+Boy 1 Her male childhood friend accidentally witnesses the confession and nervously hides behind a nearby corner.
+
+Boy 2 rejects her with a smile and slightly knitted brows, saying that he can only see her as a younger sister.
+
+He stays to hear her response, then firmly presses his palms together, gives her a quick one-eye wink, offers to buy her sweets another time, and leaves.
+
+Only after he leaves does the girl begin crying. She turns, discovers Boy 1, and realizes he witnessed everything.
+
+She runs past him and bumps his shoulder. He stands hurt for a moment, then runs after her.
+
+The emotional progression:
+
+Nervous confession → accidental discovery → evasive movement → rejection → suppressed hurt → casual apology → tears → humiliation → pursuit.
+
+
+
+
+ACTIVE REFERENCES
+
+Maintain identical character designs, hairstyles, school uniforms, and schoolbags across both scenes.
+
+@Image 3 GIRL:
+
+A female student with expressive eyes.
+
+Her fringe naturally obscures her eyes when she lowers her head. A loose front strand can slide forward with gravity while remaining attached.
+
+@Image 1 BOY 1:
+
+The girl’s male childhood friend.
+
+He wears a collared school shirt and carries a schoolbag. His acting is hesitant and restrained.
+
+His first appearance must be a visible walking entrance from behind the corridor corner in Shot 2.
+
+@Image 3 BOY 2:
+
+The confession recipient.
+
+A visually distinct male student with relaxed posture.
+
+During the rejection, he smiles while slightly knitting his brows. During his later apology, he presses his palms together and gives a single playful wink.
+
+His behavior feels casually dismissive rather than deeply remorseful.
+
+Only these three characters appear prominently.
+
+
+
+
+LOCATION MAP
+
+The girl stands screen-left, facing Boy 2 on screen-right.
+
+@image_4 An opaque corridor wall and corner sit farther toward screen-left.
+
+The girl stands screen-left, facing the rejecting boy on screen-right.
+
+A corridor corner sits behind the girl toward screen-left. The childhood friend approaches from this corner and hides behind its wall.
+
+The rejecting boy leaves toward screen-right, farther down the corridor.
+
+The girl later turns toward screen-left, runs past her childhood friend, and exits around the corner.
+
+The childhood friend follows along the same route.
+
+Keep the corridor axis, exit directions, and character eyelines consistent.
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+Start on a close-up of the girl.
+
+Boy 2’s hair and the edge of his head occupy the extreme screen-right foreground, out of focus.
+
+She holds both hands behind her back, gripping her own fingers. Her schoolbag hangs from one shoulder.
+
+The rejecting boy stands casually, with one hand already in his trouser pocket.
+
+During the rejection, he uses his free hand to touch and briefly rub the top of her head. His other hand remains in his pocket.
+
+The childhood friend initially stays concealed behind the corner. He becomes visible only when he instinctively steps toward the crying girl.
+
+The girl deliberately brushes her shoulder against his as she runs past. The impact is brief and believable, without knocking either person down.
+
+
+
+
+FORMAT MODE
+
+One 30-second video.
+
+16:9 horizontal.
+
+Nine shots connected by hard cuts.
+
+Japanese dialogue only.
+
+Consistent soft cinematic glow, strong light-and-shadow contrast, and delicate sparkling airborne particles throughout the entire clip.
+
+No background music, subtitles, captions, or narration.
+
+End with a hard cut to black at exactly 0:30.
+
+
+
+
+OPTICS
+
+Prioritize the girl’s face, the childhood friend’s reactions, and readable medium shots.
+
+Use softly simplified backgrounds and restrained depth of field.
+
+During the rejection, keep the girl’s face sharp. The rejecting boy occupies only one side of the frame; his smiling mouth, hand, and relaxed posture remain readable.
+
+During the discovery, preserve clear matching eyelines.
+
+Keep tears small and physically believable. Avoid exaggerated sparkling tear effects.
+
+
+
+
+CAMERA
+
+Use mostly fixed framing with crisp, motivated hard cuts.
+
+Cut on a glance, a small movement, or an emotional change.
+
+Do not give the rejecting boy a dramatic entrance, heroic angle, or reaction shot.
+
+Use one short lateral follow during the shoulder bump.
+
+The final shot remains fixed while the childhood friend runs out of frame.
+
+Nobody looks into the lens.
+
+
+
+
+ACTION TIMING
+
+SHOT 1 — 0:00–0:03.8
+
+Close-up of the girl.
+
+Boy 2’s hair and the edge of his head remain blurred in the extreme screen-right foreground.
+
+She takes a small breath and raises her eyes toward him.
+
+Girl:
+
+「好きです。」
+
+A brief hesitation.
+
+Girl:
+
+「ずっと前から。」
+
+Her eyes search his face for a response.
+
+Warm, diffused light catches her eyes and hair edges. A few tiny particles drift through the sunlit background.
+
+
+
+
+HARD CUT to the corridor corner.
+
+SHOT 2 — 0:04.2–0:06.4
+
+Medium shot tightening into the childhood friend’s reaction through composition.
+
+He arrives at the corner and stops abruptly after hearing the confession.
+
+His lips part as if he had been about to call her name. He immediately closes his mouth and retreats behind the wall.
+
+His hand tightens around his schoolbag strap.
+
+He looks down, hesitates, then cautiously looks around the corner.
+
+
+
+
+HARD CUT to the camera holds on boy 1 near profile and shoulder. 
+
+SHOT 3 — 0:06.4–0:10.2 The girl and Boy 2 remain softly out of focus behind him.
+
+Boy 1 grips his schoolbag strap and keeps still, listening.
+
+In the background, Boy 2 smiles while slightly knitting his brows.
+
+With one hand still in his pocket, he briefly rests his free hand on the girl’s head and gives it one casual rub.
+
+Boy 2:
+
+「ごめん、友達としか思ってないんだよね。」
+
+His delivery is light and conversational.
+
+He withdraws his hand but continues standing in front of her, waiting for her response.
+
+Boy 1 remains turned away. His gaze lowers slightly as he hears the rejection.
+
+
+
+
+HARD CUT to the girl’s profile.
+
+SHOT 4 — 0:10.2–0:12.4
+
+Extreme side close-up of the girl.
+
+She slowly lowers her head.
+
+Her fringe falls forward, hiding her eyes. Keep her mouth, cheek, and front hair strands visible.
+
+Girl:
+
+「……そっか。」
+
+As she speaks, one fine front strand slips slightly lower beside her cheek.
+
+The strand follows the head movement with a small delay, makes a gentle downward swing, and settles.
+
+Its root remains attached.
+
+A narrow highlight travels softly along the moving strand.
+
+Her mouth attempts a faint, controlled expression, then relaxes.
+
+Her cheeks remain dry.
+
+
+
+
+HARD CUT to Boy 2.
+
+SHOT 5 — 0:12.4–0:17.0
+
+Fixed close-up of Boy 2, including his face and both hands.
+
+He brings his palms firmly together at chest height with one crisp contact.
+
+He gives a quick, shallow head dip.
+
+At the beginning of his apology, he closes one eye in a clear, brief wink while keeping the other eye open and directed toward the girl.
+
+His smile remains easy and slightly cheeky.
+
+Boy 2:
+
+「ごめん！今度スイーツおごるから。また明日！」
+
+Hold the wink briefly, then reopen the eye naturally before he turns away.
+
+Deliver the line briskly, as if the dessert offer resolves the awkward situation.
+
+His palms separate.
+
+He turns and begins walking toward screen-right without waiting for another reply.
+
+Warm light blooms softly along his hair and shoulder. Preserve a darker shaded side of his face.
+
+
+
+
+HARD CUT back to the girl.
+
+SHOT 5 — 0:17.0–0:21.0
+
+Medium close-up of the girl, followed by a small reframing and focus shift.
+
+Boy 2’s footsteps recede off-screen.
+
+Only now does her composure break.
+
+Her lips press together. Her eyes fill, and the first tear rolls down her cheek.
+
+The tear catches a small highlight.
+
+She wipes it quickly and turns toward screen-left to leave.
+
+She notices Boy 1 near the corner, still turned away from her.
+
+Follow her eyeline with a small reframing.
+
+Boy 1 senses her movement and looks back over his shoulder.
+
+Shift focus to him.
+
+Their eyes meet.
+
+His eyes widen, his shoulders tense, and his lips part in startled realization that she has discovered him.
+
+
+
+
+HARD CUT to her response.
+
+SHOT 6 — 0:21.0–0:23.0
+
+Close-up of the girl, with Boy 1’s shoulder at the edge of the frame.
+
+She glances from his face toward the corner and understands that he overheard everything.
+
+Her expression tightens with humiliation.
+
+She sharply wipes her cheek and gives him a wounded, angry look.
+
+Boy 1, just outside the close-up:
+
+「俺……」
+
+She immediately moves toward him before he can continue.
+
+
+
+
+HARD CUT on her movement.
+
+SHOT 7 — 0:23.0–0:25.0
+
+Side medium shot with a short lateral follow.
+
+The girl takes two quick steps and runs past Boy 1.
+
+He instinctively begins turning toward her.
+
+Without looking at him, she deliberately bumps his shoulder with hers.
+
+His upper body rotates slightly from the contact. Their schoolbags swing.
+
+He raises one hand as if to stop her but does not touch her.
+
+She exits screen-left.
+
+Hair highlights follow their movements. Airborne particles continue drifting gently without reacting dramatically to the collision.
+
+No dialogue.
+
+
+
+
+HARD CUT to his reaction.
+
+SHOT 8 — 0:25.0–0:27.0
+
+Fixed medium close-up of Boy 1.
+
+He watches her disappear.
+
+His raised hand slowly lowers. His shoulders drop.
+
+He glances at the shoulder she bumped, then looks toward the empty corner.
+
+His expression falls into quiet hurt.
+
+A soft rim of afternoon light outlines his hair against the darker corridor.
+
+Her footsteps continue receding.
+
+No dialogue.
+
+
+
+
+HARD CUT behind him.
+
+SHOT 9 — 0:27.0–0:30.0
+
+Rear medium-wide shot.
+
+Boy 1 lifts his head.
+
+One uncertain step becomes a run.
+
+He follows the girl toward screen-left and disappears around the same corner.
+
+The camera stays fixed on the empty corridor.
+
+Warm window light, deep corridor shadows, and a few slowly drifting sparkling particles remain visible.
+
+His footsteps continue briefly.
+
+No dialogue.
+
+HARD CUT to black at exactly 0:30.
+
+
+
+
+PHYSICS
+
+Hair follows head movement with a slight delay, small overshoot, and natural settling.
+
+Schoolbags swing according to walking, sudden stops, and the shoulder bump.
+
+The rejecting boy’s hand briefly compresses the girl’s hair. Her hair settles after his hand leaves.
+
+Tears gather along the lower eyelid before moving down the cheek.
+
+Wiping removes some moisture but does not instantly restore a dry, composed face.
+
+The shoulder bump causes a small upper-body rotation, not an exaggerated recoil.
+
+Maintain stable hands, finger counts, limb positions, and grounded footsteps.
+
+
+
+
+PALMS AND WINK:
+
+Boy 2’s palms meet once with firm contact. Keep fingers aligned and anatomically stable.
+
+His wink closes only one eye. The other eye stays open and directed toward the girl.
+
+Use a natural eyelid closure and reopening, with a slight cheek lift on the winking side.
+
+
+
+
+TEARS AND FABRIC:
+
+The girl’s cheeks remain dry through Shot 4.
+
+Tears gather and begin falling only in Shot 5.
+
+Schoolbags and clothing follow turns, running, and shoulder contact with believable inertia.
+
+The shoulder bump causes a small upper-body rotation.
+
+
+
+
+PARTICLES:
+
+Fine airborne particles drift slowly through the corridor.
+
+Their brightness changes gently as they move through sunbeams.
+
+Keep their motion independent, irregular, and subtle.
+
+
+
+
+LIGHTING
+
+Apply the same soft, luminous lighting treatment throughout all nine shots.
+
+
+
+
+OVERALL LOOK:
+
+Combine softly diffused highlights with strong light-and-shadow separation.
+
+Warm late-afternoon sunlight enters through the corridor windows.
+
+Use broad, gentle light on illuminated skin and narrow luminous edges on hair and shoulders.
+
+Preserve deep, cooler corridor shadows and clearly darker shaded sides of faces.
+
+Aim for approximately 4:1–5:1 facial lighting contrast while keeping eyes and expressions readable.
+
+
+
+
+SOFT GLOW:
+
+Use restrained bloom around bright window light, hair highlights, and selected skin highlights.
+
+Keep dark areas rich and stable.
+
+The softness comes from diffused light and controlled highlight bloom, while facial features and linework remain clear.
+
+Use clean cel-shadow shapes beneath fringes, noses, chins, and collars, with gently softened lighting transitions where appropriate.
+
+
+
+
+EYES AND HAIR:
+
+Add faint luminous color within visible irises and small, bright catchlights.
+
+Preserve clear pupils and iris details.
+
+Add soft, narrow glow along selected illuminated hair edges and strands.
+
+Highlights follow head turns and hair movement.
+
+Keep darker inner hair groups visible.
+
+When the girl’s fringe covers her eyes, the eyes remain naturally concealed.
+
+
+
+
+SPARKLING PARTICLES:
+
+Include sparse, tiny golden-white dust particles throughout the clip.
+
+Make them most visible inside the warm window beams and against darker backgrounds.
+
+A few particles softly twinkle as they catch the light.
+
+Allow occasional small, defocused foreground glints, while most particles remain behind or beside the characters.
+
+Keep faces, speaking mouths, the wink, and hand movements unobstructed.
+
+Maintain fixed light sources and stable exposure across every cut.
+
+
+
+
+AUDIO
+
+Quiet after-school ambience, distant indistinct student chatter, faint outdoor wind, footsteps, schoolbag movement, and fabric rustling.
+
+Make Boy 1’s walking entrance audible with two soft, natural footsteps.
+
+Use one short palm-contact sound when Boy 2 brings his hands together.
+
+After Boy 2 leaves, gently reduce distant ambience so the girl’s breathing and first sob become more noticeable.
+
+Girl:
+
+Natural youthful Japanese female voice.
+
+Her confession is nervous and sincere. Her 「……そっか。」 is quiet, restrained, and slightly hollow.
+
+Boy 1:
+
+Natural youthful Japanese male voice.
+
+His unfinished word sounds startled and hesitant.
+
+Boy 2:
+
+Natural youthful Japanese male voice.
+
+The rejection is smiling and lightly apologetic.
+
+The palms-together apology and wink feel breezy, casual, and slightly playful.
+
+Speak only the exact Japanese lines in ACTION TIMING, once each and within their assigned shots.
+
+Match speaking mouths to dialogue.
+
+Allow natural breathing and restrained sobbing.
+
+Sparkling particles and the wink have no added sound effects.
+
+No BGM, score, musical pads, chimes, extra dialogue, or narration.
+
+
+
+
+CHARACTER ACTING
+
+@Image 3 GIRL:
+
+She gathers courage during the confession and tries to remain composed after the rejection.
+
+Her lowered head and small hair movement communicate suppressed hurt.
+
+She begins crying only after Boy 2 leaves.
+
+Discovering Boy 1 turns sadness into humiliation and defensive anger.
+
+@Image 1 BOY 1:
+
+remains focused on the girl. His hurt appears through a lowered gaze, a loosening grip, and collapsed shoulders.
+
+His decision to follow her is small but decisive.
+
+@Image 3 BOY 2:
+
+He smiles with slightly knitted brows during the rejection and stays to hear her reply.
+
+His firm palms-together apology and single wink make the apology feel casually performative.
+
+He treats the dessert offer as an easy way to move past the discomfort.
+
+He leaves promptly after saying goodbye.
+
+
+
+
+STYLE
+
+Modern Japanese 2D animation with crisp linework, clean cel shading, expressive faces, readable hands, and fluid hair movement.
+
+Consistent soft cinematic glow across the whole clip.
+
+Strong contrast between warm illuminated areas and cooler, deeper shadows.
+
+Sparse golden-white sparkling dust adds atmosphere and depth.
+
+Preserve clear facial features, strong silhouettes, and controlled depth of field.
+
+Keep the emotional focus on the girl and Boy 1.
+
+Boy 2’s casual smile, wink, and quick departure contrast with the hurt he leaves behind.
+
+
+
+
+POSITIVE CONSTRAINTS
+
+One school corridor location.
+
+Three distinct students.
+
+Exactly 30 seconds and nine shots.
+
+The rejecting boy has one spoken line, one casual head touch, and no independent close-up.
+
+His smile remains casual throughout the rejection.
+
+The girl discovers the childhood friend before running past and bumping his shoulder.
+
+The childhood friend pauses in visible hurt before chasing her.
+
+Maintain consistent character designs, clothing, bags, screen directions, eyelines, and lighting across both scenes.
+
+Japanese dialogue only.
+
+No music, subtitles, captions, logos, watermarks, or readable text.
+
+See all
+Copy prompt
+Recreate
+Result
+
+
+
+
+
+Prompt of Scene 2
+
+SCENE CONTEXT
+
+The girl sits with her face covered, crying after being rejected.
+
+Her childhood friend runs over, catches his breath, and gently calls to her. She hurriedly wipes her tears with her sleeves and defensively tells him to leave.
+
+He sits beside her. She shifts farther away.
+
+Without speaking, he gently draws her into an embrace. She rests her head against his chest, grips his shirt, and breaks down.
+
+His inner voice quietly wishes that she were crying for him.
+
+End on a distant view of the two embracing, surrounded by white space.
+
+The emotional progression:
+
+Hidden grief → exposed vulnerability → defensive contempt → tense silence → accepting comfort → uncontrolled crying → unspoken longing.
+
+
+
+
+ACTIVE REFERENCES
+
+@Image 2 GIRL:
+
+Her eyes are already red and wet. Her cheeks retain tear tracks from the previous scene.
+
+@Image 1 CHILDHOOD FRIEND:
+
+He wears the same collared school shirt. Its chest fabric must visibly gather when she grips it.
+
+Her schoolbag rests beside the bench near her feet.
+
+His schoolbag remains on his back throughout the scene.
+
+One bench. Two visible characters.
+
+
+
+
+LOCATION MAP
+
+@Image 3 A quiet outdoor bench stands behind the school.
+
+The girl initially sits on the screen-left end of the bench.
+
+The childhood friend approaches from screen-right and stops beside her.
+
+He sits to her right, leaving a visible gap.
+
+She shifts farther toward screen-left.
+
+During the embrace, she leans toward screen-right into his chest.
+
+Keep these screen positions throughout the close-ups and final wide shot.
+
+Use a simple school wall, soft tree shapes, and subdued ground shadows to establish the location.
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+Start on a wide shot of the girl sitting alone.
+
+She leans forward with both hands covering her face. Her shoulders tremble with suppressed crying.
+
+Her childhood friend enters from screen-right.
+
+After sitting, he remains in place when she shifts away.
+
+To begin the embrace, his right arm reaches behind her upper back and rests at her far shoulder. His left hand supports her nearer upper shoulder.
+
+He gently draws her toward him. She initially stiffens, then lets her head settle against his chest.
+
+Both of his hands remain at her shoulders during the final embrace.
+
+Her hands move from her sleeves to the front of his shirt and remain gripping the chest fabric.
+
+
+
+
+FORMAT MODE
+
+One 30-second video.
+
+16:9 horizontal.
+
+Ten shots connected by hard cuts.
+
+Japanese spoken dialogue and one Japanese internal voice-over.
+
+Consistent soft cinematic glow and strong light-and-shadow contrast throughout the clip.
+
+No background music, subtitles, captions, or external narration.
+
+The final five seconds show a fixed distant view of the embrace surrounded by white.
+
+
+
+
+OPTICS
+
+Prioritize face close-ups, medium two-shots, and one detailed insert of her hands gripping his shirt.
+
+Keep tears, sleeve movements, fingers, and shirt folds readable.
+
+Use softly simplified backgrounds without extreme blur.
+
+The childhood friend’s close-up must retain part of the girl’s head or shoulder in the foreground, preserving their physical connection.
+
+In the final wide shot, keep the pair and bench clearly outlined against the surrounding white.
+
+
+
+
+CAMERA
+
+Use fixed framing for the opening interaction.
+
+Cut on her upward glance, his decision to sit, her hand movement, and his lowered gaze.
+
+Show the beginning of the embrace in one uninterrupted medium two-shot.
+
+Use a gentle backward camera drift in Shot 9.
+
+Hard cut to a wider matching composition in Shot 10, then hold completely still.
+
+Nobody looks into the lens.
+
+
+
+
+ACTION TIMING
+
+SHOT 1 — 0:00–0:01.5
+
+Fixed wide shot.
+
+The girl sits alone at the screen-left end of the bench, bent forward with her face covered.
+
+Her shoulders tremble with restrained crying.
+
+Running footsteps approach.
+
+Boy 1 enters from screen-right and slows when he sees her.
+
+Warm afternoon light outlines her hair against the shaded background.
+
+No dialogue.
+
+
+
+
+HARD CUT closer.
+
+SHOT 2 — 0:01.5–0:04.0
+
+Side medium shot, with the girl in the foreground.
+
+Boy 1 stops beside the bench, breathing hard.
+
+He briefly bends forward with one hand on his knee.
+
+He takes a settling breath, straightens, and looks at her with hesitation.
+
+Boy 1:
+
+「なあ……」
+
+Deliver the word gently, after his initial breathlessness has eased.
+
+
+
+
+HARD CUT on her reaction.
+
+SHOT 3 — 0:04.0–0:08.0
+
+Close-up of the girl.
+
+Her shoulders stop momentarily.
+
+She looks up through her fingers, recognizes him, and immediately turns her face away.
+
+She wipes one eye with her sleeve, then the other, quickly and unevenly.
+
+Her eyes remain wet.
+
+She turns back and gives him a sharp, defensive look. Her mouth attempts a contemptuous expression despite its trembling.
+
+Girl:
+
+「何よ？私のこと、見下してるの？」
+
+Her breath catches.
+
+Girl:
+
+「あっち行ってよ。」
+
+She turns away again and presses her sleeve beneath her eye.
+
+
+
+
+HARD CUT to a two-shot.
+
+SHOT 4 — 0:08.0–0:11.0
+
+Fixed medium two-shot showing both characters and the bench.
+
+0:08.0–0:08.8:
+
+Boy 1 quietly sits to her right, leaving a small gap.
+
+The bench makes a soft sound under his weight.
+
+0:08.8–0:10.1:
+
+Hold both characters still.
+
+The girl does not immediately move away.
+
+She keeps her face turned aside, her shoulders tense, and her eyes lowered.
+
+Boy 1 rests his hands on his knees.
+
+Let this silent pause remain clearly visible.
+
+0:10.1–0:11.0:
+
+Only after the pause does the girl shift farther toward screen-left.
+
+End with a larger strip of empty bench between them.
+
+Boy 1 stays where he is.
+
+No dialogue.
+
+
+
+
+HARD CUT while preserving the gap.
+
+SHOT 5 — 0:11.0–0:12.5
+
+Fixed medium shot favoring Boy 1, with the girl and the empty space still visible.
+
+Boy 1 notices that she has moved away.
+
+He looks briefly at the gap, then toward her lowered face.
+
+He remains seated in place for the full beat.
+
+Both hands stay on his knees.
+
+He takes a small, quiet breath.
+
+The girl continues struggling to contain her crying.
+
+No reaching, sliding closer, or embracing yet.
+
+No dialogue.
+
+
+
+
+HARD CUT after the waiting beat.
+
+SHOT 6 — 0:12.5–0:15.5
+
+Front medium two-shot, uninterrupted.
+
+Only now does Boy 1 shift a little closer.
+
+His right arm reaches behind her upper back, and his hand settles gently at her far shoulder.
+
+She stiffens. Her sleeve stops moving.
+
+His left hand rests at her nearer upper shoulder.
+
+He turns slightly toward her and gently draws her toward his chest.
+
+Her raised hands slowly lower.
+
+She allows her forehead and then the side of her face to settle against him.
+
+He steadies her with both hands at her shoulders.
+
+No dialogue.
+
+
+
+
+HARD CUT to her hands.
+
+SHOT 7 — 0:15.5–0:19.0
+
+Close-up of her hands against his shirt, gently reframing to include part of her lowered face.
+
+Her fingertips initially rest against the fabric.
+
+Then both hands tighten, gathering small folds across his chest.
+
+Her fingers tremble.
+
+Girl:
+
+「悔しい……」
+
+Deliver the word in a strained, breaking voice, as if she has finally admitted the feeling she was trying to hide.
+
+She says it into his chest without lifting her head to face the camera.
+
+After the line, she draws a shaky breath.
+
+Her restrained crying suddenly breaks into loud, uncontained sobbing.
+
+She grips the shirt more tightly and presses her face deeper against him.
+
+Her shoulders shake visibly.
+
+His hands remain steady at her shoulders.
+
+
+
+
+HARD CUT to his face while her crying continues.
+
+SHOT 8 — 0:19.0–0:23.0
+
+Close-up of Boy 1.
+
+The top of her head and part of her shoulder remain visible in the lower foreground.
+
+He looks down at her, then at her hands gripping his shirt.
+
+His expression holds tenderness, sadness, and a private longing.
+
+He does not smile.
+
+Boy 1 — INTERNAL VOICE-OVER:
+
+「もし、俺のために泣いてるんだったら……」
+
+Deliver the thought quietly and intimately, with a slight hesitation after 「もし」.
+
+Leave the sentence unfinished.
+
+His mouth remains closed.
+
+Her sobbing continues underneath the thought. Keep both the crying and the internal line intelligible.
+
+She does not react to his inner voice.
+
+
+
+
+HARD CUT to both of them.
+
+SHOT 9 — 0:23.0–0:25.0
+
+Medium two-shot with a gentle backward camera drift.
+
+She remains against his chest, gripping his shirt.
+
+Her crying continues in uneven waves.
+
+He keeps both hands on her shoulders and his head slightly lowered toward her.
+
+The school wall, trees, and ground details begin fading into white from the outside edges of the frame.
+
+The transition affects the surroundings, not the exposure of the characters.
+
+Preserve the pair’s colors, shadows, outlines, and physical contact.
+
+No dialogue.
+
+
+
+
+HARD CUT to a wider matching composition.
+
+SHOT 10 — 0:25.0–0:30.0
+
+Fixed distant wide shot.
+
+The two embracing figures and the bench occupy a small area slightly below the center of the frame.
+
+Broad white space surrounds them.
+
+Remove recognizable background scenery. Retain a faint grounding shadow beneath the bench.
+
+The girl’s head remains against his chest.
+
+Both hands still grip his shirt.
+
+His hands stay at her shoulders.
+
+Her shoulders continue moving with uneven sobs. She does not become instantly calm.
+
+Let the crying gradually sound more tired toward the end.
+
+Hold the full five seconds.
+
+No dialogue.
+
+End on the visible embrace surrounded by white. Keep the couple and bench visible until the final frame.
+
+
+
+
+PHYSICS
+
+
+
+
+SEATED MOVEMENT:
+
+The girl remains still after Boy 1 sits, then shifts sideways with a believable transfer of weight.
+
+Boy 1 stays in place through the second pause.
+
+His later movement closer is small and distinct from her earlier movement away.
+
+Keep their seated positions and the changing gap consistent across cuts.
+
+
+
+
+HAIR:
+
+Hair follows running stops, head turns, and lowered posture with a slight delay.
+
+The head leads, larger hair sections follow, and the tips settle last.
+
+Use a small overshoot, rebound, and natural settling.
+
+When the girl leans into Boy 1, her hair slides forward and compresses gently where it contacts his chest and shoulder.
+
+Maintain the same hairstyle, length, volume, and parting.
+
+
+
+
+HANDS AND FABRIC:
+
+Her sleeves crease around her wrists and become slightly damp from repeated wiping.
+
+Her fingers gather visible shirt folds before she speaks.
+
+The grip tightens further when loud crying begins.
+
+Keep the same fabric folds under her fingers across subsequent shots.
+
+His shirt pulls toward her hands without stretching unnaturally.
+
+His hands remain at her shoulders.
+
+
+
+
+CRYING:
+
+Tears remain visible between wipes.
+
+Before the embrace, use small, restrained shoulder movements.
+
+After 「悔しい……」, use stronger, irregular shoulder tremors and interrupted breathing.
+
+Boy 1’s hands gently accommodate the movement while keeping her supported.
+
+Maintain stable anatomy, grounded seated weight, and natural contact.
+
+
+
+
+LIGHTING
+
+Apply a consistent soft, luminous lighting treatment throughout all ten shots.
+
+
+
+
+OVERALL LOOK:
+
+Combine softly diffused highlights with strong light-and-shadow separation.
+
+Warm late-afternoon sunlight illuminates selected surfaces of the faces, hair, sleeves, and bench.
+
+Preserve cooler, deeper shadows on the opposite sides of the faces and beneath the bench.
+
+Aim for approximately 4:1–5:1 facial lighting contrast while keeping eyes and emotional expressions readable.
+
+
+
+
+SOFT GLOW:
+
+Use restrained bloom around bright hair edges, selected skin highlights, and sunlit background areas.
+
+Keep shadow areas rich and stable.
+
+Maintain clear facial features and clean linework within the soft lighting treatment.
+
+Use readable cel-shadow shapes beneath fringes, noses, chins, collars, and overlapping arms.
+
+Keep light sources fixed and exposure stable.
+
+
+
+
+EYES AND HAIR:
+
+Add faint luminous color within visible irises and small, bright catchlights.
+
+Tears catch small, natural highlights.
+
+Preserve pupils, iris details, and eyelid shapes.
+
+Add a soft, narrow glow along selected illuminated hair edges and strands.
+
+Highlights follow head movement and hair motion smoothly.
+
+Retain darker inner hair groups and distinct strands.
+
+WHITE-BACKGROUND ENDING:
+
+During the final transition, fade the surroundings into white while preserving the characters’ original shading.
+
+Keep the shaded folds of the shirt, the overlapping arms, and the girl’s hair clearly readable.
+
+Gently reduce highlight bloom as the white background takes over, maintaining strong silhouettes.
+
+Retain a faint grounding shadow beneath the bench.
+
+
+
+
+AUDIO
+
+Quiet outdoor school ambience, distant wind through leaves, running footsteps, breathing, bench movement, sleeves brushing skin, shirt fabric tightening, and crying.
+
+Boy 1’s initial breathing reflects the run and settles before his greeting.
+
+Preserve silence between spoken lines, especially during both waiting beats.
+
+Girl:
+
+Natural youthful Japanese female voice.
+
+Her first two lines are defensive and sharp, with unstable breathing.
+
+「悔しい……」 sounds strained, vulnerable, and close to breaking.
+
+After this word, her crying becomes clearly louder and less controlled.
+
+Allow audible sobs, interrupted inhalations, and wavering cries.
+
+Boy 1:
+
+Natural youthful Japanese male voice.
+
+His greeting is gentle and tentative.
+
+His internal voice-over uses the same voice, quieter and closer, without an echo effect.
+
+The internal line is not spoken aloud and must not produce lip movement.
+
+Speak only the exact Japanese lines in ACTION TIMING, once each.
+
+Keep the girl’s crying present beneath the internal voice-over, balancing the levels so the thought remains clear.
+
+Let outdoor ambience gradually recede during the white transition.
+
+Retain her sobbing and his breathing in the final wide shot.
+
+No BGM, score, musical pads, heartbeat effects, extra dialogue, or external narrator.
+
+
+
+
+CHARACTER ACTING
+
+@Image 2 GIRL:
+
+She uses a contemptuous look and sharp words to hide the humiliation of being seen crying.
+
+Her sleeve wiping is hurried and ineffective.
+
+After Boy 1 sits, she holds herself rigid for a moment before deciding to move away.
+
+During the embrace, she gradually stops trying to appear composed.
+
+Gripping his shirt gives her a physical outlet for the frustration.
+
+「悔しい……」 is the final fragile admission before she loses control and cries loudly.
+
+She remains upset about the rejection. Her response is grief and relief at being supported.
+
+@Image 1 BOY 1:
+
+He lets the first silence happen after sitting.
+
+When she shifts away, he notices and waits again.
+
+His decision to move closer comes only after this second hesitation.
+
+He offers comfort through quiet physical support.
+
+His internal thought reveals longing, while his expression and actions remain gentle and restrained.
+
+He does not finish the thought or make a spoken confession.
+
+
+
+
+STYLE
+
+Modern Japanese 2D animation matching Scene 1.
+
+Crisp linework, clean cel shading, expressive eyes, readable hands, and fluid hair movement.
+
+Consistent soft cinematic glow throughout the clip.
+
+Strong contrast between warm illuminated areas and cooler, deeper shadows.
+
+Keep the tone intimate, bittersweet, and emotionally restrained until the girl’s crying breaks open.
+
+Use the two visible pauses to give weight to the distance between them.
+
+The final white space isolates the embrace while preserving the figures clearly.
+
+
+
+
+POSITIVE CONSTRAINTS
+
+One outdoor bench location.
+
+Two visible characters.
+
+Exactly 30 seconds and ten shots.
+
+The childhood friend catches his breath before speaking.
+
+The girl wipes her tears with her sleeves, speaks defensively, and shifts away after he sits.
+
+He embraces her without additional spoken reassurance.
+
+Her head rests against his chest.
+
+Both hands grip his shirt.
+
+His hands remain at her shoulders.
+
+Preserve the exact Japanese internal line:
+
+「もし、俺のために泣いてるんだったら……」
+
+Deliver it once as an unfinished internal thought, with no lip movement.
+
+The final five seconds are a distant, fixed view of their embrace surrounded by white.
+
+Keep the couple and bench visible until the final frame.
+
+Japanese dialogue and internal voice-over only.
+
+No music, subtitles, captions, logos, watermarks, or readable text.
+
+See all
+Copy prompt
+Recreate
+Result
+
+
+
+
+Finally, pick the generated shots you like and edit them together in story order—and you’ve got a complete story!
+
+That’s the workflow and the main points I wanted to share with you this time. Feel free to use these prompts as a starting point and adapt them to your own characters, settings, and emotions. I’d love to see what stories you create.
+
+
+
+
+Hope you enjoy it!

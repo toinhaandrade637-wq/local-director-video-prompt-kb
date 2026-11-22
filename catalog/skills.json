@@ -1,0 +1,50 @@
+[
+ {
+  "name": "character-asset-sheet",
+  "path": "skills/character-asset-sheet/SKILL.md",
+  "description": "人物资产设定集模板——把一句角色描述组装成生产级「角色设定集 / 三视图 turnaround」生图 prompt。当用户要生成或设计一个角色(人物)的资产图、设定集、三视图、立绘、角色概念图，或提到「人物资产、角色设定、character sheet、turnaround、正面/侧面/背面、身高标尺」时使用。内置硬约",
+  "files": 3
+ },
+ {
+  "name": "fountain-screenplay",
+  "path": "skills/fountain-screenplay/SKILL.md",
+  "description": "'专业剧本格式：工作区里带场次轨和台词块的 .fountain。用户要「新建一个剧本」「新建剧本」「建一份专业剧本」、点名专业剧本格式或 .fountain、或正在改已有 .fountain 时调用。不用于分析、改写或视频工作流；未点名格式的「写剧本」不是本技能。'",
+  "files": 4
+ },
+ {
+  "name": "hf-image-prompt",
+  "path": "skills/hf-image-prompt/SKILL.md",
+  "description": "依据 higgsfield.ai 画布全量逐字语料沉淀的生图提示词方法库：Plate Master 结构、色彩 HEX 立法、质感与后期通道。适用于编写/修改生图提示词与排查质感色彩问题。",
+  "files": 6
+ },
+ {
+  "name": "hf-video-prompt",
+  "path": "skills/hf-video-prompt/SKILL.md",
+  "description": "依据 higgsfield.ai 画布全量逐字语料沉淀的视频提示词方法库，编写/修改/检查视频生成提示词：结构、运镜、动作打戏、多主体、VFX 合成、声音。适用于把既定内容写成合格视频提示词与排查漂移；不承担从零编故事。",
+  "files": 8
+ },
+ {
+  "name": "image-text-transcript",
+  "path": "skills/image-text-transcript/SKILL.md",
+  "description": "把看见的图片解析成主 Agent 能接着用的结构化所见内容。仅 image-understanding 使用。",
+  "files": 2
+ },
+ {
+  "name": "prop-asset-sheet",
+  "path": "skills/prop-asset-sheet/SKILL.md",
+  "description": "道具资产设定集模板——把一句道具描述组装成生产级「道具设定集 / 三视图 turnaround」生图 prompt。当用户要生成或设计一个道具、物品、武器、载具、服装单品的资产图、设定集、三视图、道具概念图，或提到「道具资产、道具设定、prop sheet、turnaround、顶视/侧视、比例标尺」时使用。内置硬约束",
+  "files": 3
+ },
+ {
+  "name": "seedance-prompt",
+  "path": "skills/seedance-prompt/SKILL.md",
+  "description": "根据已有剧情、分镜、参考素材职责或现有提示词，为Seedance 2.5编写、修改和检查视频提示词。适用于把既定内容写清楚、完善动作表演与视听接续；不承担从零编故事或执行媒体生成。",
+  "files": 16
+ },
+ {
+  "name": "suno-music-prompts",
+  "path": "skills/suno-music-prompts/SKILL.md",
+  "description": ">-",
+  "files": 9
+ }
+]

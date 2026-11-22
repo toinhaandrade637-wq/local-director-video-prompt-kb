@@ -1,0 +1,343 @@
+【项目】$10,000 VFX VS AI: WHO WINS?（@adilinthewildtempo · 创作者博客）
+【链接】https://higgsfield.ai/@adilinthewildtempo/blogs/10-000-vfx-vs-ai-who-wins
+【提示词块】13
+【捕获】2026-11-05（浏览器全文抓取+滚动合并；YouTube 官方视频 X7Uw_cWBpzs 简介链引入）
+
+──────────────────────────────────────
+
+Special offer
+
+Unlimited Seedance 2.5 at 720p for 30 days. Available on Scale plan with 30% OFF.
+Get Unlimited Seedance 2.5
+Explore
+Image
+Video
+Audio
+MCP
+API
+Genjutsu
+Shorts
+New
+Content Factory
+Playable
+Mangaka
+AI Influencer
+Academy
+Katana
+ChatGPT Plugin
+Ads Studio
+Effects
+Cinema Studio
+Contests
+Marketing Studio
+Supercomputer
+Edit
+Community
+Plugins
+Canvas
+Originals
+Enterprise
+Pricing
+-30%
+@adilinthewildtempo
+/
+$10,000 VFX vs AI: Who Wins?
+Nov 4, 21:48 · 6 min
+$10,000 VFX VS AI: WHO WINS?
+A
+113
+1
+0
+Erik challenged me to turn his forest footage into a cinematic dinosaur chase. He made his version with traditional VFX. I used Higgsfield to create my own creature, put myself into the footage, and finish the sequence with an explosion.
+The project had 12 shots, each with a different problem to solve: a face that wouldn’t stay consistent, a dinosaur in the wrong position, an arrow that needed a clear flight path, and a run that looked too mechanical.
+Here’s the workflow, with the references, generation prompts, and results you can use to recreate it.
+Start by watching the video on YouTube 
+Before You Start
+I used Claude with Higgsfield MCP to create references and write prompts, then generated the main shots in Cinema Studio with Seedance 2.5. Keep your footage, references, and results in a folder for each shot. Save recurring characters as Elements and link each @ tag to the right file.
+Download the Dinosaur Skills
+Before you start, download the two Claude skills below. Use dinosaur-anatomy for body structure and dinosaur-motion for movement. Add them in Claude’s Skills settings to help write your prompts.
+higgsfield-dinosaur-anatomy.md
+MD
+higgsfield-dinosaur-motion.md
+Create a Dinosaur That Works in Motion
+1. Create the First Version
+I started with a feathered Velociraptor reference sheet showing full-body views, a head portrait, and a foot close-up. I tested the design in motion before creating the final version.
+First-version prompt
+Create a highly photorealistic natural-history reference sheet of one adult VELOCIRAPTOR MONGOLIENSIS, using this text alone, no reference images. A scientifically informed feathered reconstruction photographed as a living animal. Small, lightly built, low-bodied predator with a long narrow low skull, subtly upturned snout profile, slender neck, compact flesh-covered ribcage, well-proportioned thighs and a very long tapering bony tail held clear of ground. NOT the large bulky naked movie raptor. No beak: a narrow tooth-bearing reptilian snout. No ornamental crests or horns.
+Landscape 3:2, plain warm light-gray studio with soft directional daylight, lifelike shadows, restrained photographic color, sharp detail. Design a spacious reference sheet: top half two large full-body views, exact left profile and front three-quarter view; lower half three panels, a smaller full-body slow walking pose, a large detailed head portrait with mouth slightly open, and a detailed complete foot close-up including the lower leg and all toes. All complete-body silhouettes fit with generous margins, including tail tip, feathers and feet. No text, fake labels or signatures. Same individual's coloration, head proportions and marking locations in every panel.
+Feather covering: short layered contour feathers over body, neck and thighs, smoothly following fleshy volume rather than inflating into a huge bird ball; substantial long pennaceous feathers along the forearm and second finger forming folded wing-like arms; modest feathering along the long tail. Fine individual overlapping barbs and feather edges with soft irregular natural arrangement, not hair, fur or quills. Muted sandy-brown upper plumage with subtle darker barring, buff underside and gray-brown flight feathers. This color scheme and exact feather distribution are plausible artistic choices. Leave a restrained small area of fine-scaled skin around the snout and eye, and scaly lower feet. Do not expose a naked wrinkled turkey neck or bare muscular torso.
+Three clawed fingers on each forelimb, palms facing each other, feathered arms gently folded against sides without anatomically fusing into chest. Show natural finger placement within the wing feathers, no extra hands. Digitigrade hindlimbs: elevated ankles, two forward supporting toes III and IV bearing weight on the ground, inner toe II held flexed UP with its distinctive curved sickle claw completely clear of the ground, small first toe above ground. The foot close-up clearly separates all digits. No giant fantasy claws. The walking panel shows one planted foot and the other lifted forward, with believable balance and small joint yielding.
+Healthy flesh and soft tissues beneath plumage; subtle contour change with posture, no exposed muscle bundles or deep sculpted grooves. Fine facial skin with restrained shallow scale relief and slight eyelid folds; dry diffuse surface contrasting with wet convex cornea and moist mouth interior. Warm brown iris, round dark pupil, attentive natural gaze. Narrow jaws and slightly open mouth reveal individually varied small backward-curving laterally compressed ivory teeth embedded in gums, delicate serrations only at close range, no identical white triangular zipper or oversized T.rex teeth. Thin scaled oral margins, relaxed mouth, tongue rests inside, no snarling or roaring.
+Make the animal feel alive through believable weight, subtle asymmetry, compliant exposed skin, alert gaze, soft feather overlap and realistic photographic material response. No toy sheen, resin, clay, plastic, glossy uniform scales, waxy skin, illustration, skeletal overlay, people or environment.
+See all
+Copy prompt
+Recreate
+First version
+2. Create the Final Version
+For the final version, I used two real animal photos as texture references: bird feathers and monitor lizard skin. These helped create a lifelike portrait with natural surfaces, soft light, and a believable eye.
+Texture references:
+Final-version prompt
+A real-looking wildlife photograph of a living feathered Velociraptor mongoliensis. Use the two attached REAL photographs as the visual foundation for photographic realism and physical surfaces. Reference 1 is bird feather macro: use its delicate thin flat vanes, visible irregular individual barbs, soft overlap, variations in focus, small feather splits and subtle natural sheen. Reference 2 is a real monitor lizard portrait: use its organic face scale irregularities, soft eyelid flesh, realistic moist dark eye, natural oral margin and the way light interacts with living skin. Combine these physical qualities into one coherent living feathered dinosaur. Do not reproduce a bird or a monitor lizard; do not use a previous dinosaur render.
+ONE single uncropped photographic frame, not a character sheet or collage. Close eye-level three-quarter portrait including the head, long neck, chest, folded feathered forearms and upper thighs, with tail running out into the softly blurred distance. Animal head turned subtly toward the camera, quiet alert gaze, mouth closed with thin natural scaled margins. Species has narrow long low tooth-bearing snout, no beak, light dromaeosaur build. Soft naturally filled body under feathers. Winglike arms with long flight feathers and three discreet clawed fingers partly visible; no giant arms or grotesque claw display.
+Plumage on neck, torso and thighs: subdued cool gray-brown with irregular dark brown mottling and a paler gray-buff throat and underside. Short smooth overlapping contour feathers lie along body contours, not spiky fur. Larger wing feathers are thin, irregularly layered, locally slightly ruffled. Real fine feather barb texture rather than sculpted ridges. Small patches of exposed gray-brown skin on snout and around eyelids, modest scale size, slight irregular pigmentation and softness. Preserve an actual living eye with a dark brown iris, round pupil, nuanced curved wet corneal reflection and soft irregular eyelid edges. Skin reads as hydrated tissue without being lacquered; feather surfaces are dry and softly scattering.
+Observe it outdoors on a neutral dusty bank in soft open shade, shallow depth of field with an unobtrusive pale earth-colored out-of-focus background. Natural available light falls unevenly through distant vegetation, with restrained contrast, an ordinary camera exposure and real shadow transitions. Telephoto wildlife photograph, focal plane through the nearest eye and adjacent facial skin; distant shoulder, rear feathers and background progressively soften. Preserve true photographic microcontrast instead of equally sharpened detail everywhere. Subtle irregularities and a few tiny specks of dust, not dirt pasted over everything. No dramatic rim light, artificial studio shadows, stylized grading or heroic dinosaur posing. The convincing natural visual character of the two input photographs is more important than 'fantasy creature' polish. Output must look like a plausible observational camera photograph, not 3D CGI, a museum model, a game asset, a wax model, an illustration, a glossy toy or an airbrushed digital painting. No text or watermark.
+Final dinosaur reference
+This final design became the dinosaur reference for the whole sequence.
+Prepare Your Character Reference
+To replace Erik with myself, I used a short video showing my face from different angles. You can record one by turning slowly in even light. This video defines the face; the source footage provides the clothes and movement.
+Shot 01: Replace the Face and Place the Dinosaur
+The first results mixed my face with Erik’s and put the dinosaur in the wrong place. I blurred Erik’s head in the source clip and used my video reference for the replacement. A layout image showed the dinosaur’s exact position, size, and background blur.
+Original footage:
+Attach: Blurred-head source clip, your video character sheet, and the approved dinosaur layout.
+SCENE CONTEXT
+A hunter slips out from behind a mossy conifer trunk, bow ready, and watches a feathered dinosaur that is sniffing at the ground in the clearing behind him, soft and out of focus. One locked-off shot, 5 s. The man stands in the right half of the frame on the focus plane; the dinosaur is in the background clearing, left of center, about 30 m from camera, behind every trunk that stands between it and the camera.
+ACTIVE REFERENCES
+@shot_plate — source video: locked-off forest plate with a stand-in actor whose whole head is covered by a blur region. Use it for the environment, framing, lens, light, depth of field and the exact motion and timing of the man — his step out from behind the trunk, his stance, the bow and both hands, frame for frame. The actor is replaced by the character: the blurred head becomes the character's fully sharp, detailed head, and his hands and skin become the character's. His wardrobe — the dark charcoal washed-canvas zip jacket over a black T-shirt, the quiver strap across the chest, the dark cargo pants — the bow, the nocked arrow and the hand positions stay exactly as in the plate. Forest, trunks, moss and background blur stay identical to the plate.
+@char_head_adil_360 — 360° head video of the character: mid-20s man, dark tightly curled hair, thin mustache, light olive skin, small earring, 100% matches the reference. Use it for the head only — face, hair, skin tone, the identity from every angle it shows; the blue T-shirt and the grey studio stay out of the shot.
+@ref_layout_dino — the first frame of the same clip with the dinosaur already in place: the reference for the dinosaur's design, position, size and defocus. A feathered theropod with dark grey-brown streaked plumage, scaly grey snout, long feathered tail, standing on the moss in the background clearing, left of center, in front of the dark dead branch, side-on to camera facing screen-right, head raised, soft and out of focus like the trunks around it. Match this dinosaur exactly — the same design, the same spot, the same size and the same softness; the frame is otherwise identical to the clip's first frame.
+LOCATION MAP
+Foreground right of center: a thick straight trunk covered in grey-green lichen and moss, 2.5 m from camera; the man stands just right of it on the focus plane. Midground: thinner mossy trunks about 8 m from camera, already soft — one of them stands just to the right of the dinosaur's head, between the dinosaur and the camera. Background: bright green moss carpet rolling away in soft hummocks to far rows of dark conifer trunks dissolved into blur, cool grey-green haze between them. The dinosaur stands where @ref_layout_dino shows it: on the moss in the background clearing, left of center, in front of the dead branch, about 30 m from camera. Depth order is fixed: the dinosaur is far behind the midground trunks, so every trunk between it and the camera stays in front of it — whenever its snout or head reaches the trunk on its right, the trunk covers it and the head disappears behind the trunk; no part of the dinosaur ever appears in front of that trunk. Light: soft overcast daylight from above through the canopy.
+FIRST FRAME / BLOCKING
+Frame one: the man is still hidden behind the trunk; the frame matches @ref_layout_dino — the dinosaur already standing in the background clearing, side-on, facing screen-right, head raised, a soft out-of-focus figure between the trunks, its snout stopping short of the midground trunk on its right. Composition identical to @shot_plate.
+FORMAT MODE
+One continuous locked-off shot, the camera does not cut on its own.
+OPTICS
+Medium shot on the man, 47° FOV, rectilinear prime character, shallow depth of field: focus on the trunk and the man; the midground trunks soft, the background moss, far trunks and the dinosaur carrying exactly the same soft blur radius as each other — the dinosaur's outline readable, its eye, claws and individual feathers dissolved into the background blur, as in @ref_layout_dino. No drift.
+CAMERA
+Locked off at chest height, level, identical to the plate: position, framing and focus held for all 5 s; focus stays on the man's plane throughout.
+ACTION
+0.0–1.2 s — the plate without the man; the dinosaur stands as in @ref_layout_dino for the first 0.6 s, head raised, tail level, then lowers its head to the moss and sniffs at the ground: the snout hovering just above the moss and drifting slowly from side to side, the head dipping a little closer and lifting again, tail level and swaying slowly — small, calm movements at that distance, the ground untouched, the head staying on its own side of the midground trunk or passing behind it.
+1.2–2.0 s — exactly as in @shot_plate: the man steps out from behind the trunk from camera-right, moving left, and settles standing just right of the trunk with it directly behind his head and camera-left shoulder. Bow held horizontally at waist level across his body, hands as in the plate: one hand on the riser, the other pinching the string with the nocked arrow hanging straight down. His head is turned to screen-left, three-quarter profile to camera, eyes locked on the dinosaur.
+2.0–5.0 s — he holds, with the same micro-movements as the plate. The dinosaur keeps sniffing in the same spot: at about 2.6 s it lifts its head and looks along the clearing to screen-left, holds a beat with a small bird-like head tilt, drops its head back to the moss by 3.4 s and sniffs on; at about 4.3 s it raises its head once more, briefly, then lowers it again and keeps sniffing to the end. Its feet never leave their spot; it holds that distance, that size and that softness for all 5 s, always behind the trunks that stand between it and the camera.
+PERFORMANCE
+The man: jaw set, lips closed, shallow breathing through the nose, one slow blink around 3 s, eyes stay on the dinosaur. The look at the dinosaur is made with the head: the eyes look straight out of the face in the direction the head points, pupils centred in the eye openings, any sideways shift of the pupils a degree or two at most — never pushed into the corners of the eyes. Pore-level skin realism on face and hands, catchlights from the overcast sky, dark curls shifting slightly as he settles. The whole head fully sharp, on the same focus plane as the jacket collar.
+PHYSICS
+Real mass: the dinosaur's feet press into the moss, the head and neck move smoothly as it sniffs, the feathers on the neck ruffle slightly with its breath, the tail counterbalances every head movement. A faint soft contact shadow under it on the moss. Correct occlusion at all times: nearer trunks cover the farther dinosaur. Bow string taut, arrow stays nocked and vertical. Jacket creases shift with the man's steps.
+LIGHTING
+Soft overcast daylight from above through the canopy, 6500K, cool grey-green, low contrast, identical to the plate. The character's head lit as the rest of him is in the plate. The dinosaur is lit by the same top light with cool skylight on its back; its colors desaturated and flattened by the forest haze, as in @ref_layout_dino, its darkest feathers no darker than the trunks behind it.
+AUDIO
+SFX only: quiet forest ambience, light breeze in the canopy; the faintest distant sniffing from the dinosaur, almost lost in the ambience; soft steps on moss and a rustle of canvas as the man steps out; a faint creak of the bow.
+STYLE
+Photoreal live action, filmic, fine natural grain, the same cool overcast grade as the plate. NON-IP: generic feathered theropod, based on no brand or film creature.
+OUTPUT SETTINGS
+16:9, 5 s, 1080p, 24 fps, real time.
+POSITIVE LOCKS
+Camera, framing, forest, trunks, moss and background blur identical to @shot_plate. The man's movement, timing, stance, bow and hand positions identical to the plate frame for frame. Face, hair and skin from @char_head_adil_360, the head fully sharp and detailed where the blur region was, one identity for all 5 s; wardrobe, bow and arrow as in the plate. Dinosaur exactly as in @ref_layout_dino — design, spot, size and softness — present from frame one, sniffing at the ground, facing screen-right, as soft as the trunks beside it for all 5 s, always behind the midground trunks: the trunk to the right of its head stays in front of it and covers the head whenever the head reaches it. Pupils centred in the eyes throughout. The man stays the only sharp figure in the frame. Both figures lit by the same overcast top light.
+Result:
+Shot 02: Set the Dinosaur’s Size and Position
+The next shot shows the dinosaur from another angle. I used a screenshot from Erik’s video brief to show Claude its size and position. That screenshot helped write the prompt; the generation used the source clip and dinosaur reference. The dinosaur sniffs the ground, looks around, then returns to sniffing.
+Attach: Source clip and dinosaur reference.
+@Video 1 · 5s: Original clip. Keep everything exactly as in the source: the forest, the low camera angle, the framing, the locked-off camera, the lens, the lighting, color, depth of field and grain, the moss carpet in the foreground, the fallen dead tree with its roots on the left, the big mossy trunk right of center, every trunk behind. The moss stays exactly as in the source in every frame, completely still. Every pixel outside the creature and its shadow comes from the source footage unchanged; the only new pixels in the shot are the creature and its shadow.
+@char_dinosaur: Reference photo of the creature — design reference only: a feathered theropod with dark grey-brown streaked plumage, a paler throat and belly, a scaly grey snout, a round dark amber eye, long feathered arms with hooked claws, a long stiff feathered tail, 100% matches the reference. Its sandy background, warm light and the photo's own lens stay out of the shot; the environment comes from @Video 1 · 5s alone.
+Photoreal. 16:9. 4s. NON-IP — the creature follows @char_dinosaur only. SFX only.
+FIRST FRAME — placement, read this first. The creature stands in the LEFT half of the frame, left of center, in the open moss directly in front of the right end of the fallen dead tree's roots: its feet are planted on the moss at the lower edge of the clearing, about 5 m from camera, roughly one third of the frame width in from the left edge. Its body is turned three-quarter away from the camera toward the back-right of the clearing: hips and tail are the nearest part to camera, on the left, the tail stretching back toward the roots, the body receding diagonally into the clearing, the head further away and lowered to the moss. From the camera it is therefore compact: its tail tip sits just right of the roots, its snout ends just short of the vertical center line of the frame, and nothing of it crosses into the right half. The right half of the frame stays exactly as in the plate — only moss, the big mossy trunk right of center fully visible, and the trunks behind; a clear strip of moss separates the creature's snout from that big trunk. Real scale: its hips at about a man's chest height, snout to tail tip about one and a half times a man's height; on screen the top of its back reaches roughly the middle of the frame height. It stands on the focus plane: fully sharp like the moss and the roots beside it, rendered through the plate's own lens — a normal 40 mm full-frame equivalent, about 40° horizontal field of view, straight rectilinear perspective, no wide-angle exaggeration of the head or snout, its proportions compressed exactly like the trunks and roots around it, seen from the plate's low camera height. Same grain as the plate.
+ACTION. 0.0–1.4 s: head down, it sniffs the moss — the snout hovers just above the surface and drifts slowly from side to side, nostrils flaring with short sniffs, the head dipping a little closer and lifting again, the feathers on the neck ruffling slightly with its breath; the forelimbs hang still, the feet stay planted, the tail held level and swaying slowly. 1.4–2.4 s: it stops and lifts its head sharply, alert, neck straight: turns its head to look back over its shoulder toward the camera and screen-left, holds a beat, small sharp head tilts like a bird, a blink, then swings its head to screen-right across the clearing, listening, nostrils flaring, the whole body still except the head and the slowly swaying tail. 2.4–4.0 s: satisfied, it drops its head and goes back to sniffing the same spot, snout drifting over the moss, nostrils working, head dipping and lifting gently until the end of the shot. Its feet never leave their spot; it stays in the left half of the frame for all 4 s, the big trunk on the right never covered; its snout only hovers over the moss and the ground stays untouched. The camera stays locked off, exactly as in the source.
+LIGHT. The creature is lit only by the plate's soft overcast top light, cool and low-contrast, with cool skylight on its back and its darkest feathers no darker than the trunks behind it, its grey-brown plumage sitting in the plate's green grade. Soft contact shadows under its feet. Everything else identical to the source.
+SFX only: source sound unchanged, plus soft sniffing and short exhales, the creature's breathing, a pause with only the forest while it looks around, then the sniffing again.
+Shot 03: Reuse the Face Fix
+Now the hunter steps out, draws the bow, and fires. I reused the face fix from Shot 01: blur Erik’s head, then use my video reference to replace it while keeping the original movement and timing.
+Attach: Prepared source clip and video character sheet.
+A hunter stands with his back pressed to a mossy conifer trunk, bow low, glancing slightly to the side as he listens; then he turns, steps out past the trunk, swings the bow up, draws, aims with one eye and shoots at something off screen to the left. One shot, 4 s, in a mossy conifer forest. The person in the plate is replaced by the character; everything else stays as shot.
+@Video 1 · 5s 1 — source video: forest plate with a stand-in actor whose face is covered by a blur disc. Use it for the environment, framing, lens, the camera with its slight handheld drift, light, depth of field, grain, and the exact motion and timing of the man — his stance against the trunk, the turn, the swing of the bow, the draw, every position of the arms, hands, bow, string and arrow, frame for frame, up to the release. The actor is replaced by the character: the blur disc becomes the character's fully sharp, detailed head, and his hair, skin and hands become the character's. His wardrobe — the dark charcoal washed-canvas zip jacket over a black T-shirt, the quiver strap, the dark cargo pants — the bow and the arrow stay exactly as in the plate.
+@Video 1 · 5s 2 — 360° head video of the character: mid-20s man, dark tightly curled hair, thin mustache, light olive skin, small earring, 100% matches the reference. Use it for the head only — face, hair, skin tone, the identity from every angle it shows; the blue T-shirt and the grey studio stay out of the shot.
+A thick straight trunk covered in grey-green lichen and moss stands left of center, 2.5 m from camera; the man stands just right of it with his back against it, on the focus plane. Behind him a bright green moss clearing and rows of dark conifer trunks dissolving into soft blur, cool grey-green haze between them. His target is off screen to the left, beyond the trunk. Light: soft overcast daylight from above through the canopy.
+Frame one identical to @Video 1 · 5s 1: the man with his back to the trunk, body turned slightly to camera, the bow held low in his right hand with the string toward camera, his head turned a little over his right shoulder toward screen-left; the character's sharp face and dark curls in place of the blur disc.
+One continuous shot, the camera does not cut on its own.
+Medium shot, 47° FOV, rectilinear prime character, shallow depth of field: the man and the trunk sharp, the forest behind him soft, exactly as in the plate. The character's face and hands fully sharp on the same focus plane as his jacket collar. No drift of the lens beyond the plate's own.
+As in @Video 1 · 5s 1: handheld, almost still, with the plate's own slight drift, framing and focus following the plate for all 4 s.
+0.0–1.3 s — as in the plate: he stands with his back to the trunk, the bow low at his right side, string toward camera, head turned only slightly over his right shoulder, listening, still except for his breath.
+1.3–1.9 s — as in the plate: he pushes off the trunk, turns to screen-left and steps out past the trunk, swinging the bow up and across in one motion, the left arm extending toward screen-left with the bow vertical, the right hand drawing the string with the arrow back to his cheek, the body opening into a full archer's stance.
+1.9–3.4 s — as in the plate: he holds at full draw, aiming to screen-left past the trunk, the arrow level, the string at his cheek, the bow arm steady; the eye behind the string closes, the other sights along the arrow.
+3.4 s — the release: the fingers open, the string snaps forward, the arrow leaves the frame to the left in a single frame, the bow hand follows through with the bow rocking forward in his grip, the string hand opening back past his cheek.
+3.4–4.0 s — he holds the follow-through, bow still raised, the string hand relaxed by his jaw, both eyes open now, watching the arrow's flight off screen.
+ACTING TASK — the hunter (he is fully invested in his tactic; the work happens in his eyes):
+SCENE DIRECTION (unspoken): stay unheard and get the clean shot before the animal knows he is there.
+MOTIVE (his fuel): he has come a long way for this animal and will not get a second chance at it today.
+GOAL: pin down where the animal is behind the trunk and put the arrow in it on the first try.
+OBSTACLE: he cannot see it from behind the trunk — only hears it — and every movement of his own could give him away; one careless sound and it bolts.
+TACTIC: he hunts with his ears first, then with one eye.
+Moment to moment:
+— 0.0–1.3 s, back to the trunk — he listens: a small glance to the side toward the sound, the eyes resting there, fixing the direction, then measuring how far away it is; he checks the moss under his feet for a dry twig before he moves.
+— 1.3–1.9 s, the turn and the swing — he commits: from the moment he pushes off the trunk his eyes find the animal and stay on it through the whole swing, the hands finding the string and the arrow without looking.
+— 1.9–3.4 s, full draw — he aims with one eye: the eye behind the string closes, the open eye holds the point on the animal along the arrow, follows its movement, waits for the clean line through the trunks, lets the aim settle, breath stopped.
+— 3.4 s, the release — the decision is made and the fingers open on it; the eye never leaves the animal.
+— 3.4–4.0 s, follow-through — both eyes open, he watches the arrow fly and reads whether it hit.
+(Safety: gaze always engaged in the task — never a frozen, glassy, unfocused stare; natural blink cadence before the draw, no blinks during the aim. Looking to the side is done mostly by turning the head, so the eyes stay near the centre of the eye openings with only small shifts of a few degrees — the pupils never pushed into the corners of the eyes and never rolled far to the side. Lips closed, breath through the nose.)
+Real mass: the bow limbs flex as the string comes back and spring straight at the release, the string taut at the cheek then snapping forward with a fast blur, the arrow steady on the rest and gone in one frame, the jacket pulling across the shoulders at full draw, the quiver strap tight across the chest, fingers whitening on the string. Pore-level skin realism on face and hands. Feet planted on the moss.
+Soft overcast daylight from above through the canopy, 6500K, cool grey-green, low contrast, identical to the plate; the character's face lit as the rest of him is in the plate, catchlights from the overcast sky.
+SFX only: quiet forest ambience, light breeze in the canopy; the rustle of canvas and a soft step as he turns, the creak of the bow limbs and the string pulled to full draw, his held breath, then the sharp twang of the release and the hiss of the arrow leaving.
+Photoreal live action, filmic, fine natural grain, the same cool overcast grade as the plate.
+16:9, 4 s, 1080p, 24 fps, real time.
+Camera, framing, forest, trunk, moss and background blur identical to @Video 1 · 5s 1. The man's movement, timing, stance, the turn, the swing, the draw, the bow, string, arrow and hand positions identical to the plate frame for frame up to the release at 3.4 s. Face, hair and skin from @Video 1 · 5s 2, the head fully sharp and detailed where the blur disc was, one identity for all 4 s; wardrobe, bow and arrow as in the plate. Eyes alive and on the task for all 4 s, pupils staying near the centre of the eyes, one eye closed only during the aim. Lit by the same overcast top light as the plate.
+Shot 04: Guide the Arrow’s Flight
+The arrow clip was too fast, so I stretched it from one second to two. I made an arrow reference and used rough previews in Claude to plan its flight path. When the dinosaur appeared in the wrong place, I added a layout showing it small in the distance, in front of the stump and facing left.
+Attach: Stretched source clip, arrow reference, dinosaur reference, and layout image. Keep the blocking preview in Claude as a guide.
+Video edit of @Video 7 · 1s. Keep @Video 7 · 1s exactly as it is: the same fast, low, forward FPV-style flight through the mossy pine forest, same framing, camera path, speed, motion blur, light and color grade. No cuts, no new camera moves. Only add two elements: the arrow from @Image 5 and the dinosaur from @Image 6, placed exactly where @Image 6 shows.
+REFERENCES: @Image 5 is the arrow's look only. @Image 6 is the dinosaur's look only. @Image 6 is placement and scale only: it is the first frame of @Video 7 · 1s with the dinosaur already standing in its spot. Take from @Image 6 only where the dinosaur stands and how large it reads on screen at the start of the shot; take nothing else from it. Plate, light and grade come from @Video 7 · 1s; the dinosaur's appearance comes from @Image 6; its pose and action come from this text.
+OPTICS: same lens and coverage as @Video 7 · 1s, lens locked for the whole shot. STRONG anamorphic lens character: horizontal squeeze and compression, oval elliptical bokeh, horizontally stretched highlights, curved barrel edge distortion, chromatic aberration toward the edges. NO lens flares, NO light streaks, NO floating bokeh circles.
+DINOSAUR (@Image 6): the exact same feathered raptor — dark grey-brown mottled feathers, pale throat, scaly grey snout, brown eye, feathered forearms with dark claws. Waist-high, about 2 meters long. First frame matches @Image 6 exactly: same spot, same on-screen size, small and distant between the trunks. It stands on the moss directly IN FRONT OF the dark uprooted tree stump with twisted roots in the middle distance, at the exact position shown in @Image 6. The dinosaur is between the camera and the stump, closer to the camera; the stump is right behind it, partly hidden by its body, its roots and broken upright snag rising behind the dinosaur's back. Broadside to camera in profile: head toward frame left, tail toward frame right. It stays on that spot in front of the stump and grows larger at the same rate as the stump as the camera approaches. It is alive and never frozen: it shifts its weight from foot to foot and takes a small half-step in place, its tail swaying for balance and its chest rising with each breath. Its head moves in short, alert bird-like jerks, looking off to frame left, then up into the trees, cocking to one side, then sniffing the air. It never looks at the camera or at the arrow at any point. At ~1.6 s, on instinct, as if hearing something, it ducks hard without turning its head toward the arrow. It drops low, knees bending deep, body flattening close to the moss, neck pulled down and forward, head tucked low and still pointing toward frame left, tail dropping level. The feet stay on the same spot throughout the duck, and it is already fully crouched before the arrow arrives.
+ARROW (@Image 5): the exact same arrow — matte dark carbon shaft, one dark-grey leaf-shaped vane with a white stripe, black nock, polished steel bullet point. The arrow is IN FRAME ON THE VERY FIRST FRAME and stays visible in every single frame until the last. It never enters from off-screen, never leaves the frame and is never hidden or cropped out. The arrow always flies POINT FIRST: the steel tip leads, pointing forward into depth away from the camera in the direction of travel; the nock and vane trail at the back, nearest the lens. This orientation never flips for the entire flight. Arrow-cam chase shot: on frame one the arrow is already in the bottom-left corner, very close to the lens, nock and vane large in the foreground, shaft pointing forward into depth, steel tip aimed at the dinosaur's head height. The arrow SPINS FAST AROUND ITS OWN LONG AXIS the entire flight, like a rifled bullet or a drill: a continuous, steady barrel roll, the vane and its white stripe whipping around the shaft in a clear spiral, the nock rotating, light glinting on the spinning steel tip. The shaft itself stays straight and stable on its line, only rolling — no tumbling, no flipping end over end, never flying backwards or sideways. It flies together with the camera, locked in the lower-left third of the frame, threading between the tree trunks. As it closes in, it drifts toward frame center and turns more end-on to the lens, so the spinning vane is seen rotating around the nock, tip still pointing away from camera.
+NEAR MISS at ~2.0 s: the arrow pulls ahead of the camera, still spinning, point first, still clearly visible as it shrinks into depth. It flies straight through the space where the dinosaur's head was before it ducked and shoots just OVER the crouched dinosaur's back and head, missing by a few centimeters. The wind of its pass ruffles the feathers along its neck and back. The arrow does NOT touch the dinosaur. Its steel tip slams into the broken upright snag of the uprooted stump right behind the dinosaur with a burst of bark chips and moss dust; the spin stops dead on impact and the shaft quivers in the wood, nock and vane sticking out toward the camera, in clear view until the end of the shot. The dinosaur stays crouched a beat, feathers flared, then rises halfway, still looking off to frame left and around the forest, never turning toward the arrow, its feet still on the same spot in front of the stump. End on the half-crouched, wary dinosaur in front of the stump, head turned away from the arrow, the arrow quivering in the wood above and behind it.
+Photoreal live-action, matched to the plate: soft overcast forest light, same grade, real contact shadows on the moss where the feet press in, matching motion blur, depth of field, haze and grain at the dinosaur's depth so it is never crisper than the stump beside it. No halos, no cut-out edges. Real animal movement with true weight and balance, never CG, stiff or toy-like. The dinosaur never looks at the camera or the arrow. The arrow is visible from the first frame to the last. No archer, no bow, no hands, no second arrow, no other animals, no text, no blood, no wound.
+Shot 05: Add the Arrow Impact
+The arrow misses the dinosaur and hits the tree. I reused the arrow reference from Shot 04 and asked for a sharp impact, small bark chips, and a brief vibration after the arrow sticks.
+Attach: Source clip and the same arrow reference.
+@Video 9 · 3s: Original clip. Keep everything exactly as in the source: the close-up of the mossy, lichen-covered bark filling the left two thirds of the frame, the soft blurred forest on the right, the framing, the camera with its slight drift, the lighting, color, shallow depth of field and grain. Every pixel outside the arrow, the bark it strikes and the debris it throws comes from the source footage unchanged; the only new pixels in the shot are the arrow, its shadow on the bark, the small wound in the bark where it hits, and a few tiny chips and dust.
+@Image 5: Reference sheet of the arrow — design reference only: a slim matte black carbon shaft, a polished steel bullet point, three vanes at the tail — two dark grey, one white — and a black plastic nock, 100% matches the reference. Only the arrow comes from this sheet; its grey studio background stays out.
+Photoreal. 16:9. 4s, strictly real time at 24 fps, 1:1 speed, the same playback speed as the plate — the whole impact is over in a fraction of a second. SFX only.
+The shot plays as the plate: the trunk fills the left two thirds of the frame, sharp, with the blurred forest on the right. 0.0–0.45 s: nothing but the plate. At 0.45 s the @Image 5 arrow crosses the frame from the right edge to the trunk within a single frame — at real arrow speed it is barely a dark streak, one frame of motion blur, its white vane a flick — and on the very next frame its steel point is already buried in the bark, left of the frame's center at about mid-height, where the lichen patches sit. The hit is instantaneous and hard: the point and the first few centimeters of the shaft drive deep into the wood in one frame; a small torn wound opens in the bark around the shaft; a handful of tiny bark flakes, lichen crumbs and a thin puff of dust — all small, millimeter-sized, the biggest no larger than a fingernail — spit out of the impact and drop straight down within half a second. The shaft sticks out of the trunk toward screen-right at a slight downward angle, about three quarters of its length visible, running from the sharp bark into the softer right side of the frame. 0.5–0.8 s: the shaft rings from the impact — a fast, fine vibration that dies out in about a third of a second, the vanes a brief blur — then it is still. 0.8–4.0 s: the arrow stands buried in the trunk, motionless, the white vane catching the soft light; the plate continues with its own slight camera drift and nothing else changes. The trunk itself does not move at all.
+Physics: real mass and real speed, no slow motion anywhere — a hunting arrow at full draw arrives faster than the eye can follow, the hit is a single sharp event, the vibration is quick and small, the debris is tiny and falls at normal gravity within half a second. The arrow sits on the same focus plane as the bark where it enters: point and front of the shaft sharp, the nock end slightly softer where it reaches into the blurred right side, with the plate's grain and motion blur characteristics. Lit by the plate's soft overcast light: matte shaft, a soft contact shadow of the shaft on the bark.
+SFX only: source sound unchanged, plus a short sharp hiss as the arrow arrives, one heavy thunk with a dry crack of bark on impact, a brief ringing twang of the shaft that dies out immediately, a faint patter of tiny chips, then only the forest.
+Shot 06: Set the Position and Gaze
+The dinosaur needs to look back, then turn toward the hunter. When it looked the wrong way, I drew two circles on a frame: one for its position and one for where it should look. Claude used the drawing to rewrite the prompt. The generation still used just the source clip and dinosaur reference.
+Attach: Source clip and dinosaur reference. The diagram guides Claude and is not a generation input.
+@Video 11 · 5s: Source footage for Shot 06. Preserve everything exactly: framing, camera path and motion, timing, light, grade, grain, existing motion blur. Add only the dinosaur.
+@Image 3: Dinosaur asset. Use its design, anatomy, proportions and skin texture exactly as given; ignore its background and lighting.
+Photoreal. 16:9. 4s. Matches the source grade. SFX only.
+STRONG anamorphic lens character: horizontal squeeze and compression, oval elliptical bokeh, horizontally stretched highlights, curved barrel edge distortion, chromatic aberration toward the edges. NO lens flares, NO light streaks, NO floating bokeh circles.
+One continuous shot on the source plate. Placement: the @Image 3 stands in the right half of the frame, in front of the thick moss-covered trunk right of center, between the snag and the right edge. It is in close-up: its head, neck and upper torso fill that right-hand area from about two-thirds of the way up the frame down to the bottom edge. The legs stay below the bottom edge, out of frame for the whole shot. The snag at bottom center stays fully visible on its left, and the left half of the forest stays clear. At the start the head and muzzle point toward frame right in a three-quarter profile. The eye nearest camera stays visible in every phase.
+Eyes are real animal eyes, like a crocodile's or a raptor bird's: small and deep-set under the heavy brow ridge, wet and glossy, with thick scaly lids that close fully on each blink. The iris and pupil keep the asset's size and shape. The looking is driven mainly by the head and neck, and the eyeballs make only small, quick shifts. The face stays animal, with no human expressions.
+0.0–0.4s, the sound: the @Image 3 stands breathing slowly, head pointed right, and gives one slow, heavy blink. A faint twig snap echoes through the forest. The head jerks up and freezes.
+0.4–1.1s, the false lead: the head turns left across its body, and the eye fixes on one spot at mid-height on the tall grey lichen-covered trunk left of center, about a quarter of the way in from the left edge. It holds there, staring, with one short sniff. Nothing moves on the trunk.
+1.1–1.4s, the snap: a soft rustle comes from off-screen right. The head whips sharply back to the right, much faster than the turn left, with a fast blink mid-turn.
+1.4–1.9s, the lock: the head stops dead, pointed toward frame right. The eye fixes beyond the right edge of the frame, on the unseen hunter off-screen right, and the pupil tightens slightly. One beat of total stillness, then one slow, deliberate blink with the gaze still on the target. The gaze does not move again for the rest of the shot.
+1.9–2.5s, the anger: with the gaze still locked off-screen right, the lids tighten slightly, the lips curl back off the teeth, the neck muscles bunch and the nostrils flare wide. A low growl shudders through the throat and the head lowers slightly, aimed at the target.
+2.5–4.0s, the charge: the jaws tear open in a full roar and it explodes into a run forward and to the right, still roaring, shoulders driving first, the eye fixed on the hunter, and leaves frame right. Spittle and breath vapor spray from the open jaws. Strong horizontal motion blur on the @Image 3 during the run follows its direction and speed, adding to the camera's own blur from the source as if shot with the same shutter. The moss-covered trunk behind it is revealed again as it exits.
+The @Image 3 sits within the plate's depth: the soft diffuse light, the same color temperature and haze, and grain and focus falloff matched to the frame. The eye's wet surface picks up only a dim, soft reflection of the plate's light. No hard cut-out edges. Each phase reads clearly, in order. Camera, plate and timing are unchanged from the source; only the @Image 3 is added. The snag and all trunks stay intact and untouched.
+SFX only: quiet ambient forest air and slow heavy breathing. A faint dry twig snap somewhere in the forest. One short sharp sniff. A soft rustle of moss and branches from off-screen right. Dead silence. A low rumbling growl rising in the throat. A deep ragged roar that carries on into the run, over heavy ground-shaking thuds and tearing moss as it charges off to the right.
+Shot 07: Show the Hunter’s Reaction
+Now the hunter realizes the dinosaur is charging. The face replacement worked without blurring Erik’s head first. The dinosaur stays offscreen; the hunter’s reaction and approaching footsteps show the danger.
+Shot 08: Make the Run Feel Real
+The first dinosaur runs looked slow and stiff. I asked Claude to use an ostrich’s run as a movement reference and describe stronger push-offs, shifting body weight, and a head and tail that react to each stride. I kept the same tracking clip and dinosaur image for generation.
+Attach: Tracking clip and dinosaur reference.
+@Video 15 · 4s: Original plate 8.mp4. Preserve framing, camera path and motion, timing, light, grade and grain exactly. Change only two things: add the dinosaur, and push the motion blur across the whole frame to an extreme.
+Photoreal. 16:9. 4s. Matches the source grade. Wildlife-documentary realism of a living animal, never CG, never stiff or mechanical. SFX only.
+One continuous tracking shot on the source plate, with extreme motion blur across the whole frame, like a very long shutter. Foreground trunks smear into long soft streaks that are barely readable. Midground trees and the moss floor drag hard along the camera's movement. The far background is heavily smeared. Every whip move of the camera turns the frame into a streak.
+Movement reference, real animals: the @Image 3 runs like a sprinting ostrich crossed with a charging cassowary. From the ostrich: the gait, the bounding stride, and the stabilized head on a shock-absorbing neck. From the cassowary: the heavy aggressive mass, the lurching weight and the explosive power. The tail swings like a running monitor lizard's. The rhythm and body roll come from a basilisk lizard sprinting on its hind legs.
+Timing: it is slightly faster than the camera operator.
+0.0–0.4s: it rips in from frame left in the midground, running left to right.
+0.4–2.8s: it runs alongside the camera in side profile and slowly gains on it, drifting from left of center toward the right of frame.
+2.8–3.7s: it pulls ahead, overtakes the camera and bursts out of frame right.
+3.7–4.0s: only the plate is left: settling moss and dirt spray, and ferns still swaying in its wake.
+The whole body moves, not just the legs. The body works as one living chain from snout to tail tip, every part reacting to every step.
+Head and neck, like an ostrich: the head tries to stay level and steady in space while the body pounds and lurches underneath. The neck works as a shock absorber, flexing, compressing and extending with every stride, soaking up the body's bobbing and rolling. The head is not perfectly locked: on each footfall it trembles slightly and makes small twitchy corrective jerks, re-centering on the target.
+Tail, like a monitor lizard: it is never still. It swings side to side in a continuous loose S-wave, counter to the hips, rises and drops with each stride, and lashes on the turns. The tip lags behind and flicks.
+Torso, like a cassowary: it rocks and rolls side to side with each stride, rises on the push-off and slams down on the footfall, and the chest heaves. Skin and flesh on the flanks, belly and thighs jiggle and shudder on every impact, settling a beat late.
+Legs, like an ostrich: long, powerful, bounding strides, the thighs pumping, the knees driving high, the feet hammering down and ripping off the ground.
+Its path is never a straight line. It weaves in a slight natural zigzag between the trees, a little toward the camera, then away into the depth, passing trunks on alternating sides. Each turn starts with a hard sideways push-off from the outside leg. The body banks into the curve while the head stays level, and the tail swings wide to the outside as a counterweight. On one tight pass its flank brushes a trunk and bark flies off.
+A berserk, rage-filled charge. The movement is jerky and uneven, with small stumbles and recoveries on the moss and roots. The jaws snap constantly and spit streams back. The eyes are wide and bloodshot, the nostrils flared, the lips peeled back off the teeth.
+It screams almost nonstop, every roar in profile and aimed forward along the run, without slowing. Only the jaws and throat work; the head stays stabilized:
+at about 0.3s, an entry shriek;
+at about 1.0s, a long savage roar, the jaws wide, spit streaming back;
+at about 1.8s, a short snarling bark of a roar with a quick jerk of the head, which instantly re-stabilizes;
+at about 2.6s, a piercing screaming roar with the neck stretched forward;
+at about 3.4s, a last roar as it bursts out of frame right, trailing off after it.
+Between the roars: snarls, hissing and teeth clacks.
+Foreground trunks whip across between the lens and the @Image 3, briefly occluding it; it always stays behind them in depth. Each footfall blasts out moss, dirt clods and broken twigs. Motion blur on the @Image 3 is maximal on the body: the legs, tail and lower body are smeared into heavy streaks, the tail tip leaves blurred trails, the torso has a strong directional blur beyond the camera's, and the blur grows as it overtakes and exits. The stabilized head carries less blur, so the eye and teeth read sharpest.
+The @Image 3 takes the plate's soft diffuse light, the same color temperature and haze, and a soft contact shadow under its feet. Grain matches the frame. No hard cut-out edges. Camera path and timing are unchanged from the source.
+SFX only: pounding footfalls charging in from the left, then a frantic hammering of deep ground-shaking thuds alongside, with a heavier skidding thud on each turn. The thuds pull ahead to the right and fade after it exits. Wet moss tearing, the tail swishing through ferns, bark scraping, roots snapping. Constant enraged vocalising: at about 0.3s, a shriek; at about 1.0s, a long savage roar with a guttural rattle; at about 1.8s, a short snarling bark; at about 2.6s, a piercing screaming roar; at about 3.4s, a last roar that echoes off through the forest. Between the roars: snarls, hisses, teeth clacking, spit-wet breathing.
+Shot 09: Keep the Original
+The character’s face wasn’t visible, and the shot already worked, so I kept the original footage.
+Original footage
+Shot 10: Break the Action into Steps
+The grenade throw goes wrong. I wrote the action step by step: drop the bow, pull out the grenade, throw it, notice it caught on the sleeve, and try to shake it loose. The source clip set the scene and camera; my reference supplied the face, and the prompt directed a new performance.
+Attach: Source clip and your character reference.
+@Video 18 · 6s: reference for location, camera, framing, lens, lighting and the order of events only. Do NOT copy the actor's body movement, timing or face — the performance is new. @char_adil: the ONLY identity reference — face, facial structure, skin, hair, age.
+Photoreal. 16:9. 6s. One continuous shot, same camera, framing and grade as @Video 18 · 6s. SFX and dialogue only.
+The man from @char_adil replaces the man in @Video 18 · 6s, wearing the same wardrobe as in @Video 18 · 6s. The face is rebuilt 100% from @char_adil, with no blend or morph with the face from @Video 18 · 6s, and it stays recognizable at every frame and every head turn. The grenade is a real military fragmentation grenade: olive-drab steel spherical body, metal spoon lever, pull ring, worn paint, heavy solid weight.
+0–0.7s: He tosses the bow aside, letting it go to the ground on screen-right without looking at it.
+0.7–1.5s: In one fast, decisive move he digs into his jacket pocket, pulls out the grenade, brings it up to his chest and rips the pin out by the ring. He is focused and determined.
+1.5–2.2s: He winds up and hurls the grenade hard toward screen-left, putting his whole body into the throw.
+2.2–3s: The grenade doesn't fly away. Its spoon lever hooks into the cuff of his right leather sleeve, and it whips back on the follow-through and swings, dangling from his wrist. He sees it and shouts "Oh, shit!" — breath punched out, not acted.
+3–6s: Panic. He shakes his arm violently, slaps and yanks at the grenade with his free hand, tears at the sleeve, twists away from his own arm as if he could run from it, and stumbles. The grenade bounces and swings on the cuff and won't come loose. Every attempt fails. At the end it is still hanging from his sleeve and he is still fighting it, his breathing ragged.
+ACTING TASK — HIM (he is fully invested in his tactic; the work happens in his eyes):
+GOAL: get the live grenade off his body before it goes off.
+MOTIVE: animal will to live; disbelief that the throw failed.
+OBSTACLE: the grenade is caught and his hands are too fast and clumsy to unhook it; every second counts.
+TACTIC: the eyes lock on the grenade and the cuff and stay locked. Each attempt is a decision — shake it, rip it, pull the sleeve — and after each one he checks whether it worked and immediately sees that it didn't. His thoughts race faster than his hands.
+(Safety: gaze always engaged in the task — never a frozen, glassy, unfocused stare; natural blink cadence.)
+Identity lock: the face is the face from @char_adil only, never the face from @Video 18 · 6s. Location, camera and framing stay as in @Video 18 · 6s. The body performance is physical and grounded, with real weight shifts, and the grenade has real heavy pendulum physics on the sleeve.
+SFX and dialogue only: forest ambience; a dull thud as the bow hits the moss; the rustle of the pocket; the metallic snap of the pin coming out; a grunt on the throw; the jerk of leather as the grenade catches the cuff; "Oh, shit!"; frantic slaps on leather; the grenade knocking against the sleeve; panicked, ragged breathing to the end. No explosion.
+Shot 11: Make the Dinosaur Charge
+For the charge toward the camera, I used a sharp forest frame and the dinosaur reference. The first run looked mechanical, so I used the dinosaur-anatomy and dinosaur-motion skills shared above. They helped describe uneven steps, balance corrections, and feet pressing into the moss. I timed the charge to reach the lens before the four-second clip ends, then hold on black.
+Attach: Forest frame and dinosaur reference.
+Create a four-second continuous real-time shot in 16:9.
+REFERENCES
+@Image 1 defines the forest, framing, camera viewpoint, tree positions and existing uneven ground.
+@Image 3 defines ONE living dinosaur. Preserve its facial structure, eye shape and placement, slender muzzle, gray-brown feathers, crest, scaly facial skin and lean proportions.
+The dinosaur charges headlong toward the camera with reckless urgency and ferocious intent. Its forward momentum occasionally gets ahead of its coordination. It remains fiercely focused on reaching the lens while making hurried, imperfect balance corrections.
+The charge is extremely fast from the first frame. Cover substantial ground with every stride and close the distance rapidly. Preserve an irregular, springy running rhythm with short, low airborne phases between alternating hind-foot contacts. Each brief lift carries the body strongly forward into the next footfall.
+0.0–1.0 SECONDS — LIVING, IMPERFECT CHARGE
+Begin with the dinosaur already sprinting from deep in the central forest passage.
+Follow a slightly curved approach with small lateral deviations caused by hurried foot placement on the existing moss and roots. Keep the overall movement strongly toward the camera.
+An uneven landing briefly drops one side of the pelvis. The supporting leg compresses under the load, the torso banks and pitches forward, and a shorter, quicker catching step keeps the charge moving. Immediately follow it with a stronger forward-driving push.
+These adjustments happen within the fast running rhythm, without a pause or visible braking. Keep them unequal and irregular. The chest and pelvis respond with small differences in timing rather than moving as one rigid block. The flexed forelimbs make brief balancing adjustments, and the tail follows the recovering pelvis with restrained delayed movement.
+GROUND IMPACT
+Each loaded foot briefly grips and compresses the moss as the leg takes the animal's weight. Keep the foot anchored during support; forward propulsion comes from the leg pushing against the ground.
+At one or two stronger push-offs, the weight-bearing toes tear a small amount of loose moss and damp soil from the surface as the foot releases. Small clumps and crumbs flick backward from the actual contact point, travel in short arcs and fall back to the ground.
+Leave localized flattened moss and shallow disturbed patches behind these contacts. Preserve those marks after the foot has left. Firmer ground shows mostly compression; softer patches release a little material. Keep the surrounding forest floor intact, with no large craters or dust clouds.
+HEAD AND NECK
+Carry the head low and forward, approximately aligned with the spine.
+On one or two heavier foot contacts, the body settles and the neck briefly yields under the head's inertia. The muzzle dips a little after the impact, then the neck actively recovers its position.
+Allow brief left-right head ROLL: small alternating cants around the forward-facing muzzle-to-neck axis. The muzzle remains aimed toward the lens while the head tilts, and the eyes retain the target. Do not swivel the nose sideways or look around the forest.
+These cants accompany the uneven body movement and straighten imperfectly as the animal continues forward. Smaller steps produce smaller responses; do not repeat an identical head bob on every stride.
+Keep the skull rigid and the neck structurally connected to the chest throughout.
+EYES AND EXPRESSION
+As the face becomes readable, show an alert, responsive animal with fierce, uninterrupted attention on the lens.
+The eyes make small corrective movements as the head dips and rolls. After a heavier contact, the eyelids briefly tighten into a slight squint, then reopen as the gaze steadies.
+Let the head cants, changing eyelid tension and visible teeth give the animal a feral, threatening character. Preserve natural eye placement and facial anatomy.
+MOUTH DURING THE RUN
+Before the final second, let the jaw part in one or two short, tense snarls, clearly exposing the side teeth as the head cants left and right. The jaw comes partly closed between these moments, creating a changing expression throughout the approach.
+These shallow openings are irregular and independent of the footfall rhythm. Keep the tongue inside the mouth and reserve the first forceful, wide jaw opening for the final attack.
+2.0–3.0 SECONDS — AGGRESSIVE BITE
+Reach a direct line toward the lens while maintaining the fast charge.
+Open the jaws sharply and aggressively. Drive the head and neck forward as part of the continuing run, without stopping to pose.
+Reveal pointed teeth, wet gums and the tongue. A few thin saliva strands stretch briefly between the opening jaws.
+The mouth fills the frame through actual proximity. Upper and lower jaws pass beyond the frame edges and engulf the viewpoint. End with darkness caused by the mouth physically occluding the lens.
+3.0–4.0 SECONDS — DARKNESS
+Stay in the black screen after the dyno bites the camera for the rest of the shot
+CAMERA AND FOCUS
+Keep the operator at the same location and height established by @Image 1. Add slight irregular handheld tremor, small angular drift and restrained roll. Maintain the general composition and one fixed focal length.
+The handheld movement affects the forest and dinosaur together as one photographed scene.
+Continuously pull focus from the distant approach toward the advancing head. The forest progressively becomes strongly defocused. Allow natural motion blur from the animal's rapid movement, airborne ground fragments and handheld tremor. At extreme proximity, the nearest teeth become soft immediately before covering the lens.
+Maintain consistent anatomy, grounded foot contacts and continuous fast forward travel. No camera retreat, zoom, cuts, slow motion, suspended jumps, full fall, tree collision, side-looking or prolonged throat-tunnel view.
+Shot 12: Replace the Head in Two Steps
+The final face replacement took two steps. First, I replaced Erik’s head with a plain mannequin head while keeping his body, clothes, and movement.
+Attach: Original source clip.
+Video edit of @Video 22 · 2s. Change ONLY the man's head; everything else stays exactly as it is.
+EDIT: the man's head becomes a featureless mannequin head: a smooth, rounded, egg-shaped head of plain matte light-grey material, no eyes, no mouth, no nose, no ears, no hair, no eyebrows, no facial features, no skin texture, with a smooth mannequin neck that joins the collar of his clothing. Same head size, shape of silhouette and position as his real head, and it moves exactly like his head, frame for frame: the same turns, tilts and jolts with the same timing.
+KEEP UNCHANGED: his body, hands, clothing and every movement exactly as in @Video 22 · 2s, frame for frame — the same dark clothes with all their folds and details, the same hands snapping up, the same step back, the same body lean and breathing. The location is exactly @Video 22 · 2s frame for frame: the same mossy conifer forest, tree trunks, moss, light, colours, grade and grain. The camera is exactly @Video 22 · 2s frame for frame: the same static framing, angle, lens and focus. 
+The mannequin head is lit by the same soft overcast light as the rest of the shot, with the same depth of field and grain, fully photoreal and seamlessly integrated.
+LOCKS: exactly one figure; never a real face or skin on the head; the hands, clothing, body and motion are never changed; nothing added, nothing removed; the forest and camera are never changed.
+AUDIO: keep the original ambience; quiet forest, soft scuff of a foot on moss; silence on the black screen. No music, no voices.
+Replace the Head and Add the Explosion
+Next, I replaced the mannequin head using my video reference, added the dinosaur from the left, and triggered the explosion as it opened its mouth. To keep the camera angle consistent, I took the first frame from a result I liked and used it as the start frame.
+Attach: Mannequin-head clip, video character sheet, dinosaur reference, and approved start frame.
+@Image 2 start frame. Edit @Video 23 · 4s. Keep the camera EXACTLY as in @Video 23 · 4s: same angle, same framing, same lens, same camera height, same distance, same composition, every tree in the same place. Locked-off static shot: no camera movement, no pan, no zoom, no reframing, no new angles. Same moss-covered pine forest, same soft overcast light, same color grade, same timing, and the same hard cut to black at ~2.25s.
+Replace ONLY the beige mannequin head with a real human head: the man from @Video 2 · 5s. Use @Video 2 · 5s only as the identity reference for his face and hair. Do not take its background, lighting, camera, motion or clothing. He is a young man with short curly black hair, a thin dark mustache, a small chin beard, warm light-brown skin, and two small silver hoop earrings in one ear. Keep his identity exactly, consistent from every angle as seen in @Video 2 · 5s. The head sits naturally on the neck and follows the exact turns and tilts of the mannequin head in every frame of @Video 23 · 4s, with matching scale, lighting and shadows. If any beige mannequin surface shows on the neck or hands, turn it into real human skin that matches the face. Keep everything else untouched: body, clothes, pose, position in the frame, and every movement exactly as in @Video 23 · 4s. No trace of the mannequin head.
+Timeline, all inside this same static shot, with the whole action over within the first 2 seconds:
+0.0s: the man struggles beside the tree trunk exactly as in @Video 23 · 4s.
+0.1s: the feathered raptor from @Image 1 bursts out from between the trees on the left side of the frame. Dark grey-brown mottled feathers, pale throat, long narrow snout, dark glossy eyes, feathered clawed arms, long tail. It keeps its exact look from @Image 1.
+0.1–1.4s: the raptor sprints extremely fast and low across the moss straight at the man, kicking up moss and twigs.
+1.4s: it lunges at him and opens its jaws wide.
+1.5s: the instant its mouth opens, the raptor explodes in a violent white-orange fireball, with a shockwave and feathers and debris flying.
+1.5–2.25s: the fireball and flash flood the whole frame.
+2.25s: hard cut to pure black (#000000), held until the very end. No image, no text, no fade back in.
+Sound: panicked grunts, fast clawed footsteps on moss, a short sharp raptor screech, one massive explosion boom at 1.5s, then total silence over the black.
+Style: photorealistic live-action, cinematic 24fps film look, natural motion blur, real-world physics.
+Avoid: any camera movement or angle change, changes to the body or clothes, copying the background, blue t-shirt or lighting of @Video 2 · 5s, mannequin head remains, extra people, extra creatures, cartoon or CGI look, music, subtitles, text, logos, watermarks.
+Put the Sequence Together
+Once the shots were ready, I assembled the edit, matched the color, and added sound. I
+Use the skills and prompts above to turn your own footage into a cinematic scene. Start with one shot in Higgsfield, then share what you create.
+CREATE YOUR OWN AI VFX SHOT
+Start Creating
+Comments
+No comments yet. Be the first to comment!
+© 2026 Higgsfield, Inc. All rights reserved.
+English
+Help center
+Cookie Notice
+Cookie Settings
+Terms
+Privacy
+Report a vulnerability

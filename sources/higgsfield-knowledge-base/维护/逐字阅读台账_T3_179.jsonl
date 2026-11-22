@@ -1,0 +1,500 @@
+{"idx":1,"len":15803,"model":"seedance_2_0","sha8":"9d3807fd","findings":"WHO ART THOU 5 秒特写角色拍首例——帽子链条开场；USE VIDEO 1 AS THE DIRECT VISUAL CONTINUITY REFERENCE 视频直续指令；空绑定头+宪法全块"}
+{"idx":2,"len":15842,"model":"default","sha8":"3054ccf4","findings":"WHO ART THOU 同族（img_1/img_3 绑定版）"}
+{"idx":3,"len":13508,"model":"default","sha8":"c7e9eff0","findings":"WHO ART THOU NEW OPENING SHOT 0:00–0:02——Use the uploaded final frame 上传终帧续接；2 秒新开场"}
+{"idx":4,"len":13508,"model":"default","sha8":"c7e9eff0","findings":"同文重生成（首现行3）"}
+{"idx":5,"len":18707,"model":"default","sha8":"67fda63d","findings":"WHO ART THOU NEW OPENING 30 秒扩展版（18707c）"}
+{"idx":6,"len":20516,"model":"default","sha8":"4332dd18","findings":"KAEL & SILAS — BACK-TO-BACK 背靠背双人战首例（15–18s）——CONTINUITY — ABSOLUTE 绝对连续性段头"}
+{"idx":7,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":8,"len":17051,"model":"default","sha8":"97ac5f20","findings":"SHOT — THE QUICK DRAW 空膛快拔首例——SHOT 01 — THE REVEAL 0.9 秒亚秒节拍+Side tracking 紧中景+手部与相机双失稳"}
+{"idx":9,"len":14621,"model":"default","sha8":"b747842e","findings":"PART I — THE FRACTURE SEQUENCE 全序列规格头首例（Target ~1:35+ARRI Alexa 65 35/50/65mm）——SILAS CONTINUITY LOCK 段头（cowboy hat 全程戴稳+背包+长枪连续性锁）"}
+{"idx":10,"len":13368,"model":"default","sha8":"63f3241d","findings":"SILAS — 6-SECOND RUNNING 面部特写插入版——三秒人物细节段时码自指"}
+{"idx":11,"len":17736,"model":"default","sha8":"a9791144","findings":"SILAS INTRODUCTION 首见拍——This is the audience's first-ever glimpse of Silas. Do not introduce him like a hero 首见反英雄声明"}
+{"idx":12,"len":16492,"model":"default","sha8":"d79a61cd","findings":"VOICE REFERENCE ONLY 段头首例——voice notes strictly as a reference for the characters' vocal qualities 语音仅供参考禁复现台词；audio 三人分轨绑定"}
+{"idx":13,"len":15852,"model":"default","sha8":"834f1878","findings":"VOICE REF ONLY 8 秒版（15852c）"}
+{"idx":14,"len":14664,"model":"default","sha8":"dde95139","findings":"VOICE REF ONLY 14664c 版"}
+{"idx":15,"len":16466,"model":"default","sha8":"bad4f090","findings":"VOICE REF ONLY 5 秒版（16466c）"}
+{"idx":16,"len":14664,"model":"default","sha8":"dde95139","findings":"同文重生成（首现行14）"}
+{"idx":17,"len":16968,"model":"default","sha8":"f8c054b3","findings":"VOICE REF ONLY audio 三轨绑定版（img_4/img_5/img_1）14 秒"}
+{"idx":18,"len":14958,"model":"default","sha8":"33d9820e","findings":"VOICE REF ONLY img_5/img_6 版 6 秒"}
+{"idx":19,"len":14841,"model":"default","sha8":"ccc66618","findings":"VOICE REF ONLY 段头残缺版——段头 \"TOWARDS NYRA:\" 缺失变体（对行18，-117c）；holsters both revolvers into his waist holsters 腰插双枪段"}
+{"idx":20,"len":13975,"model":"default","sha8":"3b6ead8f","findings":"12-Second Action Sequence — SILAS | THE GUNSLINGER 首例——转轮快拔连射 lateral tracking；空绑定+HUNTERS img_2"}
+{"idx":21,"len":13975,"model":"default","sha8":"3b6ead8f","findings":"同文重生成（首现行20）"}
+{"idx":22,"len":14422,"model":"default","sha8":"5c3d5bb1","findings":"SILAS — THE SECOND GUNBELT 第二枪带插入拍首例——4–6 SECOND INSERT ACTION SHOT Tight Close-Up → Close-Up 推焦；弹药带耗尽连续性补给机制"}
+{"idx":23,"len":16394,"model":"default","sha8":"71ef4cc5","findings":"VOICE REF ONLY 全空绑定版（16394c）"}
+{"idx":24,"len":18691,"model":"default","sha8":"f6958136","findings":"SILAS & KAEL — 15-SECOND CLOSE-QUARTER FIGHT THE DUCK 低头躲避拍首例"}
+{"idx":25,"len":13515,"model":"default","sha8":"52b1699e","findings":"SEEDANCE EDIT / 5–8 SECOND PROMPT 段头首例——5–8 second photorealistic cinematic action shot 紧中景开局"}
+{"idx":26,"len":15513,"model":"default","sha8":"2b25fc9d","findings":"SEEDANCE 2 — SILAS & KAEL VS. THE HUNTER 15 秒群战（无 video 引用版）"}
+{"idx":27,"len":15526,"model":"default","sha8":"f8e3e1d7","findings":"SEEDANCE 2 同族（+video_1 续接版）"}
+{"idx":28,"len":15465,"model":"default","sha8":"cd82e8e6","findings":"VOICE REF ONLY 12 秒版（15465c）"}
+{"idx":29,"len":14658,"model":"default","sha8":"45ae09b1","findings":"SEEDANCE 2 — SILAS: CLOSE-QUARTER GUNFIGHT 8–10s——doubble barrel rifle 源内笔误首现（双 o）；双枪+双管步枪武器层级"}
+{"idx":30,"len":13203,"model":"default","sha8":"8c65afe3","findings":"VOICE REF ONLY 12 秒版（13203c）"}
+{"idx":31,"len":20280,"model":"default","sha8":"00167133","findings":"BACK-TO-BACK CONTINUITY — CRITICAL 版（20280c）——与行6 ABSOLUTE 版成对"}
+{"idx":32,"len":19186,"model":"default","sha8":"90168d16","findings":"ASHEN COVENANT THE ESCAPE — TWO MEN, ONE WAY OUT 逃离段首例（24s）——GLOBAL ACTION RULES No one stands waiting their turn 不排队动作律"}
+{"idx":33,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":34,"len":15817,"model":"seedance_2_0","sha8":"f3dd3ca4","findings":"WHO ART THOU seedance_2_0 版（15817c+video_1）——跨模型同文族首证"}
+{"idx":35,"len":15845,"model":"seedance_2_0","sha8":"40243afc","findings":"WHO ART THOU seedance 版（15845c 无 video）"}
+{"idx":36,"len":15844,"model":"default","sha8":"f6122a1a","findings":"WHO ART THOU default 版（15844c）——与行34/35 近同文三胞胎"}
+{"idx":37,"len":15279,"model":"default","sha8":"45aa066e","findings":"SHOT — DESPERATE LOADING 绝望装填首例——full speed 中完成装填+His hands are tense and unsteady from exhaustion 手部失稳声明+8 点分隔符（........）变体"}
+{"idx":38,"len":17038,"model":"default","sha8":"21db8eae","findings":"SHOT — THE QUICK DRAW 17038c 长版"}
+{"idx":39,"len":15279,"model":"default","sha8":"45aa066e","findings":"同文重生成（首现行37）"}
+{"idx":40,"len":17722,"model":"default","sha8":"b53bbee3","findings":"SILAS INTRODUCTION 空绑定版（17722c）"}
+{"idx":41,"len":16256,"model":"default","sha8":"eb4667b6","findings":"VOICE REF ONLY 16256c 版"}
+{"idx":42,"len":16283,"model":"default","sha8":"06c0283d","findings":"VOICE REF ONLY 16283c 版"}
+{"idx":43,"len":16447,"model":"default","sha8":"254d498f","findings":"VOICE REF ONLY 16447c 版"}
+{"idx":44,"len":14858,"model":"default","sha8":"1a1264c2","findings":"VOICE REF ONLY 14858c 版"}
+{"idx":45,"len":21915,"model":"default","sha8":"aea30277","findings":"VOICE REF ONLY 21915c 大版（15 秒 audio 三轨）"}
+{"idx":46,"len":14878,"model":"default","sha8":"6b71d82c","findings":"VOICE REF ONLY 全空绑定版（14878c default）"}
+{"idx":47,"len":14878,"model":"seedance_2_0","sha8":"6b71d82c","findings":"同文重生成（首现行46）"}
+{"idx":48,"len":14960,"model":"default","sha8":"18fbdca7","findings":"VOICE REF ONLY img_5/img_6 14960c 版"}
+{"idx":49,"len":13909,"model":"default","sha8":"1b63d725","findings":"12-Second GUNSLINGER 空绑定 13909c 版"}
+{"idx":50,"len":16926,"model":"default","sha8":"c4e64edd","findings":"KAEL — INSTINCTIVE DODGE 本能闪避拍首例——5.5-SECOND CLOSE-QUARTER FIGHT REFERENCE / CONTINUITY"}
+{"idx":51,"len":18691,"model":"default","sha8":"f6958136","findings":"同文重生成（首现行24）"}
+{"idx":52,"len":16309,"model":"default","sha8":"33358f97","findings":"VOICE REF ONLY 16309c 版"}
+{"idx":53,"len":17261,"model":"default","sha8":"f46187e4","findings":"对话残留直贴制首例——Absolutely. For 8 seconds, I'd compress the storyboard into one continuous, highly kinetic gunslinger sequence 助手回复原文直贴 prompt（8 秒压缩改编指令）"}
+{"idx":54,"len":13515,"model":"default","sha8":"52b1699e","findings":"同文重生成（首现行25）"}
+{"idx":55,"len":13515,"model":"default","sha8":"52b1699e","findings":"同文重生成（首现行25）"}
+{"idx":56,"len":14658,"model":"default","sha8":"45ae09b1","findings":"同文重生成（首现行29）"}
+{"idx":57,"len":15447,"model":"default","sha8":"cb2bdeca","findings":"VOICE REF ONLY \"in the foreground\" 短语省略变体（对行28，-18c）"}
+{"idx":58,"len":16313,"model":"default","sha8":"55ee5ccc","findings":"VOICE REF ONLY 时码段号 4→2.5 小数插入变体（对行52）——WALKING BACK WIDE HIGH OVERHEAD THREE-QUARTER TRACKING 高位俯瞰追退拍"}
+{"idx":59,"len":13530,"model":"default","sha8":"14ff1115","findings":"SEEDANCE EDIT 13530c 版（尾随空格差异）"}
+{"idx":60,"len":14151,"model":"default","sha8":"d4f9ce98","findings":"VOICE REF ONLY 14151c 版"}
+{"idx":61,"len":19173,"model":"default","sha8":"cba3268c","findings":"ASHEN COVENANT THE ESCAPE 空绑定版（19173c）"}
+{"idx":62,"len":13516,"model":"default","sha8":"005abd13","findings":"SEEDANCE EDIT 空绑定版（13516c）"}
+{"idx":63,"len":13516,"model":"default","sha8":"005abd13","findings":"同文重生成（首现行62）"}
+{"idx":64,"len":17272,"model":"default","sha8":"fec72ea7","findings":"VOICE REF ONLY COVENANT HUNTER 单数绑定版（17272c）——HUNTER is <<<image_3>>> 单数误植；two revolvers like 空引用位"}
+{"idx":65,"len":18424,"model":"default","sha8":"0273de96","findings":"VOICE REF ONLY img_4/img_1 版（18424c）"}
+{"idx":66,"len":15385,"model":"default","sha8":"9b29b8ae","findings":"SILAS — 6–8 SECOND GUNFIGHT — SILAS OPENS FIRE 开火拍首例（Medium Close-Up Three-Quarter Side）"}
+{"idx":67,"len":15843,"model":"default","sha8":"915d21ce","findings":"VOICE REF ONLY 无 HUNTER 绑定版（15385c）"}
+{"idx":68,"len":15385,"model":"default","sha8":"9b29b8ae","findings":"同文重生成（首现行66）"}
+{"idx":69,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":70,"len":14994,"model":"default","sha8":"435b5e63","findings":"SHOT 20 — DON'T LET GO 桥坠抓绳拍首例——0:53–0:56 ECU His fingers slam back around the rope+The backpack seams begin 背包缝线开裂细节"}
+{"idx":71,"len":14995,"model":"default","sha8":"645d08fb","findings":"SHOT 14 — THE BRIDGE 桥全景拍首例——Wide Establishing Shot For the first time, completely reveal the scale of the environment 首次尺度揭示声明"}
+{"idx":72,"len":18972,"model":"default","sha8":"86b70a58","findings":"SILAS — COLLAPSING COLUMN SEQUENCE 塌柱追杀首例（无绑定版 18972c）——Story Purpose 叙事目的段头制"}
+{"idx":73,"len":18081,"model":"default","sha8":"dc32f69d","findings":"COLLAPSING COLUMN img_1 绑定版（18081c）"}
+{"idx":74,"len":15095,"model":"default","sha8":"ee288463","findings":"SILAS — 6-SECOND RUNNING 无绑定版（15095c）"}
+{"idx":75,"len":18094,"model":"default","sha8":"32a0bdfe","findings":"COLLAPSING COLUMN img_1+video_1 版（18094c）"}
+{"idx":76,"len":15072,"model":"default","sha8":"d7111c3b","findings":"6-SECOND RUNNING img_1 版（15072c）"}
+{"idx":77,"len":18972,"model":"default","sha8":"86b70a58","findings":"同文重生成（首现行72）"}
+{"idx":78,"len":15462,"model":"default","sha8":"fb61f7ce","findings":"VOICE REF ONLY 四引用+audio 双轨版（15462c）——two revolvers like <<<image_4>>> 武器图像引用"}
+{"idx":79,"len":12819,"model":"default","sha8":"757c85e1","findings":"SILAS | BANG, BANG, CLICK 干响三拍首例——0:00–0:06 双响+咔哒空膛节奏命名；doubble 笔误再现"}
+{"idx":80,"len":12819,"model":"default","sha8":"757c85e1","findings":"同文重生成（首现行79）"}
+{"idx":81,"len":14293,"model":"default","sha8":"c6585270","findings":"6-SECOND KAEL — TWO HUNTERS 双猎人对战首例——0:00–0:01.5 THE SECOND ATTACK 亚秒节拍"}
+{"idx":82,"len":18050,"model":"default","sha8":"e4fad295","findings":"VOICE REF ONLY 18050c 版"}
+{"idx":83,"len":12861,"model":"default","sha8":"0a892b56","findings":"12-Second GUNSLINGER img_1/img_2/img_3 版（12861c）"}
+{"idx":84,"len":14758,"model":"default","sha8":"b03a2a17","findings":"NYRA MUST NOT EXIST IN THE OPENING FRAME Nyra 入场禁令首例——revolvers img_5+NYRA img_6 绑定；She must physically ARRIVE 必须物理到场"}
+{"idx":85,"len":12768,"model":"default","sha8":"34413ccf","findings":"12-Second GUNSLINGER+video_1 版（12768c）"}
+{"idx":86,"len":14686,"model":"default","sha8":"2e2739a5","findings":"NYRA MUST NOT EXIST 无武器从句版（14686c）"}
+{"idx":87,"len":14758,"model":"default","sha8":"b03a2a17","findings":"同文重生成（首现行84）"}
+{"idx":88,"len":12755,"model":"default","sha8":"d8e5e191","findings":"12-Second GUNSLINGER 12755c 版"}
+{"idx":89,"len":14686,"model":"default","sha8":"2e2739a5","findings":"同文重生成（首现行86）"}
+{"idx":90,"len":19071,"model":"seedance_2_0","sha8":"3cd73e6b","findings":"VOICE REF ONLY seedance 版（19071c）——Continue from the last frame <<<image_6>>> 帧引用内嵌句中"}
+{"idx":91,"len":15871,"model":"default","sha8":"cb9a4dc1","findings":"12-Second GUNSLINGER 15871c 版"}
+{"idx":92,"len":11553,"model":"default","sha8":"c357b453","findings":"THE WARNING 预警拍首例——0:20.0–0:23.0 Reverse three-quarter shot from behind Kael toward Silas 反向四分之三机位"}
+{"idx":93,"len":19095,"model":"seedance_2_0","sha8":"265ee274","findings":"VOICE REF ONLY seedance 无 video 绑定版（19095c）——CONTINUATION 规则句完整实录：Do not replay, extend, or regenerate any action that has already occurred in the reference footage 参考素材不重演禁令"}
+{"idx":94,"len":18455,"model":"default","sha8":"2d99c215","findings":"SILAS RUNS DRY 打空拍首例——15–18 seconds 0:00–0:02.5 Tight medium tracking three-quarter front"}
+{"idx":95,"len":18565,"model":"default","sha8":"de604f09","findings":"武器层级 occasionally 版——he occasionally shoots wioth two revolvers（wioth 笔误）or with his double barrel rifle 双武器可选声明；img_5/img_6 双武器绑定"}
+{"idx":96,"len":18455,"model":"default","sha8":"2d99c215","findings":"同文重生成（首现行94）"}
+{"idx":97,"len":16574,"model":"default","sha8":"2c169d58","findings":"RAPID FIRE 快射段首例——0:10.0–0:12.5 Fast lateral tracking+Three Hunters emerge through the rain 雨中三猎人"}
+{"idx":98,"len":18022,"model":"default","sha8":"afee707c","findings":"VOICE REF ONLY 18022c 版（audio 双轨+img_5）"}
+{"idx":99,"len":17912,"model":"seedance_2_0","sha8":"a660303c","findings":"VOICE REF ONLY seedance 空绑定版（17912c）"}
+{"idx":100,"len":19119,"model":"seedance_2_0","sha8":"35fc3c15","findings":"VOICE REF ONLY seedance 19119c 版"}
+{"idx":101,"len":18707,"model":"default","sha8":"67fda63d","findings":"同文重生成（首现行5）"}
+{"idx":102,"len":17912,"model":"seedance_2_0","sha8":"a660303c","findings":"同文重生成（首现行99）"}
+{"idx":103,"len":18360,"model":"default","sha8":"98dbacff","findings":"VOICE REF ONLY 18360c 版（26 秒）"}
+{"idx":104,"len":18030,"model":"default","sha8":"0e51271c","findings":"VOICE REF ONLY 18030c 版（14 秒）"}
+{"idx":105,"len":15270,"model":"default","sha8":"cb7666e1","findings":"WHO ART THOU 15 秒全段——0:00–0:01.2 THE SILENCE AFTER THE SHOT 枪响后的静默开场拍"}
+{"idx":106,"len":12770,"model":"default","sha8":"dea7735d","findings":"SHOT — THE HIT 命中拍首例——0:00–0:01.5 RUNNING Back tracking shot 后退跟拍"}
+{"idx":107,"len":12873,"model":"default","sha8":"dd39b22e","findings":"SHOT — THE HIT KAEL 空绑定版（12873c）"}
+{"idx":108,"len":17621,"model":"default","sha8":"cb7a60f8","findings":"VOICE REF ONLY 17621c 版（audio_1/2+Nyra img_6+revolvers img_3）"}
+{"idx":109,"len":17577,"model":"default","sha8":"8277c926","findings":"CLIMACTIC FIGHT — \"TWO AGAINST THE HUNTERS\" 25 秒决战段首例——GLOBAL ACTION RULES No turn-taking 不轮替动作律（img_2/img_4/img_1）"}
+{"idx":110,"len":17577,"model":"default","sha8":"887bbecc","findings":"CLIMACTIC FIGHT KAEL=<<<image_2>>> 误绑版（与 SILAS 同图）——引用位串绑实录"}
+{"idx":111,"len":17617,"model":"default","sha8":"44be838a","findings":"CLIMACTIC FIGHT 5 秒版（17617c）"}
+{"idx":112,"len":17617,"model":"default","sha8":"44be838a","findings":"同文重生成（首现行111）"}
+{"idx":113,"len":17617,"model":"default","sha8":"44be838a","findings":"同文重生成（首现行111）"}
+{"idx":114,"len":17577,"model":"default","sha8":"8277c926","findings":"同文重生成（首现行109）"}
+{"idx":115,"len":19185,"model":"default","sha8":"55dcdcad","findings":"ASHEN COVENANT THE ESCAPE img_2/img_4 版（19185c 24 秒）"}
+{"idx":116,"len":18493,"model":"default","sha8":"f67014c5","findings":"SHOT — THE RESCUE 营救拍首例（23 秒 0:01.4 落点节拍）——Side medium tracking"}
+{"idx":117,"len":19185,"model":"default","sha8":"4833bf8f","findings":"ASHEN COVENANT THE ESCAPE 单字符重绑变体（4→5 @10724）"}
+{"idx":118,"len":14572,"model":"default","sha8":"5e00d798","findings":"THE RESCUE 14572c 0:01.5 版"}
+{"idx":119,"len":11397,"model":"default","sha8":"aed79855","findings":"对话残留直贴制第二例——I'd make it 5–6 seconds 用户口语修正句直贴段首；LAND 落地拍（slams onto the platform+looks up）"}
+{"idx":120,"len":11397,"model":"default","sha8":"aed79855","findings":"同文重生成（首现行119）"}
+{"idx":121,"len":16604,"model":"default","sha8":"3815450b","findings":"SHOT — THE GROUND GIVES WAY 地面塌陷拍首例——START FRAME — 0:00–0:01 Use the first reference image as the exact opening composition 首帧精确构图声明"}
+{"idx":122,"len":15949,"model":"default","sha8":"27249ec0","findings":"DESPERATE LOADING img_1 版（15949c）"}
+{"idx":123,"len":15949,"model":"default","sha8":"27249ec0","findings":"同文重生成（首现行122）"}
+{"idx":124,"len":15949,"model":"default","sha8":"27249ec0","findings":"同文重生成（首现行122）"}
+{"idx":125,"len":15488,"model":"default","sha8":"6bf6261a","findings":"GROUND GIVES WAY 15488c 版"}
+{"idx":126,"len":13618,"model":"default","sha8":"32933beb","findings":"DESPERATE LOADING 13618c 版"}
+{"idx":127,"len":15855,"model":"default","sha8":"fa297b94","findings":"SHOT — THE COLLAPSE 塌落拍首例——START FRAME — 0:00–0:01.2 Medium front-tracking"}
+{"idx":128,"len":14126,"model":"default","sha8":"54a327cc","findings":"THE COLLISION 碰撞拍首例（20 秒）——Kael is already engaged with Hunter 1 已在战中开场"}
+{"idx":129,"len":13202,"model":"default","sha8":"9e71347e","findings":"VOICE REF ONLY img_4/img_5/img_1+audio_3 版（13202c 12 秒）"}
+{"idx":130,"len":13529,"model":"default","sha8":"bdfeec95","findings":"SEEDANCE EDIT 13529c 版（8 秒）"}
+{"idx":131,"len":16395,"model":"default","sha8":"a655eef4","findings":"SHOT — KAEL: TURNING SLASH 转身斩首例——ARRI Alexa 65, 50mm anamorphic 型号+焦段声明；Estimated Duration 4–5s"}
+{"idx":132,"len":18695,"model":"default","sha8":"d223d6eb","findings":"KAEL & HUNTER — 15-SECOND FIGHT SEQUENCE 单猎人对战 15 秒段——REFERENCE / CONTINUITY 参考与连续性双用段头"}
+{"idx":133,"len":16395,"model":"default","sha8":"a655eef4","findings":"同文重生成（首现行131）"}
+{"idx":134,"len":17032,"model":"default","sha8":"c441bc02","findings":"VOICE REF ONLY 17032c 版（HUNTER img_3 单数）"}
+{"idx":135,"len":15870,"model":"default","sha8":"ac1c7c99","findings":"VOICE REF ONLY 15870c 版"}
+{"idx":136,"len":15289,"model":"default","sha8":"ee6713dd","findings":"PART I — THE FRACTURE SEQUENCE 15289c 版（27 秒）"}
+{"idx":137,"len":15430,"model":"default","sha8":"ec46e0bc","findings":"6-SECOND RUNNING 15430c 版"}
+{"idx":138,"len":18081,"model":"default","sha8":"dc32f69d","findings":"同文重生成（首现行73）"}
+{"idx":139,"len":18972,"model":"default","sha8":"86b70a58","findings":"同文重生成（首现行72）"}
+{"idx":140,"len":15072,"model":"default","sha8":"d7111c3b","findings":"同文重生成（首现行76）"}
+{"idx":141,"len":15085,"model":"default","sha8":"936a66cd","findings":"6-SECOND RUNNING img_1+video_1 版（15085c）"}
+{"idx":142,"len":14773,"model":"default","sha8":"a5e96190","findings":"6-SECOND RUNNING video_1 版（14773c）"}
+{"idx":143,"len":14773,"model":"default","sha8":"a5e96190","findings":"同文重生成（首现行142）"}
+{"idx":144,"len":14293,"model":"default","sha8":"c6585270","findings":"同文重生成（首现行81）"}
+{"idx":145,"len":18375,"model":"default","sha8":"d4c71a71","findings":"VOICE REF ONLY 双枪绝对化版——he shoots always shoots with two revolvers, never with just one 永不单枪绝对声明（26 秒 18375c）"}
+{"idx":146,"len":12911,"model":"default","sha8":"d1060ef6","findings":"KAEL | TWO HUNTERS 4 秒版（12911c）"}
+{"idx":147,"len":12874,"model":"default","sha8":"46de04ac","findings":"12-Second GUNSLINGER+video_1 img_1/img_3/img_4 版（12874c）"}
+{"idx":148,"len":15287,"model":"default","sha8":"35bbd393","findings":"NYRA MUST NOT EXIST 15287c 版（10 秒）"}
+{"idx":149,"len":12861,"model":"default","sha8":"5b474921","findings":"12-Second GUNSLINGER img_1/img_3/img_4 版（12861c）"}
+{"idx":150,"len":22583,"model":"default","sha8":"6e45a1e4","findings":"VOICE REF ONLY 22583c 版——his voice <<<audio_1>>> is he shoots 语序错排实录"}
+{"idx":151,"len":19198,"model":"seedance_2_0","sha8":"e503939d","findings":"VOICE REF ONLY seedance 19198c 版（15 秒）"}
+{"idx":152,"len":14879,"model":"default","sha8":"dfa95ff7","findings":"NYRA MUST NOT EXIST 14879c 版（11 秒）"}
+{"idx":153,"len":15304,"model":"default","sha8":"31f09f5b","findings":"NYRA — \"THE SORCERESS ARRIVES\" 巫师登场拍首例——~10–12 second 区间时长；revolvers lie 笔误（like→lie）"}
+{"idx":154,"len":18806,"model":"default","sha8":"31ac0b8b","findings":"VOICE REF ONLY 18806c 版（20 秒）"}
+{"idx":155,"len":12469,"model":"default","sha8":"f3d74fc7","findings":"5-SECOND SHOT — SILAS: DRY FIRE 干火拍首例——Dynamic medium-close tracking+lateral 移动干火"}
+{"idx":156,"len":17631,"model":"default","sha8":"30871458","findings":"VOICE REF ONLY 17631c 版（15 秒）"}
+{"idx":157,"len":11553,"model":"default","sha8":"c357b453","findings":"同文重生成（首现行92）"}
+{"idx":158,"len":12469,"model":"default","sha8":"f3d74fc7","findings":"同文重生成（首现行155）"}
+{"idx":159,"len":15664,"model":"default","sha8":"306c5a7d","findings":"SILAS SEES THE RIFLE 见枪拍首例——0:00–0:02 Medium three-quarter+doubble barrel rifle img_5 武器绑定；18 秒"}
+{"idx":160,"len":17288,"model":"default","sha8":"0e0d998e","findings":"VOICE REF ONLY 17288c 版（19 秒）"}
+{"idx":161,"len":18455,"model":"default","sha8":"2d99c215","findings":"同文重生成（首现行94）"}
+{"idx":162,"len":21888,"model":"default","sha8":"d1213d1d","findings":"SOMETHING CHANGES 变化感知拍首例——0:00–0:02 Over-the-shoulder from behind Silas toward Kael；30 秒+双枪 img_4"}
+{"idx":163,"len":17142,"model":"default","sha8":"8f5f6eb5","findings":"SOMETHING CHANGES Kael doesn't answer 不回应拍（17142c）——沉默应答机制"}
+{"idx":164,"len":18035,"model":"default","sha8":"4a23093c","findings":"VOICE REF ONLY 18035c 版（14 秒）"}
+{"idx":165,"len":19108,"model":"seedance_2_0","sha8":"04990a66","findings":"VOICE REF ONLY seedance 19108c 版"}
+{"idx":166,"len":12225,"model":"default","sha8":"8f61a48c","findings":"WHO ART THOU 12225c 2 秒版"}
+{"idx":167,"len":17756,"model":"default","sha8":"cf608719","findings":"WHO ART THOU 17756c 25 秒版"}
+{"idx":168,"len":17964,"model":"seedance_2_0","sha8":"39919ad4","findings":"VOICE REF ONLY seedance 17964c 版（13 秒）"}
+{"idx":169,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":170,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":171,"len":15978,"model":"default","sha8":"b1720331","findings":"WHO ART THOU 15978c 20 秒版"}
+{"idx":172,"len":17288,"model":"default","sha8":"0e0d998e","findings":"同文重生成（首现行160）"}
+{"idx":173,"len":17634,"model":"default","sha8":"0b1bf5e7","findings":"VOICE REF ONLY 17634c 版"}
+{"idx":174,"len":18022,"model":"default","sha8":"afee707c","findings":"同文重生成（首现行98）"}
+{"idx":175,"len":17577,"model":"default","sha8":"8277c926","findings":"同文重生成（首现行109）"}
+{"idx":176,"len":17617,"model":"default","sha8":"44be838a","findings":"同文重生成（首现行111）"}
+{"idx":177,"len":23777,"model":"default","sha8":"cc20f3d1","findings":"COMBAT SEQUENCE — \"NO ROOM TO BREATHE\" 无喘息 30 秒段首例——GLOBAL RULE FOR THIS SEQUENCE 段级全局律（单一动作流无轮替）"}
+{"idx":178,"len":23784,"model":"default","sha8":"0e23989e","findings":"CLIMACTIC FIGHT 25 秒扩展版（23784c）——同题异长双版本（对行109 17577c 基础版）"}
+{"idx":179,"len":17577,"model":"default","sha8":"8277c926","findings":"同文重生成（首现行109）"}
+{"idx":180,"len":18493,"model":"default","sha8":"f67014c5","findings":"同文重生成（首现行116）"}
+{"idx":181,"len":13383,"model":"default","sha8":"754128cd","findings":"THE RESCUE 13383c 8 秒版"}
+{"idx":182,"len":13383,"model":"default","sha8":"754128cd","findings":"同文重生成（首现行181）"}
+{"idx":183,"len":13396,"model":"default","sha8":"9d4f94b8","findings":"THE RESCUE 13396c 版"}
+{"idx":184,"len":11397,"model":"default","sha8":"aed79855","findings":"同文重生成（首现行119）"}
+{"idx":185,"len":16604,"model":"default","sha8":"3815450b","findings":"同文重生成（首现行121）"}
+{"idx":186,"len":15488,"model":"default","sha8":"6bf6261a","findings":"同文重生成（首现行125）"}
+{"idx":187,"len":15855,"model":"default","sha8":"fa297b94","findings":"同文重生成（首现行127）"}
+{"idx":188,"len":15488,"model":"default","sha8":"6bf6261a","findings":"同文重生成（首现行125）"}
+{"idx":189,"len":15949,"model":"default","sha8":"27249ec0","findings":"同文重生成（首现行122）"}
+{"idx":190,"len":15949,"model":"default","sha8":"27249ec0","findings":"同文重生成（首现行122）"}
+{"idx":191,"len":14771,"model":"default","sha8":"3677b76c","findings":"DESPERATE LOADING 14771c 7 秒版"}
+{"idx":192,"len":14803,"model":"default","sha8":"6451c4c6","findings":"SHOT — THE QUICK DRAW 14803c 4 秒版——SHOT 01 — THE REVEAL 亚秒 0.9 节拍"}
+{"idx":193,"len":16378,"model":"default","sha8":"494f1448","findings":"SHOT — THE ARC INTO THE BARREL 弧线入桶拍首例——START FRAME — MATCH THE FIRST IMAGE 首帧匹配声明（4 秒）"}
+{"idx":194,"len":15946,"model":"default","sha8":"d7a3cdcb","findings":"THE QUICK DRAW 15946c 版"}
+{"idx":195,"len":13619,"model":"default","sha8":"4550cfb6","findings":"DESPERATE LOADING 13619c 版——与行126 13618c 一字之差独立文本（字节级同族异文）"}
+{"idx":196,"len":17596,"model":"default","sha8":"05f517ed","findings":"SHOT — THE FLASK 水瓶拍首例——Opening Frame — 0:00 Medium front-tracking+img_5 道具绑定（5 秒）"}
+{"idx":197,"len":13618,"model":"default","sha8":"32933beb","findings":"同文重生成（首现行126）"}
+{"idx":198,"len":17582,"model":"default","sha8":"3618a308","findings":"THE FLASK 17582c 版"}
+{"idx":199,"len":15018,"model":"default","sha8":"3bb6d0b5","findings":"SHOT 01 — THE BOOTS 靴特写开场首例——Extreme close-up boots hammer across wet ancient stone+camera extremely low 极低机位（30 秒长序列开头）"}
+{"idx":200,"len":14539,"model":"default","sha8":"15c7f979","findings":"SHOT 12 — THE SECOND SHOT 第二枪拍——0:30–0:32 GUNSHOT 声音事件命名+The impact hits the platform ahead 弹着点前置"}
+{"idx":201,"len":14995,"model":"default","sha8":"8c8de787","findings":"SHOT 14 — THE BRIDGE 单字符重绑变体（2→3 @3385）"}
+{"idx":202,"len":15267,"model":"default","sha8":"cb53935f","findings":"PART I — THE FRACTURE SEQUENCE 15267c 版（27 秒）"}
+{"idx":203,"len":15239,"model":"default","sha8":"8111ec1d","findings":"PART I — THE FRACTURE SEQUENCE 短 28 字符独立变体（对行202）"}
+{"idx":204,"len":21429,"model":"default","sha8":"790bc014","findings":"GLOBAL PURSUIT RULE — THE COVENANT HUNTERS 追逐全局律首例——1. THE HUNTERS ARE NEVER CONSTANTLY BESIDE SILAS+tens of feet behind 数十英尺距离律+never run directly behind him 禁正后跟随"}
+{"idx":205,"len":21163,"model":"default","sha8":"eeba40ca","findings":"GLOBAL PURSUIT RULE 21163c 25 秒版"}
+{"idx":206,"len":12929,"model":"default","sha8":"37ec6dd3","findings":"SHOT 09 — LOADING 跑动装填拍——0:27–0:31 Extreme close-up+cylinder opens while running+He can't safely load the rest 无法安全装满声明"}
+{"idx":207,"len":18749,"model":"seedance_2_0","sha8":"5d1f03d5","findings":"SILAS & KAEL — 15-SECOND CLOSE-QUARTER FIGHT seedance 版（18749c）——THE DUCK 开局"}
+{"idx":208,"len":10899,"model":"default","sha8":"8a5109a8","findings":"SANDBOX CREATION SEEDANCE 2.5 MASTER PROMPT 沙盘母版头首例——Total Runtime: 30 seconds | 5 Shots 五连拍结构+REFERENCES Lord Draco's Wife 角色参照表（无图版）"}
+{"idx":209,"len":14685,"model":"default","sha8":"5956ccf6","findings":"SANDBOX img_4 版（14685c 18 秒）"}
+{"idx":210,"len":3193,"model":"default","sha8":"d7966949","findings":"TRANSITION SHOT: SPACECRAFT → RINGED PLANET → DEEP SPACE 星际转场拍首例——SEEDANCE 2.5 PROMPT — 5.00 seconds, 1 continuous shot, no cuts+ASSET BINDING 资产绑定段头（环形行星 img_1）"}
+{"idx":211,"len":14256,"model":"default","sha8":"89a9e011","findings":"SANDBOX 14256c 版（8 秒）"}
+{"idx":212,"len":3678,"model":"seedance_2_0","sha8":"23f98468","findings":"TRANSITION SHOT — CHAMBER → CITY → SPACECRAFT 双转场连写拍——Duration: EXACTLY 6.00 SECONDS+EXACTLY 5.00 SECONDS 精确时长声明+seedance_2_0"}
+{"idx":213,"len":14911,"model":"default","sha8":"f9cda718","findings":"SANDBOX 14911c 版"}
+{"idx":214,"len":14436,"model":"default","sha8":"a6d963be","findings":"SANDBOX 14436c 版"}
+{"idx":215,"len":3564,"model":"default","sha8":"02a9a632","findings":"TRANSITION CHAMBER→CITY 3564c 版"}
+{"idx":216,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":217,"len":15595,"model":"default","sha8":"2e8b9e85","findings":"SANDBOX LORD DRACO 参照表版（15595c）——match: exact facial identity+older male extraterrestrial appearance 银发白须外星长老"}
+{"idx":218,"len":3662,"model":"default","sha8":"dbc174df","findings":"TRANSITION CHAMBER 3662c img_1 行星版"}
+{"idx":219,"len":14698,"model":"default","sha8":"66f93282","findings":"SANDBOX 14698c 版"}
+{"idx":220,"len":13045,"model":"default","sha8":"c03273ac","findings":"SANDBOX 13045c 23 秒版"}
+{"idx":221,"len":23035,"model":"default","sha8":"1314e388","findings":"SANDBOX img_5 DRACO 23035c 6 秒版"}
+{"idx":222,"len":23876,"model":"default","sha8":"373b7564","findings":"SANDBOX img_5 23876c 12 秒版"}
+{"idx":223,"len":29669,"model":"seedance_2_0","sha8":"85d7721d","findings":"SANDBOX img_3 29669c 4 秒版（seedance）——29669c 家族首现"}
+{"idx":224,"len":29697,"model":"seedance_2_0","sha8":"b26bcee4","findings":"SANDBOX img_5 29697c 版（seedance）"}
+{"idx":225,"len":29697,"model":"seedance_2_0","sha8":"b26bcee4","findings":"同文重生成（首现行224）"}
+{"idx":226,"len":29719,"model":"default","sha8":"3895fa2d","findings":"SANDBOX img_5 29719c default 版"}
+{"idx":227,"len":29697,"model":"seedance_2_0","sha8":"b26bcee4","findings":"同文重生成（首现行224）"}
+{"idx":228,"len":14555,"model":"default","sha8":"cc421cd4","findings":"SANDBOX img_7 14555c 7 秒版"}
+{"idx":229,"len":29669,"model":"default","sha8":"85d7721d","findings":"同文重生成（首现行223）"}
+{"idx":230,"len":29697,"model":"seedance_2_0","sha8":"b26bcee4","findings":"同文重生成（首现行224）"}
+{"idx":231,"len":32109,"model":"default","sha8":"d396b346","findings":"SANDBOX img_6 32109c 12 秒版"}
+{"idx":232,"len":32167,"model":"default","sha8":"8ffe0b42","findings":"SANDBOX img_6 32167c 15 秒版——**全库 T3 新最长**（此前 AURA 28,106c → 32,167c）"}
+{"idx":233,"len":27984,"model":"default","sha8":"8d4e29b7","findings":"SANDBOX img_7 27984c 15 秒版"}
+{"idx":234,"len":14456,"model":"seedance_2_0","sha8":"c607ffc7","findings":"SANDBOX seedance 无图版（14456c）"}
+{"idx":235,"len":18044,"model":"default","sha8":"0732588d","findings":"SANDBOX img_7 18044c 版"}
+{"idx":236,"len":16786,"model":"default","sha8":"f660a828","findings":"SANDBOX Draco's Wife 16786c 25 秒版"}
+{"idx":237,"len":13542,"model":"default","sha8":"40e1c3ef","findings":"SANDBOX Draco's Wife 13542c 版"}
+{"idx":238,"len":13178,"model":"default","sha8":"91868200","findings":"SANDBOX Draco's Wife 13178c 版"}
+{"idx":239,"len":16238,"model":"seedance_2_0","sha8":"35f597c6","findings":"SANDBOX img_1 seedance 16238c 版"}
+{"idx":240,"len":20271,"model":"seedance_2_0","sha8":"e00e0fa7","findings":"SANDBOX seedance 无图 20271c 版"}
+{"idx":241,"len":19883,"model":"seedance_2_0","sha8":"0138061f","findings":"SANDBOX seedance 19883c 版"}
+{"idx":242,"len":16236,"model":"default","sha8":"49d2e9f9","findings":"SANDBOX img_1 16236c 15 秒版"}
+{"idx":243,"len":18095,"model":"default","sha8":"286043d0","findings":"SANDBOX img_1 18095c 13 秒版"}
+{"idx":244,"len":16360,"model":"seedance_2_0","sha8":"37c14723","findings":"SANDBOX img_1 seedance 16360c 版"}
+{"idx":245,"len":18094,"model":"default","sha8":"0fab5883","findings":"SANDBOX img_1 18094c 版——与行243 18095c 一字之差独立"}
+{"idx":246,"len":11081,"model":"default","sha8":"75a52133","findings":"SANDBOX img_1 11081c 17 秒版"}
+{"idx":247,"len":16236,"model":"default","sha8":"49d2e9f9","findings":"同文重生成（首现行242）"}
+{"idx":248,"len":16897,"model":"default","sha8":"611b9fbb","findings":"SANDBOX img_1 16897c 版"}
+{"idx":249,"len":12917,"model":"default","sha8":"8db00020","findings":"SANDBOX Draco's Wife img_6 12917c 版"}
+{"idx":250,"len":24936,"model":"default","sha8":"fcf1a18d","findings":"SANDBOX img_1 24936c 30 秒版"}
+{"idx":251,"len":28793,"model":"default","sha8":"62ed3863","findings":"SANDBOX REVEAL / THE NEW WORLD 新世界揭示段首例（28793c）——full character reference — match exactly 全特征匹配声明"}
+{"idx":252,"len":26775,"model":"default","sha8":"52f73344","findings":"SANDBOX REVEAL 26775c 版"}
+{"idx":253,"len":28200,"model":"default","sha8":"39e23631","findings":"SANDBOX REVEAL 28200c 版"}
+{"idx":254,"len":17284,"model":"default","sha8":"6a227637","findings":"SILAS — EMPTY REVOLVER / RIFLE RECOVERY 空膛换枪恢复段首例（17284c）——doubble barrel rifle img_5；空膛→双管步枪武器切换链"}
+{"idx":255,"len":12808,"model":"default","sha8":"485f30db","findings":"SANDBOX The Watcher/The Architect 观察者参照表版（12808c）——pale gray skin+elongated alien anatomy+luminous blue biological markings 蓝纹灰肤外星族"}
+{"idx":256,"len":12187,"model":"default","sha8":"3823b548","findings":"SANDBOX Draco's Wife img_6 12187c 版"}
+{"idx":257,"len":16378,"model":"default","sha8":"494f1448","findings":"同文重生成（首现行193）"}
+{"idx":258,"len":14785,"model":"default","sha8":"8e9bd78a","findings":"DESPERATE LOADING 14785c 版"}
+{"idx":259,"len":16378,"model":"default","sha8":"494f1448","findings":"同文重生成（首现行193）"}
+{"idx":260,"len":13618,"model":"default","sha8":"32933beb","findings":"同文重生成（首现行126）"}
+{"idx":261,"len":13618,"model":"default","sha8":"32933beb","findings":"同文重生成（首现行126）"}
+{"idx":262,"len":13618,"model":"default","sha8":"32933beb","findings":"同文重生成（首现行126）"}
+{"idx":263,"len":16355,"model":"default","sha8":"b797b71d","findings":"THE FLASK 16355c 版"}
+{"idx":264,"len":22572,"model":"default","sha8":"7c196692","findings":"VOICE REF ONLY 22572c 版（audio_1 is 错排）"}
+{"idx":265,"len":14994,"model":"default","sha8":"435b5e63","findings":"同文重生成（首现行70）"}
+{"idx":266,"len":15267,"model":"default","sha8":"bf3422b3","findings":"PART I — THE FRACTURE SEQUENCE 单字符重绑变体（3→2 @3385）"}
+{"idx":267,"len":18537,"model":"default","sha8":"a5e4ee23","findings":"0:27–0:31 空膛特写版（18537c）——The revolver cylinder is already open. The chambers are visibly empty 六空膛连续性声明"}
+{"idx":268,"len":13735,"model":"default","sha8":"32bdc89a","findings":"SHOT 14 — THE BRIDGE 13735c 版"}
+{"idx":269,"len":23086,"model":"default","sha8":"fb366801","findings":"GLOBAL PURSUIT RULE 23086c 30 秒版"}
+{"idx":270,"len":18023,"model":"default","sha8":"9906009e","findings":"VOICE REF ONLY 18023c 版"}
+{"idx":271,"len":22582,"model":"seedance_2_0","sha8":"ab74e42b","findings":"VOICE REF ONLY seedance 22582c 8 秒版"}
+{"idx":272,"len":5373,"model":"default","sha8":"bca932b4","findings":"REVISED MASTER PROMPT 修订母版头首例（5373c）——TOTAL RUNTIME: EXACTLY 30 SECONDS+SHOT STRUCTURE: 5 CONTINUOUSLY CONNECTED SHOTS 五连拍结构声明+LORD DRACO'S BODYGUARD 参照"}
+{"idx":273,"len":2612,"model":"seedance_2_0","sha8":"4aff582e","findings":"TRANSITION SPACECRAFT→RINGED 全大写版（2612c）——CONTINUATION: Begin directly from the exact final frame of <<<video_1>>>+Preserve the existing spacecraft and planet exactly 保留声明"}
+{"idx":274,"len":11648,"model":"default","sha8":"0ddfa603","findings":"SANDBOX 5 秒版（11648c）——Total Runtime: 5 seconds 短沙盘"}
+{"idx":275,"len":7789,"model":"default","sha8":"f75c4c62","findings":"REVISED MASTER PROMPT 7789c 30 秒版"}
+{"idx":276,"len":3202,"model":"seedance_2_0","sha8":"69b9f8f0","findings":"TRANSITION SPACECRAFT→RINGED 3202c 版"}
+{"idx":277,"len":3691,"model":"default","sha8":"3ebad068","findings":"TRANSITION CHAMBER 3691c 版"}
+{"idx":278,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":279,"len":9110,"model":"default","sha8":"276cb088","findings":"TRANSITION CHAMBER 9110c 6 秒版——Continue the backward dolly already in progress without stopping, slowing, or holding 后撤恒速声明"}
+{"idx":280,"len":1833,"model":"default","sha8":"af2698a2","findings":"对话残留直贴制第三例（1833c 最短实例）——Absolutely. I'd tighten the language and make the two simultaneous movements unmistakable 助手改稿回复整段直贴"}
+{"idx":281,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":282,"len":3728,"model":"default","sha8":"4472b783","findings":"SHOT — PULLING INTO SPACE 拉离太空拍首例（3728c）——EXACTLY 4.00 SECONDS+colossal circular spacecraft+central transparent dome containing the civilization 文明穹顶飞船设定"}
+{"idx":283,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":284,"len":4782,"model":"default","sha8":"b187168d","findings":"TRANSITION CHAMBER REFERENCES 段头版（4782c）——CHAMBER CORRIDOR / CEREMONIAL ENTRANCE 金属长廊+reflective dark floor+glass railings 场景参照表"}
+{"idx":285,"len":11368,"model":"default","sha8":"998589aa","findings":"SANDBOX Draco's Wife img_5 11368c 版"}
+{"idx":286,"len":14684,"model":"default","sha8":"1684ef60","findings":"SANDBOX Draco's Wife img_5 14684c 版——与行209 14685c 一字之差独立"}
+{"idx":287,"len":29811,"model":"default","sha8":"687b582b","findings":"SANDBOX img_5 29811c 版"}
+{"idx":288,"len":18749,"model":"seedance_2_0","sha8":"5d1f03d5","findings":"同文重生成（首现行207）"}
+{"idx":289,"len":29669,"model":"default","sha8":"85d7721d","findings":"同文重生成（首现行223）"}
+{"idx":290,"len":29669,"model":"seedance_2_0","sha8":"85d7721d","findings":"同文重生成（首现行223）"}
+{"idx":291,"len":29669,"model":"default","sha8":"85d7721d","findings":"同文重生成（首现行223）"}
+{"idx":292,"len":29705,"model":"default","sha8":"547037e3","findings":"SANDBOX img_5 29705c 版"}
+{"idx":293,"len":29669,"model":"default","sha8":"85d7721d","findings":"同文重生成（首现行223）"}
+{"idx":294,"len":29719,"model":"default","sha8":"3895fa2d","findings":"同文重生成（首现行226）"}
+{"idx":295,"len":29697,"model":"seedance_2_0","sha8":"b26bcee4","findings":"同文重生成（首现行224）"}
+{"idx":296,"len":29202,"model":"default","sha8":"9c80e9c7","findings":"SANDBOX img_5 29202c 7 秒版"}
+{"idx":297,"len":29160,"model":"default","sha8":"8d93e71c","findings":"SANDBOX img_5 29160c 版"}
+{"idx":298,"len":29813,"model":"seedance_2_0","sha8":"ca7801ba","findings":"SANDBOX img_5 seedance 29813c 版"}
+{"idx":299,"len":32109,"model":"default","sha8":"d396b346","findings":"同文重生成（首现行231）"}
+{"idx":300,"len":13829,"model":"default","sha8":"7795fe94","findings":"SANDBOX Draco's Wife 13829c 20 秒版"}
+{"idx":301,"len":14479,"model":"default","sha8":"7d10669d","findings":"SANDBOX img_1 14479c 4 秒版"}
+{"idx":302,"len":16897,"model":"default","sha8":"611b9fbb","findings":"同文重生成（首现行248）"}
+{"idx":303,"len":16401,"model":"default","sha8":"326714bf","findings":"SANDBOX img_1 16401c 版"}
+{"idx":304,"len":19945,"model":"seedance_2_0","sha8":"a26b1cb4","findings":"SANDBOX REVEAL seedance 19945c 版"}
+{"idx":305,"len":17962,"model":"seedance_2_0","sha8":"546b0a30","findings":"SANDBOX REVEAL seedance 17962c 版"}
+{"idx":306,"len":11068,"model":"default","sha8":"44190e15","findings":"SANDBOX img_1 11068c 版"}
+{"idx":307,"len":16236,"model":"default","sha8":"49d2e9f9","findings":"同文重生成（首现行242）"}
+{"idx":308,"len":16360,"model":"seedance_2_0","sha8":"37c14723","findings":"同文重生成（首现行244）"}
+{"idx":309,"len":16401,"model":"default","sha8":"326714bf","findings":"同文重生成（首现行303）"}
+{"idx":310,"len":22617,"model":"default","sha8":"ea91976e","findings":"SANDBOX img_1 22617c 30 秒版"}
+{"idx":311,"len":26731,"model":"default","sha8":"3f794ddf","findings":"SANDBOX REVEAL 26731c 版"}
+{"idx":312,"len":28821,"model":"default","sha8":"a68ad6de","findings":"SANDBOX REVEAL 28821c 版"}
+{"idx":313,"len":18749,"model":"seedance_2_0","sha8":"5d1f03d5","findings":"同文重生成（首现行207）"}
+{"idx":314,"len":18815,"model":"default","sha8":"6aae3f69","findings":"SILAS & KAEL 15-SECOND img_4/img_1/img_3 版（18815c）"}
+{"idx":315,"len":16487,"model":"default","sha8":"25260549","findings":"种族标注绑定头首例——SILAS is the African-Amereican man here（**Amereican 源内笔误贯穿全族**）+HE ALWAYS WEARS HIS HAT 全大写帽指令+Nyra's father 第四角色入绑定头（30 秒 16487c）"}
+{"idx":316,"len":8777,"model":"default","sha8":"663a3018","findings":"SANDBOX Draco's Wife img_6 8777c 版"}
+{"idx":317,"len":13674,"model":"default","sha8":"e8dc5b9d","findings":"SILAS / KAEL / NYRA CONTINUATION FROM PREVIOUS FRAME 前帧续接段头首例（13674c）——match: exact facial identity…leather clothing, backpack 五件套匹配清单"}
+{"idx":318,"len":17677,"model":"default","sha8":"1b17fb57","findings":"African-Amereican 族 17677c 版"}
+{"idx":319,"len":10694,"model":"default","sha8":"be28eeb6","findings":"SANDBOX Watcher 10694c 12 秒版"}
+{"idx":320,"len":19801,"model":"default","sha8":"8efdca10","findings":"African 族 19801c 版"}
+{"idx":321,"len":19771,"model":"default","sha8":"d0541f68","findings":"African 族 19771c 版"}
+{"idx":322,"len":12215,"model":"default","sha8":"653a6d6c","findings":"4-SECOND SHOT — SILAS / RIFLE REVEAL 步枪揭示拍首例——00:00–00:01 DRY 干火节拍"}
+{"idx":323,"len":18067,"model":"default","sha8":"6c56ae15","findings":"CHARACTER CONTINUITY — SILAS 段头首例——Use Reference Image 4 as the sole visual reference for Silas's identity and appearance 唯一视觉参考声明（23 秒 18067c）"}
+{"idx":324,"len":9031,"model":"default","sha8":"583e1251","findings":"African FING HAT 版首例（9031c）——HE ALWAYS WEARS HIS FING HAT（**FING HAT 源内笔误**）+Nyra's father"}
+{"idx":325,"len":9858,"model":"default","sha8":"bec3e302","findings":"FING HAT 9858c 版"}
+{"idx":326,"len":18860,"model":"default","sha8":"62ebc85a","findings":"African 无图绑定版（18860c 11 秒）"}
+{"idx":327,"len":9097,"model":"default","sha8":"0c72b5b7","findings":"FING HAT 9097c 版"}
+{"idx":328,"len":7404,"model":"default","sha8":"3e50af97","findings":"FING HAT 7404c 版"}
+{"idx":329,"len":7395,"model":"default","sha8":"511c6277","findings":"FING HAT 7395c 6 秒版"}
+{"idx":330,"len":5482,"model":"default","sha8":"e7b06c7f","findings":"FING HAT 5482c 4 秒版"}
+{"idx":331,"len":15490,"model":"default","sha8":"441a6d80","findings":"African img_4 15490c 8 秒版"}
+{"idx":332,"len":16189,"model":"default","sha8":"0279e559","findings":"African img_4 16189c 14 秒版"}
+{"idx":333,"len":15070,"model":"default","sha8":"570e9ea2","findings":"CHARACTER CONTINUITY 15070c 4 秒版"}
+{"idx":334,"len":15374,"model":"default","sha8":"c7bf79dc","findings":"CHARACTER CONTINUITY 15374c 5 秒版"}
+{"idx":335,"len":11670,"model":"default","sha8":"517533aa","findings":"FIRST SHOT 首枪拍——00:00–00:01.0 Medium-close tracking（11670c）"}
+{"idx":336,"len":12667,"model":"default","sha8":"815ccff3","findings":"VOICE REF ONLY 12667c 版（四行组首现）"}
+{"idx":337,"len":12667,"model":"default","sha8":"38aadc08","findings":"VOICE REF ONLY 时长数字 7→5 变体（@11893）——行338 与此同文"}
+{"idx":338,"len":12667,"model":"default","sha8":"38aadc08","findings":"同文重生成（首现行337）"}
+{"idx":339,"len":7395,"model":"default","sha8":"a61f1391","findings":"SANDBOX Watcher 7395c 版——与行329 同长异文（7395c 双案）"}
+{"idx":340,"len":14561,"model":"seedance_2_0","sha8":"ef7d71d5","findings":"VOICE REF ONLY seedance 14561c 版"}
+{"idx":341,"len":14565,"model":"default","sha8":"e9ff329a","findings":"VOICE REF ONLY 14565c 版"}
+{"idx":342,"len":14565,"model":"default","sha8":"e9ff329a","findings":"同文重生成（首现行341）"}
+{"idx":343,"len":19450,"model":"default","sha8":"3a6d72da","findings":"African img_4 19450c 10 秒版"}
+{"idx":344,"len":19328,"model":"default","sha8":"ab38ae37","findings":"African img_4 19328c 版"}
+{"idx":345,"len":14368,"model":"default","sha8":"0e976fac","findings":"VOICE REF ONLY 14368c 4 秒版"}
+{"idx":346,"len":16148,"model":"default","sha8":"520ddf3a","findings":"CHARACTER CONTINUITY img_4 16148c 6 秒版"}
+{"idx":347,"len":13541,"model":"default","sha8":"aaa0b543","findings":"VOICE REF ONLY 13541c 10 秒版"}
+{"idx":348,"len":14010,"model":"default","sha8":"cf3ed2d0","findings":"African img_2 绑定版（14010c）——SILAS 引用位换图实录"}
+{"idx":349,"len":19095,"model":"default","sha8":"4442a0de","findings":"African img_4 19095c 版"}
+{"idx":350,"len":13541,"model":"default","sha8":"aaa0b543","findings":"同文重生成（首现行347）"}
+{"idx":351,"len":18813,"model":"seedance_2_0","sha8":"dc3b7f5b","findings":"African img_4 seedance 18813c 版"}
+{"idx":352,"len":14334,"model":"default","sha8":"625f297c","findings":"African img_4 14334c 5 秒版"}
+{"idx":353,"len":18801,"model":"seedance_2_0","sha8":"1db5da15","findings":"African seedance 18801c 版"}
+{"idx":354,"len":18818,"model":"default","sha8":"1d033b5d","findings":"African 18818c 版"}
+{"idx":355,"len":8085,"model":"default","sha8":"f3bd495d","findings":"SANDBOX Watcher 8085c 22 秒版"}
+{"idx":356,"len":12802,"model":"seedance_2_0","sha8":"2e687b4c","findings":"African seedance 12802c 9 秒版"}
+{"idx":357,"len":18831,"model":"default","sha8":"c7371d16","findings":"African 18831c 版"}
+{"idx":358,"len":15499,"model":"seedance_2_0","sha8":"d3d19b94","findings":"African seedance 15499c 4 秒版"}
+{"idx":359,"len":15385,"model":"default","sha8":"62330d45","findings":"African img_4 15385c 版（default）"}
+{"idx":360,"len":15385,"model":"seedance_2_0","sha8":"62330d45","findings":"同文重生成（首现行359）"}
+{"idx":361,"len":21310,"model":"video_edit","sha8":"bf3fdeee","findings":"video_edit 首例 VOICE REF ONLY 修正（21310c）——video_edit 模型承接语音参考修正链"}
+{"idx":362,"len":21310,"model":"default","sha8":"bf3fdeee","findings":"同文重生成（首现行361）"}
+{"idx":363,"len":22589,"model":"seedance_2_0","sha8":"904badcd","findings":"VOICE seedance 22589c 版"}
+{"idx":364,"len":22535,"model":"default","sha8":"77303d6d","findings":"VOICE 22535c 版——与行363 一字之差独立"}
+{"idx":365,"len":14684,"model":"default","sha8":"80f081c7","findings":"African img_4 14684c 4 秒版——与行286 同长异文"}
+{"idx":366,"len":17609,"model":"default","sha8":"fb16183a","findings":"VOICE 17609c 15 秒版"}
+{"idx":367,"len":18489,"model":"default","sha8":"53d0855e","findings":"EMPTY REVOLVER / RIFLE RECOVERY img_1+image_5 版（18489c）——doubble barrel 笔误再现"}
+{"idx":368,"len":21590,"model":"default","sha8":"cf9d0fdd","findings":"SANDBOX REVEAL img_1 21590c 26 秒版"}
+{"idx":369,"len":18489,"model":"default","sha8":"53d0855e","findings":"同文重生成（首现行367）"}
+{"idx":370,"len":24200,"model":"seedance_2_0","sha8":"de6a41fd","findings":"VOICE seedance img_3/img_1 24200c 版"}
+{"idx":371,"len":23854,"model":"seedance_2_0","sha8":"3ffa25b0","findings":"VOICE seedance 23854c 版"}
+{"idx":372,"len":23893,"model":"default","sha8":"d68b40b2","findings":"VOICE default 23893c 版"}
+{"idx":373,"len":12593,"model":"default","sha8":"198cfeec","findings":"African-American 正字版首例（12593c）——同一项目内 Amereican/American 两种拼写并存实录"}
+{"idx":374,"len":23271,"model":"default","sha8":"03557993","findings":"African img_3/img_4 23271c 版"}
+{"idx":375,"len":26334,"model":"default","sha8":"bbc6742d","findings":"African-American 正字 26334c 版"}
+{"idx":376,"len":23250,"model":"default","sha8":"d32df1dd","findings":"African 23250c 版——与行374 一字之差独立"}
+{"idx":377,"len":25965,"model":"default","sha8":"5464949c","findings":"African 25965c 11 秒版"}
+{"idx":378,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":379,"len":23948,"model":"default","sha8":"bc2c6ffe","findings":"SANDBOX REVEAL 23948c 版"}
+{"idx":380,"len":8875,"model":"default","sha8":"d0f56b50","findings":"SANDBOX Watcher img_1 8875c 29 秒版"}
+{"idx":381,"len":18815,"model":"default","sha8":"6aae3f69","findings":"同文重生成（首现行314）"}
+{"idx":382,"len":18816,"model":"default","sha8":"f259d409","findings":"SILAS & KAEL img_1/img_2/img_4 版（18816c）——与行381 一字之差独立"}
+{"idx":383,"len":8327,"model":"default","sha8":"4e272e59","findings":"African HAT+Nyra's father 8327c 版"}
+{"idx":384,"len":6683,"model":"default","sha8":"73e0764c","findings":"African HAT+Nyra's father 6683c 版"}
+{"idx":385,"len":13675,"model":"default","sha8":"cefbb5f5","findings":"CONTINUATION FROM PREVIOUS FRAME 13675c 版——与行317 一字之差独立"}
+{"idx":386,"len":19802,"model":"default","sha8":"fcce8d17","findings":"African 19802c 版——与行320 一字之差独立"}
+{"idx":387,"len":20019,"model":"default","sha8":"33687f74","findings":"African 20019c 版"}
+{"idx":388,"len":12211,"model":"default","sha8":"dcf96763","findings":"RIFLE REVEAL 12211c 版"}
+{"idx":389,"len":14757,"model":"default","sha8":"c2a74996","findings":"African FING HAT 14757c 版（无 Nyra's father）"}
+{"idx":390,"len":10707,"model":"default","sha8":"7c72f3a2","findings":"SANDBOX Watcher 10707c 版"}
+{"idx":391,"len":14566,"model":"video_edit","sha8":"e070b039","findings":"video_edit VOICE 14566c 16 秒版"}
+{"idx":392,"len":17249,"model":"default","sha8":"7bda184e","findings":"CHARACTER CONTINUITY 17249c 20 秒版"}
+{"idx":393,"len":9031,"model":"default","sha8":"583e1251","findings":"同文重生成（首现行324）"}
+{"idx":394,"len":18873,"model":"default","sha8":"99789061","findings":"African 无图 18873c 版"}
+{"idx":395,"len":16266,"model":"default","sha8":"3d85eca3","findings":"African 无图 16266c 版"}
+{"idx":396,"len":5513,"model":"default","sha8":"4c83bb64","findings":"FING HAT 5513c 版"}
+{"idx":397,"len":12202,"model":"default","sha8":"14d04a0a","findings":"RIFLE REVEAL 12202c 版"}
+{"idx":398,"len":16302,"model":"default","sha8":"c9d08bde","findings":"African img_4 16302c 版"}
+{"idx":399,"len":15398,"model":"default","sha8":"304cabbe","findings":"CHARACTER CONTINUITY 15398c 版"}
+{"idx":400,"len":11675,"model":"default","sha8":"ad34f85d","findings":"FIRST SHOT 11675c 5 秒版"}
+{"idx":401,"len":20408,"model":"default","sha8":"7a80e5a5","findings":"African img_4 20408c 22 秒版"}
+{"idx":402,"len":21681,"model":"default","sha8":"1e44ebd4","findings":"African img_4 21681c 版"}
+{"idx":403,"len":12667,"model":"default","sha8":"815ccff3","findings":"同文重生成（首现行336）"}
+{"idx":404,"len":14561,"model":"seedance_2_0","sha8":"ef7d71d5","findings":"同文重生成（首现行340）"}
+{"idx":405,"len":14463,"model":"default","sha8":"8384e9ef","findings":"VOICE 14463c 7 秒版"}
+{"idx":406,"len":19450,"model":"seedance_2_0","sha8":"3a6d72da","findings":"同文重生成（首现行343）"}
+{"idx":407,"len":18801,"model":"seedance_2_0","sha8":"1db5da15","findings":"同文重生成（首现行353）"}
+{"idx":408,"len":19239,"model":"default","sha8":"e325e8b8","findings":"African 19239c 版"}
+{"idx":409,"len":19450,"model":"seedance_2_0","sha8":"3a6d72da","findings":"同文重生成（首现行343）"}
+{"idx":410,"len":15740,"model":"default","sha8":"7650d9c2","findings":"CHARACTER CONTINUITY 15740c 7 秒版"}
+{"idx":411,"len":13720,"model":"default","sha8":"3e19c777","findings":"CHARACTER CONTINUITY 13720c 版"}
+{"idx":412,"len":18813,"model":"default","sha8":"dc3b7f5b","findings":"同文重生成（首现行351）"}
+{"idx":413,"len":18813,"model":"seedance_2_0","sha8":"dc3b7f5b","findings":"同文重生成（首现行351）"}
+{"idx":414,"len":18799,"model":"seedance_2_0","sha8":"51b07987","findings":"African seedance 18799c 版"}
+{"idx":415,"len":18799,"model":"default","sha8":"51b07987","findings":"同文重生成（首现行414）"}
+{"idx":416,"len":14368,"model":"seedance_2_0","sha8":"ca4191d8","findings":"African img_4 seedance 14368c 6 秒版——与行345 同长异文（有图版）"}
+{"idx":417,"len":18799,"model":"default","sha8":"51b07987","findings":"同文重生成（首现行414）"}
+{"idx":418,"len":14313,"model":"default","sha8":"e0044f0f","findings":"African img_2 14313c 版"}
+{"idx":419,"len":14385,"model":"default","sha8":"511bbce9","findings":"African 14385c 版"}
+{"idx":420,"len":14449,"model":"seedance_2_0","sha8":"61c98c61","findings":"African seedance 14449c 版"}
+{"idx":421,"len":12981,"model":"default","sha8":"e0e0ddff","findings":"VOICE 12981c 10 秒版"}
+{"idx":422,"len":13541,"model":"default","sha8":"aaa0b543","findings":"同文重生成（首现行347）"}
+{"idx":423,"len":13541,"model":"default","sha8":"aaa0b543","findings":"同文重生成（首现行347）"}
+{"idx":424,"len":15385,"model":"seedance_2_0","sha8":"62330d45","findings":"同文重生成（首现行359）"}
+{"idx":425,"len":14700,"model":"seedance_2_0","sha8":"94d606a7","findings":"African seedance 14700c 版"}
+{"idx":426,"len":17704,"model":"seedance_2_0","sha8":"de909338","findings":"African seedance 17704c 15 秒版"}
+{"idx":427,"len":17704,"model":"seedance_2_0","sha8":"de909338","findings":"同文重生成（首现行426）"}
+{"idx":428,"len":22577,"model":"default","sha8":"ef428b23","findings":"VOICE 22577c 版"}
+{"idx":429,"len":22576,"model":"default","sha8":"3562c0f4","findings":"VOICE 22576c 版——与行428 一字之差独立"}
+{"idx":430,"len":6763,"model":"default","sha8":"04269870","findings":"SANDBOX Watcher img_1 6763c 版"}
+{"idx":431,"len":15435,"model":"seedance_2_0","sha8":"9bff88ba","findings":"African seedance 15435c 6 秒版"}
+{"idx":432,"len":6927,"model":"default","sha8":"6514b321","findings":"SANDBOX Watcher 6927c 版"}
+{"idx":433,"len":17179,"model":"default","sha8":"580ae0f2","findings":"SANDBOX REVEAL img_1 17179c 版"}
+{"idx":434,"len":18629,"model":"default","sha8":"11ab4597","findings":"SANDBOX REVEAL img_1 18629c 版"}
+{"idx":435,"len":23854,"model":"seedance_2_0","sha8":"3ffa25b0","findings":"同文重生成（首现行371）"}
+{"idx":436,"len":24761,"model":"default","sha8":"c079fe39","findings":"VOICE 24761c 版"}
+{"idx":437,"len":26336,"model":"seedance_2_0","sha8":"691d9383","findings":"African-American seedance 26336c 13 秒版——与行375 一字之差独立"}
+{"idx":438,"len":28354,"model":"video_edit","sha8":"ce978855","findings":"video_edit VOICE 28354c 14 秒版——video_edit 最大修正案"}
+{"idx":439,"len":26334,"model":"default","sha8":"bbc6742d","findings":"同文重生成（首现行375）"}
+{"idx":440,"len":23250,"model":"default","sha8":"d32df1dd","findings":"同文重生成（首现行376）"}
+{"idx":441,"len":28134,"model":"default","sha8":"c3229f02","findings":"African-American 28134c 版"}
+{"idx":442,"len":28134,"model":"default","sha8":"c3229f02","findings":"同文重生成（首现行441）"}
+{"idx":443,"len":25980,"model":"seedance_2_0","sha8":"835a1eb6","findings":"African seedance 25980c 11 秒版"}
+{"idx":444,"len":15651,"model":"default","sha8":"7f3f3449","findings":"VOICE img_3/img_4/img_1 15651c 版（极简绑定头）"}
+{"idx":445,"len":15407,"model":"default","sha8":"e049310d","findings":"VOICE 15407c 版"}
+{"idx":446,"len":15407,"model":"default","sha8":"e049310d","findings":"同文重生成（首现行445）"}
+{"idx":447,"len":24228,"model":"seedance_2_0","sha8":"f3a80a6b","findings":"全大写绑定头首例——SILAS is <<<image_2>>> HIS VOICE IS <<<audio_1>>> 大写声轨声明变体（24228c seedance）"}
+{"idx":448,"len":22028,"model":"seedance_2_0","sha8":"44e21a76","findings":"African seedance 22028c 版"}
+{"idx":449,"len":22026,"model":"seedance_2_0","sha8":"6da82e28","findings":"全大写绑定头 22026c 版——与行447 异长双版"}
+{"idx":450,"len":2766,"model":"video_edit","sha8":"2c4fc5cc","findings":"video_edit 超短修正首例（2766c）——绑定头+VOICE REFERENCE ONLY 截段修正形态"}
+{"idx":451,"len":2766,"model":"video_edit","sha8":"2c4fc5cc","findings":"同文重生成（首现行450）"}
+{"idx":452,"len":15407,"model":"default","sha8":"e049310d","findings":"同文重生成（首现行445）"}
+{"idx":453,"len":19296,"model":"default","sha8":"5cc03d88","findings":"全大写绑定头跨类型误绑实录——HER VOICE IS <<<image_3>>>（声轨位误引图像）；19296c"}
+{"idx":454,"len":21984,"model":"seedance_2_0","sha8":"5fde7909","findings":"全大写 seedance 21984c 版"}
+{"idx":455,"len":16452,"model":"default","sha8":"f928b566","findings":"SANDBOX REVEAL img_1 16452c 版"}
+{"idx":456,"len":15374,"model":"default","sha8":"c7bf79dc","findings":"同文重生成（首现行334）"}
+{"idx":457,"len":6790,"model":"default","sha8":"a4cc1a60","findings":"SANDBOX Watcher img_1 6790c 版"}
+{"idx":458,"len":19022,"model":"default","sha8":"4081054b","findings":"VOICE img_3/img_4/img_1 19022c 30 秒版"}
+{"idx":459,"len":17968,"model":"default","sha8":"b70fa1ec","findings":"VOICE KAEL <<<image_4>>> is his voice is 语序错排版（17968c）"}
+{"idx":460,"len":17969,"model":"seedance_2_0","sha8":"c4de453b","findings":"VOICE seedance 17969c 版——与行459 一字之差独立"}
+{"idx":461,"len":21704,"model":"default","sha8":"68828a29","findings":"VOICE 全空绑定版（21704c 15 秒）"}
+{"idx":462,"len":13438,"model":"default","sha8":"2b861753","findings":"African FING HAT 13438c 版"}
+{"idx":463,"len":6367,"model":"default","sha8":"ceb0f0e4","findings":"African img_4 6367c 版"}
+{"idx":464,"len":15802,"model":"seedance_2_0","sha8":"a5cecd0b","findings":"African img_4 seedance 15802c 版"}
+{"idx":465,"len":27500,"model":"default","sha8":"1fdbd785","findings":"VOICE 27500c 25 秒大版"}
+{"idx":466,"len":15802,"model":"seedance_2_0","sha8":"a5cecd0b","findings":"同文重生成（首现行464）"}
+{"idx":467,"len":14336,"model":"default","sha8":"ca4c7b56","findings":"GLOBAL CINEMATIC QUALITY RULES 第二宪法首例——PREMIUM PHOTOREALISM / IMAGE QUALITY 8K-quality fidelity+Preserve natural photographic 品质宪法段（14336c 30 秒）"}
+{"idx":468,"len":13341,"model":"default","sha8":"5b7ce6e5","findings":"CHARACTER CONTINUITY 13341c 版"}
+{"idx":469,"len":15802,"model":"seedance_2_0","sha8":"a5cecd0b","findings":"同文重生成（首现行464）"}
+{"idx":470,"len":13408,"model":"default","sha8":"297036f8","findings":"African 13408c 版"}
+{"idx":471,"len":15722,"model":"default","sha8":"c613ed00","findings":"VOICE 15722c 版"}
+{"idx":472,"len":18169,"model":"default","sha8":"9650e799","findings":"VOICE 18169c 23 秒版"}
+{"idx":473,"len":21407,"model":"default","sha8":"9b72d776","findings":"VOICE 21407c 版"}
+{"idx":474,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":475,"len":12502,"model":"default","sha8":"979b6196","findings":"African img_4 12502c 15 秒版"}
+{"idx":476,"len":15090,"model":"default","sha8":"67879b4e","findings":"VOICE 15090c 版"}
+{"idx":477,"len":19694,"model":"default","sha8":"b6f929e9","findings":"GLOBAL CINEMATIC 19694c 25 秒版"}
+{"idx":478,"len":15075,"model":"default","sha8":"1e688f7b","findings":"African img_4 15075c 版"}
+{"idx":479,"len":15075,"model":"default","sha8":"1e688f7b","findings":"同文重生成（首现行478）"}
+{"idx":480,"len":16223,"model":"default","sha8":"776bf7dd","findings":"African img_4 16223c 版"}
+{"idx":481,"len":16235,"model":"default","sha8":"6a18b0b0","findings":"African img_4 16235c 11 秒版"}
+{"idx":482,"len":13045,"model":"default","sha8":"8844c47a","findings":"GLOBAL CINEMATIC 13045c 15 秒版"}
+{"idx":483,"len":15664,"model":"default","sha8":"306c5a7d","findings":"同文重生成（首现行159）"}
+{"idx":484,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":485,"len":17320,"model":"seedance_2_0","sha8":"d7441f34","findings":"CHARACTER CONTINUITY seedance 17320c 版"}
+{"idx":486,"len":17463,"model":"default","sha8":"c60cc0be","findings":"African img_4 17463c 13 秒版"}
+{"idx":487,"len":20314,"model":"seedance_2_0","sha8":"f76d8f76","findings":"CHARACTER CONTINUITY seedance 20314c 版"}
+{"idx":488,"len":17875,"model":"default","sha8":"30eda389","findings":"CHARACTER CONTINUITY 17875c 版"}
+{"idx":489,"len":19142,"model":"default","sha8":"bab14cc8","findings":"African img_4 19142c 版"}
+{"idx":490,"len":18381,"model":"default","sha8":"0f699ed7","findings":"African img_4 18381c 版"}
+{"idx":491,"len":17463,"model":"default","sha8":"c60cc0be","findings":"同文重生成（首现行486）"}
+{"idx":492,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
+{"idx":493,"len":16581,"model":"default","sha8":"a937b85c","findings":"African img_4 16581c 版"}
+{"idx":494,"len":16561,"model":"default","sha8":"2bd83e51","findings":"RAPID FIRE 16561c 30 秒版——Three Hunters emerge through the rain"}
+{"idx":495,"len":16590,"model":"video_edit","sha8":"0b7c3aee","findings":"video_edit African 16590c 8 秒版"}
+{"idx":496,"len":15664,"model":"default","sha8":"306c5a7d","findings":"同文重生成（首现行159）"}
+{"idx":497,"len":16604,"model":"seedance_2_0","sha8":"fe3f9654","findings":"African img_4 seedance 16604c 版——与行121 同长异文（16604c 双案）"}
+{"idx":498,"len":16620,"model":"default","sha8":"d4650e50","findings":"African img_4 16620c 19 秒版"}
+{"idx":499,"len":11282,"model":"default","sha8":"20992e63","findings":"African img_4 11282c 版"}
+{"idx":500,"len":20786,"model":"default","sha8":"ae681dd6","findings":"African img_4 20786c 版"}

@@ -1,0 +1,126 @@
+【项目】CHARACTER PERFORMANCE STATE（@jellyfortuna · 创作者博客）
+【链接】https://higgsfield.ai/@jellyfortuna/blogs/character-performance-state
+【提示词块】1
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+CHARACTER PERFORMANCE STATE
+@jellyfortuna
+211
+4
+1
+Tested facial expression prompts for more controllable AI characters
+
+When working with AI characters, it’s common to start facial expression prompts with simple emotion words:
+
+
+
+
+
+
+
+But after testing many generations, I noticed that this is often not enough.
+
+
+
+
+AI models do not always interpret facial expressions, body language, and emotional nuance the way a human does. Some emotions are easy for the model to understand, especially when they have clear visual anchors like an open smile, raised cheeks, wide eyes, pressed lips, or lowered brows.But softer or more complex emotional states often collapse into the same expression, or the model starts changing the whole image instead of only adjusting the face.
+
+
+
+
+That is why I created this AI Character Performance Library. It is a practical Canvas with tested facial expression templates that you can use as a reference whenever you need a more specific emotion for your character.
+
+CHARACTER PERFORMANCE STATE
+Open the full Canvas here
+
+What this library is
+
+This is not just a list of emotions. It is a collection of tested prompt blocks designed to help AI models create more readable facial expressions while preserving the original character. Each expression is structured as a small performance prompt:
+
+ 
+
+
+
+
+
+This structure helps the model understand not only the emotion label, but also the visible facial cues that should create that emotion.
+
+Why simple emotion prompts are not enough
+
+A simple prompt like: “Make the character happy” can produce very different results depending on the model. Sometimes it works. Sometimes the smile is too generic. Sometimes the character’s face changes. Sometimes the model changes the camera, lighting, pose, or even the identity of the character.
+
+The problem is that “happy” is too broad. Happiness can mean:
+
+
+
+
+All of these are different expressions. The same problem happens with sadness, anger, fear, surprise, and other basic emotions. A real character rarely shows a pure emotion. More often, they show a specific performance state: trying not to cry, hiding anger, feeling embarrassed, judging someone silently, pretending to be polite, or holding themselves together. This library helps you move from simple emotion labels to more controlled character performance states.
+
+How the Canvas is organized
+
+
+
+
+
+The Canvas is organized as a practical visual workspace for testing and reusing facial expression prompts. It has two main expression groups:
+
+Core Set
+
+The Core Set contains the basic tested facial expressions. This section gives you a reliable starting point for checking how a model handles common emotions such as neutral, smile, sadness, anger, fear, surprise, disgust, crying, laughing, and focused expressions. Use this set when you need a simple, readable expression or when you want to quickly test how well the model preserves the character’s face.
+
+Extended Set
+
+The Extended Set goes beyond basic emotions. This section is designed for more specific character performance states, expressions that are often missing from standard emotion sets. Instead of only using broad labels like “happy”, “sad”, or “angry”, the Extended Set helps you create more precise states such as hidden discomfort, emotional suppression, nervousness, suspicion, shame, exhaustion, controlled anger, or unstable excitement. This is the most useful part when you are building expressive characters, emotion sheets, story scenes, or references for video generation.
+
+Examples
+
+The Examples area shows how tested expression prompts can be applied to different characters and visual styles. This helps demonstrate that the same prompt structure can be reused across portraits, stylized characters, and illustrated scenes.
+
+Character Emotion Map
+
+The Character Emotion Map shows how one character can be expanded into multiple emotional variations. It is useful for testing consistency, building a character expression sheet, and comparing how well the identity is preserved across different emotions.
+
+How to use
+
+They are especially useful when you want to:
+
+
+
+
+correct or improve a facial expression;
+add more emotional atmosphere to an image;
+prepare stronger first-frame references for video generation;
+build a reusable character emotion sheet or expression template.
+
+In my own tests, I used Nano Banana Pro for image generation.
+
+Step 1 — Find the expression you need
+
+Start by choosing the emotion or performance state that best matches your scene.
+
+You can use the Core Set for basic emotions, or the Extended Set for more specific and nuanced expressions. If you need a simple readable emotion, start with the Core Set. If you need something more character-driven — such as hidden discomfort, emotional suppression, nervousness, shame, or controlled anger — use the Extended Set.
+
+Step 2 — Copy the prompt block into your generation
+
+Once you find the right expression, copy the full prompt block and paste it into your image generation workflow or into your own Canvas. You can use these prompts directly to generate a new image, refine an existing illustration, or prepare a more emotionally accurate reference frame.
+
+Step 3 — If the image drifts, add the preservation block and try again
+
+Sometimes the model will not produce the ideal result on the first try. It may slightly change the character’s identity, facial structure, framing, or overall look. If that happens, add the Global Face Preservation Rule and generate again. 
+
+
+Preserve the subject’s original facial structure, head shape, eye spacing, nose shape, mouth width, jaw anatomy, and overall identity. The expression should come from realistic muscle activation, not from stretching, warping, enlarging the eyes, reshaping the mouth, or deforming facial proportions.
+
+Copy prompt
+Recreate
+
+This block helps keep the original face, identity, and image structure more stable while applying the new expression. In many cases, a second or third attempt gives a much cleaner result.
+
+Final Note
+
+This Canvas is meant to be a practical reference, not a fixed rulebook. Every model may interpret facial expressions slightly differently, so some prompts may work perfectly right away, while others may need small wording adjustments. The best way to use this library is to test, compare, and keep the expressions that work best for your own character and visual style. The main goal is repeatability: keeping the same character identity while making the emotion more readable, specific, and useful for storytelling.
+
+CHARACTER PERFORMANCE STATE
+Open the full Canvas here

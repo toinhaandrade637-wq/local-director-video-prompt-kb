@@ -1,0 +1,270 @@
+【项目】David Bianchi: Directing for a Top 10 Global DJ on Higgsfield（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/david-bianchi-don-diablo-ai-music-video
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+David Bianchi: Directing for a Top 10 Global DJ on Higgsfield
+Higgsfield
+Oct 27, 2026
+7 min
+
+David Bianchi is a Los Angeles actor, producer and director. In 2026, he wrote, directed and edited “Top Of My Game,” a fully AI-generated music video for Don Diablo’s drum and bass project Control Alt Delete, released on Don Diablo’s YouTube channel with the credit “Powered by Higgsfield.” By his own estimate, the 3-minute 36-second video took more than a thousand generations and over 200 hours of work.
+
+“Top Of My Game,” directed by David Bianchi for Don Diablo’s Control Alt Delete.
+
+Who Is David Bianchi
+
+David is the founder of Exertion Films and a multi-hyphenate: actor, writer, producer and director. He has produced nine feature films over 22 years in Los Angeles, mostly genre films with budgets up to $5 million. His next feature, the cyberpunk thriller Cyber Protocol, is set to release on Prime Video on November 10. Starring himself and primetime Emmy nominee Mena Suvari, primetime Emmy nominee Richard Cabral, and legendary Danny Trejo.
+
+He created and starred in the Emmy nominated series RZR, and his acting credits include Outer Banks. He has been a SAG-AFTRA member since 2002 and wrote the book Mastering Your Self-Tape.
+
+Results at a Glance
+Results at a Glance
+
+Metric
+
+	
+
+Result
+
+	
+
+Context
+
+	
+
+Source
+
+
+
+
+Finished video
+
+	
+
+3:38
+
+	
+
+Official music video on Don Diablo’s channel (1.4M subscribers), released September 18, 2026
+
+	
+
+YouTube
+
+
+
+
+Views
+
+	
+
+174,579
+
+	
+
+As of October 26, 2026
+
+	
+
+YouTube
+
+
+
+
+Generations
+
+	
+
+About 1,122
+
+	
+
+Images and video, “within a margin of error”
+
+	
+
+David’s estimate (interview with Higgsfield)
+
+
+
+
+Credits
+
+	
+
+21,678
+
+	
+
+By his records, which he also calls an estimate
+
+	
+
+David’s estimate (interview with Higgsfield)
+
+
+
+
+Production time
+
+	
+
+About 214 person-hours
+
+	
+
+Whole production, from concept to delivery
+
+	
+
+David’s estimate (interview with Higgsfield)
+
+
+
+
+Team
+
+	
+
+3 people
+
+	
+
+David and two collaborators added in the final days
+
+	
+
+Production bible
+
+
+
+
+Final deadline
+
+	
+
+3 days
+
+	
+
+The label moved the delivery date up from 7 days to 3
+
+	
+
+David (interview with Higgsfield)
+
+
+
+
+Live-action equivalent
+
+	
+
+$1.5M to $2M minimum
+
+	
+
+Plus about 3 weeks of pre-production and about a week of shooting
+
+	
+
+David’s estimate (interview with Higgsfield)
+
+Why This Video Needed AI
+
+Don, a top house music DJ, now releases drum and bass as Control Alt Delete, and he wanted a video for the project.
+
+David explains what a typical music video budget can buy. With around $25,000 for a practical shoot, he says, an independent artist might get a two-location performance video and a few cutaways. This is his example, not the budget of this project.
+
+A live-action version of “Top Of My Game,” he estimates, would have cost $1.5 million to $2 million. It would have meant locking off an inner-city street in a major metropolis and filling it with 200 to 400 background players, plus large camera setups, sets, visual effects and post-production.
+
+“If it weren’t for Higgsfield, if it weren’t for this technology, this music video would have never happened. Period.”
+
+David Bianchi
+
+Don wrote in the video’s description: “I’ve always admired his talent for directing and storytelling, but I wanted to wait until the right project came along. This was it.”
+
+The Brief: A Prophet Moving Through the City
+
+A mysterious, almost prophetic figure walks through an inner city and draws people in with his aura. The audience doesn’t learn that this figure is Don until the final seconds.
+
+For David, drum and bass is street-level and gritty, so the world is built from brutalist architecture, worn textures and urban light. The camera stays a few feet behind the hero, inspired by Darren Aronofsky’s The Wrestler, so the audience watches the city react to him.
+
+There is also a second story: ordinary people stop what they’re doing and join the march. The finale brings the crowd together around sacred geometry based on the hexagon in Don’s branding and tattoo. In the last shot, two people who joined the march, a man from a scaffolding and a woman from a corner store, find each other face to face. David wanted the video to end on the idea that music brings people together.
+
+Inside the Workflow
+
+David started from the track, not a script. He ideated with Claude, reviewed 50 to 60 possible directions, and turned the best into three visual treatments with concept images from Seedream and Nano Banana on Higgsfield. Don picked one and, in David’s words, was never over his shoulder.
+
+He wrote a four-act script (using Claude for ideas, but the script was written by David): a tunnel, a market, a bridge and the final crowd sequence. Then he worked scene by scene. For each scene, he created a world plate, a character sheet and prop plates, mostly with Nano Banana through the Higgsfield platform and then MCP in Claude, and generated the video with Seedance 2.5, directly in 1080p. At this stage, he didn’t use Cinema Studio. He generated the shots one by one in the Seedance 2.5 video window.
+
+A character sheet from David’s production bible and the same character in the final video.
+
+“My experience with Seedance is that 2.5 is like my creative partner.”
+
+Sometimes the model suggested a direction he hadn’t planned, and he followed it. He edited in Premiere Pro, did the sound design and color himself, and cleaned up signage and license plates in Blender.
+
+A shot-by-shot prompt from the production bible.
+
+The Hardest Shots
+
+David picks the march, from about 0:56 to 2:24, as his favorite section of the video. Working from his character sheets, David kept the wardrobe of the people joining the march consistent, and Seedance 2.5 held it even when seen through several layers of windows.
+
+What moved him most were small performances. In one shot, a man eating a burger notices the march, drops the burger, and his face changes.
+
+“As a professional actor, I get emotionally moved by what the model iterated.”
+
+The same sequence also caused most of the problems:
+
+Crowd direction. Renders often had people marching the wrong way or breaking the 180-degree rule, so he had to keep regenerating.
+The car crash. In 15 to almost 20 renders, the driver exited through the passenger door, and the door passed through a light pole. He solved it in the edit with a jump cut.
+The glow. Don asked for his logo on the back of his real jacket, which the team photographed and turned into plates. David couldn’t get the model to animate a glow lighting the jacket to his liking and it took almost 50 generations to land on something he felst was tasteful, or an early idea of people’s eyes turning green.
+
+The car crash, solved in the edit with a jump cut.
+
+From One Director to a Team in Cinema Studio
+
+David made most of the video alone. Then the label moved the deadline from seven days to three, and he brought in two collaborators: Lisa Gu, systems and production coordinator, and Karim Higazy, visual effects and creative engineer. Lisa built a production tracker in Claude and helped build worlds.
+
+That is when David moved the work into Cinema Studio, so the team could see and use everything he had made. In a shared project, everyone saw each other’s renders in real time, worked in separate folders and generated from his credits.
+
+“Workflows that work for the individual aren’t designed to work for teams.”
+
+He spent the first four hours bringing the team up to speed on the palette, the world and the intent. After that, he says, the work moved in a much more streamlined way.
+
+The final shot: two people from the march find each other in the crowd.
+
+What the Higgsfield Partnership Changed
+
+David names three kinds of support: access to the tools, a support team that answered quickly, and the Discord community.
+
+“Whenever there was a question, or a technical hurdle, or a hiccup that came up, it wasn’t like I was in a vacuum.”
+
+At TheWrap’s AI Creator Day in Los Angeles, he told a panel audience of about 600 people that he works with Higgsfield. He also says AI production still costs money: “If you’ve got, let’s just call it $3,000 in compute credits, you’re probably looking at at least a minimum of $10,000 in human being costs.”
+
+What David Learned
+
+It takes a lot of generations. Over a thousand of them and more than 200 hours of work went into a 3-minute video.
+
+“It’s not prompt and go.”
+
+Know when to stop. After hours on the car crash, he fixed it in the edit. “You gotta sacrifice your darlings,” he says.
+
+Budget for hand-made effects. For details the model can’t get right every time, he suggests setting aside part of the budget for handcrafted visual effects.
+
+“There’s slop, and then there’s taste.”
+
+What’s Next
+
+The project became the start of David’s AI production work. He launched exertionfilms.io, a site for Exertion Films’ AI production, and says he is talking with brands about AI projects. With Don, the plan is a series of videos rather than a single one. He is also developing Bobby Sales, a short-form series he describes as “Jackie Brown meets Snatch,” using his own digital likeness.
+
+Watch the Work
+Don Diablo pres. Control Alt Delete - Top Of My Game | Official Music Video
+David Bianchi on IMDb
+David Bianchi on Instagram
+Exertion Films
+DAVID BIANCHI: DIRECTING FOR A TOP 10 GLOBAL DJ ON HIGGSFIELD
+Apply to the CPP Program

@@ -1,0 +1,133 @@
+【项目】I AUTOMATED A COLLECTIBLE FIGURE CHANNEL WITH CLAUDE CODE AND THE HIGGSFIELD MCP（@alpius · 创作者博客）
+【链接】https://higgsfield.ai/@alpius/blogs/i-automated-a-collectible-figure-channel-with-claude-code-and-the-higgsfield-mcp
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+I AUTOMATED A COLLECTIBLE FIGURE CHANNEL WITH CLAUDE CODE AND THE HIGGSFIELD MCP
+@alpius
+18
+2
+0
+
+I type one line, like "a Vietnam Navy SEAL, 1968". Claude sends back a photo of a 1/6 scale collectible figure that doesn't exist. I say "approved", or I send one note. That is my whole job. Everything else, from the costume research to the finished 9:16 reel and its caption, runs on its own through the Higgsfield MCP. I post from my phone.
+
+The channel is @wastelent on TikTok. Five weeks in, as of October 21, 2026:
+
+21 reels, posted daily for the first nine days, then every second day
+about 322,000 views in total
+96.7K views on the best reel, a Vietnam GI, with 4,945 likes and 713 saves
+1,030 followers and 19.9K likes
+five more reels between 22K and 34K views each
+
+The best reel was also the cheapest one to make: 252 credits, no fixes. This post is how the pipeline works, what it costs, what broke on the way, and what it could do for a brand.
+
+What the reels are
+
+Each reel is about 11 seconds of a premium 1/6 collectible figure on a display base: the Hot Toys kind of figure, seamless, with silicone skin, real cloth and a factory paint job. The figure is AI. The studio, the light, the macro lens and the fingertip that touches it for scale all read as real photography.
+
+Seven hard cuts, one to two seconds each. It opens on the full figure, moves in on the details (the hat, the kit, the weapon, the boots in the mud), shows the face late, and ends on a clean hero shot. No text, no music, no transitions. One soldier from one moment in history per reel, under the series title "Warriors of the World".
+
+Vietnam Navy SEAL, 1968. 11.7 seconds, 7 cuts, 393 credits. 25.3K views on TikTok.
+
+The account says what it is: the bio reads "Powered by @Higgsfield AI" and every post carries TikTok's AI-generated label. People watch anyway, and they save the reels: about 3,260 saves across the 21 posts.
+
+How the pipeline works
+
+Claude Code runs the whole thing. It talks to Higgsfield through the Higgsfield MCP, so it can generate images and video, wait for jobs, read the results and file them into a project without me opening the site. What it does at each step comes from one skill file, figure-showcase-v1. Every prompt in that skill is the version that passed testing, and every rule in it is something that went wrong once.
+
+1. The brief
+
+From my one line, Claude researches the subject and writes a short brief: three costume facts it has checked, the weapon by its real designation, the signature detail for the first shot, how the face stays hidden, how dirty the figure is, and what the base looks like.
+
+For the SEAL that meant tiger stripe camo, a boonie hat, green and black face paint, a deflated UDT life vest, jungle boots, and a Stoner 63 with its round drum on the left side. Accuracy matters on this kind of channel. Skin tone and the weapon are the two things commenters check first, so the brief is where the reel earns its trust.
+
+2. The hero still, and the one gate
+
+Claude writes the hero prompt and runs it on Seedream 5.0 Pro. The prompt pins the things AI gets wrong on figures: proportion (about seven and a half heads tall, the head no wider than a third of the shoulders), no visible joints or seams, matte skin instead of shiny plastic, and at least two cues that make it read as small, like a focal plane a few millimetres deep.
+
+Then it sends me the still and stops. Nothing else renders until I answer.
+
+If I have a note, Claude doesn't re-roll the figure. It makes a single-change edit of the same image, so everything I already liked stays put. On the SEAL I sent four notes: seamless wrists, less shine on the skin, the ammo belt on the wrong side, a proper drum magazine. Four edits at 5 credits each, then "approved".
+
+3. The detail plates
+
+Next come the close-up stills the video will need: the hat from behind with a fingertip on it, the torso and kit, the boots in the mud, the weapon. Each one is a Seedream 5.0 Pro image with the approved hero bound as a reference, so the kit never drifts between shots. The buckles, the pouch layout and the camo pattern stay the same in every frame.
+
+4. The renders
+
+Two Seedance 2.5 renders in References mode, 12 seconds each at 1080p, sound off. Each render holds four 3 second shots, written with timestamps and a hard cut at each one, and each shot is tied to the plate it should look like.
+
+Why not one render with all seven cuts? Because Seedance can't hold cuts shorter than about two seconds inside one render. I tested it. It came back a coin flip at 108 credits a try. Four longer shots per render, trimmed down in the edit, holds.
+
+When one shot fails inside a render, Claude doesn't redo the render. It makes that one shot alone as a 4 second clip off its own plate and cuts it in. On the SEAL, the weapon close-up grew a real human hand in render B, so the weapon shot is a 4 second repair clip instead.
+
+5. The edit and QA
+
+Claude scene-detects both renders to find the real cut points, picks the frames for each beat and builds a silent 1080x1920 edit with ffmpeg. Then it runs a QA checklist against the file:
+
+the cut count and every cut time, from a scene-detect of the final
+the face lands between 60 and 80 percent of the runtime, never earlier
+head size, joints and hands checked on every shot
+1080x1920, 24 fps, and no audio stream at all
+6. The caption
+
+A title line ("Vietnam Navy SEAL - Warriors of the World"), two or three sentences of real history, three hashtags. Then the folder lands on my side: the final, the caption, the edit list and a log of every job and every credit. I post it from my phone.
+
+The economics
+
+A clean reel is about 350 credits: around 60 in stills and 288 in the two 1080p renders. Across the first nine reels the average was 483 with fixes, and the range runs from 252 (the Vietnam GI, no fixes, 96.7K views) to 740 (a fighter pilot that hit every moderation problem at once). The project brief rounds it to 300 to 500 credits per finished reel.
+
+The budget rules are part of the skill, so they hold without me watching:
+
+Anything new or repaired renders at 480p first. 1080p is only for footage that ships.
+Moderation probes run at 480p, and a refused job is refunded.
+Any reel over 400 credits needs a one-line reason in the delivery note.
+
+Time: on the first day, five reels went through their first pass in about an hour and forty minutes of machine time. Later that day three more took 46 minutes, a moderation detour included. Over three weeks the pipeline made 17 finished reels from 641 generations: 433 stills and 208 videos.
+
+By hand, each of those reels is a brief, about a dozen prompts, around 30 generations to sort through, a frame-accurate edit and a QA pass. Here my part per reel is one line, one look at a still, and the post itself.
+
+The real cost was the R&D. 2,537 credits went into eleven test tracks: which model holds a mask, how short a cut Seedance can hold, which hand poses survive, which stages read as real. That money is already spent, and it is the reason a new reel now costs 350.
+
+What broke, and how it got fixed
+
+Every problem below happened at least once. Each one is now a rule in the skill, so it doesn't happen twice.
+
+Moderation. On September 15, renders started coming back refused as nsfw within about 15 seconds of being sent. That speed means the model never saw them. It is a pre-check on the reference images and the prompt text together, and the credits come back. Re-rolling does nothing, because the check is on the content, not the take.
+
+So Claude probes instead. One 4 second clip per reference image at 480p with a short neutral prompt, 10 credits each, then the text on its own. In a few minutes that shows whether the trigger is an image or a phrase. The triggers it found:
+
+three phrases in the original template, now rewritten
+a full-figure, fully masked, all-black armed figure on a black stage under the long prompt
+a black boot with shin guards, flagged on the image alone, 5 out of 5
+the word "police" in Seedream, which fails silently, while "public-order unit officer" works
+
+Each one now has a route around it: a shorter prompt, dropping the flagged plate, or the per-shot route. Six 4 second clips cost 216 credits, the same as two 12 second renders, and each one goes through moderation on its own, so one flagged shot doesn't sink the rest. The first evening of it cost 490 credits in probes and detours. Now it is a lookup.
+
+Head size. The most repeated fix of the whole run. Close-ups made the heads read too big, because a tight crop has nothing to measure against. The fix is writing proportion as a ratio in every prompt that shows the head, framing head shots chest-up with both shoulders in frame, and repairing a big head with an edit of the existing still instead of a new figure.
+
+Toy tells. Visible wrist and ankle joints, shiny plastic skin, a hand with an open palm and five fingers that makes the figure look tiny in the wrong way. Each of those is a QA fail now. The hand is one long, slender fingertip, at most twice per reel, never on the weapon.
+
+Faces. A bare face lit from the front is where an AI figure gives itself away. Every figure is masked, helmeted, or has the eyes under a brim in shadow, and the face shows up late. One model put living eyes under a mask every time, so the stills stay on Seedream 5.0 Pro.
+
+Sound. The first reels had a sub-bass bed. It clipped phone speakers. Finals now ship with no audio stream at all, and QA checks that with ffprobe.
+
+None of these needed me to sit and fix a reel. I gave a note once, Claude wrote it into the skill, and every reel after that came out with the fix built in.
+
+What this can do for your brand
+
+Swap the subject and the stage, and this exact pipeline makes product content on a schedule. It works best where the product is the hero and the light has to look expensive.
+
+A product line. Show a figure, toy or product before the sculpt or the first sample exists. Hero stills, detail plates and turnarounds for a pitch, a preorder page or a vote.
+A collectible drop. One reel per piece in the drop, all in one locked look, ready before launch day, plus the stills for the store page.
+A weekly series. A recurring format on your channel, one reel a day or a few a week, with captions, in the same look every time. You approve a still. The rest arrives finished.
+
+What you get is not just the reels. You get the stills and every prompt behind them, a skill tuned to your product with the rules that keep it on brand, and a cost per reel you can plan around.
+
+The whole pipeline is open: Automated Figure Pipeline. Every generation from these three weeks is in it, sorted by stage and by figure, failures included, with the prompts visible on every asset.
+
+If you have a product line, a drop or a series in mind, email me at 06alpius@proton.me with what you sell and how often you want to post. I'll tell you what it would look like and what it would cost.
+
+Alpius

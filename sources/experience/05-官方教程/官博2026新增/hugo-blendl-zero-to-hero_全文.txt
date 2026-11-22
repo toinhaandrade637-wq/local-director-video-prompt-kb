@@ -1,0 +1,341 @@
+【项目】Hugo Blendl: How a Rick and Morty Animator Makes a Daily Show on Higgsfield（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/hugo-blendl-zero-to-hero
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Hugo Blendl: How a Rick and Morty Animator Makes a Daily Show on Higgsfield
+Higgsfield
+Oct 6, 2026
+9 min
+
+Hugo Blendl, an animator on Rick and Morty's Emmy-winning team and Animation Supervisor on Seasons 5 and 6, now makes his own animated series, Zero to Hero, alone. In the traditional pipeline, his pilot took two years for eight unfinished minutes. On Higgsfield, the AI-native creative suite, a recent episode took him about four hours for 1 minute 20 seconds of finished animation. He releases an episode every day or two as a Higgsfield Creator Partnership Program member.
+
+Who is Hugo Blendl
+
+Hugo Blendl is a 2D animation professional from Mexico City with over ten years in the industry.
+
+His career in credits:
+
+Rick and Morty (Bardel Entertainment): animator on Seasons 3 and 4, part of the team behind both of the show's Emmy-winning episodes, "Pickle Rick" and "The Vat of Acid Episode"; Animation Supervisor on Seasons 5 and 6
+Solar Opposites: Animation Supervisor at Bardel Entertainment
+Legend Quest: Masters of Myth (Ánima Estudios): Episode Director on four episodes, part of the Legend Quest franchise, Netflix's first original animated series produced in Latin America
+Pig Goat Banana Cricket (Nickelodeon): animator, his first production role
+Education: Vancouver Film School, Classical Animation and 3D Animation and VFX; working professionally by age 21
+Teaching: about a decade of free animation tutorials on YouTube and Twitch, a 13,000-member Discord community, the largest art streamer in Latin America
+
+“Those Emmys came from the collective work of a lot of wonderful artists, and I was lucky to be one of them. Animators are the ones who make those characters actually perform, and most viewers never learn their names.”
+
+The teaching story has an early chapter: Blendl went through a technical high school with no art programs, turned in comics in place of essays, and nearly flunked out. Today that same school invites him to give professional talks.
+
+Results at a glance
+Results at a glance
+
+Metric
+
+	
+
+Before
+
+	
+
+Now
+
+
+
+
+Output per working day
+
+	
+
+3 to 5 seconds of finished animation (TV industry average per animator)
+
+	
+
+About 3 minutes
+
+
+
+
+One short episode
+
+	
+
+6 hours of hand animation for an 8-second clip
+
+	
+
+1 min 20 sec of finished animation in about 4 hours, including script, outfit redesigns, and a new villain
+
+
+
+
+Release rhythm
+
+	
+
+A small team spent 2 years on an 8-minute pilot and did not finish it
+
+	
+
+A new Zero to Hero episode every day or two
+
+
+
+
+Budget reference
+
+	
+
+A 20-minute pilot runs about $250,000 with a full traditional team
+
+	
+
+Zero to Hero is produced on a near-zero budget, with generation costs covered by the Creator Partnership Program
+
+
+
+
+Generation quality
+
+	
+
+480p
+
+	
+
+720p after joining the Creator Partnership Program
+
+
+
+
+Plan and credits
+
+	
+
+Paid out of pocket
+
+	
+
+Covered by the Creator Partnership Program since September 2026
+
+All figures in this table come from our interview with Blendl, September 2026.
+
+Why a veteran animator looked for a new pipeline
+
+Cut-out animation, the production method behind most Western TV shows, is slow by design. An animator builds character rigs and moves them pose by pose, and the industry average lands at 3 to 5 seconds of finished footage per person per day.
+
+Blendl worked inside that system for a decade. After Rick and Morty, he tried to build something of his own: a pilot with a small team. The result defined his strategy.
+
+Two years of work produced eight minutes of pilot, and half of it never left the animatic stage. The lesson he took from it was simple: audience first, big production second.
+
+“You can't just commit to a big project and expect people are going to find it on their own.”
+
+The audience test was Cheese, a hand-animated TikTok mascot:
+
+One 8-to-10-second clip per day, about 6 hours of hand animation each
+75,000 TikTok followers
+Top videos at 7 to 10 million views
+
+The audience existed and kept growing. The bottleneck was production speed: six hours of hand animation bought eight seconds of footage.
+
+Blendl was not immediately sold on AI. He first experimented with it for background art, then stopped using it during the early backlash around generative tools; he describes himself as having been "pretty anti-AI until this year."
+
+The turning point was not speed for its own sake. After a decade of cut-out production, the repetitive side of the work, moving rigs pose by pose, had worn him down, while writing, designing, and directing never stopped being the point. The newer tools took over exactly the part he was tired of and left him the parts he loves doing by hand. That is the variable Higgsfield changed, turning the same six hours into three minutes of finished animation.
+
+What Zero to Hero is
+
+Zero to Hero is an animated comedy about an academy for young superheroes with questionable powers. The focus is comedy over action: love triangles, parties, awkward early-college situations with a sci-fi twist, in the tradition of Western animation like Futurama and The Simpsons. The main cast is six heroes whose powers are intentionally impractical, from barely controlled fire to telekinesis in a wheelchair.
+
+Production setup:
+
+Zero to Hero lives under Archetype Studios, a US-based studio Blendl co-founded, where he is Animation Director; on the episodes themselves he is the entire production team: scripts, character design, pre-production, production, and post.
+Current episodes run 1 to 3 minutes; the long-term plan is a season of ten episodes around ten minutes each.
+Sloppy Studios is his personal studio in Mexico City, run with his wife, home to his freelance and client work.
+
+The project also has a festival entry. Blendl submitted The Zero Slasher, an 8-minute comedy-horror episode made in Cinema Studio, to the Higgsfield Global Film Festival, where submissions are published with an open brief and assets. The project page lists 65 generations and 1,884 credits spent, and the film gathered over 21,000 views in its first month. The full brief, shot descriptions, and asset folders are public on the submission page.
+
+The pipeline: from script to finished episode
+
+Blendl describes his method in the Zero Slasher brief as "animation direction, not prompt roulette." Every shot is specified with a camera angle, a duration, and explicit staging before anything is generated.
+
+The daily pipeline runs in five stages:
+
+Script. Blendl writes every script himself, aiming for 2 to 3 minutes, sometimes a 15-second gag for social media.
+Design. Main characters are drawn by hand. Secondary characters who appear in one scene are generated in the style of the main cast. When an episode needs new outfits, he swaps them with AI on an existing hand-drawn design.
+Storyboard in words. Blendl used to draw boards, but generations picked up the rough sketch style, so it leaked into the shots. Now he writes the storyboard as precise shot-by-shot descriptions.
+Generation. The episode is generated as 30-second clips with Seedance 2.5 at 720p on Higgsfield.
+Post. Editing, grading, and compositing in Premiere Pro, with occasional frame-by-frame fixes drawn in Toon Boom Harmony when a specific shot calls for it.
+
+How the stages compare with a traditional production:
+
+The pipeline: from script to finished episode
+
+Production stage
+
+	
+
+Traditional cut-out pipeline
+
+	
+
+Blendl's pipeline on Higgsfield
+
+
+
+
+Script and boards
+
+	
+
+Writers' room, hand-drawn storyboards
+
+	
+
+Script written by Blendl; storyboard as precise shot-by-shot text descriptions
+
+
+
+
+Character work
+
+	
+
+Rig builds in Toon Boom Harmony for every character
+
+	
+
+Main cast drawn by hand once; secondary characters and outfit swaps generated in the cast's style
+
+
+
+
+Animation
+
+	
+
+Pose-by-pose puppet animation, 3 to 5 seconds of finished footage per animator per day
+
+	
+
+30-second clips generated with Seedance 2.5 at 720p
+
+
+
+
+Team
+
+	
+
+Writers, board artists, designers, animators, compositors
+
+	
+
+One person across every stage
+
+
+
+
+Post
+
+	
+
+Editing, grading, compositing
+
+	
+
+Same: Premiere Pro, with frame-by-frame fixes in Toon Boom Harmony on selected shots
+
+Precision in wording carries the whole process. Vague descriptions lead to duplicated characters or unwanted elements in a shot, so each generation request reads like a line from a professional board: shot size, action, timing. The same principles drive any AI short-film pipeline, from staging to post.
+
+How he keeps characters consistent
+
+Character consistency is one of the hardest problems in AI animation, and Blendl's approach is specific:
+
+One Element per character. For each main character he creates an Element on Higgsfield from a design on a fully white background and tags it in every generation.
+Three-quarter views by default. Attaching a full character rotation makes generations prone to duplicating the character in the shot.
+Full rotation for motion-heavy scenes only. When a character turns around, jumps, or fights, the full rotation gives better results.
+No separate background generation. Characters and a highly specific location description go into the same request.
+Recurring locations are saved. Blendl generates a recurring location once and reuses it in future episodes.
+
+Voice is the one piece that does not carry over yet: each generation handles audio on its own. Blendl plans to bring real voice actors into the show over time, and the first candidate is close by: his wife is a voice actor.
+
+What stays handmade and why
+
+The manual layer of the pipeline:
+
+Scripts: written entirely by Blendl
+Character sheets: drawn by hand with front, side, and back views and color palettes, the way sheets get built on a traditional production
+Grading: every scene, by hand
+Frame-by-frame corrections: drawn in Toon Boom Harmony on selected shots
+
+“Those steps stay manual because they're the parts I enjoy most in an animated production.”
+
+His relationship with the tools has a precise formula:
+
+“I'm using a tool to take over a task I'm tired of doing, but one I know how to do.”
+
+His view on what a generator contributes is a craftsman's view:
+
+“If you're going to direct an AI to animate, you still need to understand animation and cinematography. If you can't translate your ideas into precise language, meaning shot sizes, camera moves, acting, and timing, the result won't look good.
+Timing is everything, and it's the thing I see missing from most AI-generated content.”
+
+The fundamentals he spent a decade teaching, shot sizes, camera moves, acting, spacing, are the same fundamentals that make his generations read like directed scenes.
+
+What changed for client work
+
+The same pipeline shift reached Sloppy Studios, Blendl's client-facing studio. By his estimate, around 90% of client inquiries now ask for AI production, driven by cost and speed. A 30-second hand-drawn piece used to cost a few thousand dollars and take weeks; comparable AI-assisted work can now be delivered in about a day.
+
+The studio deliberately keeps a hybrid approach, combining hand-drawn animation with AI production depending on the project. One recent client, a podcast hosted by well-known influencers, started with hand-drawn animation; when the hosts saw the range of his skills, AI elements joined the production and pushed it forward much faster.
+
+These are observations from one studio, not market statistics. But they describe the same shift he went through on his own show.
+
+Inside the Creator Partnership Program
+
+Blendl joined the Higgsfield Creator Partnership Program on September 3, 2026. What the program is, who it is for, and how it works is covered in our dedicated article; here is what it looks like from inside one production.
+
+What the program covers:
+
+A monthly plan and generation credits
+Early access to new models
+A direct line to the Higgsfield team
+A community of about 1,000 creators worldwide
+
+What it changed in his production:
+
+Earlier episodes were generated at 480p to stretch the budget; the show now runs at 720p
+More variations per shot before locking a take
+More room to experiment with shots he would previously have skipped.
+Early access to new models means the pipeline picks up new capabilities before they reach general release
+With the plan and credits covered, the show's main production cost is Blendl's own time.
+
+“I feel much freer to explore and generate without worrying so much about credits. Now, with CPP's support, I can give the show the quality it deserves.”
+
+Beyond the credits, Blendl points to the community itself:
+
+“I've met really cool and talented people in the community.”
+
+Applications to the program are open on the Creator Partnership Program page.
+
+The clip above is an excerpt; the full episode is on the Zero to Hero YouTube channel.
+
+What's next
+In Blendl's plans, a full Zero to Hero season: ten episodes of about ten minutes each, written, designed, and directed by him on the same pipeline.
+Free tutorials on AI animation tools once he considers his own command of them complete, continuing a decade of free animation education
+
+We asked Blendl what he would tell the 19-year-old Hugo who nearly flunked out of school for turning in comics. He answers with the distance of someone who spent a decade inside the industry and came out the other side.
+
+"I can feel the passion I had when I was younger again, and to me the future is bright.
+I'm not getting replaced, I'm getting enhanced. I've always loved tech and I've always loved art, and this lets me do both.
+I'm in my element.”
+
+His advice to animators starting out today follows the same line: learn the fundamentals first. The language of animation and cinema, shot sizes, timing, spacing, has not changed; the tools that execute it have.
+
+Watch the Work
+Zero to Hero on Higgsfield
+The Zero Slasher, his festival film with the open brief and assets
+Zero to Hero on YouTube, the show's channel with full episodes
+Sloppy Studios on X, Hugo's personal studio account
+HUGO BLENDL: HOW A RICK AND MORTY ANIMATOR MAKES A DAILY SHOW ON HIGGSFIELD
+Apply to the CPP Program

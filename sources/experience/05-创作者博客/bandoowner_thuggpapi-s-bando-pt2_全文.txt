@@ -1,0 +1,183 @@
+【项目】THUGGPAPI'S BANDO PT.2（@bandoowner · 创作者博客）
+【链接】https://higgsfield.ai/@bandoowner/blogs/thuggpapi-s-bando-pt2
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+THUGGPAPI'S BANDO PT.2
+@bandoowner
+493
+0
+1
+
+https://higgsfield.ai/s/thuggpapi-thuggpapi-GhUvoi - you can made this vids here
+
+
+
+
+Every scene in this film started with the Adidas Trefoil as an input image. I supplied the logo to each shot, including the inserts that appear for less than a second.
+
+Across roughly 32 seconds, that shape turns up in fifteen situations: broken plaster, glowing taillights, breakfast, a neck tattoo, stained glass, a drink, a kite, door hardware, an ankle monitor, a patrol car, a gold tooth, a dog's haircut, stacks of cash, fractured glass and a judge's gavel.
+
+The connection is immediate because the shape stays recognizable while its surroundings and materials change. Here's the scene-by-scene breakdown, with expanded prompts for recreating the finished shots.
+
+Before you start
+
+The logo reference is the shared input. For each scene, the prompt gives that reference a physical role: the outline of a waffle, a design in glass, an impression in metal or a pattern in fur.
+
+A useful prompt explains how the shape belongs to the object. A tattoo follows the curve of a neck. A taillight emits light through its lens. A waffle has thickness, browned edges and pockets that catch syrup. Those details help the logo feel present in the scene.
+
+The prompts below are expanded recreations based on the finished film. They describe the intended result without assuming a particular generation model.
+
+Stage 1 — The reference asset
+The Adidas Trefoil
+
+Upload the source logo as a visual reference for every scene. Reattach it when starting a separate generation, even for a quick insert. If you split one scene into several generated shots, give each shot the same reference.
+
+Use a clear image with the whole mark visible. Its three leaves, horizontal stripes and lower silhouette need to remain legible. For a repeatable setup, avoid surrounding text or unrelated graphics unless they belong in the intended result.
+
+The reference supplies the shape. The prompt specifies the material, scale and placement. In the waffle shot, the food takes the outline. In the drink shot, the logo is printed on the cup. In the cash shot, the stacks themselves form the silhouette.
+
+Shared reference asset: the uploaded Adidas Trefoil logo.
+Use it in every scene and every separately generated insert.
+Stage 2 — The prompting framework
+
+Each prompt follows the same order: reference, physical placement, setting, action, camera movement and the details that must stay consistent.
+
+The extra detail has a purpose. It tells the model who pours the syrup, which surface carries the mark, when the camera reveals it and how the material should behave. Most shots need only one main action and one camera move.
+
+Add this shared style block before any scene prompt:
+
+4:3 cinematic music-video frame. Photorealistic 35mm film texture, visible grain, slightly soft edges, natural skin and worn surfaces. Warm amber highlights and restrained green or cyan shadows where appropriate to the location. Grounded, unhurried performances. Use the uploaded Adidas Trefoil logo as the shape reference, adapting its perspective and shading to the physical object. Whenever the mark is visible, keep its three leaves and horizontal stripes recognizable. Natural motion blur. No added music, captions or title graphics.
+
+This is a description of the look to recreate. The locations retain their own lighting: daylight for the cup and kite, fluorescent light for the store, warm practical lamps for the interiors.
+
+The times below are positions in the finished edit, rounded to a tenth of a second. Generate enough footage for the action to settle, then trim it to the moment you need.
+
+Stage 3 — The scenes
+1. The logo behind the portrait — 00:00–00:03.5
+
+I open with a reveal. A man removes a framed portrait, exposing a Trefoil-shaped hole in the wall. The broken plaster defines the leaves, while the wooden laths behind it echo the horizontal stripes. The damage is already there when the picture comes away.
+
+What it does: Reveals a logo-shaped opening in a wall and moves close enough to show the plaster and timber.
+
+Style header: Use the shared block above to keep the film texture, lighting approach and movement consistent. Add the continuous music track during editing.
+
+Use the uploaded Adidas Trefoil logo as the exact shape reference for an existing hole in a plaster wall. In a dim living room, a Black man in dark clothes stands beside a worn sofa beneath a warm wall lamp. He carefully lifts a framed religious portrait off its hook and lowers it toward his body, revealing the hole behind it. Its chipped plaster edges trace the three leaves, with exposed horizontal wooden laths forming the striped section. Start in a medium room view, then push quickly toward the revealed shape and settle into a close-up. Keep the hole fixed in the wall. Warm amber light above, muted teal spill from the side, convincing plaster thickness and rough timber.
+2. Trefoil taillights — 00:03.5–00:04.2
+
+This is a brief visual accent. The red lights make the shape readable immediately, even though the car only stays on screen for a fraction of a second.
+
+What it does: Integrates two illuminated Trefoils into the rear lights of a turquoise vintage car.
+
+Use the uploaded Adidas Trefoil logo as the shape reference inside both rear taillights of a parked vintage American car. Frame the turquoise body from a low rear three-quarter angle at night, showing its pale roof, chrome trim and wire-spoke rear wheel. A man in dark clothes leans casually against the rear, partly obscuring the trunk. Both rectangular red lamp housings contain a clearly readable illuminated Trefoil, with light passing through the lenses and reflecting softly on nearby chrome. Make a small handheld move toward the nearer lamp. Preserve the car's proportions and the two matching light designs. Deep street shadows, saturated red illumination and subtle turquoise reflections.
+3. The Trefoil waffle — 00:04.2–00:05.7
+
+The breakfast scene gives the logo volume. Its outline is baked into the waffle, and the syrup makes the surface feel edible. The seated man handles the utensils while someone beside him pours.
+
+What it does: Creates a waffle in the logo's shape, with syrup pouring over it as the diner prepares to cut.
+
+Use the uploaded Adidas Trefoil logo as the exact outline of a thick golden waffle on a ceramic diner plate. Preserve the three leaves and horizontal divisions in the waffle's shape and molded surface, with crisp browned edges and a deep grid texture. A Black man in a black durag, dark shirt and heavy silver chain sits in a yellow diner booth holding a knife and fork. An off-screen server pours a continuous narrow stream of amber syrup onto the center; it pools in the pockets and slowly runs down the toasted ridges. The man brings his utensils toward the waffle. Push gently toward the plate at table height. Stainless-steel surroundings, mixed warm diner light and cool window reflections.
+4. Peeling back the tattoo film — 00:05.7–00:07.2
+
+The action is the removal of clear protective film from a neck tattoo. Its moving highlight gives the close-up something to follow while the mark underneath stays fixed to the skin.
+
+What it does: Reveals a Trefoil tattoo as a gloved hand peels transparent film from the side of a neck.
+
+Use the uploaded Adidas Trefoil logo as the design of a dark tattoo on the side of a Black man's neck. He sits still in a red vinyl chair wearing a black durag, white tank top and thick silver chain. In a tight side close-up, a black-gloved hand gently lifts the edge of transparent protective film and peels it upward from the tattoo. The thin film bends and catches a moving highlight as the design becomes unobstructed. Keep the ink attached to the skin's natural curve and the three leaves and stripes stable. Slight redness and glossy skin around the tattoo, shallow depth of field, warm skin tones against a dim teal background. Hold the composition close and steady.
+5. The stained-glass window — 00:07.2–00:09.5
+
+Here I give the mark architectural scale. The blue Trefoil spans the church window above a lone kneeling figure. The symmetrical framing lets the image hold longer than the surrounding inserts.
+
+What it does: Builds the Trefoil into a tall church window and lights the aisle through the glass.
+
+Use the uploaded Adidas Trefoil logo as the design formed by blue glass across three tall pointed church-window panels. Frame a quiet church symmetrically from the central aisle, with dark wooden pews on both sides and a lone person kneeling at the front, facing the window. The blue leaves and stripes belong to the stained-glass construction, separated by the existing mullions and lead lines. Warm sunlight streams through the window into a faint haze, casting blue and golden patches onto the aisle floor. Make a slow, restrained push toward the kneeling figure and window. Keep the architecture, glass pattern and person's posture stable. Deep interior shadows, soft shafts of light and a solemn, ordinary performance.
+6. The red drink — 00:09.5–00:11.7
+
+The cup carries a white printed Trefoil. A large piece of ice sits behind it in the red drink. As the cup comes toward the lens, the logo becomes the center of the frame.
+
+What it does: Brings a branded clear cup into close-up, retaining the transparency of the plastic, liquid and ice.
+
+Use the uploaded Adidas Trefoil logo as a white print on the front of a clear disposable plastic cup. Outdoors beside a worn stucco wall, a Black man in a black durag, white tank top and thick silver chain sits holding a vivid red drink with one large ordinary ice chunk. He raises the cup toward the camera and turns it slightly until the printed Trefoil faces the lens. Push closer and shift focus from his face to the cup, leaving his eyes softly visible behind it. The logo follows the cup's curved surface while remaining recognizable. Show condensation, reflections on the thin rim, gentle liquid movement and translucent ice. Warm natural daylight and an intimate handheld feel.
+7. Flying the Trefoil — 00:11.7–00:14.8
+
+The rooftop gives the sequence a more open frame. An adult and child watch a kite above the roofline, then the camera moves in until its shape fills the sky.
+
+What it does: Turns the reference silhouette into a tethered kite and follows its gentle movement in the wind.
+
+Use the uploaded Adidas Trefoil logo as the overall silhouette of a lightweight kite. Begin behind an adult in a cap and a child in a white shirt on a rooftop, looking toward the kite above the roofline. Its dark leaves and lower segments are separated by pale horizontal stripes, with thin supports and a visible tether keeping the design physically connected. Move from the figures into a telephoto-style close view of the kite against a warm hazy sky. It rocks gently and tilts with the breeze while the line remains under tension. Keep the three-leaf shape recognizable as its angle changes. Soft late-afternoon light, restrained handheld drift and subtle fabric movement.
+8. The brass door knocker — 00:14.8–00:15.4
+
+This insert only needs one gesture. The Trefoil is embossed on the knocker's brass plate, above the conventional hinged handle.
+
+What it does: Adds a raised logo to worn brass hardware and animates a hand operating the knocker.
+
+Use the uploaded Adidas Trefoil logo as a shallow raised relief on the front plate of a brass door knocker. Frame it closely against a dark green painted door. A hand emerging from a dark sleeve grips the conventional U-shaped handle, lifts it slightly and brings it back toward the plate in one small knocking motion. Keep the Trefoil fixed above the handle, with its leaves and horizontal stripes clearly defined in the metal. Show fine scratches, slight tarnish in the recessed edges and warmer polished areas where the hardware is handled. Minimal camera movement, shallow depth of field and soft directional light that makes the relief readable without turning the brass into a mirror.
+9. The ankle monitor — 00:15.4–00:16.2
+
+The main logo sits on the black monitor above the sneaker. The hands adjust the white sock, giving the insert a small, believable action.
+
+What it does: Integrates an embossed Trefoil into an ankle monitor while the wearer adjusts his sock.
+
+Use the uploaded Adidas Trefoil logo as a subtle embossed design on the front casing of a black electronic ankle monitor. A man's foot rests on an outdoor stone step, wearing a white ribbed sock and a white Adidas sneaker with dark side stripes. The monitor is secured around the lower leg above the shoe, with a small green indicator light. In a downward close-up, both hands gently pull and straighten the sock above the device, then ease away. Keep the monitor in place and its Trefoil readable against the matte black housing. Show natural creases in the sock, textured laces and worn stone. Warm sunlight, soft shadows and slight handheld movement.
+10. The marked patrol car — 00:16.2–00:17.8
+
+The mark on the patrol car has visible paint drips. That rough treatment fits the night street and gives this appearance a different texture from the polished brass and printed cup.
+
+What it does: Reveals a large painted Trefoil on a patrol-car door through a fast camera approach.
+
+Use the uploaded Adidas Trefoil logo as a large black stenciled mark on the white front door of a vintage black-and-white police sedan. The car is parked broadside at a curb on a dark residential street, with a small red beacon on its roof and a warmly lit window in the building behind it. Begin wide enough to read the whole vehicle, then make a fast push toward the door until the Trefoil dominates the frame. Preserve its outline and stripes while allowing uneven sprayed edges and thin paint drips below the design. Keep the vehicle stationary and use camera movement for the reveal. Warm streetlight, greenish night shadows, film grain and a brief natural blur during the approach.
+11. One gold tooth — 00:17.8–00:20.7
+
+This reveal works at the opposite scale. The Trefoil is tiny, set into one gold upper tooth. The face stays close to the lens long enough for the detail to register.
+
+What it does: Reveals a small Trefoil on a single gold tooth cap in an intimate frontal portrait.
+
+Use the uploaded Adidas Trefoil logo as a miniature design on one gold upper front-tooth cap. Frame a shirtless Black man in a black durag and heavy silver chain sitting outdoors near a metal stair railing. He looks directly into the camera, opens his mouth and gently pulls his lower lip down with one finger, revealing the gold cap among his natural white teeth. Keep the small Trefoil readable on the gold surface as his mouth moves. Stay in a tight frontal close-up with slight handheld motion and a gradual move closer. Warm low sunlight reveals skin texture and a small glint on the tooth. Relaxed, confident expression; preserve the placement of the single cap throughout.
+12. The Doberman haircut — 00:20.7–00:23.0
+
+The logo follows the dog's flank as a pattern of shorter fur. The clippers make a finishing pass over an already recognizable shape, so the viewer can understand the result immediately.
+
+What it does: Creates the Trefoil through contrasting fur lengths and moves from the grooming action into a close-up.
+
+Use the uploaded Adidas Trefoil logo as the shape of a neatly clipped pattern in a black-and-tan Doberman's coat. The dog stands calmly broadside in a small grassy yard, facing screen-right and wearing a heavy silver chain collar. A shirtless man in a black durag crouches behind it and makes a short, careful finishing pass with electric clippers near the top of the central leaf. The lighter short fur forms the leaves and stripes against the surrounding dark coat, following the curve of the dog's flank. Push from a medium view toward the clipper and pattern. Keep the dog's body relaxed and the skin intact beneath the fur. Late-afternoon sunlight, a concrete path in the background and natural coat texture.
+13. Building the logo from cash — 00:23.0–00:23.7
+
+This is another quick insert, but the construction deserves its own prompt. Banknote bundles form the Trefoil's silhouette: a tall center and two lower sides spreading outward.
+
+What it does: Arranges stacks of banknote bundles into a freestanding interpretation of the Trefoil.
+
+Use the uploaded Adidas Trefoil logo as the silhouette reference for a small freestanding sculpture built from stacked banknote bundles. On a pale tablecloth, arrange a tall pointed central stack with two lower outward-angled stacks, so the three leaves read clearly from the camera's position. The layered bundle edges create horizontal lines through the structure. A Black man in a black durag, dark shirt and heavy silver chain sits behind it, with a money-counting machine at screen-left. His hand hovers over the central stack and lowers toward it while the structure remains stable. Shoot at table height with a slight forward drift. A dim domestic kitchen, amber light near the stove, greenish shadows and visible paper edges and currency straps.
+14. The cracked checkout window — 00:23.7–00:26.7
+
+The camera travels through a convenience store toward the protective checkout glass. As focus settles, the fractures reveal the Trefoil. The damage is already present; its cause stays outside the scene.
+
+What it does: Reveals a Trefoil-shaped fracture pattern in protective glass, with the cashier blurred behind it.
+
+Use the uploaded Adidas Trefoil logo as the layout of an existing fracture pattern in a convenience-store checkout window. Start inside a narrow aisle lined with colorful snack bags, facing a cashier behind protective glass. A dense circular impact mark sits near the center of the design, with thin fractures tracing the three leaves and horizontal stripes and smaller cracks radiating outward. Make a quick forward move toward the window, then settle focus on the damaged glass while the cashier and merchandise fall softly out of focus behind it. Keep the pane in place and the fracture pattern stable during the approach. Green-cyan fluorescent light, layered reflections, bright highlights along the cracks and a worn neighborhood-store atmosphere.
+15. The judge's gavel — 00:26.7–00:31.5
+
+I finish by moving from the whole courtroom to one small object. The Trefoil is engraved into the side of the gavel. Its close-up gives the recurring shape a final pause before the downward motion and the end of the film.
+
+What it does: Connects a courtroom establishing shot to a close-up of a logo engraved in polished wood.
+
+Use the uploaded Adidas Trefoil logo as a dark recessed engraving on the cylindrical side of a polished wooden judge's gavel. Begin from the rear aisle of a modest wood-paneled courtroom with teal carpeting, seated spectators, a judge behind a high bench and two people standing at screen-right. Push toward the judge, then cut to an extreme close-up of the gavel resting horizontally on its wooden sounding block. Hold the engraved Trefoil in clear view, showing varnish, wood grain and soft reflections. Near the end, the judge lifts the gavel out of the close frame and brings it downward toward the block. Warm brown wood against a soft dark background, restrained fluorescent room light and natural motion blur on the final swing.
+
+For more control, generate the courtroom view and gavel close-up separately, supplying the logo reference to both. Add the “thug PAPI” title in the edit so its lettering and timing remain controllable.
+
+How the edit holds together
+
+The longer shots give the viewer a small discovery: a picture moves, a cup approaches, a mouth opens, the camera finds a fracture in glass. Between them, the taillights, door knocker, ankle monitor and cash sculpture provide quick repetitions of the shape.
+
+The mark often lands near the middle of the frame. That makes the next appearance easy to find even when the location changes completely. The edit can move from a church to a plastic cup because the viewer already knows what to look for.
+
+When recreating the sequence, choose the section of each take where the mark reads clearly. Leave enough time to recognize the material, then cut. Keep the very short inserts simple; one readable object and a small gesture are enough.
+
+The finished file is 1024 × 768 at 24 frames per second, exported from DaVinci Resolve Studio. Its continuous rap track connects the changing locations, while the 4:3 frame and grainy texture give the sequence a consistent look. The title appears over the final gavel shot.
+
+Ready to make your own?
+
+Start with a recognizable shape and give it several physical forms. For each scene, decide where it belongs, what material carries it and which action reveals it. Supply the reference again with every new generation.
+
+The useful detail is often small: syrup collecting in a waffle, film lifting from a tattoo, light catching an engraving. Those are the moments that make the repeated shape feel like part of the world.

@@ -1,0 +1,258 @@
+【项目】I LET GPT-6 ASTRA EDIT MY DAVINCI RESOLVE PROJECTS (IT'S SCARY)（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/i-let-gpt-6-astra-edit-my-davinci-resolve-projects-it-s-scary
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+I LET GPT-6 ASTRA EDIT MY DAVINCI RESOLVE PROJECTS (IT'S SCARY)
+@sanjii
+270
+0
+0
+Before You Start
+
+The workflow uses Astra in a local Codex task, DaVinci Resolve Studio 21.1, and Higgsfield for the product ad’s supporting images and clips. Blackmagic Design lists ChatGPT Codex among the AI assistants supported by Resolve Studio 21.1. See Blackmagic’s announcement.
+
+
+
+
+Prepare a Resolve project and, for the advertising section, a clear product photo showing its shape, colour, and branding. The explainer and character briefs leave the subject and design open for Astra to propose.
+
+
+
+
+Use the prompts in the local Codex task connected to your Resolve project. Run each revision after reviewing the preceding version, so references such as “this character” and “the version we just selected” have a clear meaning.
+
+
+
+
+Throughout the process, check that text, artwork, and timing controls remain accessible in Fusion. For the ad, the generated images and clips are source media; the editable parts of the assembled project include their placement, timing, typography, and transitions.
+
+Stage 1 — Connect Resolve and Build an Intro
+
+Install Codex and sign in, then open your project in DaVinci Resolve Studio 21.1. In Resolve, choose File → Setup AI Assistants and check that the confirmation includes Codex. Restart Codex if needed, keep Resolve running, and start a local task with Astra.
+
+Prompt 1 — Check the Resolve Connection
+
+What it does: Asks Astra to identify the open project before you give it a creative task.
+
+
+
+
+Use the DaVinci Resolve integration to tell me which project is currently open.
+
+
+
+
+Confirm that the returned project name matches the project you intend to use.
+
+Prompt 2 — Create a Motion-Design Intro
+
+What it does: Briefs an intro with bold typography, depth, and energetic transitions, ending on a specified title.
+
+
+
+
+ChatGPT, connect to DaVinci Resolve. Build a premium motion-design intro with bold typography, depth, and punchy transitions. Choose the concept yourself. End on ‘MADE WITH AI.’ Keep everything editable in Fusion.
+
+
+
+
+The concept is open, but the final words and editability are explicit. Review the sequence, then inspect the project: can you find the title, change its timing, and adjust the elements that make up the design?
+
+Stage 2 — Explain One Idea in 15 Seconds
+
+For a YouTube graphic, give the animation a specific communication job. An image, a label, and a transition should help the viewer follow the idea. Here, the brief uses an editorial explainer style and asks for a sequence that works without narration.
+
+Prompt 3 — Build the Explainer
+
+What it does: Asks Astra to choose an everyday idea and explain it with cutout imagery, bold type, and connected scenes.
+
+
+
+
+Create a fifteen-second editorial-style animation for a YouTube video. Choose one simple, everyday idea and explain it visually. Give it the feel of a Vox-style explainer, with cutout imagery, bold typography, depth, and connected transitions. Make the central idea clear without narration. Check the explanation and build the animation with editable elements in Fusion.
+
+
+
+
+Watch the result without a voiceover. Check the explanation itself, the reading time for each label, and whether the transitions make the sequence easy to follow. If you plan to add narration later, separate text and image elements will give you specific parts to retime.
+
+Prompt 4 — Give the Main Idea More Time
+
+What it does: Requests a second version with a longer hold on the main explanatory moment while preserving the 15-second duration.
+
+
+
+
+Make a second version. Give the main explanatory moment more time, and rebalance the rest to keep the animation at fifteen seconds. Keep the visual style and reuse the existing elements. Adjust the transitions to the new timing. Save the original too.
+
+
+
+
+Compare both versions using the same artwork and wording. The extra hold takes time away from something else, so check the other labels and the ending too. Choose the version that makes the complete explanation easiest to understand.
+
+Stage 3 — One Character, Two Scenes
+
+A recurring character needs a recognisable design and personality across different actions. Start with a simple visual joke, then reuse the character for a second scene before directing another take.
+
+Prompt 5 — Invent the Character and First Scene
+
+What it does: Briefs a 12-second illustrated scene about an overconfident character whose ordinary task goes wrong.
+
+
+
+
+Create a twelve-second animated scene about an overconfident character trying a simple task and getting into trouble. Invent the character, setting, and a visual joke that works without dialogue. Use expressive movement, a consistent illustrated style, and sound effects. Give the final reaction time to land. Build the character and scene as editable Fusion elements.
+
+
+
+
+Look for confidence in the character’s pose and movement before the mistake happens. Then check the final reaction: the viewer needs enough time to notice it and understand the joke.
+
+Prompt 6 — Reuse the Character in a New Situation
+
+What it does: Requests a five-second follow-up scene using the existing character and setting, with a new action and matching sound effects.
+
+
+
+
+Reuse this exact character and setting for a second five-second scene. Invent a different small action that develops the same personality, with a clear reaction at the end. Keep the design and proportions consistent. Reuse the existing character elements and add matching sound effects.
+
+
+
+
+Play the scenes back to back. Compare the proportions, colours, and personality across the cut. The new action should feel like another moment with the character you already approved.
+
+Prompt 7 — Direct the Performance
+
+What it does: Adds anticipation and a stronger reaction to the second scene while retaining its action, setting, camera, and outcome.
+
+
+
+
+Make another version of the second scene. Add a brief moment of anticipation before the main action, then make the reaction more expressive. Keep the character, setting, camera, main action, and story outcome. Fit it into the same five seconds, adjust the sound, and save it separately.
+
+
+
+
+Compare the pause before the action and the time given to the final reaction. Check that sound effects follow the revised movement. Keeping the rest of the scene fixed makes it easier to judge whether the new performance improves the joke.
+
+Stage 4 — Turn One Product Photo into an Ad
+
+The product photo anchors this brief. Its shape, colour, and branding need to remain accurate as you build a visual direction around it.
+
+
+
+
+The work has two parts: create one background image and two supporting clips in Higgsfield, then assemble those assets with the original product photo, typography, transitions, and sound in Resolve.
+
+Connect Higgsfield
+
+Open the Higgsfield connection page, choose the ChatGPT option, and select Add Higgsfield plugin. Add the plugin and sign in to your Higgsfield account. This connection requires an active paid Higgsfield subscription and does not require an API key. Higgsfield’s setup guide explains the account connection.
+
+
+
+
+Before switching tasks, ask Astra to save the Resolve connection instructions and current project name in the project notes. Then start a new local task in the same Codex project. OpenAI’s plugin documentation recommends starting a new chat after installation to use the plugin. Read the plugin instructions.
+
+Prompt 8 — Reconnect to the Project
+
+What it does: Asks Astra to recover the project context and check that both Resolve and Higgsfield are available in the new task.
+
+
+
+
+Read the project notes, reconnect to the same Resolve project, and confirm that Higgsfield is available in this chat.
+
+
+
+
+Once the connections are confirmed, attach your product photo. If Higgsfield opens a reference upload window, supply the photo there.
+
+Prompt 9 — Build the 15-Second Product Ad
+
+What it does: Briefs a coordinated set of Higgsfield assets and a horizontal commercial assembled in DaVinci Resolve.
+
+
+
+
+Use Higgsfield to create one background image and two short supporting clips for a premium ad based on this product photo. Choose a visual concept that suits the product and keep the assets consistent. Use those assets and the original photo to build a fifteen-second ad in DaVinci. Give it a strong opening, a clear product reveal, changes in scale, and sound design. End on a clean product shot with a short line that fits the product. Make it sixteen-by-nine and keep the edit, text, and transitions editable.
+
+
+
+
+Review the supporting assets together. Their lighting and colours should belong to the same campaign, and their compositions should leave room for the product and readable text.
+
+
+
+
+Then review the complete edit. Check that the opening draws attention, the product reveal has time to register, and the final frame clearly shows what is being advertised. Compare the product treatment against the original photo throughout.
+
+Prompt 10 — Try a Different Opening
+
+What it does: Requests an alternative introduction using the existing assets while preserving the middle and ending of the ad.
+
+
+
+
+Create a distinctly different opening using the existing assets. Choose another way to introduce the product while keeping its appearance accurate. Keep the middle and ending unchanged, stay within fifteen seconds, and save this as a separate version.
+
+
+
+
+Compare each opening with the rest of the commercial attached. Check how it introduces the product and how naturally it leads into the unchanged middle. Select the version you want to adapt for mobile, and identify it clearly in the conversation before the next request.
+
+Prompt 11 — Recompose the Ad for Mobile
+
+What it does: Requests a vertical version with an early product appearance, readable branding, and a visual sequence that communicates without sound.
+
+
+
+
+Take the version we just selected and make a nine-by-sixteen version for mobile viewing. Show the product clearly within the first second. Recompose each scene for the vertical frame, keep the branding and final text readable, and make the sequence understandable without sound. Preserve the soundtrack for viewers who turn it on. Save it alongside the horizontal versions.
+
+
+
+
+A horizontal layout may place the product beside a title; the vertical version may need to stack them. Review every scene at phone size, including the final line.
+
+Watch once with the sound off, following the product through the sequence. Then turn the soundtrack back on and check its timing. Keep the original horizontal ad, the alternative opening, and the vertical adaptation as separate versions.
+
+Stage 5 — Save the Workflow for the Next Product
+
+Once you have a version worth reusing, capture how the job was organised: the source photo, supporting assets, project structure, pacing, and revision rules.
+
+Prompt 12 — Create a Reusable Skill
+
+What it does: Asks Astra to document the vertical ad workflow so a future product brief has a clear starting point.
+
+
+
+
+Save the workflow for the vertical version of this ad as a reusable skill. Include the visual style, pacing, project structure, and revisions. Explain which source files I provide, which assets Higgsfield creates, and how to preserve the original before making changes.
+
+Keep the Resolve project alongside those instructions. The project contains the composition and media relationships; the skill records the process for approaching another job.
+
+
+
+
+For the next product, reuse the organisation and revision approach while choosing a visual direction that suits the new brief. Save the character and explainer workflows separately, since each has different requirements for continuity and clarity.
+
+Ready to Make Your Own?
+
+Start with a short graphic that has a clear place in your edit. Give it a defined purpose, review the first version, and request one focused change. That gives you a manageable way to assess both the animation and the project behind it.
+
+
+
+
+For larger jobs, compare the complete production effort: generated assets, software, unused attempts, and the time you spend reviewing and correcting the work. Any saving depends on how much of the first build carries through to the versions you actually deliver.
+
+
+
+
+Choose the direction, check the details, and keep the projects that make the next revision easier.
+
+READY TO MAKE YOUR OWN?
+GO!

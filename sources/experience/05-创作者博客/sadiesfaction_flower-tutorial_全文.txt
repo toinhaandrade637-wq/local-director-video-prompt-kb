@@ -1,0 +1,538 @@
+【项目】FLOWER TUTORIAL（@sadiesfaction · 创作者博客）
+【链接】https://higgsfield.ai/@sadiesfaction/blogs/flower-tutorial
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+FLOWER TUTORIAL
+
+Sep 9, 03:30 · 1 min
+
+FLOWER TUTORIAL
+@sadiesfaction
+65
+0
+0
+hiiiiiiii!!!! thank you so much for supporting me!
+
+there are three steps:
+
+Soul ID → still → video.
+
+everything done on higgsfield.ai, prompts are below, just copy & paste ★
+
+1 CREATE YOUR SOUL ID ★
+go to → cinema studio ← on higgsfield.ai
+choose image, and choose SOUL 2.0
+tap "Characters"
+tap "Create character"
+tap "Upload images" → 25+ photos of yourself
+name it, model = Soul 2.0, tap "Create"
+
+photo tips: one person, clear face, multiple angles, a few full-body shots, good lighting. no filters, no sunglasses, no group shots.
+
+2 GENERATE THE STILL ★
+open → Soul 2.0 ← → select your character
+paste a still prompt from below
+generate ★
+3 ANIMATE IT ★
+open Seedance 2.5
+attach your still as the image input
+paste the matching animation prompt from below
+generate ★
+
+
+
+
+STILLS
+CHARACTER
+
+A straight-on full-body shot features a young Asian woman, estimated to be in her early 20s, standing against an off-white studio backdrop. She has mid-length, lightly tousled ash-brown hair with face-framing bangs. Her facial expression is neutral, and she gazes directly at the camera. Her outfit includes a loose-fitting, buffalo plaid red-and-white buttonless shirt with knotted toggles down the front and tied sleeves ending just above the elbows. She carries a brown, distressed-leather shoulder bag slung across her body. The lower half consists of a flowy, calf-length, off-white or cream skirt that is slightly translucent, paired with thick, off-white socks and black Mary Jane-style shoes. The lighting is bright and diffused, producing minimal shadows and highlighting subtle details in the fabric textures and skin tone. The color palette is dominated by soft neutrals, warm reds, and browns, contributing to a cozy and slightly vintage-inspired mood. The composition is centered and eye-level, with deep focus ensuring clarity across her entire figure. The overall aesthetic is relaxed, with a gentle, editorial quality typical of modern lookbook photography.
+
+HEX VALUES: ["#e6e2d7", "#eeebe2", "#d3c6ab", "#c8ba9e", "#751617", "#8f3c37", "#c1ae91", "#822625", "#dbd1bc", "#98584c", "#b0997d", "#a07763", "#44251d", "#654b3b", "#20110c"]
+
+See all
+Copy prompt
+Recreate
+ANIMATION
+INPUTS
+
+SCENE CONTEXT
+
+Shot on an iPhone, handheld phone footage look, real time. A square cast-iron storm drain grate set flush into coarse grey asphalt, seen from above at a slight angle, with a cluster of small white, pink and yellow wildflowers growing up through its slots. Dappled sunlight falls through overhead foliage, laying a shifting pattern of bright patches and soft shadow across the road. A medium breeze moves the flowers and the dappled shadows together. At the eighth second a young woman runs into frame from the right, crosses the grate at a run, treads on the flowers mid-stride and runs straight out the left edge. A moment after she has gone, the paper coffee cup jolted loose by that footfall slips from her unseen hand and drops back into the left of frame — it hits the plate, bursts, and floods across the crushed flowers. She never comes back. The frame ends on the fallen cup and the coffee-drowned flowers, still breathing.
+
+
+
+
+CAPTURE FORMAT — IPHONE
+
+Captured on a modern iPhone rear camera, held low over the ground by one hand, recording 4K at 30fps in standard video mode with computational processing left on. This reads as a real phone clip someone shot on the street, not as cinema camera footage and not as a film emulation.
+
+Phone image characteristics, all subtle and honest:
+
+Deep focus — nearly everything is acceptably sharp because of the small sensor and short focal length. Only the far asphalt at the frame edges falls slightly soft. No creamy cinematic bokeh, no shallow depth-of-field separation, no portrait-mode blur.
+
+Computational HDR tone mapping: shadows lifted a little more than an optical camera would, bright dapples pulled back from clipping, overall image sitting flatter in contrast with visible detail at both ends. Never crushed blacks, never blown highlights.
+
+Slight over-sharpening halo on high-contrast edges — iron slot edges, petal rims, the cup's white lid and dapple boundaries carry a faint crisp outline from in-camera processing.
+
+Light digital noise, not film grain: fine luminance noise plus faint chroma speckle in the shadowed asphalt and inside the dark slots, re-randomising every frame, cleaned almost invisible in the bright areas by noise reduction. It sits on the image the way phone noise does and never freezes into a static pattern.
+
+Small waxy patches where noise reduction smooths flat shadow areas, adjacent to sharpened detail — the characteristic phone mix of soft and crunchy in the same frame.
+
+Auto-exposure behaves like a phone: small continuous adjustments as dapples and haze move, drifting a fraction of a stop up and down with a soft half-second lag. Visible but gentle. No hard exposure jumps, no strobing, no flicker.
+
+Auto white balance drifts very slightly warmer and cooler as the light changes, correcting slowly, never snapping.
+
+Autofocus stays locked on the flower cluster and does not hunt; when the shoe, the falling cup and the flying coffee cross the plane, all are already sharp because of the deep depth of field.
+
+Digital stabilisation is on: the handheld frame reads almost locked, with only a faint micro-drift and occasional tiny corrective settle at the edges of frame — never a pan, never a whip, never visible shake.
+
+Rolling shutter: the fast-moving foot, the tumbling cup and the flying droplets show a very slight lean and smear, the natural digital motion signature at 30fps.
+
+Small warm lens flare veil from the low sun entering the corner of frame, with a faint green-ish ghost dot typical of a phone lens, drifting slightly as the haze density changes.
+
+No anamorphic flares, no film gate weave, no halation, no film grain plate, no cinema-camera latitude, no 24fps cadence, no vintage look, no LUT, no filter, no vignette.
+
+
+
+
+ACTIVE REFERENCES
+
+@GIRL: early 20s woman, slim build, cream tiered midi skirt with soft gathered hem, slouchy cream knit socks bunched at the ankle, black leather Mary Jane shoes with ankle strap and low block heel. Only her shoes, socks and the lower skirt hem are visible in this shot; her hand and arm stay above the top frame line and are never seen. 100% matches the reference.
+
+
+
+
+PROP — COFFEE CUP
+
+A plain single-wall kraft-brown paper cup, roughly 350 millilitres, tall tapered body, matte white plastic sip lid, light cardboard sleeve. No printed logo, no brand mark, no text, no sticker, no straw. Slightly soft and creased near the base from being carried.
+
+Nearly full of black coffee at the moment it falls.
+
+The cup is not visible from 0.0s to 10.7s. It enters frame only as a falling object, already tumbling, after @GIRL is completely out of shot.
+
+
+
+
+LOCATION — DESCRIBED, NO REFERENCE TAG
+
+Square cast-iron storm drain grate, roughly 60 by 60 centimeters, set flush into worn asphalt inside a raised rectangular iron frame with round bolt studs at its corners. The plate carries two rows of long rounded-end slots running diagonally across it, separated by a wide solid central bar; the iron is dark grey-brown, dusty matte, faintly oxidised, with pale dried mineral wash along the slot edges.
+
+Small wildflowers on thin bright green stems grow up through the slots in a loose cluster across the middle of the plate, each stem standing separately with dark slot visible between them: white five-petal flowers with orange-yellow stamens, soft pink five-petal flowers with yellow-green centers, small bright yellow buttercups with green centers, plus a few unopened buds and narrow leaf blades. Flowers sit at mixed heights, from tall single stems standing 10 to 12 centimeters clear of the iron down to short buttercups barely above the slot lip.
+
+The asphalt around the plate is coarse and grey-blue with visible pale gravel aggregate, fine cracks, scattered grit and a few small dry leaf fragments. No water anywhere — the ground is dry at the start of the shot.
+
+Overhead foliage, unseen above frame, breaks the sunlight into a dappled pattern of soft-edged bright patches and cool shadow across the whole road surface, densest and brightest in the upper-left and upper-right of frame.
+
+A concentrated slot of direct sun falls across the center of the plate at x 42% to x 62%, y 42% to y 66%, lighting the flower cluster from behind and left while the plate's outer edges sit in shadow.
+
+Sunlight direction: low, from the upper-left and slightly behind the flowers, raking across the ground.
+
+Wind: medium steady breeze from the left toward the right of frame, roughly 4 to 5 meters per second, gusting.
+
+
+
+
+LOCATION MAP
+
+Phone is held above and to one side, looking down at roughly a 50-degree angle, lens about 1.1 meters above the asphalt.
+
+The grate plate sits center-frame as a tilted square from x 8%, y 26% to x 92%, y 86%, its slots running diagonally from lower-left to upper-right, the solid central bar crossing from x 40%, y 80% to x 66%, y 34%.
+
+Flower positions on the plate: tall white flower at x 30%, y 34%; white flowers at x 15%, y 48%, x 34%, y 46%, x 48%, y 36%, x 52%, y 46%, x 36%, y 60%, x 78%, y 47%; pink flowers at x 37%, y 30%, x 42%, y 42%, x 58%, y 32%, x 60%, y 38%, x 66%, y 30%, x 53%, y 52%, x 68%, y 52%, x 57%, y 62%, x 70%, y 58%, x 48%, y 68%; yellow buttercups at x 29%, y 38%, x 26%, y 50%, x 41%, y 26%, x 45%, y 44%, x 62%, y 44%, x 72%, y 44%, x 47%, y 58%, x 52%, y 66%; buds and leaf blades scattered between them along the slot edges.
+
+The plate surface tilts very slightly down toward the center bar, so spilled liquid runs from the left edge inward toward the flower cluster and the slots.
+
+Asphalt fills the frame outside the plate on all sides, with the dappled light pattern strongest across the upper third and the lower-left corner.
+
+Flower and stem shadows fall from upper-left to lower-right onto the iron and down into the slots.
+
+
+
+
+
+
+
+FIRST FRAME AND SPATIAL BLOCKING
+
+The first visible frame is character-free and prop-free: only the grate, the flowers, the dry asphalt, the dappled light pattern, the drifting haze and dust. No person, no shoe, no human shadow, no cup, no liquid.
+
+All flowers are already readable in frame one at their mapped positions, already swaying in the medium breeze from the very first frame. The dappled shadows are already shifting and the haze is already drifting at 0.0s — the frame never opens on a still image and never resolves into one.
+
+@GIRL is not in frame from 0.0s to 8.0s.
+
+At 8.0s her black Mary Jane shoes enter from the right frame edge at x 100%, y 36% to y 50%, already at full running speed, already airborne mid-stride before they are visible.
+
+Her path is a single straight right-to-left transit: enters right edge at x 100%, y 42%, onto the plate at x 78%, y 46%, across the flowers through x 50%, y 50%, then x 22%, y 54%, and off the left frame edge at x 0%, y 58%. Nearly horizontal, drifting only slightly down-frame.
+
+At 9.4s her leading right Mary Jane treads on the flowers at x 50%, y 50% — one ordinary footfall inside a run, not a destination.
+
+She is fully out of frame by 10.4s. Nothing of her, and no shadow of her, is in frame from 10.4s onward.
+
+The cup enters frame only afterward, from the top-left at x 12%, y 0% at 10.7s, and comes to rest at x 22%, y 62% by 11.8s, where it stays for the rest of the shot.
+
+Screen direction is right-to-left for the entire transit and never reverses.
+
+Only shoes, socks and the lower skirt hem are ever visible; her legs disappear off the top of frame — no torso, no upper body, no arm, no hand.
+
+
+
+
+FORMAT MODE
+
+Single continuous take, 15 seconds. 4:3 composition, phone held nearly still above the plate. Real-time motion throughout at 30fps. No cuts, no reframing.
+
+
+
+
+EVENT ORDER LOCK
+
+The two events are separate and strictly sequential. She passes first. The cup falls after.
+
+Sequence: run in at 8.0s → tread on flowers at 9.4s → fully out of frame by 10.4s → frame empty of her → cup drops into the left of frame at 10.7s → burst and flood → aftermath to 15.0s.
+
+There is no cup in frame while any part of her is in frame. There is no overlap: her last visible frame at 10.4s is separated from the cup's first visible frame at 10.7s by roughly 0.3 seconds of flowers-only footage.
+
+She is already gone when the cup arrives. No hand, no arm, no shoe, no shadow of her accompanies the falling cup.
+
+
+
+
+MOTION SPEED LOCK
+
+Everything moves at true real-world speed for the entire 15 seconds. Wind, flowers, dappled shadows, dust, haze, petals, the falling cup, the flying coffee and the running woman all run at 1x.
+
+No slow motion anywhere, at any point, for any element. No high-frame-rate slow-mo, no overcrank, no ramping, no speed change, no time remapping, no gradual slowdown, no dreamy drag. No slow-motion beat at the footfall, no slow-motion on the falling cup, no slow-motion on the splash. No speed-up or timelapse either.
+
+Real gravity: the cup falls from about 1.2 meters and takes roughly half a second to reach the plate. The burst and splash resolve inside a fraction of a second. Quick, abrupt, ugly, ordinary.
+
+Natural 30fps digital motion blur and slight rolling-shutter smear on the fast-moving foot, the tumbling cup and the flying liquid — a capture characteristic, not a speed effect.
+
+
+
+
+RUN BEHAVIOR — PASS-THROUGH LOCK
+
+@GIRL is running, not walking, and is in continuous motion in every single frame she appears in. She is at full speed when she becomes visible and still at full speed when she leaves.
+
+She never stops, never stands, never halts, never pauses, never slows, never hesitates, never lingers, never turns, never looks down, never aims her foot, never braces before the step, never grabs at the cup and never reacts to losing it. There is no frame in which both her feet are planted and still.
+
+Constant real-world running speed throughout: roughly 3 meters per second, even stride, even rhythm, identical tempo from her first visible frame to her last. No acceleration on entry, no deceleration before the flowers, no slow-down on exit, no stumble, no glance back.
+
+Screen direction right-to-left for the whole transit, never toward camera, never reversing.
+
+Running gait mechanics seen from above: flight phase with both feet off the ground, forefoot-to-midfoot landing, rapid weight roll, sharp toe push-off, trailing leg swinging through fast, only one foot on the ground at a time. Roughly three ground contacts cross the whole frame, spaced far apart.
+
+The step onto the flowers is unremarkable and incidental — one footfall inside a run. She does not notice the flowers and gives them no attention.
+
+At contact there is no freeze frame, no held pose, no slow motion, no beat of stillness, no lingering shoe. The foot is on the plate for about 0.2 seconds of real time, then gone.
+
+The skirt hem and socks whip and lag behind the leg with the added speed of a run, snapping back after each stride.
+
+She runs completely out of the left frame edge and does not come back — not for the cup, not at all. The last visible part of her is a shoe still in mid-flight, exiting the frame, not a shoe at rest.
+
+The shot is not about her. She is a body passing through a frame that belongs to the flowers.
+
+
+
+
+
+
+
+CUP DROP AND BURST — ACCIDENTAL, AFTER SHE PASSES
+
+The drop is an accident with a delay. The hard footfall at 9.4s jolts her arm above frame and destabilises her grip, but the cup does not leave her hand at that moment. It slips free about 1.3 seconds later, at 10.7s, once she is already out of frame and a couple of strides past the drain.
+
+She does not throw it, toss it, set it down, aim it or let go on purpose. No hand, no arm, no fingers, no release gesture is ever visible. The cup appears already falling, already tumbling, with no visible cause in frame.
+
+Trajectory: it enters the top-left of frame at x 12%, y 0% at 10.7s, falling steeply and carrying a little residual leftward momentum, tumbling about one and a half rotations, lid-first then base-first, motion-blurred, trailing a thin ragged rope of coffee and 10 to 20 loose droplets escaping past the lid seal on the way down.
+
+First impact at 11.1s: the base hits the plate's raised outer rib at x 24%, y 54%. The paper wall buckles inward on one side, the base folds, the lid pops half off its rim with a hard snap and stays hanging by one edge.
+
+Burst: coffee erupts out of the opened lid and the split seam in a wide low fan, thrown mainly rightward across the plate toward the flower cluster, covering x 14% to x 58%, y 34% to y 74% — a broad irregular splatter, not a neat circle. A low crown of secondary droplets throws outward 15 to 25 centimeters, some clearing the plate edge onto the asphalt. Several droplets arc up 10 to 15 centimeters and fall back.
+
+Cup settles: it bounces once, low and dead, rolls a quarter turn onto its side and comes to rest at x 22%, y 62%, lying across one slot with its crumpled side up and the loose lid tilted against the iron beside it at x 16%, y 68%. It rocks twice in decreasing arcs and stops by 11.8s. It stays exactly there, unmoved, for the rest of the shot.
+
+Remaining coffee: what is left inside glugs out of the mouth in three uneven pulses over the next two and a half seconds, spreading a dark pool from the cup mouth across x 18% to x 40%, y 50% to y 72%, then creeping rightward along the slight tilt of the plate toward the crushed center cluster, reaching x 48%, y 56% by 13.4s and pouring through the slots into the dark below.
+
+Contact with flowers: the initial burst hits the left and center flowers directly — eight to twelve of them. Petals are driven down and sideways by the weight, plastered flat against the iron or against each other, hanging heavy. Coffee runs down five or six stems in dark rivulets. Two flowers are pushed fully into a slot by the impact and stay bent down there. The stems already crushed by the shoe now sit soaked and pinned, and the creeping pool reaches them a second later. Dark droplets bead on white petals with warm rim highlights where the sun catches them.
+
+Colour: dark translucent coffee brown, near-black where pooled thick, warm amber where thin and sunlit. Sunlit droplets read amber-gold, droplets in shade read near-black. No milky foam, no white swirl, no cartoon splash shape.
+
+Surface behavior after impact: the dry dusty iron does not absorb it. Coffee sits as beads and thin puddles with sharp edges, darkens the iron where it wets it, rolls into loose dark blobs where it meets dust, and keeps creeping downhill along the slot edges and into the openings for several seconds, slowing and stopping.
+
+Steam: a faint thin wisp rises from the cup mouth and the largest pool from 11.3s onward, drifting right with the wind and thinning out by 14.0s. Subtle — a hot-liquid tell, not a smoke plume.
+
+Reflection: the wet patches and the pool pick up sky and dapple light and read as small dark mirrors, brightening and dimming as the dapple pattern moves over them. HDR pulls these glints back so they never fully clip.
+
+The cardboard sleeve slips a centimeter down the crumpled body and stops. The cup body slowly darkens as coffee wicks up the paper from the pool over the final seconds.
+
+No brand logo, no text, no straw. One cup only. No second drop, no re-entry, no hand reaching back into frame. No liquid anywhere in frame before 10.7s.
+
+
+
+
+WIND BEHAVIOR — MEDIUM BREEZE
+
+The breeze is continuous and medium-strength for the whole shot, with real gust structure: it rises and eases in swells every 1.5 to 2.5 seconds, never stopping completely and never becoming a wind-machine blast.
+
+Each flower stands as a separate stem and moves on its own: tall stems lean over in long deep arcs and bounce back with visible spring; mid stems sway a full head-width side to side; short buttercups rock and nod hard on their necks; thin buds and leaf blades flutter and jitter fast at their tips.
+
+No two stems are in the same phase. Each has its own frequency, amplitude and timing of return. The cluster never moves as one block and never mirrors itself.
+
+Amplitude for medium wind: tall stems travel 10 to 15 centimeters at the tip and occasionally bow almost to the horizontal in a gust before springing upright; mid stems 5 to 8 centimeters; short buttercups 2 to 3 centimeters; flower heads rotate 15 to 30 degrees on their necks and sometimes flip to show their undersides.
+
+Stems lean, load, hold at the edge of the arc, then whip back with soft overshoot and two or three damped oscillations before settling — at real plant speed, the natural rate of a thin stem in a medium breeze. Never rubbery, never snapping, never a repeated loop, never artificially slowed.
+
+Petals detach often in this wind: one every 1 to 1.5 seconds from somewhere in the cluster, tumbling end over end with air resistance, flaring as they turn edge-on to the sun, and travelling right across the plate onto the asphalt. Individual petals at staggered moments, never a synchronized burst.
+
+After the burst, coffee-soaked stems move far less than the dry ones — heavy, waterlogged, hanging low, barely responding to the same gusts, while untouched flowers a few centimeters away keep swaying at full amplitude. The contrast is visible.
+
+The emptying cup is light enough that a gust at 14.2s shifts it a centimeter and rocks it once, but the pooled coffee and its wet base hold it in place — it does not roll away or lift.
+
+Grit and dry leaf fragments on the asphalt skitter and roll several centimeters in the gusts.
+
+Haze, dust, petals, grit and stems all obey the same wind direction and gust timing, so the whole frame breathes together while each element moves at its own scale.
+
+
+
+
+
+
+
+MOVING DAPPLED SHADOWS
+
+The dappled light pattern is a live element, not a static texture. Overhead foliage is moving in the same medium wind, so its shadow pattern is in constant motion across the entire frame.
+
+Bright patches expand, contract, split and merge continuously. Individual dapples slide two to eight centimeters across the asphalt, wobble in place, and briefly close over before reopening.
+
+The whole pattern drifts in the same direction as the wind, left to right, with a slow travelling ripple, while individual dapples jitter at their own faster rate.
+
+Shadow edges are soft, and they soften and sharpen as the overlapping leaf layers shift.
+
+The pattern moves across the plate as well as the asphalt, so the flower cluster passes in and out of direct sun: the central sunlit slot at x 42% to x 62%, y 42% to y 66% widens and narrows, and individual flowers light up and fall into shade at different moments.
+
+When a dapple opens over a flower, its petals flare warm and translucent for a moment, then cool and dim as the shadow returns. This happens to different flowers at different times, never to all of them at once.
+
+Flower and stem shadows on the iron sway in exact sync with their own stems, laid over the drifting dapple pattern, so two independent shadow motions overlap on the plate.
+
+After the drop, the fallen cup casts its own hard-edged static shadow onto the plate, and the drifting dapples move across it, so the cup's shadow deepens and pales while its shape stays fixed.
+
+The wet coffee patches catch and lose the moving dapples as bright glints, so the pool flashes and goes dark as the pattern travels over it.
+
+The phone's auto-exposure reacts gently to the shifting coverage, riding a fraction of a stop with a soft lag.
+
+Motion is organic and irregular: never a looping animation, never a uniform pulse, never a whole-frame brightness flicker, never a strobe.
+
+
+
+
+ATMOSPHERE — HAZE, DUST, POLLEN
+
+The air is the second subject. In every frame, in every depth plane, something is moving. Nothing is ever completely frozen except the cast iron, the asphalt and the settled cup.
+
+Warm haze layer: a soft visible haze sits low over the ground across the whole frame and drifts left to right at real wind speed. It is dense enough to read clearly — the light through it thickens into soft volume, the asphalt at the frame edges loses a little contrast, and shadow edges soften where haze crosses them. Its density varies unevenly in slow billows over 2 to 3 second cycles. Never a flat even fog layer, never a uniform grey veil, never a pulsing loop. Its colour is the warm gold of the light passing through it, not a tinted overlay.
+
+Haze streamers: thinner brighter wisps catch the sun and travel visibly left to right across the plate, curling and stretching, most readable against the dark slots and the shadowed asphalt.
+
+Drain vapour: a faint wisp of cool air rises from the open slots at x 40% to x 60%, y 55% to y 72%, curling up a few centimeters and bending right into the breeze, dissipating into the haze.
+
+Foreground particles: 3 to 5 large dust, pollen or seed-fluff specks near the lens at any time, crossing the frame edges in 2 to 3 seconds, drifting left to right, some rising on thermals off the asphalt, some tumbling in place before moving on. On a phone lens these stay fairly defined rather than melting into big soft bokeh discs.
+
+Midground particles: 20 to 30 sharp dust motes and pollen specks moving between and above the stems, catching the sun as bright warm pinpoints against the dark slots. Each at its own speed and height, some spiralling, some cutting across faster in an eddy. Never evenly spaced, never in parallel lines.
+
+Background particles: a fine drift of dust catching the light across the sunlit asphalt at the frame edges.
+
+Particle motion is never uniform, never a straight-line snowfall, never a looping cycle, never a symmetrical shower. Speeds, sizes, directions and depths all vary continuously.
+
+Static frame does not mean static image: the phone holds, but the air never stops moving.
+
+
+
+
+COLOUR — NATURAL PHONE COLOUR
+
+The colour comes from real light on real materials through a phone camera with standard processing. It is not a look, not a LUT, not a grade laid over the top.
+
+Auto white balance sits close to natural daylight with the slight neutralising pull a phone applies: sunlit patches read warm and golden but a touch less saturated-warm than the eye would see, and shadowed asphalt falls cool blue-grey. The warm-cool split is physical light behaviour, not stylistic colour separation and not orange-and-teal grading.
+
+Mild phone saturation lift in the greens and blues, and a slight extra pop in the yellow buttercups — the honest signature of in-camera processing, kept subtle and never neon.
+
+Flower colour stays botanically honest: white petals are true white, glowing translucent warm gold where the sun passes through them, cool white in shade; pink petals soft natural rose with yellow-green centers, gentle, not magenta and not candy pink; buttercups natural warm yellow; stems and leaf blades fresh natural green with a dusty city cast, never vivid emerald.
+
+Coffee colour is honest dark roast: deep translucent brown, near-black in shade and where pooled thick, warm amber where thin and sunlit, no red or purple push, no milky opacity.
+
+Cup colour is plain kraft brown paper, slightly warm and desaturated, with a matte off-white lid that reads as the brightest object on the plate without clipping. Coffee-soaked areas of the paper darken to deep brown.
+
+Asphalt and iron read as real materials: the road desaturated blue-grey with a warm grey lift in the dapples and visible pale aggregate; the plate dark neutral grey-brown with faint oxidation and a dusty matte surface, not black and not blue. Coffee-wet iron goes several stops darker and slightly warmer where wet.
+
+Wardrobe stays plausible: cream skirt reads as warm off-white in sun and cool pale grey in shade, the socks the same, black leather shoes hold a soft warm specular where the sun catches them and stay dark neutral elsewhere.
+
+Haze adds natural warm density to the light it passes through, slightly lowering contrast and lifting the blacks where thickest.
+
+Dynamic range reads wide and slightly flat from HDR tone mapping: shadow detail visible, highlights held, no clipped white patches, no crushed black. Contrast is lower than a cinema camera would give in this light — that flatness is part of the phone look, not a grade.
+
+No overall colour cast, no teal shadows, no orange push, no film-emulation preset, no sepia, no heavy vignette, no beauty filter, no cinematic-mode fake shallow focus.
+
+
+
+
+CAMERA
+
+Phone held nearly still above the plate, digitally stabilised so the frame reads locked. No pan, no tilt, no push-in, no reframe, no whip, no visible shake — only a faint micro-drift and the occasional small stabiliser settle at the frame edges. The camera does not follow her out of frame and does not tilt toward the falling cup.
+
+Deep depth of field keeps the flowers, the iron, the incoming foot and the falling cup all acceptably sharp; the far asphalt at the corners falls slightly soft.
+
+Focus stays on the flower cluster for the whole shot and does not hunt, does not rack, and does not shift to the cup.
+
+Framing priority: the grate plate centered and complete with its frame edges visible, individual flower silhouettes readable against the iron and the dark slots, dappled pattern visible across the asphalt border on all sides, the fallen cup fully inside frame after 11.8s.
+
+
+
+
+
+
+
+ACTION TIMING
+
+0.0s to 8.0s — Flowers, dapples, haze and air only, no person, no incoming shadow, no cup, no liquid. Every stem sways deep and independently in the medium breeze; the dapple pattern shifts continuously across asphalt and plate, opening and closing over individual flowers; haze wisps travel left to right; dust and pollen drift through all depth planes; the exposure rides a fraction of a stop as the light shifts. Stronger gusts at 1.2s, 3.4s, 5.6s and 7.3s bow the tall stems over and set the whole cluster whipping and settling. Petals detach at 1.5s from the pink flower at x 58%, y 32%; at 2.9s from the white at x 34%, y 46%; at 4.4s from a buttercup at x 45%, y 44%; at 6.2s and 7.5s from the upper cluster — each tumbling right across the plate. Flower shadows sway across the iron under the drifting dapples. Nothing else changes; the frame simply breathes.
+
+8.0s to 9.4s — Black Mary Jane shoes enter from the right frame edge at x 100%, y 42% at full running speed, crossing right to left. Cream socks and skirt hem whip behind each stride. Her body shadow sweeps fast across the plate ahead of her, momentarily blanking a travelling band of the dapple pattern and nudging the auto-exposure up a touch. One ground contact lands on bare iron at x 76%, y 46% with a dust puff and a hard metallic tap; the following flight phase carries her over the near slots. Digital motion blur and slight rolling-shutter lean on the swinging leg. Haze and flowers continue moving underneath. No cup, no liquid.
+
+9.4s to 9.6s — The right Mary Jane treads on the flowers at x 50%, y 50% mid-stride at full running speed. Weight slams down and rolls through the forefoot. Tall stems fold flat and snap against the iron ribs; pink and yellow heads press sideways and down into the slots; leaf blades flatten. Petals crush, tear and scatter — several fly outward and upward and are immediately caught by the wind, travelling right. A puff of dust and pollen lifts off the plate. The leather upper creases hard across the toe box, the ankle strap loads, the sole scrapes grit against iron. The foot pushes off and leaves the plate. Above frame the jolt destabilises her grip on the cup, but nothing falls yet.
+
+9.6s to 10.4s — The left shoe lands at x 22%, y 54%, the right swings through, and both cross out of the left frame edge at unchanged speed. Her shadow whips off frame after her and the blanked dapples return in a travelling wave behind her; the exposure settles back with a soft half-second lag. By 10.4s the frame is empty of her.
+
+10.4s to 10.7s — Flowers only. Crushed stems begin springing partway back, bent and broken. Dust from the footfall settles. Dapples drift, haze crosses, petals tumble. Three tenths of a second of quiet with no person and no cup in frame.
+
+10.7s to 11.1s — The kraft cup enters the top-left of frame at x 12%, y 0%, already tumbling, falling steeply and drifting slightly left, motion-blurred, trailing a thin ragged rope of coffee and loose droplets escaping past the lid. No hand, no arm follows it in.
+
+11.1s to 11.4s — The base hits the plate's outer rib at x 24%, y 54%. The paper wall buckles, the base folds, the lid snaps half off and hangs by one edge. Coffee erupts in a wide low fan rightward across x 14% to x 58%, y 34% to y 74%, throwing a crown of secondary droplets 15 to 25 centimeters outward, some clearing onto the asphalt. Eight to twelve flowers take direct liquid — petals plastered flat, five or six stems streaked with dark rivulets, two flowers pushed down into a slot. The cup bounces once, low and dead, and rolls a quarter turn onto its side.
+
+11.4s to 11.8s — The cup rocks twice in decreasing arcs and settles at x 22%, y 62%, crumpled side up, lid tilted against the iron at x 16%, y 68%. Its hard-edged shadow lands on the plate. Coffee begins glugging out of the mouth.
+
+11.8s to 15.0s — Flowers, coffee, cup, dapples, haze and air only. Remaining coffee glugs out in three uneven pulses through 13.6s, spreading a dark pool across x 18% to x 40%, y 50% to y 72% and creeping rightward along the plate's tilt to reach the crushed center cluster at x 48%, y 56% by 13.4s, then pouring through the slots into the dark. Soaked stems hang low and barely move while untouched flowers at x 78%, y 47%, x 70%, y 58% and x 66%, y 30% keep swaying at full amplitude. Two stems stay folded near-horizontal against the iron from the shoe. A shoe-shaped flattened patch remains in the center of the cluster, now soaked by the advancing pool. Loose petals lie plastered on the iron, white going translucent and stained brown at the edges. Steam wisps from the cup mouth and the pool, thinning out by 14.0s. Pool edges slowly contract as the thinnest film evaporates. Coffee wicks up the crumpled paper and darkens the cup body. A single heavy drop hanging on a stem tip at x 40%, y 50% swells, releases at 13.9s, and falls through the slot. Gusts at 12.5s and 14.2s move the surviving stems, roll a stained petal several centimeters across the iron, nudge the cup a centimeter and rock it once, and shift the dapple pattern noticeably; the wet iron and the pool flash bright and go dark as dapples travel over them. Nobody comes back for the cup. The last frame is still full of motion — dapples drifting, haze wisps crossing, particles floating, stems and shadows swaying, coffee creeping and glinting, digital noise alive in the asphalt shadows.
+
+
+
+
+PHYSICS
+
+Each stem has its own elasticity, mass and damping: it bends under medium wind pressure, overshoots on return, oscillates two or three times and settles at its own rate by thickness and height, all at real-world timing. Coffee-soaked stems gain weight, hang lower and damp almost immediately.
+
+Flower heads carry weight at the tip and lag behind their stems, nodding and flipping with inertia in gusts.
+
+The cup behaves as a light paper vessel full of liquid: it tumbles slowly around its own axis in flight because the liquid mass shifts inside it, lands with a dull low-energy impact rather than a bounce, crumples permanently where it strikes, and cannot spring back into shape. The lid is a stiff thin plastic disc that pops under pressure and stays hinged on one edge. The cardboard sleeve slides and stops.
+
+Coffee behaves as a real low-viscosity hot liquid: it leaves the cup as a coherent sheet that breaks into droplets in flight, follows true parabolas carrying the cup's momentum, flattens and crowns on impact, throws secondary droplets, glugs out in pulses as air enters the mouth, runs downhill along the iron's slight tilt, finds the slots and drains through, beads on dusty surfaces, clings to petals with surface tension, wicks into paper, and darkens what it wets. No gel, no slow blob, no cartoon splash arc, no bouncing droplets.
+
+Haze and vapour behave as fluid volumes: they billow, fold, thin out and reform, react to the running body with a torn eddy that closes back in, and never move as a rigid sheet.
+
+Airborne particles have near-zero mass: they float, hover, spiral and change direction with the smallest air movement, never falling in straight lines and never moving at a single uniform speed.
+
+Foot contact is genuine running weight in transit: the sole slams and compresses stems and petals against the iron, cast iron does not deform, the leather upper flexes hard at the flex point, the ankle strap loads, grit scrapes, and the weight continues forward immediately.
+
+Crushed stems stay crushed. Broken stems do not return to vertical. Torn petals stay torn and scatter, then behave like light debris in the wind unless pinned down by liquid.
+
+Skirt hem and sock fabric follow the leg with pronounced inertia delay at running speed and snap back after each stride.
+
+Dust lifts from the asphalt on each footfall and settles again within a second.
+
+
+
+
+
+
+
+LIGHTING
+
+Single source: low sun from the upper-left, broken into dapples by unseen overhead foliage. Everything else is bounce from the open sky and the pale asphalt. No invented second key, no coloured practical.
+
+The haze makes the light visible as volume: soft golden atmosphere sits between phone and ground, and where the sun rakes through a thicker wisp the light briefly reads as a soft glowing body rather than just illumination on surfaces.
+
+Flowers standing in a dapple are side-lit and backlit: white petals glow translucent warm gold, pink petals glow soft rose, buttercups glow saturated warm yellow, stem edges catch thin bright highlights. Flowers in shade read cool and muted. As the dapples move, individual flowers cross between these two states at different moments.
+
+The falling cup catches a dapple mid-air for a few frames — the kraft paper flares warm and the white lid reads bright — then passes into shadow before impact.
+
+Flying coffee catches the light: sunlit droplets flare as bright amber points with motion-blurred streaks, droplets crossing shade go near-black.
+
+Wet coffee patches and the pool act as dark mirrors, picking up sky and dapple light as bright glints that appear and vanish as the pattern moves, held back from clipping by HDR.
+
+Airborne dust, pollen and haze wisps are backlit and read as bright warm floating sparks and glowing streamers against the dark slots and shadowed asphalt, brightness pulsing as they turn and as they cross into shade.
+
+HDR keeps both the bright dapples and the shadowed asphalt readable at once, so the frame sits flatter than an optical camera would render it — highlights not blown, shadows not black.
+
+Soft-edged flower and stem shadows sway with their stems on the iron, overlaid on the drifting dapple pattern; the cup's own shadow is hard-edged and fixed after it settles.
+
+Her shadow crosses the plate right to left at running speed and leaves frame with her; it never settles in one position and is gone before the cup arrives.
+
+Keep the sun-to-shade separation as a physical consequence of the dappled light; no flat even daylight, no top-down flat fill.
+
+
+
+
+AUDIO
+
+Phone microphone audio only, diegetic, at natural pitch and speed, with the slightly thin compressed character of on-board phone recording and a faint wind buffet on the mic during gusts.
+
+Medium breeze with audible gusts, leaves rustling overhead, faint distant city hum, thin hollow air resonance from the drain below the plate.
+
+Fast running footsteps on dry asphalt from 8.0s, ordinary running tempo, identical through the whole transit, receding after 10.4s and still faintly audible and receding as the cup falls, gone by 11.6s. Her footsteps never stop or change rhythm.
+
+At 9.4s one hard leather-on-cast-iron slap with a metallic ring, grit scrape and a dry snap of stems, landing inside the same running rhythm without a break in tempo.
+
+At 11.1s a dull paper-and-liquid thud on metal, a sharp plastic lid snap, a wide wet splat and a scatter of droplet ticks, then the low hollow gurgle of coffee glugging out and trickling into the drain with a small echo from below the plate, continuing intermittently for a couple of seconds.
+
+Faint paper scuff at 11.6s as the cup rocks and settles, and again at 14.2s when the gust nudges it.
+
+Sock and skirt fabric snap on the approach and exit.
+
+No music, no score, no soundtrack, no ambient pad, no drone, no piano, no strings, no swelling underscore. No dialogue, no narration, no voiceover, no gasp, no "oh", no curse, no reaction sound of any kind, no returning footsteps, no sound design flourishes, no pitch-shifted or time-stretched audio, no subtitles.
+
+
+
+
+POSITIVE LOCKS
+
+One person only. No second figure, no bystanders, no reflection of a second figure.
+
+The phone frame never pans, tilts, reframes or shakes; it reads locked for all 15 seconds and never follows the cup.
+
+The grate plate, its frame edges, the flower positions, the asphalt texture and the sun direction stay identical from frame one until the moment of the footfall.
+
+Only the shoes, socks and lower skirt hem of @GIRL are ever visible; her hand and arm stay above the top frame line and are never seen, including at the moment the cup leaves her grip.
+
+@GIRL runs right to left for her entire transit, is in motion in every frame she appears in, and is gone from frame by 10.4s; she does not walk, stand, stop, pause, slow, stumble, reverse, grab for the cup, look back, or remain over the flowers at any point.
+
+Strict order: she passes first, then the cup falls. No cup, no lid, no liquid appears in frame while any part of her or her shadow is visible. The cup's first visible frame is at 10.7s, after her last visible frame at 10.4s.
+
+The drop is accidental, caused by the delayed loss of grip after the jolt: no throw, no toss, no deliberate release, no aim, no repeat, no reaction. One cup only.
+
+The cup comes to rest at x 22%, y 62% by 11.8s and stays there — it never leaves frame, never rolls away, never is picked up, and no hand enters frame for it.
+
+Flowers stay rooted in their mapped slot positions the entire shot; the shoe and the liquid crush and soak them but nothing uproots or relocates them, and no new flowers appear.
+
+The asphalt outside the plate stays mostly dry apart from a few splash droplets near the plate edge — no wide puddles.
+
+The entire 15 seconds runs at real-time 1x speed; no slow motion, no speed ramp, no time remapping anywhere in the shot, including the falling cup and the splash.
+
+Colour, contrast and saturation stay consistent for all 15 seconds; no grade shift, no colour drift, no fade in or out, no flicker beyond the natural auto-exposure and haze breathing.
+
+Dapples, haze, dust, pollen, vapour, petals, coffee, steam, stems, their shadows and the sensor noise are all in visible motion in every frame and in every depth plane — no frozen frames, no still-image moments, no motionless background, no static dapple pattern, no static haze layer, no frozen noise plate.
+
+Real iPhone video texture: deep focus, HDR-flat contrast, mild edge sharpening, light shadow noise, phone lens flare, digital stabilisation. Naturalistic street footage, not cinema-camera and not film emulation.
+
+See all
+Copy prompt
+Recreate
+
+post yours and tag me! @sadiesfactionn i repost my favorites ★
+
+
+
+
+my instaaa:
+
+https://www.instagram.com/sadiesfactionn/

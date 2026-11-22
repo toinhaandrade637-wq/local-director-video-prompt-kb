@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 2.5 提示词"
+  short_description: "依据既定剧情与参考素材编写、修改和检查 Seedance 2.5 视频提示词"
+  default_prompt: "使用 $seedance-prompt，依据我提供的剧情、分镜和素材说明，编写或完善 Seedance 2.5 提示词，保留已确定内容并核对接续关系。"

@@ -1,0 +1,247 @@
+【项目】How to Automate AI Video Creation Without Coding（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/automate-ai-video-no-code
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+How to Automate AI Video Creation Without Coding
+Higgsfield
+Oct 13, 2026
+9 min
+
+You can automate AI video creation without coding in two main ways on Higgsfield, an AI-native creative suite: generate batches of videos through ChatGPT or Claude, or run recurring tasks with Supercomputer. Both use the credits of your regular plan and need no API key. If someone on your team can handle the technical setup, the Higgsfield API adds a third option for building generation into your own product.
+
+Three ways to automate AI video creation on Higgsfield
+
+In this article, automation means producing more finished clips for the same amount of your own time. When each clip is requested separately, the number of clips depends on how often you can write a prompt, wait for the result, and move the file to where it is needed. There are three ways to change this on Higgsfield, and two of them need no code:
+
+Several clips per request: the Higgsfield Extension in ChatGPT or Higgsfield MCP in Claude. You describe a set of videos once, and the agent writes the individual prompts and returns the variants together. You still start each request yourself.
+Repeating tasks: Supercomputer. The task repeats on a schedule without you starting every run, and the result is delivered to the apps you choose.
+Generation inside your own product: the Higgsfield API. A developer triggers generation from your own product or workflow. This one requires code, so it is included here only to show where it fits among the other options.
+Three ways to automate AI video creation on Higgsfield
+
+Method
+
+	
+
+What you do
+
+	
+
+What happens next
+
+
+
+
+Higgsfield Extension or Higgsfield MCP
+
+	
+
+Connect Higgsfield to ChatGPT or Claude once, then describe the videos in the chat
+
+	
+
+You receive several variants in one request
+
+
+
+
+Supercomputer
+
+	
+
+Describe the task once, set how often it repeats, connect the apps for delivery
+
+	
+
+Supercomputer plans the work, generates the clips, and sends them where the brief says
+
+
+
+
+Higgsfield API
+
+	
+
+A developer connects your product to the API
+
+	
+
+Generation runs inside your own product
+
+All three ways use the same 35+ models and tools. Higgsfield MCP is how Higgsfield plugs into your AI workflow: it connects the platform to the chat or agent you already use. Supercomputer is how Higgsfield handles scale: it is an agent that runs recurring tasks across models and connected apps. The difference between the methods is in how much you set up and in how much of the work happens without your participation.
+
+Method 1: Generate a batch of videos from ChatGPT or Claude
+
+The simplest form of automation is a batch request from a chat you already have open. The connection has a different name in each chat:
+
+In ChatGPT it is the Higgsfield Extension.
+In Claude it is the Higgsfield MCP connector.
+
+Both use the credits of your Higgsfield plan at standard rates and do not need an API key.
+
+Connecting Claude
+
+Open Settings → Connectors and press +.
+Name the connector Higgsfield and paste https://mcp.higgsfield.ai/mcp.
+Press Connect and authorize with your Higgsfield account.
+
+The full guide is in the Help Center: How do I connect Higgsfield to Claude, ChatGPT, or another AI agent?
+
+Connecting ChatGPT
+
+Open chatgpt.com/plugins/higgsfield and press Open plugin.
+Sign in with your Higgsfield account.
+Higgsfield appears in the sidebar under «…». Create Image, Create Video, Genjutsu, and Visual Effects are available inside.
+
+Steps for ChatGPT, Cursor, and other agents are in How do I connect Higgsfield to Claude, ChatGPT, or another AI agent?
+
+The connection is made once. After that, each generation is an ordinary message in the chat.
+
+What a batch request looks like
+
+A batch request is written the same way you would describe the task to a colleague:
+
+"Make five 9:16 clips, 8 seconds each, of this product on a kitchen counter, morning light, each with a different opening hook."
+
+The agent turns the brief into separate prompts, selects a suitable model, and returns the set.
+
+What this method covers and where it ends
+
+You receive several variants per request. If you want the same character in all of them, you can train a Soul Character from photos once and refer to it in the brief.
+Every generation is saved to your Asset Library on higgsfield.ai, so a clip created in Claude can be edited on the website later.
+Each request still needs to be sent by you. There is no schedule in this method and no delivery to other apps. Unlimited models do not apply here: every generation through the Extension or MCP deducts credits, and additional generations or alternatives may increase the cost.
+Method 2: Run videos on a schedule with Supercomputer
+
+Supercomputer is the method that works on a schedule. It is an agent inside higgsfield.ai that accepts a task in plain language, plans it, generates across image and video models, and delivers the result to connected apps. If you ask for it, the task repeats on a schedule. A general description of Supercomputer is in How to Make a Complete AI Video Without Switching Tools; this section covers only the parts related to automation.
+
+Several features take part in automation. The main ones are:
+
+Scheduled Tasks. Recurring jobs such as a daily set of clips, a weekly refresh, or a monthly rerun. Plus ($49/month) includes 2 scheduled tasks and Ultra ($129/month) includes 10.
+Connectors. 30+ integrations, including TikTok, LinkedIn, X, and Threads for publishing; Google Drive, Dropbox, and Notion for files and briefs; Slack and Telegram for notifications; Google Sheets for prompt lists. If an app is not on the list, the Add custom MCP option lets you connect your own MCP server. Connectors are available on all paid plans.
+Skills. Ready-made workflows such as Product UGC, Shorts Maker, Higgsfield Faceless Video, and Personal Clipper. They are started by a slash command or by name.
+Memory and Files. The agent keeps your brand, audience, and references between chats, and generated assets stay in the project. A request like "make another one similar to Tuesday's second clip" can refer to earlier work.
+
+Generations inside Supercomputer use plan credits at standard rates, and the cost is shown before each run. Unlimited models do not apply inside Supercomputer.
+
+Plan limits and prices checked on October 10, 2026. US list prices shown before applicable taxes. Prices and plan details may change.
+
+What this method covers and where it ends
+
+The task runs on a schedule and delivers the result to supported connected apps named in the brief, so publishing, file storage, and notifications are part of the same job.
+The agent keeps the context of the project between runs, so references, characters, and earlier clips can be reused.
+Supercomputer works on higgsfield.ai only; it is not available inside Claude or ChatGPT. The number of scheduled tasks depends on the plan, every generation deducts credits, and the first run is still worth reviewing by hand.
+Example: three TikTok clips a day, set up once
+
+This is how a daily TikTok routine can be set up in Supercomputer. It involves one brief, three connected apps, and one scheduled task.
+
+Step 1. Connect the apps. Open higgsfield.ai → Supercomputer → Connectors. Press + next to TikTok, Google Drive, and Slack, and sign in to each of them once.
+
+Step 2. Write the brief. Start a new chat and describe the whole task in one message:
+
+"Every weekday, create three 9:16 clips of 8 seconds each about [your topic], in the style of the reference in my project, using my character @[character name]. Post each clip to TikTok with a caption, save the MP4 files to the Google Drive folder Daily Clips, and send me a summary in Slack."
+
+Step 3. Run it once manually. The agent shows the credit cost before generating. After you approve it, review the three clips and adjust anything you want to change in the same chat, for example the opening, the pacing, or the model.
+
+Step 4. Set the schedule. Ask the agent to repeat the task every weekday. It becomes a Scheduled Task and takes one of the slots included in your plan.
+
+Step 5. Check the results. The finished clips are stored in the project folder, and the daily summary arrives in Slack.
+
+Referring to a Soul ID through @elements in the brief helps keep the character consistent across runs. In this setup, Soul ID is responsible for the character, Supercomputer for the recurring generation, and the connectors for delivery.
+
+Method 3: Add generation to your own product with the Higgsfield API
+
+The Higgsfield API is intended for teams that want video generation inside their own app, website, or internal tool. It requires a developer. The API is a separate product from a Higgsfield plan, with a separate account, dollar balance, and key. Plan credits and Unlimited access do not carry over to the API, and API spending does not affect them.
+
+A few things that distinguish the API from the other two methods:
+
+Generation happens inside your own interface, following your own logic and triggers.
+Billing is per second of output for video and per image for images. Per-model rates are public, and an estimate endpoint returns the cost before a job runs.
+Failed generations are not charged; the amount returns to the balance automatically.
+Concurrency grows with usage; the details are described in the documentation.
+
+A basic integration consists of three calls: submit a prompt, poll the status, fetch the file. Setup instructions, SDKs, and the model catalog are at docs.higgsfield.ai, and Meet the Higgsfield API describes who the API is for.
+
+What this method covers and where it ends
+
+Generation can be built into any product flow, with your own triggers, interface, and storage, and billing is tied to actual output.
+It requires code and a developer to set up and maintain, so it does not fit the no-code scenarios in this article.
+Finished files remain available for seven days, so saving outputs to your own storage is part of the integration. The API balance is separate from plan credits.
+Which automation method fits your workflow
+Which automation method fits your workflow
+
+What to compare
+
+	
+
+Extension or MCP in a chat
+
+	
+
+Supercomputer with Scheduled Tasks
+
+	
+
+Higgsfield API
+
+
+
+
+Who it fits
+
+	
+
+Creators and marketers who already work in ChatGPT or Claude
+
+	
+
+Brands and creators who publish regularly and do not have a developer
+
+	
+
+Teams with a developer building a product
+
+
+
+
+Billing
+
+	
+
+Plan credits, no key
+
+	
+
+Plan credits, no key
+
+	
+
+Separate dollar balance
+
+
+
+
+Limits
+
+	
+
+Each request is sent manually
+
+	
+
+Scheduled task slots: 2 on Plus, 10 on Ultra
+
+	
+
+Requires code
+
+What to check when automation runs on its own
+
+Before you stop reviewing every run, it is worth checking three things: cost, limits, and quality.
+
+Cost. Supercomputer shows the credit cost before each run. To estimate what a schedule will use in a month, multiply the cost of one run by the number of runs in that month. The credit balance and top-ups are visible inside the chat.
+Limits. Scheduled task slots depend on the plan, so it makes sense to match the schedule to the slots your plan includes.
+Quality. Run the first cycle manually and review the results. Keeping the references and the character in the project means every run starts from the same inputs. Looking through the first week of outputs is a reasonable way to confirm the setup before checking less often.
+HOW TO AUTOMATE AI VIDEO CREATION WITHOUT CODING
+Try Supercomputer

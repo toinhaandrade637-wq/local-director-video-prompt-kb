@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "archived_date": "2026-10-13",
+  "thread_id": "01a11b93-0d5d-72b0-9a10-5b9fa386a1a1",
+  "source_user_record_line": 880,
+  "original_message": {
+    "utf16_length": 9866,
+    "sha256_utf8": "d8186e516981d34731fc88dab539ab50b7f816eadb1faed515c5a25764b0ff44",
+    "path": "资料库/00_完整原始消息/用户新增案例原始消息_2026-10-13_双人对白与表演节拍.txt"
+  },
+  "fidelity": "两条提示词与用户末尾结构分析分别作连续切片，字词、标点、反斜杠和台词原样保留。",
+  "reconstruction_verified": true,
+  "cases": [
+    {
+      "id": "P037",
+      "title": "冬日街边双人对话_抢话与启动失败",
+      "path": "资料库/01_用户提示词原文/P037_冬日街边双人对话_抢话与启动失败.txt",
+      "source_start_utf16": 0,
+      "source_end_utf16_exclusive": 5796,
+      "utf16_length": 5796,
+      "sha256_utf8": "af919512218b82222b58184db48152ebea1c38a8f565ef23b4af1d531f7fdf94",
+      "validation": "新增对白表演研究样本，附用户结构分析；本条生成结果未单独说明。"
+    },
+    {
+      "id": "P038",
+      "title": "后院门廊夫妻争吵_镜内情绪与听者反应",
+      "path": "资料库/01_用户提示词原文/P038_后院门廊夫妻争吵_镜内情绪与听者反应.txt",
+      "source_start_utf16": 5796,
+      "source_end_utf16_exclusive": 9388,
+      "utf16_length": 3592,
+      "sha256_utf8": "6df5764571e93fee0b414e516c6cc7a509e6f54b9d16f0270af17f53af44b821",
+      "validation": "新增对白表演研究样本，附用户结构分析；本条生成结果未单独说明。"
+    }
+  ],
+  "user_analysis": {
+    "sha256_utf8": "859cc18aedc2fa6d516edbf9c345b3b024ff6d710bffd6db4ace7783253dabc0",
+    "source_end_utf16_exclusive": 9866,
+    "source_start_utf16": 9388,
+    "path": "资料库/00_完整原始消息/用户结构补充_2026-10-13_镜内表演节拍与抢话.txt"
+  }
+}

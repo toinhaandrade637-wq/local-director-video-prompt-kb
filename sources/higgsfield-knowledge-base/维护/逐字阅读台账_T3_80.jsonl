@@ -1,0 +1,177 @@
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":1,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":2,"sha8":"9c2b0f6b","len":66,"nTasks":1,"models":"null","read":true,"findings":"logo 右角：add in <<<image_1>>> the logo <<<image_2>>> on the right corner——logo 定位微指令"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":3,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":4,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":5,"sha8":"95f15a94","len":309,"nTasks":1,"models":"null","read":true,"findings":"**舞台航拍+大屏投放**：Create an aerial view of this stage…Use the configuration of the stage lightning and peaples from…**report him on the 2 big screen of stages**——人物上大屏（lightning/peaples/Utra 错拼群）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":6,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":7,"sha8":"9ff23b13","len":129,"nTasks":1,"models":"null","read":true,"findings":"**角色表换装迭代**（×6）：Modify the clothes in the character sheet **(keep face same)**…the clothes and look **inspired from** <<<image_2>>>——保脸换装+灵感来源"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":8,"sha8":"9ff23b13","len":129,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":9,"sha8":"9ff23b13","len":129,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":10,"sha8":"9ff23b13","len":129,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":11,"sha8":"9ff23b13","len":129,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":12,"sha8":"06fe665f","len":145,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":13,"sha8":"06fe665f","len":145,"nTasks":1,"models":"null","read":true,"findings":"sans tatouages——法语无纹身变体"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":14,"sha8":"3e636d02","len":131,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":15,"sha8":"3e636d02","len":131,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":16,"sha8":"f2a3c1aa","len":44,"nTasks":1,"models":"null","read":true,"findings":"Modify the eyes in blue and hairs in blond——瞳发改色"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":17,"sha8":"0be2e4f0","len":126,"nTasks":1,"models":"null","read":true,"findings":"**纹身细节提取表**：identify the detailled **tatouages** of the left arm and create a detailled sheet keep the front face——纹身提取（法语词）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":18,"sha8":"88612770","len":81,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":19,"sha8":"88612770","len":81,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":20,"sha8":"de4aef70","len":474,"nTasks":1,"models":"seedance_2_0_fast","read":true,"findings":"seedance_2_0_fast **十二要素技术头**：single continuous action shot, **one take no cuts, cinematic oner**, cinematic lighting, photorealistic, 35mm film quality, professional color grading, sharp focus, high detail texture, film grain, depth of field mastery, **steadicam fluidity**——oner 一镜术语+roob the bag cf（错拼群 roob/cf/streat/londn/peaples）+insulting them in english"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":21,"sha8":"8fb4f0dd","len":185,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":22,"sha8":"8fb4f0dd","len":185,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":23,"sha8":"970be2e4","len":696,"nTasks":1,"models":"seedance_2_0_fast","read":true,"findings":"**video_1 续接声明**：continue the same running scène in a street of new York **from video <<<video_1>>>**——跨视频续接+bumps into Mary who's jogging——慢跑相遇（呼应 CD 献词）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":24,"sha8":"ecbf6c9a","len":256,"nTasks":1,"models":"null","read":true,"findings":"**dont change anithi!ng（感叹号错拼）**：remove the men with the bag…dont change anithi!ng **just add utra realistic detailled textures**——删人+加质感"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":25,"sha8":"e45629a6","len":299,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":26,"sha8":"78bb8054","len":52,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":27,"sha8":"78bb8054","len":52,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":28,"sha8":"78bb8054","len":52,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":29,"sha8":"a4672b56","len":78,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":30,"sha8":"8bef67ac","len":3335,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"**法语主提示+中文段头首例（非英语母语第七例）**：**场景背景**（中文段头）+La continuité reprend immédiatement après la scène précédente（法语正文）——**中法混搭段头**！+BMW noire mate, Série 4 Competition cabriolet+après des années de séparation 多年分离+**有效参考**（中文段头二）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":31,"sha8":"8c5cc2f8","len":4054,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":32,"sha8":"3ebd8393","len":5701,"nTasks":1,"models":"default","read":true,"findings":"**几乎事故**：son inattention provoque un **presque accident spectaculaire mais sans collision**——几乎事故无碰撞（法语 5,701c）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":33,"sha8":"986a432d","len":822,"nTasks":1,"models":"seedance_2_0","read":true,"findings":"_gift 藏衣：He tooks a gift not opened in the passenger place and **hide it into his jacquet**——藏礼入衣+create a similar action like in <<<video_1>>> 视频动作复刻"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":34,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":35,"sha8":"66e8fa2a","len":180,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":36,"sha8":"589351b2","len":2487,"nTasks":1,"models":"default","read":true,"findings":"**汽车参考表锁**：@Image1 is the car reference sheet: same body, matte black paint, **black kidney grille**, black wheels, **four exhausts** — **locked, nothing altered**, headlights on——肾形格栅/四排气/locked"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":37,"sha8":"0e7fb921","len":352,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":38,"sha8":"660d30e5","len":3280,"nTasks":1,"models":"default","read":true,"findings":"**Multi-shot sequence 声明**：Multi-shot sequence: **exterior tracking shots of the car in motion intercut with interior cockpit views** of the driver——内外切多镜序列"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":39,"sha8":"b553d13f","len":2615,"nTasks":1,"models":"default","read":true,"findings":"**A held editorial goodbye**——编辑部式定格告别（held editorial）+taillights trailing 尾灯拖影"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":40,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":41,"sha8":"941fa00d","len":98,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":42,"sha8":"9c330cd0","len":3980,"nTasks":1,"models":"default","read":true,"findings":"外套护头：covers his head with his vest and runs into the restaurant——护头奔跑"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":43,"sha8":"78189a3d","len":3813,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":44,"sha8":"96ed248f","len":178,"nTasks":1,"models":"null","read":true,"findings":"**法语微指令**：est au volant de la BMW M4 competition.noir mat **attention est doit être capotée**——必须盖顶（法语警示）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":45,"sha8":"96ed248f","len":178,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":46,"sha8":"d7dfd085","len":207,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":47,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":48,"sha8":"6ec00408","len":3411,"nTasks":1,"models":"default","read":true,"findings":"amused, ironic line——愉悦讽刺台词（Mary）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":49,"sha8":"dcd122b5","len":89,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":50,"sha8":"dcd122b5","len":89,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":51,"sha8":"7496d0f7","len":106,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":52,"sha8":"683ed879","len":3745,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":53,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":54,"sha8":"c0d4c171","len":92,"nTasks":1,"models":"null","read":true,"findings":"**年轻化全大写**：modify her **WHEN SHE WAS YOUNGER 18 YEARS**——18 岁版"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":55,"sha8":"bec885d5","len":117,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":56,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":57,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":58,"sha8":"999572f3","len":212,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":59,"sha8":"2149628d","len":5328,"nTasks":1,"models":"default","read":true,"findings":"**无缝记忆转场**：A **seamless memory transition**: the shot continues exactly from the previous one…keeps zooming in while he drifts into a nostalgic memory. **The image dissolves into his mind**——推眼溶入回忆+black sequined dance bodysuit 亮片舞衣"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":60,"sha8":"d5208156","len":431,"nTasks":1,"models":"video_edit","read":true,"findings":"**video_edit 换装+保留增强**：replace the clothes of the men in <<<video_1>>>…**keep or increase the natural face details, skin textures in a professional cinematic 8k**——保留或增强细节+modify the objects presnet on the women table to match——桌面物件匹配"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":61,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":62,"sha8":"f665cf52","len":3878,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":63,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":64,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":65,"sha8":"88612770","len":81,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":66,"sha8":"88612770","len":81,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":67,"sha8":"88612770","len":81,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":68,"sha8":"88612770","len":81,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":69,"sha8":"88612770","len":81,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":70,"sha8":"d4ddd4ce","len":65,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":71,"sha8":"d4ddd4ce","len":65,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":72,"sha8":"d4ddd4ce","len":65,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":73,"sha8":"d4ddd4ce","len":65,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":74,"sha8":"bb19fdd3","len":59,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":75,"sha8":"bb19fdd3","len":59,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":76,"sha8":"bb19fdd3","len":59,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":77,"sha8":"e79efcd7","len":85,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":78,"sha8":"e79efcd7","len":85,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":79,"sha8":"6da40578","len":105,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":80,"sha8":"6da40578","len":105,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":81,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":82,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":83,"sha8":"3c6f82f9","len":1491,"nTasks":1,"models":"null","read":true,"findings":"**后台纪录片 15s**：Documentary backstage moment, **15 seconds**, a continuous fluid take…warms up for her dance audition **in the wings**——翼侧热身+no morphing"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":84,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":85,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":86,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":87,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":88,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":89,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":90,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":91,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":92,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":93,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":94,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":95,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":96,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":97,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":98,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":99,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":100,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":101,"sha8":"bfb41376","len":611,"nTasks":1,"models":"seedance_2_0_fast","read":true,"findings":"**法语法入英文头**：十二要素技术头+**utiliser les visage la femme blonde…et l'homme**——英头法身混搭"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":102,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":103,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":104,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":105,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":106,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":107,"sha8":"cfc3b063","len":76,"nTasks":1,"models":"null","read":true,"findings":"MODIFY THE…WHEN SHE WAS 18 YEARS IN A MODERN JAZZ DANCER SUIT——全大写年轻化+爵士舞衣"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":108,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":109,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":110,"sha8":"76f662f2","len":191,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":111,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":112,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":113,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":114,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":115,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":116,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":117,"sha8":"d213a466","len":141,"nTasks":1,"models":"null","read":true,"findings":"**物件角色表**：creer une **object character sheet multi view** of a Cd on a grey back…No text and adpat the image inside——object character sheet 术语"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":118,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":119,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":120,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":121,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":122,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":123,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":124,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":125,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":126,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":127,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":128,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":129,"sha8":"e39b29b4","len":231,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":130,"sha8":"365e5734","len":89,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":131,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":132,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":133,"sha8":"e056691d","len":137,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":134,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":135,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":136,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":137,"sha8":"735796f4","len":169,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":138,"sha8":"e4efb003","len":215,"nTasks":1,"models":"null","read":true,"findings":"**像素级编辑限定**：keep the faces same same quality & details skin texture..**without modify the unchanged original pixels**——不改未变原始像素"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":139,"sha8":"a53ee63a","len":307,"nTasks":1,"models":"null","read":true,"findings":"16/9 recompose：recompose with the same components but with a more professional disposition…**but in a 16/9 ratio**. use ref to keep the quality if needed——重排+比例转换"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":140,"sha8":"a3efae12","len":259,"nTasks":1,"models":"null","read":true,"findings":"**标题时态改写**：remove the text \"An OLD LOVE STORY\". by \"**IT WAS A LOVE STORY**\"——OLD→WAS 过去式+**no artfact, compression 无伪影压缩否定**"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":141,"sha8":"d6157376","len":133,"nTasks":1,"models":"null","read":true,"findings":"**跨帧服装连续**：add the vest <<<image_1>>> under the jacket **on all frames where it could be visible**——所有可见帧添加"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":142,"sha8":"ed382647","len":498,"nTasks":1,"models":"default","read":true,"findings":"Increase the quality 1080p（画质提升）+a little wet **(because vest is missing)**——因果括注"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":143,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":144,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":145,"sha8":"e39b29b4","len":231,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":146,"sha8":"d662a774","len":234,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":147,"sha8":"3f04163e","len":63,"nTasks":1,"models":"null","read":true,"findings":"au format 1/1 **sans perdre d'informations**——法语无信息损失比例转换"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":148,"sha8":"3f04163e","len":63,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":149,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":150,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":151,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":152,"sha8":"05ad2f00","len":2642,"nTasks":1,"models":"default","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":153,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":154,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":155,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":156,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":157,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":158,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":159,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":160,"sha8":"88612770","len":81,"nTasks":1,"models":"null","read":true,"findings":"同文重生成/微指令（见组首行）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":161,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":162,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":163,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":164,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":165,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":166,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":167,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":168,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":169,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":170,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":171,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":172,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":173,"sha8":"d33aedf5","len":160,"nTasks":1,"models":"null","read":true,"findings":"**CD 背面金字献词**：makes the Back face similar but **written in gold. \"This song is dedicated to the Mary that the destiny makes me hurt during her jogging\" signed. Mickel**——献词呼应相遇剧情"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":174,"sha8":"23f0ba18","len":172,"nTasks":1,"models":"null","read":true,"findings":"**放大补偿指令**：Remove only the band of plastic on the left side keep the rifght one. and **enlarge the picture to compensate**——删物补偿构图"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":175,"sha8":"4a124773","len":200,"nTasks":1,"models":"elevenlabs","read":true,"findings":"**elevenlabs TTS 模型首例（参赛宣言语音）**：My name is Mickael Bridewood. Today, i present my first musical Film to the **Higgsfield Global film festival 2026**. I invite you to see it **et give a like**（法语 et 混入）——TTS 语音生成"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":176,"sha8":"3f0baaa7","len":1518,"nTasks":1,"models":"null","read":true,"findings":"**CV 模板四项目复用**：与 #59/#63/#72 完全同文 1,518c"}
+{"project":"MARY_MICKAEL_BRIDEWOOD_AI_FILM_FESTIVAL_2026","idx":177,"sha8":"","len":0,"nTasks":1,"models":"null","read":true,"findings":"空 prompt（无提示词素材）"}

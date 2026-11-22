@@ -1,0 +1,280 @@
+【项目】HOW I MASTERED GENJUTSU IN A WEEK（@alpius · 创作者博客）
+【链接】https://higgsfield.ai/@alpius/blogs/how-i-mastered-genjutsu-in-a-week
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+HOW I MASTERED GENJUTSU IN A WEEK
+@alpius
+57
+7
+0
+
+Genjutsu went live on Higgsfield on September 1. It takes one video and rebuilds what it shows while keeping what it does: the same camera, the same cuts, the same movement, with a different person, place or object.
+
+I gave myself one week to learn it properly. 18 source clips, more than 30 runs, every result logged and measured where I could. Some of those runs became my favourite videos of the month. Some I threw away after the second try. By the end of the week I could look at a clip and a prompt and tell you what Genjutsu would do before I spent a credit. That is what I mean by mastered.
+
+This is how the week went: what Genjutsu is, every failure and what it taught me, the rules that held up, the workflow I use now, copy-paste prompts, and a free Claude skill that does the planning for you.
+
+Same camera, same cuts, every hip pop and hand heart. A dancer in her bedroom becomes a sumo wrestler in an empty ring. One run.
+
+The short version
+Start with a source where the subject never stops moving. A still subject comes back as a mannequin.
+Use Motion Transfer to recast a person or move them somewhere new. Use Object Swap to change one thing.
+Name every move you want kept and every object you want gone. What you don't name, stays.
+Give it two tries. If it still fails, change the mode or the source, not the wording.
+What Genjutsu is
+
+You upload a clip of 4 to 30 seconds. Genjutsu treats it as a performance. It keeps the performance and recasts everything around it.
+
+It keeps: the camera, the cuts and the timing. Every movement of the subject. The lip sync and the audio. The shapes the subject moves across.
+
+It changes: the person or creature, and their face. The clothes. The place and the light. The style, or one single object.
+
+There are two modes. Motion Transfer rebuilds the scene around the same performance. Object Swap changes one thing and leaves everything else alone.
+
+A few things I measured on my own files:
+
+The audio is copied bit for bit. I compared the waveforms of two pairs and they matched exactly. Bake your dialogue and sound into the source. Genjutsu never re-voices anything.
+Your edit carries over. On 13 pairs, every cut in the output landed within 2 frames of the cut in the source. Even a 2.5 second shot survived. You can stack the original and the result and they stay in sync.
+Very short clips get stretched a little. 4.5 seconds in, 5.04 seconds out.
+At 1080p the output matched my source's resolution and frame rate.
+The week
+
+Day 1. Two clips: a caveman throwing a stone through five eras of history, and a woman turning on a rooftop. The rooftop worked. The stone took about ten runs and taught me half of this post. A toy soldier clip failed outright.
+
+Day 2. Eight clips in one day: a barista, a boxer, an anime chase, a sneaker on a plinth, a drink ad, a husky, a street dancer, a drifting car. Most worked. The ones that didn't were the useful ones.
+
+Day 3. Harder tests on purpose: a rap cypher, an influencer walking down the airstairs of a private jet, a skater, a runway walk, a bachata couple. This is where I found the hard limits.
+
+Day 4. I wrote down every rule with the runs behind it, then planned new clips from the rules alone. The dancer to sumo wrestler at the top was one of them. One run.
+
+The rest of the week went into re-rolls, longer clips, and turning my notes into a Claude skill.
+
+Every original in this post is a Seedance 2.5 render I made for the test. Every Genjutsu still is straight output, nothing fixed in an editor.
+
+What broke, and what each failure taught me
+1. Toy soldiers: the subject has to move
+
+My first idea was toy soldiers on a desk becoming a real battlefield. The toys barely move in the source, so Genjutsu had nothing to transfer. The recast soldiers came back stiff, like mannequins, and the hand pushing the toy tank turned into a mule at the wrong scale.
+
+What it taught me: Genjutsu transfers motion. No motion in, no life out. Pick sources where the subject walks, turns, dances or gestures every second.
+
+2. The stone through five eras: count seconds, not cuts
+
+Five shots of a stone thrown in slow motion, and I wanted each shot to be a later century. In run 1 I wrote things like "from the second cut". Shot 2 kept the stone, shot 3 came back empty, and one era landed a shot late. Worse, a "red-and-white armband" I had written for a soldier rendered as a hate symbol.
+
+Run 2 changed three things. Every shot got its own timestamps and a description of its framing: "Shot 3, 7.7 s to 11.5 s, the extreme close-up of the object filling the frame". Every shot opened with the object change: "the object is no longer a round stone, it is...". And I banned flags, patches, badges, armbands and insignia of any kind. All four eras landed on the right shots.
+
+Run 2, shot 4. The stone becomes a grenade on the stone's exact path, and the caveman becomes a soldier pulling the same face.
+
+Shot 5. Same throw, same profile, a plasma grenade on an orbital station.
+
+What it taught me: never count cuts. Give each shot its times and say what the frame looks like. Put the change you care about first in each shot. In any uniformed era, ban insignia by name.
+
+3. The axe that wouldn't cartwheel: Object Swap copies the pose
+
+For the Iron Age shot I wanted a flint axe cartwheeling through the air. I ran Object Swap five times with five different axe images: three quarter, upright, horizontal, and two multi-view sheets. Every time, the axe took the angle of my image and rolled around its own handle. It never cartwheeled once.
+
+One of the five runs, frame by frame. The axe holds the angle of the image and rolls along the stone's path.
+
+What it taught me: Object Swap keeps the source's motion and copies your image's pose. It won't add a spin the source doesn't already have. Make your object image at the same angle as the object in your clip.
+
+4. Latte art that turned into a picture: liquids need verbs
+
+A barista pouring latte art becomes an alchemist pouring a potion. Run 1 gave me a glowing symbol sitting flat on the surface, like a sticker. In run 2 I described the liquid moving: it "pours, sinks under, rises and spreads layer by layer, still faintly moving". It moved.
+
+What it taught me: a noun gives you a still picture. Liquids and cloth need motion words.
+
+5. The light stand in the cathedral: what you don't name, stays
+
+A street dancer in an empty car park became a knight in a candlelit cathedral. The knight was perfect. But the work light on a stand behind him was still there, glowing in the middle of the cathedral, because I never mentioned it.
+
+The knight is right. The light stand from the car park is still standing.
+
+The rap cypher did the same. A parked car survived run 1. In run 2 I wrote "there is no car; where the car stood there is a long oak table", and it was gone. A lamp post I never mentioned stayed.
+
+The car is gone because it was named. The lamp post wasn't, so it is still standing in the hall.
+
+What it taught me: go through your source and list every practical: lamps, cars, lights, furniture. Name each one and say what takes its place.
+
+6. Jet to bus: the movement keeps its ground
+
+An influencer walks down the airstairs of a private jet. I wanted her stepping off a city bus instead. Object Swap only repainted the jet. Motion Transfer with a frame grab of her kept her face, hair and coat perfectly and built a convincing rainy street. But she still walked down six airplane steps, in two different prompts.
+
+Her face, hair and coat held from one frame of the original. The six steps held too.
+
+The skater on the Moon had the same thing in a way that worked. The lunar ground came back with the skatepark's ledges.
+
+What it taught me: the movement is fixed, and so is the ground it touches. Steps stay steps, ramps stay ramps. Pick a new world that can host the same path. And in my tests a big moving vehicle only got a new paint job in Object Swap.
+
+7. The runway: faces come from your images
+
+A model on a runway, moved into a supermarket aisle. My outfit image had a model's face on it, so Genjutsu gave her that face. I switched to the outfit on an invisible mannequin, no head and no skin, and her face stayed. Then the venue: the shoppers in the background came back as statues, even after I wrote "alive and moving". I dropped the clip.
+
+What it taught me: a face on any image recasts the face. To keep a person, use a sharp frame from your own clip. For outfits, use an invisible mannequin image. Keep crowds away from the camera, or use an empty space.
+
+8. Bachata underwater: change what's in the frame
+
+A couple dancing bachata in a ballroom, moved underwater. It worked, technically. Same couple, a new background, hair and fabric floating. It just didn't look different enough to be worth watching.
+
+What it taught me: the change has to be something you can see at a glance: a new person, a new world, a new era. Physics alone reads as a filter.
+
+What worked
+
+Object Swap. A sneaker on a plinth becomes a live lobster. Same orbit, same flares, same dolly zoom.
+
+Motion Transfer. A man's ad read becomes an alien's. The dialogue and lip sync held through both cuts.
+
+Same turn, same walk to the lens. New person, new armour, new place, new light.
+
+The run and the leap carried. One creature image per shot.
+
+The character image shows the panda already standing upright in gloves.
+
+Anime to live action, first try. The run, the leap and the grin all carried.
+
+The rules that held up
+The movement is fixed, and so is the ground it touches.
+Only what you name changes.
+Named moves survive. Unnamed moves drift.
+A frame from your clip keeps the person. A character image recasts them.
+Tie per-shot changes to timestamps and framing, never to "the second cut".
+Lead each shot with the change that matters most.
+Object Swap copies your image's pose and the source's motion. It doesn't invent rotation.
+The sound is final.
+Two tries, then change the plan. Every run that worked, worked within two rounds. Every third attempt I made, I ended up abandoning.
+My workflow, step by step
+Step 1: Make a source Genjutsu can transform
+
+Half the result is decided before Genjutsu sees anything. All my sources were Seedance 2.5 renders, and this is what I build into them now:
+
+4 to 30 seconds. Under 4 the upload refuses. A clip that reads 30 seconds can come out at 30.0-something and error, so trim it in the upload dialog.
+Movement all the time.
+3 to 5 hard cuts, each shot at least 4 seconds if you might need to fix it on its own later.
+Final sound. Dialogue, music and effects go into the source.
+Nothing you will need to reshape, and crowds away from the camera.
+
+Write down your cut times. Read them off the video, not your plan.
+
+Step 2: Pick the mode
+Step 3: Make your reference images
+
+Each image has one job. I made mine on Nano Banana Pro.
+
+Character: full body, standing straight, arms a little away from the body, on flat mid grey, with even shadowless light.
+Location: the new set, wide and empty, in the light you want and the same aspect ratio as your clip.
+Frame from your clip: one sharp frame of the person, to keep them as they are.
+Object: the new object alone on flat grey, at the same angle as the object in your clip.
+Outfit: the outfit on an invisible mannequin. No head, no skin, flat grey.
+
+In the prompt they are tagged in the order you attach them: @Image 1, @Image 2 and so on. Four images in one prompt worked fine.
+
+This is the character image prompt I use. Fill in the brackets:
+
+[Who: age, build, skin, hair, face]. The figure stands squared to camera in an even neutral stance, weight settled on both feet, arms relaxed and held slightly away from the body so the full silhouette reads clear, hands open at the sides. Head level, eyes to camera. [What they wear]. The background is an even 18% neutral grey seamless, one single flat value corner to corner, no gradient, no vignette. Completely flat shadowless light: one enormous soft frontal source with matched fill from both sides, above and below, no shadow on the background, no rim light. Real skin and real fabric texture, never plastic, never a glossy AI render. 50mm prime, even sharpness, soft natural film grain. Full body from the top of the head to just below the feet.
+Step 4: Write the prompt
+
+Use the templates in the next section. On top of naming every move and every replacement:
+
+Point at the image, don't re-describe it. The image carries the look. The prompt says where it goes and what it does.
+Describe the look as a print, not a genre. "1980s hand-painted cel, 35 mm print, soft grain" beat "anime style" by a mile.
+Always end with "no on-screen text". If your prompt quotes any words, write "no subtitles, no on-screen text anywhere in the clip".
+Words to avoid: "frozen" gives you statues. "Cart" can read as "car", so write "supermarket trolley". "Security guard" and "staff" summoned police.
+Step 5: Run it, check it, fix it
+
+Check before you post:
+
+Do the cuts land on the source's cuts?
+Is anything from the original still standing?
+Did the face drift on the close-up?
+Is the background crowd moving?
+The audio is the source track. Is that what belongs under the new scene?
+
+When something is wrong, go down this ladder and change one thing at a time:
+
+Re-roll once with the same prompt. Seed luck fixed a wrong era for me twice.
+Name the survivor and its replacement.
+Move the failed change to the top of its shot.
+Switch mode.
+Use a frame grab for a drifting face.
+Stop. Some shapes cannot be changed.
+
+A 14 second Motion Transfer run at 1080p cost me about 154 credits. That is why the two tries rule matters.
+
+Step 6: Stack it
+
+For a before and after, put the original on top and the Genjutsu result below. Use your raw original, not a re-edited version, and the cuts line up frame for frame.
+
+Copy-paste prompts
+Recast (Motion Transfer)
+
+@Image 1 is the character, @Image 2 is the location.
+
+Keep [the camera, the cuts, the timing and every movement: list the moves]; recast [the subject] as [the new character] from @Image 1 [doing the same moves] in [the new place] from @Image 2. [What replaces each thing in the original: "the street lamp becomes...", "where the parked car stood there is..."]. [The light]. Photoreal, cinematic, film grain, no on-screen text.
+Swap one thing (Object Swap)
+
+@Image 1 is the new object.
+
+Replace [the original object] with [the new object] from @Image 1, [its size compared with the original], [where it sits, or the path it follows] exactly as the original did, [one or two things the new object does]. Everything else stays exactly identical to the original video: [name them: the set, the light, the camera and its motion, every cut].
+
+To keep the person in a wardrobe swap, add: "She herself does not change in any way: the same face, skin, hair, body, height, expression, gaze, walk."
+
+A different world on every cut (Motion Transfer)
+
+Take the times from your cut list.
+
+Keep the camera movement, the framing, the timing, every hard cut, [the subject]'s exact positions and movements and [the object]'s exact path in every shot; rebuild the world and the costumes so that each shot is [a different era / a different place], [the same person carried through every shot].
+Shot 1, [0] s to [3.9] s, [what the frame looks like: "the wide two-shot of the throw"]: [first the object change, "the object is no longer a X, it is the Y from @Image 1"]; [then the person]; [then the world]; [then the light].
+Shot 2, [3.9] s to [7.7] s, [framing]: [object]; [person]; [world]; [light].
+[One block per shot.]
+[The same face in every shot.] No flags, no emblems, no armbands, no insignia in any shot. Photoreal, cinematic anamorphic, film grain, no on-screen text.
+The exact prompt behind the sumo video
+
+12 seconds, @Image 1 = sumo wrestler, @Image 2 = empty sumo ring.
+
+Keep the camera, all three hard cuts, the jump cut, the timing and every movement of the dancer's body — the two hip pops, the hand heart pushed to the lens, the shoulder shimmy, the fist pumps, the wink, the half turn, the hair flip, the finger-point routine, the crouch with hands under the chin, the full spin, the big heart over the head, the head tilts, the blown kiss and the peace sign — exactly; recast the dancer as the sumo wrestler from @Image 1 performing the identical routine in the centre of the empty sumo ring from @Image 2 at night, his face doing the same wink, the same smile, the same blown kiss and the same peace sign with the same cute energy, his topknot flicking where her pigtails flew. The pastel bedroom becomes the ring: the pink LED strip becomes a row of paper lanterns, the ring light becomes a single hanging lantern at the left, the bed of plush toys becomes a wooden basket of salt and a folded blue banner, the fairy lights become small lanterns on the hanging roof, the mirror becomes the ring's straw-bale edge. Nobody else is present — no audience, no referee, no crowd. Warm lantern light, deep shadows beyond the ring. Photoreal, cinematic, film grain, no on-screen text.
+
+Every move is named, so every move carried. Everything in the bedroom has a replacement, so nothing from the bedroom is left in the ring.
+
+The exact prompt behind the lobster video
+
+16 seconds, @Image 1 = a live lobster on flat grey, at the sneaker's angle.
+
+Replace the sneaker with the live lobster from @Image 1, the same overall size as the sneaker, sitting on the plinth in exactly the sneaker's place and orientation — its head where the toe is, its tail where the heel is — in every shot. It is alive: its antennae sweep slowly, its claws lift and open once in the orbit shot, its legs shift, its tail flexes once in the top-down shot, and in the final dolly-zoom it raises both claws toward the lens; otherwise it holds its place on the plinth. The lobster's glossy red shell catches the key light and the rim flare exactly as the sneaker's red knit did. Everything else stays exactly identical to the original video — the plinth, the black cove, the floor reflection, the haze, the lights and flares, the camera and its motion, every cut.
+Get the skill
+
+I packed everything from this week into a free Claude skill, Alchemist V1. It started from @madmax6xx's genjutsu-share skill on Discord, so thanks for the head start. Every rule in it is tagged with how sure I am: measured or seen at least twice, seen once, Higgsfield's own claim, or untested. Describe your clip and what should change, and it:
+
+picks the mode and tells you why,
+tells you which images to make and how,
+writes the prompt, ready to paste into Genjutsu,
+warns you what is most likely to go wrong on this clip before you spend credits,
+and when a run comes back wrong, finds the rule that broke and changes one thing.
+
+The skill and the one-page guide:
+
+alchemist-v1.zip
+ZIP
+Alchemist-V1-Genjutsu-Skill-Guide.pdf
+PDF
+
+Install
+
+In Claude Code, unzip the folder into ~/.claude/skills/. In the Claude app, upload the zip under Skills in Settings.
+Start a chat and describe your clip.
+
+What to ask it
+
+"Recast the dancer in this clip as a sumo wrestler in an empty ring at night. Keep every move."
+"Keep her exactly as she is and put her at a rainy bus stop. Which frame should I use?"
+"Swap the sneaker on the plinth for a live lobster. What angle should the image be?"
+"The light stand from the original is still in the cathedral. What do I change?"
+"Is this a good Genjutsu source? 12 seconds, three cuts, a dancer, locked camera."
+
+Every clip, reference image and prompt from this post is in my open project, sorted into folders by clip: Genjutsu Launch Week.
+
+Questions, or results from your own runs? Find me in the Higgsfield Discord.
+
+Alpius

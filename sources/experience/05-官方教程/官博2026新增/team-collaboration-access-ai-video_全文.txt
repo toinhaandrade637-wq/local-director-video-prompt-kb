@@ -1,0 +1,277 @@
+【项目】Managing Team Collaboration and Access in AI Video Platforms（官方博客 · 2026-10 新增批次）
+【链接】https://higgsfield.ai/zh/blog/team-collaboration-access-ai-video
+【提示词块】0
+【捕获】2026-10-30（浏览器全文抓取·补全批次）
+
+──────────────────────────────────────
+
+Managing Team Collaboration and Access in AI Video Platforms
+Higgsfield
+Oct 9, 2026
+8 min
+
+In Higgsfield, one Owner manages the workspace and billing. Each person you invite needs a paid team seat, but they do not need a separate personal subscription. Everyone generates from the workspace’s shared credit pool, while access and spending controls depend on their role and plan.
+
+Set Up Your Team: Roles and Permissions
+
+Higgsfield is an AI-native creative suite with 35+ models and tools, and its team plans, Team, Scale, and Enterprise, sit in the Business plans category. Members work in one shared workspace and draw on a single pool of credits across models. The Owner pays for the seats, so no member needs a personal subscription.
+
+A workspace has three roles:
+
+Set Up Your Team: Roles and Permissions
+
+Role
+
+	
+
+Main access
+
+	
+
+Team management
+
+
+
+
+Owner
+
+	
+
+Creates content, uses shared credits, and manages workspace settings and billing
+
+	
+
+Full control
+
+
+
+
+Member
+
+	
+
+Creates content and uses shared workspace resources
+
+	
+
+Cannot manage members, seats, or billing
+
+
+
+
+Admin
+
+	
+
+Creates content and receives specific management permissions from the Owner
+
+	
+
+Depends on permissions granted
+
+Depending on the plan, the Owner can enable the following permissions for the Admin role:
+
+Manage members and paid seats
+Pause a member's credit spending
+Manage member groups
+Top up credits and set up automatic top-up
+View and export usage analytics
+View member assets
+
+Admin access is permission-based. The Owner can grant specific Admin permissions, such as managing members and seats, pausing credit usage, managing groups, accessing analytics, or viewing member assets, depending on the plan.
+
+Invite Members and Manage Their Access
+
+Team and Scale
+
+Profile picture → Manage Account → Members → Invites&Seats → Invite members
+
+Team supports 2 to 9 seats and Scale supports 5 to 15. Going past the limit means upgrading to a higher plan.
+
+Enterprise
+
+Profile picture → Manage Account → Members → Invites&Seats → Invite members
+
+When someone leaves: remove them from the workspace so they lose access. Shared workspace assets remain, but removing the person does not automatically reduce the number of paid seats. Reducing seats is a separate billing action handled through Support for the next billing cycle.
+
+Keep Team Assets in One Shared Library
+
+Shared workspace assets are the materials the team collaborates on and reuses together, including shared folders, Soul ID characters, and Reference Elements. On Enterprise, the separate Member assets view lets authorized Owners and Admins review generations by individual member across the organization.
+
+Track and Control Team Credit Spending
+
+Everyone generates from the same pooled credit balance. On Team, members can draw from that shared pool without per-member spend controls. Scale adds the ability to pause an individual member’s credit usage, while Enterprise adds more granular controls such as per-user limits, groups, and usage reports.
+
+The controls differ by plan, so check which one you have before relying on a feature:
+
+Track and Control Team Credit Spending
+
+Plan
+
+	
+
+Analytics
+
+	
+
+Admin Spend Control
+
+
+
+
+Team
+
+	
+
+Basic analytics
+
+	
+
+Not included
+
+
+
+
+Scale
+
+	
+
+Detailed analytics
+
+	
+
+Included, including pausing a member's credit use
+
+
+
+
+Enterprise
+
+	
+
+Detailed analytics and usage reports
+
+	
+
+Included, with usage limits
+
+Review member usage regularly. On Scale and Enterprise, you can pause a member’s credit spending when needed. Auto-Refill is optional: enable it if you want the balance replenished automatically, with additional charges.
+
+Compare Team Plans and Pricing
+
+Cost depends on the plan and the number of seats. Every seat is priced the same within a plan, and every seat adds the same number of credits to the shared pool. Five Team seats cost $395 a month and add 5,000 credits. Five Scale seats cost $1,075 a month and add 12,500 credits. Enterprise is priced individually.
+
+Compare Team Plans and Pricing
+
+Plan
+
+	
+
+Price
+
+	
+
+Included Seats
+
+	
+
+Additional Seat Cost
+
+	
+
+Shared Credits
+
+	
+
+Sub-Workspaces
+
+
+
+
+Team
+
+	
+
+$79 per seat per month
+
+	
+
+2 to 9
+
+	
+
+$79 per seat
+
+	
+
+1,000 per seat per month, pooled
+
+	
+
+No, one shared workspace
+
+
+
+
+Scale
+
+	
+
+$215 per seat per month
+
+	
+
+5 to 15
+
+	
+
+$215 per seat
+
+	
+
+2,500 per seat per month, pooled
+
+	
+
+No, one shared workspace
+
+
+
+
+Enterprise
+
+	
+
+Custom
+
+	
+
+15 or more
+
+	
+
+Custom
+
+	
+
+Custom volume
+
+	
+
+Yes
+
+Pricing checked on October 8, 2026.
+
+Know When You Need Sub-Workspaces
+
+For most 2–5 person teams working from the same projects and credit budget, one Team or Scale workspace is enough. Sub-workspaces become useful when separate clients, departments, or business lines need their own members, assets, or credit allocations.
+
+One workspace is enough when a single team works with shared materials and one budget.
+Sub-workspaces help when separate teams or business lines each need their own credit allocation.
+
+To create one, go to Manage Account, then Sub-workspaces, then Add. You enter a name, the number of credits, the allocation period, and the email of the sub-workspace owner, who must already have a Higgsfield account. Credits can be allocated once, daily, weekly, or monthly. A sub-workspace is either Active or Paused, and you don't buy credits for it separately, since they come from the shared pool.
+
+Enterprise also offers custom terms for credits, seats, and concurrent tasks, custom workflows and integrations, SSO, audit logs, and SLA support. Pricing and terms are arranged through Contact sales on the Enterprise card.
+
+MANAGING TEAM COLLABORATION AND ACCESS IN AI VIDEO PLATFORMS
+Explore Team Plans

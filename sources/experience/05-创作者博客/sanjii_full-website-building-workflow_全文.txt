@@ -1,0 +1,141 @@
+【项目】FULL WEBSITE BUILDING WORKFLOW（@sanjii · 创作者博客）
+【链接】https://higgsfield.ai/@sanjii/blogs/full-website-building-workflow
+【提示词块】2
+【捕获】2026-10-30（浏览器全文抓取·创作者博客批量）
+
+──────────────────────────────────────
+
+FULL WEBSITE BUILDING WORKFLOW
+S
+@sanjii
+115
+1
+0
+
+SEO description: We gave the exact same website-building prompt to Grok 4.6, Claude Fable 5 and GPT-5.6 Sol and let each agent ship a site on its own. See all three results, why Fable 5 + Higgsfield MCP won, and copy the universal prompt that builds a full website for any product or niche.
+
+
+
+
+Title (separate editor field): Grok 4.6 vs Claude Fable 5 vs GPT-5.6 Sol — One Prompt, Three AI-Built Websites
+
+A year ago, asking an AI to "build a website" got you a static landing page with stock gradients. Today, agentic models plan the site, write the copy, generate the visuals, and deploy it live — in one conversation.
+
+
+
+
+The gap became obvious when we saw a city simulation built by Grok 4.6. The city actually feels alive: fires break out, events unfold in real time, the whole environment keeps changing on its own. Then we dug up what the exact same prompt produced back in November 2025 — and the difference was so brutal it turned into an idea: run a clean benchmark on the latest agentic models and see how far they've actually come.
+
+
+
+
+The setup is simple. Three models — Grok 4.6, Claude Fable 5, and GPT-5.6 Sol. One identical prompt. One task: build a website for a chocolate bar. No retries, no model-specific tweaks. Whatever each agent shipped on the first pass is what you see below.
+
+
+
+
+Spoiler: there was a clear winner — Claude Fable 5 paired with the Higgsfield MCP. The full prompt is at the bottom, generalized so it works for pretty much any type of website.
+
+Stage 1 — Where the Idea Came From
+The Living City
+
+What it does: Grok 4.6's city simulation next to what the same prompt produced in November 2025. The old version is a static toy; the new one runs events, fires, and traffic in real time. Ten months, same prompt, different universe — that's the pace we're benchmarking.
+
+Stage 2 — The Test
+
+Every model got this exact request as a natural-language agent prompt. It deliberately doesn't specify a framework, a layout, or a color palette — the whole point is to see what each agent decides on its own.
+
+The Chocolate Bar Prompt
+
+Build and deploy a complete website for a premium chocolate bar brand called "Noir 72".
+
+
+
+
+You decide everything: brand voice, layout, typography, color system, imagery.
+
+The site must include:
+
+- A hero section that makes the product feel expensive
+
+- A story/craft section about how the chocolate is made
+
+- A product lineup with at least 3 bar flavors, each with its own visual
+
+- Real written copy throughout — no lorem ipsum, no placeholder text
+
+- A working buy/pre-order call to action
+
+- Full mobile layout
+
+
+
+
+Generate all product and lifestyle imagery yourself. Ship it live and send me
+
+the URL when it's done. Do not ask me clarifying questions — make every call
+
+yourself like a senior designer would.
+
+See all
+Copy prompt
+Recreate
+Stage 3 — The Results
+Grok 4.6
+
+What it does: Grok's build, untouched. Fast and functional — it shipped a working site quickly and made bold visual choices, but the copy runs generic and the product section feels templated. Strong skeleton, thin skin.
+
+Claude Fable 5 + Higgsfield MCP
+
+What it does: The winner. Fable 5 ran the same prompt through the Higgsfield MCP, which meant it didn't just write the site — it generated real product photography and brand visuals for it. The result reads like an actual brand: consistent art direction, copy with a voice, imagery that matches the typography. It's the only build of the three you could ship to a client without opening the code.
+
+GPT-5.6 Sol
+
+What it does: Sol's build. The most polished writing of the three and clean, restrained design — but it played it safe. Where Fable committed to an aesthetic, Sol hedged, and the site ends up tasteful but forgettable.
+
+Stage 4 — The Universal Website Prompt
+
+The chocolate bar was just the test case. Here's the generalized version of the same prompt — swap the two bracketed lines and it works for a SaaS product, a restaurant, a portfolio, a course, anything. It wins for the same reason it worked in the benchmark: it hands the agent full creative authority, demands real copy and real imagery, and bans clarifying questions, so the model performs at its ceiling instead of waiting for you.
+
+Build Any Website
+
+Build and deploy a complete website for [YOUR PRODUCT / BRAND / PROJECT].
+
+Audience and goal: [WHO IT'S FOR AND WHAT THE SITE SHOULD MAKE THEM DO].
+
+
+
+
+You decide everything: brand voice, layout, typography, color system, imagery.
+
+The site must include:
+
+- A hero section that instantly communicates what this is and why it matters
+
+- A section that tells the story or explains how it works
+
+- A showcase of the core offering (products, features, work, or menu) with
+
+  a distinct visual for each item
+
+- Real written copy throughout — no lorem ipsum, no placeholder text
+
+- One clear primary call to action, repeated where it makes sense
+
+- Full mobile layout
+
+
+
+
+Generate all imagery yourself so the visuals match the brand you invent.
+
+Ship it live and send me the URL when it's done. Do not ask me clarifying
+
+questions — make every call yourself like a senior designer would.
+
+See all
+Copy prompt
+Recreate
+Ready To Make Your Own?
+
+Same prompt, three agents, one clear winner. Copy the universal prompt, drop in your product, and see what today's models ship on the first try — then come tell us which agent you think won.
