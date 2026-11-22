@@ -31,6 +31,10 @@ def rel_targets(md: Path, text: str):
         t = t.split("#", 1)[0]
         if not t:
             continue
+        # Windows 绝对路径不是仓库内链接；在 Linux 上会被误当成相对路径
+        if re.match(r"^[A-Za-z]:[\\/]", t):
+            warn(f"指向本机路径（未入库）：{md.relative_to(ROOT)} -> {t[:48]}")
+            continue
         yield (md.parent / t).resolve()
 
 
