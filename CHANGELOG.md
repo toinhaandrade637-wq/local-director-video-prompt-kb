@@ -4,8 +4,7 @@
 
 **迁移**
 
-- 公开仓库从 `YIJUEYIJUE` 迁到 `toinhaandrade637-wq/local-director-video-prompt-kb`。
-- 旧仓保留只读，避免两处同时维护；内容以本仓为准。
+- 公开仓库从 `YIJUEYIJUE` 迁到 `toinhaandrade637-wq/local-director-video-prompt-kb`，旧仓已删除，只保留这一个公开仓。
 
 **新增导航**
 
